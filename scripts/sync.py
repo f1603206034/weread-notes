@@ -473,14 +473,14 @@ def sync_full(client: WeReadClient, resume: bool = False, force: bool = True):
             book_data = fetch_book_data(client, book_id)
             save_book_data(book_data, title, category)
 
-            # 更新索引
+            # 更新索引（使用相对路径，便于跨环境使用）
             now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            book_dir = get_book_file_path(book_id, title, category)
+            relative_path = book_dir.relative_to(PROJECT_ROOT) / f"{book_id}.json"
             index["books"][book_id] = {
                 "title": title,
                 "category": extract_category(category),
-                "path": str(
-                    get_book_file_path(book_id, title, category) / f"{book_id}.json"
-                ),
+                "path": str(relative_path),
                 "sort": nb.get("sort", 0),
                 "noteCount": nb.get("noteCount", 0),
                 "reviewCount": nb.get("reviewCount", 0),
@@ -572,14 +572,14 @@ def sync_incremental(client: WeReadClient):
                 else:
                     notion_fail += 1
 
-            # 5. 更新 index.json
+            # 5. 更新 index.json（使用相对路径）
             now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            book_dir = get_book_file_path(book_id, title, category)
+            relative_path = book_dir.relative_to(PROJECT_ROOT) / f"{book_id}.json"
             index["books"][book_id] = {
                 "title": title,
                 "category": extract_category(category),
-                "path": str(
-                    get_book_file_path(book_id, title, category) / f"{book_id}.json"
-                ),
+                "path": str(relative_path),
                 "sort": nb.get("sort", 0),
                 "noteCount": nb.get("noteCount", 0),
                 "reviewCount": nb.get("reviewCount", 0),
@@ -642,12 +642,13 @@ def sync_full_compare(client: WeReadClient):
 
             # 如果本地数据存在且同步时间相同，跳过
             remote_last_sync = book_data["meta"]["lastSync"]
+            relative_path = json_path.relative_to(PROJECT_ROOT)
             if local_data and local_last_sync == remote_last_sync:
                 # 仅更新索引中的 sort 和数量
                 index["books"][book_id] = {
                     "title": title,
                     "category": extract_category(category),
-                    "path": str(json_path),
+                    "path": str(relative_path),
                     "sort": nb.get("sort", 0),
                     "noteCount": nb.get("noteCount", 0),
                     "reviewCount": nb.get("reviewCount", 0),
@@ -662,7 +663,7 @@ def sync_full_compare(client: WeReadClient):
             index["books"][book_id] = {
                 "title": title,
                 "category": extract_category(category),
-                "path": str(json_path),
+                "path": str(relative_path),
                 "sort": nb.get("sort", 0),
                 "noteCount": nb.get("noteCount", 0),
                 "reviewCount": nb.get("reviewCount", 0),

@@ -174,10 +174,10 @@ def push_single_book(client: NotionClient, book_data: dict, json_path: Path) -> 
                         if block_id:
                             try:
                                 client._request("DELETE", f"/blocks/{block_id}")
-                            except Exception:
-                                pass
-                except Exception:
-                    pass
+                            except Exception as e:
+                                logger.debug("删除 block %s 失败: %s", block_id, e)
+                except Exception as e:
+                    logger.debug("获取页面 blocks 失败: %s", e)
 
                 # 添加新 blocks（分批）
                 for i in range(0, len(children), 100):

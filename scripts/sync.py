@@ -24,7 +24,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from api import WeReadClient, UpgradeRequiredError
-from config import load_env, load_config, get_data_dir, get_index_path
+from config import load_env, load_config, get_data_dir, get_index_path, validate_required_env
 from utils import (
     atomic_write_json,
     atomic_write_text,
@@ -740,6 +740,13 @@ def main():
     if args.mode == "rebuild":
         rebuild_markdown()
         return
+
+    # 验证必需的环境变量
+    missing_env = validate_required_env()
+    if missing_env:
+        logger.error("缺少必需的环境变量: %s", ", ".join(missing_env))
+        logger.error("请设置以下环境变量：WEREAD_API_KEY, NOTION_API_KEY, NOTION_DATABASE_ID")
+        sys.exit(1)
 
     try:
         client = WeReadClient()

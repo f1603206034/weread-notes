@@ -37,13 +37,8 @@ jobs:
           echo "Error: WEREAD_API_KEY is not set"
           exit 1
         fi
-        if [ -z "${{ secrets.NOTION_API_KEY }}" ]; then
-          echo "Error: NOTION_API_KEY is not set"
-          exit 1
-        fi
-        if [ -z "${{ secrets.NOTION_DATABASE_ID }}" ]; then
-          echo "Error: NOTION_DATABASE_ID is not set"
-          exit 1
+        if [ -z "${{ secrets.NOTION_API_KEY }}" ] || [ -z "${{ secrets.NOTION_DATABASE_ID }}" ]; then
+          echo "Warning: NOTION_API_KEY or NOTION_DATABASE_ID is not set, will skip Notion push"
         fi
 
     - name: Run incremental sync

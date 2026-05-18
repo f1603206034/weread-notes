@@ -3,3 +3,7 @@
 __pycache__/
 *.tmp
 .DS_Store
+
+# 本地数据（不要提交到 Git）
+data/
+index.json

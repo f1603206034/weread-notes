@@ -55,3 +55,21 @@ def get_index_path() -> Path:
     config = load_config()
     index_file = config.get("output", {}).get("index_file", "index.json")
     return PROJECT_ROOT / index_file
+
+
+def validate_required_env() -> list[str]:
+    """验证必需的环境变量，返回缺失的变量列表"""
+    missing = []
+    
+    if not get_env("WEREAD_API_KEY"):
+        missing.append("WEREAD_API_KEY")
+    
+    if not get_env("NOTION_API_KEY"):
+        missing.append("NOTION_API_KEY")
+    
+    if not get_env("NOTION_DATABASE_ID"):
+        config = load_config()
+        if not config.get("notion", {}).get("database_id"):
+            missing.append("NOTION_DATABASE_ID")
+    
+    return missing

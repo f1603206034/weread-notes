@@ -5,7 +5,7 @@
   },
   "notion": {
     "base_url": "https://api.notion.com/v1",
-    "database_id": "your-database-id-here"
+    "database_id": ""
   },
   "sync": {
     "notebooks_page_size": 100,

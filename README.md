@@ -1,6 +1,6 @@
 # 微信读书笔记同步工具
 
-自动同步微信读书笔记到 GitHub 和 Notion，支持增量同步和全量同步。
+自动同步微信读书笔记到 GitHub 仓库和 Notion 数据库，支持增量同步、全量同步和网页版链接跳转。
 
 ## 功能特性
 
@@ -9,6 +9,8 @@
 - **双平台推送**：同步到 GitHub 仓库和 Notion 数据库
 - **自动定时**：每日自动同步，也可手动触发
 - **本地备份**：JSON + Markdown 双格式保存
+- **网页链接**：生成微信读书网页版直达链接，支持跳转到书籍、章节和划线位置
+- **App 链接**：保留微信读书 App 深层链接
 
 ## 项目结构
 
@@ -25,7 +27,7 @@
 │   ├── notion_push.py     # Notion 推送逻辑
 │   ├── renderer.py        # Markdown 渲染
 │   ├── sync.py            # 同步主逻辑
-│   └── utils.py           # 工具函数
+│   └── utils.py           # 工具函数（含网页链接生成）
 ├── data/                   # 书籍数据（自动创建）
 ├── index.json             # 书籍索引（自动创建）
 ├── .env                   # 环境变量（需手动创建）
@@ -60,6 +62,7 @@ NOTION_DATABASE_ID=your_notion_database_id
 | 笔记数 | Number | 笔记总数 |
 | 封面 | Files | 书籍封面图（可选） |
 | App链接 | URL | 微信读书 App 链接（可选） |
+| 网页链接 | URL | 微信读书网页版链接（可选） |
 
 ### 3. 本地运行
 
@@ -72,6 +75,12 @@ python scripts/sync.py --mode incremental
 
 # 全量同步（强制重新拉取所有书籍）
 python scripts/sync.py --mode full
+
+# 断点续传
+python scripts/sync.py --mode full --resume
+
+# 重建 Markdown
+python scripts/sync.py --mode rebuild
 ```
 
 ### 4. GitHub Actions 自动同步
@@ -84,28 +93,52 @@ python scripts/sync.py --mode full
 3. 每日北京时间 8:00 自动运行增量同步
 4. 也可在 Actions 页面手动触发全量同步
 
-## 同步逻辑
+## 同步模式
 
-### 增量同步
+### 增量同步 (incremental)
 
-```
-1. 拉取微信读书 /user/notebooks
-2. 比对本地 index.json（sort + 笔记数量）
-3. 筛选出变更书籍
-4. 对每本变更书籍：
-   - 拉取完整 API 数据
-   - 写入 JSON（原子写入）
-   - 渲染 Markdown
-   - 推送 Notion（全量覆盖）
-   - 更新 index.json
-```
+自动检测变更的书籍并同步：
+- 比对 sort 值变化（最后操作时间戳）
+- 比对笔记、想法、书签数量变化
+- 比对本地同步时间与远程 sort 时间
 
-### 全量同步
+### 全量同步 (full)
 
-强制重新拉取所有书籍，用于：
-- 修复数据不一致
-- 同步微信读书端的"修改笔记"操作（增量同步检测不到）
+强制重新拉取所有书籍数据，覆盖本地已有数据。用于：
+- 首次同步
 - 数据完整性校验
+- 修复数据不一致
+- 同步微信读书端的"修改笔记"操作
+
+### 全量比对 (full-compare)
+
+每月第一个周日自动触发，全量比对所有书籍并补充缺失数据。
+
+### 重建 Markdown (rebuild)
+
+从所有 JSON 文件重新渲染 Markdown，适用于模板更新后的批量重渲染。
+
+## 链接类型
+
+同步数据中包含多种链接：
+
+| 链接类型 | 格式 | 说明 |
+|---------|------|------|
+| App 链接 | `weread://reading?...` | 微信读书 App 深层链接 |
+| 网页链接 | `https://weread.qq.com/web/reader/...` | 微信读书网页版链接 |
+
+### 网页链接功能
+
+工具会自动生成微信读书网页版直达链接：
+
+- **书籍链接**：`get_weread_web_url(book_id)` → 书籍阅读页面
+- **章节链接**：`get_weread_web_chapter_url(book_id, chapter_uid)` → 指定章节
+- **划线链接**：`get_weread_web_bookmark_url(book_id, chapter_uid, range_start, range_end)` → 指定划线位置
+
+这些链接会在以下位置自动填充：
+- JSON 元数据中的 `webLink` 字段
+- Markdown 文件元信息表格中的书名超链接
+- Notion 数据库的"网页链接"属性
 
 ## 数据格式
 
@@ -121,36 +154,71 @@ python scripts/sync.py --mode full
     "noteCount": 10,
     "reviewCount": 5,
     "bookmarkCount": 3,
+    "appLink": "weread://reading?bId=123456",
+    "webLink": "https://weread.qq.com/web/reader/...",
     "lastSync": "2024-01-01T12:00:00Z"
   },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "title": "第一章",
+      "appLink": "weread://reading?bId=123456&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/...?chapterUid=1"
+    }
+  ],
   "content": [
     {
       "chapterTitle": "第一章",
       "items": [
-        {"type": "highlight", "markText": "划线内容", ...},
-        {"type": "review", "content": "想法内容", ...}
+        {
+          "type": "highlight",
+          "markText": "划线内容",
+          "appLink": "weread://bestbookmark?bookId=123456&chapterUid=1&rangeStart=100&rangeEnd=150",
+          "webLink": "https://weread.qq.com/web/reader/...?chapterUid=1&rangeStart=100&rangeEnd=150"
+        },
+        {
+          "type": "review",
+          "content": "想法内容"
+        }
       ]
     }
-  ]
+  ],
+  "bookReviews": [],
+  "hotBookmarks": []
 }
 ```
 
 ### Markdown 格式
 
 ```markdown
-# 书名
+---
+doc_type: weread-highlights-reviews
+bookId: "123456"
+title: "书名"
+webLink: "https://weread.qq.com/web/reader/..."
+---
 
-**作者：** 作者名  
-**分类：** 分类名  
-**阅读进度：** 已读完
+# 元数据
+
+![书名](cover_url)
+
+| 项目 | 内容 |
+|------|------|
+| 书名 | [书名](https://weread.qq.com/web/reader/...) |
+| 作者 | 作者名 |
+| 分类 | 分类名 |
 
 ---
 
-## 第一章
+# 第一章
 
-📌 划线内容 ⏱ 2024-01-01 12:00:00
+> 📌 划线内容
+> ⏱ 2024-01-01 12:00:00
 
-💭 想法内容 ⏱ 2024-01-01 12:30:00
+💭 想法内容
+⏱ 2024-01-01 12:30:00
+
+---
 ```
 
 ## 注意事项
@@ -159,6 +227,13 @@ python scripts/sync.py --mode full
 2. **Notion 速率限制**：每秒最多 3 次请求，已内置限速
 3. **删除的书籍**：本地会保留备份，不会自动删除
 4. **修改的笔记**：增量同步检测不到，需要全量同步覆盖
+5. **网页链接**：需要 Notion 数据库包含"网页链接"属性才会自动推送
+
+## 依赖
+
+- requests >= 2.28.0
+- python-dotenv >= 1.0.0
+- notion-client >= 2.0.0
 
 ## 许可证
 

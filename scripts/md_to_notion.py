@@ -387,12 +387,12 @@ def _parse_table(lines: list[str]) -> dict | None:
     # 表头作为第一行
     header_cells = []
     for h in headers:
-        header_cells.append({
+        header_cells.append([{
             "type": "table_cell",
             "table_cell": {
                 "rich_text": _rich_text(h)
             }
-        })
+        }])
 
     if header_cells:
         table_children.append({
@@ -406,20 +406,20 @@ def _parse_table(lines: list[str]) -> dict | None:
     for row in rows:
         row_cells = []
         for cell in row:
-            row_cells.append({
+            row_cells.append([{
                 "type": "table_cell",
                 "table_cell": {
                     "rich_text": _rich_text(cell)
                 }
-            })
+            }])
         # 补齐列数
         while len(row_cells) < len(headers):
-            row_cells.append({
+            row_cells.append([{
                 "type": "table_cell",
                 "table_cell": {
                     "rich_text": []
                 }
-            })
+            }])
 
         table_children.append({
             "type": "table_row",

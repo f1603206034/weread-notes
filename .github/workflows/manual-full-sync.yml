@@ -2,8 +2,8 @@ name: Weekly Full Sync - WeRead Backup
 
 on:
   schedule:
-    # 每周一北京时间 02:00 运行 (UTC 周一 18:00)
-    - cron: '0 18 * * 1'
+    # 每周一北京时间 08:00 运行 (UTC 周一 00:00)
+    - cron: '0 0 * * 1'
   workflow_dispatch:  # 允许手动触发
 
 concurrency:

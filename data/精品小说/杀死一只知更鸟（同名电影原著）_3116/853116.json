@@ -12,23 +12,23 @@
     "isbn": "9787544766500",
     "wordCount": 0,
     "newRating": 920,
-    "newRatingCount": 113256,
+    "newRatingCount": 113257,
     "newRatingDetail": {
-      "good": 105711,
+      "good": 105712,
       "fair": 6822,
       "poor": 723,
-      "recent": 640,
+      "recent": 639,
       "deepV": 6542,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=853116",
     "webLink": "https://weread.qq.com/web/reader/57e324b05d047c57ebe463e",
-    "lastSync": "2026-05-21T10:36:11Z",
+    "lastSync": "2026-05-21T12:00:52Z",
     "readingProgress": "0%",
     "readingTime": "0分钟",
-    "finishedDate": "",
-    "noteCount": 1,
+    "finishedDate": "2023-06-28",
+    "noteCount": 7,
     "reviewCount": 0,
     "bookmarkCount": 0,
     "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
@@ -505,23 +505,137 @@
   ],
   "content": [
     {
-      "chapterUid": 65,
-      "chapterTitle": "第二十七章",
+      "chapterUid": 48,
+      "chapterTitle": "第十一章",
       "items": [
         {
           "type": "highlight",
-          "bookmarkId": "853116_65_430-462",
-          "range": "430-462",
-          "rangeStart": 430,
-          "rangeEnd": 462,
-          "markText": "到了十月中旬，只发生了两件不寻常的小事儿，牵扯到两位梅科姆公民。",
-          "colorStyle": 3,
+          "bookmarkId": "853116_14_14152-14255",
+          "range": "14059-14162",
+          "rangeStart": 14059,
+          "rangeEnd": 14162,
+          "markText": "她说，她要干干净净地离开这个世界，不亏欠任何人，也不依赖任何东西。杰姆，一个人要是病到她那种程度，随便用什么来缓解病痛都是无可厚非的，但她却不肯。她说，她一定要在离开人世之前戒掉吗啡，她也确实是这么做的。”",
+          "colorStyle": 1,
           "colorLabel": "",
-          "createTime": 1779075081,
-          "createTimeFormatted": "2026-05-18 11:31:21",
-          "chapterUid": 65,
-          "appLink": "weread://bestbookmark?bookId=853116&chapterUid=65&rangeStart=430&rangeEnd=462",
-          "webLink": "https://weread.qq.com/web/reader/57e324b05d047c57ebe463e?chapterUid=65&rangeStart=430&rangeEnd=462"
+          "createTime": 1654692185,
+          "createTimeFormatted": "2022-06-08 20:43:05",
+          "chapterUid": 48,
+          "appLink": "weread://bestbookmark?bookId=853116&chapterUid=48&rangeStart=14059&rangeEnd=14162",
+          "webLink": "https://weread.qq.com/web/reader/57e324b05d047c57ebe463e?chapterUid=48&rangeStart=14059&rangeEnd=14162"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "853116_14_15181-15249",
+          "range": "15088-15156",
+          "rangeStart": 15088,
+          "rangeEnd": 15156,
+          "markText": "。勇敢就是，在你还没开始的时候就知道自己注定会输，但依然义无反顾地去做，并且不管发生什么都坚持到底。一个人很少能赢，但也总会有赢的时候。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1654687771,
+          "createTimeFormatted": "2022-06-08 19:29:31",
+          "chapterUid": 48,
+          "appLink": "weread://bestbookmark?bookId=853116&chapterUid=48&rangeStart=15088&rangeEnd=15156",
+          "webLink": "https://weread.qq.com/web/reader/57e324b05d047c57ebe463e?chapterUid=48&rangeStart=15088&rangeEnd=15156"
+        }
+      ]
+    },
+    {
+      "chapterUid": 69,
+      "chapterTitle": "第三十一章",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "853116_34_5236-5262",
+          "range": "5227-5253",
+          "rangeStart": 5227,
+          "rangeEnd": 5253,
+          "markText": "大多数人都是善良的，等你最终了解他们之后就会发现。”",
+          "colorStyle": 5,
+          "colorLabel": "",
+          "createTime": 1654691976,
+          "createTimeFormatted": "2022-06-08 20:39:36",
+          "chapterUid": 69,
+          "appLink": "weread://bestbookmark?bookId=853116&chapterUid=69&rangeStart=5227&rangeEnd=5253",
+          "webLink": "https://weread.qq.com/web/reader/57e324b05d047c57ebe463e?chapterUid=69&rangeStart=5227&rangeEnd=5253"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "853116_34_3277-3317",
+          "range": "3268-3308",
+          "rangeStart": 3268,
+          "rangeEnd": 3308,
+          "markText": "你永远也不可能真正了解一个人，除非你穿上他的鞋子走来走去，站在他的角度考虑问题。",
+          "colorStyle": 5,
+          "colorLabel": "",
+          "createTime": 1654691959,
+          "createTimeFormatted": "2022-06-08 20:39:19",
+          "chapterUid": 69,
+          "appLink": "weread://bestbookmark?bookId=853116&chapterUid=69&rangeStart=3268&rangeEnd=3308",
+          "webLink": "https://weread.qq.com/web/reader/57e324b05d047c57ebe463e?chapterUid=69&rangeStart=3268&rangeEnd=3308"
+        }
+      ]
+    },
+    {
+      "chapterUid": 36,
+      "chapterTitle": "献词",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "853116_3_472-524",
+          "range": "437-494",
+          "rangeStart": 437,
+          "rangeEnd": 494,
+          "markText": "我想，律师也曾经是孩子。\n——查尔斯·兰姆",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1654689730,
+          "createTimeFormatted": "2022-06-08 20:02:10",
+          "chapterUid": 36,
+          "appLink": "weread://bestbookmark?bookId=853116&chapterUid=36&rangeStart=437&rangeEnd=494",
+          "webLink": "https://weread.qq.com/web/reader/57e324b05d047c57ebe463e?chapterUid=36&rangeStart=437&rangeEnd=494"
+        }
+      ]
+    },
+    {
+      "chapterUid": 50,
+      "chapterTitle": "第十二章",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "853116_15_14176-14241",
+          "range": "14108-14173",
+          "rangeStart": 14108,
+          "rangeEnd": 14173,
+          "markText": "一个人没必要把自己懂的东西都展现出来。这不是淑女的做派——再说了，人们不喜欢他们身边有什么人比他们懂得多。这会让他们气不打一处来。",
+          "colorStyle": 5,
+          "colorLabel": "",
+          "createTime": 1654687789,
+          "createTimeFormatted": "2022-06-08 19:29:49",
+          "chapterUid": 50,
+          "appLink": "weread://bestbookmark?bookId=853116&chapterUid=50&rangeStart=14108&rangeEnd=14173",
+          "webLink": "https://weread.qq.com/web/reader/57e324b05d047c57ebe463e?chapterUid=50&rangeStart=14108&rangeEnd=14173"
+        }
+      ]
+    },
+    {
+      "chapterUid": 46,
+      "chapterTitle": "第九章",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "853116_12_16131-16212",
+          "range": "15960-16041",
+          "rangeStart": 15960,
+          "rangeEnd": 16041,
+          "markText": "当一个孩子问你问题的时候，你要正儿八经地回答，不要东拉西扯，顾左右而言他。虽说孩子毕竟只是孩子，但他们会比成人更敏锐地察觉到你在回避问题，回避只会让他们糊里糊涂。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1622122722,
+          "createTimeFormatted": "2021-05-27 21:38:42",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=853116&chapterUid=46&rangeStart=15960&rangeEnd=16041",
+          "webLink": "https://weread.qq.com/web/reader/57e324b05d047c57ebe463e?chapterUid=46&rangeStart=15960&rangeEnd=16041"
         }
       ]
     }
@@ -710,11 +824,11 @@
     }
   ],
   "readProgress": {
-    "chapterUid": 65,
-    "chapterOffset": 370,
+    "chapterUid": 36,
+    "chapterOffset": 0,
     "progress": 0,
-    "updateTime": 1779270661,
+    "updateTime": 1767501314,
     "recordReadingTime": 0,
-    "finishTime": ""
+    "finishTime": 1687924543
   }
 }

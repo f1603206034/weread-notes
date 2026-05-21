@@ -1,0 +1,579 @@
+{
+  "meta": {
+    "bookId": "3300028060",
+    "title": "寡头统治铁律：现代民主体制中的政党社会学",
+    "author": "罗伯特·米歇尔斯",
+    "translator": "杨军 陈秋丰",
+    "cover": "https://cdn.weread.qq.com/weread/cover/9/cpPlatform_x9pRtY37LT3jKwMLbJykrT/t6_cpPlatform_x9pRtY37LT3jKwMLbJykrT.jpg",
+    "intro": "本书是罗伯特·米歇尔斯的代表作。他通过研究19世纪末、20世纪初欧洲政党特别是德国社会民主党的发展情况，提出了“寡头统治铁律”这一政党社会学的经典原理。该原理认为：正是组织使当选者获得了对于选民、被委托者对于委托者、代表对于被代表者的统治地位，组织处处意味着寡头统治。本书对政党出现寡头化的根源进行了分析，指出领导人倾向于组织并形成利益集团、大众普遍存在的消极性以及对领导人的感激之情都是其中不可缺少的因素，而最重要的因素则在于领导人在技术上的不可或缺性。此外，本书还反思了寡头统治结构与民主之间的关系。",
+    "category": "政治军事-政治",
+    "publisher": "浙江人民出版社有限公司",
+    "publishTime": "2022-03-01 00:00:00",
+    "isbn": "9787213103995",
+    "wordCount": 0,
+    "newRating": 858,
+    "newRatingCount": 210,
+    "newRatingDetail": {
+      "good": 184,
+      "fair": 18,
+      "poor": 8,
+      "recent": 2,
+      "deepV": 78,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300028060",
+    "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c",
+    "lastSync": "2026-05-21T11:50:51Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 3,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300028060&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 163,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300028060&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "总序",
+      "level": 1,
+      "wordCount": 2056,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300028060&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 2269,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300028060&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "导论",
+      "level": 1,
+      "wordCount": 8249,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 民主式的贵族制与贵族式的民主制",
+          "anchor": "bw1",
+          "level": 2
+        },
+        {
+          "title": "第二节 社会斗争的伦理外衣",
+          "anchor": "bw2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028060&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第一章 领导人产生的根源",
+      "level": 1,
+      "wordCount": 28040,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 技术和管理层面的产生原因",
+          "anchor": "bw3",
+          "level": 2
+        },
+        {
+          "title": "第二节 领导人赖以产生的大众心理根源",
+          "anchor": "bw7",
+          "level": 2
+        },
+        {
+          "title": "第三节 智识因素：职业领导人的文化优势及其不可或缺性",
+          "anchor": "bw13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028060&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二章 领导人的专断倾向",
+      "level": 1,
+      "wordCount": 47053,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 领导层的稳定性",
+          "anchor": "bw14",
+          "level": 2
+        },
+        {
+          "title": "第二节 政党及其领导人的经济权力",
+          "anchor": "bw15",
+          "level": 2
+        },
+        {
+          "title": "第三节 领导人与报刊媒体",
+          "anchor": "bw16",
+          "level": 2
+        },
+        {
+          "title": "第四节 领导人与大众在现实实践中的关系",
+          "anchor": "bw17",
+          "level": 2
+        },
+        {
+          "title": "第五节 官僚主义：集权化与去集权化倾向",
+          "anchor": "bw18",
+          "level": 2
+        },
+        {
+          "title": "第六节 领导人之间的权力斗争",
+          "anchor": "bw19",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028060&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第三章 领导人在领导大众过程中所受到的心理影响",
+      "level": 1,
+      "wordCount": 11204,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 领导人的心理畸变",
+          "anchor": "bw20",
+          "level": 2
+        },
+        {
+          "title": "第二节 波拿巴主义意识形态",
+          "anchor": "bw21",
+          "level": 2
+        },
+        {
+          "title": "第三节 政党与领导人的等同性",
+          "anchor": "bw22",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028060&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第四章 领导人的社会性分析",
+      "level": 1,
+      "wordCount": 44708,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 资产阶级在阶级斗争中的自我分解",
+          "anchor": "bw23",
+          "level": 2
+        },
+        {
+          "title": "第二节 对资产阶级出身的社会主义领导人的分析",
+          "anchor": "bw24",
+          "level": 2
+        },
+        {
+          "title": "第三节 组织引发的社会变迁",
+          "anchor": "bw25",
+          "level": 2
+        },
+        {
+          "title": "第四节 工人阶级的内部分化",
+          "anchor": "bw26",
+          "level": 2
+        },
+        {
+          "title": "第五节 无产阶级出身的工人领导人",
+          "anchor": "bw27",
+          "level": 2
+        },
+        {
+          "title": "第六节 所谓的“知识分子问题”以及知识分子在工人政党中的必要性",
+          "anchor": "bw28",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028060&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第五章 预防性限制领导人权力的各种尝试",
+      "level": 1,
+      "wordCount": 12130,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 复决权",
+          "anchor": "bw29",
+          "level": 2
+        },
+        {
+          "title": "第二节 以放弃资产阶级的生活条件作为先决条件",
+          "anchor": "bw30",
+          "level": 2
+        },
+        {
+          "title": "第三节 工团主义的预防功能",
+          "anchor": "bw31",
+          "level": 2
+        },
+        {
+          "title": "第四节 无政府主义的预防功能",
+          "anchor": "bw32",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028060&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第六章 综论：组织的寡头化倾向",
+      "level": 1,
+      "wordCount": 18035,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 组织基础的保守性",
+          "anchor": "bw33",
+          "level": 2
+        },
+        {
+          "title": "第二节 民主与寡头政治铁律",
+          "anchor": "bw34",
+          "level": 2
+        },
+        {
+          "title": "第三节 最后的思考",
+          "anchor": "bw35",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028060&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=11"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "前言",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300028060_4_1617-1808",
+          "range": "1617-1808",
+          "rangeStart": 1617,
+          "rangeEnd": 1808,
+          "markText": "需要指出的是，阻碍民主实现的各种因素构成极为复杂，我们很难完全揭示以及精准阐述。尽管如此，我们仍可以作出归纳，其决定因素有以下三个：（1）人的天性；（2）政治斗争的性质；（3）组织属性。笔者的核心观点是“民主会导致寡头政治，因其本身包含某种寡头政治的因素”。这并不意味着笔者要对任何政党、政府以及个人进行道德层面上的谴责，而是客观阐述所有组织内在包含的一种社会学规律，并无好坏之分。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1747618648,
+          "createTimeFormatted": "2025-05-19 09:37:28",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=4&rangeStart=1617&rangeEnd=1808",
+          "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=4&rangeStart=1617&rangeEnd=1808"
+        }
+      ]
+    },
+    {
+      "chapterUid": 11,
+      "chapterTitle": "第六章 综论：组织的寡头化倾向",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300028060_11_31222-31283",
+          "range": "31222-31283",
+          "rangeStart": 31222,
+          "rangeEnd": 31283,
+          "markText": "各种各样的民主体制都会发展出寡头政治，这是所有组织发展的趋势。也就是说，无论是社会主义组织还是自由主义组织都存在这个趋势。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1747618619,
+          "createTimeFormatted": "2025-05-19 09:36:59",
+          "chapterUid": 11,
+          "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=11&rangeStart=31222&rangeEnd=31283",
+          "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=11&rangeStart=31222&rangeEnd=31283"
+        }
+      ]
+    },
+    {
+      "chapterUid": 3,
+      "chapterTitle": "总序",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300028060_3_583-649",
+          "range": "583-649",
+          "rangeStart": 583,
+          "rangeEnd": 649,
+          "markText": "近代政治就是政党政治。国家权力主要由政党掌握，并且通过政党运行。如果说主权国家是国际政治舞台的主角，那么政党便是国内政治舞台的主角。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1714568869,
+          "createTimeFormatted": "2024-05-01 21:07:49",
+          "chapterUid": 3,
+          "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=3&rangeStart=583&rangeEnd=649",
+          "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=3&rangeStart=583&rangeEnd=649"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300028060_6_19598-19646",
+      "chapterUid": 6,
+      "range": "19598-19646",
+      "markText": "社会主义领导人存在的这种倾向并不是一种偶然，这源于社会主义政党与军事组织在理念上存在某种亲和力。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=6&rangeStart=19598&rangeEnd=19646",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=6&rangeStart=19598&rangeEnd=19646"
+    },
+    {
+      "bookmarkId": "3300028060_6_43026-43086",
+      "chapterUid": 6,
+      "range": "43026-43086",
+      "markText": "大众有着强烈的个人崇拜渴望，他们朴素的唯心主义需要世俗神灵来填补。他们对这个世俗神灵的崇拜越盲目，就越能应付艰苦的生活。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=6&rangeStart=43026&rangeEnd=43086",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=6&rangeStart=43026&rangeEnd=43086"
+    },
+    {
+      "bookmarkId": "3300028060_5_951-984",
+      "chapterUid": 5,
+      "range": "951-984",
+      "markText": "从法律层面讲，君主政体只能被上帝废除，但上帝的意志又是不可探知的。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=5&rangeStart=951&rangeEnd=984",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=5&rangeStart=951&rangeEnd=984"
+    },
+    {
+      "bookmarkId": "3300028060_5_11828-11903",
+      "chapterUid": 5,
+      "range": "11828-11903",
+      "markText": "那些资产阶级的新贵们急切地融入贵族阶层以求获得旧的统治阶层对他们的认可，即赋予他们与旧的统治阶级作为同一阶层的合法性资格，除此之外，再也没有其他追求。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=5&rangeStart=11828&rangeEnd=11903",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=5&rangeStart=11828&rangeEnd=11903"
+    },
+    {
+      "bookmarkId": "3300028060_6_3278-3347",
+      "chapterUid": 6,
+      "range": "3278-3347",
+      "markText": "法律通过各种灵活的形式讨论产生。在讨论中，由主席首先公布主要议题并开始讨论，接着讨论次要议题，最后就结果进行投票，得票最多的草案获得通过。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=6&rangeStart=3278&rangeEnd=3347",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=6&rangeStart=3278&rangeEnd=3347"
+    },
+    {
+      "bookmarkId": "3300028060_4_2204-2275",
+      "chapterUid": 4,
+      "range": "2204-2275",
+      "markText": "政党生发于个体的利益与情感，其内部组织结构和目标等许多方面表现得与国家极为相似，因此它也可以被称为一个“个人国家”，或者说是一个“国中之国”。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=4&rangeStart=2204&rangeEnd=2275",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=4&rangeStart=2204&rangeEnd=2275"
+    },
+    {
+      "bookmarkId": "3300028060_7_84720-84795",
+      "chapterUid": 7,
+      "range": "84720-84795",
+      "markText": "近年来，尤其是民主国家的统治阶层希望通过向工人阶级杰出领导人开放政府职位来压制愈演愈烈的工人革命运动，这其实就是试图通过分享极为有限的权力来驯服革命。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=7&rangeStart=84720&rangeEnd=84795",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=7&rangeStart=84720&rangeEnd=84795"
+    },
+    {
+      "bookmarkId": "3300028060_5_10031-10079",
+      "chapterUid": 5,
+      "range": "10031-10079",
+      "markText": "熟悉历史的人都不难发现，任何获得统治地位的阶级都会极力思考，如何将他们积累的政治权力传给下一代。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=5&rangeStart=10031&rangeEnd=10079",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=5&rangeStart=10031&rangeEnd=10079"
+    },
+    {
+      "bookmarkId": "3300028060_6_27098-27163",
+      "chapterUid": 6,
+      "range": "27098-27163",
+      "markText": "只要选举义务没有取代选举权利，少数人就总有可能获得多数人自愿放弃的权利，进而利用这种权利强迫政治冷漠的大多数人接受他们制定的法律。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=6&rangeStart=27098&rangeEnd=27163",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=6&rangeStart=27098&rangeEnd=27163"
+    },
+    {
+      "bookmarkId": "3300028060_7_54999-55017",
+      "chapterUid": 7,
+      "range": "54999-55017",
+      "markText": "“人总是被他创造出来的东西所控制”。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=7&rangeStart=54999&rangeEnd=55017",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=7&rangeStart=54999&rangeEnd=55017"
+    },
+    {
+      "bookmarkId": "3300028060_6_23657-23699",
+      "chapterUid": 6,
+      "range": "23657-23699",
+      "markText": "在此基础上，小仲马进一步指出，平庸的多数只能代表现在，积极创新的少数则往往代表着未来",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=6&rangeStart=23657&rangeEnd=23699",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=6&rangeStart=23657&rangeEnd=23699"
+    },
+    {
+      "bookmarkId": "3300028060_6_55364-55434",
+      "chapterUid": 6,
+      "range": "55364-55434",
+      "markText": "他们能够准确把握问题的核心，也能够通过转移话题、拐弯抹角或者使用高大上的专业术语等方法，把一个简单的问题变成只有他们能够完全清楚的复杂问题。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=6&rangeStart=55364&rangeEnd=55434",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=6&rangeStart=55364&rangeEnd=55434"
+    },
+    {
+      "bookmarkId": "3300028060_5_1986-2017",
+      "chapterUid": 5,
+      "range": "1986-2017",
+      "markText": "因此，上述两种政治体制并非绝对对立，而是在现实政治中不断交错。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=5&rangeStart=1986&rangeEnd=2017",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=5&rangeStart=1986&rangeEnd=2017"
+    },
+    {
+      "bookmarkId": "3300028060_6_3746-3812",
+      "chapterUid": 6,
+      "range": "3746-3812",
+      "markText": "控制一大群人要比控制一小撮人更为容易，大众的决定迅速、强力且不容置疑，一旦大众生成某一项意见或建议，就不允许少数人甚至个人去反对它。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=6&rangeStart=3746&rangeEnd=3812",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=6&rangeStart=3746&rangeEnd=3812"
+    },
+    {
+      "bookmarkId": "3300028060_6_17364-17391",
+      "chapterUid": 6,
+      "range": "17364-17391",
+      "markText": "组织的集中化可以保证决策的快速。过去可以，现在也可以。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=6&rangeStart=17364&rangeEnd=17391",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=6&rangeStart=17364&rangeEnd=17391"
+    },
+    {
+      "bookmarkId": "3300028060_6_53070-53121",
+      "chapterUid": 6,
+      "range": "53070-53121",
+      "markText": "最终，工人阶级自己给自己创造出了新的主人，不断接受教育和增加知识成为他们巩固统治地位最有力的武器之一。",
+      "totalCount": 78,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=6&rangeStart=53070&rangeEnd=53121",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=6&rangeStart=53070&rangeEnd=53121"
+    },
+    {
+      "bookmarkId": "3300028060_11_24518-24581",
+      "chapterUid": 11,
+      "range": "24518-24581",
+      "markText": "大众永远处于未成年状态（被监护的状态），历史的不幸早已为他们所注定，即他们会一直被迫忍受少数人的统治，最后充当寡头统治的基座。",
+      "totalCount": 78,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=11&rangeStart=24518&rangeEnd=24581",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=11&rangeStart=24518&rangeEnd=24581"
+    },
+    {
+      "bookmarkId": "3300028060_5_11072-11113",
+      "chapterUid": 5,
+      "range": "11072-11113",
+      "markText": "因为在美国，亿万富翁、铁路大亨、石油大王、猪肉大王等新贵族的存在是一个不争的事实。",
+      "totalCount": 77,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=5&rangeStart=11072&rangeEnd=11113",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=5&rangeStart=11072&rangeEnd=11113"
+    },
+    {
+      "bookmarkId": "3300028060_7_29684-29724",
+      "chapterUid": 7,
+      "range": "29684-29724",
+      "markText": "只有理想主义并不能让绝大多数人一直恪尽职守，人的热情也不是一件没有保质期的商品。",
+      "totalCount": 77,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=7&rangeStart=29684&rangeEnd=29724",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=7&rangeStart=29684&rangeEnd=29724"
+    },
+    {
+      "bookmarkId": "3300028060_4_1683-1746",
+      "chapterUid": 4,
+      "range": "1683-1746",
+      "markText": "（1）人的天性；（2）政治斗争的性质；（3）组织属性。笔者的核心观点是“民主会导致寡头政治，因其本身包含某种寡头政治的因素”。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300028060&chapterUid=4&rangeStart=1683&rangeEnd=1746",
+      "webLink": "https://weread.qq.com/web/reader/d2232790813ab7176g01065c?chapterUid=4&rangeStart=1683&rangeEnd=1746"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 11,
+    "chapterOffset": 30747,
+    "progress": 0,
+    "updateTime": 1758024430,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

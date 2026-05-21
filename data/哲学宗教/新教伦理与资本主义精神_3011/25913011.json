@@ -1,0 +1,595 @@
+{
+  "meta": {
+    "bookId": "25913011",
+    "title": "新教伦理与资本主义精神",
+    "author": "马克斯·韦伯",
+    "translator": "阎克文",
+    "cover": "https://cdn.weread.qq.com/weread/cover/96/YueWen_25913011/t6_YueWen_25913011.jpg",
+    "intro": "《新教伦理与资本主义精神》是马克斯·韦伯著名的作品。在这部作品中，韦伯提出了一个知名的论点：新教教徒的思想影响了资本主义的发展。宗教教徒往往排斥世俗的事务，尤其是经济成就上的追求，但为什么新教教徒却是例外？韦伯在该书中论述宗教观念（新教伦理）与隐藏在资本主义发展背后的某种心理驱力（资本主义精神）之间的关系。韦伯列举了新教、清教、加尔文教等教徒生活、学习的例子并加以分析得出：资本主义的兴起和成功与新教盛行存在着相互影响的关系。新教入世禁欲主义伦理为资本主义企业家提供了心理驱动力和道德能量，从而成为现代资本主义得以兴起的重要条件之一。",
+    "category": "哲学宗教-西方哲学",
+    "publisher": "上海人民出版社",
+    "publishTime": "2018-03-01 00:00:00",
+    "isbn": "9787208145870",
+    "wordCount": 0,
+    "newRating": 834,
+    "newRatingCount": 827,
+    "newRatingDetail": {
+      "good": 689,
+      "fair": 107,
+      "poor": 31,
+      "recent": 8,
+      "deepV": 171,
+      "myRating": "",
+      "title": "脍炙人口"
+    },
+    "appLink": "weread://reading?bId=25913011",
+    "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0",
+    "lastSync": "2026-05-21T11:50:13Z",
+    "readingProgress": "1%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 149,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "中译者说明",
+      "level": 1,
+      "wordCount": 1321,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "英译者序",
+      "level": 1,
+      "wordCount": 1149,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "新版序言",
+      "level": 1,
+      "wordCount": 2101,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 6227,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "导言",
+      "level": 1,
+      "wordCount": 10052,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "导读",
+      "level": 1,
+      "wordCount": 29263,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "导论",
+      "level": 1,
+      "wordCount": 54639,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "《新教伦理——由来、根据和背景》绪论",
+      "level": 1,
+      "wordCount": 11729,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "宗教社会学序言",
+      "level": 1,
+      "wordCount": 9645,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第一部分 问题",
+      "level": 1,
+      "wordCount": 5541,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 宗教归属与社会分层1",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25913011&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第二章 资本主义精神",
+      "level": 2,
+      "wordCount": 16433,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第三章 路德的“天职”观——研究的任务",
+      "level": 2,
+      "wordCount": 6601,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第二部分 禁欲主义新教诸分支的实用伦理观",
+      "level": 1,
+      "wordCount": 1716,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第四章 入世禁欲主义的宗教基础",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25913011&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "A．加尔文宗",
+      "level": 3,
+      "wordCount": 16530,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "B．虔信派",
+      "level": 3,
+      "wordCount": 5718,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "C．循道宗",
+      "level": 3,
+      "wordCount": 2348,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "D．浸礼宗诸教派",
+      "level": 3,
+      "wordCount": 5466,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第五章 禁欲主义与资本主义精神",
+      "level": 2,
+      "wordCount": 15236,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "注释",
+      "level": 2,
+      "wordCount": 110703,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "索引",
+      "level": 2,
+      "wordCount": 13241,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "附录",
+      "level": 1,
+      "wordCount": 15448,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "新教教派与资本主义精神",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25913011&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "关于“资本主义精神”的反批评结束语",
+      "level": 2,
+      "wordCount": 27851,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "声明",
+      "level": 1,
+      "wordCount": 289,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25913011&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=25"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "前言",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25913011_6_4488-4530",
+          "range": "4488-4530",
+          "rangeStart": 4488,
+          "rangeEnd": 4530,
+          "markText": "资本主义是作为蓬勃进取的资产阶级的实用唯心主义开局的，但它的结局却是唯物主义的狂欢。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1750293131,
+          "createTimeFormatted": "2025-06-19 08:32:11",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=6&rangeStart=4488&rangeEnd=4530",
+          "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=6&rangeStart=4488&rangeEnd=4530"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "25913011_13_10483-10531",
+      "chapterUid": 13,
+      "range": "10483-10531",
+      "markText": "人并非“天生”希望多多地挣钱，他只是希望像他已经习惯的那样生活，挣到为此目的必需挣到的那么多钱。",
+      "totalCount": 935,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=13&rangeStart=10483&rangeEnd=10531",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=13&rangeStart=10483&rangeEnd=10531"
+    },
+    {
+      "bookmarkId": "25913011_6_7767-7833",
+      "chapterUid": 6,
+      "range": "7767-7833",
+      "markText": "人们总是会受到诱惑要阐明一个富有成效的新观念，把它用作打开所有门户的钥匙，并借助某个单独的原则去解释现实中由多种原因共同产生的现象。",
+      "totalCount": 901,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=6&rangeStart=7767&rangeEnd=7833",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=6&rangeStart=7767&rangeEnd=7833"
+    },
+    {
+      "bookmarkId": "25913011_6_4488-4530",
+      "chapterUid": 6,
+      "range": "4488-4530",
+      "markText": "资本主义是作为蓬勃进取的资产阶级的实用唯心主义开局的，但它的结局却是唯物主义的狂欢。",
+      "totalCount": 828,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=6&rangeStart=4488&rangeEnd=4530",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=6&rangeStart=4488&rangeEnd=4530"
+    },
+    {
+      "bookmarkId": "25913011_7_9627-9674",
+      "chapterUid": 7,
+      "range": "9627-9674",
+      "markText": "他坚信并不存在什么“历史规律”：现代资本主义在西方的出现，乃是各种事件在历史上特殊耦合的产物。",
+      "totalCount": 612,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=7&rangeStart=9627&rangeEnd=9674",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=7&rangeStart=9627&rangeEnd=9674"
+    },
+    {
+      "bookmarkId": "25913011_14_1807-1868",
+      "chapterUid": 14,
+      "range": "1807-1868",
+      "markText": "令上帝满意的唯一生活方式，不是以修道院的禁欲主义超越世俗道德，而只是履行个人在尘世的地位所加诸于他的义务。这就是他的天职。",
+      "totalCount": 612,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=14&rangeStart=1807&rangeEnd=1868",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=14&rangeStart=1807&rangeEnd=1868"
+    },
+    {
+      "bookmarkId": "25913011_6_1608-1650",
+      "chapterUid": 6,
+      "range": "1608-1650",
+      "markText": "韦伯试图回答的问题是个简单而又基本的问题——使资本主义文明有可能得以发展的心理条件。",
+      "totalCount": 598,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=6&rangeStart=1608&rangeEnd=1650",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=6&rangeStart=1608&rangeEnd=1650"
+    },
+    {
+      "bookmarkId": "25913011_12_1947-1994",
+      "chapterUid": 12,
+      "range": "1947-1994",
+      "markText": "宗教改革并不意味着消除了教会对日常生活的控制，毋宁说，那只是用一种新的控制形式取代先前的控制。",
+      "totalCount": 594,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=12&rangeStart=1947&rangeEnd=1994",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=12&rangeStart=1947&rangeEnd=1994"
+    },
+    {
+      "bookmarkId": "25913011_9_5475-5552",
+      "chapterUid": 9,
+      "range": "5475-5552",
+      "markText": "韦伯的忧虑是，基于功利主义考虑的“实用理性”生活方式，再加上刻板的官僚化工作场所，最终可能会产生一个对个人既缺乏崇高理想又缺少个人主义给予高度肯定的社会。",
+      "totalCount": 578,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=9&rangeStart=5475&rangeEnd=5552",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=9&rangeStart=5475&rangeEnd=5552"
+    },
+    {
+      "bookmarkId": "25913011_5_1988-2079",
+      "chapterUid": 5,
+      "range": "1988-2079",
+      "markText": "韦伯著作的重要之处并不在于他如何判定观念因素还是经济因素具有相对重要性，而在于他分析社会行动系统的方法，因为在这个系统中，对行动发挥了影响的不光是“经济力量”，而且还有观念和价值观。",
+      "totalCount": 561,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=5&rangeStart=1988&rangeEnd=2079",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=5&rangeStart=1988&rangeEnd=2079"
+    },
+    {
+      "bookmarkId": "25913011_6_3992-4012",
+      "chapterUid": 6,
+      "range": "3992-4012",
+      "markText": "资本主义就是加尔文主义神学的社会对应物。",
+      "totalCount": 486,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=6&rangeStart=3992&rangeEnd=4012",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=6&rangeStart=3992&rangeEnd=4012"
+    },
+    {
+      "bookmarkId": "25913011_6_3900-3964",
+      "chapterUid": 6,
+      "range": "3900-3964",
+      "markText": "这里的关键是，道德标准发生了变革，一种天生的弱点转变成了为精神增光的因素，以往在各个时代被谴责为罪恶的种种习惯则变成了经济美德。",
+      "totalCount": 464,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=6&rangeStart=3900&rangeEnd=3964",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=6&rangeStart=3900&rangeEnd=3964"
+    },
+    {
+      "bookmarkId": "25913011_13_11782-11864",
+      "chapterUid": 13,
+      "range": "11782-11864",
+      "markText": "相反，劳动本身必须被当作一个无条件的目的来完成，当作一项天职。但是，这样一种态度绝对不是天然的产物。它是不能单凭低工资或高工资刺激起来的，只能是长期艰苦教育的结果。",
+      "totalCount": 407,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=13&rangeStart=11782&rangeEnd=11864",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=13&rangeStart=11782&rangeEnd=11864"
+    },
+    {
+      "bookmarkId": "25913011_13_17145-17236",
+      "chapterUid": 13,
+      "range": "17145-17236",
+      "markText": "恰恰相反，他们是些在艰难困苦的生活环境中成长起来的人，怀着严谨的资产阶级见解和原则，既工于计算又敢想敢为，最重要的是，他们无不稳健节制、诚实可信、机敏精明，全力以赴地投身于事业之中。",
+      "totalCount": 405,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=13&rangeStart=17145&rangeEnd=17236",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=13&rangeStart=17145&rangeEnd=17236"
+    },
+    {
+      "bookmarkId": "25913011_8_3179-3220",
+      "chapterUid": 8,
+      "range": "3179-3220",
+      "markText": "现代资本主义的驱动力并不是高价格与横财般的巨额利润，而是合理价格与大批量的稳定销售",
+      "totalCount": 375,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=8&rangeStart=3179&rangeEnd=3220",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=8&rangeStart=3179&rangeEnd=3220"
+    },
+    {
+      "bookmarkId": "25913011_13_18543-18585",
+      "chapterUid": 13,
+      "range": "18543-18585",
+      "markText": "他们的财富给自己带来的，只有那种全力以赴唯工作是瞻的无理性意识，除此以外便一无所获。",
+      "totalCount": 368,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=13&rangeStart=18543&rangeEnd=18585",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=13&rangeStart=18543&rangeEnd=18585"
+    },
+    {
+      "bookmarkId": "25913011_7_6171-6213",
+      "chapterUid": 7,
+      "range": "6171-6213",
+      "markText": "它们的意图是要分析文化理性化的不同模式，并试图找出这种歧异对于社会经济发展的重要性。",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=7&rangeStart=6171&rangeEnd=6213",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=7&rangeStart=6171&rangeEnd=6213"
+    },
+    {
+      "bookmarkId": "25913011_20_26136-26206",
+      "chapterUid": 20,
+      "range": "26136-26206",
+      "markText": "现代资本主义精神乃至整个现代文化的基本要素之一，就是天职观念基础上的理性行为，它的源头则是基督教的禁欲主义精神——这就是本文力图论证的观点。",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=20&rangeStart=26136&rangeEnd=26206",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=20&rangeStart=26136&rangeEnd=26206"
+    },
+    {
+      "bookmarkId": "25913011_7_7300-7355",
+      "chapterUid": 7,
+      "range": "7300-7355",
+      "markText": "一种着力理性地调适于尘世的伦理，“事实上”不可能在经济活动中产生出可与欧洲资本主义的精神气质相媲美的道德动力。",
+      "totalCount": 357,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=7&rangeStart=7300&rangeEnd=7355",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=7&rangeStart=7300&rangeEnd=7355"
+    },
+    {
+      "bookmarkId": "25913011_12_3399-3470",
+      "chapterUid": 12,
+      "range": "3399-3470",
+      "markText": "由环境——这里指的是家族共同体和父母家庭的宗教气氛所照拂的那种教育类型——养成的心理和精神特质决定了对职业的选择，从而也决定了一生的职业生涯。",
+      "totalCount": 351,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=12&rangeStart=3399&rangeEnd=3470",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=12&rangeStart=3399&rangeEnd=3470"
+    },
+    {
+      "bookmarkId": "25913011_11_4252-4323",
+      "chapterUid": 11,
+      "range": "4252-4323",
+      "markText": "对利润的贪得无厌根本就不能等同于资本主义，更不是资本主义的精神。倒不如说，资本主义更多地是对这种无理性冲动的一种抑制，至少也是一种理性的缓解。",
+      "totalCount": 350,
+      "appLink": "weread://bestbookmark?bookId=25913011&chapterUid=11&rangeStart=4252&rangeEnd=4323",
+      "webLink": "https://weread.qq.com/web/reader/ba432ac0718b66b3ba4a6a0?chapterUid=11&rangeStart=4252&rangeEnd=4323"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 6,
+    "chapterOffset": 0,
+    "progress": 1,
+    "updateTime": 1750295730,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

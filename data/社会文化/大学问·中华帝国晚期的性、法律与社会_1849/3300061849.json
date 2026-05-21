@@ -1,0 +1,1185 @@
+{
+  "meta": {
+    "bookId": "3300061849",
+    "title": "大学问·中华帝国晚期的性、法律与社会",
+    "author": "苏成捷",
+    "translator": "谢美裕 尤陈俊",
+    "cover": "https://cdn.weread.qq.com/weread/cover/54/cpplatform_iyxqcvlsfkornt2xviaejg/t6_cpplatform_iyxqcvlsfkornt2xviaejg1686724849.jpg",
+    "intro": "本书是一部法律史领域研究性犯罪问题的经典之作。书中运用了唐代以来的大量法律史文献，聚焦清代社会中寡妇、娼优、雇工、乞丐等底层人物，用比较史的眼光对性行为管制、寡妇守贞、“光棍例”、“卖娼”等问题进行分析，还原真实案例，展现了微观视角下的平民婚姻,以及女性短缺、妇女歧视等现象。\n作者将性别史、法律史和社会史等不同研究进路熔为一炉，将性犯罪与法律问题进行宏观考察，探讨了清代对性行为和性观念的规制与引导。书中案例生动鲜活，人物形象立体丰满，语言流畅，展示了一个复杂且富于动态变化的中华帝国晚期社会。",
+    "category": "社会文化-法律",
+    "publisher": "广西师范大学出版社",
+    "publishTime": "2023-05-18 00:00:00",
+    "isbn": "9787559856692",
+    "wordCount": 0,
+    "newRating": 889,
+    "newRatingCount": 501,
+    "newRatingDetail": {
+      "good": 457,
+      "fair": 40,
+      "poor": 4,
+      "recent": 5,
+      "deepV": 220,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=3300061849",
+    "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7",
+    "lastSync": "2026-05-21T11:45:55Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 3,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "6099a4287eb5b586492565c4b8bae462101205295d5709964b5caff9558dee5b"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 478,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "“实践社会科学系列”总序",
+      "level": 1,
+      "wordCount": 1645,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "插图",
+      "level": 1,
+      "wordCount": 5929,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "简体字版中译本序",
+      "level": 1,
+      "wordCount": 986,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "英文版序",
+      "level": 1,
+      "wordCount": 5211,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第一章 导论",
+      "level": 1,
+      "wordCount": 6,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 导论",
+          "anchor": "sigil_toc_id_1",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第一节 论题",
+      "level": 2,
+      "wordCount": 13981,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第二节 资料",
+      "level": 2,
+      "wordCount": 10397,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第二章 一种关于性秩序的愿景",
+      "level": 1,
+      "wordCount": 14,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二章 一种关于性秩序的愿景",
+          "anchor": "sigil_toc_id_2",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第一节 “奸”的概念界定及其涵盖范围",
+      "level": 2,
+      "wordCount": 4445,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第二节 父亲和丈夫所享有的特权",
+      "level": 2,
+      "wordCount": 6709,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第三节 主人与其女性奴仆发生的性关系",
+      "level": 2,
+      "wordCount": 6069,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第四节 义绝：夫妻间道德纽带的断绝",
+      "level": 2,
+      "wordCount": 6996,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第五节 “凡女必归于男为妇”",
+      "level": 2,
+      "wordCount": 963,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第三章 强奸罪相关法律的演变：女性贞节与外来男子的威胁",
+      "level": 1,
+      "wordCount": 27,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第三章 强奸罪相关法律的演变：女性贞节与外来男子的威胁",
+          "anchor": "sigil_toc_id_3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第一节 对强奸罪受害者的资格审查",
+      "level": 2,
+      "wordCount": 8214,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第二节 是否被男性性器官侵入下体至为关键",
+      "level": 2,
+      "wordCount": 5969,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第三节 强奸与和奸的对比",
+      "level": 2,
+      "wordCount": 6060,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第四节 关于危险男子的刻板印象",
+      "level": 2,
+      "wordCount": 6242,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第五节 清代中央司法官员的实际做法",
+      "level": 2,
+      "wordCount": 8412,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第六节 结语",
+      "level": 2,
+      "wordCount": 1821,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第四章 关于被鸡奸男性的问题：清代针对鸡奸的立法及对男性之社会性别角色的加固",
+      "level": 1,
+      "wordCount": 38,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第四章 关于被鸡奸男性的问题：清代针对鸡奸的立法及对男性之社会性别角色的加固",
+          "anchor": "sigil_toc_id_4",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第一节 论题",
+      "level": 2,
+      "wordCount": 4096,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第二节 立法史",
+      "level": 2,
+      "wordCount": 7003,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第三节 异性性犯罪的标准被适用于鸡奸罪行",
+      "level": 2,
+      "wordCount": 4447,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第四节 那些易受性侵的男性和危险的男性在司法中的刻板印象",
+      "level": 2,
+      "wordCount": 9918,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第五节 大众观念中的等级体系和污名化标签",
+      "level": 2,
+      "wordCount": 9282,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第六节 阶层分化与男性之“性”",
+      "level": 2,
+      "wordCount": 4406,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第七节 男性性器官侵入对方体内之行为的含义",
+      "level": 2,
+      "wordCount": 3381,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "第五章 贞节崇拜中的寡妇：清代法律和妇女生活中的性与财产之关联",
+      "level": 1,
+      "wordCount": 31,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第五章 贞节崇拜中的寡妇：清代法律和妇女生活中的性与财产之关联",
+          "anchor": "sigil_toc_id_5",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第一节 引言",
+      "level": 2,
+      "wordCount": 2343,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第二节 官方对贞节的评判标准",
+      "level": 2,
+      "wordCount": 2592,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第三节 寡妇作为一种有性欲的生物个体",
+      "level": 2,
+      "wordCount": 4044,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第四节 强迫再嫁、自杀和贞节的标准",
+      "level": 2,
+      "wordCount": 5213,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "第五节 没有资财的寡妇",
+      "level": 2,
+      "wordCount": 4861,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "第六节 拥有财产的寡妇及其姻亲",
+      "level": 2,
+      "wordCount": 5323,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "第七节 争斗的诸种情形",
+      "level": 2,
+      "wordCount": 8421,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "第八节 结论",
+      "level": 2,
+      "wordCount": 1841,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "第六章 作为身份地位展演的性行为：雍正朝之前对卖娼的法律规制",
+      "level": 1,
+      "wordCount": 30,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第六章 作为身份地位展演的性行为：雍正朝之前对卖娼的法律规制",
+          "anchor": "sigil_toc_id_6",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "第一节 一个看似简单的问题",
+      "level": 2,
+      "wordCount": 5240,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "第二节 立法层面对不同身份群体的区分",
+      "level": 2,
+      "wordCount": 8110,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "第三节 推行身份等级原则：明代和清初的实践",
+      "level": 2,
+      "wordCount": 12494,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "第四节 适用于娼妓的宽松刑责标准",
+      "level": 2,
+      "wordCount": 6273,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "第五节 法律拟制与社会现实",
+      "level": 2,
+      "wordCount": 3178,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "第七章 良民所应遵循的诸标准在适用范围上的扩张：雍正朝的改革与卖娼入罪化",
+      "level": 1,
+      "wordCount": 36,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第七章 良民所应遵循的诸标准在适用范围上的扩张：雍正朝的改革与卖娼入罪化",
+          "anchor": "sigil_toc_id_7",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "第一节 学界以往对雍正元年“开豁贱籍”的解读",
+      "level": 2,
+      "wordCount": 4187,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "第二节 “广风化”",
+      "level": 2,
+      "wordCount": 5478,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "第三节 雍正元年之后在法律上如何处置卖娼",
+      "level": 2,
+      "wordCount": 7681,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "第四节 雍正朝以降一些经中央司法机构审理的案件",
+      "level": 2,
+      "wordCount": 14488,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "第五节 小结",
+      "level": 2,
+      "wordCount": 1846,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "第八章 结论",
+      "level": 1,
+      "wordCount": 1296,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第八章 结论",
+          "anchor": "sigil_toc_id_8",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "第一节 法律的阳具中心主义",
+      "level": 2,
+      "wordCount": 1208,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "第二节 从身份地位到社会性别的变化，以及对小农家庭的新关注",
+      "level": 2,
+      "wordCount": 3632,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "第三节 含义发生变化的“良”",
+      "level": 2,
+      "wordCount": 4066,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "第四节 生存逻辑与性事失序",
+      "level": 2,
+      "wordCount": 3981,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "附录A 针对性侵犯的基本立法",
+      "level": 1,
+      "wordCount": 2409,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "附录A 针对性侵犯的基本立法",
+          "anchor": "sigil_toc_id_9",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "附录B 清代针对鸡奸的相关立法",
+      "level": 1,
+      "wordCount": 1337,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "附录B 清代针对鸡奸的相关立法",
+          "anchor": "sigil_toc_id_10",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "附录C 针对强迫守志寡妇再嫁的处刑",
+      "level": 1,
+      "wordCount": 1217,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "附录C 针对强迫守志寡妇再嫁的处刑",
+          "anchor": "sigil_toc_id_11",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "附录D 吕坤的“禁谕乐户”举措",
+      "level": 1,
+      "wordCount": 1227,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "附录D 吕坤的“禁谕乐户”举措",
+          "anchor": "sigil_toc_id_12",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "参考文献",
+      "level": 1,
+      "wordCount": 27979,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "译后记",
+      "level": 1,
+      "wordCount": 9542,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300061849&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=62"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 53,
+      "chapterTitle": "第一节 法律的阳具中心主义",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300061849_53_423-704",
+          "range": "423-704",
+          "rangeStart": 423,
+          "rangeEnd": 704,
+          "markText": "明清时期对“性”(sexuality)的规制，是以一种彻底的阳具中心主义(phallocentrism)作为其根本，亦即根据固有印象里面性行为过程中的阴茎插入行为来对“性”加以界定。交媾过程中的阴茎插入行为具有多重含义。其最基本的含义是，在那种男子被认为应对女子进行支配的婚内情境当中，这种行为使发生性关系的双方各自恰当地进入其作为成人的社会性别角色。由此推衍开来，在其他的情境中，阴茎插入行为也能够象征初次加入和支配关系。例如，海盗们为了使男性俘虏加入他们成为其中的一分子，而将他们鸡奸；又如，寡妇让其性伴侣强奸她的儿媳，以使后者事实上成为自己与人通奸的共犯。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1768742191,
+          "createTimeFormatted": "2026-01-18 21:16:31",
+          "chapterUid": 53,
+          "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=53&rangeStart=423&rangeEnd=704",
+          "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=53&rangeStart=423&rangeEnd=704"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86QVsVkiG",
+          "range": "387-389",
+          "chapterName": "第一节 法律的阳具中心主义",
+          "content": "yánɡ jù\n\n男性生殖器。",
+          "abstract": "阳具",
+          "star": -1,
+          "createTime": 1770856792,
+          "createTimeFormatted": "2026-02-12 08:39:52",
+          "isFinish": false,
+          "chapterUid": 53
+        }
+      ]
+    },
+    {
+      "chapterUid": 8,
+      "chapterTitle": "第一节 论题",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300061849_8_29003-29086",
+          "range": "29003-29086",
+          "rangeStart": 29003,
+          "rangeEnd": 29086,
+          "markText": "其中最具代表性的，是朝廷与那些居有定所的群体均对社会底层的流浪汉们日益感到忧惧。在特定的时间节点上，这种忧惧具体显现为对一场席卷数个当时最繁荣区域的神秘妖术的大恐慌。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1768742055,
+          "createTimeFormatted": "2026-01-18 21:14:15",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=8&rangeStart=29003&rangeEnd=29086",
+          "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=8&rangeStart=29003&rangeEnd=29086"
+        }
+      ]
+    },
+    {
+      "chapterUid": 14,
+      "chapterTitle": "第四节 义绝：夫妻间道德纽带的断绝",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300061849_14_4176-4245",
+          "range": "4176-4245",
+          "rangeStart": 4176,
+          "rangeEnd": 4245,
+          "markText": "这种罪行有着违背女性意愿而发生非法的性关系的表象，但被强奸女子之夫的授意，使得此种罪行大异于“强奸之罪”，其严重程度也被认为远较后者为低。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1768742045,
+          "createTimeFormatted": "2026-01-18 21:14:05",
+          "chapterUid": 14,
+          "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=14&rangeStart=4176&rangeEnd=4245",
+          "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=14&rangeStart=4176&rangeEnd=4245"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300061849_14_4176-4245",
+      "chapterUid": 14,
+      "range": "4176-4245",
+      "markText": "这种罪行有着违背女性意愿而发生非法的性关系的表象，但被强奸女子之夫的授意，使得此种罪行大异于“强奸之罪”，其严重程度也被认为远较后者为低。",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=14&rangeStart=4176&rangeEnd=4245",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=14&rangeStart=4176&rangeEnd=4245"
+    },
+    {
+      "bookmarkId": "3300061849_6_4401-4446",
+      "chapterUid": 6,
+      "range": "4401-4446",
+      "markText": "我的孩子Anne和Joseph对本书完全没有贡献；相反，他们还使本书的写作速度减慢了不少。",
+      "totalCount": 320,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=6&rangeStart=4401&rangeEnd=4446",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=6&rangeStart=4401&rangeEnd=4446"
+    },
+    {
+      "bookmarkId": "3300061849_12_9821-9920",
+      "chapterUid": 12,
+      "range": "9821-9920",
+      "markText": "真正对那些既包括性也包含暴力的婚姻关系加以支配的，不应该是情欲或其他以自我为中心的冲动，而应当是在更大的家庭秩序中依照自己相应的角色位置行事。只有在与对这种秩序的维护相一致的时候，丈夫方可使用暴力。",
+      "totalCount": 289,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=12&rangeStart=9821&rangeEnd=9920",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=12&rangeStart=9821&rangeEnd=9920"
+    },
+    {
+      "bookmarkId": "3300061849_8_29003-29086",
+      "chapterUid": 8,
+      "range": "29003-29086",
+      "markText": "其中最具代表性的，是朝廷与那些居有定所的群体均对社会底层的流浪汉们日益感到忧惧。在特定的时间节点上，这种忧惧具体显现为对一场席卷数个当时最繁荣区域的神秘妖术的大恐慌。",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=8&rangeStart=29003&rangeEnd=29086",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=8&rangeStart=29003&rangeEnd=29086"
+    },
+    {
+      "bookmarkId": "3300061849_12_3816-3886",
+      "chapterUid": 12,
+      "range": "3816-3886",
+      "markText": "后者强调，赋予性交行为以正当性的原则是“礼”，亦即子女对父母权威的顺从。这种对父母权威的顺从，甚至要优先于即将成婚的女子对其未来夫婿的顺从。",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=12&rangeStart=3816&rangeEnd=3886",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=12&rangeStart=3816&rangeEnd=3886"
+    },
+    {
+      "bookmarkId": "3300061849_11_9799-9871",
+      "chapterUid": 11,
+      "range": "9799-9871",
+      "markText": "在这里，女性的社会身份是由她与其丈夫或父亲的关系来加以界定的，而禁止非法的性交行为之举，正是这些男性的利益（更大地来说，还有朝廷的利益）之所在。",
+      "totalCount": 231,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=11&rangeStart=9799&rangeEnd=9871",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=11&rangeStart=9799&rangeEnd=9871"
+    },
+    {
+      "bookmarkId": "3300061849_8_34312-34369",
+      "chapterUid": 8,
+      "range": "34312-34369",
+      "markText": "某男子搬到某对贫苦夫妻的家中居住，以养活这对夫妻为代价，来获取该名妇人的性服务，从而形成“招夫养夫”的三角型性关系",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=8&rangeStart=34312&rangeEnd=34369",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=8&rangeStart=34312&rangeEnd=34369"
+    },
+    {
+      "bookmarkId": "3300061849_55_7115-7214",
+      "chapterUid": 55,
+      "range": "7115-7214",
+      "markText": "清代这些改革的主要目的并非压制女性（更不是迫害性取向方面的少数者群体），而是巩固岌岌可危的小农家庭，防止其在道德含义上向下沉沦，并对抗当时社会底层中正在实际发生的由“光棍”们所做出的各种性侵犯之举。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=55&rangeStart=7115&rangeEnd=7214",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=55&rangeStart=7115&rangeEnd=7214"
+    },
+    {
+      "bookmarkId": "3300061849_13_3600-3650",
+      "chapterUid": 13,
+      "range": "3600-3650",
+      "markText": "实际上，唐律的律文在言及主人与其家中女性奴仆发生的性关系时，所使用的字眼是听起来非常正面的“幸”字。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=13&rangeStart=3600&rangeEnd=3650",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=13&rangeStart=3600&rangeEnd=3650"
+    },
+    {
+      "bookmarkId": "3300061849_4_1855-1932",
+      "chapterUid": 4,
+      "range": "1855-1932",
+      "markText": "妇人因奸自尽，于实系强奸图奸威逼者恒少，而因和奸纵奸败露者居多。尸属因碍颜面，每多讳和为强，叠控不已。此等案件，全在审详之初把握折服，俾刁徒无所施其伎矣”",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=4&rangeStart=1855&rangeEnd=1932",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=4&rangeStart=1855&rangeEnd=1932"
+    },
+    {
+      "bookmarkId": "3300061849_17_7721-7804",
+      "chapterUid": 17,
+      "range": "7721-7804",
+      "markText": "故而，对强奸罪行的处刑，变成了针对受害女性之守贞记录的详细审查（此类守贞记录被看作这些受害女性的品格证明），以决定受害女性的贞节是否达到足以能将对其强奸者处死的程度。",
+      "totalCount": 195,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=17&rangeStart=7721&rangeEnd=7804",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=17&rangeStart=7721&rangeEnd=7804"
+    },
+    {
+      "bookmarkId": "3300061849_13_6744-6807",
+      "chapterUid": 13,
+      "range": "6744-6807",
+      "markText": "不过依照清代法律的规定，婢女一旦与其主人发生性关系，她便不再被视为一般的奴仆，而是主人的次等配偶，无论其主人本身对此承认与否。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=13&rangeStart=6744&rangeEnd=6807",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=13&rangeStart=6744&rangeEnd=6807"
+    },
+    {
+      "bookmarkId": "3300061849_11_9362-9454",
+      "chapterUid": 11,
+      "range": "9362-9454",
+      "markText": "第一，性犯罪是发生在异性之间的性交行为。第二，性犯罪是发生在为法律所认可的正统婚姻形式之外的性交行为。第三，性犯罪意味着外来男子对另一男子的血统的紊乱，并因此给整个社会秩序带来了威胁。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=11&rangeStart=9362&rangeEnd=9454",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=11&rangeStart=9362&rangeEnd=9454"
+    },
+    {
+      "bookmarkId": "3300061849_11_6148-6219",
+      "chapterUid": 11,
+      "range": "6148-6219",
+      "markText": "与之构成对比的是，在中国古代的法律传统当中，一种性行为的合法与否，主要取决于发生性关系者之间的具体关系，而非该性行为方式本身所具有的那种特征。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=11&rangeStart=6148&rangeEnd=6219",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=11&rangeStart=6148&rangeEnd=6219"
+    },
+    {
+      "bookmarkId": "3300061849_8_27153-27209",
+      "chapterUid": 8,
+      "range": "27153-27209",
+      "markText": "“适婚女性长期短缺，处于较低社会阶层的男性常常特别深切地感受到‘娶妻危机’(marriage crunch)”。",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=8&rangeStart=27153&rangeEnd=27209",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=8&rangeStart=27153&rangeEnd=27209"
+    },
+    {
+      "bookmarkId": "3300061849_4_1307-1403",
+      "chapterUid": 4,
+      "range": "1307-1403",
+      "markText": "“审奸狱，最宜持重。不得以狱涉风流，遂以戏谑之语、亵狎之态临之。公堂之上，为阖州县士民观瞻所系，奸情又民间风化所关，断宜庄词肃容，推情研讯。稍涉轻浮，是主持风化者适所以败坏风化也，可不慎哉！”",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=4&rangeStart=1307&rangeEnd=1403",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=4&rangeStart=1307&rangeEnd=1403"
+    },
+    {
+      "bookmarkId": "3300061849_8_5466-5513",
+      "chapterUid": 8,
+      "range": "5466-5513",
+      "markText": "从雍正元年(1723)开始，首先被废除的是与性工作及其他不光彩的娱乐行业相联系的“乐户”身份。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=8&rangeStart=5466&rangeEnd=5513",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=8&rangeStart=5466&rangeEnd=5513"
+    },
+    {
+      "bookmarkId": "3300061849_8_32540-32636",
+      "chapterUid": 8,
+      "range": "32540-32636",
+      "markText": "我们在司法案例中所看到的，并非那些观戏捧角儿举止优雅的男子或者以侍童为娈童的纨绔子弟，而是乞丐、四处化缘的和尚、苦力之流间的同性性关系；后者很可能纯粹只是出于生存之需，而并非为了享受乐趣本身。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=8&rangeStart=32540&rangeEnd=32636",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=8&rangeStart=32540&rangeEnd=32636"
+    },
+    {
+      "bookmarkId": "3300061849_13_10689-10745",
+      "chapterUid": 13,
+      "range": "10689-10745",
+      "markText": "易言之，若强奸他人的婢女，则应受到与强奸良民妻子同等严厉的惩罚。这意味着贞节标准被统一适用于不同身份等级的女性。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=13&rangeStart=10689&rangeEnd=10745",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=13&rangeStart=10689&rangeEnd=10745"
+    },
+    {
+      "bookmarkId": "3300061849_6_5781-5855",
+      "chapterUid": 6,
+      "range": "5781-5855",
+      "markText": "管见所及，这篇论文首次富有说服力地证明了，在清代的福建曾存在着一种鸡奸的亚文化，而这种亚文化所迷信的对象，与该省那种广为人知的宗教崇拜原型如出一辙。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=3300061849&chapterUid=6&rangeStart=5781&rangeEnd=5855",
+      "webLink": "https://weread.qq.com/web/reader/831323d0813ab7ea8g0191e7?chapterUid=6&rangeStart=5781&rangeEnd=5855"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 8,
+    "chapterOffset": 361,
+    "progress": 0,
+    "updateTime": 1774104306,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

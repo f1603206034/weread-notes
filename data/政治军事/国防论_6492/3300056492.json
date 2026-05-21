@@ -1,0 +1,749 @@
+{
+  "meta": {
+    "bookId": "3300056492",
+    "title": "国防论",
+    "author": "蒋百里",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/37/cpplatform_tmvuvzm1tdwq4w8mypvpps/t6_cpplatform_tmvuvzm1tdwq4w8mypvpps1682046688.jpg",
+    "intro": "本书是兵学泰斗蒋百里军事代表作，也是中国现代国防理论奠基之作。全书分为七篇，从国防经济、世界国防理论、中国传统国防思想、现代文化等角度对民国时期的中国国防做出理论化与系统化的阐释。其主要论点是：用空间换时间，“胜也罢，负也罢，就是不要和它讲和”；第二，不畏鲸吞，只怕蚕食，全面抗战；第三，开战上海，利用地理条件减弱日军攻势，阻日军到第二棱线（湖南）形成对峙，形成长期战场。他的结论是：抗日必须以国民为本，打持久战。\n除了《国防论》外，本书还特别收录了蒋百里先生的《孙子浅说》《日本人——一个外国人的研究》等经典名作。",
+    "category": "政治军事-军事",
+    "publisher": "陕西师范大学出版总社有限公司",
+    "publishTime": "2023-04-01 00:00:00",
+    "isbn": "9787569534955",
+    "wordCount": 0,
+    "newRating": 827,
+    "newRatingCount": 105,
+    "newRatingDetail": {
+      "good": 88,
+      "fair": 14,
+      "poor": 3,
+      "recent": 3,
+      "deepV": 31,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300056492",
+    "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68",
+    "lastSync": "2026-05-21T11:55:42Z",
+    "readingProgress": "2%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 7,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 143,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "文前",
+      "level": 1,
+      "wordCount": 24,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一篇 国防经济学",
+      "level": 1,
+      "wordCount": 1704,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "导言第一种 与塞克脱将军、佛兰克教授谈话资料",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "导言第二种 塞克脱将军与佛兰克教授之回答",
+      "level": 2,
+      "wordCount": 2444,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "导言第三种 解决当前国难问题的建议",
+      "level": 2,
+      "wordCount": 2691,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二篇 最近世界之国防趋势",
+      "level": 1,
+      "wordCount": 4171,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 世界军事之新趋势",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第二章 兵学革命与纪律进化",
+      "level": 2,
+      "wordCount": 5471,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第三章 介绍贝当元帅序杜黑《制空论》之战理",
+      "level": 2,
+      "wordCount": 3887,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第四章 《张全译民鲁族屯战道争夫论》序",
+      "level": 2,
+      "wordCount": 2822,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第三篇 从历史上解释国防经济学之基本原则",
+      "level": 1,
+      "wordCount": 2944,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 从中国历史上解释",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第二章 从欧洲历史上解释",
+      "level": 2,
+      "wordCount": 2870,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第四篇 二十年前之国防论",
+      "level": 1,
+      "wordCount": 2071,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 政略与战略（敌与兵）论战志之确定",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第二章 国力与武力与兵力",
+      "level": 2,
+      "wordCount": 2427,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第三章 义务征兵制说明",
+      "level": 2,
+      "wordCount": 4297,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第四章 军事教育之要旨",
+      "level": 2,
+      "wordCount": 5252,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第五篇 十五年前之国防论",
+      "level": 1,
+      "wordCount": 84,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第一章 裁兵与国防",
+      "level": 2,
+      "wordCount": 7052,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第二章 军国主义之衰亡与中国",
+      "level": 2,
+      "wordCount": 3538,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第三章 义务民兵制草案释义",
+      "level": 2,
+      "wordCount": 3895,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第六篇 中国国防论之始祖",
+      "level": 1,
+      "wordCount": 711,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "缘起",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "计篇",
+      "level": 2,
+      "wordCount": 12887,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第七篇 现代文化之由来与新人生观之成立",
+      "level": 1,
+      "wordCount": 32,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第一讲 古迹与新迹",
+      "level": 2,
+      "wordCount": 2789,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第二讲 美术与宗教",
+      "level": 2,
+      "wordCount": 4029,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第三讲 个人与群众",
+      "level": 2,
+      "wordCount": 4057,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "附录一",
+      "level": 1,
+      "wordCount": 335,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "保定军官学校就职演说",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "在保定军官学校自杀前之宣言",
+      "level": 2,
+      "wordCount": 649,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "国事意见十点—蒋百里生前最后谈话",
+      "level": 2,
+      "wordCount": 1518,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "欧洲大陆英雄之覆辙",
+      "level": 2,
+      "wordCount": 1158,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "速决与持久",
+      "level": 2,
+      "wordCount": 1840,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "抗战一年之前因与后果（节选）",
+      "level": 2,
+      "wordCount": 9830,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "日本人—一个外国人的研究",
+      "level": 2,
+      "wordCount": 13442,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "孙子浅说",
+      "level": 2,
+      "wordCount": 38604,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "附录二",
+      "level": 1,
+      "wordCount": 8185,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "蒋方震小传",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300056492&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=35"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "第一篇 国防经济学",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300056492_4_2048-2132",
+          "range": "2048-2132",
+          "rangeStart": 2048,
+          "rangeEnd": 2132,
+          "markText": "所以我说中国近来衰弱的原因，在于知识与行为的分离。读书的人一味空谈，不适事实；做事的人一味盲动，毫无理想。因此将我们祖先的真实本领（即经济生活与战斗生活之一致）丧失了。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1726617915,
+          "createTimeFormatted": "2024-09-18 08:05:15",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=4&rangeStart=2048&rangeEnd=2132",
+          "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=4&rangeStart=2048&rangeEnd=2132"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300056492_4_2048-2132",
+      "chapterUid": 4,
+      "range": "2048-2132",
+      "markText": "所以我说中国近来衰弱的原因，在于知识与行为的分离。读书的人一味空谈，不适事实；做事的人一味盲动，毫无理想。因此将我们祖先的真实本领（即经济生活与战斗生活之一致）丧失了。",
+      "totalCount": 323,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=4&rangeStart=2048&rangeEnd=2132",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=4&rangeStart=2048&rangeEnd=2132"
+    },
+    {
+      "bookmarkId": "3300056492_33_16883-16900",
+      "chapterUid": 33,
+      "range": "16883-16900",
+      "markText": "胜也罢，败也罢，就是不要同他讲和！",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=33&rangeStart=16883&rangeEnd=16900",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=33&rangeStart=16883&rangeEnd=16900"
+    },
+    {
+      "bookmarkId": "3300056492_4_1552-1638",
+      "chapterUid": 4,
+      "range": "1552-1638",
+      "markText": "我于世界民族兴衰，发见一条根本原则，就是“生活条件与战斗条件一致者强，相离者弱，相反者亡”。生活上之和平与战斗，本是一件东西从两方面看，但是依人事的演进，常常有分离的趋势。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=4&rangeStart=1552&rangeEnd=1638",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=4&rangeStart=1552&rangeEnd=1638"
+    },
+    {
+      "bookmarkId": "3300056492_4_2459-2505",
+      "chapterUid": 4,
+      "range": "2459-2505",
+      "markText": "如何能使学理与事实密切的沟通？现在不是空谈就是盲动。盲与空有相互的关系，愈空愈盲，愈盲愈空。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=4&rangeStart=2459&rangeEnd=2505",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=4&rangeStart=2459&rangeEnd=2505"
+    },
+    {
+      "bookmarkId": "3300056492_13_488-566",
+      "chapterUid": 13,
+      "range": "488-566",
+      "markText": "无兵而求战，是为至危，不求战而治兵，其祸尤为不可收拾也。练兵将以求战也，故先求敌而后练兵者，其兵强，先练兵而后求敌者，其兵弱，征之以中外古今之事，而可信者焉",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=13&rangeStart=488&rangeEnd=566",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=13&rangeStart=488&rangeEnd=566"
+    },
+    {
+      "bookmarkId": "3300056492_8_5366-5428",
+      "chapterUid": 8,
+      "range": "5366-5428",
+      "markText": "我们应当欢喜，我们应当小心，我们现在有了天然造成的陆海空唯一的领袖，譬如大金刚钻石，几百年才发见一个的，我们应当如何保重他！",
+      "totalCount": 98,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=8&rangeStart=5366&rangeEnd=5428",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=8&rangeStart=5366&rangeEnd=5428"
+    },
+    {
+      "bookmarkId": "3300056492_6_1744-1794",
+      "chapterUid": 6,
+      "range": "1744-1794",
+      "markText": "盖今日之中国亦处于有“人”有“物”而组织不健全之第三组，而中国之生死存亡之关键，完全在此“组织”一事",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=6&rangeStart=1744&rangeEnd=1794",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=6&rangeStart=1744&rangeEnd=1794"
+    },
+    {
+      "bookmarkId": "3300056492_4_1085-1185",
+      "chapterUid": 4,
+      "range": "1085-1185",
+      "markText": "中国数十年来创造新式军队，事事只知道请教外人，结果只学得外人的皮毛（因为外人有外人的传统精神，不是中国人所能学的），不能深入国民的心性，适应民族的传统，以致节节失败，原因有一部分就在于历史没有研究好。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=4&rangeStart=1085&rangeEnd=1185",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=4&rangeStart=1085&rangeEnd=1185"
+    },
+    {
+      "bookmarkId": "3300056492_7_3582-3677",
+      "chapterUid": 7,
+      "range": "3582-3677",
+      "markText": "国防的部署，是自给自足，是在乎持久，而作战的精神，却在乎速决，但是看似相反，实是相成；因为德国当年偏重于速决，而不顾及于如何持久，所以失败。若今日一味靠持久，而忘了速决，其过失正与当年相等。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=7&rangeStart=3582&rangeEnd=3677",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=7&rangeStart=3582&rangeEnd=3677"
+    },
+    {
+      "bookmarkId": "3300056492_7_2813-2897",
+      "chapterUid": 7,
+      "range": "2813-2897",
+      "markText": "所以在战后，痛定思痛，深深了解了一条原理，是战斗力与经济力之不可分；这原理的实行，就是“自给自足”，不仅是买外国军火，不可以同外国打仗，就是吃外国米，也不配同人家打仗。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=7&rangeStart=2813&rangeEnd=2897",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=7&rangeStart=2813&rangeEnd=2897"
+    },
+    {
+      "bookmarkId": "3300056492_5_1237-1260",
+      "chapterUid": 5,
+      "range": "1237-1260",
+      "markText": "习惯老是引头脑走旧路，而忽略了当前事实的改变。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=5&rangeStart=1237&rangeEnd=1260",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=5&rangeStart=1237&rangeEnd=1260"
+    },
+    {
+      "bookmarkId": "3300056492_9_2389-2423",
+      "chapterUid": 9,
+      "range": "2389-2423",
+      "markText": "读者千万注意这句话，在一条线上等敌人来攻击，这不是“守”，这是等死。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=9&rangeStart=2389&rangeEnd=2423",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=9&rangeStart=2389&rangeEnd=2423"
+    },
+    {
+      "bookmarkId": "3300056492_11_862-887",
+      "chapterUid": 11,
+      "range": "862-887",
+      "markText": "生活条件与战斗条件一致则强，相离则弱，相反则亡”。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=11&rangeStart=862&rangeEnd=887",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=11&rangeStart=862&rangeEnd=887"
+    },
+    {
+      "bookmarkId": "3300056492_33_1303-1321",
+      "chapterUid": 33,
+      "range": "1303-1321",
+      "markText": "雾锻炼了英国人体格之强健与眼光之正确",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=33&rangeStart=1303&rangeEnd=1321",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=33&rangeStart=1303&rangeEnd=1321"
+    },
+    {
+      "bookmarkId": "3300056492_4_1339-1409",
+      "chapterUid": 4,
+      "range": "1339-1409",
+      "markText": "春秋两季更有大规模的打猎—有收获的秋季演习—或运动会，这种寓兵于农的精神之发展，后来又造成了长城与运河。这长城与运河就是中华民族精神的象征。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=4&rangeStart=1339&rangeEnd=1409",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=4&rangeStart=1339&rangeEnd=1409"
+    },
+    {
+      "bookmarkId": "3300056492_4_940-1024",
+      "chapterUid": 4,
+      "range": "940-1024",
+      "markText": "孔子的最大努力就是编了一部有哲学性的历史—《春秋》。不管他的微言大义对不对，但他终是努力从客观的事实中，寻出了一个主观的方向，所以《春秋》是中国历史著作一种划时代的创作",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=4&rangeStart=940&rangeEnd=1024",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=4&rangeStart=940&rangeEnd=1024"
+    },
+    {
+      "bookmarkId": "3300056492_8_4372-4434",
+      "chapterUid": 8,
+      "range": "4372-4434",
+      "markText": "。我的思想，将来的空军就是骑兵，海军就是炮兵，陆军就是步兵，但是现在各国还没有一最高大学，来研究陆海空三兵种一致作战的办法。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=8&rangeStart=4372&rangeEnd=4434",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=8&rangeStart=4372&rangeEnd=4434"
+    },
+    {
+      "bookmarkId": "3300056492_10_1847-1880",
+      "chapterUid": 10,
+      "range": "1847-1880",
+      "markText": "战争是艺术，真正的名将是一种艺术家，他的特性是“独到”，是“偏”。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=10&rangeStart=1847&rangeEnd=1880",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=10&rangeStart=1847&rangeEnd=1880"
+    },
+    {
+      "bookmarkId": "3300056492_10_3385-3436",
+      "chapterUid": 10,
+      "range": "3385-3436",
+      "markText": "所以未来的战争不是“军队打仗”而是“国民拼命”；不是一定短时间内的彼此冲突，而是长时间永久的彼此竞走。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=10&rangeStart=3385&rangeEnd=3436",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=10&rangeStart=3385&rangeEnd=3436"
+    },
+    {
+      "bookmarkId": "3300056492_19_2708-2794",
+      "chapterUid": 19,
+      "range": "2708-2794",
+      "markText": "我国民当以全体互助之精神，保卫我祖宗遗传之疆土，是土也，我衣于是，我食于是，我居于是，祖宗之坟墓在焉，妻子之田园在焉，苟有欲夺此土者，则是夺我生也，则牺牲其生命，与之宣战！",
+      "totalCount": 70,
+      "appLink": "weread://bestbookmark?bookId=3300056492&chapterUid=19&rangeStart=2708&rangeEnd=2794",
+      "webLink": "https://weread.qq.com/web/reader/1dd32520813ab7c91g012e68?chapterUid=19&rangeStart=2708&rangeEnd=2794"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 5,
+    "chapterOffset": 2031,
+    "progress": 2,
+    "updateTime": 1726621162,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

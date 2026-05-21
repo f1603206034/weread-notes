@@ -1,0 +1,785 @@
+{
+  "meta": {
+    "bookId": "833565",
+    "title": "天空的另一半",
+    "author": "尼可拉斯·D.克里斯多夫 雪莉·邓恩",
+    "translator": "吴茵茵",
+    "cover": "https://cdn.weread.qq.com/weread/cover/36/YueWen_833565/t6_YueWen_833565.jpg",
+    "intro": "在本书中，我们可以看到在亚非拉国家的性别歧视、性暴力、厌女价值观、家庭暴力、处女情节等现象，也看到那里的女性进行了艰苦卓绝的抗争，以及如何一点小小的帮助就能改变她们的命运。通过这些故事，作者向我们展示了女性的生存困境，整个世界对此困境的态度，以及女性身上自我觉醒的力量。她们将绝望化为希望，勇敢争取生命尊严。本书以人物故事为线索，佐以大量的数据，没有局限于对女性遭遇的报道，还展示了社会、经济、文化、心理等多维度的思考。同时，本书也为那些想为世界尽一份力的人们提供了切实可行的参考。震撼的叙述，翔实的记录，悲伤与希望交织的生命万象。",
+    "category": "文学-纪实文学",
+    "publisher": "浙江人民出版社",
+    "publishTime": "2014-04-01 00:00:00",
+    "isbn": "9787213059384",
+    "wordCount": 0,
+    "newRating": 835,
+    "newRatingCount": 5884,
+    "newRatingDetail": {
+      "good": 4937,
+      "fair": 913,
+      "poor": 34,
+      "recent": 2,
+      "deepV": 222,
+      "myRating": "",
+      "title": "脍炙人口"
+    },
+    "appLink": "weread://reading?bId=833565",
+    "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583",
+    "lastSync": "2026-05-21T11:58:05Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=1"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 141,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 3,
+      "title": "献词",
+      "level": 1,
+      "wordCount": 30,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 4,
+      "title": "引言",
+      "level": 1,
+      "wordCount": 15,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 5,
+      "title": "译校说明",
+      "level": 1,
+      "wordCount": 139,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 6,
+      "title": "删改说明",
+      "level": 1,
+      "wordCount": 97,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 7,
+      "title": "前言 女孩效应",
+      "level": 1,
+      "wordCount": 8324,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 8,
+      "title": "第一章 解放21世纪的奴隶",
+      "level": 1,
+      "wordCount": 13,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 9,
+      "title": "学校帮助学校",
+      "level": 2,
+      "wordCount": 12548,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "学校帮助学校",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=833565&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 10,
+      "title": "第二章 禁令与卖淫",
+      "level": 1,
+      "wordCount": 9,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 11,
+      "title": "解救女孩容易，防其重操旧业难",
+      "level": 2,
+      "wordCount": 15524,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "解救女孩容易，防其重操旧业难",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=833565&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 12,
+      "title": "第三章 学习大声反抗",
+      "level": 1,
+      "wordCount": 10,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 13,
+      "title": "新废奴主义者",
+      "level": 2,
+      "wordCount": 10297,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "新废奴主义者",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=833565&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 14,
+      "title": "第四章 以强暴作为统治手段",
+      "level": 1,
+      "wordCount": 13,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 15,
+      "title": "穆赫塔尔的学校",
+      "level": 2,
+      "wordCount": 13603,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "穆赫塔尔的学校",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=833565&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 16,
+      "title": "第五章 “荣誉”之耻",
+      "level": 1,
+      "wordCount": 10,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 17,
+      "title": "海外留学到刚果",
+      "level": 2,
+      "wordCount": 8547,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "海外留学到刚果",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=833565&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 18,
+      "title": "第六章 孕产妇死亡率——一分钟一名妇女",
+      "level": 1,
+      "wordCount": 19,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 19,
+      "title": "治疗国家，而不只是病人",
+      "level": 2,
+      "wordCount": 10097,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "治疗国家，而不只是病人",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=833565&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 20,
+      "title": "第七章 妇女为何死于分娩",
+      "level": 1,
+      "wordCount": 12,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 21,
+      "title": "埃德娜的医院",
+      "level": 2,
+      "wordCount": 14628,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "埃德娜的医院",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=833565&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 22,
+      "title": "第八章 家庭计划与“上帝鸿沟”",
+      "level": 1,
+      "wordCount": 15,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 23,
+      "title": "简·罗伯茨与3400万名朋友",
+      "level": 2,
+      "wordCount": 12859,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "简·罗伯茨与3400万名朋友",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=833565&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 24,
+      "title": "第九章 投资于教育",
+      "level": 1,
+      "wordCount": 9,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 25,
+      "title": "安与安琪莉",
+      "level": 2,
+      "wordCount": 12171,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "安与安琪莉",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=833565&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 26,
+      "title": "第十章 小额信贷：金融改革",
+      "level": 1,
+      "wordCount": 13,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 27,
+      "title": "送给戈蕾蒂的“关怀”包裹",
+      "level": 2,
+      "wordCount": 13472,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "送给戈蕾蒂的“关怀”包裹",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=833565&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 28,
+      "title": "第十一章 中国与卢旺达",
+      "level": 1,
+      "wordCount": 11,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 29,
+      "title": "大声说出心底的秘密",
+      "level": 2,
+      "wordCount": 10155,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "大声说出心底的秘密",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=833565&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 30,
+      "title": "第十二章 草根VS.树顶",
+      "level": 1,
+      "wordCount": 12,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 31,
+      "title": "女孩帮助女孩",
+      "level": 2,
+      "wordCount": 8744,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "女孩帮助女孩",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=833565&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 32,
+      "title": "第十三章 你能够做什么",
+      "level": 1,
+      "wordCount": 11,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 33,
+      "title": "花十分钟就能付诸行动的四个步骤",
+      "level": 2,
+      "wordCount": 15864,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "花十分钟就能付诸行动的四个步骤",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=833565&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 34,
+      "title": "如果你想了解妇女救援组织",
+      "level": 1,
+      "wordCount": 3631,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 35,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 2245,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=833565&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=65"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 43,
+      "chapterTitle": "新废奴主义者",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "833565_43_359-450",
+          "range": "359-450",
+          "rangeStart": 359,
+          "rangeEnd": 450,
+          "markText": "讲理的人会调适自己以适应世界，不讲理的人企图调整世界来适应自己，因此所有的进步都有赖于不讲理的人。\n——萧伯纳",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1718759821,
+          "createTimeFormatted": "2024-06-19 09:17:01",
+          "chapterUid": 43,
+          "appLink": "weread://bestbookmark?bookId=833565&chapterUid=43&rangeStart=359&rangeEnd=450",
+          "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=43&rangeStart=359&rangeEnd=450"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "833565_37_6704-6734",
+      "chapterUid": 37,
+      "range": "6704-6734",
+      "markText": "女人不是难题，而是解决之道；女孩的苦境不再是悲剧，而是契机。",
+      "totalCount": 3852,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=37&rangeStart=6704&rangeEnd=6734",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=37&rangeStart=6704&rangeEnd=6734"
+    },
+    {
+      "bookmarkId": "833565_37_2241-2297",
+      "chapterUid": 37,
+      "range": "2241-2297",
+      "markText": "当马来西亚警察把她载到泰国边界时，她以为是护送她回家，结果却把她再度卖给了人贩子，人贩子又把她卖给一家泰国妓院。",
+      "totalCount": 2656,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=37&rangeStart=2241&rangeEnd=2297",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=37&rangeStart=2241&rangeEnd=2297"
+    },
+    {
+      "bookmarkId": "833565_39_2994-3078",
+      "chapterUid": 39,
+      "range": "2994-3078",
+      "markText": "矛盾的是，在性方面最为严格保守的国家，比如印度、巴基斯坦和伊朗，反而是从妓人数特别多的国家。因为当地的年轻男子很少跟女友上床，通过娼妓来发泄性欲就变成是社会可以接受的。",
+      "totalCount": 2484,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=39&rangeStart=2994&rangeEnd=3078",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=39&rangeStart=2994&rangeEnd=3078"
+    },
+    {
+      "bookmarkId": "833565_37_4985-5031",
+      "chapterUid": 37,
+      "range": "4985-5031",
+      "markText": "在中国福建省，曾有一个农民在谈到超声波时相当激动，咆哮着说：“这样我们就再也不用生女儿了！”",
+      "totalCount": 2034,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=37&rangeStart=4985&rangeEnd=5031",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=37&rangeStart=4985&rangeEnd=5031"
+    },
+    {
+      "bookmarkId": "833565_39_959-992",
+      "chapterUid": 39,
+      "range": "959-992",
+      "markText": "他们是横跨两代的卖淫世界，即母亲自己卖淫，也把女儿养大做同样的事。",
+      "totalCount": 1944,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=39&rangeStart=959&rangeEnd=992",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=39&rangeStart=959&rangeEnd=992"
+    },
+    {
+      "bookmarkId": "833565_53_5922-6019",
+      "chapterUid": 53,
+      "range": "5922-6019",
+      "markText": "你的身体就像个包装良好的棒棒糖。你和男人上床时，他会剥开并吸吮你这个棒棒糖。当时可能感觉不错，但不幸的是，他一旦跟你玩完了，你能给下一个伴侣的，仅剩一个包装破烂、被臭口水玷污了的棒棒糖（傻瓜）。",
+      "totalCount": 1692,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=53&rangeStart=5922&rangeEnd=6019",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=53&rangeStart=5922&rangeEnd=6019"
+    },
+    {
+      "bookmarkId": "833565_51_7231-7325",
+      "chapterUid": 51,
+      "range": "7231-7325",
+      "markText": "惠乔尔人认为生产之苦应该男女共同分担，因此生产时，产妇会抓着一根绑在丈夫睪丸上的绳子，每一次阵痛，她就会拉扯绳子，好让男人也“阵痛”。要是其他地方也采用这种方式，分娩伤害想不被关注都不行。",
+      "totalCount": 1529,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=51&rangeStart=7231&rangeEnd=7325",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=51&rangeStart=7231&rangeEnd=7325"
+    },
+    {
+      "bookmarkId": "833565_43_359-450",
+      "chapterUid": 43,
+      "range": "359-450",
+      "markText": "讲理的人会调适自己以适应世界，不讲理的人企图调整世界来适应自己，因此所有的进步都有赖于不讲理的人。 ——萧伯纳",
+      "totalCount": 1419,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=43&rangeStart=359&rangeEnd=450",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=43&rangeStart=359&rangeEnd=450"
+    },
+    {
+      "bookmarkId": "833565_39_16482-16528",
+      "chapterUid": 39,
+      "range": "16482-16528",
+      "markText": "在那片土地上，人们衣食不缺，生病时有药可救。她心想：在这样的地方，大家一定每时每刻都很开心。",
+      "totalCount": 1394,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=39&rangeStart=16482&rangeEnd=16528",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=39&rangeStart=16482&rangeEnd=16528"
+    },
+    {
+      "bookmarkId": "833565_37_3104-3161",
+      "chapterUid": 37,
+      "range": "3104-3161",
+      "markText": "部分原因在于，我们记者往往善于报道特定日子发生的事件，却疏于报道每日常态性发生的事情，比如妇女每日遭受的残暴对待。",
+      "totalCount": 1344,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=37&rangeStart=3104&rangeEnd=3161",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=37&rangeStart=3104&rangeEnd=3161"
+    },
+    {
+      "bookmarkId": "833565_51_873-946",
+      "chapterUid": 51,
+      "range": "873-946",
+      "markText": "生产时，一个没有受过训练的产婆过来接生，没想到普鲁登斯的子宫颈堵塞，胎儿出不来。阵痛三天之后，产婆坐到普鲁登斯的肚子上蹦来蹦去，导致她的子宫破裂。",
+      "totalCount": 1260,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=51&rangeStart=873&rangeEnd=946",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=51&rangeStart=873&rangeEnd=946"
+    },
+    {
+      "bookmarkId": "833565_41_1372-1429",
+      "chapterUid": 41,
+      "range": "1372-1429",
+      "markText": "官员耸耸肩，不为所动。“的确是不幸，”他附和道，“但是只有牺牲这些女孩，我们的社会才能和谐，良家妇女才能够安全。”",
+      "totalCount": 1246,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=41&rangeStart=1372&rangeEnd=1429",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=41&rangeStart=1372&rangeEnd=1429"
+    },
+    {
+      "bookmarkId": "833565_33_543-572",
+      "chapterUid": 33,
+      "range": "543-572",
+      "markText": "献给全球所有站在前线拯救世界的人，即使一次只解救一名妇女。",
+      "totalCount": 1218,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=33&rangeStart=543&rangeEnd=572",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=33&rangeStart=543&rangeEnd=572"
+    },
+    {
+      "bookmarkId": "833565_37_5430-5501",
+      "chapterUid": 37,
+      "range": "5430-5501",
+      "markText": "19世纪，核心的道德挑战是奴役制度；20世纪，则是对极权主义的抗争。我们相信在迈入21世纪后，最重要的道德挑战将会是全球对性别平等的奋力追求。",
+      "totalCount": 1216,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=37&rangeStart=5430&rangeEnd=5501",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=37&rangeStart=5430&rangeEnd=5501"
+    },
+    {
+      "bookmarkId": "833565_39_13748-13786",
+      "chapterUid": 39,
+      "range": "13748-13786",
+      "markText": "“我们逐渐明白，身为得天独厚的一群人，我们需要成为世界上规模更大的正能量。”",
+      "totalCount": 1188,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=39&rangeStart=13748&rangeEnd=13786",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=39&rangeStart=13748&rangeEnd=13786"
+    },
+    {
+      "bookmarkId": "833565_41_2020-2062",
+      "chapterUid": 41,
+      "range": "2020-2062",
+      "markText": "粉碎现代奴役的技术手段并不缺乏，缺乏的是政治意愿。政治决心一定是任何废奴运动的起点。",
+      "totalCount": 1050,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=41&rangeStart=2020&rangeEnd=2062",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=41&rangeStart=2020&rangeEnd=2062"
+    },
+    {
+      "bookmarkId": "833565_47_1072-1108",
+      "chapterUid": 47,
+      "range": "1072-1108",
+      "markText": "荣誉谋杀的矛盾在于，道德规范最为严格的社会，却准许最没道德的行为：谋杀。",
+      "totalCount": 1001,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=47&rangeStart=1072&rangeEnd=1108",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=47&rangeStart=1072&rangeEnd=1108"
+    },
+    {
+      "bookmarkId": "833565_39_4254-4291",
+      "chapterUid": 39,
+      "range": "4254-4291",
+      "markText": "警方似乎不可能是妓院女孩的救星，因为警察定期光顾妓院，而且能得到免费服务。",
+      "totalCount": 990,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=39&rangeStart=4254&rangeEnd=4291",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=39&rangeStart=4254&rangeEnd=4291"
+    },
+    {
+      "bookmarkId": "833565_37_2777-2854",
+      "chapterUid": 37,
+      "range": "2777-2854",
+      "markText": "在印度，女子因嫁妆不够而被处罚或因男人想要再娶而被杀害的“火烧新娘”(bride burning)事件，大约每两个小时发生一起，但是这种消息很少成为新闻。",
+      "totalCount": 972,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=37&rangeStart=2777&rangeEnd=2854",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=37&rangeStart=2777&rangeEnd=2854"
+    },
+    {
+      "bookmarkId": "833565_37_5310-5401",
+      "chapterUid": 37,
+      "range": "5310-5401",
+      "markText": "过去50年来遭到杀害的女孩，比死于20世纪所有战争的男性还多，仅仅因为她们的性别。任何一个十年当中，在常态性的“性别屠杀”中丧命的女孩人数，远多于20世纪所有大屠杀中惨遭杀害的人数。",
+      "totalCount": 936,
+      "appLink": "weread://bestbookmark?bookId=833565&chapterUid=37&rangeStart=5310&rangeEnd=5401",
+      "webLink": "https://weread.qq.com/web/reader/1a4320e05cb81d1a473b583?chapterUid=37&rangeStart=5310&rangeEnd=5401"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

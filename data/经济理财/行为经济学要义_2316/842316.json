@@ -1,0 +1,356 @@
+{
+  "meta": {
+    "bookId": "842316",
+    "title": "行为经济学要义",
+    "author": "汪丁丁",
+    "translator": "",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/316/842316/t6_842316.jpg",
+    "intro": "《行为经济学要义》主旨在于表达汪丁丁教授最近四五年在这一领域寻求更具简单性、统一性和可证伪性的分析框架的思想成果。书中着重探讨了一个极为艰难的主题——模型与现象之间的关系，以及基于这种关系的经济学解释，尤其是在行为主体墨守的各类成规当中，吸引汪丁丁教授长期关注并认为最有希望被纳入行为经济学基本模型的人格/气质模型。而返回生活常识以及批判性思考，则是汪丁丁教授心目中行为经济学研究的两大原则，如此方可限制理性，警惕官僚化倾向，更好地保持对生活的敏感性，求解中国问题。",
+    "category": "经济理财-财经",
+    "publisher": "上海人民出版社",
+    "publishTime": "2015-10-01 00:00:00",
+    "isbn": "9787208132900",
+    "wordCount": 0,
+    "newRating": 711,
+    "newRatingCount": 112,
+    "newRatingDetail": {
+      "good": 77,
+      "fair": 34,
+      "poor": 1,
+      "recent": 1,
+      "deepV": 11,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=842316",
+    "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0",
+    "lastSync": "2026-05-21T11:45:41Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=842316&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 156,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=842316&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "简短的序",
+      "level": 1,
+      "wordCount": 3139,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=842316&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "一、引言",
+      "level": 1,
+      "wordCount": 10210,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=842316&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "二、行为经济学的基本模型",
+      "level": 1,
+      "wordCount": 7890,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=842316&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "三、人格或气质",
+      "level": 1,
+      "wordCount": 8812,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=842316&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "四、网络社会科学",
+      "level": 1,
+      "wordCount": 24466,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=842316&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "五、关于演化社会理论的探讨",
+      "level": 1,
+      "wordCount": 32497,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=842316&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=8"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 3,
+      "chapterTitle": "简短的序",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "842316_3_410-447",
+          "range": "410-447",
+          "rangeStart": 410,
+          "rangeEnd": 447,
+          "markText": "行为经济学也将满足社会科学对理论的以下三项要求：简单性、统一性、可证伪性。",
+          "colorStyle": 4,
+          "colorLabel": "",
+          "createTime": 1771833438,
+          "createTimeFormatted": "2026-02-23 15:57:18",
+          "chapterUid": 3,
+          "appLink": "weread://bestbookmark?bookId=842316&chapterUid=3&rangeStart=410&rangeEnd=447",
+          "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=3&rangeStart=410&rangeEnd=447"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "842316_3_410-447",
+      "chapterUid": 3,
+      "range": "410-447",
+      "markText": "行为经济学也将满足社会科学对理论的以下三项要求：简单性、统一性、可证伪性。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=3&rangeStart=410&rangeEnd=447",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=3&rangeStart=410&rangeEnd=447"
+    },
+    {
+      "bookmarkId": "842316_3_1920-1992",
+      "chapterUid": 3,
+      "range": "1920-1992",
+      "markText": "张五常认定为经济学唯一重要定律的“需求假说”可被重新表述为更具普遍性的行为经济学假说——任何人选择任一可选方案的欲望与这一可选方案的代价成反比。",
+      "totalCount": 65,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=3&rangeStart=1920&rangeEnd=1992",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=3&rangeStart=1920&rangeEnd=1992"
+    },
+    {
+      "bookmarkId": "842316_3_1226-1280",
+      "chapterUid": 3,
+      "range": "1226-1280",
+      "markText": "迅速积累的脑科学数据，与行为经济学的另外两大研究方法（实验和仿真），必将而且已经对经济学产生了革命性的影响。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=3&rangeStart=1226&rangeEnd=1280",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=3&rangeStart=1226&rangeEnd=1280"
+    },
+    {
+      "bookmarkId": "842316_7_34650-34728",
+      "chapterUid": 7,
+      "range": "34650-34728",
+      "markText": "我们读经典，最初无法深入，因为生活体验不足，此谓“重要性感受不足”。阅历渐长，每读经典都觉开卷有益，是因为切身的感受，通过经典作品的表达，展开了我们的理解。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=7&rangeStart=34650&rangeEnd=34728",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=7&rangeStart=34650&rangeEnd=34728"
+    },
+    {
+      "bookmarkId": "842316_3_3351-3378",
+      "chapterUid": 3,
+      "range": "3351-3378",
+      "markText": "三类现象：（1）稀缺性，（2）不确定性，（3）复杂性。",
+      "totalCount": 52,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=3&rangeStart=3351&rangeEnd=3378",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=3&rangeStart=3351&rangeEnd=3378"
+    },
+    {
+      "bookmarkId": "842316_4_11399-11481",
+      "chapterUid": 4,
+      "range": "11399-11481",
+      "markText": "法玛（Eugene F.Fama）由于确立了金融市场有效性假设而分享诺贝尔经济学奖，他指出，一个理论被称为“好的”，如果它满足三项条件——简单性、统一性、可证伪性。",
+      "totalCount": 52,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=4&rangeStart=11399&rangeEnd=11481",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=4&rangeStart=11399&rangeEnd=11481"
+    },
+    {
+      "bookmarkId": "842316_4_1680-1698",
+      "chapterUid": 4,
+      "range": "1680-1698",
+      "markText": "有稀缺就有竞争，并且有竞争就有歧视。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=4&rangeStart=1680&rangeEnd=1698",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=4&rangeStart=1680&rangeEnd=1698"
+    },
+    {
+      "bookmarkId": "842316_4_6371-6423",
+      "chapterUid": 4,
+      "range": "6371-6423",
+      "markText": "张五常“街头巷尾观察世界”几十年修成的功夫，使他能从人们的行为（变量）准确推测诱致了这些行为的社会制度。",
+      "totalCount": 42,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=4&rangeStart=6371&rangeEnd=6423",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=4&rangeStart=6371&rangeEnd=6423"
+    },
+    {
+      "bookmarkId": "842316_3_1309-1370",
+      "chapterUid": 3,
+      "range": "1309-1370",
+      "markText": "中国的经济学研究十分落后，主要由于教育与科研管理体制的极端官僚化，或许，中国的经济学研究正以加速度落后于西方的经济学研究。",
+      "totalCount": 40,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=3&rangeStart=1309&rangeEnd=1370",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=3&rangeStart=1309&rangeEnd=1370"
+    },
+    {
+      "bookmarkId": "842316_4_411-449",
+      "chapterUid": 4,
+      "range": "411-449",
+      "markText": "核心观念的展开，就是理论。因此，研读任何一套理论，最快捷的方式就是直入核心。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=4&rangeStart=411&rangeEnd=449",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=4&rangeStart=411&rangeEnd=449"
+    },
+    {
+      "bookmarkId": "842316_4_3764-3832",
+      "chapterUid": 4,
+      "range": "3764-3832",
+      "markText": "小密尔首先是逻辑学家，英文表达具有严谨的逻辑感，他定义了“价值”（values）——被感受到的重要性（importance felt）。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=4&rangeStart=3764&rangeEnd=3832",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=4&rangeStart=3764&rangeEnd=3832"
+    },
+    {
+      "bookmarkId": "842316_4_5632-5665",
+      "chapterUid": 4,
+      "range": "5632-5665",
+      "markText": "仅当幸存者被经济学家观察到的时候，幸存者的行为被赋予经济学的理性。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=4&rangeStart=5632&rangeEnd=5665",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=4&rangeStart=5632&rangeEnd=5665"
+    },
+    {
+      "bookmarkId": "842316_5_4997-5067",
+      "chapterUid": 5,
+      "range": "4997-5067",
+      "markText": "极端而言，对于特定问题有完备理性的行为主体，“能力—困难”差距等于零。在另一极端，完全没有理性能力的行为主体，“能力—困难”差距趋于无穷大。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=5&rangeStart=4997&rangeEnd=5067",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=5&rangeStart=4997&rangeEnd=5067"
+    },
+    {
+      "bookmarkId": "842316_8_29377-29392",
+      "chapterUid": 8,
+      "range": "29377-29392",
+      "markText": "权力就是将成本加给他人的能力。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=8&rangeStart=29377&rangeEnd=29392",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=8&rangeStart=29377&rangeEnd=29392"
+    },
+    {
+      "bookmarkId": "842316_4_2461-2557",
+      "chapterUid": 4,
+      "range": "2461-2557",
+      "markText": "罗和德布鲁证明的“福利经济学第二基本定理”，提供了这样的承诺，即通过改变初始资源禀赋（包括财产权利）在社会成员当中的分布，可以使完全竞争市场经济的一般均衡恰好是社会福利最大化所需的帕累托状态。",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=4&rangeStart=2461&rangeEnd=2557",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=4&rangeStart=2461&rangeEnd=2557"
+    },
+    {
+      "bookmarkId": "842316_4_3134-3211",
+      "chapterUid": 4,
+      "range": "3134-3211",
+      "markText": "假如世界充满着不确定性，那么，行为主体的每一行为的全部可能后果，应依照这些后果使行为主体满意的程度排列在横轴上，这些后果的发生概率，于是形成一条分布曲线。",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=4&rangeStart=3134&rangeEnd=3211",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=4&rangeStart=3134&rangeEnd=3211"
+    },
+    {
+      "bookmarkId": "842316_4_6149-6198",
+      "chapterUid": 4,
+      "range": "6149-6198",
+      "markText": "经济学解释可从假说开始，但必须始终坚持内生于模型的变量具有很好的可观测性，于是能推演出可检验的命题",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=4&rangeStart=6149&rangeEnd=6198",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=4&rangeStart=6149&rangeEnd=6198"
+    },
+    {
+      "bookmarkId": "842316_4_8137-8168",
+      "chapterUid": 4,
+      "range": "8137-8168",
+      "markText": "如果偏好是稳定不变的，为什么一些人比另一些人更喜欢听古典音乐？",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=4&rangeStart=8137&rangeEnd=8168",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=4&rangeStart=8137&rangeEnd=8168"
+    },
+    {
+      "bookmarkId": "842316_4_10707-10785",
+      "chapterUid": 4,
+      "range": "10707-10785",
+      "markText": "这一假说具有足够的普遍性；其次，是否下雨，这是可观测的；第三，如果某一天，虽然不下雨，我却看到一片乌云飘过，那么，我知道我必须修正我的假说，因为出现了反例。",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=4&rangeStart=10707&rangeEnd=10785",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=4&rangeStart=10707&rangeEnd=10785"
+    },
+    {
+      "bookmarkId": "842316_6_11387-11460",
+      "chapterUid": 6,
+      "range": "11387-11460",
+      "markText": "人们倾向于高估小概率事件的权重——即给予客观概率很小的各种事件过高的（超过客观概率的）重要性感受，同时倾向于低估大概率和中等概率的各种事件的权重。",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=842316&chapterUid=6&rangeStart=11387&rangeEnd=11460",
+      "webLink": "https://weread.qq.com/web/reader/6eb32be05cda4c6eb68f0d0?chapterUid=6&rangeStart=11387&rangeEnd=11460"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

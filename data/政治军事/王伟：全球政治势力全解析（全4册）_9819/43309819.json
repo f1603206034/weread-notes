@@ -1,0 +1,1584 @@
+{
+  "meta": {
+    "bookId": "43309819",
+    "title": "王伟：全球政治势力全解析（全4册）",
+    "author": "王伟",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/3/yuewen_43309819/t6_yuewen_433098191775031700.jpg",
+    "intro": "将复杂多变的世界全景呈现出来，并从政治、经济和地缘政治的角度对历史加以回顾和剖析，将其中所隐含的背后规律一一展现。使读者能够了解当今世界格局形成的由来以及未来的走向。更重要的是，我们可以在这一过程中，为未来的中国找出一些启示。正如江晓原先生所说：“理解今日的世界格局;是为了开创明日属于中国的新格局。”\n套装共4册，分别为《看懂世界格局的第一本书》《看懂世界格局的第一本书：石油战争》《一本书看懂地缘世界》《用地图看懂世界格局》",
+    "category": "政治军事-政治",
+    "publisher": "",
+    "publishTime": "2026-03-27 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 858,
+    "newRatingCount": 757,
+    "newRatingDetail": {
+      "good": 650,
+      "fair": 76,
+      "poor": 31,
+      "recent": 48,
+      "deepV": 242,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=43309819",
+    "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15",
+    "lastSync": "2026-05-21T11:56:51Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=1"
+    },
+    {
+      "chapterUid": 104,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 606,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=104",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=104"
+    },
+    {
+      "chapterUid": 105,
+      "chapterIdx": 3,
+      "title": "看懂世界格局的第一本书",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=105",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=105"
+    },
+    {
+      "chapterUid": 106,
+      "chapterIdx": 4,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 279,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=106",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=106"
+    },
+    {
+      "chapterUid": 107,
+      "chapterIdx": 5,
+      "title": "前言",
+      "level": 2,
+      "wordCount": 585,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=107",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=107"
+    },
+    {
+      "chapterUid": 108,
+      "chapterIdx": 6,
+      "title": "起于化外之地——话说美国崛起",
+      "level": 2,
+      "wordCount": 27529,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "背叛不列颠——美国作配角的独立战争",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        },
+        {
+          "title": "二元经济——为何无人能做美国的国王",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "美式政治——不是谁都玩得起",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        },
+        {
+          "title": "不甚光彩的启动资金",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        },
+        {
+          "title": "南北战争——崛起绝非是无代价的",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        },
+        {
+          "title": "美西战争——捏软柿子是一种智慧",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        },
+        {
+          "title": "“软控制”——成本核算下的体制创新",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        },
+        {
+          "title": "参加一战——美国的超级大生意",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        },
+        {
+          "title": "罗斯福新政——国家意志主导下的大转折",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "他山之玉",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=108",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=108"
+    },
+    {
+      "chapterUid": 109,
+      "chapterIdx": 7,
+      "title": "二分天下——战后格局大洗牌",
+      "level": 2,
+      "wordCount": 20240,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "登临宇宙之巅——“欧美”正式变“美欧”",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        },
+        {
+          "title": "布雷顿森林会议——英镑已死，美元当立",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        },
+        {
+          "title": "经济形态与霸权模式",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        },
+        {
+          "title": "回顾——货币视角下的20年代",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "苏联——“第三种选择”下的新型大国",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        },
+        {
+          "title": "怀璧其罪——想不打都不行的冷战",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "铁幕降临——意识形态先行",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        },
+        {
+          "title": "两德分裂",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        },
+        {
+          "title": "日本战后经济崛起",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=109",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=109"
+    },
+    {
+      "chapterUid": 110,
+      "chapterIdx": 8,
+      "title": "经略中东",
+      "level": 2,
+      "wordCount": 4530,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "得中东者得天下",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "巴以棋局",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        },
+        {
+          "title": "二次中东战争",
+          "anchor": "sigil_toc_id_22",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=110",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=110"
+    },
+    {
+      "chapterUid": 111,
+      "chapterIdx": 9,
+      "title": "郁闷的年代",
+      "level": 2,
+      "wordCount": 6111,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "美国制造业的软肋",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "古巴导弹危机",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "越南战争",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=111",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=111"
+    },
+    {
+      "chapterUid": 112,
+      "chapterIdx": 10,
+      "title": "重塑“山巅之城”",
+      "level": 2,
+      "wordCount": 14771,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "重塑“山巅之城”",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        },
+        {
+          "title": "“罗马”式全球化",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        },
+        {
+          "title": "帝国基石",
+          "anchor": "sigil_toc_id_28",
+          "level": 3
+        },
+        {
+          "title": "整肃盟国",
+          "anchor": "sigil_toc_id_29",
+          "level": 3
+        },
+        {
+          "title": "话说比较优势",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=112",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=112"
+    },
+    {
+      "chapterUid": 113,
+      "chapterIdx": 11,
+      "title": "蝙蝠效应——话说苏联解体",
+      "level": 2,
+      "wordCount": 28045,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "隐患",
+          "anchor": "sigil_toc_id_31",
+          "level": 3
+        },
+        {
+          "title": "逆局",
+          "anchor": "sigil_toc_id_32",
+          "level": 3
+        },
+        {
+          "title": "异化",
+          "anchor": "sigil_toc_id_33",
+          "level": 3
+        },
+        {
+          "title": "背叛",
+          "anchor": "sigil_toc_id_34",
+          "level": 3
+        },
+        {
+          "title": "暗战",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        },
+        {
+          "title": "“8·19事件”",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        },
+        {
+          "title": "颜色革命",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        },
+        {
+          "title": "死亡进行时",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "阿富汗战争",
+          "anchor": "sigil_toc_id_39",
+          "level": 3
+        },
+        {
+          "title": "回望车臣",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=113",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=113"
+    },
+    {
+      "chapterUid": 114,
+      "chapterIdx": 12,
+      "title": "统一与分裂——话说印度",
+      "level": 2,
+      "wordCount": 9456,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "之一",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        },
+        {
+          "title": "之二",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=114",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=114"
+    },
+    {
+      "chapterUid": 115,
+      "chapterIdx": 13,
+      "title": "战国时代",
+      "level": 2,
+      "wordCount": 16736,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "海湾战争——冷战后的立威之战",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        },
+        {
+          "title": "科索沃战争",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        },
+        {
+          "title": "冷战红利",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "失败的“毕其功于一役”",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        },
+        {
+          "title": "简述2008年金融危机",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=115",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=115"
+    },
+    {
+      "chapterUid": 116,
+      "chapterIdx": 14,
+      "title": "看懂世界格局的第一本书：石油战争",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=116",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=116"
+    },
+    {
+      "chapterUid": 117,
+      "chapterIdx": 15,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 280,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=117",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=117"
+    },
+    {
+      "chapterUid": 118,
+      "chapterIdx": 16,
+      "title": "前言",
+      "level": 2,
+      "wordCount": 580,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=118",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=118"
+    },
+    {
+      "chapterUid": 119,
+      "chapterIdx": 17,
+      "title": "第一章 美酒与毒药",
+      "level": 2,
+      "wordCount": 14849,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "始于诺贝尔家族的俄国石油工业",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "能源危机背后的机会",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        },
+        {
+          "title": "“煤、油”之争背后的隐患",
+          "anchor": "sigil_toc_id_50",
+          "level": 3
+        },
+        {
+          "title": "逆向行驶的苏联工业",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        },
+        {
+          "title": "“二战”成就了苏联的石油工业",
+          "anchor": "sigil_toc_id_52",
+          "level": 3
+        },
+        {
+          "title": "赫鲁晓夫时代留下的“裂缝”",
+          "anchor": "sigil_toc_id_53",
+          "level": 3
+        },
+        {
+          "title": "农业——苏联的阿喀琉斯之踵",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=119",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=119"
+    },
+    {
+      "chapterUid": 120,
+      "chapterIdx": 18,
+      "title": "第二章 成也石油，败也石油",
+      "level": 2,
+      "wordCount": 22020,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "斯大林的绝地反击",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        },
+        {
+          "title": "饮鸩止渴的“攘内安外”策略",
+          "anchor": "sigil_toc_id_56",
+          "level": 3
+        },
+        {
+          "title": "定时炸弹——《赫尔辛基协定》",
+          "anchor": "sigil_toc_id_57",
+          "level": 3
+        },
+        {
+          "title": "诡异的石油危机",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        },
+        {
+          "title": "“荷兰病”变成了“苏联病”",
+          "anchor": "sigil_toc_id_59",
+          "level": 3
+        },
+        {
+          "title": "“半吊子”式的阿富汗战争",
+          "anchor": "sigil_toc_id_60",
+          "level": 3
+        },
+        {
+          "title": "肢解苏联的开始",
+          "anchor": "sigil_toc_id_61",
+          "level": 3
+        },
+        {
+          "title": "油价危机引爆",
+          "anchor": "sigil_toc_id_62",
+          "level": 3
+        },
+        {
+          "title": "苏联真正的“死因”",
+          "anchor": "sigil_toc_id_63",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=120",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=120"
+    },
+    {
+      "chapterUid": 121,
+      "chapterIdx": 19,
+      "title": "第三章 里海的秘密",
+      "level": 2,
+      "wordCount": 18106,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "车臣，俄罗斯南部的“应力点”",
+          "anchor": "sigil_toc_id_64",
+          "level": 3
+        },
+        {
+          "title": "乱象显现",
+          "anchor": "sigil_toc_id_65",
+          "level": 3
+        },
+        {
+          "title": "第一次车臣战争",
+          "anchor": "sigil_toc_id_66",
+          "level": 3
+        },
+        {
+          "title": "第二次车臣战争",
+          "anchor": "sigil_toc_id_67",
+          "level": 3
+        },
+        {
+          "title": "俄格“五日战争”",
+          "anchor": "sigil_toc_id_68",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=121",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=121"
+    },
+    {
+      "chapterUid": 122,
+      "chapterIdx": 20,
+      "title": "第四章 经略中东",
+      "level": 2,
+      "wordCount": 15109,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "由来已久的“南下战略”",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        },
+        {
+          "title": "巴以问题上，美苏联手对付英国",
+          "anchor": "sigil_toc_id_70",
+          "level": 3
+        },
+        {
+          "title": "借助埃及，苏联进入战略攻势",
+          "anchor": "sigil_toc_id_71",
+          "level": 3
+        },
+        {
+          "title": "隐患凸显，苏联开始全面收缩",
+          "anchor": "sigil_toc_id_72",
+          "level": 3
+        },
+        {
+          "title": "安德罗波夫时代的“回光返照”",
+          "anchor": "sigil_toc_id_73",
+          "level": 3
+        },
+        {
+          "title": "戈尔巴乔夫时代，苏联在中东全面败退",
+          "anchor": "sigil_toc_id_74",
+          "level": 3
+        },
+        {
+          "title": "普京时代，俄罗斯重返中东",
+          "anchor": "sigil_toc_id_75",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=122",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=122"
+    },
+    {
+      "chapterUid": 123,
+      "chapterIdx": 21,
+      "title": "第五章 寡头战争",
+      "level": 2,
+      "wordCount": 11825,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "依靠政治资源发迹",
+          "anchor": "sigil_toc_id_76",
+          "level": 3
+        },
+        {
+          "title": "依靠混乱崛起",
+          "anchor": "sigil_toc_id_77",
+          "level": 3
+        },
+        {
+          "title": "是危机？还是机遇？",
+          "anchor": "sigil_toc_id_78",
+          "level": 3
+        },
+        {
+          "title": "石油保卫战",
+          "anchor": "sigil_toc_id_79",
+          "level": 3
+        },
+        {
+          "title": "软硬皆施，结束“战争”",
+          "anchor": "sigil_toc_id_80",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=123",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=123"
+    },
+    {
+      "chapterUid": 124,
+      "chapterIdx": 22,
+      "title": "第六章 东欧四国演义",
+      "level": 2,
+      "wordCount": 13444,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "此“国”非彼“国”——从概念说起",
+          "anchor": "sigil_toc_id_81",
+          "level": 3
+        },
+        {
+          "title": "俄罗斯篇",
+          "anchor": "sigil_toc_id_82",
+          "level": 3
+        },
+        {
+          "title": "乌克兰篇",
+          "anchor": "sigil_toc_id_83",
+          "level": 3
+        },
+        {
+          "title": "西欧篇",
+          "anchor": "sigil_toc_id_84",
+          "level": 3
+        },
+        {
+          "title": "美国篇",
+          "anchor": "sigil_toc_id_85",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=124",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=124"
+    },
+    {
+      "chapterUid": 125,
+      "chapterIdx": 23,
+      "title": "尾声",
+      "level": 2,
+      "wordCount": 6778,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资源型经济",
+          "anchor": "sigil_toc_id_86",
+          "level": 3
+        },
+        {
+          "title": "地缘战略",
+          "anchor": "sigil_toc_id_87",
+          "level": 3
+        },
+        {
+          "title": "中国石油战略",
+          "anchor": "sigil_toc_id_88",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=125",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=125"
+    },
+    {
+      "chapterUid": 126,
+      "chapterIdx": 24,
+      "title": "后记一 漫谈俄罗斯“危机”",
+      "level": 2,
+      "wordCount": 3969,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=126",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=126"
+    },
+    {
+      "chapterUid": 127,
+      "chapterIdx": 25,
+      "title": "后记二 中东之王",
+      "level": 2,
+      "wordCount": 4223,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=127",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=127"
+    },
+    {
+      "chapterUid": 128,
+      "chapterIdx": 26,
+      "title": "附录一 俄罗斯的自然资源",
+      "level": 2,
+      "wordCount": 917,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=128",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=128"
+    },
+    {
+      "chapterUid": 129,
+      "chapterIdx": 27,
+      "title": "附录二 苏联战后经济的部分数字",
+      "level": 2,
+      "wordCount": 1112,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=129",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=129"
+    },
+    {
+      "chapterUid": 130,
+      "chapterIdx": 28,
+      "title": "参考文献",
+      "level": 2,
+      "wordCount": 426,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=130",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=130"
+    },
+    {
+      "chapterUid": 131,
+      "chapterIdx": 29,
+      "title": "一本书看懂地缘世界：全球政治势力全解析",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=131",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=131"
+    },
+    {
+      "chapterUid": 132,
+      "chapterIdx": 30,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 288,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=132",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=132"
+    },
+    {
+      "chapterUid": 133,
+      "chapterIdx": 31,
+      "title": "自序 世界与中国",
+      "level": 2,
+      "wordCount": 1256,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=133",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=133"
+    },
+    {
+      "chapterUid": 134,
+      "chapterIdx": 32,
+      "title": "第一章 美国——世界霸主之路",
+      "level": 2,
+      "wordCount": 17203,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 资源丰富的大国胚子",
+          "anchor": "sigil_toc_id_89",
+          "level": 3
+        },
+        {
+          "title": "第二节 领土扩张，插上翅膀",
+          "anchor": "sigil_toc_id_90",
+          "level": 3
+        },
+        {
+          "title": "第三节 世界大战成就的霸业",
+          "anchor": "sigil_toc_id_91",
+          "level": 3
+        },
+        {
+          "title": "第四节 美国视角下的世界",
+          "anchor": "sigil_toc_id_92",
+          "level": 3
+        },
+        {
+          "title": "第五节 美强苏弱的地缘态势",
+          "anchor": "sigil_toc_id_93",
+          "level": 3
+        },
+        {
+          "title": "第六节 美国看苏联解体",
+          "anchor": "sigil_toc_id_94",
+          "level": 3
+        },
+        {
+          "title": "第七节 美军的全球部署与“台风眼”的反美国家",
+          "anchor": "sigil_toc_id_95",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=134",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=134"
+    },
+    {
+      "chapterUid": 135,
+      "chapterIdx": 33,
+      "title": "第二章 欧洲——几百年前的老大",
+      "level": 2,
+      "wordCount": 13698,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 延续千年的“战国时期”",
+          "anchor": "sigil_toc_id_96",
+          "level": 3
+        },
+        {
+          "title": "第二节 欧洲的三大软肋",
+          "anchor": "sigil_toc_id_97",
+          "level": 3
+        },
+        {
+          "title": "第三节 海权帝国的训练营——南欧",
+          "anchor": "sigil_toc_id_98",
+          "level": 3
+        },
+        {
+          "title": "第四节 女皇的嫁妆——克里米亚",
+          "anchor": "sigil_toc_id_99",
+          "level": 3
+        },
+        {
+          "title": "第五节 用地图给乌克兰“算命”",
+          "anchor": "sigil_toc_id_100",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=135",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=135"
+    },
+    {
+      "chapterUid": 136,
+      "chapterIdx": 34,
+      "title": "第三章 俄罗斯——地有多广，心有多大",
+      "level": 2,
+      "wordCount": 13371,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 俯视欧亚的“双头鹰”",
+          "anchor": "sigil_toc_id_101",
+          "level": 3
+        },
+        {
+          "title": "第二节 从地缘看俄罗斯的软肋",
+          "anchor": "sigil_toc_id_102",
+          "level": 3
+        },
+        {
+          "title": "第三节 “坐吃山不空”的俄罗斯",
+          "anchor": "sigil_toc_id_103",
+          "level": 3
+        },
+        {
+          "title": "第四节 俄罗斯的近忧与远虑——车臣",
+          "anchor": "sigil_toc_id_104",
+          "level": 3
+        },
+        {
+          "title": "第五节 俄罗斯的近忧与远虑——远东",
+          "anchor": "sigil_toc_id_105",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=136",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=136"
+    },
+    {
+      "chapterUid": 137,
+      "chapterIdx": 35,
+      "title": "第四章 印度——做“有声有色”的大国",
+      "level": 2,
+      "wordCount": 6542,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 以SWOT分析法看莫迪的“基本盘”",
+          "anchor": "sigil_toc_id_106",
+          "level": 3
+        },
+        {
+          "title": "第二节 性格决定命运，地缘决定“性格”",
+          "anchor": "sigil_toc_id_107",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=137",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=137"
+    },
+    {
+      "chapterUid": 138,
+      "chapterIdx": 36,
+      "title": "第五章 亚板块与破碎地带——混乱与希望",
+      "level": 2,
+      "wordCount": 10406,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 撒哈拉以南非洲——绝望与希望并存之地",
+          "anchor": "sigil_toc_id_108",
+          "level": 3
+        },
+        {
+          "title": "第二节 中东的四个关键词",
+          "anchor": "sigil_toc_id_109",
+          "level": 3
+        },
+        {
+          "title": "第三节 美国的小伙伴——焦虑的澳大利亚",
+          "anchor": "sigil_toc_id_110",
+          "level": 3
+        },
+        {
+          "title": "第四节 难以安宁的巴基斯坦",
+          "anchor": "sigil_toc_id_111",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=138",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=138"
+    },
+    {
+      "chapterUid": 139,
+      "chapterIdx": 37,
+      "title": "第六章 各家都有自己的账",
+      "level": 2,
+      "wordCount": 6602,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 西欧——先发之利",
+          "anchor": "sigil_toc_id_112",
+          "level": 3
+        },
+        {
+          "title": "第二节 美国——两洋之利",
+          "anchor": "sigil_toc_id_113",
+          "level": 3
+        },
+        {
+          "title": "第三节 俄罗斯——陆权与资源之利",
+          "anchor": "sigil_toc_id_114",
+          "level": 3
+        },
+        {
+          "title": "第四节 各大势力的心里话",
+          "anchor": "sigil_toc_id_115",
+          "level": 3
+        },
+        {
+          "title": "第五节 强龙难压地头蛇——亚板块和破碎地带",
+          "anchor": "sigil_toc_id_116",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=139",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=139"
+    },
+    {
+      "chapterUid": 140,
+      "chapterIdx": 38,
+      "title": "第七章 中国——王者归来",
+      "level": 2,
+      "wordCount": 5249,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 中央之国",
+          "anchor": "sigil_toc_id_117",
+          "level": 3
+        },
+        {
+          "title": "第二节 向东？向西？",
+          "anchor": "sigil_toc_id_118",
+          "level": 3
+        },
+        {
+          "title": "第三节 海陆之利",
+          "anchor": "sigil_toc_id_119",
+          "level": 3
+        },
+        {
+          "title": "第四节 “一带一路”，王者归来",
+          "anchor": "sigil_toc_id_120",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=140",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=140"
+    },
+    {
+      "chapterUid": 141,
+      "chapterIdx": 39,
+      "title": "资料来源",
+      "level": 2,
+      "wordCount": 436,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=141",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=141"
+    },
+    {
+      "chapterUid": 142,
+      "chapterIdx": 40,
+      "title": "用地图看懂世界格局",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=142",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=142"
+    },
+    {
+      "chapterUid": 143,
+      "chapterIdx": 41,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 275,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=143",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=143"
+    },
+    {
+      "chapterUid": 144,
+      "chapterIdx": 42,
+      "title": "前言",
+      "level": 2,
+      "wordCount": 683,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=144",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=144"
+    },
+    {
+      "chapterUid": 145,
+      "chapterIdx": 43,
+      "title": "第一章 欧洲篇 从进退两难、英国脱欧说起",
+      "level": 2,
+      "wordCount": 16908,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 地缘造就宿命",
+          "anchor": "sigil_toc_id_121",
+          "level": 3
+        },
+        {
+          "title": "二 摇摆中的外交",
+          "anchor": "sigil_toc_id_122",
+          "level": 3
+        },
+        {
+          "title": "三 漫谈福利制度",
+          "anchor": "sigil_toc_id_123",
+          "level": 3
+        },
+        {
+          "title": "四 英国脱欧",
+          "anchor": "sigil_toc_id_124",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=145",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=145"
+    },
+    {
+      "chapterUid": 146,
+      "chapterIdx": 44,
+      "title": "第二章 美国篇 从经略天下、美国大选说起",
+      "level": 2,
+      "wordCount": 24935,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 从地缘看美国的“基本盘”",
+          "anchor": "sigil_toc_id_125",
+          "level": 3
+        },
+        {
+          "title": "二 创新之本",
+          "anchor": "sigil_toc_id_126",
+          "level": 3
+        },
+        {
+          "title": "三 要法治还是要民主？",
+          "anchor": "sigil_toc_id_127",
+          "level": 3
+        },
+        {
+          "title": "四 经略天下——美国的地缘战略变迁",
+          "anchor": "sigil_toc_id_128",
+          "level": 3
+        },
+        {
+          "title": "五 美国的拐点与特朗普",
+          "anchor": "sigil_toc_id_129",
+          "level": 3
+        },
+        {
+          "title": "附章 中产阶级与国家的战争潜力",
+          "anchor": "sigil_toc_id_130",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=146",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=146"
+    },
+    {
+      "chapterUid": 147,
+      "chapterIdx": 45,
+      "title": "第三章 俄罗斯篇 从俄土争端、叙利亚战争说起",
+      "level": 2,
+      "wordCount": 21953,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 地缘环境与“战斗种族”",
+          "anchor": "sigil_toc_id_131",
+          "level": 3
+        },
+        {
+          "title": "二 权力的游戏——漫谈俄土之间的渊源",
+          "anchor": "sigil_toc_id_132",
+          "level": 3
+        },
+        {
+          "title": "三 叙利亚的博弈——地缘视角下的俄土关系",
+          "anchor": "sigil_toc_id_133",
+          "level": 3
+        },
+        {
+          "title": "四 俄军介入叙利亚的看点",
+          "anchor": "sigil_toc_id_134",
+          "level": 3
+        },
+        {
+          "title": "五 俄印军购——“男神”的另一面",
+          "anchor": "sigil_toc_id_135",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=147",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=147"
+    },
+    {
+      "chapterUid": 148,
+      "chapterIdx": 46,
+      "title": "第四章 中国周边 从萨德导弹、南海争端说起",
+      "level": 2,
+      "wordCount": 22018,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 朝鲜半岛与朝核问题",
+          "anchor": "sigil_toc_id_136",
+          "level": 3
+        },
+        {
+          "title": "二 南海仲裁案",
+          "anchor": "sigil_toc_id_137",
+          "level": 3
+        },
+        {
+          "title": "三 网络安全并非是让网络变得“人畜无害”",
+          "anchor": "sigil_toc_id_138",
+          "level": 3
+        },
+        {
+          "title": "四 以“大经济”的视角审视抗战",
+          "anchor": "sigil_toc_id_139",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=43309819&chapterUid=148",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=148"
+    },
+    {
+      "chapterUid": 149,
+      "chapterIdx": 47,
+      "title": "后记",
+      "level": 2,
+      "wordCount": 568,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43309819&chapterUid=149",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=149"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 135,
+      "chapterTitle": "第二章 欧洲——几百年前的老大",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "43309819_16_434-515",
+          "range": "5166-5247",
+          "rangeStart": 5166,
+          "rangeEnd": 5247,
+          "markText": "一个政治、经济体对全球格局的影响力其实并不完全取决于财富多寡，而是要从以下三方面来看：对全球物流（交通运输线）的影响力、对全球资源分配的影响力，以及自身的行动力。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1722992107,
+          "createTimeFormatted": "2024-08-07 08:55:07",
+          "chapterUid": 135,
+          "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=135&rangeStart=5166&rangeEnd=5247",
+          "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=135&rangeStart=5166&rangeEnd=5247"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "43309819_108_5547-5571",
+      "chapterUid": 108,
+      "range": "5547-5571",
+      "markText": "一个国家的自豪感说到底是来自于它的现状而非历史。",
+      "totalCount": 455,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=108&rangeStart=5547&rangeEnd=5571",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=108&rangeStart=5547&rangeEnd=5571"
+    },
+    {
+      "bookmarkId": "43309819_133_943-1004",
+      "chapterUid": 133,
+      "range": "943-1004",
+      "markText": "主导世界，其实就是能够主导旧大陆—从地缘角度说，就是可以控制最广阔大陆上各个国家之间的物流联系，可以控制足够多的自然资源。",
+      "totalCount": 342,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=133&rangeStart=943&rangeEnd=1004",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=133&rangeStart=943&rangeEnd=1004"
+    },
+    {
+      "bookmarkId": "43309819_135_11515-11560",
+      "chapterUid": 135,
+      "range": "11515-11560",
+      "markText": "如今的南欧四国对于以法、德为核心的欧元区来说，就如同冬天的一件湿棉袄——穿着冷，脱了更冷。",
+      "totalCount": 342,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=135&rangeStart=11515&rangeEnd=11560",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=135&rangeStart=11515&rangeEnd=11560"
+    },
+    {
+      "bookmarkId": "43309819_135_4977-5064",
+      "chapterUid": 135,
+      "range": "4977-5064",
+      "markText": "如果你对如今西欧某些问题有看不清的地方，不妨以看待中国春秋战国史的思路，换个视角来看看；或者反过来，如果我们把春秋战国史当成现在的国际新闻来看，相信你会眼前一亮或是会心一笑。",
+      "totalCount": 324,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=135&rangeStart=4977&rangeEnd=5064",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=135&rangeStart=4977&rangeEnd=5064"
+    },
+    {
+      "bookmarkId": "43309819_108_10022-10096",
+      "chapterUid": 108,
+      "range": "10022-10096",
+      "markText": "而即便是对美国而言，一个国家怎么可能有无休止的对外进行利益扩张？而一旦有朝一日美国无力再维系国外利益不断输送入美国，那么等待这个国家的又将是什么呢？",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=108&rangeStart=10022&rangeEnd=10096",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=108&rangeStart=10022&rangeEnd=10096"
+    },
+    {
+      "bookmarkId": "43309819_134_11966-12049",
+      "chapterUid": 134,
+      "range": "11966-12049",
+      "markText": "以中日关系为例，每次中日出现深度合作的趋势时，两国之间几乎肯定会在岛屿或是历史问题上爆出争端，这其中除了日本国内的因素之外，美国对日本政治支配性的影响力同样不能忽视。",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=134&rangeStart=11966&rangeEnd=12049",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=134&rangeStart=11966&rangeEnd=12049"
+    },
+    {
+      "bookmarkId": "43309819_113_14558-14613",
+      "chapterUid": 113,
+      "range": "14558-14613",
+      "markText": "短短几天，具有93年历史、执政70多年、尚有1500万党员的苏联共产党就这样在没有做什么反抗的情况下彻底死亡。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=113&rangeStart=14558&rangeEnd=14613",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=113&rangeStart=14558&rangeEnd=14613"
+    },
+    {
+      "bookmarkId": "43309819_110_3645-3732",
+      "chapterUid": 110,
+      "range": "3645-3732",
+      "markText": "美国的方案则是让犹太人和阿拉伯人分别建国，这在历史上是从未出现过的，一旦这么搞，因为土地分配问题中东必然会乱。然而最终通过的是美国的那套“不合理”的方案，原因无他，实力使然。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=110&rangeStart=3645&rangeEnd=3732",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=110&rangeStart=3645&rangeEnd=3732"
+    },
+    {
+      "bookmarkId": "43309819_108_668-711",
+      "chapterUid": 108,
+      "range": "668-711",
+      "markText": "中国现在所面临的许多问题其实都可以在19世纪到20世纪初的美国身上找到可以对照的影子。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=108&rangeStart=668&rangeEnd=711",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=108&rangeStart=668&rangeEnd=711"
+    },
+    {
+      "bookmarkId": "43309819_137_3134-3213",
+      "chapterUid": 137,
+      "range": "3134-3213",
+      "markText": "印度却始终可以很轻松地从几乎任何一个国家买到它想要的武器装备。俄、美、英、法、以色列这些国家的军工企业对印度来说，就好像几家各有特色商品的超市一样，掏钱就行。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=137&rangeStart=3134&rangeEnd=3213",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=137&rangeStart=3134&rangeEnd=3213"
+    },
+    {
+      "bookmarkId": "43309819_140_3394-3430",
+      "chapterUid": 140,
+      "range": "3394-3430",
+      "markText": "对中国而言，面向东方（太平洋）是为了把握现在，面向西方则是为了布局未来。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=140&rangeStart=3394&rangeEnd=3430",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=140&rangeStart=3394&rangeEnd=3430"
+    },
+    {
+      "bookmarkId": "43309819_113_18778-18874",
+      "chapterUid": 113,
+      "range": "18778-18874",
+      "markText": "苏联时期著名“持不同政见者”索尔仁尼琴曾写下几十本批判苏联、苏共的书，而当他目睹苏联解体后人民的种种惨状之后，竟后悔莫及地说“早知道是今天这种状况，我真后悔写那些书”，“我害了俄罗斯祖国！”。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=113&rangeStart=18778&rangeEnd=18874",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=113&rangeStart=18778&rangeEnd=18874"
+    },
+    {
+      "bookmarkId": "43309819_134_9946-10034",
+      "chapterUid": 134,
+      "range": "9946-10034",
+      "markText": "1937年，也就是“卢沟桥事变”爆发那一年，美国对日出口额超过28亿美元，其中60%是石油产品和钢材。当时日本消耗的钢铁一半来自美国，侵华战争头三年中消耗燃油的70%来自美国。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=134&rangeStart=9946&rangeEnd=10034",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=134&rangeStart=9946&rangeEnd=10034"
+    },
+    {
+      "bookmarkId": "43309819_134_12273-12355",
+      "chapterUid": 134,
+      "range": "12273-12355",
+      "markText": "一手是保持美国海军在印度洋的存在，使得西欧和东亚直接的海路通道始终控制在美国手里；另一手则是控制或搅乱中亚、西亚至北非这一片区域，这样就截断了东西方之间的陆路通道。",
+      "totalCount": 196,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=134&rangeStart=12273&rangeEnd=12355",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=134&rangeStart=12273&rangeEnd=12355"
+    },
+    {
+      "bookmarkId": "43309819_108_16841-16893",
+      "chapterUid": 108,
+      "range": "16841-16893",
+      "markText": "1886年芝加哥工人掀起大罢工，这次大罢工留给后世的遗产，就是8小时工作制以及每年的“五一”国际劳动节。",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=108&rangeStart=16841&rangeEnd=16893",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=108&rangeStart=16841&rangeEnd=16893"
+    },
+    {
+      "bookmarkId": "43309819_108_30178-30240",
+      "chapterUid": 108,
+      "range": "30178-30240",
+      "markText": "如此一来必然会使人与人之间人情淡漠，缺乏信任——一个社会完全靠“契约”和“法律”来支撑信用，其实也就意味着情感和道德的缺位。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=108&rangeStart=30178&rangeEnd=30240",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=108&rangeStart=30178&rangeEnd=30240"
+    },
+    {
+      "bookmarkId": "43309819_134_2670-2752",
+      "chapterUid": 134,
+      "range": "2670-2752",
+      "markText": "美国的技术可采的石油储量则上升为1.4万亿桶，远远超过沙特（2600亿桶）。天然气储量高达78万亿立方米，远远超过目前世界第一天然气储量大国俄罗斯的48万亿立方米。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=134&rangeStart=2670&rangeEnd=2752",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=134&rangeStart=2670&rangeEnd=2752"
+    },
+    {
+      "bookmarkId": "43309819_138_3683-3764",
+      "chapterUid": 138,
+      "range": "3683-3764",
+      "markText": "非洲如今最大的问题就在这里：缺乏工业，更缺乏一个工业化程度较高的国家。一旦出现这样一个发动机式的国家，在它的带动之下，整个非洲的社会结构就可能引来一场彻底的革新。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=138&rangeStart=3683&rangeEnd=3764",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=138&rangeStart=3683&rangeEnd=3764"
+    },
+    {
+      "bookmarkId": "43309819_108_3147-3240",
+      "chapterUid": 108,
+      "range": "3147-3240",
+      "markText": "当时的英国陆军做的更绝，要参加必须倒给政府钱，不同驻地不同军衔都是明码实价童叟无欺，当然战场上军人的一切劫掠都归个人——英军就靠这个激励“士气”，后来英法联军火烧圆明园其实就是这个缘故】",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=108&rangeStart=3147&rangeEnd=3240",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=108&rangeStart=3147&rangeEnd=3240"
+    },
+    {
+      "bookmarkId": "43309819_108_9477-9545",
+      "chapterUid": 108,
+      "range": "9477-9545",
+      "markText": "这就是美国人处理“赢者通吃”和派系利益矛盾的办法，通过不断的扩张让所有人都能获利，区别仅仅是谁多谁少而已。赢者通吃，但输者同样有利可图。",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=43309819&chapterUid=108&rangeStart=9477&rangeEnd=9545",
+      "webLink": "https://weread.qq.com/web/reader/09d320f07294dafb09dbc15?chapterUid=108&rangeStart=9477&rangeEnd=9545"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

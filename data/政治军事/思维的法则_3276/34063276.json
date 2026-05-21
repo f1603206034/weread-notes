@@ -1,0 +1,826 @@
+{
+  "meta": {
+    "bookId": "34063276",
+    "title": "思维的法则",
+    "author": "陈培永",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/1/YueWen_34063276/t6_YueWen_34063276.jpg",
+    "intro": "领导干部研读马克思主义经典著作，是份内之事，也是难事。在繁忙的工作之余，面对汗牛充栋的经典文本，各级领导干部共同面对的两大基本问题是：读哪些，如何读？读哪些，就是要精挑细选那些能够有助于领导干部认识、分析、解决当代中国重大理论问题和现实问题的文本；如何读，就是要找到这些文本与当代中国现实的结合点，达到提升领导干部理论素养的目标。鉴于此，本丛书立足于领导干部在当前中国特色社会主义建设中遇到的重大理论与现实问题的困惑，选择了马克思、恩格斯、列宁、毛泽东的十篇文献，不求全面梳理，只求精华解读，力求以小语言、美语言写出大思想、重思想，保证此系列丛书真正成为领导干部爱读、能读、好读的经典小书。以五大主题来为经典著作划分、坚守现实的问题导向、塑造小品文的写作风格、清新悦目的装帧设计与幽默风趣的手绘漫画均是此丛书相对于同类丛书的优势。本丛书已列入中共广东省委党校“经典著作如是读”课程教材教辅书目，是省委党校向全省其他各级党校“经典著作如是读”课程推荐使用书目。本书是经典悦读系列丛书的一种，作者围绕毛泽东的《矛盾论》展开论述，语言精练通俗，可读性强，配以十幅精美的手绘漫画。",
+    "category": "政治军事-政治",
+    "publisher": "广东人民出版社",
+    "publishTime": "2018-04-28 00:00:00",
+    "isbn": "9787218095387",
+    "wordCount": 0,
+    "newRating": 772,
+    "newRatingCount": 509,
+    "newRatingDetail": {
+      "good": 382,
+      "fair": 93,
+      "poor": 34,
+      "recent": 4,
+      "deepV": 154,
+      "myRating": "",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=34063276",
+    "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae",
+    "lastSync": "2026-05-21T11:52:23Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 124,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "《经典悦读系列丛书》编委会",
+      "level": 1,
+      "wordCount": 70,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "总序 悦读经典 坚定信念",
+      "level": 1,
+      "wordCount": 1725,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "导言",
+      "level": 1,
+      "wordCount": 1050,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "一、任何时候有矛盾",
+      "level": 1,
+      "wordCount": 567,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34063276&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "2",
+      "level": 2,
+      "wordCount": 855,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "3",
+      "level": 2,
+      "wordCount": 684,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "4",
+      "level": 2,
+      "wordCount": 1750,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "二、任何分析都要“二”",
+      "level": 1,
+      "wordCount": 637,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34063276&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "2",
+      "level": 2,
+      "wordCount": 603,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "3",
+      "level": 2,
+      "wordCount": 998,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "4",
+      "level": 2,
+      "wordCount": 412,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "三、任何统一有对立",
+      "level": 1,
+      "wordCount": 884,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34063276&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "2",
+      "level": 2,
+      "wordCount": 524,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "3",
+      "level": 2,
+      "wordCount": 530,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "4",
+      "level": 2,
+      "wordCount": 1884,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "四、任何做法存特色",
+      "level": 1,
+      "wordCount": 384,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34063276&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "2",
+      "level": 2,
+      "wordCount": 798,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "3",
+      "level": 2,
+      "wordCount": 624,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "4",
+      "level": 2,
+      "wordCount": 767,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "五、任何个性寓共性",
+      "level": 1,
+      "wordCount": 910,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34063276&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "2",
+      "level": 2,
+      "wordCount": 698,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "3",
+      "level": 2,
+      "wordCount": 556,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "4",
+      "level": 2,
+      "wordCount": 2130,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "六、任何发展重内因",
+      "level": 1,
+      "wordCount": 837,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34063276&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "2",
+      "level": 2,
+      "wordCount": 931,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "3",
+      "level": 2,
+      "wordCount": 1850,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "七、任何工作主抓“一”",
+      "level": 1,
+      "wordCount": 617,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34063276&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "2",
+      "level": 2,
+      "wordCount": 577,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "3",
+      "level": 2,
+      "wordCount": 439,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "4",
+      "level": 2,
+      "wordCount": 1491,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "八、任何问题看主流",
+      "level": 1,
+      "wordCount": 709,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34063276&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "2",
+      "level": 2,
+      "wordCount": 587,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "3",
+      "level": 2,
+      "wordCount": 521,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "九、任何思考别绝对",
+      "level": 1,
+      "wordCount": 1194,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34063276&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "2",
+      "level": 2,
+      "wordCount": 763,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "3",
+      "level": 2,
+      "wordCount": 996,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "附录 《矛盾论》妙语选粹",
+      "level": 1,
+      "wordCount": 399,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "后记",
+      "level": 1,
+      "wordCount": 289,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34063276&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=40"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 13,
+      "chapterTitle": "4",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "34063276_13_407-454",
+          "range": "407-454",
+          "rangeStart": 407,
+          "rangeEnd": 454,
+          "markText": "任何时候都要“二”，要允许第二种观点的存在。可以不采纳它，但它必须存在，以真正地保证万无一失。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1741048847,
+          "createTimeFormatted": "2025-03-04 08:40:47",
+          "chapterUid": 13,
+          "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=13&rangeStart=407&rangeEnd=454",
+          "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=13&rangeStart=407&rangeEnd=454"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "34063276_8_1387-1409",
+      "chapterUid": 8,
+      "range": "1387-1409",
+      "markText": "有问题并不可怕，可怕的是不敢承认，不去解决。",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=8&rangeStart=1387&rangeEnd=1409",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=8&rangeStart=1387&rangeEnd=1409"
+    },
+    {
+      "bookmarkId": "34063276_13_963-1003",
+      "chapterUid": 13,
+      "range": "963-1003",
+      "markText": "要搞“群言堂”，要让更多的人进入到决策中，让各种观点激烈地碰撞，产生智慧的火花。",
+      "totalCount": 312,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=13&rangeStart=963&rangeEnd=1003",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=13&rangeStart=963&rangeEnd=1003"
+    },
+    {
+      "bookmarkId": "34063276_27_407-466",
+      "chapterUid": 27,
+      "range": "407-466",
+      "markText": "毛泽东强调内因的根本作用，是为了提醒，看问题，一定要从内部看究竟。不要万事都从外部找原因，而陷入到外因论或被动论之中。",
+      "totalCount": 289,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=27&rangeStart=407&rangeEnd=466",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=27&rangeStart=407&rangeEnd=466"
+    },
+    {
+      "bookmarkId": "34063276_10_1225-1275",
+      "chapterUid": 10,
+      "range": "1225-1275",
+      "markText": "不能只看到自己，看不到别人；只看到领导，看不到群众；只看到成绩，看不到问题；只看到权力，看不到责任。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=10&rangeStart=1225&rangeEnd=1275",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=10&rangeStart=1225&rangeEnd=1275"
+    },
+    {
+      "bookmarkId": "34063276_24_1086-1142",
+      "chapterUid": 24,
+      "range": "1086-1142",
+      "markText": "追求特殊与普遍的转化，把普遍的东西看成特殊，有时会有意想不到的妙处。它会让人的眼界摆脱狭隘，让人的思维更加开阔。",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=24&rangeStart=1086&rangeEnd=1142",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=24&rangeStart=1086&rangeEnd=1142"
+    },
+    {
+      "bookmarkId": "34063276_6_590-623",
+      "chapterUid": 6,
+      "range": "590-623",
+      "markText": "在自然界，在人类社会，在人的思维领域，无事没有矛盾，无时没有矛盾。",
+      "totalCount": 264,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=6&rangeStart=590&rangeEnd=623",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=6&rangeStart=590&rangeEnd=623"
+    },
+    {
+      "bookmarkId": "34063276_13_407-454",
+      "chapterUid": 13,
+      "range": "407-454",
+      "markText": "任何时候都要“二”，要允许第二种观点的存在。可以不采纳它，但它必须存在，以真正地保证万无一失。",
+      "totalCount": 264,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=13&rangeStart=407&rangeEnd=454",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=13&rangeStart=407&rangeEnd=454"
+    },
+    {
+      "bookmarkId": "34063276_7_721-769",
+      "chapterUid": 7,
+      "range": "721-769",
+      "markText": "人终归是要死的，人注定向死而生。只看到生命的“生”，看不到生命的“死”，就是否定矛盾，否定规律。",
+      "totalCount": 256,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=7&rangeStart=721&rangeEnd=769",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=7&rangeStart=721&rangeEnd=769"
+    },
+    {
+      "bookmarkId": "34063276_9_3239-3303",
+      "chapterUid": 9,
+      "range": "3239-3303",
+      "markText": "和谐社会的构建，并不是要否认矛盾，也不表示要消除矛盾。其题中之意，是更加明智、更加积极地承认矛盾，更为清醒地认识矛盾、化解矛盾。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=9&rangeStart=3239&rangeEnd=3303",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=9&rangeStart=3239&rangeEnd=3303"
+    },
+    {
+      "bookmarkId": "34063276_5_821-854",
+      "chapterUid": 5,
+      "range": "821-854",
+      "markText": "我们学习辩证法，不是目的，目的应该是，自觉运用辩证思维来分析问题。",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=5&rangeStart=821&rangeEnd=854",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=5&rangeStart=821&rangeEnd=854"
+    },
+    {
+      "bookmarkId": "34063276_8_455-491",
+      "chapterUid": 8,
+      "range": "455-491",
+      "markText": "毛泽东说：“党内如果没有矛盾和解决矛盾的思想斗争，党的生命也就停止了。”",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=8&rangeStart=455&rangeEnd=491",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=8&rangeStart=455&rangeEnd=491"
+    },
+    {
+      "bookmarkId": "34063276_25_538-594",
+      "chapterUid": 25,
+      "range": "538-594",
+      "markText": "毛泽东指出，人的认识运动，始于认识个别和特殊的事物，然后通过概括，逐步扩大到认识一般的事物，找到事物的共同本质。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=25&rangeStart=538&rangeEnd=594",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=25&rangeStart=538&rangeEnd=594"
+    },
+    {
+      "bookmarkId": "34063276_6_996-1052",
+      "chapterUid": 6,
+      "range": "996-1052",
+      "markText": "毛泽东因此指出：“差异就是矛盾。”“矛盾即是运动，即是事物，即是过程，也即是思想。否认事物的矛盾就否认了一切。”",
+      "totalCount": 225,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=6&rangeStart=996&rangeEnd=1052",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=6&rangeStart=996&rangeEnd=1052"
+    },
+    {
+      "bookmarkId": "34063276_8_520-574",
+      "chapterUid": 8,
+      "range": "520-574",
+      "markText": "矛盾是事物发展的动力。只有承认党内的矛盾，才有动力去解决党内的矛盾，才能推进党的事业的发展，维系党的生命力。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=8&rangeStart=520&rangeEnd=574",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=8&rangeStart=520&rangeEnd=574"
+    },
+    {
+      "bookmarkId": "34063276_11_1228-1274",
+      "chapterUid": 11,
+      "range": "1228-1274",
+      "markText": "生活就是这么奇怪，当你选择从另外一个角度，去思考同一个问题时，可能马上就会有意想不到的收获。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=11&rangeStart=1228&rangeEnd=1274",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=11&rangeStart=1228&rangeEnd=1274"
+    },
+    {
+      "bookmarkId": "34063276_14_1662-1701",
+      "chapterUid": 14,
+      "range": "1662-1701",
+      "markText": "待到一定条件成熟以后，公有制也不是消灭私有制，而是扬弃私有制，实现两者的转化。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=14&rangeStart=1662&rangeEnd=1701",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=14&rangeStart=1662&rangeEnd=1701"
+    },
+    {
+      "bookmarkId": "34063276_6_1289-1330",
+      "chapterUid": 6,
+      "range": "1289-1330",
+      "markText": "只有树立普遍矛盾的思维，才能更好地看懂人生，看透社会，才能更好地工作，更好地生活。",
+      "totalCount": 209,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=6&rangeStart=1289&rangeEnd=1330",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=6&rangeStart=1289&rangeEnd=1330"
+    },
+    {
+      "bookmarkId": "34063276_9_2766-2822",
+      "chapterUid": 9,
+      "range": "2766-2822",
+      "markText": "社会中的各要素以非对抗性为主，以统一性为标志，合作、默契、对话、妥协、双赢、协商等占据主导地位，这就是和谐社会。",
+      "totalCount": 209,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=9&rangeStart=2766&rangeEnd=2822",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=9&rangeStart=2766&rangeEnd=2822"
+    },
+    {
+      "bookmarkId": "34063276_9_1333-1389",
+      "chapterUid": 9,
+      "range": "1333-1389",
+      "markText": "如果满眼全是问题，一味地失望，一味地悲伤，一味地认为世界很坏，就不是客观对待矛盾的态度，也就不可能有辩证思维力。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=9&rangeStart=1333&rangeEnd=1389",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=9&rangeStart=1333&rangeEnd=1389"
+    },
+    {
+      "bookmarkId": "34063276_12_1500-1537",
+      "chapterUid": 12,
+      "range": "1500-1537",
+      "markText": "“第十人理论”，利用的是矛盾分析法，提倡的是不同的声音在重大决策中的作用。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=34063276&chapterUid=12&rangeStart=1500&rangeEnd=1537",
+      "webLink": "https://weread.qq.com/web/reader/eb6326e07207c3aceb61cae?chapterUid=12&rangeStart=1500&rangeEnd=1537"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

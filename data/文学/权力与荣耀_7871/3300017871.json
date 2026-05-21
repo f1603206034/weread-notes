@@ -1,0 +1,490 @@
+{
+  "meta": {
+    "bookId": "3300017871",
+    "title": "权力与荣耀",
+    "author": "格雷厄姆·格林 ",
+    "translator": "傅惟慈",
+    "cover": "https://cdn.weread.qq.com/weread/cover/71/3300017871/t6_3300017871.jpg",
+    "intro": "墨西哥荒芜的烈日下，一位满身污点的神父逃亡在路上，兀鹰飞过。一路上，神父不仅要躲避迫害与追捕，也进行着欲望与道德的激烈斗争：是弃绝神职的权力，堕落地偷生，还是坚持信仰的荣耀，在死亡边缘挣扎？神父既不坚定也不彻底，但他必须作出选择。而权力与荣耀拉扯着他的灵魂，直到一个更高也更危险的地方。",
+    "category": "文学-外国文学",
+    "publisher": "文汇出版社",
+    "publishTime": "2022-04-01 00:00:00",
+    "isbn": "9787549637256",
+    "wordCount": 0,
+    "newRating": 833,
+    "newRatingCount": 327,
+    "newRatingDetail": {
+      "good": 271,
+      "fair": 44,
+      "poor": 12,
+      "recent": 0,
+      "deepV": 80,
+      "myRating": "good",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300017871",
+    "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7",
+    "lastSync": "2026-05-21T12:00:05Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "2022-12-10",
+    "noteCount": 0,
+    "reviewCount": 2,
+    "bookmarkCount": 0,
+    "contentHash": "d3f5f124b5bc2694594e0734e35fa67a31ffb97fbb813d716385c9c06f53da12"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 344,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "第一部",
+      "level": 1,
+      "wordCount": 10515,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 港口",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第二章 省城",
+      "level": 2,
+      "wordCount": 8897,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第三章 河流",
+      "level": 2,
+      "wordCount": 11541,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第四章 旁观者",
+      "level": 2,
+      "wordCount": 10258,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二部",
+      "level": 1,
+      "wordCount": 34426,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第二章",
+      "level": 2,
+      "wordCount": 13769,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第三章",
+      "level": 2,
+      "wordCount": 14359,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第四章",
+      "level": 2,
+      "wordCount": 14457,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第三部",
+      "level": 1,
+      "wordCount": 16618,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第二章",
+      "level": 2,
+      "wordCount": 5427,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第三章",
+      "level": 2,
+      "wordCount": 9072,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第四章",
+      "level": 2,
+      "wordCount": 6030,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第四部",
+      "level": 1,
+      "wordCount": 7827,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "导读：被抛弃的与被拯救的",
+      "level": 1,
+      "wordCount": 6795,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017871&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=16"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 13,
+      "chapterTitle": "第三章",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7MXg1RHso",
+          "range": "6029-6248",
+          "chapterName": "",
+          "content": "我总是既不坚定又不彻底，\n但我会为了信念坚持到底。",
+          "abstract": "还有一件事我弄不懂，”中尉说，“为什么别的人都跑掉了，你却偏偏留下来？”\n“他们并不是都跑掉了。”神父说。\n“那就说你自己吧，你为什么留下来没走？”\n“有一次，”神父说，“我自己也提出这个问题来。事实是，一个人常常不是明明白白地有两条路可供选择，一条路好走，一条路难走。",
+          "star": -1,
+          "createTime": 1700784140,
+          "createTimeFormatted": "2023-11-24 08:02:20",
+          "isFinish": false,
+          "chapterUid": 13
+        }
+      ]
+    }
+  ],
+  "bookReviews": [
+    {
+      "type": "review",
+      "reviewId": "32618646_7N3SmzWFl",
+      "range": "",
+      "chapterName": "",
+      "content": "",
+      "abstract": "",
+      "star": 100,
+      "createTime": 1701160060,
+      "createTimeFormatted": "2023-11-28 16:27:40",
+      "isFinish": false,
+      "chapterUid": 0
+    }
+  ],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300017871_7_613-686",
+      "chapterUid": 7,
+      "range": "613-686",
+      "markText": "生活中怪事很多，人们发现，不论日子多么不好过，总有某些瞬间你还是感到活得很开心，总可以同更倒霉的时刻作比较。即使在艰难险阻中，钟摆也依然来回摇摆。",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=7&rangeStart=613&rangeEnd=686",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=7&rangeStart=613&rangeEnd=686"
+    },
+    {
+      "bookmarkId": "3300017871_3_1953-1989",
+      "chapterUid": 3,
+      "range": "1953-1989",
+      "markText": "今天晚上肯定是做不好的，但人们只能这样活着，不管什么事能往后推就往后推。",
+      "totalCount": 238,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=3&rangeStart=1953&rangeEnd=1989",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=3&rangeStart=1953&rangeEnd=1989"
+    },
+    {
+      "bookmarkId": "3300017871_3_451-522",
+      "chapterUid": 3,
+      "range": "451-522",
+      "markText": "坦奇先生到外边去想给自己弄一罐乙醚，他走到了墨西哥炎炎的赤日下和白热的尘沙中。几只兀鹰用鄙视的眼神从屋顶上冷漠地看着他：他还没有成为一具腐尸。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=3&rangeStart=451&rangeEnd=522",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=3&rangeStart=451&rangeEnd=522"
+    },
+    {
+      "bookmarkId": "3300017871_3_6594-6630",
+      "chapterUid": 3,
+      "range": "6594-6630",
+      "markText": "在一个人的孩提时代，总有那么一个短暂时刻：大门敞开，前途随之踏进了门槛。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=3&rangeStart=6594&rangeEnd=6630",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=3&rangeStart=6594&rangeEnd=6630"
+    },
+    {
+      "bookmarkId": "3300017871_5_6765-6828",
+      "chapterUid": 5,
+      "range": "6765-6828",
+      "markText": "你是无法控制一个你爱之极深的东西的。你会眼睁睁地看着它轻率地冲上一座断桥，一条废弃的车道，一头冲进未来六七十年战栗惊恐的一生。",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=5&rangeStart=6765&rangeEnd=6828",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=5&rangeStart=6765&rangeEnd=6828"
+    },
+    {
+      "bookmarkId": "3300017871_3_572-650",
+      "chapterUid": 3,
+      "range": "572-650",
+      "markText": "一只兀鹰扑扇着翅膀飞走了。它从小镇上飞过去，飞过一个小广场，一座曾经当过总统和将军的某位历史人物的半身雕像，又飞过两个卖矿泉水的货摊，一直向河口和大海飞去。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=3&rangeStart=572&rangeEnd=650",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=3&rangeStart=572&rangeEnd=650"
+    },
+    {
+      "bookmarkId": "3300017871_5_6018-6053",
+      "chapterUid": 5,
+      "range": "6018-6053",
+      "markText": "他非常看不上外国人的这种不同的生活方式，舒适、安全、宽容、自满自足……",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=5&rangeStart=6018&rangeEnd=6053",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=5&rangeStart=6018&rangeEnd=6053"
+    },
+    {
+      "bookmarkId": "3300017871_3_11987-12080",
+      "chapterUid": 3,
+      "range": "11987-12080",
+      "markText": "他站在炙热的阳光下，带着无限的耐心朝屋子里头望着。他说他母亲快死了。他的棕色眼睛里并未流露出多少感情：他面对的是无法更改的现实。你出生了。你的父母离开人世。后来你也老了，你也同样要死掉。",
+      "totalCount": 99,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=3&rangeStart=11987&rangeEnd=12080",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=3&rangeStart=11987&rangeEnd=12080"
+    },
+    {
+      "bookmarkId": "3300017871_11_12350-12427",
+      "chapterUid": 11,
+      "range": "12350-12427",
+      "markText": "令人惊讶的是，同犯罪感并存的是一种清白无罪的感觉，只有意志坚强的和深思熟虑的人或者圣徒才没有这种感觉。这些人走出马厩的时候，个个都觉得自己已经干干净净了。",
+      "totalCount": 99,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=11&rangeStart=12350&rangeEnd=12427",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=11&rangeStart=12350&rangeEnd=12427"
+    },
+    {
+      "bookmarkId": "3300017871_3_6121-6154",
+      "chapterUid": 3,
+      "range": "6121-6154",
+      "markText": "“家”这个词只是用来指四面有墙环绕着的一个人可以在里面睡觉的地方。",
+      "totalCount": 91,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=3&rangeStart=6121&rangeEnd=6154",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=3&rangeStart=6121&rangeEnd=6154"
+    },
+    {
+      "bookmarkId": "3300017871_13_6211-6268",
+      "chapterUid": 13,
+      "range": "6211-6268",
+      "markText": "事实是，一个人常常不是明明白白地有两条路可供选择，一条路好走，一条路难走。有时候他只是身不由己地走上这条或那条路。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=13&rangeStart=6211&rangeEnd=6268",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=13&rangeStart=6211&rangeEnd=6268"
+    },
+    {
+      "bookmarkId": "3300017871_3_6222-6291",
+      "chapterUid": 3,
+      "range": "6222-6291",
+      "markText": "家像是一张风景明信片，同另外一些明信片摞在一起。只要把这摞明信片一翻，就把它翻到了英国诺丁汉市，一个在郊区的出生地，一段发生在绍森德的插曲",
+      "totalCount": 88,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=3&rangeStart=6222&rangeEnd=6291",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=3&rangeStart=6222&rangeEnd=6291"
+    },
+    {
+      "bookmarkId": "3300017871_3_7031-7064",
+      "chapterUid": 3,
+      "range": "7031-7064",
+      "markText": "坦奇先生因为骄傲话音有些颤抖，好像是一株植根不深的植物在簌簌摇动。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=3&rangeStart=7031&rangeEnd=7064",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=3&rangeStart=7031&rangeEnd=7064"
+    },
+    {
+      "bookmarkId": "3300017871_5_9593-9618",
+      "chapterUid": 5,
+      "range": "9593-9618",
+      "markText": "原来“活”这个词也是禁忌，“活”会使人想到“死”。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=5&rangeStart=9593&rangeEnd=9618",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=5&rangeStart=9593&rangeEnd=9618"
+    },
+    {
+      "bookmarkId": "3300017871_3_1282-1292",
+      "chapterUid": 3,
+      "range": "1282-1292",
+      "markText": "我到这里来干什么呢？",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=3&rangeStart=1282&rangeEnd=1292",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=3&rangeStart=1282&rangeEnd=1292"
+    },
+    {
+      "bookmarkId": "3300017871_3_5545-5589",
+      "chapterUid": 3,
+      "range": "5545-5589",
+      "markText": "她是个漂亮姑娘。当然了，再过两年她也就和别的女人没什么不同了，变成一个一身肥肉的蠢婆娘。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=3&rangeStart=5545&rangeEnd=5589",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=3&rangeStart=5545&rangeEnd=5589"
+    },
+    {
+      "bookmarkId": "3300017871_3_13886-13937",
+      "chapterUid": 3,
+      "range": "13886-13937",
+      "markText": "如果你拿不准书里写的是什么，不妨把它藏起来。于是坦奇先生就把这本书放在他那只熔化金属的小火炉的炉膛里。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=3&rangeStart=13886&rangeEnd=13937",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=3&rangeStart=13886&rangeEnd=13937"
+    },
+    {
+      "bookmarkId": "3300017871_5_3304-3336",
+      "chapterUid": 5,
+      "range": "3304-3336",
+      "markText": "生活还没有伤害她，所以她仍然带着一种似乎一切都奈何不了她的神气。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=5&rangeStart=3304&rangeEnd=3336",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=5&rangeStart=3304&rangeEnd=3336"
+    },
+    {
+      "bookmarkId": "3300017871_3_8915-8978",
+      "chapterUid": 3,
+      "range": "8915-8978",
+      "markText": "这人身穿一件黑色衣服，瘦削的肩膀，叫他联想到一口黑棺木，心里觉得很不舒服。再看看他那一口糟朽的牙齿，死亡好像已经进到里面去了。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=3&rangeStart=8915&rangeEnd=8978",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=3&rangeStart=8915&rangeEnd=8978"
+    },
+    {
+      "bookmarkId": "3300017871_7_4724-4795",
+      "chapterUid": 7,
+      "range": "4724-4795",
+      "markText": "神父说：“明天早上我可以给你们做弥撒。”他这样说倒好像是在向他们行贿，但从那些农民脸上的踌躇和不情愿的表情看，他用来行贿的钱倒像是偷来的似的。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300017871&chapterUid=7&rangeStart=4724&rangeEnd=4795",
+      "webLink": "https://weread.qq.com/web/reader/c1132650813ab6d7bg011ce7?chapterUid=7&rangeStart=4724&rangeEnd=4795"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 13,
+    "chapterOffset": 4682,
+    "progress": 0,
+    "updateTime": 1763869812,
+    "recordReadingTime": 0,
+    "finishTime": 1670653868
+  }
+}

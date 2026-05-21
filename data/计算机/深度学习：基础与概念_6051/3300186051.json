@@ -1,0 +1,3645 @@
+{
+  "meta": {
+    "bookId": "3300186051",
+    "title": "深度学习：基础与概念",
+    "author": "[英]克里斯托弗·M. 毕晓普  [英]休·毕晓普",
+    "translator": "邹欣，阮思捷，刘志毅，王树良",
+    "cover": "https://cdn.weread.qq.com/weread/cover/56/cpplatform_4uersnhkbnld2rgq639yxj/t6_cpplatform_4uersnhkbnld2rgq639yxj1765789345.jpg",
+    "intro": "本书全面且深入地呈现了深度学习领域的知识体系，系统梳理了该领域的核心知识，阐述了深度学习的关键概念、基础理论及核心思想，剖析了当代深度学习架构与技术。全书共 20 章。本书首先介绍深度学习的发展历程、基本概念及其在诸多领域（如医疗诊断、图像合成等）产生的深远影响；继而深入探讨支撑深度学习的数学原理，包括概率、标准分布等；在网络模型方面，从单层网络逐步深入到多层网络、深度神经网络，详细讲解其结构、功能、优化方法及其在分类、回归等任务中的应用，同时涵盖卷积网络、Transformer 等前沿架构及其在计算机视觉、自然语言处理等领域的独特作用。本书还对正则化、采样、潜变量、生成对抗网络、自编码器、扩散模型等关键技术展开深入分析，阐释其原理、算法流程及实际应用场景。对于机器学习领域的新手，本书是全面且系统的入门教材，可引领其踏入深度学 习的知识殿堂；对于机器学习领域从业者，本书是深化专业知识、紧跟技术前沿的有力工具；对于相关专业学生，本书是学习深度学习课程、开展学术研究的优质参考资料。无论是理论学习、实践应用还是学术研究，本书都是读者在深度学习领域探索与前行的重要指引。",
+    "category": "计算机-理论知识",
+    "publisher": "人民邮电出版社有限公司",
+    "publishTime": "2025-05-01 00:00:00",
+    "isbn": "9787115663702",
+    "wordCount": 0,
+    "newRating": 759,
+    "newRatingCount": 32,
+    "newRatingDetail": {
+      "good": 22,
+      "fair": 6,
+      "poor": 4,
+      "recent": 1,
+      "deepV": 5,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300186051",
+    "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d",
+    "lastSync": "2026-05-21T11:46:31Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 5,
+    "reviewCount": 6,
+    "bookmarkCount": 0,
+    "contentHash": "e6ba71cee9ff2265d4fa62e90fb5f1737f24515f87612c09b4749b7bf9e99499"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 847,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "内容提要",
+      "level": 1,
+      "wordCount": 491,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "译者简介",
+      "level": 1,
+      "wordCount": 1021,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "邹欣",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "阮思捷",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "刘志毅",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "王树良",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "主要审校者简介",
+      "level": 1,
+      "wordCount": 332,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "吴可寒",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "何纪言",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        },
+        {
+          "title": "高开元",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "于达",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "推荐语",
+      "level": 1,
+      "wordCount": 1937,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=6"
+    },
+    {
+      "chapterUid": 129,
+      "chapterIdx": 7,
+      "title": "译者序",
+      "level": 1,
+      "wordCount": 1467,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=129",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=129"
+    },
+    {
+      "chapterUid": 130,
+      "chapterIdx": 8,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 5057,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "本书目标",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "负责任地使用技术",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        },
+        {
+          "title": "本书的内容结构",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        },
+        {
+          "title": "参考资料",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        },
+        {
+          "title": "习题",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        },
+        {
+          "title": "数学符号",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        },
+        {
+          "title": "致谢",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=130",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=130"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第1章 深度学习革命",
+      "level": 1,
+      "wordCount": 593,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "1.1 深度学习的影响",
+      "level": 2,
+      "wordCount": 3120,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.1.1 医疗诊断",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "1.1.2 蛋白质结构预测",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        },
+        {
+          "title": "1.1.3 图像合成",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        },
+        {
+          "title": "1.1.4 大语言模型",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=10"
+    },
+    {
+      "chapterUid": 131,
+      "chapterIdx": 11,
+      "title": "1.2 一个教学示例",
+      "level": 2,
+      "wordCount": 5901,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.2.1 合成数据",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "1.2.2 线性模型",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        },
+        {
+          "title": "1.2.3 误差函数",
+          "anchor": "sigil_toc_id_22",
+          "level": 3
+        },
+        {
+          "title": "1.2.4 模型复杂度",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "1.2.5 正则化",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "1.2.6 模型选择",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=131",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=131"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "1.3 机器学习简史",
+      "level": 2,
+      "wordCount": 5988,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.3.1 单层网络",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        },
+        {
+          "title": "1.3.2 反向传播",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        },
+        {
+          "title": "1.3.3 深度网络",
+          "anchor": "sigil_toc_id_28",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第2章 概率",
+      "level": 1,
+      "wordCount": 1687,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "2.1 概率法则",
+      "level": 2,
+      "wordCount": 4146,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1.1 医学筛查示例",
+          "anchor": "sigil_toc_id_29",
+          "level": 3
+        },
+        {
+          "title": "2.1.2 加和法则和乘积法则",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        },
+        {
+          "title": "2.1.3 贝叶斯定理",
+          "anchor": "sigil_toc_id_31",
+          "level": 3
+        },
+        {
+          "title": "2.1.4 再看医学筛查示例",
+          "anchor": "sigil_toc_id_32",
+          "level": 3
+        },
+        {
+          "title": "2.1.5 先验概率和后验概率",
+          "anchor": "sigil_toc_id_33",
+          "level": 3
+        },
+        {
+          "title": "2.1.6 独立变量",
+          "anchor": "sigil_toc_id_34",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "2.2 概率密度",
+      "level": 2,
+      "wordCount": 2323,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.2.1 分布的示例",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        },
+        {
+          "title": "2.2.2 期望和协方差",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "2.3 高斯分布",
+      "level": 2,
+      "wordCount": 3744,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.3.1 均值和方差",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        },
+        {
+          "title": "2.3.2 似然函数",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "2.3.3 最大似然的偏差",
+          "anchor": "sigil_toc_id_39",
+          "level": 3
+        },
+        {
+          "title": "2.3.4 线性回归",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=16"
+    },
+    {
+      "chapterUid": 132,
+      "chapterIdx": 17,
+      "title": "2.4 密度变换",
+      "level": 2,
+      "wordCount": 1720,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "多元分布",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=132",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=132"
+    },
+    {
+      "chapterUid": 133,
+      "chapterIdx": 18,
+      "title": "2.5 信息论",
+      "level": 2,
+      "wordCount": 5488,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.5.1 熵",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        },
+        {
+          "title": "2.5.2 物理学视角",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        },
+        {
+          "title": "2.5.3 微分熵",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        },
+        {
+          "title": "2.5.4 最大熵",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "2.5.5 Kullback-Leibler散度",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        },
+        {
+          "title": "2.5.6 条件熵",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "2.5.7 互信息",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=133",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=133"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "2.6 贝叶斯概率",
+      "level": 2,
+      "wordCount": 3005,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.6.1 模型参数",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        },
+        {
+          "title": "2.6.2 正则化",
+          "anchor": "sigil_toc_id_50",
+          "level": 3
+        },
+        {
+          "title": "2.6.3 贝叶斯机器学习",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=19"
+    },
+    {
+      "chapterUid": 134,
+      "chapterIdx": 20,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 3278,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=134",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=134"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第3章 标准分布",
+      "level": 1,
+      "wordCount": 856,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=21"
+    },
+    {
+      "chapterUid": 135,
+      "chapterIdx": 22,
+      "title": "3.1 离散变量",
+      "level": 2,
+      "wordCount": 1832,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.1.1 伯努利分布",
+          "anchor": "sigil_toc_id_52",
+          "level": 3
+        },
+        {
+          "title": "3.1.2 二项分布",
+          "anchor": "sigil_toc_id_53",
+          "level": 3
+        },
+        {
+          "title": "3.1.3 多项分布",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=135",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=135"
+    },
+    {
+      "chapterUid": 136,
+      "chapterIdx": 23,
+      "title": "3.2 多元高斯分布",
+      "level": 2,
+      "wordCount": 9611,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.2.1 高斯几何",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        },
+        {
+          "title": "3.2.2 矩",
+          "anchor": "sigil_toc_id_56",
+          "level": 3
+        },
+        {
+          "title": "3.2.3 局限性",
+          "anchor": "sigil_toc_id_57",
+          "level": 3
+        },
+        {
+          "title": "3.2.4 条件分布",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        },
+        {
+          "title": "3.2.5 边缘分布",
+          "anchor": "sigil_toc_id_59",
+          "level": 3
+        },
+        {
+          "title": "3.2.6 贝叶斯定理",
+          "anchor": "sigil_toc_id_60",
+          "level": 3
+        },
+        {
+          "title": "3.2.7 最大似然",
+          "anchor": "sigil_toc_id_61",
+          "level": 3
+        },
+        {
+          "title": "3.2.8 序贯估计",
+          "anchor": "sigil_toc_id_62",
+          "level": 3
+        },
+        {
+          "title": "3.2.9 高斯混合",
+          "anchor": "sigil_toc_id_63",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=136",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=136"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "3.3 周期变量",
+      "level": 2,
+      "wordCount": 2379,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "冯·米塞斯分布",
+          "anchor": "sigil_toc_id_64",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "3.4 指数族分布",
+      "level": 2,
+      "wordCount": 1748,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "充分统计量",
+          "anchor": "sigil_toc_id_65",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=25"
+    },
+    {
+      "chapterUid": 137,
+      "chapterIdx": 26,
+      "title": "3.5 非参数化方法",
+      "level": 2,
+      "wordCount": 4806,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.5.1 直方图",
+          "anchor": "sigil_toc_id_66",
+          "level": 3
+        },
+        {
+          "title": "3.5.2 核密度",
+          "anchor": "sigil_toc_id_67",
+          "level": 3
+        },
+        {
+          "title": "3.5.3 最近邻",
+          "anchor": "sigil_toc_id_68",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=137",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=137"
+    },
+    {
+      "chapterUid": 138,
+      "chapterIdx": 27,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 3848,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=138",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=138"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第4章 单层网络：回归",
+      "level": 1,
+      "wordCount": 194,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=28"
+    },
+    {
+      "chapterUid": 139,
+      "chapterIdx": 29,
+      "title": "4.1 线性回归",
+      "level": 2,
+      "wordCount": 5216,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.1.1 基函数",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        },
+        {
+          "title": "4.1.2 似然函数",
+          "anchor": "sigil_toc_id_70",
+          "level": 3
+        },
+        {
+          "title": "4.1.3 最大似然",
+          "anchor": "sigil_toc_id_71",
+          "level": 3
+        },
+        {
+          "title": "4.1.4 最小二乘解的几何表示",
+          "anchor": "sigil_toc_id_72",
+          "level": 3
+        },
+        {
+          "title": "4.1.5 序贯学习",
+          "anchor": "sigil_toc_id_73",
+          "level": 3
+        },
+        {
+          "title": "4.1.6 正则化最小二乘法",
+          "anchor": "sigil_toc_id_74",
+          "level": 3
+        },
+        {
+          "title": "4.1.7 多重输出",
+          "anchor": "sigil_toc_id_75",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=139",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=139"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "4.2 决策理论",
+      "level": 2,
+      "wordCount": 2013,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "4.3 偏差-方差权衡",
+      "level": 2,
+      "wordCount": 2620,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1268,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第5章 单层网络：分类",
+      "level": 1,
+      "wordCount": 823,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "5.1 判别函数",
+      "level": 2,
+      "wordCount": 3488,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1.1 二分类",
+          "anchor": "sigil_toc_id_76",
+          "level": 3
+        },
+        {
+          "title": "5.1.2 多分类",
+          "anchor": "sigil_toc_id_77",
+          "level": 3
+        },
+        {
+          "title": "5.1.3 1-of-K编码方案",
+          "anchor": "sigil_toc_id_78",
+          "level": 3
+        },
+        {
+          "title": "5.1.4 最小二乘分类",
+          "anchor": "sigil_toc_id_79",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=34"
+    },
+    {
+      "chapterUid": 140,
+      "chapterIdx": 35,
+      "title": "5.2 决策理论",
+      "level": 2,
+      "wordCount": 8039,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.2.1 误分类率",
+          "anchor": "sigil_toc_id_80",
+          "level": 3
+        },
+        {
+          "title": "5.2.2 预期损失",
+          "anchor": "sigil_toc_id_81",
+          "level": 3
+        },
+        {
+          "title": "5.2.3 拒绝选项",
+          "anchor": "sigil_toc_id_82",
+          "level": 3
+        },
+        {
+          "title": "5.2.4 推理和决策",
+          "anchor": "sigil_toc_id_83",
+          "level": 3
+        },
+        {
+          "title": "5.2.5 分类器精度",
+          "anchor": "sigil_toc_id_84",
+          "level": 3
+        },
+        {
+          "title": "5.2.6 ROC曲线",
+          "anchor": "sigil_toc_id_85",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=140",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=140"
+    },
+    {
+      "chapterUid": 141,
+      "chapterIdx": 36,
+      "title": "5.3 生成分类器",
+      "level": 2,
+      "wordCount": 3226,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.3.1 连续输入",
+          "anchor": "sigil_toc_id_86",
+          "level": 3
+        },
+        {
+          "title": "5.3.2 最大似然解",
+          "anchor": "sigil_toc_id_87",
+          "level": 3
+        },
+        {
+          "title": "5.3.3 离散特征",
+          "anchor": "sigil_toc_id_88",
+          "level": 3
+        },
+        {
+          "title": "5.3.4 指数族分布",
+          "anchor": "sigil_toc_id_89",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=141",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=141"
+    },
+    {
+      "chapterUid": 142,
+      "chapterIdx": 37,
+      "title": "5.4 判别分类器",
+      "level": 2,
+      "wordCount": 5492,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.4.1 激活函数",
+          "anchor": "sigil_toc_id_90",
+          "level": 3
+        },
+        {
+          "title": "5.4.2 固定基函数",
+          "anchor": "sigil_toc_id_91",
+          "level": 3
+        },
+        {
+          "title": "5.4.3 逻辑斯谛回归",
+          "anchor": "sigil_toc_id_92",
+          "level": 3
+        },
+        {
+          "title": "5.4.4 多类逻辑斯谛回归",
+          "anchor": "sigil_toc_id_93",
+          "level": 3
+        },
+        {
+          "title": "5.4.5 probit回归",
+          "anchor": "sigil_toc_id_94",
+          "level": 3
+        },
+        {
+          "title": "5.4.6 规范连接函数",
+          "anchor": "sigil_toc_id_95",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=142",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=142"
+    },
+    {
+      "chapterUid": 143,
+      "chapterIdx": 38,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 2157,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=143",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=143"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "第6章 深度神经网络",
+      "level": 1,
+      "wordCount": 507,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "6.1 固定基函数的局限性",
+      "level": 2,
+      "wordCount": 4676,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.1.1 维度诅咒",
+          "anchor": "sigil_toc_id_96",
+          "level": 3
+        },
+        {
+          "title": "6.1.2 高维空间",
+          "anchor": "sigil_toc_id_97",
+          "level": 3
+        },
+        {
+          "title": "6.1.3 数据流形",
+          "anchor": "sigil_toc_id_98",
+          "level": 3
+        },
+        {
+          "title": "6.1.4 数据依赖的基函数",
+          "anchor": "sigil_toc_id_99",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=40"
+    },
+    {
+      "chapterUid": 144,
+      "chapterIdx": 41,
+      "title": "6.2 多层网络",
+      "level": 2,
+      "wordCount": 4600,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.2.1 >参数矩阵",
+          "anchor": "sigil_toc_id_100",
+          "level": 3
+        },
+        {
+          "title": "6.2.2 通用近似",
+          "anchor": "sigil_toc_id_101",
+          "level": 3
+        },
+        {
+          "title": "6.2.3 隐藏单元激活函数",
+          "anchor": "sigil_toc_id_102",
+          "level": 3
+        },
+        {
+          "title": "6.2.4 权重空间的对称性",
+          "anchor": "sigil_toc_id_103",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=144",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=144"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "6.3 深度网络",
+      "level": 2,
+      "wordCount": 6778,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.3.1 层次化表示",
+          "anchor": "sigil_toc_id_104",
+          "level": 3
+        },
+        {
+          "title": "6.3.2 分布式表示",
+          "anchor": "sigil_toc_id_105",
+          "level": 3
+        },
+        {
+          "title": "6.3.3 表示学习",
+          "anchor": "sigil_toc_id_106",
+          "level": 3
+        },
+        {
+          "title": "6.3.4 迁移学习",
+          "anchor": "sigil_toc_id_107",
+          "level": 3
+        },
+        {
+          "title": "6.3.5 对比学习",
+          "anchor": "sigil_toc_id_108",
+          "level": 3
+        },
+        {
+          "title": "6.3.6 通用网络结构",
+          "anchor": "sigil_toc_id_109",
+          "level": 3
+        },
+        {
+          "title": "6.3.7 张量",
+          "anchor": "sigil_toc_id_110",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "6.4 误差函数",
+      "level": 2,
+      "wordCount": 2273,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.4.1 回归",
+          "anchor": "sigil_toc_id_111",
+          "level": 3
+        },
+        {
+          "title": "6.4.2 二分类",
+          "anchor": "sigil_toc_id_112",
+          "level": 3
+        },
+        {
+          "title": "6.4.3 多分类",
+          "anchor": "sigil_toc_id_113",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=43"
+    },
+    {
+      "chapterUid": 145,
+      "chapterIdx": 44,
+      "title": "6.5 混合密度网络",
+      "level": 2,
+      "wordCount": 3799,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.5.1 机器人运动学示例",
+          "anchor": "sigil_toc_id_114",
+          "level": 3
+        },
+        {
+          "title": "6.5.2 条件混合分布",
+          "anchor": "sigil_toc_id_115",
+          "level": 3
+        },
+        {
+          "title": "6.5.3 梯度优化",
+          "anchor": "sigil_toc_id_116",
+          "level": 3
+        },
+        {
+          "title": "6.5.4 预测分布",
+          "anchor": "sigil_toc_id_117",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=145",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=145"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 2471,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "第7章 梯度下降",
+      "level": 1,
+      "wordCount": 822,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "7.1 错误平面",
+      "level": 2,
+      "wordCount": 1866,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "局部二次近似",
+          "anchor": "sigil_toc_id_118",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "7.2 梯度下降优化",
+      "level": 2,
+      "wordCount": 3396,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.2.1 梯度信息的使用",
+          "anchor": "sigil_toc_id_119",
+          "level": 3
+        },
+        {
+          "title": "7.2.2 批量梯度下降",
+          "anchor": "sigil_toc_id_120",
+          "level": 3
+        },
+        {
+          "title": "7.2.3 随机梯度下降",
+          "anchor": "sigil_toc_id_121",
+          "level": 3
+        },
+        {
+          "title": "7.2.4 小批量方法",
+          "anchor": "sigil_toc_id_122",
+          "level": 3
+        },
+        {
+          "title": "7.2.5 参数初始化",
+          "anchor": "sigil_toc_id_123",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "7.3 收敛",
+      "level": 2,
+      "wordCount": 3612,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.3.1 动量",
+          "anchor": "sigil_toc_id_124",
+          "level": 3
+        },
+        {
+          "title": "7.3.2 学习率调度",
+          "anchor": "sigil_toc_id_125",
+          "level": 3
+        },
+        {
+          "title": "7.3.3 AdaGrad、RMSProp与Adam算法",
+          "anchor": "sigil_toc_id_126",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "7.4 归一化",
+      "level": 2,
+      "wordCount": 2839,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.4.1 数据归一化",
+          "anchor": "sigil_toc_id_127",
+          "level": 3
+        },
+        {
+          "title": "7.4.2 批量归一化",
+          "anchor": "sigil_toc_id_128",
+          "level": 3
+        },
+        {
+          "title": "7.4.3 层归一化",
+          "anchor": "sigil_toc_id_129",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1686,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "第8章 反向传播",
+      "level": 1,
+      "wordCount": 548,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "8.1 梯度计算",
+      "level": 2,
+      "wordCount": 6125,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.1.1 单层网络",
+          "anchor": "sigil_toc_id_130",
+          "level": 3
+        },
+        {
+          "title": "8.1.2 一般前馈网络",
+          "anchor": "sigil_toc_id_131",
+          "level": 3
+        },
+        {
+          "title": "8.1.3 简单示例",
+          "anchor": "sigil_toc_id_132",
+          "level": 3
+        },
+        {
+          "title": "8.1.4 数值微分法",
+          "anchor": "sigil_toc_id_133",
+          "level": 3
+        },
+        {
+          "title": "8.1.5 雅可比矩阵",
+          "anchor": "sigil_toc_id_134",
+          "level": 3
+        },
+        {
+          "title": "8.1.6 黑塞矩阵",
+          "anchor": "sigil_toc_id_135",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "8.2 自动微分法",
+      "level": 2,
+      "wordCount": 3994,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.2.1 前向模式自动微分",
+          "anchor": "sigil_toc_id_136",
+          "level": 3
+        },
+        {
+          "title": "8.2.2 逆模式自动微分",
+          "anchor": "sigil_toc_id_137",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1622,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "第9章 正则化",
+      "level": 1,
+      "wordCount": 509,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "9.1 归纳偏置",
+      "level": 2,
+      "wordCount": 4763,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.1.1 逆问题",
+          "anchor": "sigil_toc_id_138",
+          "level": 3
+        },
+        {
+          "title": "9.1.2 无免费午餐定理",
+          "anchor": "sigil_toc_id_139",
+          "level": 3
+        },
+        {
+          "title": "9.1.3 对称性和不变性",
+          "anchor": "sigil_toc_id_140",
+          "level": 3
+        },
+        {
+          "title": "9.1.4 等变性",
+          "anchor": "sigil_toc_id_141",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "9.2 权重衰减",
+      "level": 2,
+      "wordCount": 2956,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.2.1 一致性正则化项",
+          "anchor": "sigil_toc_id_142",
+          "level": 3
+        },
+        {
+          "title": "9.2.2 广义权重衰减",
+          "anchor": "sigil_toc_id_143",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=58"
+    },
+    {
+      "chapterUid": 146,
+      "chapterIdx": 59,
+      "title": "9.3 学习曲线",
+      "level": 2,
+      "wordCount": 3070,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.3.1 早停法",
+          "anchor": "sigil_toc_id_144",
+          "level": 3
+        },
+        {
+          "title": "9.3.2 双重下降",
+          "anchor": "sigil_toc_id_145",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=146",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=146"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "9.4 参数共享",
+      "level": 2,
+      "wordCount": 1541,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "软权重共享",
+          "anchor": "sigil_toc_id_146",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "9.5 残差连接",
+      "level": 2,
+      "wordCount": 1946,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "9.6 模型平均",
+      "level": 2,
+      "wordCount": 2952,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "dropout",
+          "anchor": "sigil_toc_id_147",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1917,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "第10章 卷积网络",
+      "level": 1,
+      "wordCount": 554,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "10.1 计算机视觉",
+      "level": 2,
+      "wordCount": 1437,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "图像数据",
+          "anchor": "sigil_toc_id_148",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "10.2 卷积滤波器",
+      "level": 2,
+      "wordCount": 8740,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10.2.1 特征检测器",
+          "anchor": "sigil_toc_id_149",
+          "level": 3
+        },
+        {
+          "title": "10.2.2 平移等变性",
+          "anchor": "sigil_toc_id_150",
+          "level": 3
+        },
+        {
+          "title": "10.2.3 填充",
+          "anchor": "sigil_toc_id_151",
+          "level": 3
+        },
+        {
+          "title": "10.2.4 跨步卷积",
+          "anchor": "sigil_toc_id_152",
+          "level": 3
+        },
+        {
+          "title": "10.2.5 多维卷积",
+          "anchor": "sigil_toc_id_153",
+          "level": 3
+        },
+        {
+          "title": "10.2.6 池化",
+          "anchor": "sigil_toc_id_154",
+          "level": 3
+        },
+        {
+          "title": "10.2.7 多层卷积",
+          "anchor": "sigil_toc_id_155",
+          "level": 3
+        },
+        {
+          "title": "10.2.8 网络架构示例",
+          "anchor": "sigil_toc_id_156",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "10.3 可视化训练好的CNN",
+      "level": 2,
+      "wordCount": 4869,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10.3.1 视觉皮层",
+          "anchor": "sigil_toc_id_157",
+          "level": 3
+        },
+        {
+          "title": "10.3.2 可视化训练好的滤波器",
+          "anchor": "sigil_toc_id_158",
+          "level": 3
+        },
+        {
+          "title": "10.3.3 显著性图",
+          "anchor": "sigil_toc_id_159",
+          "level": 3
+        },
+        {
+          "title": "10.3.4 对抗攻击",
+          "anchor": "sigil_toc_id_160",
+          "level": 3
+        },
+        {
+          "title": "10.3.5 合成图像",
+          "anchor": "sigil_toc_id_161",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "10.4 目标检测",
+      "level": 2,
+      "wordCount": 4133,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10.4.1 边界框",
+          "anchor": "sigil_toc_id_162",
+          "level": 3
+        },
+        {
+          "title": "10.4.2 交并比",
+          "anchor": "sigil_toc_id_163",
+          "level": 3
+        },
+        {
+          "title": "10.4.3 滑动窗口",
+          "anchor": "sigil_toc_id_164",
+          "level": 3
+        },
+        {
+          "title": "10.4.4 跨尺度检测",
+          "anchor": "sigil_toc_id_165",
+          "level": 3
+        },
+        {
+          "title": "10.4.5 非最大抑制",
+          "anchor": "sigil_toc_id_166",
+          "level": 3
+        },
+        {
+          "title": "10.4.6 快速区域卷积神经网络",
+          "anchor": "sigil_toc_id_167",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "10.5 图像分割",
+      "level": 2,
+      "wordCount": 3087,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10.5.1 卷积分割",
+          "anchor": "sigil_toc_id_168",
+          "level": 3
+        },
+        {
+          "title": "10.5.2 上采样",
+          "anchor": "sigil_toc_id_169",
+          "level": 3
+        },
+        {
+          "title": "10.5.3 全卷积网络",
+          "anchor": "sigil_toc_id_170",
+          "level": 3
+        },
+        {
+          "title": "10.5.4 U-Net架构",
+          "anchor": "sigil_toc_id_171",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "10.6 风格迁移",
+      "level": 2,
+      "wordCount": 1173,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1554,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "title": "第11章 结构化分布",
+      "level": 1,
+      "wordCount": 470,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "title": "11.1 概率图模型",
+      "level": 2,
+      "wordCount": 7400,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11.1.1 有向图",
+          "anchor": "sigil_toc_id_172",
+          "level": 3
+        },
+        {
+          "title": "11.1.2 分解",
+          "anchor": "sigil_toc_id_173",
+          "level": 3
+        },
+        {
+          "title": "11.1.3 离散变量",
+          "anchor": "sigil_toc_id_174",
+          "level": 3
+        },
+        {
+          "title": "11.1.4 高斯变量",
+          "anchor": "sigil_toc_id_175",
+          "level": 3
+        },
+        {
+          "title": "11.1.5 二元分类器",
+          "anchor": "sigil_toc_id_176",
+          "level": 3
+        },
+        {
+          "title": "11.1.6 参数和观测值",
+          "anchor": "sigil_toc_id_177",
+          "level": 3
+        },
+        {
+          "title": "11.1.7 贝叶斯定理",
+          "anchor": "sigil_toc_id_178",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 74,
+      "title": "11.2 条件独立性",
+      "level": 2,
+      "wordCount": 7754,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11.2.1 3个示例图",
+          "anchor": "sigil_toc_id_179",
+          "level": 3
+        },
+        {
+          "title": "11.2.2 相消解释",
+          "anchor": "sigil_toc_id_180",
+          "level": 3
+        },
+        {
+          "title": "11.2.3 d分离",
+          "anchor": "sigil_toc_id_181",
+          "level": 3
+        },
+        {
+          "title": "11.2.4 朴素贝叶斯",
+          "anchor": "sigil_toc_id_182",
+          "level": 3
+        },
+        {
+          "title": "11.2.5 生成式模型",
+          "anchor": "sigil_toc_id_183",
+          "level": 3
+        },
+        {
+          "title": "11.2.6 马尔可夫毯",
+          "anchor": "sigil_toc_id_184",
+          "level": 3
+        },
+        {
+          "title": "11.2.7 作为过滤器的图",
+          "anchor": "sigil_toc_id_185",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=74"
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 75,
+      "title": "11.3 序列模型",
+      "level": 2,
+      "wordCount": 2471,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "潜变量",
+          "anchor": "sigil_toc_id_186",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=75",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=75"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 76,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1785,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 77,
+      "title": "第12章 Transformer",
+      "level": 1,
+      "wordCount": 1232,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 78,
+      "title": "12.1 注意力",
+      "level": 2,
+      "wordCount": 10129,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12.1.1 Transformer处理",
+          "anchor": "sigil_toc_id_187",
+          "level": 3
+        },
+        {
+          "title": "12.1.2 注意力系数",
+          "anchor": "sigil_toc_id_188",
+          "level": 3
+        },
+        {
+          "title": "12.1.3 自注意力",
+          "anchor": "sigil_toc_id_189",
+          "level": 3
+        },
+        {
+          "title": "12.1.4 网络参数",
+          "anchor": "sigil_toc_id_190",
+          "level": 3
+        },
+        {
+          "title": "12.1.5 缩放自注意力",
+          "anchor": "sigil_toc_id_191",
+          "level": 3
+        },
+        {
+          "title": "12.1.6 多头注意力",
+          "anchor": "sigil_toc_id_192",
+          "level": 3
+        },
+        {
+          "title": "12.1.7 Transformer层",
+          "anchor": "sigil_toc_id_193",
+          "level": 3
+        },
+        {
+          "title": "12.1.8 计算复杂性",
+          "anchor": "sigil_toc_id_194",
+          "level": 3
+        },
+        {
+          "title": "12.1.9 位置编码",
+          "anchor": "sigil_toc_id_195",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 79,
+      "title": "12.2 自然语言",
+      "level": 2,
+      "wordCount": 6389,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12.2.1 词嵌入",
+          "anchor": "sigil_toc_id_196",
+          "level": 3
+        },
+        {
+          "title": "12.2.2 分词",
+          "anchor": "sigil_toc_id_197",
+          "level": 3
+        },
+        {
+          "title": "12.2.3 词袋模型",
+          "anchor": "sigil_toc_id_198",
+          "level": 3
+        },
+        {
+          "title": "12.2.4 自回归模型",
+          "anchor": "sigil_toc_id_199",
+          "level": 3
+        },
+        {
+          "title": "12.2.5 递归神经网络",
+          "anchor": "sigil_toc_id_200",
+          "level": 3
+        },
+        {
+          "title": "12.2.6 通过时间反向传播",
+          "anchor": "sigil_toc_id_201",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=79"
+    },
+    {
+      "chapterUid": 80,
+      "chapterIdx": 80,
+      "title": "12.3 Transformer 语言模型",
+      "level": 2,
+      "wordCount": 9691,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12.3.1 解码器型Transformer",
+          "anchor": "sigil_toc_id_202",
+          "level": 3
+        },
+        {
+          "title": "12.3.2 采样策略",
+          "anchor": "sigil_toc_id_203",
+          "level": 3
+        },
+        {
+          "title": "12.3.3 编码器型Transformer",
+          "anchor": "sigil_toc_id_204",
+          "level": 3
+        },
+        {
+          "title": "12.3.4 序列到序列Transformer",
+          "anchor": "sigil_toc_id_205",
+          "level": 3
+        },
+        {
+          "title": "12.3.5 大语言模型",
+          "anchor": "sigil_toc_id_206",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=80",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=80"
+    },
+    {
+      "chapterUid": 147,
+      "chapterIdx": 81,
+      "title": "12.4 多模态Transformer",
+      "level": 2,
+      "wordCount": 7462,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12.4.1 视觉Transformer",
+          "anchor": "sigil_toc_id_207",
+          "level": 3
+        },
+        {
+          "title": "12.4.2 图像生成Transformer",
+          "anchor": "sigil_toc_id_208",
+          "level": 3
+        },
+        {
+          "title": "12.4.3 音频数据",
+          "anchor": "sigil_toc_id_209",
+          "level": 3
+        },
+        {
+          "title": "12.4.4 文本语音转换",
+          "anchor": "sigil_toc_id_210",
+          "level": 3
+        },
+        {
+          "title": "12.4.5 视觉和语言Transformer",
+          "anchor": "sigil_toc_id_211",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=147",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=147"
+    },
+    {
+      "chapterUid": 148,
+      "chapterIdx": 82,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1735,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=148",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=148"
+    },
+    {
+      "chapterUid": 83,
+      "chapterIdx": 83,
+      "title": "第13章 图神经网络",
+      "level": 1,
+      "wordCount": 953,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=83",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=83"
+    },
+    {
+      "chapterUid": 84,
+      "chapterIdx": 84,
+      "title": "13.1 基于图的机器学习",
+      "level": 2,
+      "wordCount": 2836,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "13.1.1 图的属性",
+          "anchor": "sigil_toc_id_212",
+          "level": 3
+        },
+        {
+          "title": "13.1.2 邻接矩阵",
+          "anchor": "sigil_toc_id_213",
+          "level": 3
+        },
+        {
+          "title": "13.1.3 置换等变性",
+          "anchor": "sigil_toc_id_214",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=84",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=84"
+    },
+    {
+      "chapterUid": 85,
+      "chapterIdx": 85,
+      "title": "13.2 神经信息传递",
+      "level": 2,
+      "wordCount": 5475,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "13.2.1 卷积滤波器",
+          "anchor": "sigil_toc_id_215",
+          "level": 3
+        },
+        {
+          "title": "13.2.2 图卷积网络",
+          "anchor": "sigil_toc_id_216",
+          "level": 3
+        },
+        {
+          "title": "13.2.3 聚合算子",
+          "anchor": "sigil_toc_id_217",
+          "level": 3
+        },
+        {
+          "title": "13.2.4 更新算子",
+          "anchor": "sigil_toc_id_218",
+          "level": 3
+        },
+        {
+          "title": "13.2.5 节点分类",
+          "anchor": "sigil_toc_id_219",
+          "level": 3
+        },
+        {
+          "title": "13.2.6 边分类",
+          "anchor": "sigil_toc_id_220",
+          "level": 3
+        },
+        {
+          "title": "13.2.7 图分类",
+          "anchor": "sigil_toc_id_221",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=85",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=85"
+    },
+    {
+      "chapterUid": 86,
+      "chapterIdx": 86,
+      "title": "13.3 通用图网络",
+      "level": 2,
+      "wordCount": 2880,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "13.3.1 图注意力网络",
+          "anchor": "sigil_toc_id_222",
+          "level": 3
+        },
+        {
+          "title": "13.3.2 边嵌入",
+          "anchor": "sigil_toc_id_223",
+          "level": 3
+        },
+        {
+          "title": "13.3.3 图嵌入",
+          "anchor": "sigil_toc_id_224",
+          "level": 3
+        },
+        {
+          "title": "13.3.4 过度平滑",
+          "anchor": "sigil_toc_id_225",
+          "level": 3
+        },
+        {
+          "title": "13.3.5 正则化",
+          "anchor": "sigil_toc_id_226",
+          "level": 3
+        },
+        {
+          "title": "13.3.6 几何深度学习",
+          "anchor": "sigil_toc_id_227",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=86",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=86"
+    },
+    {
+      "chapterUid": 87,
+      "chapterIdx": 87,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 994,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=87",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=87"
+    },
+    {
+      "chapterUid": 88,
+      "chapterIdx": 88,
+      "title": "第14章 采样",
+      "level": 1,
+      "wordCount": 376,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=88",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=88"
+    },
+    {
+      "chapterUid": 89,
+      "chapterIdx": 89,
+      "title": "14.1 基本采样",
+      "level": 2,
+      "wordCount": 5937,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14.1.1 期望",
+          "anchor": "sigil_toc_id_228",
+          "level": 3
+        },
+        {
+          "title": "14.1.2 标准分布",
+          "anchor": "sigil_toc_id_229",
+          "level": 3
+        },
+        {
+          "title": "14.1.3 拒绝采样",
+          "anchor": "sigil_toc_id_230",
+          "level": 3
+        },
+        {
+          "title": "14.1.4 适应性拒绝采样",
+          "anchor": "sigil_toc_id_231",
+          "level": 3
+        },
+        {
+          "title": "14.1.5 重要性采样",
+          "anchor": "sigil_toc_id_232",
+          "level": 3
+        },
+        {
+          "title": "14.1.6 采样-重要性-重采样",
+          "anchor": "sigil_toc_id_233",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=89",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=89"
+    },
+    {
+      "chapterUid": 90,
+      "chapterIdx": 90,
+      "title": "14.2 马尔可夫链蒙特卡洛采样",
+      "level": 2,
+      "wordCount": 6971,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14.2.1 Metropolis算法",
+          "anchor": "sigil_toc_id_234",
+          "level": 3
+        },
+        {
+          "title": "14.2.2 马尔可夫链",
+          "anchor": "sigil_toc_id_235",
+          "level": 3
+        },
+        {
+          "title": "14.2.3 Metropolis-Hastings算法",
+          "anchor": "sigil_toc_id_236",
+          "level": 3
+        },
+        {
+          "title": "14.2.4 吉布斯采样",
+          "anchor": "sigil_toc_id_237",
+          "level": 3
+        },
+        {
+          "title": "14.2.5 祖先采样",
+          "anchor": "sigil_toc_id_238",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=90",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=90"
+    },
+    {
+      "chapterUid": 91,
+      "chapterIdx": 91,
+      "title": "14.3 郎之万采样",
+      "level": 2,
+      "wordCount": 3260,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14.3.1 基于能量的模型",
+          "anchor": "sigil_toc_id_239",
+          "level": 3
+        },
+        {
+          "title": "14.3.2 最大化似然",
+          "anchor": "sigil_toc_id_240",
+          "level": 3
+        },
+        {
+          "title": "14.3.3 朗之万动力学",
+          "anchor": "sigil_toc_id_241",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=91",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=91"
+    },
+    {
+      "chapterUid": 92,
+      "chapterIdx": 92,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1277,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=92",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=92"
+    },
+    {
+      "chapterUid": 93,
+      "chapterIdx": 93,
+      "title": "第15章 离散潜变量",
+      "level": 1,
+      "wordCount": 773,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=93",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=93"
+    },
+    {
+      "chapterUid": 149,
+      "chapterIdx": 94,
+      "title": "15.1 K均值聚类",
+      "level": 2,
+      "wordCount": 3601,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "图像分割",
+          "anchor": "sigil_toc_id_242",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=149",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=149"
+    },
+    {
+      "chapterUid": 95,
+      "chapterIdx": 95,
+      "title": "15.2 高斯混合分布",
+      "level": 2,
+      "wordCount": 5086,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15.2.1 似然函数",
+          "anchor": "sigil_toc_id_243",
+          "level": 3
+        },
+        {
+          "title": "15.2.2 最大似然",
+          "anchor": "sigil_toc_id_244",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=95",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=95"
+    },
+    {
+      "chapterUid": 96,
+      "chapterIdx": 96,
+      "title": "15.3 EM算法",
+      "level": 2,
+      "wordCount": 5293,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15.3.1 高斯混合模型",
+          "anchor": "sigil_toc_id_245",
+          "level": 3
+        },
+        {
+          "title": "15.3.2 EM算法与K均值算法的关系",
+          "anchor": "sigil_toc_id_246",
+          "level": 3
+        },
+        {
+          "title": "15.3.3 混合伯努利分布",
+          "anchor": "sigil_toc_id_247",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=96",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=96"
+    },
+    {
+      "chapterUid": 150,
+      "chapterIdx": 97,
+      "title": "15.4 证据下界",
+      "level": 2,
+      "wordCount": 3650,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15.4.1 EM算法回顾",
+          "anchor": "sigil_toc_id_248",
+          "level": 3
+        },
+        {
+          "title": "15.4.2 独立同分布数据",
+          "anchor": "sigil_toc_id_249",
+          "level": 3
+        },
+        {
+          "title": "15.4.3 参数先验",
+          "anchor": "sigil_toc_id_250",
+          "level": 3
+        },
+        {
+          "title": "15.4.4 广义EM算法",
+          "anchor": "sigil_toc_id_251",
+          "level": 3
+        },
+        {
+          "title": "15.4.5 顺序EM算法",
+          "anchor": "sigil_toc_id_252",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=150",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=150"
+    },
+    {
+      "chapterUid": 151,
+      "chapterIdx": 98,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 2277,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=151",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=151"
+    },
+    {
+      "chapterUid": 99,
+      "chapterIdx": 99,
+      "title": "第16章 连续潜变量",
+      "level": 1,
+      "wordCount": 1343,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=99",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=99"
+    },
+    {
+      "chapterUid": 152,
+      "chapterIdx": 100,
+      "title": "16.1 主成分分析",
+      "level": 2,
+      "wordCount": 4805,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "16.1.1 最大方差表述",
+          "anchor": "sigil_toc_id_253",
+          "level": 3
+        },
+        {
+          "title": "16.1.2 最小误差表述",
+          "anchor": "sigil_toc_id_254",
+          "level": 3
+        },
+        {
+          "title": "16.1.3 数据压缩",
+          "anchor": "sigil_toc_id_255",
+          "level": 3
+        },
+        {
+          "title": "16.1.4 数据白化",
+          "anchor": "sigil_toc_id_256",
+          "level": 3
+        },
+        {
+          "title": "16.1.5 高维数据",
+          "anchor": "sigil_toc_id_257",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=152",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=152"
+    },
+    {
+      "chapterUid": 153,
+      "chapterIdx": 101,
+      "title": "16.2 概率潜变量",
+      "level": 2,
+      "wordCount": 8112,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "16.2.1 生成式模型",
+          "anchor": "sigil_toc_id_258",
+          "level": 3
+        },
+        {
+          "title": "16.2.2 似然函数",
+          "anchor": "sigil_toc_id_259",
+          "level": 3
+        },
+        {
+          "title": "16.2.3 最大似然法",
+          "anchor": "sigil_toc_id_260",
+          "level": 3
+        },
+        {
+          "title": "16.2.4 因子分析",
+          "anchor": "sigil_toc_id_261",
+          "level": 3
+        },
+        {
+          "title": "16.2.5 独立成分分析",
+          "anchor": "sigil_toc_id_262",
+          "level": 3
+        },
+        {
+          "title": "16.2.6 卡尔曼滤波器",
+          "anchor": "sigil_toc_id_263",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=153",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=153"
+    },
+    {
+      "chapterUid": 102,
+      "chapterIdx": 102,
+      "title": "16.3 证据下界",
+      "level": 2,
+      "wordCount": 3513,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "16.3.1 EM算法",
+          "anchor": "sigil_toc_id_264",
+          "level": 3
+        },
+        {
+          "title": "16.3.2 PCA的EM算法",
+          "anchor": "sigil_toc_id_265",
+          "level": 3
+        },
+        {
+          "title": "16.3.3 因子分析的EM算法",
+          "anchor": "sigil_toc_id_266",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=102",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=102"
+    },
+    {
+      "chapterUid": 154,
+      "chapterIdx": 103,
+      "title": "16.4 非线性潜变量模型",
+      "level": 2,
+      "wordCount": 3739,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "16.4.1 非线性流形",
+          "anchor": "sigil_toc_id_267",
+          "level": 3
+        },
+        {
+          "title": "16.4.2 似然函数",
+          "anchor": "sigil_toc_id_268",
+          "level": 3
+        },
+        {
+          "title": "16.4.3 离散数据",
+          "anchor": "sigil_toc_id_269",
+          "level": 3
+        },
+        {
+          "title": "16.4.4 构建生成式模型的4种方法",
+          "anchor": "sigil_toc_id_270",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=154",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=154"
+    },
+    {
+      "chapterUid": 104,
+      "chapterIdx": 104,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 2716,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=104",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=104"
+    },
+    {
+      "chapterUid": 105,
+      "chapterIdx": 105,
+      "title": "第17章 生成对抗网络",
+      "level": 1,
+      "wordCount": 426,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=105",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=105"
+    },
+    {
+      "chapterUid": 106,
+      "chapterIdx": 106,
+      "title": "17.1 对抗训练",
+      "level": 2,
+      "wordCount": 3399,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "17.1.1 损失函数",
+          "anchor": "sigil_toc_id_271",
+          "level": 3
+        },
+        {
+          "title": "17.1.2 实战中的GAN 训练",
+          "anchor": "sigil_toc_id_272",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=106",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=106"
+    },
+    {
+      "chapterUid": 107,
+      "chapterIdx": 107,
+      "title": "17.2 图像的生成对抗网络",
+      "level": 2,
+      "wordCount": 2633,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "CycleGAN",
+          "anchor": "sigil_toc_id_273",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=107",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=107"
+    },
+    {
+      "chapterUid": 108,
+      "chapterIdx": 108,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1046,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=108",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=108"
+    },
+    {
+      "chapterUid": 109,
+      "chapterIdx": 109,
+      "title": "第18章 标准化流",
+      "level": 1,
+      "wordCount": 1431,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=109",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=109"
+    },
+    {
+      "chapterUid": 110,
+      "chapterIdx": 110,
+      "title": "18.1 耦合流",
+      "level": 2,
+      "wordCount": 2229,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=110",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=110"
+    },
+    {
+      "chapterUid": 111,
+      "chapterIdx": 111,
+      "title": "18.2 自回归流",
+      "level": 2,
+      "wordCount": 1011,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=111",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=111"
+    },
+    {
+      "chapterUid": 112,
+      "chapterIdx": 112,
+      "title": "18.3 连续流",
+      "level": 2,
+      "wordCount": 3203,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "18.3.1 神经ODE",
+          "anchor": "sigil_toc_id_274",
+          "level": 3
+        },
+        {
+          "title": "18.3.2 神经ODE的反向传播",
+          "anchor": "sigil_toc_id_275",
+          "level": 3
+        },
+        {
+          "title": "18.3.3 神经ODE流",
+          "anchor": "sigil_toc_id_276",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=112",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=112"
+    },
+    {
+      "chapterUid": 113,
+      "chapterIdx": 113,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1269,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=113",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=113"
+    },
+    {
+      "chapterUid": 114,
+      "chapterIdx": 114,
+      "title": "第19章 自编码器",
+      "level": 1,
+      "wordCount": 570,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=114",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=114"
+    },
+    {
+      "chapterUid": 155,
+      "chapterIdx": 115,
+      "title": "19.1 确定性的自编码器",
+      "level": 2,
+      "wordCount": 3933,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "19.1.1 线性自编码器",
+          "anchor": "sigil_toc_id_277",
+          "level": 3
+        },
+        {
+          "title": "19.1.2 深度自编码器",
+          "anchor": "sigil_toc_id_278",
+          "level": 3
+        },
+        {
+          "title": "19.1.3 稀疏自编码器",
+          "anchor": "sigil_toc_id_279",
+          "level": 3
+        },
+        {
+          "title": "19.1.4 去噪自编码器",
+          "anchor": "sigil_toc_id_280",
+          "level": 3
+        },
+        {
+          "title": "19.1.5 掩蔽自编码器",
+          "anchor": "sigil_toc_id_281",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=155",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=155"
+    },
+    {
+      "chapterUid": 116,
+      "chapterIdx": 116,
+      "title": "19.2 变分自编码器",
+      "level": 2,
+      "wordCount": 4623,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "19.2.1 摊销推理",
+          "anchor": "sigil_toc_id_282",
+          "level": 3
+        },
+        {
+          "title": "19.2.2 重参数化技巧",
+          "anchor": "sigil_toc_id_283",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=116",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=116"
+    },
+    {
+      "chapterUid": 117,
+      "chapterIdx": 117,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 723,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=117",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=117"
+    },
+    {
+      "chapterUid": 118,
+      "chapterIdx": 118,
+      "title": "第20章 扩散模型",
+      "level": 1,
+      "wordCount": 814,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=118",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=118"
+    },
+    {
+      "chapterUid": 119,
+      "chapterIdx": 119,
+      "title": "20.1 前向编码器",
+      "level": 2,
+      "wordCount": 1766,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "20.1.1 扩散核",
+          "anchor": "sigil_toc_id_284",
+          "level": 3
+        },
+        {
+          "title": "20.1.2 条件分布",
+          "anchor": "sigil_toc_id_285",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=119",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=119"
+    },
+    {
+      "chapterUid": 120,
+      "chapterIdx": 120,
+      "title": "20.2 反向解码器",
+      "level": 2,
+      "wordCount": 5334,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "20.2.1 训练解码器",
+          "anchor": "sigil_toc_id_286",
+          "level": 3
+        },
+        {
+          "title": "20.2.2 证据下界",
+          "anchor": "sigil_toc_id_287",
+          "level": 3
+        },
+        {
+          "title": "20.2.3 重写ELBO",
+          "anchor": "sigil_toc_id_288",
+          "level": 3
+        },
+        {
+          "title": "20.2.4 预测噪声",
+          "anchor": "sigil_toc_id_289",
+          "level": 3
+        },
+        {
+          "title": "20.2.5 生成新的样本",
+          "anchor": "sigil_toc_id_290",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=120",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=120"
+    },
+    {
+      "chapterUid": 121,
+      "chapterIdx": 121,
+      "title": "20.3 得分匹配",
+      "level": 2,
+      "wordCount": 3473,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "20.3.1 得分损失函数",
+          "anchor": "sigil_toc_id_291",
+          "level": 3
+        },
+        {
+          "title": "20.3.2 修改得分损失",
+          "anchor": "sigil_toc_id_292",
+          "level": 3
+        },
+        {
+          "title": "20.3.3 噪声方差",
+          "anchor": "sigil_toc_id_293",
+          "level": 3
+        },
+        {
+          "title": "20.3.4 随机微分方程",
+          "anchor": "sigil_toc_id_294",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=121",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=121"
+    },
+    {
+      "chapterUid": 122,
+      "chapterIdx": 122,
+      "title": "20.4 有引导的扩散",
+      "level": 2,
+      "wordCount": 2859,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "20.4.1 有分类器的引导",
+          "anchor": "sigil_toc_id_295",
+          "level": 3
+        },
+        {
+          "title": "20.4.2 无分类器的引导",
+          "anchor": "sigil_toc_id_296",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=122",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=122"
+    },
+    {
+      "chapterUid": 123,
+      "chapterIdx": 123,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 3136,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=123",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=123"
+    },
+    {
+      "chapterUid": 124,
+      "chapterIdx": 124,
+      "title": "附录",
+      "level": 1,
+      "wordCount": 3061,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "附录A 线性代数",
+          "anchor": "sigil_toc_id_297",
+          "level": 2
+        },
+        {
+          "title": "A.1 矩阵恒等式",
+          "anchor": "sigil_toc_id_298",
+          "level": 3
+        },
+        {
+          "title": "A.2 迹和行列式",
+          "anchor": "sigil_toc_id_299",
+          "level": 3
+        },
+        {
+          "title": "A.3 矩阵导数",
+          "anchor": "sigil_toc_id_300",
+          "level": 3
+        },
+        {
+          "title": "A.4 特征向量",
+          "anchor": "sigil_toc_id_301",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=124",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=124"
+    },
+    {
+      "chapterUid": 125,
+      "chapterIdx": 125,
+      "title": "附录B 变分法",
+      "level": 2,
+      "wordCount": 1206,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=125",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=125"
+    },
+    {
+      "chapterUid": 126,
+      "chapterIdx": 126,
+      "title": "附录C 拉格朗日乘子",
+      "level": 2,
+      "wordCount": 1807,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=126",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=126"
+    },
+    {
+      "chapterUid": 127,
+      "chapterIdx": 127,
+      "title": "参考资料",
+      "level": 1,
+      "wordCount": 44407,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=127",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=127"
+    },
+    {
+      "chapterUid": 128,
+      "chapterIdx": 128,
+      "title": "索引",
+      "level": 1,
+      "wordCount": 15916,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300186051&chapterUid=128",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=128"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 131,
+      "chapterTitle": "1.2 一个教学示例",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300186051_11_15080-15140",
+          "range": "15082-15142",
+          "rangeStart": 15082,
+          "rangeEnd": 15142,
+          "markText": "根据可用训练集的大小来限制模型中参数的数量，其结果有些不尽如人意。而根据待解决问题的复杂性来选择模型的复杂性似乎更合理。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1766037441,
+          "createTimeFormatted": "2025-12-18 13:57:21",
+          "chapterUid": 131,
+          "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=131&rangeStart=15082&rangeEnd=15142",
+          "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=131&rangeStart=15082&rangeEnd=15142"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300186051_11_14135-14259",
+          "range": "14137-14261",
+          "rangeStart": 14137,
+          "rangeEnd": 14261,
+          "markText": "经典统计学中有一条常用的启发式经验：训练数据点的数量应至少是模型中可学习参数数量的若干倍（比如5倍或10倍）。然而，我们在本书继续探讨深度学习后会发现，即使模型参数的数量远远超过训练数据点的数量，也一样可以获得非常出色的结果（参见9.3.2小节）。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1766037328,
+          "createTimeFormatted": "2025-12-18 13:55:28",
+          "chapterUid": 131,
+          "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=131&rangeStart=14137&rangeEnd=14261",
+          "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=131&rangeStart=14137&rangeEnd=14261"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300186051_11_2285-2340",
+          "range": "2285-2340",
+          "rangeStart": 2285,
+          "rangeEnd": 2340,
+          "markText": "机器学习的一个关键目标是对以前未见过的输入进行准确预测，这种能力称为泛化能力(generalization)。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1765804555,
+          "createTimeFormatted": "2025-12-15 21:15:55",
+          "chapterUid": 131,
+          "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=131&rangeStart=2285&rangeEnd=2340",
+          "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=131&rangeStart=2285&rangeEnd=2340"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_85uLL7rY5",
+          "range": "15049-15052",
+          "chapterName": "1.2 一个教学示例",
+          "content": "\n## **正则化的具体操作**\n我们还是用房价预测的例子。假设我们有这个模型：\n**房价 = a × 面积 + b × 房间数 + c**\n### **没有正则化的训练过程**\n我们训练时只关注一个目标：\n**让预测误差最小**\n计算误差的方法（简化版）：\n```\n误差 = (预测房价 - 真实房价)²\n总误差 = 所有房子的误差加起来\n```\n然后我们调整a, b, c，让总误差最小。\n---\n### **加入正则化的训练过程**\n现在我们在目标里**加一个惩罚项**：\n新的目标 = **预测误差** + **λ × (a² + b² + c²)**\n这里：\n- **预测误差**：和原来一样，让预测准确\n- **a² + b² + c²**：模型参数的平方和（惩罚项）\n- **λ**：正则化强度（我们自己设定的超参数）\n---\n## **这会产生什么效果？**\n### **情况1：λ = 0（没有正则化）**\n目标 = 预测误差 + 0 × (a² + b² + c²)\n= 只关注预测误差\n结果：a, b, c可以变得很大，只要能减小预测误差。\n比如可能得到：\n房价 = 1000 × 面积 - 5000 × 房间数 + 20000\n（数字很大，但能很好拟合训练数据）\n---\n### **情况2：λ = 0.1（中等正则化）**\n目标 = 预测误差 + 0.1 × (a² + b² + c²)\n现在优化时会有**矛盾**：\n- 要让预测误差小：a, b, c可能需要大一些\n- 要让惩罚项小：a, b, c要尽量小\n结果：**妥协**。a, b, c不会太大，预测也不会完美，但更稳定。\n可能得到：\n房价 = 10 × 面积 - 5 × 房间数 + 50\n---\n### **情况3：λ = 10（强正则化）**\n目标 = 预测误差 + 10 × (a² + b² + c²)\n惩罚项占主导，模型会**强烈避免大的a, b, c**。\n结果可能：\n房价 = 0.5 × 面积 + 0.2 × 房间数 + 1\n（参数很小，模型很简单）\n---\n## **实际例子对比**\n假设训练数据：\n| 面积 | 房间数 | 真实房价 |\n|------|--------|----------|\n| 100  | 3      | 300      |\n| 150  | 4      | 400      |\n### **没有正则化（过拟合）**\n模型可能学会：\n房价 = 10 × 面积 - 100 × 房间数 + 600\n验证一下：\n- 第一套：10×100 - 100×3 + 600 = 1000 - 300 + 600 = 1300 ❌（完全不对！）\n等等，这明显错了...让我修正一下\n实际上，没有正则化时，模型为了完美拟合这两个点，可能会找到奇怪的解。但重点是：**参数可以很大很极端**。\n### **有正则化**\n模型可能：\n房价 = 2 × 面积 + 50 × 房间数 + 100\n参数更合理，虽然不一定完美拟合训练数据，但更稳定。\n---\n## **为什么这能防止过拟合？**\n过拟合的本质：**模型用很大的参数去捕捉数据中的微小波动（噪声）**\n比如训练数据中恰好有：\n- 面积大的房子房价略低（可能是偶然因素）\n- 模型就用很大的负系数来“强行解释”这个偶然现象\n正则化的作用：\n**限制参数的大小 → 限制模型的“灵活度” → 无法过度拟合噪声**\n就像：\n- **没有正则化**：你可以用各种奇怪的姿势去拿东西\n- **有正则化**：绑着沙袋训练，动作更稳定，不会为了拿一个小东西做出夸张动作\n---\n## **λ的选择（超参数调优）**\nλ是我们要设定的：\n- **λ太小**：正则化作用弱，可能还是过拟合\n- **λ太大**：模型太简单，欠拟合\n- **λ适中**：平衡拟合能力和稳定性\n**如何选择λ？**\n用验证集！\n1. 尝试λ=0.001, 0.01, 0.1, 1, 10\n2. 对每个λ，用训练集训练模型\n3. 用验证集测试哪个λ效果最好\n4. 选定λ\n---\n## **对应原文的公式**\n原文的公式(1.4)：\n```\nE(w) = 1/2 Σ(y(x_n,w) - t_n)² + λ/2 Σw_j²\n```\n翻译成我们的例子：\n- 前半部分：`1/2 Σ(预测房价 - 真实房价)²`（预测误差）\n- 后半部分：`λ/2 × (a² + b² + c²)`（正则化惩罚）\n- λ/2：这里的1/2是为了数学推导方便，不影响本质\n---\n## **直观理解**\n想象你在教一个学生：\n- **没有正则化**：学生可以发明各种复杂的“记忆口诀”来记住所有题目\n- **有正则化**：你告诉学生：“不准用超过10个字的记忆口诀”\n学生就不能用“第3题选C因为那天是星期二而且我穿了红衣服”这种过度复杂的关联，只能找真正通用的规律。\n",
+          "abstract": "正则化",
+          "star": -1,
+          "createTime": 1766076680,
+          "createTimeFormatted": "2025-12-19 00:51:20",
+          "isFinish": false,
+          "chapterUid": 131
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_85uLwtScj",
+          "range": "6995-6999",
+          "chapterName": "1.2 一个教学示例",
+          "content": "我来从数学上简单证明为什么`w_new = w_old - η·∇E`能让误差减小。\n---\n## **一、数学证明（单变量版）**\n### **设定：**\n误差函数：E(w)\n当前点：w = w₀\n梯度：E'(w₀)（就是∂E/∂w在w₀处的值）\n更新：w₁ = w₀ - η·E'(w₀)\n### **用泰勒展开（到一阶）：**\n在w₀附近，E(w)可以近似为：\n```\nE(w) ≈ E(w₀) + E'(w₀)·(w - w₀)\n```\n这是直线近似，在w₀附近有效。\n### **计算E(w₁)：**\n```\nE(w₁) ≈ E(w₀) + E'(w₀)·(w₁ - w₀)\n      = E(w₀) + E'(w₀)·[ (w₀ - η·E'(w₀)) - w₀ ]\n      = E(w₀) + E'(w₀)·[ -η·E'(w₀) ]\n      = E(w₀) - η·[E'(w₀)]²\n```\n### **关键结论：**\n因为η > 0（学习率正数），且[E'(w₀)]² ≥ 0（平方非负），\n所以：\n```\nE(w₁) ≈ E(w₀) - η·[E'(w₀)]² ≤ E(w₀)\n```\n**当E'(w₀) ≠ 0时，** [E'(w₀)]² > 0，所以：\n```\nE(w₁) < E(w₀)\n```\n误差严格减小！\n**当E'(w₀) = 0时，** w₁ = w₀，已经是最优点。\n---\n## **二、多变量版证明**\n### **设定：**\n向量w = [w₁, w₂, ..., wₙ]ᵀ\n梯度向量：∇E(w) = [∂E/∂w₁, ∂E/∂w₂, ...]ᵀ\n更新：w_new = w_old - η·∇E(w_old)\n### **泰勒展开（向量版）：**\n```\nE(w_new) ≈ E(w_old) + ∇E(w_old)ᵀ·(w_new - w_old)\n```\n### **代入更新公式：**\n```\nE(w_new) ≈ E(w_old) + ∇E(w_old)ᵀ·[ -η·∇E(w_old) ]\n         = E(w_old) - η·∇E(w_old)ᵀ·∇E(w_old)\n         = E(w_old) - η·‖∇E(w_old)‖²\n```\n### **结论：**\n因为‖∇E(w_old)‖² ≥ 0（范数平方非负），\n所以：\n```\nE(w_new) ≤ E(w_old)\n```\n当∇E(w_old) ≠ 0时，误差严格减小。\n---\n## **三、用我们具体的数值验证**\n### **数据：**\nw₀=1.0, w₁=0.5\nE(w₀,w₁)=0.86375\n∇E = [∂E/∂w₀, ∂E/∂w₁] = [2.05, 1.225]\nη=0.1\n### **计算：**\n```\nw_new = [1.0, 0.5] - 0.1×[2.05, 1.225] = [0.795, 0.3775]\n```\n### **用泰勒展开预测新误差：**\n```\nE_pred ≈ E_old - η·‖∇E‖²\n       = 0.86375 - 0.1×[2.05² + 1.225²]\n       = 0.86375 - 0.1×[4.2025 + 1.500625]\n       = 0.86375 - 0.1×5.703125\n       = 0.86375 - 0.5703125\n       = 0.2934375\n```\n### **实际新误差：**\n我们之前算得实际E_new = 0.40532\n### **为什么有差异？**\n因为泰勒展开是**线性近似**，只在一阶有效。实际E(w)是二次函数（最小二乘），所以：\n```\n实际减少值 = 0.86375 - 0.40532 = 0.45843\n泰勒预测减少值 = 0.57031\n```\n泰勒展开**高估**了减少量，但方向是对的（确实减少了）。\n---\n## **四、如果是精确二次函数**\n对于我们的最小二乘问题，E(w)实际上是w的**二次函数**：\n```\nE(w) = 1/2 wᵀAw - bᵀw + c\n```\n其中A正定。\n### **这时泰勒展开是精确的：**\n```\nE(w_new) = E(w_old) + ∇E(w_old)ᵀ·(w_new-w_old) + 1/2(w_new-w_old)ᵀA(w_new-w_old)\n```\n### **代入梯度下降：**\n```\nw_new - w_old = -η∇E\n所以：\nE(w_new) = E(w_old) - η‖∇E‖² + (η²/2)∇EᵀA∇E\n```\n### **要保证E减少，需要：**\n```\n-η‖∇E‖² + (η²/2)∇EᵀA∇E < 0\n→ η < 2‖∇E‖² / (∇EᵀA∇E)\n```\n这就是为什么学习率η不能太大！\n对于我们的例子，最佳η ≈ 0.1就是满足这个条件的。\n---\n## **五、更严格的证明思路**\n定义函数：\n```\nf(η) = E(w - η∇E)\n```\n这是我们沿负梯度方向走η步长后的误差。\n### **在η=0处求导：**\n```\nf'(0) = ∇E(w)ᵀ·(-∇E(w)) = -‖∇E(w)‖² < 0\n```\n所以存在η₀>0，使得对任意0<η<η₀，有：\n```\nf(η) < f(0)\n即：E(w - η∇E) < E(w)\n```\n### **这就是\"梯度下降能减少误差\"的严格证明：**\n在梯度不为零的点，沿着负梯度方向**足够小的步长**，一定能减少函数值。\n---\n## **六、几何解释的数学版**\n误差函数的等高线图：\n```\n等高线：E(w)=常数\n梯度∇E垂直于等高线指向E增加最快方向\n-∇E垂直于等高线指向E减小最快方向\n```\n所以沿-∇E走是**最速下降方向**。\n---\n## **七、最终数学总结**\n**定理**：设E(w)在w₀处可微，且∇E(w₀) ≠ 0。则存在η₀>0，使得对任意0<η<η₀，有：\n```\nE(w₀ - η∇E(w₀)) < E(w₀)\n```\n**证明概要**：\n1. 由可微性，E(w₀ + d) = E(w₀) + ∇E(w₀)ᵀd + o(‖d‖)\n2. 取d = -η∇E(w₀)\n3. 则E(w₀ + d) = E(w₀) - η‖∇E(w₀)‖² + o(η‖∇E(w₀)‖)\n4. 当η足够小时，线性项-η‖∇E‖²主导\n5. 因此E(w₀ + d) < E(w₀)\n**这就是梯度下降有效的数学保证**：只要学习率足够小，沿着负梯度方向走一定能减小误差。",
+          "abstract": "误差函数",
+          "star": -1,
+          "createTime": 1766076464,
+          "createTimeFormatted": "2025-12-19 00:47:44",
+          "isFinish": false,
+          "chapterUid": 131
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_85uLldXEm",
+          "range": "342-348",
+          "chapterName": "1.2 一个教学示例",
+          "content": "\n## **完整例子：两个参数，三个数据点**\n### **数据**\n```\n三个点：\n点1: x₁=0.1, t₁=0.8\n点2: x₂=0.5, t₂=0.2\n点3: x₃=0.9, t₃=0.7\n模型：y = w₀ + w₁x\n```\n---\n## **第一步：随机初始化w**\n```\nw₀ = 1.0  (随机)\nw₁ = 0.5  (随机)\n```\n---\n## **第二步：计算当前预测和误差**\n### **1. 计算预测值**\n```\ny₁ = w₀ + w₁*x₁ = 1.0 + 0.5*0.1 = 1.05\ny₂ = 1.0 + 0.5*0.5 = 1.25\ny₃ = 1.0 + 0.5*0.9 = 1.45\n```\n### **2. 计算误差（预测-真实）**\n```\ne₁ = y₁ - t₁ = 1.05 - 0.8 = 0.25\ne₂ = 1.25 - 0.2 = 1.05\ne₃ = 1.45 - 0.7 = 0.75\n```\n### **3. 计算总误差E(w)**\n```\nE = 1/2 * (e₁² + e₂² + e₃²)\n  = 1/2 * (0.0625 + 1.1025 + 0.5625)\n  = 1/2 * 1.7275\n  = 0.86375\n```\n当前误差：0.86375\n---\n## **第三步：关键！计算梯度（每个w该改多少）**\n### **计算∂E/∂w₀（误差对w₀的导数）**\n**公式**：`∂E/∂w₀ = Σ(y_n - t_n) * ∂y/∂w₀`\n其中`∂y/∂w₀ = 1`（因为y = w₀ + w₁x，对w₀求导是1）\n所以：\n```\n∂E/∂w₀ = e₁*1 + e₂*1 + e₃*1\n       = 0.25 + 1.05 + 0.75\n       = 2.05\n```\n**解释**：如果我把w₀增加1，误差E会增加2.05。所以**应该减小w₀**。\n### **计算∂E/∂w₁（误差对w₁的导数）**\n**公式**：`∂E/∂w₁ = Σ(y_n - t_n) * ∂y/∂w₁`\n其中`∂y/∂w₁ = x_n`（因为y = w₀ + w₁x，对w₁求导是x）\n所以：\n```\n∂E/∂w₁ = e₁*x₁ + e₂*x₂ + e₃*x₃\n       = 0.25*0.1 + 1.05*0.5 + 0.75*0.9\n       = 0.025 + 0.525 + 0.675\n       = 1.225\n```\n**解释**：如果我把w₁增加1，误差E会增加1.225。所以**应该减小w₁**。\n---\n## **第四步：更新w（梯度下降）**\n设学习率η = 0.1\n**更新公式**：`w_new = w_old - η * 梯度`\n```\nw₀_new = w₀_old - 0.1 * ∂E/∂w₀\n       = 1.0 - 0.1 * 2.05\n       = 1.0 - 0.205\n       = 0.795\nw₁_new = w₁_old - 0.1 * ∂E/∂w₁\n       = 0.5 - 0.1 * 1.225\n       = 0.5 - 0.1225\n       = 0.3775\n```\n---\n## **第五步：验证更新后的效果**\n### **用新的w计算预测**\n```\ny₁' = 0.795 + 0.3775*0.1 = 0.83275\ny₂' = 0.795 + 0.3775*0.5 = 0.98775\ny₃' = 0.795 + 0.3775*0.9 = 1.13475\n```\n### **新误差**\n```\ne₁' = 0.83275 - 0.8 = 0.03275\ne₂' = 0.98775 - 0.2 = 0.78775\ne₃' = 1.13475 - 0.7 = 0.43475\nE' = 1/2 * (0.03275² + 0.78775² + 0.43475²)\n   = 1/2 * (0.00107 + 0.62055 + 0.18901)\n   = 1/2 * 0.81063\n   = 0.40532\n```\n**误差从0.86375降到了0.40532！减半了！**\n---\n## **第六步：加入正则化的情况**\n设λ = 0.5\n### **计算带正则化的梯度**\n正则化项：`λ/2 * (w₀² + w₁²)`（实际通常不包括w₀，但这里都包括以便说明）\n**对w₀的梯度要加一项**：\n```\n∂Ẽ/∂w₀ = ∂E/∂w₀ + λ*w₀\n       = 2.05 + 0.5*1.0\n       = 2.05 + 0.5\n       = 2.55\n```\n**对w₁的梯度**：\n```\n∂Ẽ/∂w₁ = ∂E/∂w₁ + λ*w₁\n       = 1.225 + 0.5*0.5\n       = 1.225 + 0.25\n       = 1.475\n```\n**发现**：梯度变大了！因为不仅要减小预测误差，还要减小w本身。\n### **更新（带正则化）**\n```\nw₀_new_reg = 1.0 - 0.1*2.55 = 0.745\nw₁_new_reg = 0.5 - 0.1*1.475 = 0.3525\n```\n**比较**：\n- 无正则化：w₀=0.795, w₁=0.3775\n- 有正则化：w₀=0.745, w₁=0.3525\n**正则化让w变得更小**，防止过度调整。\n---\n## **第七步：多次迭代的过程**\n| 迭代 | w₀ | w₁ | 梯度∂E/∂w₀ | 梯度∂E/∂w₁ | 误差E |\n|------|----|----|------------|------------|-------|\n| 0 | 1.0000 | 0.5000 | 2.0500 | 1.2250 | 0.8638 |\n| 1 | 0.7950 | 0.3775 | 重新计算... | 重新计算... | 0.4053 |\n| 2 | 0.6380 | 0.2880 | ... | ... | 0.2215 |\n| 3 | 0.5180 | 0.2215 | ... | ... | 0.1452 |\n| ... | ... | ... | ... | ... | ... |\n| 10 | 0.4218 | -0.0482 | ≈0 | ≈0 | 0.0421 |\n最终接近解析解：w₀≈0.42, w₁≈-0.05\n---\n## **关键理解：梯度就是\"修正建议\"**\n### **梯度告诉你：**\n```\n∂E/∂w₀ = +2.05\n意味着：w₀增加1 → 误差增加2.05\n所以应该：减少w₀\n减少多少？学习率η×梯度 = 0.1×2.05 = 0.205\n```\n### **为什么这个公式有效？**\n因为泰勒展开：\n```\nE(w₀+Δw₀) ≈ E(w₀) + (∂E/∂w₀)*Δw₀\n```\n要让E减小，需要：\n```\n(∂E/∂w₀)*Δw₀ < 0\n```\n所以Δw₀应该与∂E/∂w₀**反号**：\n```\nΔw₀ = -η * ∂E/∂w₀\n```\n---\n## **可视化理解**\n想象误差E是地面的高度：\n- 你现在站在(w₀=1.0, w₁=0.5)处，高度E=0.86\n- 你问：\"往哪个方向走能最快下山？\"\n- 测量：往w₀方向坡度+2.05（上坡），往w₁方向坡度+1.225（上坡）\n- 所以你应该：往-w₀方向走0.205，往-w₁方向走0.1225\n- 到达新位置(w₀=0.795, w₁=0.3775)，高度E=0.40\n**梯度就是地面的坡度测量仪！**\n",
+          "abstract": "一个教学示例",
+          "star": -1,
+          "createTime": 1766076298,
+          "createTimeFormatted": "2025-12-19 00:44:58",
+          "isFinish": false,
+          "chapterUid": 131
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_85uAOMcNO",
+          "range": "342-348",
+          "chapterName": "1.2 一个教学示例",
+          "content": "\n\n举个例子：\n我们是房地产公司，要开发一个房价预测系统。\n我们手上有15套房子的历史数据：\n\n每套房子的数据包括：\n\n面积（平方米）\n房间数\n房龄（年）\n真实售价（万元）\n我们的目标：建立一个公式（模型），输入面积、房间数、房龄，就能预测房价。\n\n第一步：数据划分\n\n我们把15套房子数据分成三部分：\n\n1. 训练集（10套）\n\n\n\n房子1：100㎡, 3室, 5年 → 300万元\n房子2：120㎡, 4室, 10年 → 350万元\n房子3：80㎡, 2室, 2年 → 250万元\n...（总共10套）\n用途：用来学习规律，调整公式中的参数\n\n2. 验证集（3套）\n\n\n\n房子11：90㎡, 3室, 8年 → 280万元\n房子12：140㎡, 5室, 15年 → 450万元\n房子13：110㎡, 4室, 6年 → 320万元\n用途：用来选择最好的公式形式，调整正则化强度\n\n3. 测试集（2套）\n\n\n\n房子14：130㎡, 4室, 12年 → 380万元\n房子15：95㎡, 3室, 4年 → 290万元\n用途：最终考试，评估模型真实能力\n\n为什么这样分？\n\n不能把所有数据都用来学习（否则不知道学得怎样）\n不能用测试数据来调整（否则作弊）\n验证集是\"模拟考\"，测试集是\"高考\"\n第二步：选择模型公式（模型复杂度）\n\n我们考虑三种公式：\n\n模型A：太简单\n\n\n\n房价 = a × 面积 + c\n只考虑面积，忽略房间数和房龄\n\n模型B：适中\n\n\n房价 = a × 面积 + b × 房间数 + c × 房龄 + d\n考虑所有因素，线性关系\n\n模型C：太复杂\n\n\n房价 = a×面积² + b×面积×房间数 + c×房龄² + d×面积/房龄 + e×房间数³ + f\n考虑各种复杂组合，甚至平方、交互项\n\n第三步：训练模型（找公式中的数字）\n\n训练过程\n\n我们用训练集（10套房子）来找到公式中的a,b,c等数字。\n\n目标：让公式算出的房价尽可能接近真实房价\n\n如何衡量\"接近\"？\n\n用均方误差（MSE）：\n\n\n误差 = (预测价 - 真实价)²\n总误差 = 所有房子误差的平均值\n训练示例（以模型B为例）：\n\n初始随机设：a=1, b=10, c=-2, d=100\n\n房子1：预测价 = 1×100 + 10×3 + (-2)×5 + 100 = 100+30-10+100 = 220\n真实价：300 → 误差 = (220-300)² = 6400\n\n计算所有10套房子的总误差，然后调整a,b,c,d让总误差最小。\n\n第四步：关键细节——正则化\n\n问题：没有正则化会发生什么？\n\n模型C（复杂模型）为了完美拟合10套训练数据，可能会找到这样的解：\n\n\n房价 = 1000×面积² - 5000×面积×房间数 + 200×房龄² - 30000\n参数非常大！虽然能完美拟合训练数据，但：\n\n不稳定：输入微小变化导致输出巨大波动\n在新数据上表现极差\n学到了训练数据中的噪声而非规律\n加入正则化\n\n我们在训练目标中加入惩罚项：\n\n新的训练目标 = 预测误差 + λ × 参数大小惩罚\n\n具体来说：\n\n\n总目标 = MSE + λ × (a² + b² + c² + d²)\n参数λ的作用：\n\nλ=0：没有正则化，只追求预测准确\nλ=0.01：轻微正则化，稍微限制参数大小\nλ=1：强正则化，严格限制参数大小\nλ太大：参数被压得太小，模型太简单（欠拟合）\n正则化如何工作？\n\n训练时优化器面临双重任务：\n\n✅ 减小预测误差：需要调整参数\n✅ 减小参数平方和：需要参数尽量小\n这两个目标有时冲突，最终找到平衡点。\n\n结果：参数不会变得极端大，模型更稳定。\n\n第五步：模型选择（用验证集）\n\n现在我们用验证集的3套房子来测试：\n\n测试结果可能：\n\n模型\t正则化λ\t验证集误差\n模型A\t-\t平均差60万元\n模型B\tλ=0.01\t平均差25万元\n模型B\tλ=0.1\t平均差20万元\n模型B\tλ=1\t平均差35万元\n模型C\tλ=0.01\t平均差80万元\n模型C\tλ=0.1\t平均差40万元\n分析：\n\n模型A：太简单，误差大（欠拟合）\n模型C：即使有正则化，还是容易过拟合，误差大\n模型B + λ=0.1：表现最好！\n我们选择：模型B，λ=0.1\n\n第六步：交叉验证（数据不足时）\n\n如果我们只有12套房子怎么办？\n\n用4折交叉验证：\n\n把12套房子随机分成4组，每组3套\n进行4轮：\n\n第1轮：组1验证，组2+3+4训练\n第2轮：组2验证，组1+3+4训练\n第3轮：组3验证，组1+2+4训练\n第4轮：组4验证，组1+2+3训练\n计算4轮的平均误差\n优点：每套数据都当过验证集，充分利用数据\n缺点：要训练4次，计算量大\n\n第七步：最终测试\n\n用我们选定的最佳组合：\n\n模型：房价 = a×面积 + b×房间数 + c×房龄 + d\nλ值：0.1\n参数：基于10套训练数据训练得到\n在测试集的2套房子上测试：\n\n\n房子14：130㎡, 4室, 12年\n预测：380万元\n真实：380万元 ✓\n\n房子15：95㎡, 3室, 4年  \n预测：292万元\n真实：290万元 ✓（差2万元）\n结果：平均误差约1万元，效果很好！\n\n\n\n机器学习的本质是在三个目标间找到平衡：\n\n拟合能力：能捕捉数据中的规律\n泛化能力：在新数据上表现好\n稳定性：不会因为数据微小变化而崩溃\n正则化就是这个平衡的关键调节器：\n\n它像给模型\"绑上沙袋\"，不让它\"动作过大\"\n限制模型只能用\"合理幅度\"的参数来解释数据\n防止模型为了拟合噪声而做出夸张反应",
+          "abstract": "一个教学示例",
+          "star": -1,
+          "createTime": 1766066656,
+          "createTimeFormatted": "2025-12-18 22:04:16",
+          "isFinish": false,
+          "chapterUid": 131
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_85u4Q8QBr",
+          "range": "15049-15052",
+          "chapterName": "1.2 一个教学示例",
+          "content": "zhènɡ zé huà\n· 通过给模型的假设空间施加限制来解决模型过拟合现象的一类方法。一般通过对需要优化的目标函数施加约束条件来实现。在理论上等价于引入先验信息或噪声。常见的方法有L1正则化和L2正则化等。",
+          "abstract": "正则化",
+          "star": -1,
+          "createTime": 1766037360,
+          "createTimeFormatted": "2025-12-18 13:56:00",
+          "isFinish": false,
+          "chapterUid": 131
+        }
+      ]
+    },
+    {
+      "chapterUid": 12,
+      "chapterTitle": "1.3 机器学习简史",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300186051_12_7601-7640",
+          "range": "7601-7640",
+          "rangeStart": 7601,
+          "rangeEnd": 7640,
+          "markText": "具有多层权重的网络称为深度神经网络，专注于这类网络的机器学习子领域称为深度学习",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1765986650,
+          "createTimeFormatted": "2025-12-17 23:50:50",
+          "chapterUid": 12,
+          "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=12&rangeStart=7601&rangeEnd=7640",
+          "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=12&rangeStart=7601&rangeEnd=7640"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300186051_12_415-476",
+          "range": "415-476",
+          "rangeStart": 415,
+          "rangeEnd": 476,
+          "markText": "基于神经网络的机器学习方法的发展脉络，因为神经网络构成了深度学习的基石，并且在实际应用中已被证明是最为有效的机器学习方法。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1765986161,
+          "createTimeFormatted": "2025-12-17 23:42:41",
+          "chapterUid": 12,
+          "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=12&rangeStart=415&rangeEnd=476",
+          "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=12&rangeStart=415&rangeEnd=476"
+        }
+      ]
+    },
+    {
+      "chapterUid": 16,
+      "chapterTitle": "2.3 高斯分布",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_85YLtkNAP",
+          "range": "3787-3791",
+          "chapterName": "2.3 高斯分布",
+          "content": "若(x1,…,xn)是分布密度为p(x1,…,xn;θ)的样本的观测值,L(θ;x1,…,xn)=p(x1,…,xn;θ)作为θ的函数称为观测(x1,…,xn)的“似然函数”。统计中的最大似然估计法和其他一些推断方法都是基于似然函数概念发展起来的。",
+          "abstract": "似然函数",
+          "star": -1,
+          "createTime": 1767780424,
+          "createTimeFormatted": "2026-01-07 18:07:04",
+          "isFinish": false,
+          "chapterUid": 16
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300186051_140_32012-32060",
+      "chapterUid": 140,
+      "range": "32012-32060",
+      "markText": "ROC曲线图的左下角表示一个将每个点都归入正常类的简单分类器，该分类器虽无真阳性，但也无假阳性。",
+      "totalCount": 823,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=140&rangeStart=32012&rangeEnd=32060",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=140&rangeStart=32012&rangeEnd=32060"
+    },
+    {
+      "bookmarkId": "3300186051_134_26111-26142",
+      "chapterUid": 134,
+      "range": "26111-26142",
+      "markText": "现在假设该硬币被抛掷10次，得知有8次正面朝上，2次反面朝上。",
+      "totalCount": 819,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=134&rangeStart=26111&rangeEnd=26142",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=134&rangeStart=26111&rangeEnd=26142"
+    },
+    {
+      "bookmarkId": "3300186051_19_7237-7301",
+      "chapterUid": 19,
+      "range": "7237-7301",
+      "markText": "如果考虑线性回归模型的特定情况，其对数似然由式(2.66)给出，则可以看到最大化后验分布等价于最小化如下函数（见习题2.41）：",
+      "totalCount": 815,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=19&rangeStart=7237&rangeEnd=7301",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=19&rangeStart=7237&rangeEnd=7301"
+    },
+    {
+      "bookmarkId": "3300186051_49_14906-15375",
+      "chapterUid": 49,
+      "range": "14906-15375",
+      "markText": "超参数、、K、S和c的最优值通常需要借助经验才能找到。",
+      "totalCount": 812,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=49&rangeStart=14906&rangeEnd=15375",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=49&rangeStart=14906&rangeEnd=15375"
+    },
+    {
+      "bookmarkId": "3300186051_71_6596-6767",
+      "chapterUid": 71,
+      "range": "6596-6767",
+      "markText": "10.11 (⋆⋆)当设计一个神经网络来检测图像中C个不同类别的对象时，我们可以使用一个“C+1中之一”形式的类别标签，即每个对象类别使用一个变量，另一个变量表示“背景”类别（不包含任何定义对象类别的输入图像区域）。",
+      "totalCount": 810,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=71&rangeStart=6596&rangeEnd=6767",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=71&rangeStart=6596&rangeEnd=6767"
+    },
+    {
+      "bookmarkId": "3300186051_68_3496-3555",
+      "chapterUid": 68,
+      "range": "3496-3555",
+      "markText": "然后，训练好的模型通过在图像上“扫描”输入窗口来检测新图像中的对象，并针对每个位置，将图像的结果集合用作分类器的输入。",
+      "totalCount": 808,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=68&rangeStart=3496&rangeEnd=3555",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=68&rangeStart=3496&rangeEnd=3555"
+    },
+    {
+      "bookmarkId": "3300186051_90_11825-11879",
+      "chapterUid": 90,
+      "range": "11825-11879",
+      "markText": "如果一个分布在马尔可夫链的每个步骤都保持该分布不变，那么该分布对于这个马尔可夫链来说就是不变的或者说稳定的。",
+      "totalCount": 808,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=90&rangeStart=11825&rangeEnd=11879",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=90&rangeStart=11825&rangeEnd=11879"
+    },
+    {
+      "bookmarkId": "3300186051_79_10444-10501",
+      "chapterUid": 79,
+      "range": "10444-10501",
+      "markText": "同样，式(12.32)右侧的每个分布都可以用表格来表示，其值是从抽取自训练语料的连续词的三连音符统计中估算出来的。",
+      "totalCount": 803,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=79&rangeStart=10444&rangeEnd=10501",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=79&rangeStart=10444&rangeEnd=10501"
+    },
+    {
+      "bookmarkId": "3300186051_134_1745-1785",
+      "chapterUid": 134,
+      "range": "1745-1785",
+      "markText": "请证明这4个骰子中，每一个掷出的数字比循环中前一个骰子掷出数字大的概率为2/3。",
+      "totalCount": 799,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=134&rangeStart=1745&rangeEnd=1785",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=134&rangeStart=1745&rangeEnd=1785"
+    },
+    {
+      "bookmarkId": "3300186051_42_10618-10665",
+      "chapterUid": 42,
+      "range": "10618-10665",
+      "markText": "然而，如果我们可以访问类标签，则可以使用同一类别的图像作为正对，而使用不同类别的图像作为负对。",
+      "totalCount": 796,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=42&rangeStart=10618&rangeEnd=10665",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=42&rangeStart=10618&rangeEnd=10665"
+    },
+    {
+      "bookmarkId": "3300186051_79_7452-7665",
+      "chapterUid": 79,
+      "range": "7452-7665",
+      "markText": "朴素贝叶斯分类器假定每个类中的词是独立的，但每个类的词分布不同，因此",
+      "totalCount": 796,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=79&rangeStart=7452&rangeEnd=7665",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=79&rangeStart=7452&rangeEnd=7665"
+    },
+    {
+      "bookmarkId": "3300186051_79_9414-9467",
+      "chapterUid": 79,
+      "range": "9414-9467",
+      "markText": "这可以用一个概率图模型（参见图11.17）来表示，其中序列里的每个节点都会从各自的前一个节点接收一个连接。",
+      "totalCount": 796,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=79&rangeStart=9414&rangeEnd=9467",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=79&rangeStart=9414&rangeEnd=9467"
+    },
+    {
+      "bookmarkId": "3300186051_79_7283-7327",
+      "chapterUid": 79,
+      "range": "7283-7327",
+      "markText": "只需要将这些概率中的每个概率设置为该词在训练集中出现的次数，就能得到该模型的最大似然解。",
+      "totalCount": 794,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=79&rangeStart=7283&rangeEnd=7327",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=79&rangeStart=7283&rangeEnd=7327"
+    },
+    {
+      "bookmarkId": "3300186051_67_14209-14447",
+      "chapterUid": 67,
+      "range": "14209-14447",
+      "markText": "然后将该层的反向传播变量设置为等于节点的预激活，并向输入层反向传播，从而获得图像像素的梯度向量（参见8.1.2小节）。",
+      "totalCount": 790,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=67&rangeStart=14209&rangeEnd=14447",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=67&rangeStart=14209&rangeEnd=14447"
+    },
+    {
+      "bookmarkId": "3300186051_133_12825-13393",
+      "chapterUid": 133,
+      "range": "12825-13393",
+      "markText": "首先将x分成宽度为Δ的区间，然后假设p(x)是连续的，中值定理(mean value theorem)(Weisstein, 1999)告诉我们，对于每个这样的区间，必定存在一个值在范围内，使得",
+      "totalCount": 790,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=133&rangeStart=12825&rangeEnd=13393",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=133&rangeStart=12825&rangeEnd=13393"
+    },
+    {
+      "bookmarkId": "3300186051_42_10665-10708",
+      "chapterUid": 42,
+      "range": "10665-10708",
+      "markText": "这放宽了对指定表征应保持不变的增强方法的依赖，并且避免了将两个语义相似的图像视为负对。",
+      "totalCount": 789,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=42&rangeStart=10665&rangeEnd=10708",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=42&rangeStart=10665&rangeEnd=10708"
+    },
+    {
+      "bookmarkId": "3300186051_66_21139-21378",
+      "chapterUid": 66,
+      "range": "21139-21378",
+      "markText": "现在，我们可以连续应用多个这样的卷积层和池化层，其中某个层的输出通道（类似于输入图像的RGB通道）形成下一层的输入通道。",
+      "totalCount": 789,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=66&rangeStart=21139&rangeEnd=21378",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=66&rangeStart=21139&rangeEnd=21378"
+    },
+    {
+      "bookmarkId": "3300186051_66_25571-25617",
+      "chapterUid": 66,
+      "range": "25571-25617",
+      "markText": "接下来是另外三个卷积层，每个卷积层有256个通道，从而再次将与下采样相关的通道数量增加一倍。",
+      "totalCount": 785,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=66&rangeStart=25571&rangeEnd=25617",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=66&rangeStart=25571&rangeEnd=25617"
+    },
+    {
+      "bookmarkId": "3300186051_66_26527-26612",
+      "chapterUid": 66,
+      "range": "26527-26612",
+      "markText": "总体而言，VGG-16模型中总共有大约1.38亿个可独立学习的参数，其中大部分（近1.03亿个）位于第一个全连接层中，而大多数连接位于第一个卷积层中（参见习题10.8）。",
+      "totalCount": 783,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=66&rangeStart=26527&rangeEnd=26612",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=66&rangeStart=26527&rangeEnd=26612"
+    },
+    {
+      "bookmarkId": "3300186051_95_886-1049",
+      "chapterUid": 95,
+      "range": "886-1049",
+      "markText": "让我们引入一个K维的二进制随机向量z，它采用1-of-K表示形式，其中一个元素等于1，其他所有元素等于0。",
+      "totalCount": 783,
+      "appLink": "weread://bestbookmark?bookId=3300186051&chapterUid=95&rangeStart=886&rangeEnd=1049",
+      "webLink": "https://weread.qq.com/web/reader/987323b0813abaf2dg01153d?chapterUid=95&rangeStart=886&rangeEnd=1049"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 73,
+    "chapterOffset": 4471,
+    "progress": 0,
+    "updateTime": 1777710468,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

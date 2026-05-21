@@ -1,0 +1,809 @@
+{
+  "meta": {
+    "bookId": "3300010449",
+    "title": "地下室手记",
+    "author": "陀思妥耶夫斯基",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/49/3300010449/t6_3300010449.jpg",
+    "intro": "作家在《地下室手记》中描写了一个他认为当时的社会不但可能、而且必然存在的人物，由主角地下室人以第一人称的方式叙述，地下室人是名年约40的退休公务员，他的内心充满了病态的自卑，但又常剖析自己。全书主要由两部分组成：第一部分是地下室人的长篇独白，内容探讨了自由意志、人的非理性、历史的非理性等哲学议题。小说以悲观主义对抗车尔尼雪夫斯基的长篇小说《怎么办？》的历史乐观主义，认为思想和感情经常处于矛盾状态。",
+    "category": "文学-外国文学",
+    "publisher": "人民文学出版社",
+    "publishTime": "2021-11-05 00:00:00",
+    "isbn": "9787020169788",
+    "wordCount": 0,
+    "newRating": 906,
+    "newRatingCount": 216,
+    "newRatingDetail": {
+      "good": 200,
+      "fair": 15,
+      "poor": 1,
+      "recent": 3,
+      "deepV": 68,
+      "myRating": "",
+      "title": "神作潜力"
+    },
+    "appLink": "weread://reading?bId=3300010449",
+    "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02",
+    "lastSync": "2026-05-21T11:54:21Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=1"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 2,
+      "title": "版权页",
+      "level": 1,
+      "wordCount": 642,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=3"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 3,
+      "title": "揭示人之奥秘的『最高意义上的现实主义者』",
+      "level": 1,
+      "wordCount": 158,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "揭示人之奥秘的『最高意义上的现实主义者』",
+          "anchor": "a004",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 4,
+      "title": "一",
+      "level": 2,
+      "wordCount": 2727,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "b001",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 5,
+      "title": "二",
+      "level": 2,
+      "wordCount": 1922,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二",
+          "anchor": "b002",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 6,
+      "title": "三",
+      "level": 2,
+      "wordCount": 1479,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "三",
+          "anchor": "b003",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 7,
+      "title": "四",
+      "level": 2,
+      "wordCount": 1296,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "四",
+          "anchor": "b004",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 8,
+      "title": "第一章 地下室",
+      "level": 1,
+      "wordCount": 2350,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 地下室",
+          "anchor": "a005",
+          "level": 1
+        },
+        {
+          "title": "一",
+          "anchor": "b005",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 9,
+      "title": "二",
+      "level": 2,
+      "wordCount": 2246,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二",
+          "anchor": "b006",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 10,
+      "title": "三",
+      "level": 2,
+      "wordCount": 2876,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "三",
+          "anchor": "b007",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 11,
+      "title": "四",
+      "level": 2,
+      "wordCount": 1207,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "四",
+          "anchor": "b008",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 12,
+      "title": "五",
+      "level": 2,
+      "wordCount": 1790,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "五",
+          "anchor": "b009",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 13,
+      "title": "六",
+      "level": 2,
+      "wordCount": 1157,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "六",
+          "anchor": "b010",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 14,
+      "title": "七",
+      "level": 2,
+      "wordCount": 4943,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "七",
+          "anchor": "b011",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 15,
+      "title": "八",
+      "level": 2,
+      "wordCount": 4150,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "八",
+          "anchor": "b012",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 16,
+      "title": "九",
+      "level": 2,
+      "wordCount": 2113,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "九",
+          "anchor": "b013",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 17,
+      "title": "十",
+      "level": 2,
+      "wordCount": 1179,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "十",
+          "anchor": "b014",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 18,
+      "title": "十一",
+      "level": 2,
+      "wordCount": 2490,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "十一",
+          "anchor": "b015",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 19,
+      "title": "第二章 由于湿雪",
+      "level": 1,
+      "wordCount": 318,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二章 由于湿雪",
+          "anchor": "a006",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 20,
+      "title": "一",
+      "level": 2,
+      "wordCount": 9329,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "b016",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 21,
+      "title": "二",
+      "level": 2,
+      "wordCount": 3273,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二",
+          "anchor": "b017",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 22,
+      "title": "三",
+      "level": 2,
+      "wordCount": 6528,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "三",
+          "anchor": "b018",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 23,
+      "title": "四",
+      "level": 2,
+      "wordCount": 6999,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "四",
+          "anchor": "b019",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 24,
+      "title": "五",
+      "level": 2,
+      "wordCount": 3340,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "五",
+          "anchor": "b020",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 25,
+      "title": "六",
+      "level": 2,
+      "wordCount": 7194,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "六",
+          "anchor": "b021",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 26,
+      "title": "七",
+      "level": 2,
+      "wordCount": 5132,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "七",
+          "anchor": "b022",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 27,
+      "title": "八",
+      "level": 2,
+      "wordCount": 7224,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "八",
+          "anchor": "b023",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 28,
+      "title": "九",
+      "level": 2,
+      "wordCount": 4855,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "九",
+          "anchor": "b024",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 29,
+      "title": "十",
+      "level": 2,
+      "wordCount": 3794,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "十",
+          "anchor": "b025",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 30,
+      "title": "封底",
+      "level": 1,
+      "wordCount": 4,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300010449&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=32"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 16,
+      "chapterTitle": "七",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300010449_16_2436-2486",
+          "range": "2436-2486",
+          "rangeStart": 2436,
+          "rangeEnd": 2486,
+          "markText": "人过分热衷于体系和抽象的结论，就会甘愿有意歪曲真理，甘愿视而不见、充耳不闻，而一味地为自己的逻辑辩护",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1730939426,
+          "createTimeFormatted": "2024-11-07 08:30:26",
+          "chapterUid": 16,
+          "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=16&rangeStart=2436&rangeEnd=2486",
+          "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=16&rangeStart=2436&rangeEnd=2486"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300010449_5_385-438",
+      "chapterUid": 5,
+      "range": "385-438",
+      "markText": "“人是一个奥秘。应该解开它，如果你毕生都在解开它，那你不要说损失了时间；我在研究这个奥秘，因为我想做人。”",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=5&rangeStart=385&rangeEnd=438",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=5&rangeStart=385&rangeEnd=438"
+    },
+    {
+      "bookmarkId": "3300010449_10_567-588",
+      "chapterUid": 10,
+      "range": "567-588",
+      "markText": "我受过足够的教育能让我不迷信，可我还是迷信",
+      "totalCount": 308,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=10&rangeStart=567&rangeEnd=588",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=10&rangeStart=567&rangeEnd=588"
+    },
+    {
+      "bookmarkId": "3300010449_19_1107-1181",
+      "chapterUid": 19,
+      "range": "1107-1181",
+      "markText": "也许你们会说，不值得同我打交道；若是这样，我也可以用同样的话回敬你们。我们在严肃地谈论，而你们却不愿理睬我，那我也不会卑躬屈膝的。我有自己的地下室。",
+      "totalCount": 260,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=19&rangeStart=1107&rangeEnd=1181",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=19&rangeStart=1107&rangeEnd=1181"
+    },
+    {
+      "bookmarkId": "3300010449_10_829-928",
+      "chapterUid": 10,
+      "range": "829-928",
+      "markText": "也许，单凭这一点，我就该奖励自己。（一句蹩脚的俏皮话，可我却不打算将它抹去。我把这句话写了出来，认为它一定会是非常好笑的；而此刻，我自己也已看出来了，我不过是在卑鄙地炫耀自己——可我偏不将它抹去！）",
+      "totalCount": 225,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=10&rangeStart=829&rangeEnd=928",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=10&rangeStart=829&rangeEnd=928"
+    },
+    {
+      "bookmarkId": "3300010449_10_1717-1755",
+      "chapterUid": 10,
+      "range": "1717-1755",
+      "markText": "一个聪明人是无法真的成为一种什么样的人的，而能成为一种什么样的人的只有傻瓜。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=10&rangeStart=1717&rangeEnd=1755",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=10&rangeStart=1717&rangeEnd=1755"
+    },
+    {
+      "bookmarkId": "3300010449_11_437-486",
+      "chapterUid": 11,
+      "range": "437-486",
+      "markText": "过多的意识，就是一种病，一种真正的、十足的病。对于人的日常生活来说，具有普通人的意识就已足够足够了",
+      "totalCount": 220,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=11&rangeStart=437&rangeEnd=486",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=11&rangeStart=437&rangeEnd=486"
+    },
+    {
+      "bookmarkId": "3300010449_13_1552-1613",
+      "chapterUid": 13,
+      "range": "1552-1613",
+      "markText": "的玩笑自然不佳，有好有坏、乱糟糟的、自相矛盾。但要知道，这是因为我不尊重自己。难道一个有意识的人能够多多少少地尊重自己吗？",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=13&rangeStart=1552&rangeEnd=1613",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=13&rangeStart=1552&rangeEnd=1613"
+    },
+    {
+      "bookmarkId": "3300010449_10_1864-1930",
+      "chapterUid": 10,
+      "range": "1864-1930",
+      "markText": "过了四十岁再活下去，就是不体面、庸俗和不道德的了！请你们老老实实回答：有谁活过了四十岁？我来告诉你们，只有傻瓜和恶棍才会活过四十岁。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=10&rangeStart=1864&rangeEnd=1930",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=10&rangeStart=1864&rangeEnd=1930"
+    },
+    {
+      "bookmarkId": "3300010449_11_1874-1915",
+      "chapterUid": 11,
+      "range": "1874-1915",
+      "markText": "是的，一个恶棍，当他自己感觉到他真的是一个恶棍的时候，对他来说便似乎成了一种安慰。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=11&rangeStart=1874&rangeEnd=1915",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=11&rangeStart=1874&rangeEnd=1915"
+    },
+    {
+      "bookmarkId": "3300010449_13_1034-1127",
+      "chapterUid": 13,
+      "range": "1034-1127",
+      "markText": "他已不是像一个粗鲁的农夫那样呻吟了，他的呻吟倒像一个受进步和欧洲文明所感染了的人，像一个如今常说的那种“脱离了根基和人民本源”的人。他的呻吟变得有些可恶、卑鄙而又狠毒，白天黑夜连续不断。",
+      "totalCount": 195,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=13&rangeStart=1034&rangeEnd=1127",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=13&rangeStart=1034&rangeEnd=1127"
+    },
+    {
+      "bookmarkId": "3300010449_16_5018-5113",
+      "chapterUid": 16,
+      "range": "5018-5113",
+      "markText": "自身的、随意的、自由的意愿，自身的，即便是最野蛮的任性，自己的，有时甚至达到疯狂的想象——这一切便是那个被遗漏的、最有利益的利益，正是它不适于纳入任何一种分类，而总是使所有的体系和理论解体。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=16&rangeStart=5018&rangeEnd=5113",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=16&rangeStart=5018&rangeEnd=5113"
+    },
+    {
+      "bookmarkId": "3300010449_14_725-772",
+      "chapterUid": 14,
+      "range": "725-772",
+      "markText": "你们会问，我干吗要糟蹋自己、折磨自己呢？答案是：因为袖手闲坐非常无聊；于是，我便来个装腔作势。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=14&rangeStart=725&rangeEnd=772",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=14&rangeStart=725&rangeEnd=772"
+    },
+    {
+      "bookmarkId": "3300010449_12_2061-2151",
+      "chapterUid": 12,
+      "range": "2061-2151",
+      "markText": "在这竭力编造却仍然有些可疑的绝境之中，在这刻骨铭心未能满足的愿望的鸩毒里，在已做出永恒决定、旋又反悔的所有这些摇摆不定的冷热病中——正是在这里，蕴含着我所说的那种奇特的快感的琼浆。",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=12&rangeStart=2061&rangeEnd=2151",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=12&rangeStart=2061&rangeEnd=2151"
+    },
+    {
+      "bookmarkId": "3300010449_10_1201-1240",
+      "chapterUid": 10,
+      "range": "1201-1240",
+      "markText": "我不仅不恶毒，甚至还是一个凶不起来的人，我不过是在吓唬吓唬麻雀并以此自慰罢了。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=10&rangeStart=1201&rangeEnd=1240",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=10&rangeStart=1201&rangeEnd=1240"
+    },
+    {
+      "bookmarkId": "3300010449_10_2156-2241",
+      "chapterUid": 10,
+      "range": "2156-2241",
+      "markText": "那么，我就会回答你们，我是个八等文官。我曾供职，为的是有碗饭吃（仅仅为了这一目的）。去年，当我的一位远房亲戚立下遗嘱留给我六千卢布时，我便立即退职，在自己的角落里定居了。",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=10&rangeStart=2156&rangeEnd=2241",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=10&rangeStart=2156&rangeEnd=2241"
+    },
+    {
+      "bookmarkId": "3300010449_10_451-511",
+      "chapterUid": 10,
+      "range": "451-511",
+      "markText": "我是个病人……我是个凶狠的人。我是个不讨人喜欢的人。我想，我的肝脏有病。但是，我丝毫不懂得我的病情，我确实不知道我有病。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=10&rangeStart=451&rangeEnd=511",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=10&rangeStart=451&rangeEnd=511"
+    },
+    {
+      "bookmarkId": "3300010449_12_3153-3188",
+      "chapterUid": 12,
+      "range": "3153-3188",
+      "markText": "那就是甚至连那堵石墙的存在，仿佛也是你自己的罪过，虽说你显然完全无罪，",
+      "totalCount": 140,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=12&rangeStart=3153&rangeEnd=3188",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=12&rangeStart=3153&rangeEnd=3188"
+    },
+    {
+      "bookmarkId": "3300010449_31_2982-3016",
+      "chapterUid": 31,
+      "range": "2982-3016",
+      "markText": "什么更好一些呢？是廉价的幸福，还是崇高的苦难？是的，什么更好一些呢？",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=31&rangeStart=2982&rangeEnd=3016",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=31&rangeStart=2982&rangeEnd=3016"
+    },
+    {
+      "bookmarkId": "3300010449_17_3454-3514",
+      "chapterUid": 17,
+      "range": "3454-3514",
+      "markText": "众所周知，许多有此爱好的人，或迟或早，在生命行将结束时都背叛了自己，闹出了一些趣闻逸事，有时甚至是最最不体面的趣闻逸事。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=17&rangeStart=3454&rangeEnd=3514",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=17&rangeStart=3454&rangeEnd=3514"
+    },
+    {
+      "bookmarkId": "3300010449_20_1574-1662",
+      "chapterUid": 20,
+      "range": "1574-1662",
+      "markText": "每个人的回忆中都有这样一些东西，它们不能向众人公开，而只能向朋友袒露。另有一些东西，就是对朋友也不会公开，而只有对自己坦诚，并且讳莫如深。最后，还有一些东西，甚至害怕对自己公开",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=3300010449&chapterUid=20&rangeStart=1574&rangeEnd=1662",
+      "webLink": "https://weread.qq.com/web/reader/7e232910813ab6a94g019d02?chapterUid=20&rangeStart=1574&rangeEnd=1662"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

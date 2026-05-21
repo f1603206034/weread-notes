@@ -1,0 +1,949 @@
+{
+  "meta": {
+    "bookId": "3300028868",
+    "title": "Python深度学习（第2版）",
+    "author": "[美] 弗朗索瓦·肖莱　著",
+    "translator": "张亮",
+    "cover": "https://cdn.weread.qq.com/weread/cover/72/cpPlatform_p8yA1ywQpEJ4Z8Jbi8YvS1/t6_cpPlatform_p8yA1ywQpEJ4Z8Jbi8YvS1.jpg",
+    "intro": "本书由流行深度学习框架Keras之父弗朗索瓦·肖莱执笔，通过直观的解释和丰富的示例帮助你构建深度学习知识体系。作者避免使用数学符号，转而采用Python代码来解释深度学习的核心思想。全书共计14章，既涵盖了深度学习的基本原理，又体现了这一迅猛发展的领域在近几年里取得的重要进展，包括Transformer架构的原理和示例。读完本书后，你将能够使用Keras解决从计算机视觉到自然语言处理等现实世界的诸多问题，包括图像分类、图像分割、时间序列预测、文本分类、机器翻译、文本生成等。",
+    "category": "计算机-编程设计",
+    "publisher": "人民邮电出版社有限公司",
+    "publishTime": "2022-08-01 00:00:00",
+    "isbn": "9787115597175",
+    "wordCount": 0,
+    "newRating": 931,
+    "newRatingCount": 181,
+    "newRatingDetail": {
+      "good": 173,
+      "fair": 4,
+      "poor": 4,
+      "recent": 0,
+      "deepV": 76,
+      "myRating": "",
+      "title": "神作潜力"
+    },
+    "appLink": "weread://reading?bId=3300028868",
+    "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff",
+    "lastSync": "2026-05-21T11:50:34Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 178,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "版权声明",
+      "level": 1,
+      "wordCount": 408,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "献词",
+      "level": 1,
+      "wordCount": 32,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 1294,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 753,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "关于本书",
+      "level": 1,
+      "wordCount": 1834,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "谁应该阅读本书",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "关于代码",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "本书论坛",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "更多信息",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "关于封面",
+      "level": 1,
+      "wordCount": 685,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第1章 什么是深度学习",
+      "level": 1,
+      "wordCount": 20185,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.1 人工智能、机器学习和深度学习",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "1.2 深度学习之前：机器学习简史",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        },
+        {
+          "title": "1.3 为什么要用深度学习，为什么是现在",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第2章 神经网络的数学基础",
+      "level": 1,
+      "wordCount": 33509,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1 初识神经网络",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "2.2 神经网络的数据表示",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "2.3 神经网络的“齿轮”：张量运算",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        },
+        {
+          "title": "2.4 神经网络的“引擎”：基于梯度的优化",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        },
+        {
+          "title": "2.5 顾第一个例子",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        },
+        {
+          "title": "2.6 本章总结",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第3章 Keras和TensorFlow入门",
+      "level": 1,
+      "wordCount": 23929,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.1 TensorFlow简介",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        },
+        {
+          "title": "3.2 Keras简介",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        },
+        {
+          "title": "3.3 Keras和TensorFlow简史",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        },
+        {
+          "title": "3.4 建立深度学习工作区",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        },
+        {
+          "title": "3.5 TensorFlow入门",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        },
+        {
+          "title": "3.6 神经网络剖析：了解核心Keras API",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        },
+        {
+          "title": "3.7 本章总结",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第4章 神经网络入门：分类与回归",
+      "level": 1,
+      "wordCount": 21142,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.1 影评分类：二分类问题示例",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        },
+        {
+          "title": "4.2 新闻分类：多分类问题示例",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        },
+        {
+          "title": "4.3 预测房价：标量归问题示例",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        },
+        {
+          "title": "4.4 本章总结",
+          "anchor": "sigil_toc_id_24",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第5章 机器学习基础",
+      "level": 1,
+      "wordCount": 24311,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1 泛化：机器学习的目标",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        },
+        {
+          "title": "5.2 评估机器学习模型",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        },
+        {
+          "title": "5.3 改进模型拟合",
+          "anchor": "sigil_toc_id_27",
+          "level": 2
+        },
+        {
+          "title": "5.4 提高泛化能力",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        },
+        {
+          "title": "5.5 本章总结",
+          "anchor": "sigil_toc_id_29",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第6章 机器学习的通用工作流程",
+      "level": 1,
+      "wordCount": 14999,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.1 定义任务",
+          "anchor": "sigil_toc_id_30",
+          "level": 2
+        },
+        {
+          "title": "6.2 开发模型",
+          "anchor": "sigil_toc_id_31",
+          "level": 2
+        },
+        {
+          "title": "6.3 部署模型",
+          "anchor": "sigil_toc_id_32",
+          "level": 2
+        },
+        {
+          "title": "6.4 本章总结",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第7章 深入Keras",
+      "level": 1,
+      "wordCount": 32807,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.1 Keras工作流程",
+          "anchor": "sigil_toc_id_34",
+          "level": 2
+        },
+        {
+          "title": "7.2 构建Keras模型的不同方法",
+          "anchor": "sigil_toc_id_35",
+          "level": 2
+        },
+        {
+          "title": "7.3 使用内置的训练循环和评估循环",
+          "anchor": "sigil_toc_id_36",
+          "level": 2
+        },
+        {
+          "title": "7.4 编写自定义的训练循环和评估循环",
+          "anchor": "sigil_toc_id_37",
+          "level": 2
+        },
+        {
+          "title": "7.5 本章总结",
+          "anchor": "sigil_toc_id_38",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第8章 计算机视觉深度学习入门",
+      "level": 1,
+      "wordCount": 38293,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.1 卷积神经网络入门",
+          "anchor": "sigil_toc_id_39",
+          "level": 2
+        },
+        {
+          "title": "8.2 在小型数据集上从头开始训练一个卷积神经网络",
+          "anchor": "sigil_toc_id_40",
+          "level": 2
+        },
+        {
+          "title": "8.3 使用预训练模型",
+          "anchor": "sigil_toc_id_41",
+          "level": 2
+        },
+        {
+          "title": "8.4 本章总结",
+          "anchor": "sigil_toc_id_42",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第9章 计算机视觉深度学习进阶",
+      "level": 1,
+      "wordCount": 41186,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.1 三项基本的计算机视觉任务",
+          "anchor": "sigil_toc_id_43",
+          "level": 2
+        },
+        {
+          "title": "9.2 图像分割示例",
+          "anchor": "sigil_toc_id_44",
+          "level": 2
+        },
+        {
+          "title": "9.3 现代卷积神经网络架构模式",
+          "anchor": "sigil_toc_id_45",
+          "level": 2
+        },
+        {
+          "title": "9.4 解释卷积神经网络学到的内容",
+          "anchor": "sigil_toc_id_46",
+          "level": 2
+        },
+        {
+          "title": "9.5 本章总结",
+          "anchor": "sigil_toc_id_47",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第10章 深度学习处理时间序列",
+      "level": 1,
+      "wordCount": 26262,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10.1 不同类型的时间序列任务",
+          "anchor": "sigil_toc_id_48",
+          "level": 2
+        },
+        {
+          "title": "10.2 温度预测示例",
+          "anchor": "sigil_toc_id_49",
+          "level": 2
+        },
+        {
+          "title": "10.3 理解RNN",
+          "anchor": "sigil_toc_id_50",
+          "level": 2
+        },
+        {
+          "title": "10.4 RNN的高级用法",
+          "anchor": "sigil_toc_id_51",
+          "level": 2
+        },
+        {
+          "title": "10.5 本章总结",
+          "anchor": "sigil_toc_id_52",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第11章 深度学习处理文本",
+      "level": 1,
+      "wordCount": 60998,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11.1 自然语言处理概述",
+          "anchor": "sigil_toc_id_53",
+          "level": 2
+        },
+        {
+          "title": "11.2 准备文本数据",
+          "anchor": "sigil_toc_id_54",
+          "level": 2
+        },
+        {
+          "title": "11.3 表示单词组的两种方法：集合和序列",
+          "anchor": "sigil_toc_id_55",
+          "level": 2
+        },
+        {
+          "title": "11.4 Transformer架构",
+          "anchor": "sigil_toc_id_56",
+          "level": 2
+        },
+        {
+          "title": "11.5 超越文本分类：序列到序列学习",
+          "anchor": "sigil_toc_id_57",
+          "level": 2
+        },
+        {
+          "title": "11.6 本章总结",
+          "anchor": "sigil_toc_id_58",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第12章 生成式深度学习",
+      "level": 1,
+      "wordCount": 51047,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12.1 文本生成",
+          "anchor": "sigil_toc_id_59",
+          "level": 2
+        },
+        {
+          "title": "12.2 DeepDream",
+          "anchor": "sigil_toc_id_60",
+          "level": 2
+        },
+        {
+          "title": "12.3 神经风格迁移",
+          "anchor": "sigil_toc_id_61",
+          "level": 2
+        },
+        {
+          "title": "12.4 用变分自编码器生成图像",
+          "anchor": "sigil_toc_id_62",
+          "level": 2
+        },
+        {
+          "title": "12.5 生成式对抗网络入门",
+          "anchor": "sigil_toc_id_63",
+          "level": 2
+        },
+        {
+          "title": "12.6 本章总结",
+          "anchor": "sigil_toc_id_64",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第13章 适合现实世界的最佳实践",
+      "level": 1,
+      "wordCount": 18572,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "13.1 将模型性能发挥到极致",
+          "anchor": "sigil_toc_id_65",
+          "level": 2
+        },
+        {
+          "title": "13.2 加速模型训练",
+          "anchor": "sigil_toc_id_66",
+          "level": 2
+        },
+        {
+          "title": "13.3 本章总结",
+          "anchor": "sigil_toc_id_67",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第14章 总结",
+      "level": 1,
+      "wordCount": 31375,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14.1 重点概念顾",
+          "anchor": "sigil_toc_id_68",
+          "level": 2
+        },
+        {
+          "title": "14.2 深度学习的局限性",
+          "anchor": "sigil_toc_id_69",
+          "level": 2
+        },
+        {
+          "title": "14.3 如何实现更加通用的人工智能",
+          "anchor": "sigil_toc_id_70",
+          "level": 2
+        },
+        {
+          "title": "14.4 实现智能：缺失的内容",
+          "anchor": "sigil_toc_id_71",
+          "level": 2
+        },
+        {
+          "title": "14.5 深度学习的未来",
+          "anchor": "sigil_toc_id_72",
+          "level": 2
+        },
+        {
+          "title": "14.6 了解快速发展的领域的最新进展",
+          "anchor": "sigil_toc_id_73",
+          "level": 2
+        },
+        {
+          "title": "14.7 结束语",
+          "anchor": "sigil_toc_id_74",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 167,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "看完了",
+      "level": 1,
+      "wordCount": 288,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300028868&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=24"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 9,
+      "chapterTitle": "第1章 什么是深度学习",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300028868_9_5786-5916",
+          "range": "5786-5916",
+          "rangeStart": 5786,
+          "rangeEnd": 5916,
+          "markText": "机器学习和深度学习的核心问题在于有意义地变换数据，换句话说，在于学习输入数据的有用表示（representation）——这种表示可以让数据更接近预期输出。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1748499720,
+          "createTimeFormatted": "2025-05-29 14:22:00",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=5786&rangeEnd=5916",
+          "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=5786&rangeEnd=5916"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300028868_9_10024-10154",
+      "chapterUid": 9,
+      "range": "10024-10154",
+      "markText": "你可以将深度神经网络看作多级信息蒸馏（information distillation）过程：信息穿过连续的过滤器，其纯度越来越高（对任务的帮助越来越大）。",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=10024&rangeEnd=10154",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=10024&rangeEnd=10154"
+    },
+    {
+      "bookmarkId": "3300028868_9_22631-22734",
+      "chapterUid": 9,
+      "range": "22631-22734",
+      "markText": "深度学习的变革之处在于，模型可以在同一时间共同学习所有表示层，而不是依次连续学习（这被称为贪婪学习）。",
+      "totalCount": 238,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=22631&rangeEnd=22734",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=22631&rangeEnd=22734"
+    },
+    {
+      "bookmarkId": "3300028868_9_8003-8106",
+      "chapterUid": 9,
+      "range": "8003-8106",
+      "markText": "机器学习中的学习指的是，寻找某种数据变换的自动搜索过程。在反馈信号的指引下，这种变换可以生成有用的数据表示，这种表示则可以用更简单的规则来解决手头的任务。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=8003&rangeEnd=8106",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=8003&rangeEnd=8106"
+    },
+    {
+      "bookmarkId": "3300028868_9_8770-8865",
+      "chapterUid": 9,
+      "range": "8770-8865",
+      "markText": "深度学习之“深度”并不是说这种方法能够获取更深层次的理解，而是指一系列连续的表示层。数据模型所包含的层数被称为该模型的深度（depth）。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=8770&rangeEnd=8865",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=8770&rangeEnd=8865"
+    },
+    {
+      "bookmarkId": "3300028868_9_12841-12869",
+      "chapterUid": 9,
+      "range": "12841-12869",
+      "markText": "一旦具有足够大的规模，这个简单的机制将产生魔法般的效果。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=12841&rangeEnd=12869",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=12841&rangeEnd=12869"
+    },
+    {
+      "bookmarkId": "3300028868_9_5786-5916",
+      "chapterUid": 9,
+      "range": "5786-5916",
+      "markText": "机器学习和深度学习的核心问题在于有意义地变换数据，换句话说，在于学习输入数据的有用表示（representation）——这种表示可以让数据更接近预期输出。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=5786&rangeEnd=5916",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=5786&rangeEnd=5916"
+    },
+    {
+      "bookmarkId": "3300028868_4_389-415",
+      "chapterUid": 4,
+      "range": "389-415",
+      "markText": "献给我的儿子Sylvain，希望你有一天能阅读本书。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=4&rangeStart=389&rangeEnd=415",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=4&rangeStart=389&rangeEnd=415"
+    },
+    {
+      "bookmarkId": "3300028868_9_2361-2487",
+      "chapterUid": 9,
+      "range": "2361-2487",
+      "markText": "事实上，在相当长的时间内，大多数专家相信，只要程序员手动编写足够多的明确规则来处理存储在显式数据库中的知识，就可以实现与人类水平相当的人工智能。这一方法被称为符号主义人工智能（symbolic AI）",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=2361&rangeEnd=2487",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=2361&rangeEnd=2487"
+    },
+    {
+      "bookmarkId": "3300028868_9_4981-5079",
+      "chapterUid": 9,
+      "range": "4981-5079",
+      "markText": "机器学习（尤其是深度学习）呈现出相对较少的数学理论（可能过于少了），从根本上来说是一门工程学科。与理论物理或数学不同，机器学习是一门非常注重实践的学科，由经验发现所驱动，并深深依赖于软硬件的发展。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=4981&rangeEnd=5079",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=4981&rangeEnd=5079"
+    },
+    {
+      "bookmarkId": "3300028868_9_25171-25213",
+      "chapterUid": 9,
+      "range": "25171-25213",
+      "markText": "与数学或物理学不同，仅靠一支笔和一张纸不能实现机器学习的重大进展，它是一门工程科学。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=25171&rangeEnd=25213",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=25171&rangeEnd=25213"
+    },
+    {
+      "bookmarkId": "3300028868_9_10466-10538",
+      "chapterUid": 9,
+      "range": "10466-10538",
+      "markText": "这就是深度学习的技术定义：一种多层的学习数据表示的方法。这个想法很简单，但事实证明，如果具有足够大的规模，那么非常简单的机制将产生魔法般的效果。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=10466&rangeEnd=10538",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=10466&rangeEnd=10538"
+    },
+    {
+      "bookmarkId": "3300028868_9_8260-8352",
+      "chapterUid": 9,
+      "range": "8260-8352",
+      "markText": "机器学习算法在寻找这些变换时通常没有创造性，仅仅是遍历一组预先定义的操作，这组操作叫作假设空间（hypothesis space）。",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=8260&rangeEnd=8352",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=8260&rangeEnd=8352"
+    },
+    {
+      "bookmarkId": "3300028868_9_8421-8468",
+      "chapterUid": 9,
+      "range": "8421-8468",
+      "markText": "机器学习就是指在预先定义的可能性空间中，利用反馈信号的指引，在输入数据中寻找有用的表示和规则。",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=8421&rangeEnd=8468",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=8421&rangeEnd=8468"
+    },
+    {
+      "bookmarkId": "3300028868_9_22109-22161",
+      "chapterUid": 9,
+      "range": "22109-22161",
+      "markText": "深度学习还让解决问题变得更加简单，因为它将特征工程完全自动化，而这曾经是机器学习工作流程中最关键的一步。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=22109&rangeEnd=22161",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=22109&rangeEnd=22161"
+    },
+    {
+      "bookmarkId": "3300028868_13_14148-14187",
+      "chapterUid": 13,
+      "range": "14148-14187",
+      "markText": "深度神经网络以分层和模块化的方式组织学到的表示，这与自然数据的组织方式相呼应。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=13&rangeStart=14148&rangeEnd=14187",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=13&rangeStart=14148&rangeEnd=14187"
+    },
+    {
+      "bookmarkId": "3300028868_9_3376-3433",
+      "chapterUid": 9,
+      "range": "3376-3433",
+      "markText": "分析机谈不上能创造什么东西。它能做的是我们知道如何命令它去做的任何事情……它的职责是帮助我们去实现我们已知的事情。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=3376&rangeEnd=3433",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=3376&rangeEnd=3433"
+    },
+    {
+      "bookmarkId": "3300028868_10_2084-2253",
+      "chapterUid": 10,
+      "range": "2084-2253",
+      "markText": "在机器学习中，分类问题中的某个类别叫作类（class），数据点叫作样本（sample），与某个样本对应的类叫作标签（label）。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=10&rangeStart=2084&rangeEnd=2253",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=10&rangeStart=2084&rangeEnd=2253"
+    },
+    {
+      "bookmarkId": "3300028868_10_22331-22400",
+      "chapterUid": 10,
+      "range": "22331-22400",
+      "markText": "同样，在GPU上运行TensorFlow代码，逐元素运算都是通过完全向量化的CUDA来完成的，可以最大限度地利用高度并行的GPU芯片架构。",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=10&rangeStart=22331&rangeEnd=22400",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=10&rangeStart=22331&rangeEnd=22400"
+    },
+    {
+      "bookmarkId": "3300028868_9_12141-12259",
+      "chapterUid": 9,
+      "range": "12141-12259",
+      "markText": "这种调节是优化器（optimizer）的任务，它实现了所谓的反向传播（backpropagation）算法，这是深度学习的核心算法。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=12141&rangeEnd=12259",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=12141&rangeEnd=12259"
+    },
+    {
+      "bookmarkId": "3300028868_9_6169-6210",
+      "chapterUid": 9,
+      "range": "6169-6210",
+      "markText": "机器学习模型旨在为输入数据寻找合适的表示（对数据进行变换），使其更适合手头的任务。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300028868&chapterUid=9&rangeStart=6169&rangeEnd=6210",
+      "webLink": "https://weread.qq.com/web/reader/33f32c90813ab71c6g018fff?chapterUid=9&rangeStart=6169&rangeEnd=6210"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 1,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": 1748512571,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

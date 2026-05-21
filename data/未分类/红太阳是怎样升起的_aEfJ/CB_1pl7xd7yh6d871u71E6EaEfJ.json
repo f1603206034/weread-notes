@@ -1,0 +1,963 @@
+{
+  "meta": {
+    "bookId": "CB_1pl7xd7yh6d871u71E6EaEfJ",
+    "title": "红太阳是怎样升起的",
+    "author": "高华",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_1pl7xd7yh6d871u71E6EaEfJ_parsecover",
+    "intro": "",
+    "category": "",
+    "publisher": "",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ",
+    "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c",
+    "lastSync": "2026-05-21T11:45:52Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "dbf280fe069ae58e2cf4ae569d2bd977e0f8e0743cb0e5bc5e7246fa36536bca"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 6,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "红太阳是怎样升起的",
+      "level": 2,
+      "wordCount": 42,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "作者简介",
+      "level": 2,
+      "wordCount": 557,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "内容简介",
+      "level": 2,
+      "wordCount": 320,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "目录",
+      "level": 2,
+      "wordCount": 1772,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第一章 毛泽东与原中共中央历史上分歧的由来",
+      "level": 2,
+      "wordCount": 24,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "一 「农民党」、「军党」和毛泽东的「书记独裁」问题",
+      "level": 3,
+      "wordCount": 59833,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 毛泽东在「肃AB团」问题上的极端行为与中共中央的反应",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "三 周恩来与毛泽东在苏区肃反问题上的异同点",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        },
+        {
+          "title": "四 在土地政策方面的分歧",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        },
+        {
+          "title": "五 在军事战略方针方面的分歧",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        },
+        {
+          "title": "六 党权高涨，全盘俄化及毛泽东被冷遇",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第二章 遵义会议后毛泽东的权力扩张和来自莫斯科的政策干预",
+      "level": 2,
+      "wordCount": 28,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "一 毛泽东逐步掌控军权、党权",
+      "level": 3,
+      "wordCount": 31957,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 从毛、张（闻天）联盟到毛、刘（少奇）联盟",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        },
+        {
+          "title": "三 1931—1935年王明对毛泽东的认识",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "四 在「反蒋抗日」问题上毛泽东与莫斯科的分歧",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第三章 王明返国前后中共核心层的争论与力量重组",
+      "level": 2,
+      "wordCount": 23,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "一 毛泽东和周恩来等在处理国共关系及八路军军事战略方针上的分歧",
+      "level": 3,
+      "wordCount": 30141,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 毛泽东的理论攻势与刘少奇对毛的支持",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        },
+        {
+          "title": "三 让步与等待：1937年12月政治局会议",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        },
+        {
+          "title": "四 毛泽东与武汉「第二政治局」的对立",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第四章 毛泽东对王明的重大胜利",
+      "level": 2,
+      "wordCount": 15,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "一 毛泽东迂回反击王明",
+      "level": 3,
+      "wordCount": 19354,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 关于季米特洛夫支持毛泽东为中共领袖的「口信」",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "三 两面策略：中共六届六中全会与毛泽东的〈论新阶段〉",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        },
+        {
+          "title": "四 毛泽东的「新话」：「马克思主义的中国化」",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第五章 夺取意识形态的「解释权」",
+      "level": 2,
+      "wordCount": 16,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "一 毛泽东从斯大林《联共党史》中学到了什么？",
+      "level": 3,
+      "wordCount": 18468,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二「挖墙角、掺沙子」：陈伯达、胡乔木等的擢升",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "三「甩石头」：毛泽东编「党书」",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第六章 整风运动前夕中共的内外环境与毛泽东的强势地位",
+      "level": 2,
+      "wordCount": 26,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "一 四十年代初延安的社会生态构成",
+      "level": 3,
+      "wordCount": 38098,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 与蒋介石、斯大林相周旋",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "三 毛泽东最坚定的盟友：刘少奇及其班底",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "四 毛泽东手中「出鞘的利剑」：康生",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        },
+        {
+          "title": "五 毛泽东的「内管家」：任弼时、陈云、李富春",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        },
+        {
+          "title": "六 扶植地方实力派：高岗的崛起",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        },
+        {
+          "title": "七 重新调整与毛泽东的关系：处境尴尬的军方",
+          "anchor": "sigil_toc_id_28",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第七章 上层革命的开始：毛泽东与王明的首次公开交锋",
+      "level": 2,
+      "wordCount": 25,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "一 穷途末路的国际派",
+      "level": 3,
+      "wordCount": 29209,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 进退失据的周恩来",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        },
+        {
+          "title": "三 初战告捷：1941年9月政治局扩大会议",
+          "anchor": "sigil_toc_id_31",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第八章 革命转入中下层：全面整风的发韧",
+      "level": 2,
+      "wordCount": 19,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "一 动员「思想革命」：毛泽东究竟要做什么？",
+      "level": 3,
+      "wordCount": 10071,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 冻结政治局，中央总学委的成立",
+          "anchor": "sigil_toc_id_33",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第九章 从「延安之春」到斗争王实味",
+      "level": 2,
+      "wordCount": 17,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "一 利用白由主义打击教条主义：毛泽东与延安「白由化」言论的出笼",
+      "level": 3,
+      "wordCount": 39951,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 呼唤人道的、民主的社会主义：王实味言论中的意义",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        },
+        {
+          "title": "三 风向突转：毛泽东拿王实味开刀",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        },
+        {
+          "title": "四 毛泽东为什么要给延安文化人套上「辔头」？",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        },
+        {
+          "title": "五 延安文艺座谈会与毛泽东「党文化」观的形成",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第十章 革命在深入：宣传和干部教育系统的重建",
+      "level": 2,
+      "wordCount": 22,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "一 重建「党的喉舌」：延安《解放日报》的整风",
+      "level": 3,
+      "wordCount": 21139,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 陆定一、胡乔木与毛氏「新闻学」原则的确立",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        },
+        {
+          "title": "三 邓发被贬黜与中央党校的三次改组",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        },
+        {
+          "title": "四 彭真与中央党校的彻底毛化",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第十一章 锻造「新人」：从整风到审干",
+      "level": 2,
+      "wordCount": 18,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "一 教化先行：听传达报告和精读文件",
+      "level": 3,
+      "wordCount": 33277,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 排队摸底：命令写反省笔记",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        },
+        {
+          "title": "三 审查在后：动员填「小广播调查表」",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "四 为运动重心的转移作准备：毛泽东、康生的幕后活动",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        },
+        {
+          "title": "五 向党交心：交代个人历史",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "六「脱裤子，割尾巴」：在双重压力下涤荡灵魂",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "七「得救」：「新人」的诞生",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第十二章 革命向最高阶段发展：审干、反奸与抢救运动",
+      "level": 2,
+      "wordCount": 25,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "一 康生机关与1937年后延安的「肃托」",
+      "level": 3,
+      "wordCount": 46180,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 1940年的审干与干部档案制度的建立",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        },
+        {
+          "title": "三 「整风必然转入审干，审干必然转入反奸（肃反）」",
+          "anchor": "sigil_toc_id_52",
+          "level": 3
+        },
+        {
+          "title": "四 毛泽东的「肃反」情结：从\"肃AB团\"、\"肃托\"到\"抢救\"",
+          "anchor": "sigil_toc_id_53",
+          "level": 3
+        },
+        {
+          "title": "五 毛泽东、中央总学委和中央社会部的关系",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        },
+        {
+          "title": "六 在「试验曰」里制造出的「张克勤案」",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        },
+        {
+          "title": "七 「抢救」的全面发动与刘少奇进入「反奸」领导核心",
+          "anchor": "sigil_toc_id_56",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第十三章 「抢救」风暴下的延安和各根据地",
+      "level": 2,
+      "wordCount": 23,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "一 「抢救」的策略和手段",
+      "level": 3,
+      "wordCount": 58324,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 中直机关的「抢救」",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        },
+        {
+          "title": "三 军直机关的「抢救」",
+          "anchor": "sigil_toc_id_59",
+          "level": 3
+        },
+        {
+          "title": "四 西北局和边匾系统的「抢救」",
+          "anchor": "sigil_toc_id_60",
+          "level": 3
+        },
+        {
+          "title": "五 中央党校的「抢救」",
+          "anchor": "sigil_toc_id_61",
+          "level": 3
+        },
+        {
+          "title": "六 延安白然科学院的「抢救」",
+          "anchor": "sigil_toc_id_62",
+          "level": 3
+        },
+        {
+          "title": "七 鲁艺（延安大学）的「抢救」",
+          "anchor": "sigil_toc_id_63",
+          "level": 3
+        },
+        {
+          "title": "八 晋察冀、晋绥、太行根据地的「抢救」",
+          "anchor": "sigil_toc_id_64",
+          "level": 3
+        },
+        {
+          "title": "九 华中根据地的「抢救」",
+          "anchor": "sigil_toc_id_65",
+          "level": 3
+        },
+        {
+          "title": "十 唯一未开展「抢救」的山东根据地",
+          "anchor": "sigil_toc_id_66",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第十四章 进两步，退一步：「抢救」的落潮",
+      "level": 2,
+      "wordCount": 20,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "一 「审干九条」再颁布后「抢救」为什么愈演愈烈？",
+      "level": 3,
+      "wordCount": 21036,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 中央主要领导干部对「抢救」的反应",
+          "anchor": "sigil_toc_id_68",
+          "level": 3
+        },
+        {
+          "title": "三 1943年12月22日季米特洛夫来电与「抢救」的中止",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        },
+        {
+          "title": "四 甄别：在毛泽东「道歉」的背后",
+          "anchor": "sigil_toc_id_70",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第十五章 「毛主席万岁」——延安整风的完成",
+      "level": 2,
+      "wordCount": 21,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "一 「毛泽东主义」的提出与修正",
+      "level": 3,
+      "wordCount": 30355,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 刘少奇等对毛泽东的颂扬",
+          "anchor": "sigil_toc_id_72",
+          "level": 3
+        },
+        {
+          "title": "三 摧毁「两个宗派」：对王明、博古、周恩来、彭德怀等人的清算",
+          "anchor": "sigil_toc_id_73",
+          "level": 3
+        },
+        {
+          "title": "四 修订〈历史决议〉：建构以毛泽东为中心的中共党史体系",
+          "anchor": "sigil_toc_id_74",
+          "level": 3
+        },
+        {
+          "title": "五 中共七大召开及博古、张闻天等人的公开检讨",
+          "anchor": "sigil_toc_id_75",
+          "level": 3
+        },
+        {
+          "title": "六 毛泽东的胜利与中共新的领导核心",
+          "anchor": "sigil_toc_id_76",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "2002年重版后记",
+      "level": 2,
+      "wordCount": 7408,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "初版后记",
+      "level": 2,
+      "wordCount": 7667,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "参考文献",
+      "level": 2,
+      "wordCount": 19061,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "“禁书”过关诉讼始末",
+      "level": 2,
+      "wordCount": 4415,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "书评",
+      "level": 2,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "拒绝残酷的美丽——评高华《红太阳是怎样升起的》",
+      "level": 3,
+      "wordCount": 2821,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "理想是怎样失去的",
+      "level": 3,
+      "wordCount": 6031,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "中共党史研究新话语系统的兴起——突破意识形态框架的民间话语系统",
+      "level": 3,
+      "wordCount": 1853,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=43"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 29,
+      "chapterTitle": "一 康生机关与1937年后延安的「肃托」",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_1pl7xd7yh6d871u71E6EaEfJ_29_32396-32639",
+          "range": "32396-32639",
+          "rangeStart": 32396,
+          "rangeEnd": 32639,
+          "markText": "但是，今天的形势早已不同于江西时期，某些特殊的调查已非各分学委独立所能完成：首先，被审查对象面广量大，互相交叉，几乎覆盖延安各机关、学校，没有社会部的协调，调查几乎不可能进行；其次，审查要求也有所提高，某些审查项目已带有特殊的专业色彩，例如通过电台异地调查、邮检等，使许多分学委的领导同志深感有社会部配合的必要，甚至如何提高审讯工作的效率，也急需专门机关的指导；第三，运动的发展和深化令人目不暇接；一些参加各分学委、原先负责审查别人的干部不久自己就成了被怀疑对象，并被关押和「控制」起来",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1771282750,
+          "createTimeFormatted": "2026-02-17 06:59:10",
+          "chapterUid": 29,
+          "appLink": "weread://bestbookmark?bookId=CB_1pl7xd7yh6d871u71E6EaEfJ&chapterUid=29&rangeStart=32396&rangeEnd=32639",
+          "webLink": "https://weread.qq.com/web/reader/4e1425b3643425f31706c37786437796836643837317537314536456145664a12c?chapterUid=29&rangeStart=32396&rangeEnd=32639"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86Xqn7zi0",
+          "range": "19477-19479",
+          "chapterName": "一 康生机关与1937年后延安的「肃托」",
+          "content": "xiāo jūn\n\n（1907—1988）　中国作家。原名刘鸿霖，笔名三郎、田军等。辽宁义县人。青年时代曾在军队中生活。1933年出版小说、散文集《跋涉》（与萧红合集）。次年到上海，后在鲁迅指导下从事文学活动。1935年出版长篇小说《八月的乡村》，描写东北人民革命军的抗日斗争。抗日战争全面爆发后，先后到延安、武汉、临汾等地参加抗日文化活动，1940年去延安。抗战胜利后，曾任东北大学鲁迅艺术学院院长、《文化报》主编等职。中华人民共和国成立后，曾任全国政协委员、中国作协顾问、作协北京分会副主席等职。作品还有短篇小说集《羊》，长篇小说《过去的年代》《五月的矿山》等。",
+          "abstract": "萧军",
+          "star": -1,
+          "createTime": 1771225908,
+          "createTimeFormatted": "2026-02-16 15:11:48",
+          "isFinish": false,
+          "chapterUid": 29
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

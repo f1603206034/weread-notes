@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "bookId": "3300095859",
+    "title": "本经阴符七术",
+    "author": "[战国]鬼谷子",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/98/cpplatform_nxcmdcwxrmuiwyco8rvqnw/t6_cpplatform_nxcmdcwxrmuiwyco8rvqnw1713499706.jpg",
+    "intro": "《本经阴符七术》是一部源自古代的兵家经典之作，深刻揭示了人的心理活动与行为决策之间的微妙关系。这部作品以其独特的视角和深邃的洞察力，为后世兵法家提供了宝贵的战略指导。在这部作品中，作者详细阐述了七种关键的谋略与技巧，这些策略不仅适用于军事斗争，也对政治、商业和日常生活中的决策具有指导意义。通过掌握这些策略，人们可以更好地理解自己和他人的心理，从而做出更为明智的决策。",
+    "category": "历史-历史典籍",
+    "publisher": "",
+    "publishTime": "2024-05-01 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 879,
+    "newRatingCount": 359,
+    "newRatingDetail": {
+      "good": 321,
+      "fair": 34,
+      "poor": 4,
+      "recent": 5,
+      "deepV": 104,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300095859",
+    "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411",
+    "lastSync": "2026-05-21T11:56:11Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 0,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "9280624cd72ca46da780ba7b7c95ee70320e5fe16993ab993112be151de910c8"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095859&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 88,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095859&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "本经阴符七术·盛神法五龙",
+      "level": 1,
+      "wordCount": 1144,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095859&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "本经阴符七术·养志法灵龟",
+      "level": 1,
+      "wordCount": 755,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095859&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "本经阴符七术·实意法腾蛇",
+      "level": 1,
+      "wordCount": 913,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095859&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "本经阴符七术·分威法伏熊",
+      "level": 1,
+      "wordCount": 685,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095859&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "本经阴符七术·散势法鸷鸟",
+      "level": 1,
+      "wordCount": 616,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095859&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "本经阴符七术·转圆法猛兽",
+      "level": 1,
+      "wordCount": 740,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095859&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "本经阴符七术·损悦法灵蓍",
+      "level": 1,
+      "wordCount": 666,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095859&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=9"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "本经阴符七术·养志法灵龟",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7TWZoMMWx",
+          "range": "435-593",
+          "chapterName": "",
+          "content": "1、人类最顶级的保养不是健身运动，也不是各种保养品，而是少吃，戒色，多睡觉。\n2、关注当下，只吃眼前饭，只喝眼前水，只做眼前事，只看眼前人，忘记时间。过去、现在、未来本就一回事，既无大喜，又无大悲，人间极乐。\n3、具有旁观者意识以局外人的心态看待自己所处的环境，就能避免纠结与窘迫，使自己是世界的旁观者，这是顶级的内功心法。\n四、钝感力加屏蔽力等于人生无敌。不要去窥探别人的生活，也不要去揣测别人的想法，更不要陷在过去忧虑未来。任何使你内耗的人和事，多想一下都没必要，把时间和精力还给自己，在声色名利中守住本心，在世俗目光里信步前行。意思是说，关我屁事加关你屁事，等于岁月静好。因为顶级的能力是屏蔽力，任何消耗你的人和事，多看一眼都是你的不对。\n5、接纳自己的不完美。很多事情并不是只有努力了就一定会有结果，其中掺杂了很多复杂的因素，差一点都不行。所以看开一点，不必强求自己什么都要做到，因为并不是所有的事情都能如愿以偿，也不是所有的事情自己都能做到。\n六、保持这三种心态。1、没人在意我。2、我可以不用那么完美，3一切问题都有解法。\n七、不和任何人情绪对立，只做观察者，淡定自若的看别人表演，我可以配合你，我可以无视你，这姿态凌驾于任何技巧之上，看那些人抱怨、猜疑、跳脚，你只需泡你的茶。\n八、一切只需向内求索，很多失误的原因都是由于自身的匮乏，比如得不到的爱。儿童时期，你唯一仰仗的人只有父母，但这不是成年人的自我状态。成年人的自我状态下，你能合理去计划、考虑、决定和行动，遇到的问题就想着去解决，开始去开导自己，开始去了很多地方，开始主动与人打招呼，开始清除掉不必要的东西，开始自己去做出每一个决定，开始为每一个决定拼尽全力。\n九、内核稳定，换句话说就是允许一切发生，专注自身，尊重所有人的生活方式。为何稳定的人一般目标感很强或者足够平静，知道自己要什么不要什么，做很多事情也就更加高效和完善。\n十、永远不抱怨，一个人成熟的标志就是把这件事为什么发生在我身上的怨念，转变成这件事是为了教会我什么的觉悟。当你换个角度看世界，你会发现一切都是最好的安排。\n十一、不要去回应你的大脑，只需看到我在紧张，我在生气，不要去回应大脑，不要去分析为什么，然后抽离出来，以主导者的姿态旁观情绪，教你的大脑乖一点，别闹了呀，别故意引起我的注意了，好好的吧，然后投入到一件事情中。这种方法可以对抗90%的焦虑，这是我亲测有效的。\n十二、告诉你一个秘密，只要你担心别人会怎么看你，他们就能奴役你，只有你再也不从自身之外寻求肯定，那你才能真正成为自己的主人。十三、释怀，让过去都过去，过去的你已经烟消云散，现在的你是崭新的灵魂。如果过度在意过去的痕迹，就是在浪费。现在请放下过去，对一切好的坏的都释怀。\n十四、升维直接让问题消失，越钻牛角尖越痛苦，维度越高，问题越小。道德经里的一句话几乎可以解决所有问题，反者道之动。意思是道同时往正反两个方向运动，永远在对立转化的过程中，只要提升维度，用道的视角看待一切问题无需解决，就不存在了。\n十五、减少精神内耗，森田疗法治疗焦虑症的核心是顺其自然，为所当为，这八个字应用在减少精神内耗上一样有效。不论你现在的情绪和内心冲突有多强烈，都由他去，也就是顺其自然。你任何试图直接解决精神内耗的想法和行为，都是在给情绪喂食能量，让他变得更加强大。对情绪无为，把注意力和精力投入到你该做的事情上，你才能减少精神内耗。\n十六、晒太阳很重要，抱抱大树树龄越大越好，抬头看天，感受大自然气息注入身体。\n十七、情绪稳定是最简单直接的养生方法。世界卫生组织研究发现，90%的疾病都与不良情绪有关。中医也说，怒伤肝，喜伤心，思伤脾，忧伤肺，恐伤肾。情绪不稳定再昂贵的护肤品无法挽救你的皮肤，再昂贵的营养品也无法挽救你的健康。\n十八、告诉你们一些有用的冷知识。1、你所担心的事情96%不会发生，2、三十秒的拥抱就可以缓解1/3的压力。3、每周锻炼两次以上，就能将因病死亡的概率减少23%，4、每天读书6分钟，就能减轻68%的压力，5、运动20分钟，就能提高20%的记忆力。\n十九、拥有强大的肠胃和随时随地入睡的能力，这两个本领简直无敌。\n二十、允许一切事情发生的心态。高手永远相信人性就是恶的，所以他们不害怕人性险恶。这个社会上层的那些人永远相信的都是天道和规律，他相信人友善的一面，但也有恶的一面，只不过是看你把一个人放在哪种环境中去激发他的哪一面。",
+          "abstract": "养志者，心气之思不达也。有所欲，志存而思之。志者，欲之使也。欲多则心散，心散则志衰，志衰则思不达。故心气一则欲不徨，欲不徨则志意不衰，志意不衰则思理达矣。理达则和通，和通则乱气不烦于胸中，故内以养志，外以知人。养志则心通矣，知人则识分明矣。将欲用之于人，必先知其养气志。知人气盛衰，而养其志气，察其所安，以知其所能。",
+          "star": -1,
+          "createTime": 1725420207,
+          "createTimeFormatted": "2024-09-04 11:23:27",
+          "isFinish": false,
+          "chapterUid": 4
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300095859_4_1064-1105",
+      "chapterUid": 4,
+      "range": "1064-1105",
+      "markText": "养志之始，务在安己；己安，则志意实坚；志意实坚，则威势不分，神明常固守，乃能分之。",
+      "totalCount": 143,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=4&rangeStart=1064&rangeEnd=1105",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=4&rangeStart=1064&rangeEnd=1105"
+    },
+    {
+      "bookmarkId": "3300095859_4_1302-1365",
+      "chapterUid": 4,
+      "range": "1302-1365",
+      "markText": "培养志向的开始，一定要先使心气安宁；心气安宁，意志就会坚定；意志坚定，威势就不会分散，精神就能经常保持旺盛，就能对付各种事情。",
+      "totalCount": 130,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=4&rangeStart=1302&rangeEnd=1365",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=4&rangeStart=1302&rangeEnd=1365"
+    },
+    {
+      "bookmarkId": "3300095859_4_457-464",
+      "chapterUid": 4,
+      "range": "457-464",
+      "markText": "志者，欲之使也",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=4&rangeStart=457&rangeEnd=464",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=4&rangeStart=457&rangeEnd=464"
+    },
+    {
+      "bookmarkId": "3300095859_5_1108-1151",
+      "chapterUid": 5,
+      "range": "1108-1151",
+      "markText": "无为而求，安静五脏，和通六腑；精神魂魄固守不动，乃能内视反听，定志虑之太虚，待神往来。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=5&rangeStart=1108&rangeEnd=1151",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=5&rangeStart=1108&rangeEnd=1151"
+    },
+    {
+      "bookmarkId": "3300095859_4_661-719",
+      "chapterUid": 4,
+      "range": "661-719",
+      "markText": "培养志向，是由于心气得不到通畅。有志向，就会有欲望，欲望多则心气就会分散，心气分散则志向衰弱，志向衰弱则思想无法通达",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=4&rangeStart=661&rangeEnd=719",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=4&rangeStart=661&rangeEnd=719"
+    },
+    {
+      "bookmarkId": "3300095859_3_572-590",
+      "chapterUid": 3,
+      "range": "572-590",
+      "markText": "九窍十二舍者，气之门户，心之总摄也。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=3&rangeStart=572&rangeEnd=590",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=3&rangeStart=572&rangeEnd=590"
+    },
+    {
+      "bookmarkId": "3300095859_3_1474-1546",
+      "chapterUid": 3,
+      "range": "1474-1546",
+      "markText": "要使认识通达，必须使五气得到滋养，而关键在于集中精神，这就是所说的“化”。促使五气变化的，是志、思、神、心、德等五种精神因素，而神是它们的统帅。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=3&rangeStart=1474&rangeEnd=1546",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=3&rangeStart=1474&rangeEnd=1546"
+    },
+    {
+      "bookmarkId": "3300095859_7_577-601",
+      "chapterUid": 7,
+      "range": "577-601",
+      "markText": "势者，利害之决，权变之威。势败者，不可神肃察也。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=7&rangeStart=577&rangeEnd=601",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=7&rangeStart=577&rangeEnd=601"
+    },
+    {
+      "bookmarkId": "3300095859_5_1179-1195",
+      "chapterUid": 5,
+      "range": "1179-1195",
+      "markText": "不出户而知天下，不窥牖而见天道；",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=5&rangeStart=1179&rangeEnd=1195",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=5&rangeStart=1179&rangeEnd=1195"
+    },
+    {
+      "bookmarkId": "3300095859_4_465-484",
+      "chapterUid": 4,
+      "range": "465-484",
+      "markText": "欲多则心散，心散则志衰，志衰则思不达。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=4&rangeStart=465&rangeEnd=484",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=4&rangeStart=465&rangeEnd=484"
+    },
+    {
+      "bookmarkId": "3300095859_3_472-522",
+      "chapterUid": 3,
+      "range": "472-522",
+      "markText": "道者，天地之始，一其纪也，物之所造，天之所生，包容无形化气，先天地而成，莫见其形，莫知其名，谓之神灵",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=3&rangeStart=472&rangeEnd=522",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=3&rangeStart=472&rangeEnd=522"
+    },
+    {
+      "bookmarkId": "3300095859_3_1078-1102",
+      "chapterUid": 3,
+      "range": "1078-1102",
+      "markText": "知类在窍，有所疑惑，通于心术，心无其术，必有不通",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=3&rangeStart=1078&rangeEnd=1102",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=3&rangeStart=1078&rangeEnd=1102"
+    },
+    {
+      "bookmarkId": "3300095859_9_563-578",
+      "chapterUid": 9,
+      "range": "563-578",
+      "markText": "圆者不行，方者不止，是谓大功。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=9&rangeStart=563&rangeEnd=578",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=9&rangeStart=563&rangeEnd=578"
+    },
+    {
+      "bookmarkId": "3300095859_3_940-959",
+      "chapterUid": 3,
+      "range": "940-959",
+      "markText": "这些都是气进出的门户，都是心所主宰的。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=3&rangeStart=940&rangeEnd=959",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=3&rangeStart=940&rangeEnd=959"
+    },
+    {
+      "bookmarkId": "3300095859_3_435-471",
+      "chapterUid": 3,
+      "range": "435-471",
+      "markText": "盛神法五龙，盛神中有五气，神为之长，心为之舍，德为之大；养神之所，归诸道",
+      "totalCount": 70,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=3&rangeStart=435&rangeEnd=471",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=3&rangeStart=435&rangeEnd=471"
+    },
+    {
+      "bookmarkId": "3300095859_3_1067-1078",
+      "chapterUid": 3,
+      "range": "1067-1078",
+      "markText": "故人与生一，出于物化。",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=3&rangeStart=1067&rangeEnd=1078",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=3&rangeStart=1067&rangeEnd=1078"
+    },
+    {
+      "bookmarkId": "3300095859_5_876-923",
+      "chapterUid": 5,
+      "range": "876-923",
+      "markText": "所以，要使心术真诚专一，不为外界所动，必须等待对方真意与我的诚意自然交会的时候，才能听取和接受",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=5&rangeStart=876&rangeEnd=923",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=5&rangeStart=876&rangeEnd=923"
+    },
+    {
+      "bookmarkId": "3300095859_7_1026-1051",
+      "chapterUid": 7,
+      "range": "1026-1051",
+      "markText": "气势，是决定战争胜败的关键因素，是权力变化的威势。",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=7&rangeStart=1026&rangeEnd=1051",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=7&rangeStart=1026&rangeEnd=1051"
+    },
+    {
+      "bookmarkId": "3300095859_3_1651-1728",
+      "chapterUid": 3,
+      "range": "1651-1728",
+      "markText": "所谓真人，就是与天合一而合于“道”的人，他能够坚守“一”而化生出万物的精气，怀着上天赋予人的本心，施行德养之术，不用费心劳神去考虑、谋划，而能行使威力的人",
+      "totalCount": 65,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=3&rangeStart=1651&rangeEnd=1728",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=3&rangeStart=1651&rangeEnd=1728"
+    },
+    {
+      "bookmarkId": "3300095859_3_1027-1067",
+      "chapterUid": 3,
+      "range": "1027-1067",
+      "markText": "生受之天，谓之真人；真人者，与天为一。内修练而知之，谓之圣人；圣人者，以类知之。",
+      "totalCount": 60,
+      "appLink": "weread://bestbookmark?bookId=3300095859&chapterUid=3&rangeStart=1027&rangeEnd=1067",
+      "webLink": "https://weread.qq.com/web/reader/b7b32df0813ab8bf1g019411?chapterUid=3&rangeStart=1027&rangeEnd=1067"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": 1775025447,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

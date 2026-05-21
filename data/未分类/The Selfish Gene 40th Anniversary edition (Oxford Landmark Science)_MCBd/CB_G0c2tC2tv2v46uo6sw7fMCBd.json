@@ -1,0 +1,783 @@
+{
+  "meta": {
+    "bookId": "CB_G0c2tC2tv2v46uo6sw7fMCBd",
+    "title": "The Selfish Gene: 40th Anniversary edition (Oxford Landmark Science)",
+    "author": "Richard Dawkins",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_GyyF7MF8B8do6i46glGzfDfU_parsecover",
+    "intro": "",
+    "category": "",
+    "publisher": "OUP Oxford",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd",
+    "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da",
+    "lastSync": "2026-05-21T11:52:03Z",
+    "readingProgress": "7%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 0,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "b338bf7485f2d5849f328c5c20442d6ddce725d581d1decf2f8ed923883594e7"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "Halftitle page",
+      "level": 1,
+      "wordCount": 1488,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Halftitle page",
+          "translateTitle": "副标题页",
+          "anchor": "0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "Title page",
+      "level": 1,
+      "wordCount": 65,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Title page",
+          "translateTitle": "标题页",
+          "anchor": "UGI0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "Copyright page",
+      "level": 1,
+      "wordCount": 1285,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Copyright page",
+          "translateTitle": "版权页",
+          "anchor": "1T140-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "Contents",
+      "level": 1,
+      "wordCount": 503,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Contents",
+          "translateTitle": "目录",
+          "anchor": "2RHM0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "Introduction to 30th Anniversary Edition",
+      "level": 1,
+      "wordCount": 16846,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Introduction to 30th Anniversary Edition",
+          "translateTitle": "《三十周年纪念版》简介",
+          "anchor": "3Q280-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "Preface to Second Edition",
+      "level": 1,
+      "wordCount": 6745,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Preface to Second Edition",
+          "translateTitle": "第二版序言",
+          "anchor": "4OIQ0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "Foreword to First Edition",
+      "level": 1,
+      "wordCount": 3979,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Foreword to First Edition",
+          "translateTitle": "第一版序言",
+          "anchor": "5N3C0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "Preface To First Edition",
+      "level": 1,
+      "wordCount": 5195,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Preface To First Edition",
+          "translateTitle": "第一版序言",
+          "anchor": "6LJU0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "1. Why are people?",
+      "level": 1,
+      "wordCount": 22399,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1. Why are people?",
+          "translateTitle": "1. 为什么是人？",
+          "anchor": "7K4G0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "2. The Replicators",
+      "level": 1,
+      "wordCount": 17251,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2. The Replicators",
+          "translateTitle": "2. 复制品",
+          "anchor": "8IL20-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "3. Immortal Coils",
+      "level": 1,
+      "wordCount": 52974,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3. Immortal Coils",
+          "translateTitle": "3. 不朽之环",
+          "anchor": "9H5K0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "4. The Gene Machine",
+      "level": 1,
+      "wordCount": 42825,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4. The Gene Machine",
+          "translateTitle": "4. 基因机器",
+          "anchor": "AFM60-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "5. Aggression: Stability and the selfish machine",
+      "level": 1,
+      "wordCount": 45950,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5. Aggression: Stability and the selfish machine",
+          "translateTitle": "5. 侵略：稳定和自私的机器",
+          "anchor": "BE6O0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "6. Genesmanship",
+      "level": 1,
+      "wordCount": 43427,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6. Genesmanship",
+          "translateTitle": "6. 绅士风度",
+          "anchor": "CCNA0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "7. Family Planning",
+      "level": 1,
+      "wordCount": 29401,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7. Family Planning",
+          "translateTitle": "7.计划生育",
+          "anchor": "DB7S0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "8. Battle of the Generations",
+      "level": 1,
+      "wordCount": 36102,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8. Battle of the Generations",
+          "translateTitle": "8. 世代之战",
+          "anchor": "E9OE0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "9. Battle of the Sexes",
+      "level": 1,
+      "wordCount": 54355,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9. Battle of the Sexes",
+          "translateTitle": "9.《性别之战》",
+          "anchor": "F8900-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "10. You Scratch My Back, I’ll Ride on Yours",
+      "level": 1,
+      "wordCount": 47461,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10. You Scratch My Back, I’ll Ride on Yours",
+          "translateTitle": "10. 你挠我的背，我骑你的背",
+          "anchor": "G6PI0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "11. Memes: The new replicators",
+      "level": 1,
+      "wordCount": 25686,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11. Memes: The new replicators",
+          "translateTitle": "11. 模因：新的复制因子",
+          "anchor": "H5A40-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "12. Nice Guys Finish First",
+      "level": 1,
+      "wordCount": 62637,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12. Nice Guys Finish First",
+          "translateTitle": "12. 好人有好报",
+          "anchor": "I3QM0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "13. The Long Reach of the Gene",
+      "level": 1,
+      "wordCount": 69768,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "13. The Long Reach of the Gene",
+          "translateTitle": "13. 基因的深远影响",
+          "anchor": "J2B80-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "Epilogue to 40th Anniversary Edition",
+      "level": 1,
+      "wordCount": 19068,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Epilogue to 40th Anniversary Edition",
+          "translateTitle": "四十周年纪念版后记",
+          "anchor": "K0RQ0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "Endnotes",
+      "level": 1,
+      "wordCount": 246,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Endnotes",
+          "translateTitle": "注释",
+          "anchor": "KVCC0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "Chapter 1",
+      "level": 2,
+      "wordCount": 5270,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "Chapter 2",
+      "level": 2,
+      "wordCount": 4130,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "Chapter 3",
+      "level": 2,
+      "wordCount": 10782,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "Chapter 4",
+      "level": 2,
+      "wordCount": 15081,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "Chapter 5",
+      "level": 2,
+      "wordCount": 12655,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "Chapter 6",
+      "level": 2,
+      "wordCount": 21680,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "Chapter 7",
+      "level": 2,
+      "wordCount": 1710,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "Chapter 8",
+      "level": 2,
+      "wordCount": 4055,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "Chapter 9",
+      "level": 2,
+      "wordCount": 33583,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "Chapter 10",
+      "level": 2,
+      "wordCount": 20743,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "Chapter 11",
+      "level": 2,
+      "wordCount": 22375,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "Bibliography",
+      "level": 1,
+      "wordCount": 19381,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Bibliography",
+          "translateTitle": "参考文献",
+          "anchor": "LTSU0-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "Index and Key to Bibliography",
+      "level": 1,
+      "wordCount": 6083,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "The Selfish Gene_1",
+      "level": 2,
+      "wordCount": 5740,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "The Selfish Gene_2",
+      "level": 2,
+      "wordCount": 2716,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "Extracts from Reviews",
+      "level": 1,
+      "wordCount": 4401,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Extracts from Reviews",
+          "translateTitle": "摘自评论",
+          "anchor": "NQU20-694c9e793d6e4343a28a12ea22930bd3",
+          "level": 1
+        },
+        {
+          "title": "Pro bono publico",
+          "translateTitle": "为公众服务",
+          "anchor": "actrade-9780198788607-miscMatter-11-titleGroup-48",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "The Play by Nature",
+      "level": 2,
+      "wordCount": 8927,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "Genes and Memes",
+      "level": 2,
+      "wordCount": 2966,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_G0c2tC2tv2v46uo6sw7fMCBd&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/0f9429b3643425f47306332744332747632763436756f36737737664d4342641da?chapterUid=41"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 9,
+      "chapterTitle": "1. Why are people?",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7YL4ujCd1",
+          "range": "1270-1276",
+          "chapterName": "",
+          "content": "/ˈpiːpl/\nn. [用作person的复数]人;人们\nn. [the people]人民,公民,国民;民众;平民\nn. [用作单或复]一国人民;民族\nn. 下属人员,随从人员\nn. 同等人员;同人;同宗;同伙\nn. 家里人;亲属;上代人\nn. [用作单]⟨美俚⟩[尤用于直接称呼陌生人]这个人,这位\nn. [用作单或复]一群神仙,一群精灵\nn. [用作单或复](小动物等的)一群;小动物们\nn. [the P-]⟨美⟩州检察当局\nvt. 使住(满)人\nvt. 居住于;构成…的人口\nvt. 使充满,充斥",
+          "abstract": "people",
+          "star": -1,
+          "createTime": 1742351339,
+          "createTimeFormatted": "2025-03-19 10:28:59",
+          "isFinish": false,
+          "chapterUid": 9
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 5,
+    "chapterOffset": 1622,
+    "progress": 7,
+    "updateTime": 1742384282,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

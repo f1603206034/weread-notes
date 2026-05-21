@@ -1,0 +1,680 @@
+{
+  "meta": {
+    "bookId": "843127",
+    "title": "罪与罚",
+    "author": "陀思妥耶夫斯基",
+    "translator": "朱宪生,曾思艺",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/127/843127/t6_843127.jpg",
+    "intro": "小说描写贫困大学生拉斯科尔尼科夫受无政府主义思想的毒害，再加上情绪的紧张、焦躁，对社会充满了怨恨。后来，为生计所迫，他杀死了放高利贷的老太婆和她无辜的妹妹，制造了一起震惊全俄的凶杀案。在经历了一场内心痛苦的挣扎后，他邂逅了拥有圣洁灵魂的少女索尼娅――这个为了不幸的家庭而沦落风尘的妓女，最终成为他走向赎罪之路并获得新生的曙光……",
+    "category": "文学-外国文学",
+    "publisher": "中央编译出版社",
+    "publishTime": "2015-06-01 00:00:00",
+    "isbn": "9787511727084",
+    "wordCount": 0,
+    "newRating": 891,
+    "newRatingCount": 125,
+    "newRatingDetail": {
+      "good": 112,
+      "fair": 11,
+      "poor": 2,
+      "recent": 2,
+      "deepV": 9,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=843127",
+    "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a",
+    "lastSync": "2026-05-21T12:00:34Z",
+    "readingProgress": "68%",
+    "readingTime": "0分钟",
+    "finishedDate": "2023-03-18",
+    "noteCount": 1,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "0a20680bcbbffd016991c951c9ec722e7032a60bbdf961f5f2cbe8533a9d34ce"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=843127&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 148,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=843127&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "译序",
+      "level": 1,
+      "wordCount": 18823,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=843127&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一章",
+      "level": 1,
+      "wordCount": 29751,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843127&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "四",
+      "level": 2,
+      "wordCount": 36702,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        },
+        {
+          "title": "六",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "七",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843127&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第二章",
+      "level": 1,
+      "wordCount": 51309,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        },
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843127&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "六",
+      "level": 2,
+      "wordCount": 31227,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "七",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843127&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第三章",
+      "level": 1,
+      "wordCount": 32496,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843127&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "四",
+      "level": 2,
+      "wordCount": 34852,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        },
+        {
+          "title": "六",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843127&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第四章",
+      "level": 1,
+      "wordCount": 20739,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843127&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "三",
+      "level": 2,
+      "wordCount": 43579,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        },
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        },
+        {
+          "title": "六",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843127&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第五章",
+      "level": 1,
+      "wordCount": 26842,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_24",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843127&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "三",
+      "level": 2,
+      "wordCount": 39214,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        },
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843127&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第六章",
+      "level": 1,
+      "wordCount": 36169,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_27",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_29",
+          "level": 2
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_30",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843127&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "五",
+      "level": 2,
+      "wordCount": 36757,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "六",
+          "anchor": "sigil_toc_id_31",
+          "level": 2
+        },
+        {
+          "title": "七",
+          "anchor": "sigil_toc_id_32",
+          "level": 2
+        },
+        {
+          "title": "八",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843127&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "尾声",
+      "level": 1,
+      "wordCount": 12370,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_34",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_35",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843127&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "世界名著典藏 国际大师插图版",
+      "level": 1,
+      "wordCount": 30,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=843127&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=17"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 8,
+      "chapterTitle": "第三章",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "843127_8_34776-35182",
+          "range": "34776-35182",
+          "rangeStart": 34776,
+          "rangeEnd": 35182,
+          "markText": "说到这里，他突然感到惊惶不安，脸色也变得惨白：不久前体验过的那种恐怖感又带着死一般阴森的寒意掠过他的心灵；他再次突然清清楚楚、明明白白地意识到，刚才他撒了个弥天大谎，现在他不仅永远无法尽情畅谈，而且永远不能跟任何人随便谈点什么了。这个撕心裂肺的想法对他的影响是如此强烈，竟使他刹那间几乎忘记了一切，从座位上站起身来，也不看任何人一眼，便向屋外走去。“你怎么啦？”拉祖米欣抓住他的一只手臂，大叫一声。他又坐了下来，悄然无言地四处张望；大家都莫名其妙地望着他。“你们大家竟然这样沉闷！”他忽地全然出乎意料地大喊起来，“随便说点什么呀！真的，为何这样枯坐着呢！喂，你们倒是说话呀！我们都说呀……我们欢聚一堂，却又默默无语……喂，随便说点什么呀！",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1678957662,
+          "createTimeFormatted": "2023-03-16 17:07:42",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=843127&chapterUid=8&rangeStart=34776&rangeEnd=35182",
+          "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=8&rangeStart=34776&rangeEnd=35182"
+        }
+      ]
+    },
+    {
+      "chapterUid": 4,
+      "chapterTitle": "第一章",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7GKJjpYXe",
+          "range": "376-379",
+          "chapterName": "",
+          "content": "夫有材而无势，虽贤不能制不肖。故立尺材于高山之上，则临千仞之溪，材非长也，位高也。桀为天子，能制天下，非贤也，势重也；尧为匹夫，不能正三家，非不肖也，位卑也。千钧得船则浮，锱铢失船则沈，非千钧轻锱铢重也，有势之与无势也。\n               ——《韩非子·功名》",
+          "abstract": "第一章",
+          "star": -1,
+          "createTime": 1678942876,
+          "createTimeFormatted": "2023-03-16 13:01:16",
+          "isFinish": false,
+          "chapterUid": 4
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "843127_4_33521-33575",
+      "chapterUid": 4,
+      "range": "33521-33575",
+      "markText": "要了解任何一个人，都必须一步一步地细心观察，才不致产生错误和偏见，否则，以后纠正错误和消除成见就十分困难了。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=4&rangeStart=33521&rangeEnd=33575",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=4&rangeStart=33521&rangeEnd=33575"
+    },
+    {
+      "bookmarkId": "843127_13_29716-29815",
+      "chapterUid": 13,
+      "range": "29716-29815",
+      "markText": "谁意志坚强，智慧超群，谁就能主宰他们！谁敢作敢为，他们就唯谁的马首是瞻。谁鄙弃的东西越多，谁就是他们的立法者，而谁敢胆大妄为，谁就最最正确！自古至今，都是如此，将来也永远会如此！只有瞎子才视而不见！",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=13&rangeStart=29716&rangeEnd=29815",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=13&rangeStart=29716&rangeEnd=29815"
+    },
+    {
+      "bookmarkId": "843127_15_28055-28069",
+      "chapterUid": 15,
+      "range": "28055-28069",
+      "markText": "斯维德里盖洛夫抠了一下扳机。",
+      "totalCount": 66,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=15&rangeStart=28055&rangeEnd=28069",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=15&rangeStart=28055&rangeEnd=28069"
+    },
+    {
+      "bookmarkId": "843127_16_5412-5439",
+      "chapterUid": 16,
+      "range": "5412-5439",
+      "markText": "她对儿子的可怕命运的猜疑甚至比大家所估计的要严重得多。",
+      "totalCount": 65,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=16&rangeStart=5412&rangeEnd=5439",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=16&rangeStart=5412&rangeEnd=5439"
+    },
+    {
+      "bookmarkId": "843127_9_32879-32918",
+      "chapterUid": 9,
+      "range": "32879-32918",
+      "markText": "有良心的人一旦意识到自己的错误，就会深感痛苦。这也是对他的一种苦役之外的惩罚。",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=9&rangeStart=32879&rangeEnd=32918",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=9&rangeStart=32879&rangeEnd=32918"
+    },
+    {
+      "bookmarkId": "843127_13_2752-2830",
+      "chapterUid": 13,
+      "range": "2752-2830",
+      "markText": "而且考虑到您的社会地位以及与这种地位同生共长的某些习惯，我可以说是不寒而栗地，甚至是违心地，不得不对您产生怀疑——当然喽，这是十分残酷的，但却是极其公正的！",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=13&rangeStart=2752&rangeEnd=2830",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=13&rangeStart=2752&rangeEnd=2830"
+    },
+    {
+      "bookmarkId": "843127_6_27225-27259",
+      "chapterUid": 6,
+      "range": "27225-27259",
+      "markText": "他觉得，此刻他仿佛已用一把剪刀剪断了自己和所有的人、所有的事的联系。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=6&rangeStart=27225&rangeEnd=27259",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=6&rangeStart=27225&rangeEnd=27259"
+    },
+    {
+      "bookmarkId": "843127_16_13667-13761",
+      "chapterUid": 16,
+      "range": "13667-13761",
+      "markText": "他想念着她。他回想起来，他是怎样经常折磨她，经常伤她的心；他想起了她那苍白、消瘦的脸，但是现在他想起这些事情，几乎不感到痛苦了：他知道，他现在应当用什么样的无限的爱来补偿她所受的一切痛苦。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=16&rangeStart=13667&rangeEnd=13761",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=16&rangeStart=13667&rangeEnd=13761"
+    },
+    {
+      "bookmarkId": "843127_6_47020-47050",
+      "chapterUid": 6,
+      "range": "47020-47050",
+      "markText": "如果真正都从全方位严加考察——那么，世上还会剩下几个好人呢？",
+      "totalCount": 52,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=6&rangeStart=47020&rangeEnd=47050",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=6&rangeStart=47020&rangeEnd=47050"
+    },
+    {
+      "bookmarkId": "843127_9_28852-28938",
+      "chapterUid": 9,
+      "range": "28852-28938",
+      "markText": "第一类人保存这世界，增殖人口；第二类人则推动世界向前发展，并引导它奔向目的地。无论是第一类人还是第二类人，都有完全相同的生存权利。总之，我认为，他们所有的人都享有同等的权利",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=9&rangeStart=28852&rangeEnd=28938",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=9&rangeStart=28852&rangeEnd=28938"
+    },
+    {
+      "bookmarkId": "843127_12_9200-9256",
+      "chapterUid": 12,
+      "range": "9200-9256",
+      "markText": "目前我把她的行为看作是对社会制度的一种强有力、活生生的抗议，并为此而深深地尊敬她；甚至看着她，也感到欢欣鼓舞。”",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=12&rangeStart=9200&rangeEnd=9256",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=12&rangeStart=9200&rangeEnd=9256"
+    },
+    {
+      "bookmarkId": "843127_13_14689-14762",
+      "chapterUid": 13,
+      "range": "14689-14762",
+      "markText": "然而在此惊魂甫定、噩梦初醒之际，当她对事情的真相洞若观火，了如指掌以后，——一种孤苦无助、备受欺凌的感觉使她心如刀割，痛苦不堪。她的歇斯底里发作了",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=13&rangeStart=14689&rangeEnd=14762",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=13&rangeStart=14689&rangeEnd=14762"
+    },
+    {
+      "bookmarkId": "843127_6_6286-6313",
+      "chapterUid": 6,
+      "range": "6286-6313",
+      "markText": "“一进屋，我就跪下，招出一切……”登上四楼时，他想道。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=6&rangeStart=6286&rangeEnd=6313",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=6&rangeStart=6286&rangeEnd=6313"
+    },
+    {
+      "bookmarkId": "843127_7_38019-38041",
+      "chapterUid": 7,
+      "range": "38019-38041",
+      "markText": "“然而我早已同意在一俄尺大小的地方生活了！”",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=7&rangeStart=38019&rangeEnd=38041",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=7&rangeStart=38019&rangeEnd=38041"
+    },
+    {
+      "bookmarkId": "843127_12_20508-20569",
+      "chapterUid": 12,
+      "range": "20508-20569",
+      "markText": "这种自尊心和虚荣心有时会在那些一贫如洗、被折磨傻了的人们心中突然爆发出来，而且有时还会变成一种愤愤不平的、难以遏制的需求。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=12&rangeStart=20508&rangeEnd=20569",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=12&rangeStart=20508&rangeEnd=20569"
+    },
+    {
+      "bookmarkId": "843127_15_23814-23869",
+      "chapterUid": 15,
+      "range": "23814-23869",
+      "markText": "维德里盖洛夫认识这位少女；在这具棺木旁边，没有圣像，没有点燃的蜡烛，也听不到祈祷的声音；这位少女是投河自尽的。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=15&rangeStart=23814&rangeEnd=23869",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=15&rangeStart=23814&rangeEnd=23869"
+    },
+    {
+      "bookmarkId": "843127_16_13393-13483",
+      "chapterUid": 16,
+      "range": "13393-13483",
+      "markText": "他们决心等待，决心忍耐。他们还得等待七年；而在那个时候到来之前，还会有多少难挨的痛苦，还会有多少无穷的幸福啊！可是他获得了新生。他知道这一点，而她——她仅仅是为着使他活下去而活着。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=16&rangeStart=13393&rangeEnd=13483",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=16&rangeStart=13393&rangeEnd=13483"
+    },
+    {
+      "bookmarkId": "843127_9_34326-34363",
+      "chapterUid": 9,
+      "range": "34326-34363",
+      "markText": "“是不是某个未来的拿破仑，上星期用斧头砍死了我们的阿廖娜·伊万诺芙娜呢？”",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=9&rangeStart=34326&rangeEnd=34363",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=9&rangeStart=34326&rangeEnd=34363"
+    },
+    {
+      "bookmarkId": "843127_13_31842-31897",
+      "chapterUid": 13,
+      "range": "31842-31897",
+      "markText": "难道我杀死的是那个老太婆吗？我杀死的是我自己啊，而不是老太婆！我在那里真的一下子就把自己给结果了，永远杀死了！",
+      "totalCount": 44,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=13&rangeStart=31842&rangeEnd=31897",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=13&rangeStart=31842&rangeEnd=31897"
+    },
+    {
+      "bookmarkId": "843127_11_1656-1727",
+      "chapterUid": 11,
+      "range": "1656-1727",
+      "markText": "他知道，借助女人会赢得“很多很多”东西。一个貌若天仙、品德高尚、富有教养的女人更是魅力四射，能够使他飞黄腾达，成为别人关注的焦点，荣耀显赫……",
+      "totalCount": 42,
+      "appLink": "weread://bestbookmark?bookId=843127&chapterUid=11&rangeStart=1656&rangeEnd=1727",
+      "webLink": "https://weread.qq.com/web/reader/801322e05cdd77801bd189a?chapterUid=11&rangeStart=1656&rangeEnd=1727"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 15,
+    "chapterOffset": 37362,
+    "progress": 68,
+    "updateTime": 1679273788,
+    "recordReadingTime": 0,
+    "finishTime": 1679095638
+  }
+}

@@ -1,0 +1,2087 @@
+{
+  "meta": {
+    "bookId": "919891",
+    "title": "闲情偶寄",
+    "author": "[明末清初]李渔",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/99/YueWen_919891/t6_YueWen_919891.jpg",
+    "intro": "《闲情偶寄》包括饮馔部、颐养部、声容部、居室部、器玩部、种植部、词曲部、演习部八个部分，内容丰富，涉及面广，论述了饮食烹调、颐养医疗、妆饰打扮、园林建筑、器玩古董、戏曲理论等诸方面的问题，触及中国古代生活的许多领域，挖掘了艺术和生活中的美学现象和美学规律，具有极强的娱乐性和实用价值。",
+    "category": "文学-古典文学",
+    "publisher": "知识出版社",
+    "publishTime": "2015-04-01 00:00:00",
+    "isbn": "9787501584482",
+    "wordCount": 0,
+    "newRating": 759,
+    "newRatingCount": 449,
+    "newRatingDetail": {
+      "good": 340,
+      "fair": 99,
+      "poor": 10,
+      "recent": 1,
+      "deepV": 15,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=919891",
+    "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7",
+    "lastSync": "2026-05-21T11:51:01Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=919891&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 125,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=919891&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "出版说明",
+      "level": 1,
+      "wordCount": 1336,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=919891&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "余怀序",
+      "level": 1,
+      "wordCount": 2439,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=919891&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "凡例七则",
+      "level": 1,
+      "wordCount": 4212,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "四期三戒",
+          "anchor": "bw1",
+          "level": 2
+        },
+        {
+          "title": "一期点缀太平",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "一期崇尚俭朴",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "一期规正风俗",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "一期警惕人心",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "一戒剽窃陈言",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "一戒网罗旧集",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "一戒支离补凑",
+          "anchor": "bw8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "饮馔部",
+      "level": 1,
+      "wordCount": 7398,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "蔬食第一",
+          "anchor": "bw1",
+          "level": 2
+        },
+        {
+          "title": "笋",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "蕈",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "莼",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "菜",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "瓜、茄、瓠、芋、山药",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "葱、蒜、韭",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "萝卜",
+          "anchor": "bw8",
+          "level": 3
+        },
+        {
+          "title": "芥辣汁",
+          "anchor": "bw9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "谷食第二",
+      "level": 2,
+      "wordCount": 5876,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "饭、粥",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "汤",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "糕、饼",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "面",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "粉",
+          "anchor": "bw5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "肉食第三",
+      "level": 2,
+      "wordCount": 12573,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "猪",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "羊",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "牛、犬",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "鸡",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "鹅",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "鸭",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "野禽、野兽",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "鱼",
+          "anchor": "bw8",
+          "level": 3
+        },
+        {
+          "title": "虾",
+          "anchor": "bw9",
+          "level": 3
+        },
+        {
+          "title": "鳖",
+          "anchor": "bw10",
+          "level": 3
+        },
+        {
+          "title": "蟹",
+          "anchor": "bw11",
+          "level": 3
+        },
+        {
+          "title": "零星水族",
+          "anchor": "bw12",
+          "level": 3
+        },
+        {
+          "title": "附：不载果食茶酒说",
+          "anchor": "bw13",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "颐养部",
+      "level": 1,
+      "wordCount": 28127,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "行乐第一",
+          "anchor": "bw1",
+          "level": 2
+        },
+        {
+          "title": "贵人行乐之法",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "富人行乐之法",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "贫贱行乐之法",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "家庭行乐之法",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "道途行乐之法",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "春季行乐之法",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "夏季行乐之法",
+          "anchor": "bw8",
+          "level": 3
+        },
+        {
+          "title": "秋季行乐之法",
+          "anchor": "bw9",
+          "level": 3
+        },
+        {
+          "title": "冬季行乐之法",
+          "anchor": "bw10",
+          "level": 3
+        },
+        {
+          "title": "随时即景就事行乐之法",
+          "anchor": "bw11",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "止忧第二",
+      "level": 2,
+      "wordCount": 1889,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "止眼前可备之忧",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "止身外不测之忧",
+          "anchor": "bw2",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "调饮啜第三",
+      "level": 2,
+      "wordCount": 2369,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "爱食者多食",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "怕食者少食",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "太饥勿饱",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "太饱勿饥",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "怒时哀时勿食",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "倦时闷时勿食",
+          "anchor": "bw6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "节色欲第四",
+      "level": 2,
+      "wordCount": 5639,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "节快乐过情之欲",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "节忧患伤情之欲",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "节饥饱方殷之欲",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "节劳苦初停之欲",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "节新婚乍御之欲",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "节隆冬盛暑之欲",
+          "anchor": "bw6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "却病第五",
+      "level": 2,
+      "wordCount": 3007,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "病未至而防之",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "病将至而止之",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "病已至而退之",
+          "anchor": "bw3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "疗病第六",
+      "level": 2,
+      "wordCount": 9047,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "本性酷好之药",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "其人急需之药",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "一心钟爱之药",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "一生未见之药",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "平时契慕之药",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "素常乐为之药",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "生平痛恶之药",
+          "anchor": "bw7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "声容部",
+      "level": 1,
+      "wordCount": 12461,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "选姿第一",
+          "anchor": "bw1",
+          "level": 2
+        },
+        {
+          "title": "肌肤",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "眉眼",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "手足",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "态度",
+          "anchor": "bw5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "修容第二",
+      "level": 2,
+      "wordCount": 12787,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "盥栉",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "薰陶",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "点染",
+          "anchor": "bw3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "治服第三",
+      "level": 2,
+      "wordCount": 19388,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "首饰",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "衣衫",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "鞋袜",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "附：妇人鞋袜辨",
+          "anchor": "bw4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "习技第四",
+      "level": 2,
+      "wordCount": 17111,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "文艺",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "丝竹",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "歌舞",
+          "anchor": "bw3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "居室部",
+      "level": 1,
+      "wordCount": 9747,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "房舍第一",
+          "anchor": "bw1",
+          "level": 2
+        },
+        {
+          "title": "向背",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "途径",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "高下",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "出檐深浅",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "置顶格",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "□地",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "洒扫",
+          "anchor": "bw8",
+          "level": 3
+        },
+        {
+          "title": "藏垢纳污",
+          "anchor": "bw9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "窗栏第二",
+      "level": 2,
+      "wordCount": 10353,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "制体宜坚",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "取景在借",
+          "anchor": "bw5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "墙壁第三",
+      "level": 2,
+      "wordCount": 7097,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "界墙",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "女墙",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "厅壁",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "书房壁",
+          "anchor": "bw4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "联匾第四",
+      "level": 2,
+      "wordCount": 4826,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "蕉叶联",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "此君联",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "碑文额",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "手卷额",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "册页匾",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "虚白匾",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "石光匾",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "秋叶匾",
+          "anchor": "bw8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "山石第五",
+      "level": 2,
+      "wordCount": 5516,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "大山",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "小山",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "石壁",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "石洞",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "零星小石",
+          "anchor": "bw5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "器玩部",
+      "level": 1,
+      "wordCount": 33684,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "制度第一",
+          "anchor": "bw1",
+          "level": 2
+        },
+        {
+          "title": "几案",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "椅杌",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "床帐",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "橱柜",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "箱笼箧笥",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "古董",
+          "anchor": "bw8",
+          "level": 3
+        },
+        {
+          "title": "炉瓶",
+          "anchor": "bw9",
+          "level": 3
+        },
+        {
+          "title": "屏轴",
+          "anchor": "bw10",
+          "level": 3
+        },
+        {
+          "title": "茶具",
+          "anchor": "bw11",
+          "level": 3
+        },
+        {
+          "title": "酒具",
+          "anchor": "bw12",
+          "level": 3
+        },
+        {
+          "title": "碗碟",
+          "anchor": "bw13",
+          "level": 3
+        },
+        {
+          "title": "灯烛",
+          "anchor": "bw14",
+          "level": 3
+        },
+        {
+          "title": "笺简",
+          "anchor": "bw15",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "位置第二",
+      "level": 2,
+      "wordCount": 3641,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "忌排偶",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "贵活变",
+          "anchor": "bw2",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "种植部",
+      "level": 1,
+      "wordCount": 17158,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "木本第一",
+          "anchor": "bw1",
+          "level": 2
+        },
+        {
+          "title": "牡丹",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "梅",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "桃",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "李",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "杏",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "梨",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "海棠",
+          "anchor": "bw8",
+          "level": 3
+        },
+        {
+          "title": "玉兰",
+          "anchor": "bw9",
+          "level": 3
+        },
+        {
+          "title": "辛夷",
+          "anchor": "bw10",
+          "level": 3
+        },
+        {
+          "title": "山茶",
+          "anchor": "bw11",
+          "level": 3
+        },
+        {
+          "title": "紫薇",
+          "anchor": "bw12",
+          "level": 3
+        },
+        {
+          "title": "绣球",
+          "anchor": "bw13",
+          "level": 3
+        },
+        {
+          "title": "紫荆",
+          "anchor": "bw14",
+          "level": 3
+        },
+        {
+          "title": "栀子",
+          "anchor": "bw15",
+          "level": 3
+        },
+        {
+          "title": "杜鹃、樱桃",
+          "anchor": "bw16",
+          "level": 3
+        },
+        {
+          "title": "石榴",
+          "anchor": "bw17",
+          "level": 3
+        },
+        {
+          "title": "木槿",
+          "anchor": "bw18",
+          "level": 3
+        },
+        {
+          "title": "桂",
+          "anchor": "bw19",
+          "level": 3
+        },
+        {
+          "title": "合欢",
+          "anchor": "bw20",
+          "level": 3
+        },
+        {
+          "title": "木芙蓉",
+          "anchor": "bw21",
+          "level": 3
+        },
+        {
+          "title": "夹竹桃",
+          "anchor": "bw22",
+          "level": 3
+        },
+        {
+          "title": "瑞香",
+          "anchor": "bw23",
+          "level": 3
+        },
+        {
+          "title": "茉莉",
+          "anchor": "bw24",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "藤本第二",
+      "level": 2,
+      "wordCount": 4529,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "蔷薇",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "木香",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "酴醾",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "月月红",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "姊妹花",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "玫瑰",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "素馨",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "凌霄",
+          "anchor": "bw8",
+          "level": 3
+        },
+        {
+          "title": "真珠兰",
+          "anchor": "bw9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "草本第三",
+      "level": 2,
+      "wordCount": 12268,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "芍药",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "兰",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "蕙",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "水仙",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "芙蕖",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "罂粟",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "葵",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "萱",
+          "anchor": "bw8",
+          "level": 3
+        },
+        {
+          "title": "鸡冠",
+          "anchor": "bw9",
+          "level": 3
+        },
+        {
+          "title": "玉簪",
+          "anchor": "bw10",
+          "level": 3
+        },
+        {
+          "title": "凤仙",
+          "anchor": "bw11",
+          "level": 3
+        },
+        {
+          "title": "金钱、金盏、剪春罗、剪秋罗",
+          "anchor": "bw12",
+          "level": 3
+        },
+        {
+          "title": "蝴蝶花",
+          "anchor": "bw13",
+          "level": 3
+        },
+        {
+          "title": "菊",
+          "anchor": "bw14",
+          "level": 3
+        },
+        {
+          "title": "菜",
+          "anchor": "bw15",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "众卉第四",
+      "level": 2,
+      "wordCount": 3605,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "芭蕉",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "翠云",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "虞美人",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "书带草",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "老少年",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "天竹",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "虎刺",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "苔",
+          "anchor": "bw8",
+          "level": 3
+        },
+        {
+          "title": "萍",
+          "anchor": "bw9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "竹木第五",
+      "level": 2,
+      "wordCount": 6521,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "竹",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "松柏",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "梧桐",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "槐、榆",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "柳",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "黄杨",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "棕榈",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "枫、桕",
+          "anchor": "bw8",
+          "level": 3
+        },
+        {
+          "title": "冬青",
+          "anchor": "bw9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "词曲部",
+      "level": 1,
+      "wordCount": 19046,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "结构第一",
+          "anchor": "bw1",
+          "level": 2
+        },
+        {
+          "title": "戒讽刺",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "立主脑",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "脱窠臼",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "密针线",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "减头绪",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "戒荒唐",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "审虚实",
+          "anchor": "bw8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "词采第二",
+      "level": 2,
+      "wordCount": 8956,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "贵显浅",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "重机趣",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "戒浮泛",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "忌填塞",
+          "anchor": "bw4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "音律第三",
+      "level": 2,
+      "wordCount": 22781,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "恪守词韵",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "凛遵曲谱",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "鱼模当分",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "廉监宜避",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "拗句难好",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "合韵易重",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "慎用上声",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "少填入韵",
+          "anchor": "bw8",
+          "level": 3
+        },
+        {
+          "title": "别解务头",
+          "anchor": "bw9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "宾白第四",
+      "level": 2,
+      "wordCount": 12536,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "声务铿锵",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "语求肖似",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "词别繁减",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "字分南北",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "文贵洁净",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "意取尖新",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "少用方言",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "时防漏孔",
+          "anchor": "bw8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "科诨第五",
+      "level": 2,
+      "wordCount": 4040,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "戒淫亵",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "忌俗恶",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "重关系",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "贵自然",
+          "anchor": "bw4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "格局第六",
+      "level": 2,
+      "wordCount": 7184,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "家门",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "冲场",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "出脚色",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "小收煞",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "大收煞",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "填词余论",
+          "anchor": "bw6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "演习部",
+      "level": 1,
+      "wordCount": 3768,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "选剧第一",
+          "anchor": "bw1",
+          "level": 2
+        },
+        {
+          "title": "别古今",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "剂冷热",
+          "anchor": "bw3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "变调第二",
+      "level": 2,
+      "wordCount": 15573,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "缩长为短",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "变旧成新",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "附：《琵琶记·寻夫》改本",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "《明珠记·煎茶》改本",
+          "anchor": "bw4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "授曲第三",
+      "level": 2,
+      "wordCount": 8866,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "解明曲意",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "调熟字音",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "字忌模糊",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "曲严分合",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "锣鼓忌杂",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "吹合宜低",
+          "anchor": "bw6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "教白第四",
+      "level": 2,
+      "wordCount": 5573,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "高低抑扬",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "缓急顿挫",
+          "anchor": "bw2",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "脱套第五",
+      "level": 2,
+      "wordCount": 5470,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "衣冠恶习",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "声音恶习",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "语言恶习",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "科诨恶习",
+          "anchor": "bw4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=919891&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=41"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 26,
+      "chapterTitle": "种植部",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "919891_26_3016-3031",
+          "range": "3016-3031",
+          "rangeStart": 3016,
+          "rangeEnd": 3031,
+          "markText": "花之最先者梅，果之最先者樱桃。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1746580555,
+          "createTimeFormatted": "2025-05-07 09:15:55",
+          "chapterUid": 26,
+          "appLink": "weread://bestbookmark?bookId=919891&chapterUid=26&rangeStart=3016&rangeEnd=3031",
+          "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=26&rangeStart=3016&rangeEnd=3031"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "919891_5_3952-3982",
+      "chapterUid": 5,
+      "range": "3952-3982",
+      "markText": "宁捉襟肘以露贫，不借裘马以彰富。有则还吾故有，无则安其本无。",
+      "totalCount": 432,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=5&rangeStart=3952&rangeEnd=3982",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=5&rangeStart=3952&rangeEnd=3982"
+    },
+    {
+      "bookmarkId": "919891_9_2481-2511",
+      "chapterUid": 9,
+      "range": "2481-2511",
+      "markText": "乐不在外而在心。心以为乐，则是境皆乐；心以为苦，则无境不苦。",
+      "totalCount": 340,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=9&rangeStart=2481&rangeEnd=2511",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=9&rangeStart=2481&rangeEnd=2511"
+    },
+    {
+      "bookmarkId": "919891_5_554-592",
+      "chapterUid": 5,
+      "range": "554-592",
+      "markText": "武士之戈矛，文人之笔墨，乃治乱均需之物：乱则以之削平反侧，治则以之点缀太平。",
+      "totalCount": 330,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=5&rangeStart=554&rangeEnd=592",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=5&rangeStart=554&rangeEnd=592"
+    },
+    {
+      "bookmarkId": "919891_4_574-590",
+      "chapterUid": 4,
+      "range": "574-590",
+      "markText": "凡事之不近人情者，鲜不为大奸慝。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=4&rangeStart=574&rangeEnd=590",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=4&rangeStart=574&rangeEnd=590"
+    },
+    {
+      "bookmarkId": "919891_6_5214-5254",
+      "chapterUid": 6,
+      "range": "5214-5254",
+      "markText": "陆之蕈，水之莼，皆清虚妙物也。予尝以二物作羹，和以蟹之黄，鱼之肋，名曰“四美羹”",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=6&rangeStart=5214&rangeEnd=5254",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=6&rangeStart=5214&rangeEnd=5254"
+    },
+    {
+      "bookmarkId": "919891_6_1061-1109",
+      "chapterUid": 6,
+      "range": "1061-1109",
+      "markText": "声音之道，丝不如竹，竹不如肉，为其渐近自然。吾谓饮食之道，脍不如肉，肉不如蔬，亦以其渐近自然也。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=6&rangeStart=1061&rangeEnd=1109",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=6&rangeStart=1061&rangeEnd=1109"
+    },
+    {
+      "bookmarkId": "919891_6_2496-2543",
+      "chapterUid": 6,
+      "range": "2496-2543",
+      "markText": "论蔬食之美者，曰清，曰洁，曰芳馥，曰松脆而已矣。不知其至美所在，能居肉食之上者，只在一字之鲜。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=6&rangeStart=2496&rangeEnd=2543",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=6&rangeStart=2496&rangeEnd=2543"
+    },
+    {
+      "bookmarkId": "919891_6_8339-8402",
+      "chapterUid": 6,
+      "range": "8339-8402",
+      "markText": "予待三物有差。蒜则永禁弗食；葱虽弗食，然亦听作调和；韭则禁其终而不禁其始，芽之初发，非特不臭，且具清香，是其孩提之心之未变也。",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=6&rangeStart=8339&rangeEnd=8402",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=6&rangeStart=8339&rangeEnd=8402"
+    },
+    {
+      "bookmarkId": "919891_3_1342-1372",
+      "chapterUid": 3,
+      "range": "1342-1372",
+      "markText": "他不仅能从万物的细微处滋养美感，还能在生活的点滴中寻得乐趣。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=3&rangeStart=1342&rangeEnd=1372",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=3&rangeStart=1342&rangeEnd=1372"
+    },
+    {
+      "bookmarkId": "919891_7_4423-4470",
+      "chapterUid": 7,
+      "range": "4423-4470",
+      "markText": "我是个贫穷的人，要养活全家五十多口人，虽然有时难免吃不饱，却不会全天挨饿，就是遵循了这个方法。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=7&rangeStart=4423&rangeEnd=4470",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=7&rangeStart=4423&rangeEnd=4470"
+    },
+    {
+      "bookmarkId": "919891_3_442-482",
+      "chapterUid": 3,
+      "range": "442-482",
+      "markText": "“闲情”指的是休闲生活的情趣，“偶寄”则是一种没有任何思想羁绊的散漫式记述方式。",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=3&rangeStart=442&rangeEnd=482",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=3&rangeStart=442&rangeEnd=482"
+    },
+    {
+      "bookmarkId": "919891_6_8967-9017",
+      "chapterUid": 6,
+      "range": "8967-9017",
+      "markText": "然见此物大异葱蒜，生则臭，熟则不臭，是与初见似小人，而卒为君子者等也。虽有微过，亦当恕之，仍食勿禁。",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=6&rangeStart=8967&rangeEnd=9017",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=6&rangeStart=8967&rangeEnd=9017"
+    },
+    {
+      "bookmarkId": "919891_5_2983-2997",
+      "chapterUid": 5,
+      "range": "2983-2997",
+      "markText": "不佞半世操觚，不攘他人一字。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=5&rangeStart=2983&rangeEnd=2997",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=5&rangeStart=2983&rangeEnd=2997"
+    },
+    {
+      "bookmarkId": "919891_7_3469-3505",
+      "chapterUid": 7,
+      "range": "3469-3505",
+      "markText": "饭犹舟出，羹犹水也；舟之在滩，非水不下，与饭之在喉，非汤不下，其势一也。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=7&rangeStart=3469&rangeEnd=3505",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=7&rangeStart=3469&rangeEnd=3505"
+    },
+    {
+      "bookmarkId": "919891_8_412-488",
+      "chapterUid": 8,
+      "range": "412-488",
+      "markText": "“肉食者鄙”，非鄙其食肉，鄙其不善谋也。食肉之人之不善谋者，以肥腻之精液，结而为脂，蔽障胸臆，犹之茅塞其心，使之不复有窍也。此非予之臆说，夫有所验之矣。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=8&rangeStart=412&rangeEnd=488",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=8&rangeStart=412&rangeEnd=488"
+    },
+    {
+      "bookmarkId": "919891_5_2301-2335",
+      "chapterUid": 5,
+      "range": "2301-2335",
+      "markText": "风俗之靡，犹于人心之坏，正俗必先正心。然近日人情喜读闲书，畏听庄论。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=5&rangeStart=2301&rangeEnd=2335",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=5&rangeStart=2301&rangeEnd=2335"
+    },
+    {
+      "bookmarkId": "919891_7_581-644",
+      "chapterUid": 7,
+      "range": "581-644",
+      "markText": "人则不幸而为精腆所误，多食一物，多受一物之损伤；少静一时，少安一时之淡泊。其疾病之生，死亡之速，皆饮食太繁、嗜欲过度之所致也。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=7&rangeStart=581&rangeEnd=644",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=7&rangeStart=581&rangeEnd=644"
+    },
+    {
+      "bookmarkId": "919891_4_823-1137",
+      "chapterUid": 4,
+      "range": "823-1137",
+      "markText": "漻漻乎，乎，汶者读之旷，僿者读之通，悲者读之愉，拙者读之巧，愁者读之忭且舞，病者读之霍然兴。",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=4&rangeStart=823&rangeEnd=1137",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=4&rangeStart=823&rangeEnd=1137"
+    },
+    {
+      "bookmarkId": "919891_6_521-559",
+      "chapterUid": 6,
+      "range": "521-559",
+      "markText": "口腹具而生计繁矣，生计繁而诈伪奸险之事出矣，诈伪奸险之事出，而五刑不得不设。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=6&rangeStart=521&rangeEnd=559",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=6&rangeStart=521&rangeEnd=559"
+    },
+    {
+      "bookmarkId": "919891_9_25085-25109",
+      "chapterUid": 9,
+      "range": "25085-25109",
+      "markText": "但不可以美人作柱，虑其础石太纤，而致栋梁皆仆也。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=919891&chapterUid=9&rangeStart=25085&rangeEnd=25109",
+      "webLink": "https://weread.qq.com/web/reader/94f324b05e095394fc7c2f7?chapterUid=9&rangeStart=25085&rangeEnd=25109"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

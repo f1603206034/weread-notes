@@ -1,0 +1,1638 @@
+{
+  "meta": {
+    "bookId": "23796430",
+    "title": "盲刺客",
+    "author": "玛格丽特·阿特伍德",
+    "translator": "韩忠华",
+    "cover": "https://cdn.weread.qq.com/weread/cover/46/YueWen_23796430/t6_YueWen_23796430.jpg",
+    "intro": "这是一部结构奇巧、故事里套故事的小说。小说有两个女主人公，一个是劳拉，小说一开始就在车祸中死去；另一个是她的姐姐艾丽丝，生活在死者的阴影中，回忆着快被湮没的往事。有关盲刺客的故事是劳拉生前写的，描述了在动荡的20世纪30年代，一个富家小姐和一个在逃的穷小伙子的恋情。同时，这对恋人想象出了发生在另一个星球上的故事。这个虚构的故事里充满了爱、牺牲与背叛。而现实生活中也是如此，艾丽丝嫁给了富商理查德，在外人看来，这是一桩美满的婚姻，殊不知，理查德将魔爪伸向了小姨子劳拉，于是，劳拉的车祸令人产生了怀疑……",
+    "category": "文学-外国文学",
+    "publisher": "上海译文出版社",
+    "publishTime": "2016-10-01 00:00:00",
+    "isbn": "9787532772469",
+    "wordCount": 0,
+    "newRating": 794,
+    "newRatingCount": 809,
+    "newRatingDetail": {
+      "good": 649,
+      "fair": 141,
+      "poor": 19,
+      "recent": 5,
+      "deepV": 105,
+      "myRating": "",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=23796430",
+    "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1",
+    "lastSync": "2026-05-21T11:46:42Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "2023-06-10",
+    "noteCount": 4,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "8b2a94677ad956d6cb266cf6f879e67963a3bdbd4aeae2792f3a9843744f167d"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 139,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "译序",
+      "level": 1,
+      "wordCount": 2423,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一章",
+      "level": 1,
+      "wordCount": 1394,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "桥",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "《多伦多星报》（1945年5月26日）",
+      "level": 2,
+      "wordCount": 1505,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第二章",
+      "level": 1,
+      "wordCount": 2962,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《盲刺客·煮鸡蛋》",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "《环球邮报》（1947年6月4日）",
+      "level": 2,
+      "wordCount": 541,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "《盲刺客·公园长椅》",
+      "level": 2,
+      "wordCount": 2359,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "《多伦多星报》（1975年8月25日）",
+      "level": 2,
+      "wordCount": 369,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "《盲刺客·地毯》",
+      "level": 2,
+      "wordCount": 2674,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "《环球邮报》（1998年2月19日）",
+      "level": 2,
+      "wordCount": 305,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "《盲刺客·口红画的心》",
+      "level": 2,
+      "wordCount": 4166,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "《亨利·帕克曼上校中学之家暨校友会简报》（提康德罗加港，1998年5月）",
+      "level": 2,
+      "wordCount": 556,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第三章",
+      "level": 1,
+      "wordCount": 5619,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "颁奖仪式",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "银色盒子",
+      "level": 2,
+      "wordCount": 4306,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "钮扣厂",
+      "level": 2,
+      "wordCount": 5436,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "阿维隆庄园",
+      "level": 2,
+      "wordCount": 7189,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "嫁妆",
+      "level": 2,
+      "wordCount": 6398,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "留声机",
+      "level": 2,
+      "wordCount": 5659,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "做面包的日子",
+      "level": 2,
+      "wordCount": 8706,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "黑丝带",
+      "level": 2,
+      "wordCount": 2421,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "苏打水",
+      "level": 2,
+      "wordCount": 3095,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第四章",
+      "level": 1,
+      "wordCount": 2225,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《盲刺客·咖啡馆》",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "《提康德罗加港先驱旗报》（1933年3月16日）",
+      "level": 2,
+      "wordCount": 601,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "《盲刺客·雪尼尔毯子》",
+      "level": 2,
+      "wordCount": 2980,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "《帝国邮报》（1934年12月5日）",
+      "level": 2,
+      "wordCount": 659,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "《盲刺客·信使》",
+      "level": 2,
+      "wordCount": 4259,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "《帝国邮报》（1934年12月15日）",
+      "level": 2,
+      "wordCount": 515,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "《盲刺客·夜之奔马》",
+      "level": 2,
+      "wordCount": 2513,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "《梅费尔》（1935年5月）",
+      "level": 2,
+      "wordCount": 657,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "《盲刺客·铜钟》",
+      "level": 2,
+      "wordCount": 2615,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第五章",
+      "level": 1,
+      "wordCount": 6565,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "裘皮大衣",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "疲惫的士兵",
+      "level": 2,
+      "wordCount": 6255,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "暴力小姐",
+      "level": 2,
+      "wordCount": 6113,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "奥维德的《变形记》",
+      "level": 2,
+      "wordCount": 6312,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "钮扣厂野餐会",
+      "level": 2,
+      "wordCount": 8500,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "布施者",
+      "level": 2,
+      "wordCount": 8041,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "照片着色",
+      "level": 2,
+      "wordCount": 7558,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "冷窖",
+      "level": 2,
+      "wordCount": 7664,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "阁楼",
+      "level": 2,
+      "wordCount": 5562,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "帝国餐厅",
+      "level": 2,
+      "wordCount": 4875,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "田园俱乐部",
+      "level": 2,
+      "wordCount": 7066,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "探戈",
+      "level": 2,
+      "wordCount": 5244,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "第六章",
+      "level": 1,
+      "wordCount": 3027,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《盲刺客·犬牙纹套裙》",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "《盲刺客·红锦缎》",
+      "level": 2,
+      "wordCount": 3183,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "《多伦多星报》（1935年8月28日）",
+      "level": 2,
+      "wordCount": 504,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "《盲刺客·街头漫步》",
+      "level": 2,
+      "wordCount": 4088,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "《盲刺客·看门人》",
+      "level": 2,
+      "wordCount": 4926,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "《梅费尔》（1936年2月）",
+      "level": 2,
+      "wordCount": 581,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "《盲刺客·冰封的外星人》",
+      "level": 2,
+      "wordCount": 5369,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "第七章",
+      "level": 1,
+      "wordCount": 4295,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "扁行李箱",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "火窖",
+      "level": 2,
+      "wordCount": 6826,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "寄自欧洲的明信片",
+      "level": 2,
+      "wordCount": 7379,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "蛋壳色的帽子",
+      "level": 2,
+      "wordCount": 4307,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "迷醉",
+      "level": 2,
+      "wordCount": 4863,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "向阳游乐园",
+      "level": 2,
+      "wordCount": 5471,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "忽必烈行宫",
+      "level": 2,
+      "wordCount": 6087,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "第八章",
+      "level": 1,
+      "wordCount": 5189,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《盲刺客·杀戮者的故事》",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "《梅费尔》（1936年7月）",
+      "level": 2,
+      "wordCount": 642,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "《盲刺客·Aa'A星球上的桃子女人》",
+      "level": 2,
+      "wordCount": 5314,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "《帝国邮报》（1936年9月19日）",
+      "level": 2,
+      "wordCount": 576,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "《盲刺客·大礼帽烤肉馆》",
+      "level": 2,
+      "wordCount": 2831,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "第九章",
+      "level": 1,
+      "wordCount": 5295,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "洗衣服",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "烟灰缸",
+      "level": 2,
+      "wordCount": 5857,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "头上冒火的人",
+      "level": 2,
+      "wordCount": 3804,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "水妖号",
+      "level": 2,
+      "wordCount": 6486,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "栗子树",
+      "level": 2,
+      "wordCount": 1231,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "第十章",
+      "level": 1,
+      "wordCount": 2554,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《盲刺客·西诺星球的蜥蜴人》",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "《梅费尔》（1937年5月）",
+      "level": 2,
+      "wordCount": 782,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "贝拉维斯塔诊所的来信",
+      "level": 2,
+      "wordCount": 713,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "《盲刺客·高楼》",
+      "level": 2,
+      "wordCount": 2374,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "title": "《环球邮报》（1937年5月26日）",
+      "level": 2,
+      "wordCount": 346,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "title": "《盲刺客·联邦车站》",
+      "level": 2,
+      "wordCount": 1819,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 74,
+      "title": "第十一章",
+      "level": 1,
+      "wordCount": 2612,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "洗手间",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=74"
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 75,
+      "title": "小猫",
+      "level": 2,
+      "wordCount": 4935,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=75",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=75"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 76,
+      "title": "美丽的景色",
+      "level": 2,
+      "wordCount": 3262,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 77,
+      "title": "明月当空",
+      "level": 2,
+      "wordCount": 5156,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 78,
+      "title": "贝蒂小吃店",
+      "level": 2,
+      "wordCount": 5598,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 79,
+      "title": "便条",
+      "level": 2,
+      "wordCount": 2650,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=79"
+    },
+    {
+      "chapterUid": 80,
+      "chapterIdx": 80,
+      "title": "第十二章",
+      "level": 1,
+      "wordCount": 589,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《环球邮报》（1938年10月7日）",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=80",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=80"
+    },
+    {
+      "chapterUid": 81,
+      "chapterIdx": 81,
+      "title": "《梅费尔》（1939年6月）",
+      "level": 2,
+      "wordCount": 680,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=81",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=81"
+    },
+    {
+      "chapterUid": 82,
+      "chapterIdx": 82,
+      "title": "《盲刺客·怒气厅》",
+      "level": 2,
+      "wordCount": 3685,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=82",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=82"
+    },
+    {
+      "chapterUid": 83,
+      "chapterIdx": 83,
+      "title": "《盲刺客·黄色窗帘》",
+      "level": 2,
+      "wordCount": 1905,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=83",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=83"
+    },
+    {
+      "chapterUid": 84,
+      "chapterIdx": 84,
+      "title": "《盲刺客·电报》",
+      "level": 2,
+      "wordCount": 1061,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=84",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=84"
+    },
+    {
+      "chapterUid": 85,
+      "chapterIdx": 85,
+      "title": "《盲刺客·萨基诺城的毁灭》",
+      "level": 2,
+      "wordCount": 1374,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=85",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=85"
+    },
+    {
+      "chapterUid": 86,
+      "chapterIdx": 86,
+      "title": "第十三章",
+      "level": 1,
+      "wordCount": 3017,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "手套",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=86",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=86"
+    },
+    {
+      "chapterUid": 87,
+      "chapterIdx": 87,
+      "title": "家中的炉火",
+      "level": 2,
+      "wordCount": 3552,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=87",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=87"
+    },
+    {
+      "chapterUid": 88,
+      "chapterIdx": 88,
+      "title": "黛安娜甜点店",
+      "level": 2,
+      "wordCount": 5781,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=88",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=88"
+    },
+    {
+      "chapterUid": 89,
+      "chapterIdx": 89,
+      "title": "悬崖",
+      "level": 2,
+      "wordCount": 3411,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=89",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=89"
+    },
+    {
+      "chapterUid": 90,
+      "chapterIdx": 90,
+      "title": "第十四章",
+      "level": 1,
+      "wordCount": 3062,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "金色发束",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=90",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=90"
+    },
+    {
+      "chapterUid": 91,
+      "chapterIdx": 91,
+      "title": "胜利昙花一现",
+      "level": 2,
+      "wordCount": 5602,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=91",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=91"
+    },
+    {
+      "chapterUid": 92,
+      "chapterIdx": 92,
+      "title": "一堆瓦砾",
+      "level": 2,
+      "wordCount": 3635,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=92",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=92"
+    },
+    {
+      "chapterUid": 93,
+      "chapterIdx": 93,
+      "title": "第十五章",
+      "level": 1,
+      "wordCount": 846,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《盲刺客》尾声：另一只手",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23796430&chapterUid=93",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=93"
+    },
+    {
+      "chapterUid": 94,
+      "chapterIdx": 94,
+      "title": "《提康德罗加港先驱旗报》（1999年5月29日）",
+      "level": 2,
+      "wordCount": 571,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=94",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=94"
+    },
+    {
+      "chapterUid": 95,
+      "chapterIdx": 95,
+      "title": "门槛",
+      "level": 2,
+      "wordCount": 1472,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23796430&chapterUid=95",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=95"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 16,
+      "chapterTitle": "钮扣厂",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "23796430_16_4311-4370",
+          "range": "4311-4370",
+          "rangeStart": 4311,
+          "rangeEnd": 4370,
+          "markText": "但据我回顾，历史并不是如此可爱，尤其不是如此干净。然而，真正的历史是卖不出去的，因为大多数人都喜欢他们的历史洁净无味。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1739239442,
+          "createTimeFormatted": "2025-02-11 10:04:02",
+          "chapterUid": 16,
+          "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=16&rangeStart=4311&rangeEnd=4370",
+          "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=16&rangeStart=4311&rangeEnd=4370"
+        }
+      ]
+    },
+    {
+      "chapterUid": 51,
+      "chapterTitle": "第七章",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "23796430_51_484-580",
+          "range": "484-580",
+          "rangeStart": 484,
+          "rangeEnd": 580,
+          "markText": "描写真实的唯一方法是：假设你所写的东西永远没有人会读到。不仅别人读不到，甚至你自己后来也读不到了。否则，你便开始原谅自己。你一定要把写作看成是从右手食指流出长长的墨迹，而左手在不断地把它擦去。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1739239432,
+          "createTimeFormatted": "2025-02-11 10:03:52",
+          "chapterUid": 51,
+          "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=51&rangeStart=484&rangeEnd=580",
+          "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=51&rangeStart=484&rangeEnd=580"
+        }
+      ]
+    },
+    {
+      "chapterUid": 95,
+      "chapterTitle": "门槛",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "23796430_95_1168-1214",
+          "range": "1168-1214",
+          "rangeStart": 1168,
+          "rangeEnd": 1214,
+          "markText": "我必须承认我有一个关于你的白日梦。\n",
+          "colorStyle": 4,
+          "colorLabel": "",
+          "createTime": 1705031524,
+          "createTimeFormatted": "2024-01-12 11:52:04",
+          "chapterUid": 95,
+          "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=95&rangeStart=1168&rangeEnd=1214",
+          "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=95&rangeStart=1168&rangeEnd=1214"
+        }
+      ]
+    },
+    {
+      "chapterUid": 20,
+      "chapterTitle": "做面包的日子",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7O9V5Lrvh",
+          "range": "2859-2874",
+          "chapterName": "",
+          "content": "人的情绪是用来影响他人的，而不是左右自己的。\n公开的言论是用来维护立场和利益的，不是表达自己思想和认知的。",
+          "abstract": "只有吱嘎作响的轮子才上润滑油。",
+          "star": -1,
+          "createTime": 1705024976,
+          "createTimeFormatted": "2024-01-12 10:02:56",
+          "isFinish": false,
+          "chapterUid": 20
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "23796430_4_2314-2343",
+      "chapterUid": 4,
+      "range": "2314-2343",
+      "markText": "然而，有些人说不准是哪儿疼。他们安静不下来。他们无法不嚎。",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=4&rangeStart=2314&rangeEnd=2343",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=4&rangeStart=2314&rangeEnd=2343"
+    },
+    {
+      "bookmarkId": "23796430_16_4311-4370",
+      "chapterUid": 16,
+      "range": "4311-4370",
+      "markText": "但据我回顾，历史并不是如此可爱，尤其不是如此干净。然而，真正的历史是卖不出去的，因为大多数人都喜欢他们的历史洁净无味。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=16&rangeStart=4311&rangeEnd=4370",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=16&rangeStart=4311&rangeEnd=4370"
+    },
+    {
+      "bookmarkId": "23796430_12_6687-6818",
+      "chapterUid": 12,
+      "range": "6687-6818",
+      "markText": "因此，女孩们在走上祭坛三个月之前就会被割去舌头。祭司们说，这并不是一种残害，而是一种改良——还有谁比哑巴更要适合做沉默女神的侍女呢？",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=12&rangeStart=6687&rangeEnd=6818",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=12&rangeStart=6687&rangeEnd=6818"
+    },
+    {
+      "bookmarkId": "23796430_16_6689-6725",
+      "chapterUid": 16,
+      "range": "6689-6725",
+      "markText": "为什么我们在这时候总会猜想世人都在盯着我们看呢？通常情况下，没人会看你。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=16&rangeStart=6689&rangeEnd=6725",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=16&rangeStart=6689&rangeEnd=6725"
+    },
+    {
+      "bookmarkId": "23796430_51_484-580",
+      "chapterUid": 51,
+      "range": "484-580",
+      "markText": "描写真实的唯一方法是：假设你所写的东西永远没有人会读到。不仅别人读不到，甚至你自己后来也读不到了。否则，你便开始原谅自己。你一定要把写作看成是从右手食指流出长长的墨迹，而左手在不断地把它擦去。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=51&rangeStart=484&rangeEnd=580",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=51&rangeStart=484&rangeEnd=580"
+    },
+    {
+      "bookmarkId": "23796430_21_794-849",
+      "chapterUid": 21,
+      "range": "794-849",
+      "markText": "为什么我们总是很想纪念自己？甚至在我们还活着的时候也是如此？我们希望表明我们的存在，就像狗在消防栓上撒尿一样。",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=21&rangeStart=794&rangeEnd=849",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=21&rangeStart=794&rangeEnd=849"
+    },
+    {
+      "bookmarkId": "23796430_23_5422-5488",
+      "chapterUid": 23,
+      "range": "5422-5488",
+      "markText": "我知道你会这样请求的，他说。穿你这样衣服的姑娘都会有这种请求。",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=23&rangeStart=5422&rangeEnd=5488",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=23&rangeStart=5422&rangeEnd=5488"
+    },
+    {
+      "bookmarkId": "23796430_38_9964-10054",
+      "chapterUid": 38,
+      "range": "9964-10054",
+      "markText": "瑞妮嘴里说出来的姑娘或女人都是迟钝的，身上却有许多可让人攫抓之处，就像个攀缘构架。她会被神奇地剥夺了尖叫或动弹的能力。她会束手无策，不知所措——因为震惊、愤怒或羞耻。她会孤立无援。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=38&rangeStart=9964&rangeEnd=10054",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=38&rangeStart=9964&rangeEnd=10054"
+    },
+    {
+      "bookmarkId": "23796430_6_5907-5925",
+      "chapterUid": 6,
+      "range": "5907-5925",
+      "markText": "树上小小的绿苹果像眸子般望着她远去。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=6&rangeStart=5907&rangeEnd=5925",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=6&rangeStart=5907&rangeEnd=5925"
+    },
+    {
+      "bookmarkId": "23796430_12_1152-1258",
+      "chapterUid": 12,
+      "range": "1152-1258",
+      "markText": "说到喜欢，这可是两码事。喜欢需要时间。我没有时间来喜欢你。我无法集中精力去喜欢你。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=12&rangeStart=1152&rangeEnd=1258",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=12&rangeStart=1152&rangeEnd=1258"
+    },
+    {
+      "bookmarkId": "23796430_88_8006-8078",
+      "chapterUid": 88,
+      "range": "8006-8078",
+      "markText": "“他太不谨慎了。考虑到理查德，他不该那样做。不过，他没有家人，而且，要知道，我们俩是情人——暗地里相爱很久了——再说，他还能指望别的什么人呢？”",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=88&rangeStart=8006&rangeEnd=8078",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=88&rangeStart=8006&rangeEnd=8078"
+    },
+    {
+      "bookmarkId": "23796430_6_1970-2041",
+      "chapterUid": 6,
+      "range": "1970-2041",
+      "markText": "然而，她却感到他们俩是孤立的。他们头上的苹果树似乎不是树，而是一个帐篷；他们周围似乎有一条用粉笔画的界线。在这界线之内，别人是看不见他们俩的。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=6&rangeStart=1970&rangeEnd=2041",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=6&rangeStart=1970&rangeEnd=2041"
+    },
+    {
+      "bookmarkId": "23796430_10_4159-4220",
+      "chapterUid": 10,
+      "range": "4159-4220",
+      "markText": "这些故事在那些还未失明的织毯儿童中悄悄传开了。这也有可能成为他们的将来。于是，他们中间就流传着一种说法：只有瞎子才能自由。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=10&rangeStart=4159&rangeEnd=4220",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=10&rangeStart=4159&rangeEnd=4220"
+    },
+    {
+      "bookmarkId": "23796430_34_2326-2404",
+      "chapterUid": 34,
+      "range": "2326-2404",
+      "markText": "我多么想再回到从前那些平淡的下午时光——无聊而又漫无目的，而且什么事都可能发生。从某种程度上来说，我确实又回到了从前，除了现在不像以前那样可能会发生许多事。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=34&rangeStart=2326&rangeEnd=2404",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=34&rangeStart=2326&rangeEnd=2404"
+    },
+    {
+      "bookmarkId": "23796430_47_3718-3779",
+      "chapterUid": 47,
+      "range": "3718-3779",
+      "markText": "浪漫总是在不远不近的地方发生。浪漫就像透过雾蒙蒙的窗户看你自己一样。浪漫意味着排除物质生活：当生活一团糟时，浪漫只能叹息。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=47&rangeStart=3718&rangeEnd=3779",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=47&rangeStart=3718&rangeEnd=3779"
+    },
+    {
+      "bookmarkId": "23796430_19_4236-4269",
+      "chapterUid": 19,
+      "range": "4236-4269",
+      "markText": "日复一日地渴求一个就在你眼前的人，那是什么滋味？我永远也不会明白。",
+      "totalCount": 132,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=19&rangeStart=4236&rangeEnd=4269",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=19&rangeStart=4236&rangeEnd=4269"
+    },
+    {
+      "bookmarkId": "23796430_32_5645-5676",
+      "chapterUid": 32,
+      "range": "5645-5676",
+      "markText": "铜制的钟摆像舌头般来回摆动，舔着看不见的嘴唇。它在吞噬着时间。",
+      "totalCount": 132,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=32&rangeStart=5645&rangeEnd=5676",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=32&rangeStart=5645&rangeEnd=5676"
+    },
+    {
+      "bookmarkId": "23796430_4_1070-1103",
+      "chapterUid": 4,
+      "range": "1070-1103",
+      "markText": "一股热风吹着我的脑袋，我的一绺绺头发飘旋起来，就像墨汁溅在了水里。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=4&rangeStart=1070&rangeEnd=1103",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=4&rangeStart=1070&rangeEnd=1103"
+    },
+    {
+      "bookmarkId": "23796430_12_4078-4134",
+      "chapterUid": 12,
+      "range": "4078-4134",
+      "markText": "斯尼法人声称，他们获取财富不是靠奴隶，而是靠他们自己的高尚品德和正确的思想——即对众神的精心供奉。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=12&rangeStart=4078&rangeEnd=4134",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=12&rangeStart=4078&rangeEnd=4134"
+    },
+    {
+      "bookmarkId": "23796430_4_1605-1650",
+      "chapterUid": 4,
+      "range": "1605-1650",
+      "markText": "当她的汽车滑下桥、坠落沟底之前的一刹那，像一只闪光的蜻蜓悬在午后的阳光中，她想到了什么呢？",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=23796430&chapterUid=4&rangeStart=1605&rangeEnd=1650",
+      "webLink": "https://weread.qq.com/web/reader/72732010716b1ace727c0f1?chapterUid=4&rangeStart=1605&rangeEnd=1650"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 16,
+    "chapterOffset": 4189,
+    "progress": 0,
+    "updateTime": 1767168327,
+    "recordReadingTime": 0,
+    "finishTime": 1686385102
+  }
+}

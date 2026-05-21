@@ -1,0 +1,672 @@
+{
+  "meta": {
+    "bookId": "31580169",
+    "title": "诗经译注",
+    "author": "程俊英译注",
+    "translator": "",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/169/31580169/t6_31580169.jpg",
+    "intro": "本书由著名学者程俊英教授翻译并注释，将诗三百零五篇完整地介绍给读者，除原诗外，每首诗包括题解、注释和译文三部分。每篇题解都采取\"就诗论诗\"的态度，阐明背景及诗旨，剔除古代经生们牵强附会的解释。注释浅显易懂，生疏字词皆有注音，只注今音，不注古音，并以华美的笔致将原文准确流畅地翻译为新诗，逐句对译，便于比照原文。可谓《诗经》入门必备读本。",
+    "category": "文学-古代诗词",
+    "publisher": "上海古籍出版社",
+    "publishTime": "2016-06-02 00:00:00",
+    "isbn": "9787532578634",
+    "wordCount": 0,
+    "newRating": 847,
+    "newRatingCount": 184,
+    "newRatingDetail": {
+      "good": 154,
+      "fair": 20,
+      "poor": 10,
+      "recent": 3,
+      "deepV": 19,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=31580169",
+    "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc",
+    "lastSync": "2026-05-21T11:46:44Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 4,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 107,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 9226,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "国风",
+      "level": 1,
+      "wordCount": 966,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "周南 召南",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580169&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "周南",
+      "level": 3,
+      "wordCount": 8233,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "召南",
+      "level": 3,
+      "wordCount": 8240,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "邶风 鄘风 卫风",
+      "level": 2,
+      "wordCount": 851,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "邶风",
+      "level": 3,
+      "wordCount": 16602,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "鄘风",
+      "level": 3,
+      "wordCount": 9911,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "卫风",
+      "level": 3,
+      "wordCount": 10734,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "王风",
+      "level": 2,
+      "wordCount": 6614,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "郑风",
+      "level": 2,
+      "wordCount": 12965,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "齐风",
+      "level": 2,
+      "wordCount": 7411,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "魏风",
+      "level": 2,
+      "wordCount": 6071,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "唐风",
+      "level": 2,
+      "wordCount": 8587,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "秦风",
+      "level": 2,
+      "wordCount": 8569,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "陈风",
+      "level": 2,
+      "wordCount": 6591,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "桧风",
+      "level": 2,
+      "wordCount": 2189,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "曹风",
+      "level": 2,
+      "wordCount": 3622,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "豳风",
+      "level": 2,
+      "wordCount": 9928,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "二雅",
+      "level": 1,
+      "wordCount": 940,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "小雅",
+      "level": 2,
+      "wordCount": 93037,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "大雅",
+      "level": 2,
+      "wordCount": 65736,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "颂",
+      "level": 1,
+      "wordCount": 550,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "周颂",
+      "level": 2,
+      "wordCount": 17166,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "鲁颂",
+      "level": 2,
+      "wordCount": 9049,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "商颂",
+      "level": 2,
+      "wordCount": 7466,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580169&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=27"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 23,
+      "chapterTitle": "大雅",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "31580169_23_203477-203677",
+          "range": "203477-203677",
+          "rangeStart": 203477,
+          "rangeEnd": 203677,
+          "markText": "有熊有罴，\n有猫有虎。\n庆既令居，\n韩姞燕誉。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1767025154,
+          "createTimeFormatted": "2025-12-30 00:19:14",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=23&rangeStart=203477&rangeEnd=203677",
+          "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=23&rangeStart=203477&rangeEnd=203677"
+        }
+      ]
+    },
+    {
+      "chapterUid": 17,
+      "chapterTitle": "陈风",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "31580169_17_13849-14076",
+          "range": "13849-14076",
+          "rangeStart": 13849,
+          "rangeEnd": 14076,
+          "markText": "月出皎兮，\n佼人僚兮。\n舒窈纠兮，\n劳心悄兮！",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1766150624,
+          "createTimeFormatted": "2025-12-19 21:23:44",
+          "chapterUid": 17,
+          "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=17&rangeStart=13849&rangeEnd=14076",
+          "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=17&rangeStart=13849&rangeEnd=14076"
+        }
+      ]
+    },
+    {
+      "chapterUid": 22,
+      "chapterTitle": "小雅",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "31580169_22_95068-95295",
+          "range": "95068-95295",
+          "rangeStart": 95068,
+          "rangeEnd": 95295,
+          "markText": "鸿雁于飞，\n肃肃其羽。\n之子于征，\n劬劳于野。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1758942050,
+          "createTimeFormatted": "2025-09-27 11:00:50",
+          "chapterUid": 22,
+          "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=22&rangeStart=95068&rangeEnd=95295",
+          "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=22&rangeStart=95068&rangeEnd=95295"
+        }
+      ]
+    },
+    {
+      "chapterUid": 14,
+      "chapterTitle": "魏风",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "31580169_14_17152-18240",
+          "range": "17152-18229",
+          "rangeStart": 17152,
+          "rangeEnd": 18229,
+          "markText": "硕鼠硕鼠，\n无食我黍！\n三岁贯女，\n莫我肯顾。\n逝将去女，\n适彼乐土。\n乐土乐土，\n爰得我所！\n硕鼠硕鼠，\n无食我麦！\n三岁贯女，\n莫我肯德。\n逝将去女，\n适彼乐国。\n乐国乐国，\n爰得我直！\n硕鼠硕鼠，\n无食我苗！\n三岁贯女，\n莫我肯劳。\n逝将去女，\n适彼乐郊。\n乐郊乐郊，\n谁之永号！",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1746504125,
+          "createTimeFormatted": "2025-05-06 12:02:05",
+          "chapterUid": 14,
+          "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=14&rangeStart=17152&rangeEnd=18229",
+          "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=14&rangeStart=17152&rangeEnd=18229"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "31580169_3_1166-1257",
+      "chapterUid": 3,
+      "range": "1166-1257",
+      "markText": "到了春秋时代，诸侯间交际频繁，一般外交家为了锻炼自己的口才，加强外交辞令，常常引用诗歌的章句，来表达本国或自己的态度和希望，使其语言含蓄婉转而又生动，这就形成当时上层人物学诗的风气。",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=3&rangeStart=1166&rangeEnd=1257",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=3&rangeStart=1166&rangeEnd=1257"
+    },
+    {
+      "bookmarkId": "31580169_6_20439-20501",
+      "chapterUid": 6,
+      "range": "20439-20501",
+      "markText": "《毛序》从“衾裯”二字出发，认为这是贱妾进御于君的诗，朱熹《诗集传》亦沿其说。因此，后世竟将“小星”一词，作为小老婆的代称。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=6&rangeStart=20439&rangeEnd=20501",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=6&rangeStart=20439&rangeEnd=20501"
+    },
+    {
+      "bookmarkId": "31580169_5_22117-22164",
+      "chapterUid": 5,
+      "range": "22117-22164",
+      "markText": "汉水有位游泳女， 我要追求没希望。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=5&rangeStart=22117&rangeEnd=22164",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=5&rangeStart=22117&rangeEnd=22164"
+    },
+    {
+      "bookmarkId": "31580169_3_1369-1417",
+      "chapterUid": 3,
+      "range": "1369-1417",
+      "markText": "《史记》有孔子删诗说，经过千百年学者的考证，孔子只是对“三百篇”做了校正乐调的工作，并没有删诗。",
+      "totalCount": 99,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=3&rangeStart=1369&rangeEnd=1417",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=3&rangeStart=1369&rangeEnd=1417"
+    },
+    {
+      "bookmarkId": "31580169_3_2746-2790",
+      "chapterUid": 3,
+      "range": "2746-2790",
+      "markText": "这两首诗，反映了我国人民在二千五百年前就有消灭剥削制度的理想和愿望，具有高度的思想意义。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=3&rangeStart=2746&rangeEnd=2790",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=3&rangeStart=2746&rangeEnd=2790"
+    },
+    {
+      "bookmarkId": "31580169_3_5209-5254",
+      "chapterUid": 3,
+      "range": "5209-5254",
+      "markText": "至于颂，都是歌功颂德的作品，它和雅诗中歌颂统治阶级和祭神祭祖的诗一样，其思想内容无甚可取。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=3&rangeStart=5209&rangeEnd=5254",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=3&rangeStart=5209&rangeEnd=5254"
+    },
+    {
+      "bookmarkId": "31580169_5_12192-12216",
+      "chapterUid": 5,
+      "range": "12192-12216",
+      "markText": "诗人用蝗虫多子，比人的多子，表示对多子者的祝贺。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=5&rangeStart=12192&rangeEnd=12216",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=5&rangeStart=12192&rangeEnd=12216"
+    },
+    {
+      "bookmarkId": "31580169_9_2518-2575",
+      "chapterUid": 9,
+      "range": "2518-2575",
+      "markText": "卫宣公劫娶儿子的聘妻齐女宣姜，宣公死后，他的庶长子公子顽又与宣姜私通，生下了齐子、戴公、文公、宋桓夫人和许穆夫人。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=9&rangeStart=2518&rangeEnd=2575",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=9&rangeStart=2518&rangeEnd=2575"
+    },
+    {
+      "bookmarkId": "31580169_5_3092-3129",
+      "chapterUid": 5,
+      "range": "3092-3129",
+      "markText": "秦晋之间，美心为窈，美状为窕。”是窈窕一词，古人兼指内心与外貌两方面而言。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=5&rangeStart=3092&rangeEnd=3129",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=5&rangeStart=3092&rangeEnd=3129"
+    },
+    {
+      "bookmarkId": "31580169_8_1235-1342",
+      "chapterUid": 8,
+      "range": "1235-1342",
+      "markText": "我心匪石， 不可转也。 我心匪席， 不可卷也。",
+      "totalCount": 78,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=8&rangeStart=1235&rangeEnd=1342",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=8&rangeStart=1235&rangeEnd=1342"
+    },
+    {
+      "bookmarkId": "31580169_3_3024-3075",
+      "chapterUid": 3,
+      "range": "3024-3075",
+      "markText": "《击鼓》写一位兵士被迫服役南行，他想起临别时和妻子的誓约：“死生契阔，与子成说，执子之手，与子偕老。”",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=3&rangeStart=3024&rangeEnd=3075",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=3&rangeStart=3024&rangeEnd=3075"
+    },
+    {
+      "bookmarkId": "31580169_3_10059-10101",
+      "chapterUid": 3,
+      "range": "10059-10101",
+      "markText": "还有一些修辞手法，如复叠、对偶、夸张、示现、呼告、设问、顶真、排比、拟人、借代等等。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=3&rangeStart=10059&rangeEnd=10101",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=3&rangeStart=10059&rangeEnd=10101"
+    },
+    {
+      "bookmarkId": "31580169_3_5733-5782",
+      "chapterUid": 3,
+      "range": "5733-5782",
+      "markText": "最后，必须提一下《载驰》，作者许穆夫人，是一位有见识、有斗争性的爱国诗人，也是世界上最早的女诗人。",
+      "totalCount": 70,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=3&rangeStart=5733&rangeEnd=5782",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=3&rangeStart=5733&rangeEnd=5782"
+    },
+    {
+      "bookmarkId": "31580169_6_11786-11831",
+      "chapterUid": 6,
+      "range": "11786-11831",
+      "markText": "这是一首女子拒婚的诗。一个已有妻室、曾经欺骗她的强暴男子，以打官司要挟她成婚。她严词拒绝。",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=6&rangeStart=11786&rangeEnd=11831",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=6&rangeStart=11786&rangeEnd=11831"
+    },
+    {
+      "bookmarkId": "31580169_11_1114-1160",
+      "chapterUid": 11,
+      "range": "1114-1160",
+      "markText": "知我者谓我心忧， 不知我者谓我何求。",
+      "totalCount": 66,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=11&rangeStart=1114&rangeEnd=1160",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=11&rangeStart=1114&rangeEnd=1160"
+    },
+    {
+      "bookmarkId": "31580169_3_1588-1611",
+      "chapterUid": 3,
+      "range": "1588-1611",
+      "markText": "“风土之音曰风，朝廷之音曰雅，宗庙之音曰颂。”",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=3&rangeStart=1588&rangeEnd=1611",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=3&rangeStart=1588&rangeEnd=1611"
+    },
+    {
+      "bookmarkId": "31580169_3_3930-4000",
+      "chapterUid": 3,
+      "range": "3930-4000",
+      "markText": "首诗叙述一个女子和男方从恋爱、定约、结婚到受虐、被弃的过程，倾诉她悔恨交加的心情，反映了妇女被玩弄虐待，婚姻没有保障的悲惨命运和她们的不平。",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=3&rangeStart=3930&rangeEnd=4000",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=3&rangeStart=3930&rangeEnd=4000"
+    },
+    {
+      "bookmarkId": "31580169_6_2213-2229",
+      "chapterUid": 6,
+      "range": "2213-2229",
+      "markText": "这是一首描写蚕妇为公侯养蚕的诗。",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=6&rangeStart=2213&rangeEnd=2229",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=6&rangeStart=2213&rangeEnd=2229"
+    },
+    {
+      "bookmarkId": "31580169_6_20189-20256",
+      "chapterUid": 6,
+      "range": "20189-20256",
+      "markText": "当时有在仲春之月会男女的规定，凡男到三十岁未娶，女到二十岁未嫁的，都可借这机会选择对象，不必举行正式婚礼，就可同居。见《周礼·媒氏》。",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=6&rangeStart=20189&rangeEnd=20256",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=6&rangeStart=20189&rangeEnd=20256"
+    },
+    {
+      "bookmarkId": "31580169_3_2901-2942",
+      "chapterUid": 3,
+      "range": "2901-2942",
+      "markText": "《无衣》是秦襄公时的军中战歌。“岂曰无衣，与子同袍”，充满了慷慨激昂热情互助的气氛",
+      "totalCount": 60,
+      "appLink": "weread://bestbookmark?bookId=31580169&chapterUid=3&rangeStart=2901&rangeEnd=2942",
+      "webLink": "https://weread.qq.com/web/reader/4703254071e1e00947050bc?chapterUid=3&rangeStart=2901&rangeEnd=2942"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 23,
+    "chapterOffset": 202548,
+    "progress": 0,
+    "updateTime": 1767025191,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

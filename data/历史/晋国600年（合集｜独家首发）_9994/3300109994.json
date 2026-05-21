@@ -1,0 +1,3972 @@
+{
+  "meta": {
+    "bookId": "3300109994",
+    "title": "晋国600年（合集｜独家首发）",
+    "author": "韩鹏杰",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/83/cpplatform_o4mgfeh5t71nskvdeup1ky/t6_cpplatform_o4mgfeh5t71nskvdeup1ky1722838290.jpg",
+    "intro": "《晋国600年》分为四册，生动讲述了先秦时期晋国六百余年历史，厘清了晋国政治制度演变的逻辑，深刻剖析了晋国兴、盛、衰、亡的历史原因。作者立足于古籍史料，同时参考了历史学界的主流观点，绘声绘色地讲述了晋国权位之争、制度之变和春秋争霸故事，并常佐以精彩点评，以晋国的霸业兴衰为中心展现了春秋时期云谲波诡的历史画卷。",
+    "category": "历史-中国古代",
+    "publisher": "新世界出版社",
+    "publishTime": "2024-06-01 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 822,
+    "newRatingCount": 119,
+    "newRatingDetail": {
+      "good": 100,
+      "fair": 13,
+      "poor": 6,
+      "recent": 3,
+      "deepV": 79,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300109994",
+    "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db",
+    "lastSync": "2026-05-21T11:48:53Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 0,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "ab83b733b4c95ae52ec1d870f1ea8f44eaf62560829d3fac7c14c11c5462b890"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 83,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "晋国600年1：周礼秩序的解构与重构",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 128,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第一章 从桐叶传说到曲沃代翼",
+      "level": 2,
+      "wordCount": 15565,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 晋国初立",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        },
+        {
+          "title": "剪桐封弟",
+          "anchor": "sigil_toc_id_2",
+          "level": 4
+        },
+        {
+          "title": "童话辨伪",
+          "anchor": "sigil_toc_id_3",
+          "level": 4
+        },
+        {
+          "title": "周公东征",
+          "anchor": "sigil_toc_id_4",
+          "level": 4
+        },
+        {
+          "title": "营建东都",
+          "anchor": "sigil_toc_id_5",
+          "level": 4
+        },
+        {
+          "title": "以藩屏周",
+          "anchor": "sigil_toc_id_6",
+          "level": 4
+        },
+        {
+          "title": "制礼作乐",
+          "anchor": "sigil_toc_id_7",
+          "level": 4
+        },
+        {
+          "title": "唐国古史",
+          "anchor": "sigil_toc_id_8",
+          "level": 4
+        },
+        {
+          "title": "童话因辨",
+          "anchor": "sigil_toc_id_9",
+          "level": 4
+        },
+        {
+          "title": "叔虞封唐",
+          "anchor": "sigil_toc_id_10",
+          "level": 4
+        },
+        {
+          "title": "改唐为晋",
+          "anchor": "sigil_toc_id_11",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第二节 文侯始兴",
+      "level": 3,
+      "wordCount": 6772,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "骊山烽火",
+          "anchor": "sigil_toc_id_12",
+          "level": 4
+        },
+        {
+          "title": "平王东迁",
+          "anchor": "sigil_toc_id_13",
+          "level": 4
+        },
+        {
+          "title": "文侯之命",
+          "anchor": "sigil_toc_id_14",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第三节 曲沃代翼",
+      "level": 3,
+      "wordCount": 11639,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "晋乱肇始",
+          "anchor": "sigil_toc_id_15",
+          "level": 4
+        },
+        {
+          "title": "乱在曲沃",
+          "anchor": "sigil_toc_id_16",
+          "level": 4
+        },
+        {
+          "title": "出师未捷",
+          "anchor": "sigil_toc_id_17",
+          "level": 4
+        },
+        {
+          "title": "功败垂成",
+          "anchor": "sigil_toc_id_18",
+          "level": 4
+        },
+        {
+          "title": "周郑交恶",
+          "anchor": "sigil_toc_id_19",
+          "level": 4
+        },
+        {
+          "title": "池鱼之殃",
+          "anchor": "sigil_toc_id_20",
+          "level": 4
+        },
+        {
+          "title": "径庭之战",
+          "anchor": "sigil_toc_id_21",
+          "level": 4
+        },
+        {
+          "title": "战略转变",
+          "anchor": "sigil_toc_id_22",
+          "level": 4
+        },
+        {
+          "title": "晋国归一",
+          "anchor": "sigil_toc_id_23",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第二章 并国十七，服国三十八",
+      "level": 2,
+      "wordCount": 4074,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 开疆拓土",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "成周之行",
+          "anchor": "sigil_toc_id_25",
+          "level": 4
+        },
+        {
+          "title": "广莫为都",
+          "anchor": "sigil_toc_id_26",
+          "level": 4
+        },
+        {
+          "title": "兴灭继绝",
+          "anchor": "sigil_toc_id_27",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第二节 辟土服远",
+      "level": 3,
+      "wordCount": 2973,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "兼并诸侯",
+          "anchor": "sigil_toc_id_28",
+          "level": 4
+        },
+        {
+          "title": "伐霍魏耿",
+          "anchor": "sigil_toc_id_29",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第三节 假道伐虢",
+      "level": 3,
+      "wordCount": 12601,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "虢国史略",
+          "anchor": "sigil_toc_id_30",
+          "level": 4
+        },
+        {
+          "title": "神降于莘",
+          "anchor": "sigil_toc_id_31",
+          "level": 4
+        },
+        {
+          "title": "虢公贺鬼",
+          "anchor": "sigil_toc_id_32",
+          "level": 4
+        },
+        {
+          "title": "虞国简史",
+          "anchor": "sigil_toc_id_33",
+          "level": 4
+        },
+        {
+          "title": "荀息献计",
+          "anchor": "sigil_toc_id_34",
+          "level": 4
+        },
+        {
+          "title": "伐虢灭虞",
+          "anchor": "sigil_toc_id_35",
+          "level": 4
+        },
+        {
+          "title": "所谓忠信",
+          "anchor": "sigil_toc_id_36",
+          "level": 4
+        },
+        {
+          "title": "献公功业",
+          "anchor": "sigil_toc_id_37",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第三章 “国无公族”制度的成型",
+      "level": 2,
+      "wordCount": 3652,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 手足相残",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "献公之忧",
+          "anchor": "sigil_toc_id_39",
+          "level": 4
+        },
+        {
+          "title": "士蒍之计",
+          "anchor": "sigil_toc_id_40",
+          "level": 4
+        },
+        {
+          "title": "聚邑之围",
+          "anchor": "sigil_toc_id_41",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第二节 风波初起",
+      "level": 3,
+      "wordCount": 7696,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "献公私情",
+          "anchor": "sigil_toc_id_42",
+          "level": 4
+        },
+        {
+          "title": "卜史之忧",
+          "anchor": "sigil_toc_id_43",
+          "level": 4
+        },
+        {
+          "title": "轻阴乍起",
+          "anchor": "sigil_toc_id_44",
+          "level": 4
+        },
+        {
+          "title": "一国三公",
+          "anchor": "sigil_toc_id_45",
+          "level": 4
+        },
+        {
+          "title": "君臣之义",
+          "anchor": "sigil_toc_id_46",
+          "level": 4
+        },
+        {
+          "title": "蒸礼风波",
+          "anchor": "sigil_toc_id_47",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第三节 父子离心",
+      "level": 3,
+      "wordCount": 8215,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "太子为卿",
+          "anchor": "sigil_toc_id_48",
+          "level": 4
+        },
+        {
+          "title": "谗言弥兴",
+          "anchor": "sigil_toc_id_49",
+          "level": 4
+        },
+        {
+          "title": "骊姬夜哭",
+          "anchor": "sigil_toc_id_50",
+          "level": 4
+        },
+        {
+          "title": "偏衣金玦",
+          "anchor": "sigil_toc_id_51",
+          "level": 4
+        },
+        {
+          "title": "出征东山",
+          "anchor": "sigil_toc_id_52",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第四节 骊姬之乱",
+      "level": 3,
+      "wordCount": 10811,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "暗潮汹涌",
+          "anchor": "sigil_toc_id_53",
+          "level": 4
+        },
+        {
+          "title": "心意难平",
+          "anchor": "sigil_toc_id_54",
+          "level": 4
+        },
+        {
+          "title": "里克中立",
+          "anchor": "sigil_toc_id_55",
+          "level": 4
+        },
+        {
+          "title": "祠而归福",
+          "anchor": "sigil_toc_id_56",
+          "level": 4
+        },
+        {
+          "title": "太子受诬",
+          "anchor": "sigil_toc_id_57",
+          "level": 4
+        },
+        {
+          "title": "杀身成仁",
+          "anchor": "sigil_toc_id_58",
+          "level": 4
+        },
+        {
+          "title": "新城雪月",
+          "anchor": "sigil_toc_id_59",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第五节 祸起何处",
+      "level": 3,
+      "wordCount": 6004,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "祸水之源",
+          "anchor": "sigil_toc_id_60",
+          "level": 4
+        },
+        {
+          "title": "观念之争",
+          "anchor": "sigil_toc_id_61",
+          "level": 4
+        },
+        {
+          "title": "献公遗恨",
+          "anchor": "sigil_toc_id_62",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第四章 “五世昏乱”与“秦晋之好”",
+      "level": 2,
+      "wordCount": 12978,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 二子争政",
+          "anchor": "sigil_toc_id_63",
+          "level": 3
+        },
+        {
+          "title": "里克之乱",
+          "anchor": "sigil_toc_id_64",
+          "level": 4
+        },
+        {
+          "title": "柏谷之谋",
+          "anchor": "sigil_toc_id_65",
+          "level": 4
+        },
+        {
+          "title": "夷吾奔梁",
+          "anchor": "sigil_toc_id_66",
+          "level": 4
+        },
+        {
+          "title": "信仁为亲",
+          "anchor": "sigil_toc_id_67",
+          "level": 4
+        },
+        {
+          "title": "崤函谷地",
+          "anchor": "sigil_toc_id_68",
+          "level": 4
+        },
+        {
+          "title": "尘埃落定",
+          "anchor": "sigil_toc_id_69",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第二节 惠公当国",
+      "level": 3,
+      "wordCount": 6129,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "欲加之罪",
+          "anchor": "sigil_toc_id_70",
+          "level": 4
+        },
+        {
+          "title": "丕郑之死",
+          "anchor": "sigil_toc_id_71",
+          "level": 4
+        },
+        {
+          "title": "初入中原",
+          "anchor": "sigil_toc_id_72",
+          "level": 4
+        },
+        {
+          "title": "泛舟之役",
+          "anchor": "sigil_toc_id_73",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第三节 韩原之战",
+      "level": 3,
+      "wordCount": 8130,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "山雨欲来",
+          "anchor": "sigil_toc_id_74",
+          "level": 4
+        },
+        {
+          "title": "幸而得囚",
+          "anchor": "sigil_toc_id_75",
+          "level": 4
+        },
+        {
+          "title": "惠公被俘",
+          "anchor": "sigil_toc_id_76",
+          "level": 4
+        },
+        {
+          "title": "狐氏妖梦",
+          "anchor": "sigil_toc_id_77",
+          "level": 4
+        },
+        {
+          "title": "归君质子",
+          "anchor": "sigil_toc_id_78",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第四节 惠公之惠",
+      "level": 3,
+      "wordCount": 8796,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "朝于国人",
+          "anchor": "sigil_toc_id_79",
+          "level": 4
+        },
+        {
+          "title": "王城之盟",
+          "anchor": "sigil_toc_id_80",
+          "level": 4
+        },
+        {
+          "title": "庆郑之死",
+          "anchor": "sigil_toc_id_81",
+          "level": 4
+        },
+        {
+          "title": "惠公施政",
+          "anchor": "sigil_toc_id_82",
+          "level": 4
+        },
+        {
+          "title": "陆浑之戎",
+          "anchor": "sigil_toc_id_83",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第五章 晋文公流亡之路与称霸前的列国局势",
+      "level": 2,
+      "wordCount": 4378,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 备尝艰辛",
+          "anchor": "sigil_toc_id_84",
+          "level": 3
+        },
+        {
+          "title": "渭水惊魂",
+          "anchor": "sigil_toc_id_85",
+          "level": 4
+        },
+        {
+          "title": "五鹿获土",
+          "anchor": "sigil_toc_id_86",
+          "level": 4
+        },
+        {
+          "title": "信任危机",
+          "anchor": "sigil_toc_id_87",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第二节 中原乱象",
+      "level": 3,
+      "wordCount": 2262,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "齐桓之死",
+          "anchor": "sigil_toc_id_88",
+          "level": 4
+        },
+        {
+          "title": "宋襄图霸",
+          "anchor": "sigil_toc_id_89",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第三节 周游列国",
+      "level": 3,
+      "wordCount": 8125,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "乐不思归",
+          "anchor": "sigil_toc_id_90",
+          "level": 4
+        },
+        {
+          "title": "重瞳骈胁",
+          "anchor": "sigil_toc_id_91",
+          "level": 4
+        },
+        {
+          "title": "焉能尽礼",
+          "anchor": "sigil_toc_id_92",
+          "level": 4
+        },
+        {
+          "title": "君明臣贤",
+          "anchor": "sigil_toc_id_93",
+          "level": 4
+        },
+        {
+          "title": "无以为报",
+          "anchor": "sigil_toc_id_94",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第四节 终成夙愿",
+      "level": 3,
+      "wordCount": 7604,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "怀公乱政",
+          "anchor": "sigil_toc_id_95",
+          "level": 4
+        },
+        {
+          "title": "生死一线",
+          "anchor": "sigil_toc_id_96",
+          "level": 4
+        },
+        {
+          "title": "婚媾怀嬴",
+          "anchor": "sigil_toc_id_97",
+          "level": 4
+        },
+        {
+          "title": "朝堂歌礼",
+          "anchor": "sigil_toc_id_98",
+          "level": 4
+        },
+        {
+          "title": "终成夙愿",
+          "anchor": "sigil_toc_id_99",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第六章 周礼保守主义的复兴和晋文公改革",
+      "level": 2,
+      "wordCount": 5159,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 危机四伏",
+          "anchor": "sigil_toc_id_100",
+          "level": 3
+        },
+        {
+          "title": "火烧公宫",
+          "anchor": "sigil_toc_id_101",
+          "level": 4
+        },
+        {
+          "title": "纳投名状",
+          "anchor": "sigil_toc_id_102",
+          "level": 4
+        },
+        {
+          "title": "物是人非",
+          "anchor": "sigil_toc_id_103",
+          "level": 4
+        },
+        {
+          "title": "社稷之守",
+          "anchor": "sigil_toc_id_104",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第二节 问诊国策",
+      "level": 3,
+      "wordCount": 9448,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "寻问根由",
+          "anchor": "sigil_toc_id_105",
+          "level": 4
+        },
+        {
+          "title": "献惠改革",
+          "anchor": "sigil_toc_id_106",
+          "level": 4
+        },
+        {
+          "title": "为君之道",
+          "anchor": "sigil_toc_id_107",
+          "level": 4
+        },
+        {
+          "title": "爱有差等",
+          "anchor": "sigil_toc_id_108",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第三节 渐进改革",
+      "level": 3,
+      "wordCount": 15035,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "郭偃之法",
+          "anchor": "sigil_toc_id_109",
+          "level": 4
+        },
+        {
+          "title": "经济改革",
+          "anchor": "sigil_toc_id_110",
+          "level": 4
+        },
+        {
+          "title": "严明法纪",
+          "anchor": "sigil_toc_id_111",
+          "level": 4
+        },
+        {
+          "title": "官方定物",
+          "anchor": "sigil_toc_id_112",
+          "level": 4
+        },
+        {
+          "title": "正名育类",
+          "anchor": "sigil_toc_id_113",
+          "level": 4
+        },
+        {
+          "title": "被庐之蒐",
+          "anchor": "sigil_toc_id_114",
+          "level": 4
+        },
+        {
+          "title": "举善援能",
+          "anchor": "sigil_toc_id_115",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "附录",
+      "level": 2,
+      "wordCount": 70,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "晋国600年2：中原霸权的兴盛与衰落",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 128,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第一章 城濮之战与践土会盟",
+      "level": 2,
+      "wordCount": 4207,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 东出中原",
+          "anchor": "sigil_toc_id_116",
+          "level": 3
+        },
+        {
+          "title": "报施救患",
+          "anchor": "sigil_toc_id_117",
+          "level": 4
+        },
+        {
+          "title": "侵曹伐卫",
+          "anchor": "sigil_toc_id_118",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "第二节 城濮之战",
+      "level": 3,
+      "wordCount": 7945,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "子玉其人",
+          "anchor": "sigil_toc_id_119",
+          "level": 4
+        },
+        {
+          "title": "战前斗智",
+          "anchor": "sigil_toc_id_120",
+          "level": 4
+        },
+        {
+          "title": "退避三舍",
+          "anchor": "sigil_toc_id_121",
+          "level": 4
+        },
+        {
+          "title": "临战心怯",
+          "anchor": "sigil_toc_id_122",
+          "level": 4
+        },
+        {
+          "title": "出奇制胜",
+          "anchor": "sigil_toc_id_123",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第三节 践土会盟",
+      "level": 3,
+      "wordCount": 8286,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "人莫予毒",
+          "anchor": "sigil_toc_id_124",
+          "level": 4
+        },
+        {
+          "title": "大义勤王",
+          "anchor": "sigil_toc_id_125",
+          "level": 4
+        },
+        {
+          "title": "始启南阳",
+          "anchor": "sigil_toc_id_126",
+          "level": 4
+        },
+        {
+          "title": "以臣召君",
+          "anchor": "sigil_toc_id_127",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第四节 重整山河",
+      "level": 3,
+      "wordCount": 8552,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "所谓外主",
+          "anchor": "sigil_toc_id_128",
+          "level": 4
+        },
+        {
+          "title": "围许伐郑",
+          "anchor": "sigil_toc_id_129",
+          "level": 4
+        },
+        {
+          "title": "元咺之讼",
+          "anchor": "sigil_toc_id_130",
+          "level": 4
+        },
+        {
+          "title": "恩威并施",
+          "anchor": "sigil_toc_id_131",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第二章 “秦晋之好”神话的彻底破灭",
+      "level": 2,
+      "wordCount": 12700,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 秦晋决裂",
+          "anchor": "sigil_toc_id_132",
+          "level": 3
+        },
+        {
+          "title": "穆公背盟",
+          "anchor": "sigil_toc_id_133",
+          "level": 4
+        },
+        {
+          "title": "弦高犒师",
+          "anchor": "sigil_toc_id_134",
+          "level": 4
+        },
+        {
+          "title": "地缘冲突",
+          "anchor": "sigil_toc_id_135",
+          "level": 4
+        },
+        {
+          "title": "郭偃之谋",
+          "anchor": "sigil_toc_id_136",
+          "level": 4
+        },
+        {
+          "title": "崤山血雨",
+          "anchor": "sigil_toc_id_137",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第二节 穆公幻灭",
+      "level": 3,
+      "wordCount": 4717,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "拜赐之师",
+          "anchor": "sigil_toc_id_138",
+          "level": 4
+        },
+        {
+          "title": "穷寇勿迫",
+          "anchor": "sigil_toc_id_139",
+          "level": 4
+        },
+        {
+          "title": "英雄遗恨",
+          "anchor": "sigil_toc_id_140",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "第三节 夷董之",
+      "level": 3,
+      "wordCount": 6564,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "太傅矫命",
+          "anchor": "sigil_toc_id_141",
+          "level": 4
+        },
+        {
+          "title": "重耳情史",
+          "anchor": "sigil_toc_id_142",
+          "level": 4
+        },
+        {
+          "title": "狐赵之争",
+          "anchor": "sigil_toc_id_143",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "第四节 再起波澜",
+      "level": 3,
+      "wordCount": 5867,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "令狐之战",
+          "anchor": "sigil_toc_id_144",
+          "level": 4
+        },
+        {
+          "title": "河曲之战",
+          "anchor": "sigil_toc_id_145",
+          "level": 4
+        },
+        {
+          "title": "封堵政策",
+          "anchor": "sigil_toc_id_146",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "第三章 晋国的中原霸业中衰",
+      "level": 2,
+      "wordCount": 9181,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 无为霸主",
+          "anchor": "sigil_toc_id_147",
+          "level": 3
+        },
+        {
+          "title": "襄公霸业",
+          "anchor": "sigil_toc_id_148",
+          "level": 4
+        },
+        {
+          "title": "泜水诓敌",
+          "anchor": "sigil_toc_id_149",
+          "level": 4
+        },
+        {
+          "title": "商臣弑父",
+          "anchor": "sigil_toc_id_150",
+          "level": 4
+        },
+        {
+          "title": "结好诸侯",
+          "anchor": "sigil_toc_id_151",
+          "level": 4
+        },
+        {
+          "title": "伐宋无果",
+          "anchor": "sigil_toc_id_152",
+          "level": 4
+        },
+        {
+          "title": "讨齐无功",
+          "anchor": "sigil_toc_id_153",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "第二节 问鼎中原",
+      "level": 3,
+      "wordCount": 10526,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一鸣惊人",
+          "anchor": "sigil_toc_id_154",
+          "level": 4
+        },
+        {
+          "title": "皋浒之战",
+          "anchor": "sigil_toc_id_155",
+          "level": 4
+        },
+        {
+          "title": "郑国叛晋",
+          "anchor": "sigil_toc_id_156",
+          "level": 4
+        },
+        {
+          "title": "观兵周疆",
+          "anchor": "sigil_toc_id_157",
+          "level": 4
+        },
+        {
+          "title": "国人大临",
+          "anchor": "sigil_toc_id_158",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "第三节 战云密布",
+      "level": 3,
+      "wordCount": 6373,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "先縠违命",
+          "anchor": "sigil_toc_id_159",
+          "level": 4
+        },
+        {
+          "title": "皇戌劝战",
+          "anchor": "sigil_toc_id_160",
+          "level": 4
+        },
+        {
+          "title": "战和不定",
+          "anchor": "sigil_toc_id_161",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "第四节 两棠之役",
+      "level": 3,
+      "wordCount": 5322,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "不宣而战",
+          "anchor": "sigil_toc_id_162",
+          "level": 4
+        },
+        {
+          "title": "断指可掬",
+          "anchor": "sigil_toc_id_163",
+          "level": 4
+        },
+        {
+          "title": "君子之风",
+          "anchor": "sigil_toc_id_164",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "第四章 齐楚联盟对晋国的挑战",
+      "level": 2,
+      "wordCount": 5924,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 忍辱负重",
+          "anchor": "sigil_toc_id_165",
+          "level": 3
+        },
+        {
+          "title": "郤克受辱",
+          "anchor": "sigil_toc_id_166",
+          "level": 4
+        },
+        {
+          "title": "九月围城",
+          "anchor": "sigil_toc_id_167",
+          "level": 4
+        },
+        {
+          "title": "伐灭赤狄",
+          "anchor": "sigil_toc_id_168",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "第二节 晋齐首战",
+      "level": 3,
+      "wordCount": 9506,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "齐顷图霸",
+          "anchor": "sigil_toc_id_169",
+          "level": 4
+        },
+        {
+          "title": "断道之会",
+          "anchor": "sigil_toc_id_170",
+          "level": 4
+        },
+        {
+          "title": "联军伐齐",
+          "anchor": "sigil_toc_id_171",
+          "level": 4
+        },
+        {
+          "title": "韩厥建功",
+          "anchor": "sigil_toc_id_172",
+          "level": 4
+        },
+        {
+          "title": "爰娄之盟",
+          "anchor": "sigil_toc_id_173",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "第三节 信任危机",
+      "level": 3,
+      "wordCount": 4828,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "蜀地匮盟",
+          "anchor": "sigil_toc_id_174",
+          "level": 4
+        },
+        {
+          "title": "收服郑国",
+          "anchor": "sigil_toc_id_175",
+          "level": 4
+        },
+        {
+          "title": "政令不一",
+          "anchor": "sigil_toc_id_176",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "第五章 从第一次弭兵会盟到鄢陵之战",
+      "level": 2,
+      "wordCount": 5203,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 华元弭兵",
+          "anchor": "sigil_toc_id_177",
+          "level": 3
+        },
+        {
+          "title": "好恶同之",
+          "anchor": "sigil_toc_id_178",
+          "level": 4
+        },
+        {
+          "title": "南冠楚囚",
+          "anchor": "sigil_toc_id_179",
+          "level": 4
+        },
+        {
+          "title": "接力促和",
+          "anchor": "sigil_toc_id_180",
+          "level": 4
+        },
+        {
+          "title": "郤至使楚",
+          "anchor": "sigil_toc_id_181",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "第二节 联吴制楚",
+      "level": 3,
+      "wordCount": 6898,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "夏姬绯闻",
+          "anchor": "sigil_toc_id_182",
+          "level": 4
+        },
+        {
+          "title": "巫臣叛楚",
+          "anchor": "sigil_toc_id_183",
+          "level": 4
+        },
+        {
+          "title": "楚国内争",
+          "anchor": "sigil_toc_id_184",
+          "level": 4
+        },
+        {
+          "title": "凿通勾吴",
+          "anchor": "sigil_toc_id_185",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "第三节 战云纷飞",
+      "level": 3,
+      "wordCount": 5443,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "吕相绝秦",
+          "anchor": "sigil_toc_id_186",
+          "level": 4
+        },
+        {
+          "title": "子反背盟",
+          "anchor": "sigil_toc_id_187",
+          "level": 4
+        },
+        {
+          "title": "战火复燃",
+          "anchor": "sigil_toc_id_188",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "第四节 鄢陵之战",
+      "level": 3,
+      "wordCount": 6149,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "楚有六间",
+          "anchor": "sigil_toc_id_189",
+          "level": 4
+        },
+        {
+          "title": "巢车对答",
+          "anchor": "sigil_toc_id_190",
+          "level": 4
+        },
+        {
+          "title": "好整以暇",
+          "anchor": "sigil_toc_id_191",
+          "level": 4
+        },
+        {
+          "title": "魏锜射月",
+          "anchor": "sigil_toc_id_192",
+          "level": 4
+        },
+        {
+          "title": "楚军夜遁",
+          "anchor": "sigil_toc_id_193",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "第六章 从悼公复霸到第二次弭兵会盟",
+      "level": 2,
+      "wordCount": 9518,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 复霸战略",
+          "anchor": "sigil_toc_id_194",
+          "level": 3
+        },
+        {
+          "title": "巩固宋盟",
+          "anchor": "sigil_toc_id_195",
+          "level": 4
+        },
+        {
+          "title": "安抚鲁国",
+          "anchor": "sigil_toc_id_196",
+          "level": 4
+        },
+        {
+          "title": "胁齐入盟",
+          "anchor": "sigil_toc_id_197",
+          "level": 4
+        },
+        {
+          "title": "吴入夏盟",
+          "anchor": "sigil_toc_id_198",
+          "level": 4
+        },
+        {
+          "title": "魏绛和戎",
+          "anchor": "sigil_toc_id_199",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "第二节 疲楚复霸",
+      "level": 3,
+      "wordCount": 11043,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "服郑安陈",
+          "anchor": "sigil_toc_id_200",
+          "level": 4
+        },
+        {
+          "title": "郑人背盟",
+          "anchor": "sigil_toc_id_201",
+          "level": 4
+        },
+        {
+          "title": "无信之盟",
+          "anchor": "sigil_toc_id_202",
+          "level": 4
+        },
+        {
+          "title": "战时经济",
+          "anchor": "sigil_toc_id_203",
+          "level": 4
+        },
+        {
+          "title": "郑国盗乱",
+          "anchor": "sigil_toc_id_204",
+          "level": 4
+        },
+        {
+          "title": "萧鱼之盟",
+          "anchor": "sigil_toc_id_205",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "第三节 晋齐争锋",
+      "level": 3,
+      "wordCount": 12172,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "迁延之役",
+          "anchor": "sigil_toc_id_206",
+          "level": 4
+        },
+        {
+          "title": "梁之会",
+          "anchor": "sigil_toc_id_207",
+          "level": 4
+        },
+        {
+          "title": "湛阪之战",
+          "anchor": "sigil_toc_id_208",
+          "level": 4
+        },
+        {
+          "title": "荀偃梦讼",
+          "anchor": "sigil_toc_id_209",
+          "level": 4
+        },
+        {
+          "title": "平阴之战",
+          "anchor": "sigil_toc_id_210",
+          "level": 4
+        },
+        {
+          "title": "齐国内争",
+          "anchor": "sigil_toc_id_211",
+          "level": 4
+        },
+        {
+          "title": "齐人伐晋",
+          "anchor": "sigil_toc_id_212",
+          "level": 4
+        },
+        {
+          "title": "崔杼弑君",
+          "anchor": "sigil_toc_id_213",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "第四节 弭兵终战",
+      "level": 3,
+      "wordCount": 10087,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "重建互信",
+          "anchor": "sigil_toc_id_214",
+          "level": 4
+        },
+        {
+          "title": "康王治政",
+          "anchor": "sigil_toc_id_215",
+          "level": 4
+        },
+        {
+          "title": "楚才晋用",
+          "anchor": "sigil_toc_id_216",
+          "level": 4
+        },
+        {
+          "title": "齐集商丘",
+          "anchor": "sigil_toc_id_217",
+          "level": 4
+        },
+        {
+          "title": "晋楚争盟",
+          "anchor": "sigil_toc_id_218",
+          "level": 4
+        },
+        {
+          "title": "未来可忧",
+          "anchor": "sigil_toc_id_219",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "附录",
+      "level": 2,
+      "wordCount": 45,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "晋国600年3：封建危机的形成与爆发",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 128,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "第一章 嬴姓赵氏在晋国的兴起",
+      "level": 2,
+      "wordCount": 6856,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 赵氏孤儿",
+          "anchor": "sigil_toc_id_220",
+          "level": 3
+        },
+        {
+          "title": "故事缘起",
+          "anchor": "sigil_toc_id_221",
+          "level": 4
+        },
+        {
+          "title": "天不绝赵",
+          "anchor": "sigil_toc_id_222",
+          "level": 4
+        },
+        {
+          "title": "舍生取义",
+          "anchor": "sigil_toc_id_223",
+          "level": 4
+        },
+        {
+          "title": "离合悲欢",
+          "anchor": "sigil_toc_id_224",
+          "level": 4
+        },
+        {
+          "title": "事件溯源",
+          "anchor": "sigil_toc_id_225",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "第二节 冬日之日",
+      "level": 3,
+      "wordCount": 9362,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "赵氏族源",
+          "anchor": "sigil_toc_id_226",
+          "level": 4
+        },
+        {
+          "title": "仕晋历程",
+          "anchor": "sigil_toc_id_227",
+          "level": 4
+        },
+        {
+          "title": "结好先氏",
+          "anchor": "sigil_toc_id_228",
+          "level": 4
+        },
+        {
+          "title": "扶助郤氏",
+          "anchor": "sigil_toc_id_229",
+          "level": 4
+        },
+        {
+          "title": "施恩韩氏",
+          "anchor": "sigil_toc_id_230",
+          "level": 4
+        },
+        {
+          "title": "拔擢阳氏",
+          "anchor": "sigil_toc_id_231",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "第三节 夏日之日",
+      "level": 3,
+      "wordCount": 11152,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "军功阶层",
+          "anchor": "sigil_toc_id_232",
+          "level": 4
+        },
+        {
+          "title": "赵盾秉政",
+          "anchor": "sigil_toc_id_233",
+          "level": 4
+        },
+        {
+          "title": "荀氏简史",
+          "anchor": "sigil_toc_id_234",
+          "level": 4
+        },
+        {
+          "title": "比而不党",
+          "anchor": "sigil_toc_id_235",
+          "level": 4
+        },
+        {
+          "title": "诸浮会议",
+          "anchor": "sigil_toc_id_236",
+          "level": 4
+        },
+        {
+          "title": "计赚士会",
+          "anchor": "sigil_toc_id_237",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "第二章 世卿世禄制的形成与危机",
+      "level": 2,
+      "wordCount": 8413,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 赵盾弑君",
+          "anchor": "sigil_toc_id_238",
+          "level": 3
+        },
+        {
+          "title": "宫廷夜宴",
+          "anchor": "sigil_toc_id_239",
+          "level": 4
+        },
+        {
+          "title": "董狐直笔",
+          "anchor": "sigil_toc_id_240",
+          "level": 4
+        },
+        {
+          "title": "弑君有理",
+          "anchor": "sigil_toc_id_241",
+          "level": 4
+        },
+        {
+          "title": "灵公不君",
+          "anchor": "sigil_toc_id_242",
+          "level": 4
+        },
+        {
+          "title": "诿过于君",
+          "anchor": "sigil_toc_id_243",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "第二节 世卿世禄",
+      "level": 3,
+      "wordCount": 7592,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "成公归国",
+          "anchor": "sigil_toc_id_244",
+          "level": 4
+        },
+        {
+          "title": "晋之乱制",
+          "anchor": "sigil_toc_id_245",
+          "level": 4
+        },
+        {
+          "title": "重建公族",
+          "anchor": "sigil_toc_id_246",
+          "level": 4
+        },
+        {
+          "title": "卿位世袭",
+          "anchor": "sigil_toc_id_247",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "第三节 景公治政",
+      "level": 3,
+      "wordCount": 11385,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "世卿危机",
+          "anchor": "sigil_toc_id_248",
+          "level": 4
+        },
+        {
+          "title": "赏善罚恶",
+          "anchor": "sigil_toc_id_249",
+          "level": 4
+        },
+        {
+          "title": "士会修法",
+          "anchor": "sigil_toc_id_250",
+          "level": 4
+        },
+        {
+          "title": "韬晦哲学",
+          "anchor": "sigil_toc_id_251",
+          "level": 4
+        },
+        {
+          "title": "执政方阵",
+          "anchor": "sigil_toc_id_252",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "第三章 下宫之役探微",
+      "level": 2,
+      "wordCount": 5126,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 赵氏内忧",
+          "anchor": "sigil_toc_id_253",
+          "level": 3
+        },
+        {
+          "title": "原同屏括",
+          "anchor": "sigil_toc_id_254",
+          "level": 4
+        },
+        {
+          "title": "宗主之争",
+          "anchor": "sigil_toc_id_255",
+          "level": 4
+        },
+        {
+          "title": "东窗事发",
+          "anchor": "sigil_toc_id_256",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "第二节 下宫之役",
+      "level": 3,
+      "wordCount": 7942,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "栾书为政",
+          "anchor": "sigil_toc_id_257",
+          "level": 4
+        },
+        {
+          "title": "郤克之愿",
+          "anchor": "sigil_toc_id_258",
+          "level": 4
+        },
+        {
+          "title": "迁都新田",
+          "anchor": "sigil_toc_id_259",
+          "level": 4
+        },
+        {
+          "title": "革弊布新",
+          "anchor": "sigil_toc_id_260",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "第三节 景公之死",
+      "level": 3,
+      "wordCount": 4043,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "赵武继禄",
+          "anchor": "sigil_toc_id_261",
+          "level": 4
+        },
+        {
+          "title": "甸人献麦",
+          "anchor": "sigil_toc_id_262",
+          "level": 4
+        },
+        {
+          "title": "陷厕而卒",
+          "anchor": "sigil_toc_id_263",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "第四章 车辕之役与晋厉公之死",
+      "level": 2,
+      "wordCount": 9224,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 车辕之役",
+          "anchor": "sigil_toc_id_264",
+          "level": 3
+        },
+        {
+          "title": "士燮之忧",
+          "anchor": "sigil_toc_id_265",
+          "level": 4
+        },
+        {
+          "title": "德不配位",
+          "anchor": "sigil_toc_id_266",
+          "level": 4
+        },
+        {
+          "title": "一家三卿",
+          "anchor": "sigil_toc_id_267",
+          "level": 4
+        },
+        {
+          "title": "猎杀三郤",
+          "anchor": "sigil_toc_id_268",
+          "level": 4
+        },
+        {
+          "title": "厉公之死",
+          "anchor": "sigil_toc_id_269",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "第二节 三郤之罪",
+      "level": 3,
+      "wordCount": 6286,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "伯宗之死",
+          "anchor": "sigil_toc_id_270",
+          "level": 4
+        },
+        {
+          "title": "赵文子冠",
+          "anchor": "sigil_toc_id_271",
+          "level": 4
+        },
+        {
+          "title": "悲情管姜",
+          "anchor": "sigil_toc_id_272",
+          "level": 4
+        },
+        {
+          "title": "郤犨乱鲁",
+          "anchor": "sigil_toc_id_273",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "第三节 大预言家",
+      "level": 3,
+      "wordCount": 5868,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "勇而知礼",
+          "anchor": "sigil_toc_id_274",
+          "level": 4
+        },
+        {
+          "title": "民恶其上",
+          "anchor": "sigil_toc_id_275",
+          "level": 4
+        },
+        {
+          "title": "佻天不祥",
+          "anchor": "sigil_toc_id_276",
+          "level": 4
+        },
+        {
+          "title": "观容知心",
+          "anchor": "sigil_toc_id_277",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "第四节 内乱之源",
+      "level": 3,
+      "wordCount": 6646,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "姑成家父",
+          "anchor": "sigil_toc_id_278",
+          "level": 4
+        },
+        {
+          "title": "多怨有庸",
+          "anchor": "sigil_toc_id_279",
+          "level": 4
+        },
+        {
+          "title": "族大逼君",
+          "anchor": "sigil_toc_id_280",
+          "level": 4
+        },
+        {
+          "title": "制度之困",
+          "anchor": "sigil_toc_id_281",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "第五章 晋国诸卿利益格局重组",
+      "level": 2,
+      "wordCount": 7470,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 悼公新政",
+          "anchor": "sigil_toc_id_282",
+          "level": 3
+        },
+        {
+          "title": "先声夺人",
+          "anchor": "sigil_toc_id_283",
+          "level": 4
+        },
+        {
+          "title": "整饬卿制",
+          "anchor": "sigil_toc_id_284",
+          "level": 4
+        },
+        {
+          "title": "起用旧族",
+          "anchor": "sigil_toc_id_285",
+          "level": 4
+        },
+        {
+          "title": "修法论礼",
+          "anchor": "sigil_toc_id_286",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "第二节 世卿联盟",
+      "level": 3,
+      "wordCount": 7509,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刑善礼让",
+          "anchor": "sigil_toc_id_287",
+          "level": 4
+        },
+        {
+          "title": "祁姓范氏",
+          "anchor": "sigil_toc_id_288",
+          "level": 4
+        },
+        {
+          "title": "姬姓荀氏",
+          "anchor": "sigil_toc_id_289",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "第三节 新贵联盟",
+      "level": 3,
+      "wordCount": 5703,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "司马韩厥",
+          "anchor": "sigil_toc_id_290",
+          "level": 4
+        },
+        {
+          "title": "公族穆子",
+          "anchor": "sigil_toc_id_291",
+          "level": 4
+        },
+        {
+          "title": "韩起之谋",
+          "anchor": "sigil_toc_id_292",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "title": "第四节 互助联盟",
+      "level": 3,
+      "wordCount": 7771,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "公族栾氏",
+          "anchor": "sigil_toc_id_293",
+          "level": 4
+        },
+        {
+          "title": "四处树敌",
+          "anchor": "sigil_toc_id_294",
+          "level": 4
+        },
+        {
+          "title": "知过不隐",
+          "anchor": "sigil_toc_id_295",
+          "level": 4
+        },
+        {
+          "title": "姬姓魏氏",
+          "anchor": "sigil_toc_id_296",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "title": "第五节 危机将至",
+      "level": 3,
+      "wordCount": 6003,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "周礼悖论",
+          "anchor": "sigil_toc_id_297",
+          "level": 4
+        },
+        {
+          "title": "卫人出君",
+          "anchor": "sigil_toc_id_298",
+          "level": 4
+        },
+        {
+          "title": "世家纷起",
+          "anchor": "sigil_toc_id_299",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 74,
+      "title": "第六章 封建制危机全面爆发",
+      "level": 2,
+      "wordCount": 9662,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 公族之觞",
+          "anchor": "sigil_toc_id_300",
+          "level": 3
+        },
+        {
+          "title": "众附亲离",
+          "anchor": "sigil_toc_id_301",
+          "level": 4
+        },
+        {
+          "title": "士匄其人",
+          "anchor": "sigil_toc_id_302",
+          "level": 4
+        },
+        {
+          "title": "去枝绝本",
+          "anchor": "sigil_toc_id_303",
+          "level": 4
+        },
+        {
+          "title": "安全声明",
+          "anchor": "sigil_toc_id_304",
+          "level": 4
+        },
+        {
+          "title": "禁锢栾氏",
+          "anchor": "sigil_toc_id_305",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=74"
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 75,
+      "title": "第二节 固宫之役",
+      "level": 3,
+      "wordCount": 7556,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "栾盈奔齐",
+          "anchor": "sigil_toc_id_306",
+          "level": 4
+        },
+        {
+          "title": "栾盈归晋",
+          "anchor": "sigil_toc_id_307",
+          "level": 4
+        },
+        {
+          "title": "拼死一搏",
+          "anchor": "sigil_toc_id_308",
+          "level": 4
+        },
+        {
+          "title": "死而不朽",
+          "anchor": "sigil_toc_id_309",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=75",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=75"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 76,
+      "title": "第三节 晋君少安",
+      "level": 3,
+      "wordCount": 12396,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "好营重赋",
+          "anchor": "sigil_toc_id_310",
+          "level": 4
+        },
+        {
+          "title": "好色荒淫",
+          "anchor": "sigil_toc_id_311",
+          "level": 4
+        },
+        {
+          "title": "靡靡之音",
+          "anchor": "sigil_toc_id_312",
+          "level": 4
+        },
+        {
+          "title": "好音穷身",
+          "anchor": "sigil_toc_id_313",
+          "level": 4
+        },
+        {
+          "title": "乐圣师旷",
+          "anchor": "sigil_toc_id_314",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 77,
+      "title": "第四节 大夫多求",
+      "level": 3,
+      "wordCount": 12351,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "以乐慆忧",
+          "anchor": "sigil_toc_id_315",
+          "level": 4
+        },
+        {
+          "title": "公室将卑",
+          "anchor": "sigil_toc_id_316",
+          "level": 4
+        },
+        {
+          "title": "古之遗直",
+          "anchor": "sigil_toc_id_317",
+          "level": 4
+        },
+        {
+          "title": "君子之交",
+          "anchor": "sigil_toc_id_318",
+          "level": 4
+        },
+        {
+          "title": "晋政多门",
+          "anchor": "sigil_toc_id_319",
+          "level": 4
+        },
+        {
+          "title": "司马叔齐",
+          "anchor": "sigil_toc_id_320",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 78,
+      "title": "第五节 英雄迟暮",
+      "level": 3,
+      "wordCount": 9837,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "九原问答",
+          "anchor": "sigil_toc_id_321",
+          "level": 4
+        },
+        {
+          "title": "往者可追",
+          "anchor": "sigil_toc_id_322",
+          "level": 4
+        },
+        {
+          "title": "不复此乐",
+          "anchor": "sigil_toc_id_323",
+          "level": 4
+        },
+        {
+          "title": "朝不及夕",
+          "anchor": "sigil_toc_id_324",
+          "level": 4
+        },
+        {
+          "title": "良臣将死",
+          "anchor": "sigil_toc_id_325",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 79,
+      "title": "附录",
+      "level": 2,
+      "wordCount": 247,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=79"
+    },
+    {
+      "chapterUid": 80,
+      "chapterIdx": 80,
+      "title": "晋国600年4：霸业秩序的消亡与重生",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=80",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=80"
+    },
+    {
+      "chapterUid": 81,
+      "chapterIdx": 81,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 128,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=81",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=81"
+    },
+    {
+      "chapterUid": 82,
+      "chapterIdx": 82,
+      "title": "第一章 晋国霸业的衰落",
+      "level": 2,
+      "wordCount": 14272,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 寻盟之会",
+          "anchor": "sigil_toc_id_326",
+          "level": 3
+        },
+        {
+          "title": "韩起出使",
+          "anchor": "sigil_toc_id_327",
+          "level": 4
+        },
+        {
+          "title": "郑人朝楚",
+          "anchor": "sigil_toc_id_328",
+          "level": 4
+        },
+        {
+          "title": "祓殡而襚",
+          "anchor": "sigil_toc_id_329",
+          "level": 4
+        },
+        {
+          "title": "东虢之会",
+          "anchor": "sigil_toc_id_330",
+          "level": 4
+        },
+        {
+          "title": "当璧犹在",
+          "anchor": "sigil_toc_id_331",
+          "level": 4
+        },
+        {
+          "title": "穆叔敬命",
+          "anchor": "sigil_toc_id_332",
+          "level": 4
+        },
+        {
+          "title": "令尹为王",
+          "anchor": "sigil_toc_id_333",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=82",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=82"
+    },
+    {
+      "chapterUid": 83,
+      "chapterIdx": 83,
+      "title": "第二节 晋政多门",
+      "level": 3,
+      "wordCount": 9395,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "韩起忧贫",
+          "anchor": "sigil_toc_id_334",
+          "level": 4
+        },
+        {
+          "title": "贪婪正卿",
+          "anchor": "sigil_toc_id_335",
+          "level": 4
+        },
+        {
+          "title": "晋齐联姻",
+          "anchor": "sigil_toc_id_336",
+          "level": 4
+        },
+        {
+          "title": "归戚于卫",
+          "anchor": "sigil_toc_id_337",
+          "level": 4
+        },
+        {
+          "title": "鲁莒纠纷",
+          "anchor": "sigil_toc_id_338",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=83",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=83"
+    },
+    {
+      "chapterUid": 84,
+      "chapterIdx": 84,
+      "title": "第三节 诸侯皆贰",
+      "level": 3,
+      "wordCount": 8752,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "征朝不时",
+          "anchor": "sigil_toc_id_339",
+          "level": 4
+        },
+        {
+          "title": "平公之丧",
+          "anchor": "sigil_toc_id_340",
+          "level": 4
+        },
+        {
+          "title": "与君代兴",
+          "anchor": "sigil_toc_id_341",
+          "level": 4
+        },
+        {
+          "title": "平丘会盟",
+          "anchor": "sigil_toc_id_342",
+          "level": 4
+        },
+        {
+          "title": "叔鱼之谋",
+          "anchor": "sigil_toc_id_343",
+          "level": 4
+        },
+        {
+          "title": "公室将卑",
+          "anchor": "sigil_toc_id_344",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=84",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=84"
+    },
+    {
+      "chapterUid": 85,
+      "chapterIdx": 85,
+      "title": "第二章 霸业秩序的合法性危机",
+      "level": 2,
+      "wordCount": 11613,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 楚国内乱",
+          "anchor": "sigil_toc_id_345",
+          "level": 3
+        },
+        {
+          "title": "申地之会",
+          "anchor": "sigil_toc_id_346",
+          "level": 4
+        },
+        {
+          "title": "韩起使楚",
+          "anchor": "sigil_toc_id_347",
+          "level": 4
+        },
+        {
+          "title": "楚王宏志",
+          "anchor": "sigil_toc_id_348",
+          "level": 4
+        },
+        {
+          "title": "伐灭陈蔡",
+          "anchor": "sigil_toc_id_349",
+          "level": 4
+        },
+        {
+          "title": "蔡公之乱",
+          "anchor": "sigil_toc_id_350",
+          "level": 4
+        },
+        {
+          "title": "楚不为患",
+          "anchor": "sigil_toc_id_351",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=85",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=85"
+    },
+    {
+      "chapterUid": 86,
+      "chapterIdx": 86,
+      "title": "第二节 无伯之害",
+      "level": 3,
+      "wordCount": 11387,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "鲁邾纠纷",
+          "anchor": "sigil_toc_id_352",
+          "level": 4
+        },
+        {
+          "title": "不以货免",
+          "anchor": "sigil_toc_id_353",
+          "level": 4
+        },
+        {
+          "title": "三桓出君",
+          "anchor": "sigil_toc_id_354",
+          "level": 4
+        },
+        {
+          "title": "天之弃鲁",
+          "anchor": "sigil_toc_id_355",
+          "level": 4
+        },
+        {
+          "title": "寄居乾侯",
+          "anchor": "sigil_toc_id_356",
+          "level": 4
+        },
+        {
+          "title": "客死异乡",
+          "anchor": "sigil_toc_id_357",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=86",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=86"
+    },
+    {
+      "chapterUid": 87,
+      "chapterIdx": 87,
+      "title": "第三节 霸政危机",
+      "level": 3,
+      "wordCount": 15008,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "东西二王",
+          "anchor": "sigil_toc_id_358",
+          "level": 4
+        },
+        {
+          "title": "黄父之会",
+          "anchor": "sigil_toc_id_359",
+          "level": 4
+        },
+        {
+          "title": "讨晋檄文",
+          "anchor": "sigil_toc_id_360",
+          "level": 4
+        },
+        {
+          "title": "晋为不道",
+          "anchor": "sigil_toc_id_361",
+          "level": 4
+        },
+        {
+          "title": "召陵之会",
+          "anchor": "sigil_toc_id_362",
+          "level": 4
+        },
+        {
+          "title": "吴军入郢",
+          "anchor": "sigil_toc_id_363",
+          "level": 4
+        },
+        {
+          "title": "方城之战",
+          "anchor": "sigil_toc_id_364",
+          "level": 4
+        },
+        {
+          "title": "盛极而衰",
+          "anchor": "sigil_toc_id_365",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=87",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=87"
+    },
+    {
+      "chapterUid": 88,
+      "chapterIdx": 88,
+      "title": "第三章 六卿瓜分公室与对外扩张的狂潮",
+      "level": 2,
+      "wordCount": 7636,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 荀吴伐狄",
+          "anchor": "sigil_toc_id_366",
+          "level": 3
+        },
+        {
+          "title": "毁车为行",
+          "anchor": "sigil_toc_id_367",
+          "level": 4
+        },
+        {
+          "title": "五伐鲜虞",
+          "anchor": "sigil_toc_id_368",
+          "level": 4
+        },
+        {
+          "title": "鼓国归属",
+          "anchor": "sigil_toc_id_369",
+          "level": 4
+        },
+        {
+          "title": "陆浑归晋",
+          "anchor": "sigil_toc_id_370",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=88",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=88"
+    },
+    {
+      "chapterUid": 89,
+      "chapterIdx": 89,
+      "title": "第二节 公族枝叶",
+      "level": 3,
+      "wordCount": 8511,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "祁氏之难",
+          "anchor": "sigil_toc_id_371",
+          "level": 4
+        },
+        {
+          "title": "巫臣之女",
+          "anchor": "sigil_toc_id_372",
+          "level": 4
+        },
+        {
+          "title": "颠倒黑白",
+          "anchor": "sigil_toc_id_373",
+          "level": 4
+        },
+        {
+          "title": "枝叶凋零",
+          "anchor": "sigil_toc_id_374",
+          "level": 4
+        },
+        {
+          "title": "举不失亲",
+          "anchor": "sigil_toc_id_375",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=89",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=89"
+    },
+    {
+      "chapterUid": 90,
+      "chapterIdx": 90,
+      "title": "第三节 新郑之行",
+      "level": 3,
+      "wordCount": 7311,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "韩起访郑",
+          "anchor": "sigil_toc_id_376",
+          "level": 4
+        },
+        {
+          "title": "诗以言志",
+          "anchor": "sigil_toc_id_377",
+          "level": 4
+        },
+        {
+          "title": "晋主大夏",
+          "anchor": "sigil_toc_id_378",
+          "level": 4
+        },
+        {
+          "title": "明君贤相",
+          "anchor": "sigil_toc_id_379",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=90",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=90"
+    },
+    {
+      "chapterUid": 91,
+      "chapterIdx": 91,
+      "title": "第四节 反晋联盟",
+      "level": 3,
+      "wordCount": 9282,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "虚与委蛇",
+          "anchor": "sigil_toc_id_380",
+          "level": 4
+        },
+        {
+          "title": "郑国叛晋",
+          "anchor": "sigil_toc_id_381",
+          "level": 4
+        },
+        {
+          "title": "卫国叛晋",
+          "anchor": "sigil_toc_id_382",
+          "level": 4
+        },
+        {
+          "title": "鲁国叛晋",
+          "anchor": "sigil_toc_id_383",
+          "level": 4
+        },
+        {
+          "title": "宋国叛晋",
+          "anchor": "sigil_toc_id_384",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=91",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=91"
+    },
+    {
+      "chapterUid": 92,
+      "chapterIdx": 92,
+      "title": "第四章 霸业秩序的最终消亡",
+      "level": 2,
+      "wordCount": 9883,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 六卿关系图谱",
+          "anchor": "sigil_toc_id_385",
+          "level": 3
+        },
+        {
+          "title": "邯郸叛赵",
+          "anchor": "sigil_toc_id_386",
+          "level": 4
+        },
+        {
+          "title": "新旧对立",
+          "anchor": "sigil_toc_id_387",
+          "level": 4
+        },
+        {
+          "title": "新老更替",
+          "anchor": "sigil_toc_id_388",
+          "level": 4
+        },
+        {
+          "title": "泛新联盟",
+          "anchor": "sigil_toc_id_389",
+          "level": 4
+        },
+        {
+          "title": "逼反邯郸",
+          "anchor": "sigil_toc_id_390",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=92",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=92"
+    },
+    {
+      "chapterUid": 93,
+      "chapterIdx": 93,
+      "title": "第二节 季世药方",
+      "level": 3,
+      "wordCount": 9109,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "子产刑书",
+          "anchor": "sigil_toc_id_391",
+          "level": 4
+        },
+        {
+          "title": "邓析竹刑",
+          "anchor": "sigil_toc_id_392",
+          "level": 4
+        },
+        {
+          "title": "晋作刑鼎",
+          "anchor": "sigil_toc_id_393",
+          "level": 4
+        },
+        {
+          "title": "履亩而征",
+          "anchor": "sigil_toc_id_394",
+          "level": 4
+        },
+        {
+          "title": "县郡体制",
+          "anchor": "sigil_toc_id_395",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=93",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=93"
+    },
+    {
+      "chapterUid": 94,
+      "chapterIdx": 94,
+      "title": "第三节 东阳内乱",
+      "level": 3,
+      "wordCount": 11172,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "肇乱之端",
+          "anchor": "sigil_toc_id_396",
+          "level": 4
+        },
+        {
+          "title": "战略相持",
+          "anchor": "sigil_toc_id_397",
+          "level": 4
+        },
+        {
+          "title": "战略转折",
+          "anchor": "sigil_toc_id_398",
+          "level": 4
+        },
+        {
+          "title": "铁丘之战",
+          "anchor": "sigil_toc_id_399",
+          "level": 4
+        },
+        {
+          "title": "物伤其类",
+          "anchor": "sigil_toc_id_400",
+          "level": 4
+        },
+        {
+          "title": "战略反攻",
+          "anchor": "sigil_toc_id_401",
+          "level": 4
+        },
+        {
+          "title": "战略收官",
+          "anchor": "sigil_toc_id_402",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=94",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=94"
+    },
+    {
+      "chapterUid": 95,
+      "chapterIdx": 95,
+      "title": "第四节 霸业终章",
+      "level": 3,
+      "wordCount": 6644,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "吴王争霸",
+          "anchor": "sigil_toc_id_403",
+          "level": 4
+        },
+        {
+          "title": "黄池会盟",
+          "anchor": "sigil_toc_id_404",
+          "level": 4
+        },
+        {
+          "title": "越王争霸",
+          "anchor": "sigil_toc_id_405",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=95",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=95"
+    },
+    {
+      "chapterUid": 96,
+      "chapterIdx": 96,
+      "title": "第五章 晋国历史的终结",
+      "level": 2,
+      "wordCount": 9846,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 晋阳之战",
+          "anchor": "sigil_toc_id_406",
+          "level": 3
+        },
+        {
+          "title": "索地风波",
+          "anchor": "sigil_toc_id_407",
+          "level": 4
+        },
+        {
+          "title": "明谋定策",
+          "anchor": "sigil_toc_id_408",
+          "level": 4
+        },
+        {
+          "title": "晋阳围城",
+          "anchor": "sigil_toc_id_409",
+          "level": 4
+        },
+        {
+          "title": "二主必叛",
+          "anchor": "sigil_toc_id_410",
+          "level": 4
+        },
+        {
+          "title": "三分智氏",
+          "anchor": "sigil_toc_id_411",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=96",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=96"
+    },
+    {
+      "chapterUid": 97,
+      "chapterIdx": 97,
+      "title": "第二节 历史迷雾",
+      "level": 3,
+      "wordCount": 21025,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "心佷败国",
+          "anchor": "sigil_toc_id_412",
+          "level": 4
+        },
+        {
+          "title": "斩岸堙溪",
+          "anchor": "sigil_toc_id_413",
+          "level": 4
+        },
+        {
+          "title": "谋卫伐郑",
+          "anchor": "sigil_toc_id_414",
+          "level": 4
+        },
+        {
+          "title": "多陵人者",
+          "anchor": "sigil_toc_id_415",
+          "level": 4
+        },
+        {
+          "title": "常山宝符",
+          "anchor": "sigil_toc_id_416",
+          "level": 4
+        },
+        {
+          "title": "举贤纳谏",
+          "anchor": "sigil_toc_id_417",
+          "level": 4
+        },
+        {
+          "title": "才德之论",
+          "anchor": "sigil_toc_id_418",
+          "level": 4
+        },
+        {
+          "title": "智瑶其人",
+          "anchor": "sigil_toc_id_419",
+          "level": 4
+        },
+        {
+          "title": "侠士豫让",
+          "anchor": "sigil_toc_id_420",
+          "level": 4
+        },
+        {
+          "title": "豫让之死",
+          "anchor": "sigil_toc_id_421",
+          "level": 4
+        },
+        {
+          "title": "成王败寇",
+          "anchor": "sigil_toc_id_422",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=97",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=97"
+    },
+    {
+      "chapterUid": 98,
+      "chapterIdx": 98,
+      "title": "第三节 战争复盘",
+      "level": 3,
+      "wordCount": 9956,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "待解之谜",
+          "anchor": "sigil_toc_id_423",
+          "level": 4
+        },
+        {
+          "title": "先发制人",
+          "anchor": "sigil_toc_id_424",
+          "level": 4
+        },
+        {
+          "title": "以小博大",
+          "anchor": "sigil_toc_id_425",
+          "level": 4
+        },
+        {
+          "title": "战略之选",
+          "anchor": "sigil_toc_id_426",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=98",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=98"
+    },
+    {
+      "chapterUid": 99,
+      "chapterIdx": 99,
+      "title": "第四节 桐叶凋零",
+      "level": 3,
+      "wordCount": 22550,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "晋君传承",
+          "anchor": "sigil_toc_id_427",
+          "level": 4
+        },
+        {
+          "title": "魏国霸业",
+          "anchor": "sigil_toc_id_428",
+          "level": 4
+        },
+        {
+          "title": "郑国覆亡",
+          "anchor": "sigil_toc_id_429",
+          "level": 4
+        },
+        {
+          "title": "赵国内乱",
+          "anchor": "sigil_toc_id_430",
+          "level": 4
+        },
+        {
+          "title": "赵氏谜团",
+          "anchor": "sigil_toc_id_431",
+          "level": 4
+        },
+        {
+          "title": "三晋伐齐",
+          "anchor": "sigil_toc_id_432",
+          "level": 4
+        },
+        {
+          "title": "长城之战",
+          "anchor": "sigil_toc_id_433",
+          "level": 4
+        },
+        {
+          "title": "三晋封侯",
+          "anchor": "sigil_toc_id_434",
+          "level": 4
+        },
+        {
+          "title": "兄弟离心",
+          "anchor": "sigil_toc_id_435",
+          "level": 4
+        },
+        {
+          "title": "联盟瓦解",
+          "anchor": "sigil_toc_id_436",
+          "level": 4
+        },
+        {
+          "title": "晋宗覆灭",
+          "anchor": "sigil_toc_id_437",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=99",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=99"
+    },
+    {
+      "chapterUid": 100,
+      "chapterIdx": 100,
+      "title": "第六章 霸业秩序的兴与灭",
+      "level": 2,
+      "wordCount": 10106,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 先秦的天下观",
+          "anchor": "sigil_toc_id_438",
+          "level": 3
+        },
+        {
+          "title": "霸业缘起",
+          "anchor": "sigil_toc_id_439",
+          "level": 4
+        },
+        {
+          "title": "政治联盟",
+          "anchor": "sigil_toc_id_440",
+          "level": 4
+        },
+        {
+          "title": "礼崩乐坏",
+          "anchor": "sigil_toc_id_441",
+          "level": 4
+        },
+        {
+          "title": "文化危机",
+          "anchor": "sigil_toc_id_442",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=100",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=100"
+    },
+    {
+      "chapterUid": 101,
+      "chapterIdx": 101,
+      "title": "第二节 霸业形成机制",
+      "level": 3,
+      "wordCount": 12082,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "上下求索",
+          "anchor": "sigil_toc_id_443",
+          "level": 4
+        },
+        {
+          "title": "秩序重建",
+          "anchor": "sigil_toc_id_444",
+          "level": 4
+        },
+        {
+          "title": "尊王攘夷",
+          "anchor": "sigil_toc_id_445",
+          "level": 4
+        },
+        {
+          "title": "分灾救患",
+          "anchor": "sigil_toc_id_446",
+          "level": 4
+        },
+        {
+          "title": "定纷止争",
+          "anchor": "sigil_toc_id_447",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=101",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=101"
+    },
+    {
+      "chapterUid": 102,
+      "chapterIdx": 102,
+      "title": "第三节 晋国霸业的基石",
+      "level": 3,
+      "wordCount": 6252,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "定义霸主",
+          "anchor": "sigil_toc_id_448",
+          "level": 4
+        },
+        {
+          "title": "地缘优势",
+          "anchor": "sigil_toc_id_449",
+          "level": 4
+        },
+        {
+          "title": "人才优势",
+          "anchor": "sigil_toc_id_450",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=102",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=102"
+    },
+    {
+      "chapterUid": 103,
+      "chapterIdx": 103,
+      "title": "第四节 霸业衰亡路线图",
+      "level": 3,
+      "wordCount": 9165,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "诸侯懈怠",
+          "anchor": "sigil_toc_id_451",
+          "level": 4
+        },
+        {
+          "title": "两相敷衍",
+          "anchor": "sigil_toc_id_452",
+          "level": 4
+        },
+        {
+          "title": "众叛亲离",
+          "anchor": "sigil_toc_id_453",
+          "level": 4
+        },
+        {
+          "title": "联盟解体",
+          "anchor": "sigil_toc_id_454",
+          "level": 4
+        },
+        {
+          "title": "文化融合",
+          "anchor": "sigil_toc_id_455",
+          "level": 4
+        },
+        {
+          "title": "霸政余韵",
+          "anchor": "sigil_toc_id_456",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=103",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=103"
+    },
+    {
+      "chapterUid": 104,
+      "chapterIdx": 104,
+      "title": "附录",
+      "level": 2,
+      "wordCount": 50,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300109994&chapterUid=104",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=104"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 5,
+      "chapterTitle": "第一章 从桐叶传说到曲沃代翼",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_82ZnK9Pjf",
+          "range": "542-546",
+          "chapterName": "第一章 从桐叶传说到曲沃代翼",
+          "content": "tónɡ yè fēnɡ dì\n后因以“桐葉封弟”指帝王封拜。唐柳宗元有《桐叶封弟辩》。亦省作“桐封”。",
+          "abstract": "桐叶封弟",
+          "star": -1,
+          "createTime": 1757250641,
+          "createTimeFormatted": "2025-09-07 21:10:41",
+          "isFinish": false,
+          "chapterUid": 5
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300109994_5_907-959",
+      "chapterUid": 5,
+      "range": "907-959",
+      "markText": "“天子无戏言！只要是您说过了，史官就要如实记载，您就要按照相应的礼节完成分封，并且作歌曲来传颂这件事。”",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=5&rangeStart=907&rangeEnd=959",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=5&rangeStart=907&rangeEnd=959"
+    },
+    {
+      "bookmarkId": "3300109994_6_7648-7741",
+      "chapterUid": 6,
+      "range": "7648-7741",
+      "markText": "在平王东迁的过程中，包括晋文侯在内的众多诸侯，都扮演了极不光彩的角色。然而在成王败寇的话语体系下，薄情寡义、背弃礼法的行径，不仅没有给他们带来骂名，反而让他们实现了真正意义上的名利双收。",
+      "totalCount": 135,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=6&rangeStart=7648&rangeEnd=7741",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=6&rangeStart=7648&rangeEnd=7741"
+    },
+    {
+      "bookmarkId": "3300109994_10_5325-5382",
+      "chapterUid": 10,
+      "range": "5325-5382",
+      "markText": "刘勃在谈到这段故事时曾做过一段评论，说这大约也是大动乱时代小国的宿命，政治上被毁灭之后，总还要在道德上被再毁灭一次",
+      "totalCount": 135,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=10&rangeStart=5325&rangeEnd=5382",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=10&rangeStart=5325&rangeEnd=5382"
+    },
+    {
+      "bookmarkId": "3300109994_7_15543-15641",
+      "chapterUid": 7,
+      "range": "15543-15641",
+      "markText": "正式晋位为晋侯。为了这个梦想，他们用了67年的时间，付出了三代人毕生的心血，经历了无数的艰辛和磨难，终于以杀五君（昭侯、孝侯、哀侯、小子侯、侯缗）、逐一君（鄂侯）的结果实现了小宗对大宗的成功逆袭。",
+      "totalCount": 132,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=7&rangeStart=15543&rangeEnd=15641",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=7&rangeStart=15543&rangeEnd=15641"
+    },
+    {
+      "bookmarkId": "3300109994_5_2763-2788",
+      "chapterUid": 5,
+      "range": "2763-2788",
+      "markText": "意大利史学家克罗齐曾言道：“一切历史都是当代史。”",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=5&rangeStart=2763&rangeEnd=2788",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=5&rangeStart=2763&rangeEnd=2788"
+    },
+    {
+      "bookmarkId": "3300109994_10_7378-7410",
+      "chapterUid": 10,
+      "range": "7378-7410",
+      "markText": "太伯和仲雍明白父亲的心意，于是双双避位，把君位的继承权留给了季历",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=10&rangeStart=7378&rangeEnd=7410",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=10&rangeStart=7378&rangeEnd=7410"
+    },
+    {
+      "bookmarkId": "3300109994_30_4791-4877",
+      "chapterUid": 30,
+      "range": "4791-4877",
+      "markText": "鲁国起初也不知虚实，便派公子买带兵救卫，但在得知晋国实力之后立刻就变了卦。鲁僖公忙召回军队并杀掉了公子买向晋国示好，可一扭头却又告诉楚国说，是因为公子买临阵脱逃才杀掉他的。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=30&rangeStart=4791&rangeEnd=4877",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=30&rangeStart=4791&rangeEnd=4877"
+    },
+    {
+      "bookmarkId": "3300109994_103_12388-12406",
+      "chapterUid": 103,
+      "range": "12388-12406",
+      "markText": "因为，人民群众才是历史真正的创造者。",
+      "totalCount": 104,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=103&rangeStart=12388&rangeEnd=12406",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=103&rangeStart=12388&rangeEnd=12406"
+    },
+    {
+      "bookmarkId": "3300109994_6_7472-7548",
+      "chapterUid": 6,
+      "range": "7472-7548",
+      "markText": "公元前750年是晋文侯纪元的第三十一年，也是骊山烽火之后，以周平王纪元的第二十一年。晋文侯冒天下之大不韪，攻杀了其原本支持的携惠王，并亲自到少鄂迎接平王",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=6&rangeStart=7472&rangeEnd=7548",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=6&rangeStart=7472&rangeEnd=7548"
+    },
+    {
+      "bookmarkId": "3300109994_5_15115-15183",
+      "chapterUid": 5,
+      "range": "15115-15183",
+      "markText": "而我们之所以会对这样的故事喜闻乐见，以至于在不同的场合还是会想起这个典故，或许要得益于那些深藏于我们基因中对美好生活无边无际的想象力吧。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=5&rangeStart=15115&rangeEnd=15183",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=5&rangeStart=15115&rangeEnd=15183"
+    },
+    {
+      "bookmarkId": "3300109994_5_1973-2043",
+      "chapterUid": 5,
+      "range": "1973-2043",
+      "markText": "哪怕是在卖官鬻爵盛行的混乱年代，昏聩的君主们也总要保有一丝底线，不会轻易地将对王朝命脉、社会运行起到决定性作用的高级职位明码标价随意出售的。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=5&rangeStart=1973&rangeEnd=2043",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=5&rangeStart=1973&rangeEnd=2043"
+    },
+    {
+      "bookmarkId": "3300109994_5_10364-10420",
+      "chapterUid": 5,
+      "range": "10364-10420",
+      "markText": "大军还没到营丘，“莱夷”就已经过来抢地盘了，可见齐人所领到的究竟还是张空头支票，所有的地盘都必须要自己拿命来换。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=5&rangeStart=10364&rangeEnd=10420",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=5&rangeStart=10364&rangeEnd=10420"
+    },
+    {
+      "bookmarkId": "3300109994_6_5599-5668",
+      "chapterUid": 6,
+      "range": "5599-5668",
+      "markText": "周平王抢先承认了郑国的合法地位，并任命郑国国君为王室卿士，使得非法建国的郑国迅速转向支持非法称王的周平王为王室正统，为东迁洛邑奠定了基础。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=6&rangeStart=5599&rangeEnd=5668",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=6&rangeStart=5599&rangeEnd=5668"
+    },
+    {
+      "bookmarkId": "3300109994_5_556-644",
+      "chapterUid": 5,
+      "range": "556-644",
+      "markText": "周成王年少时，与他的同母弟叔虞（字子干）一起玩角色扮演游戏。游戏中他削下一片梧桐叶子作为珪——也就是古代举行典礼时所执的玉器——递给叔虞，郑重其事地说道：“我将以此分封于你。”",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=5&rangeStart=556&rangeEnd=644",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=5&rangeStart=556&rangeEnd=644"
+    },
+    {
+      "bookmarkId": "3300109994_5_988-1037",
+      "chapterUid": 5,
+      "range": "988-1037",
+      "markText": "小成王终于认识到了事情的严重性，于是便依从史官佚的劝谏，将河汾以东方圆一百里的唐国故地封给了叔虞。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=5&rangeStart=988&rangeEnd=1037",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=5&rangeStart=988&rangeEnd=1037"
+    },
+    {
+      "bookmarkId": "3300109994_5_1460-1524",
+      "chapterUid": 5,
+      "range": "1460-1524",
+      "markText": "至于为什么要把这么重要的角色替换掉，或许是因为在信仰淳朴而真诚的古人心目中，素来人品贵重的周公旦大约不会做出这么不合情理的举动。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=5&rangeStart=1460&rangeEnd=1524",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=5&rangeStart=1460&rangeEnd=1524"
+    },
+    {
+      "bookmarkId": "3300109994_5_3650-3687",
+      "chapterUid": 5,
+      "range": "3650-3687",
+      "markText": "可见早在武王去世前，唐叔虞不仅已经成年，还在武王的班底中占据了重要的地位。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=5&rangeStart=3650&rangeEnd=3687",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=5&rangeStart=3650&rangeEnd=3687"
+    },
+    {
+      "bookmarkId": "3300109994_13_10776-10812",
+      "chapterUid": 13,
+      "range": "10776-10812",
+      "markText": "倒不如战死沙场，还能留下一个孝事父亲的名声，如果我逃了，就什么都没有了。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=13&rangeStart=10776&rangeEnd=10812",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=13&rangeStart=10776&rangeEnd=10812"
+    },
+    {
+      "bookmarkId": "3300109994_5_2490-2575",
+      "chapterUid": 5,
+      "range": "2490-2575",
+      "markText": "柳宗元同时还对所谓“天子无戏言”的思想进行了批判，认为这非但不应该是臣子一定要谨慎奉行的金科玉律，反而是需要极力摒弃的文化糟粕。因为天子也会犯错，也需要臣子的规范和教导。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=5&rangeStart=2490&rangeEnd=2575",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=5&rangeStart=2490&rangeEnd=2575"
+    },
+    {
+      "bookmarkId": "3300109994_6_4143-4190",
+      "chapterUid": 6,
+      "range": "4143-4190",
+      "markText": "起手拿到这么一副牌，若是旁人恐怕早就放弃了，可偏偏不服输的周平王即便是处于劣势也甘愿放手一搏。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300109994&chapterUid=6&rangeStart=4143&rangeEnd=4190",
+      "webLink": "https://weread.qq.com/web/reader/c12329c0813ab9177g0147db?chapterUid=6&rangeStart=4143&rangeEnd=4190"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

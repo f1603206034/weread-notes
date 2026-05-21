@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "bookId": "757876",
+    "title": "果壳中的宇宙",
+    "author": "史蒂芬·霍金",
+    "translator": "吴忠超",
+    "cover": "https://cdn.weread.qq.com/weread/cover/22/YueWen_757876/t6_YueWen_757876.jpg",
+    "intro": "相对论和量子论是20世纪最伟大的科学成就。尤其是前者，他完全是人类智慧的伟大构筑。所以在《果壳中的宇宙》的第一章相对论简史中主要是关于爱因斯坦的生平。量子论则是实验观测的被动产物，它的含义迄今还解释不清。在广义相对论中，时空不再是一个被动的背景，而是宇宙演化的主动参与者。物质分布使时空弯曲。现在再去侈谈宇宙之外的空间和时间，对这些概念进行所谓的思辨，只能是倒退到圣奥古斯丁之前。牛顿的时空观是一个虚幻，而虚幻的唯一功能是对软弱者的安慰。",
+    "category": "科学技术-科学科普",
+    "publisher": "湖南科学技术出版社",
+    "publishTime": "2002-02-01 00:00:00",
+    "isbn": "9787535733597",
+    "wordCount": 0,
+    "newRating": 790,
+    "newRatingCount": 1583,
+    "newRatingDetail": {
+      "good": 1252,
+      "fair": 299,
+      "poor": 32,
+      "recent": 5,
+      "deepV": 81,
+      "myRating": "",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=757876",
+    "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e",
+    "lastSync": "2026-05-21T11:52:33Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=757876&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 144,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=757876&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 95,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=757876&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "译者序",
+      "level": 1,
+      "wordCount": 964,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=757876&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 1022,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=757876&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第一章 相对论简史",
+      "level": 1,
+      "wordCount": 8145,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=757876&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二章 时间的形状",
+      "level": 1,
+      "wordCount": 12929,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=757876&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第三章 果壳中的宇宙",
+      "level": 1,
+      "wordCount": 12064,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=757876&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第四章 预言未来",
+      "level": 1,
+      "wordCount": 11710,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=757876&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第五章 护卫过去",
+      "level": 1,
+      "wordCount": 8610,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=757876&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第六章 我们的未来?《星际航行》可行吗?",
+      "level": 1,
+      "wordCount": 5459,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=757876&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第七章 膜的新奇世界",
+      "level": 1,
+      "wordCount": 8392,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=757876&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=12"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "译者序",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "757876_4_451-481",
+          "range": "451-481",
+          "rangeStart": 451,
+          "rangeEnd": 481,
+          "markText": "哈姆雷特认为，即便把他关在果壳中，仍然自以为是无限空间之王。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1740152117,
+          "createTimeFormatted": "2025-02-21 23:35:17",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=757876&chapterUid=4&rangeStart=451&rangeEnd=481",
+          "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=4&rangeStart=451&rangeEnd=481"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "757876_4_451-481",
+      "chapterUid": 4,
+      "range": "451-481",
+      "markText": "哈姆雷特认为，即便把他关在果壳中，仍然自以为是无限空间之王。",
+      "totalCount": 588,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=4&rangeStart=451&rangeEnd=481",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=4&rangeStart=451&rangeEnd=481"
+    },
+    {
+      "bookmarkId": "757876_6_4310-4348",
+      "chapterUid": 6,
+      "range": "4310-4348",
+      "markText": "然而，人们所获取的比一秒还短得多的生命延长，远远不及劣质飞机餐对健康的损害。",
+      "totalCount": 560,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=6&rangeStart=4310&rangeEnd=4348",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=6&rangeStart=4310&rangeEnd=4348"
+    },
+    {
+      "bookmarkId": "757876_6_14232-14301",
+      "chapterUid": 6,
+      "range": "14232-14301",
+      "markText": "当一个大质量的恒星消耗完它的核燃料时，它将丧失热量并且收缩。时空将被弯翘得这么厉害以至于产生黑洞。光不能从黑洞逃逸。时间将在黑洞之内终结。",
+      "totalCount": 486,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=6&rangeStart=14232&rangeEnd=14301",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=6&rangeStart=14232&rangeEnd=14301"
+    },
+    {
+      "bookmarkId": "757876_7_5519-5558",
+      "chapterUid": 7,
+      "range": "5519-5558",
+      "markText": "询问在开端之前或者终结之后发生什么是没有任何意义的，因为这种时间是不被定义的。",
+      "totalCount": 396,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=7&rangeStart=5519&rangeEnd=5558",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=7&rangeStart=5519&rangeEnd=5558"
+    },
+    {
+      "bookmarkId": "757876_6_7079-7123",
+      "chapterUid": 6,
+      "range": "7079-7123",
+      "markText": "有人将原子弹归咎于爱因斯坦发现了质能关系；但是这和把飞机失事归咎于牛顿发现了引力很类似。",
+      "totalCount": 391,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=6&rangeStart=7079&rangeEnd=7123",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=6&rangeStart=7079&rangeEnd=7123"
+    },
+    {
+      "bookmarkId": "757876_6_14944-14996",
+      "chapterUid": 6,
+      "range": "14944-14996",
+      "markText": "微小的粒子不再具有确定的位置和速度。相反，粒子的位置被测量得越准确，其速度则被测量得越不准确，反之亦然。",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=6&rangeStart=14944&rangeEnd=14996",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=6&rangeStart=14944&rangeEnd=14996"
+    },
+    {
+      "bookmarkId": "757876_6_4091-4183",
+      "chapterUid": 6,
+      "range": "4091-4183",
+      "markText": "这就需要抛弃一个观念，即存在一个所有钟表都测量的称为时间的普适的量。相反地，每个人都有他或她自己个人的时间。如果两个人处于相对静止状态，则他们的时间就一致，但是他们相互运动时就不一致。",
+      "totalCount": 345,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=6&rangeStart=4091&rangeEnd=4183",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=6&rangeStart=4091&rangeEnd=4183"
+    },
+    {
+      "bookmarkId": "757876_6_8152-8196",
+      "chapterUid": 6,
+      "range": "8152-8196",
+      "markText": "在战争年代里他过着独身生活，避免了家事纠缠，这也许是他在这一段时期科学上多产的一个原因。",
+      "totalCount": 336,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=6&rangeStart=8152&rangeEnd=8196",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=6&rangeStart=8152&rangeEnd=8196"
+    },
+    {
+      "bookmarkId": "757876_6_1566-1618",
+      "chapterUid": 6,
+      "range": "1566-1618",
+      "markText": "他们想象空间充满了所谓“以太”的连续介质。光线和射电讯号是在以太中的波动，如同声音为空气中的压力波一样。",
+      "totalCount": 300,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=6&rangeStart=1566&rangeEnd=1618",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=6&rangeStart=1566&rangeEnd=1618"
+    },
+    {
+      "bookmarkId": "757876_5_1081-1096",
+      "chapterUid": 5,
+      "range": "1081-1096",
+      "markText": "充满希望的旅途胜过终点的到达。",
+      "totalCount": 289,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=5&rangeStart=1081&rangeEnd=1096",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=5&rangeStart=1081&rangeEnd=1096"
+    },
+    {
+      "bookmarkId": "757876_6_2473-2510",
+      "chapterUid": 6,
+      "range": "2473-2510",
+      "markText": "不管人们在哪个方向上多快地运动，光似乎总是以相同的速率相对于它的所在地运动",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=6&rangeStart=2473&rangeEnd=2510",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=6&rangeStart=2473&rangeEnd=2510"
+    },
+    {
+      "bookmarkId": "757876_7_5819-5894",
+      "chapterUid": 7,
+      "range": "5819-5894",
+      "markText": "如果人们在时间的相反方向将宇宙膨胀倒溯回去，他会发现宇宙中的全部物质并非都从具有无限密度的一点涌现。这样无限密度的点称为奇点，并且是时间的开端或终结。",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=7&rangeStart=5819&rangeEnd=5894",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=7&rangeStart=5819&rangeEnd=5894"
+    },
+    {
+      "bookmarkId": "757876_6_4919-4953",
+      "chapterUid": 6,
+      "range": "4919-4953",
+      "markText": "他们问道，这是否意味着，万物都是相对的，甚至不存在绝对的道德标准呢？",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=6&rangeStart=4919&rangeEnd=4953",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=6&rangeStart=4919&rangeEnd=4953"
+    },
+    {
+      "bookmarkId": "757876_6_16018-16038",
+      "chapterUid": 6,
+      "range": "16018-16038",
+      "markText": "政治是为当前，而方程却是一种永恒的东西。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=6&rangeStart=16018&rangeEnd=16038",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=6&rangeStart=16018&rangeEnd=16038"
+    },
+    {
+      "bookmarkId": "757876_5_1486-1529",
+      "chapterUid": 5,
+      "range": "1486-1529",
+      "markText": "此外，我要感谢所有让我能过上相当正常生活并从事科学研究的人们。没有他们此书便不能问世。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=5&rangeStart=1486&rangeEnd=1529",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=5&rangeStart=1486&rangeEnd=1529"
+    },
+    {
+      "bookmarkId": "757876_7_13563-13634",
+      "chapterUid": 7,
+      "range": "13563-13634",
+      "markText": "自旋越高，使粒子显得相同的旋转所需要的整圈部分就越小。但是以下事实令人印象深刻，存在旋转两整圈才显得相同的粒子，这种粒子被称为具有自旋1/2。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=7&rangeStart=13563&rangeEnd=13634",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=7&rangeStart=13563&rangeEnd=13634"
+    },
+    {
+      "bookmarkId": "757876_3_464-531",
+      "chapterUid": 3,
+      "range": "464-531",
+      "markText": "我愿意和中国读者分享对黑洞和宇宙学中最近发现的激动。 ——史蒂芬·霍金",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=3&rangeStart=464&rangeEnd=531",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=3&rangeStart=464&rangeEnd=531"
+    },
+    {
+      "bookmarkId": "757876_6_3124-3153",
+      "chapterUid": 6,
+      "range": "3124-3153",
+      "markText": "如果人们不能检测出他是否穿越空间的运动，则以太观念纯属多余",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=6&rangeStart=3124&rangeEnd=3153",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=6&rangeStart=3124&rangeEnd=3153"
+    },
+    {
+      "bookmarkId": "757876_7_8495-8526",
+      "chapterUid": 7,
+      "range": "8495-8526",
+      "markText": "当恒星和星系在它们自身的引力下坍缩形成黑洞，时间会有一个终结。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=7&rangeStart=8495&rangeEnd=8526",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=7&rangeStart=8495&rangeEnd=8526"
+    },
+    {
+      "bookmarkId": "757876_6_15051-15057",
+      "chapterUid": 6,
+      "range": "15051-15057",
+      "markText": "上帝不掷骰子",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=757876&chapterUid=6&rangeStart=15051&rangeEnd=15057",
+      "webLink": "https://weread.qq.com/web/reader/8cd32bd05b90748cdef0f4e?chapterUid=6&rangeStart=15051&rangeEnd=15057"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

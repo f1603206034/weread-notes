@@ -1,0 +1,662 @@
+{
+  "meta": {
+    "bookId": "CB_Fse3pI3pR6d86te6sw9DrA0y",
+    "title": "康熙的红票：全球化中的清朝",
+    "author": "孙立天",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_6z84ik4fO5h26tM6sc3py2o4_parsecover",
+    "intro": "",
+    "category": "",
+    "publisher": "",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y",
+    "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b",
+    "lastSync": "2026-05-21T11:53:18Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 0,
+    "reviewCount": 3,
+    "bookmarkCount": 0,
+    "contentHash": "dc4475c08a44c9f89eb73023d220fd48bd4a59078568aed016eeb8a5b0cd8a97"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "目录",
+      "level": 1,
+      "wordCount": 625,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "图片目录",
+      "level": 1,
+      "wordCount": 259,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "序",
+      "level": 1,
+      "wordCount": 4589,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一部分 进入清朝权贵圈的西洋人",
+      "level": 1,
+      "wordCount": 16,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第一章 佟家的奴才",
+      "level": 1,
+      "wordCount": 15655,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "战场上的俘虏",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "康熙母亲的娘家",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "满人对西洋人的印象",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "神父与大炮生意",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        },
+        {
+          "title": "佟氏家族与传教士",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "消除奴籍",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第二章 满汉之争中的传教士",
+      "level": 1,
+      "wordCount": 21161,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "传教士被抓",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "满汉路线之争",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "满人、汉人和洋人",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        },
+        {
+          "title": "杨光先的地位",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        },
+        {
+          "title": "传统社会中的算命",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        },
+        {
+          "title": "汤若望参与算命",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        },
+        {
+          "title": "历狱审判",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第三章 从铲除鳌拜到《尼布楚条约》谈判",
+      "level": 1,
+      "wordCount": 27265,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "康熙背后的势力",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        },
+        {
+          "title": "传教士登场",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        },
+        {
+          "title": "传教士与宫廷政治",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        },
+        {
+          "title": "功不可没的南怀仁",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        },
+        {
+          "title": "传教士带给康熙的世界",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        },
+        {
+          "title": "《尼布楚条约》签订",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第四章内务府的人",
+      "level": 1,
+      "wordCount": 22950,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "臣子和奴才",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        },
+        {
+          "title": "传教士的名分",
+          "anchor": "sigil_toc_id_24",
+          "level": 2
+        },
+        {
+          "title": "新来的传教士",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        },
+        {
+          "title": "关系网",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        },
+        {
+          "title": "介绍中国",
+          "anchor": "sigil_toc_id_27",
+          "level": 2
+        },
+        {
+          "title": "中西双向交流",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_29",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第二部分 红票与中西交往",
+      "level": 1,
+      "wordCount": 12,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第五章 教皇使团和康熙派出的洋钦差",
+      "level": 1,
+      "wordCount": 28444,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "康熙和他的江山",
+          "anchor": "sigil_toc_id_30",
+          "level": 2
+        },
+        {
+          "title": "康熙眼中的教皇使团",
+          "anchor": "sigil_toc_id_31",
+          "level": 2
+        },
+        {
+          "title": "初次接见",
+          "anchor": "sigil_toc_id_32",
+          "level": 2
+        },
+        {
+          "title": "教皇使节与传教士",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        },
+        {
+          "title": "多罗与礼仪之争",
+          "anchor": "sigil_toc_id_34",
+          "level": 2
+        },
+        {
+          "title": "传教士笔下的历史",
+          "anchor": "sigil_toc_id_35",
+          "level": 2
+        },
+        {
+          "title": "辞行会见",
+          "anchor": "sigil_toc_id_36",
+          "level": 2
+        },
+        {
+          "title": "康熙面试颜珰主教",
+          "anchor": "sigil_toc_id_37",
+          "level": 2
+        },
+        {
+          "title": "领票",
+          "anchor": "sigil_toc_id_38",
+          "level": 2
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_39",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第六章 彼得大帝使团和教皇新使团",
+      "level": 1,
+      "wordCount": 25553,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "十四年的等待",
+          "anchor": "sigil_toc_id_40",
+          "level": 2
+        },
+        {
+          "title": "康熙发给欧洲的公开信",
+          "anchor": "sigil_toc_id_41",
+          "level": 2
+        },
+        {
+          "title": "康熙的耐心",
+          "anchor": "sigil_toc_id_42",
+          "level": 2
+        },
+        {
+          "title": "彼得大帝来华使团",
+          "anchor": "sigil_toc_id_43",
+          "level": 2
+        },
+        {
+          "title": "教皇第二个入华使团",
+          "anchor": "sigil_toc_id_44",
+          "level": 2
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_45",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第三部分 荣耀后的沉寂",
+      "level": 1,
+      "wordCount": 11,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第七章 雍正争位与禁教",
+      "level": 1,
+      "wordCount": 23892,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "康熙晚年的皇位争斗",
+          "anchor": "sigil_toc_id_46",
+          "level": 2
+        },
+        {
+          "title": "雍正登位中的谜团",
+          "anchor": "sigil_toc_id_47",
+          "level": 2
+        },
+        {
+          "title": "传教士也尽力了",
+          "anchor": "sigil_toc_id_48",
+          "level": 2
+        },
+        {
+          "title": "雍正为什么要禁教？",
+          "anchor": "sigil_toc_id_49",
+          "level": 2
+        },
+        {
+          "title": "雍正对禁教的解释",
+          "anchor": "sigil_toc_id_50",
+          "level": 2
+        },
+        {
+          "title": "当局者怎么说？",
+          "anchor": "sigil_toc_id_51",
+          "level": 2
+        },
+        {
+          "title": "雍正与佛教",
+          "anchor": "sigil_toc_id_52",
+          "level": 2
+        },
+        {
+          "title": "作为佛教居士的雍正",
+          "anchor": "sigil_toc_id_53",
+          "level": 2
+        },
+        {
+          "title": "皇位争斗与禁教的关联",
+          "anchor": "sigil_toc_id_54",
+          "level": 2
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_55",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "跋",
+      "level": 1,
+      "wordCount": 12222,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "注 释",
+      "level": 1,
+      "wordCount": 6,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "附录一 雍亲王致年羹尧书",
+      "level": 1,
+      "wordCount": 1217,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "附录二 内务府内传教士名录",
+      "level": 1,
+      "wordCount": 1927,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "附录三 颜珰关于中国礼仪布告",
+      "level": 1,
+      "wordCount": 2634,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "附录四 穆经远判决书",
+      "level": 1,
+      "wordCount": 13,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "参考文献",
+      "level": 1,
+      "wordCount": 8,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 4132,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_Fse3pI3pR6d86te6sw9DrA0y&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/047429d3643425f46736533704933705236643836746536737739447241307996b?chapterUid=21"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "第二章 满汉之争中的传教士",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7Xq4ySA5P",
+          "range": "11693-12085",
+          "chapterName": "",
+          "content": "杨光先能参动汤若望，不是因为他的说的在理，而是满人内部对汉人的不满，借此打压汉人罢了。\n《大明王朝1566》艺术成就还在上升。\n海瑞能参动严世蕃也是如此：\n＞>胡宗宪又轻轻摇了摇头：“刚峰，你把自己看得过重了。”\n海瑞一怔。\n胡宗宪：“你是个刚正的人，敢说话，敢抗上。可真要抗上，你这个七品能抗得过谁？在浙江你能做些事震动朝廷，那是因为你背后有人要震动朝廷。到了江西分宜，凭你一个人又能震动谁？皇上要用的人谁也推不倒，皇上不用的人谁也保不了。”",
+          "abstract": "从实际效果上看，杨光先洋洋洒洒引经据典写的批判汤若望的文章，在传统士人圈子中，并没有引起反响。29但他却被满人上层注意到了。后来杨光先向礼部上了参劾汤若望的奏本，礼部把奏本转递给了当时大清的最高权力部门议政王大臣会议。朱维铮先生注意到了一个重要细节，就是礼部当天就把杨的奏本转到了议政王大臣会议那边。30当时杨是一介平民，正常情况来说，他的奏本上到礼部，礼部都未必会接收，就算接收了，也不知道要等多久才会有人处理。而杨的奏本竟然当天就被转到议政王大臣会议那边，朱维铮分析这只有一个可能，那就是杨递这个奏本是满人上层提前安排好的。议政王大臣会议是满人的祖制，主要由八旗各旗的旗主，以及军队中的满蒙高官组成。在清初，议政王大臣会议这个机构是凌驾于整个朝廷之上的，是当时的最高权力机构，主要处理军务大事。很明显，如果没有提前安排，议政王大臣会议根本不可能处理杨光先这种朝廷内文人参劾的奏本。",
+          "star": -1,
+          "createTime": 1737636987,
+          "createTimeFormatted": "2025-01-23 20:56:27",
+          "isFinish": false,
+          "chapterUid": 6
+        }
+      ]
+    },
+    {
+      "chapterUid": 10,
+      "chapterTitle": "第五章 教皇使团和康熙派出的洋钦差",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7Xq4uCknz",
+          "range": "18209-18340",
+          "chapterName": "",
+          "content": "chūn qiū bǐ fǎ\n古代学者以为孔子修《春秋》，“笔则笔，削则削”（《史记·孔子世家》）， “以一字为褒贬”（杜预《左传序》），含有“微言 ”“大义”（《汉书·艺文志》），后称文笔曲折而意含褒贬的写作手法为春秋笔法。",
+          "abstract": "《北京纪事》有目的地省略某些内容，来传递自己想要传递的意思，这其实就是中国历史书写中所谓春秋笔法中的“笔削”。写什么、不写什么或者说“削”去什么，都自有目的。《史记》中司马迁评论孔子作《春秋》时有意省略一些东西，评语就是：“笔则笔，削则削，子夏之徒不能赞一辞。”",
+          "star": -1,
+          "createTime": 1737636924,
+          "createTimeFormatted": "2025-01-23 20:55:24",
+          "isFinish": false,
+          "chapterUid": 10
+        }
+      ]
+    },
+    {
+      "chapterUid": 14,
+      "chapterTitle": "跋",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7Xq3X1DGJ",
+          "range": "13666-13813",
+          "chapterName": "",
+          "content": "历史是无数偶然的因素的集合。历史必然，就是遵循事物客观规律，努力推动事物朝理想的方向发展的结果。\n学习历史，就是为了挣脱过去的桎梏，让我们能看向不同的方向，并开始注意到前人无法想象或过去不希望我们想象到的可能性。观察让我们走到现在的一连串意外事件，就能了解人类的每个念头和梦想是如何变成现实的，然后我们就能开始以不同的方式思考并编织出不同的梦想。历史并不能告诉我们应该如何选择，但至少能给我们提供更多的选项。",
+          "abstract": "传统中讲“一朝天子一朝臣”，康雍之间的皇位更替不仅改变了传教士和康熙众多皇子的个人命运，同时也改变了那些跟这些人命运紧密相连的历史。庙堂之上的变动，我们后来者似乎能带着“后见之明”来评点一番；但变动发生前，谁也预料不到，哪有什么规律可总结？史家要做的，也许就是把发生过的故事和细节挖掘出来就好。",
+          "star": -1,
+          "createTime": 1737636428,
+          "createTimeFormatted": "2025-01-23 20:47:08",
+          "isFinish": false,
+          "chapterUid": 14
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

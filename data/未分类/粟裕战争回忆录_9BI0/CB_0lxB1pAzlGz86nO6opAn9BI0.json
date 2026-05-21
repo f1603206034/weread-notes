@@ -1,0 +1,962 @@
+{
+  "meta": {
+    "bookId": "CB_0lxB1pAzlGz86nO6opAn9BI0",
+    "title": "粟裕战争回忆录",
+    "author": "粟裕",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_0lxB1pAzlGz86nO6opAn9BI0_parsecover",
+    "intro": "",
+    "category": "",
+    "publisher": "",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0",
+    "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b",
+    "lastSync": "2026-05-21T11:51:55Z",
+    "readingProgress": "18%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 2,
+    "bookmarkCount": 0,
+    "contentHash": "e4496d4ed825daf2916ae3b290a962f993648b0378a9db77874232439e6f8a3d"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "粟裕战争回忆录",
+      "level": 1,
+      "wordCount": 43,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "目录",
+      "level": 1,
+      "wordCount": 1521,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "第一章 从枫木树脚谈起",
+      "level": 1,
+      "wordCount": 8931,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§1.1 开蒙",
+          "anchor": "id_Toc163155995",
+          "level": 2
+        },
+        {
+          "title": "§1.2 出走",
+          "anchor": "id_Toc163155996",
+          "level": 2
+        },
+        {
+          "title": "§1.3 进入省立第二师范",
+          "anchor": "id_Toc163155997",
+          "level": 2
+        },
+        {
+          "title": "§1.4 参加学潮",
+          "anchor": "id_Toc163155998",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第二章 南昌起义前后片断",
+      "level": 1,
+      "wordCount": 4226,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§2.1 教导队的生活",
+          "anchor": "id_Toc163156000",
+          "level": 2
+        },
+        {
+          "title": "§2.2 参加起义",
+          "anchor": "id_Toc163156001",
+          "level": 2
+        },
+        {
+          "title": "§2.3 南下广东",
+          "anchor": "id_Toc163156002",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第三章 激流归大海",
+      "level": 1,
+      "wordCount": 15529,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§3.1 正确的决策",
+          "anchor": "id_Toc163156004",
+          "level": 2
+        },
+        {
+          "title": "§3.2 大庚整编",
+          "anchor": "id_Toc163156005",
+          "level": 2
+        },
+        {
+          "title": "§3.3 上山打游击",
+          "anchor": "id_Toc163156006",
+          "level": 2
+        },
+        {
+          "title": "§3.4 湘南起义",
+          "anchor": "id_Toc163156007",
+          "level": 2
+        },
+        {
+          "title": "§3.5 井冈山会师",
+          "anchor": "id_Toc163156008",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第四章 在井冈山和中央根据地",
+      "level": 1,
+      "wordCount": 23102,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§4.1 学习毛泽东建军思想",
+          "anchor": "id_Toc163156010",
+          "level": 2
+        },
+        {
+          "title": "§4.2 学习建设根据地",
+          "anchor": "id_Toc163156011",
+          "level": 2
+        },
+        {
+          "title": "§4.3 在战争中学习战争",
+          "anchor": "id_Toc163156012",
+          "level": 2
+        },
+        {
+          "title": "§4.4 在战略转移中",
+          "anchor": "id_Toc163156013",
+          "level": 2
+        },
+        {
+          "title": "§4.5 在反“围剿”斗争中",
+          "anchor": "id_Toc163156014",
+          "level": 2
+        },
+        {
+          "title": "§4.6 经受了王明“左”倾错误的反面教育",
+          "anchor": "id_Toc163156015",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第五章 红军北上抗日先遗队",
+      "level": 1,
+      "wordCount": 17563,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§5.1 抗日先遣队的组成",
+          "anchor": "id_Toc163156017",
+          "level": 2
+        },
+        {
+          "title": "§5.2 从瑞金出发和攻打福州",
+          "anchor": "id_Toc163156018",
+          "level": 2
+        },
+        {
+          "title": "§5.3 挺进浙西",
+          "anchor": "id_Toc163156019",
+          "level": 2
+        },
+        {
+          "title": "§5.4 活动于皖赣边",
+          "anchor": "id_Toc163156020",
+          "level": 2
+        },
+        {
+          "title": "§5.5 到达闽浙赣和组成红十军团",
+          "anchor": "id_Toc163156021",
+          "level": 2
+        },
+        {
+          "title": "§5.6 谭家桥战斗",
+          "anchor": "id_Toc163156022",
+          "level": 2
+        },
+        {
+          "title": "§5.7 怀玉山失败",
+          "anchor": "id_Toc163156023",
+          "level": 2
+        },
+        {
+          "title": "§5.8 历史的教训",
+          "anchor": "id_Toc163156024",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第六章 浙南三年游击战争",
+      "level": 1,
+      "wordCount": 31453,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§6.1 挺进浙西南",
+          "anchor": "id_Toc163156026",
+          "level": 2
+        },
+        {
+          "title": "§6.2 创建浙西南游击根据地",
+          "anchor": "id_Toc163156027",
+          "level": 2
+        },
+        {
+          "title": "§6.3 第一次反“围剿”",
+          "anchor": "id_Toc163156028",
+          "level": 2
+        },
+        {
+          "title": "§6.4 浙南党内的一些分歧",
+          "anchor": "id_Toc163156029",
+          "level": 2
+        },
+        {
+          "title": "§6.5 第二个发展时期",
+          "anchor": "id_Toc163156030",
+          "level": 2
+        },
+        {
+          "title": "§6.7 迎接抗日高潮",
+          "anchor": "id_Toc163156031",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第七章 挺进苏北与黄桥决战",
+      "level": 1,
+      "wordCount": 18840,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§7.1 江南新四军挺进苏北",
+          "anchor": "id_Toc163156033",
+          "level": 2
+        },
+        {
+          "title": "§7.2 全力对付韩德勤",
+          "anchor": "id_Toc163156034",
+          "level": 2
+        },
+        {
+          "title": "§7.3 建立以黄桥为中心的根据地",
+          "anchor": "id_Toc163156035",
+          "level": 2
+        },
+        {
+          "title": "§7.4 决战黄桥，一举解决苏北问题",
+          "anchor": "id_Toc163156036",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第八章 苏中抗日斗争",
+      "level": 1,
+      "wordCount": 32548,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§8.1 苏中的战略地位和战略任务",
+          "anchor": "id_Toc163156038",
+          "level": 2
+        },
+        {
+          "title": "§8.2 工作重心由城镇到乡村的转变",
+          "anchor": "id_Toc163156039",
+          "level": 2
+        },
+        {
+          "title": "§8.3 根据地基本区的争夺",
+          "anchor": "id_Toc163156040",
+          "level": 2
+        },
+        {
+          "title": "§8.4 坚持武装斗争，坚持原地斗争",
+          "anchor": "id_Toc163156041",
+          "level": 2
+        },
+        {
+          "title": "§8.5 冲破黎明前的黑暗",
+          "anchor": "id_Toc163156042",
+          "level": 2
+        },
+        {
+          "title": "§8.6 领导重心的再次转移",
+          "anchor": "id_Toc163156043",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第九章 向苏浙敌后发展和天目山战役",
+      "level": 1,
+      "wordCount": 25496,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§9.1 新的形势和任务",
+          "anchor": "id_Toc163156045",
+          "level": 2
+        },
+        {
+          "title": "§9.2 渡江南进，胜利会师",
+          "anchor": "id_Toc163156046",
+          "level": 2
+        },
+        {
+          "title": "§9.3 周密筹划",
+          "anchor": "id_Toc163156047",
+          "level": 2
+        },
+        {
+          "title": "§9.4 轻取孝丰",
+          "anchor": "id_Toc163156048",
+          "level": 2
+        },
+        {
+          "title": "§9.5 巧夺天目",
+          "anchor": "id_Toc163156049",
+          "level": 2
+        },
+        {
+          "title": "§9.6 诱敌深入，连歼顽军",
+          "anchor": "id_Toc163156050",
+          "level": 2
+        },
+        {
+          "title": "§9.7 大举反攻",
+          "anchor": "id_Toc163156051",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第十章 苏中战役",
+      "level": 1,
+      "wordCount": 20023,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§10.1 山雨欲来",
+          "anchor": "id_Toc163156053",
+          "level": 2
+        },
+        {
+          "title": "§10.2 先在内线打几个胜仗",
+          "anchor": "id_Toc163156054",
+          "level": 2
+        },
+        {
+          "title": "§10.3 选择苏中解放区前部地区作战",
+          "anchor": "id_Toc163156055",
+          "level": 2
+        },
+        {
+          "title": "§10.4 首战宣泰",
+          "anchor": "id_Toc163156056",
+          "level": 2
+        },
+        {
+          "title": "§10.5 再胜如南",
+          "anchor": "id_Toc163156057",
+          "level": 2
+        },
+        {
+          "title": "§10.6 三战海安",
+          "anchor": "id_Toc163156058",
+          "level": 2
+        },
+        {
+          "title": "§10.7 奇袭李堡",
+          "anchor": "id_Toc163156059",
+          "level": 2
+        },
+        {
+          "title": "§10.8 进一步明确了作战方针",
+          "anchor": "id_Toc163156060",
+          "level": 2
+        },
+        {
+          "title": "§10.9 钻到敌人肚子里去打",
+          "anchor": "id_Toc163156061",
+          "level": 2
+        },
+        {
+          "title": "§10.10 攻黄救邵，七战七捷",
+          "anchor": "id_Toc163156062",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第十一章 苏中战役后的华中战局和宿北战役",
+      "level": 1,
+      "wordCount": 15940,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§11.1 华中野战军主力由苏中北移",
+          "anchor": "id_Toc163156064",
+          "level": 2
+        },
+        {
+          "title": "§11.2 主动放弃两淮",
+          "anchor": "id_Toc163156065",
+          "level": 2
+        },
+        {
+          "title": "§11.3 决心在淮海打一个大歼灭战",
+          "anchor": "id_Toc163156066",
+          "level": 2
+        },
+        {
+          "title": "§11.4 集中兵力，打敌一路",
+          "anchor": "id_Toc163156067",
+          "level": 2
+        },
+        {
+          "title": "§11.5 整编第六十九师全军覆没",
+          "anchor": "id_Toc163156068",
+          "level": 2
+        },
+        {
+          "title": "§11.6 华东战区的一个转折",
+          "anchor": "id_Toc163156069",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第十二章 鲁南大捷",
+      "level": 1,
+      "wordCount": 11262,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§12.1 以新的作战胜利实现战略意图",
+          "anchor": "id_Toc163156071",
+          "level": 2
+        },
+        {
+          "title": "§12.2 选择打击目标",
+          "anchor": "id_Toc163156072",
+          "level": 2
+        },
+        {
+          "title": "§12.3 紧张的战前准备",
+          "anchor": "id_Toc163156073",
+          "level": 2
+        },
+        {
+          "title": "§12.4 歼敌第二十六师和快速纵队",
+          "anchor": "id_Toc163156074",
+          "level": 2
+        },
+        {
+          "title": "§12.5 歼敌第五十一师",
+          "anchor": "id_Toc163156075",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第十三章 示形于鲁南，决胜于鲁中",
+      "level": 1,
+      "wordCount": 14575,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§13.1 战前的敌我态势",
+          "anchor": "id_Toc163156077",
+          "level": 2
+        },
+        {
+          "title": "§13.2 抓住战役间隙进行休整",
+          "anchor": "id_Toc163156078",
+          "level": 2
+        },
+        {
+          "title": "§13.3 果断改变战役决心",
+          "anchor": "id_Toc163156079",
+          "level": 2
+        },
+        {
+          "title": "§13.4 迅速挥师北上",
+          "anchor": "id_Toc163156080",
+          "level": 2
+        },
+        {
+          "title": "§13.5 敌变我变",
+          "anchor": "id_Toc163156081",
+          "level": 2
+        },
+        {
+          "title": "§13.6 战役获得全胜",
+          "anchor": "id_Toc163156082",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第十四章 英雄孟良崮",
+      "level": 1,
+      "wordCount": 13103,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§14.1 强敌云集，发动重点进攻",
+          "anchor": "id_Toc163156084",
+          "level": 2
+        },
+        {
+          "title": "§14.2 耍龙灯，创造战机",
+          "anchor": "id_Toc163156085",
+          "level": 2
+        },
+        {
+          "title": "§14.3 割歼强敌的决心和部署",
+          "anchor": "id_Toc163156086",
+          "level": 2
+        },
+        {
+          "title": "§14.4 喜见贼师精锐尽",
+          "anchor": "id_Toc163156087",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第十五章 华东野战军外线出击和沙土集战役",
+      "level": 1,
+      "wordCount": 12748,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§15.1 一九四七年的“七月分兵”",
+          "anchor": "id_Toc163156089",
+          "level": 2
+        },
+        {
+          "title": "§15.2 向鲁西南挺进",
+          "anchor": "id_Toc163156090",
+          "level": 2
+        },
+        {
+          "title": "§15.3 沙土集作战方案的预想",
+          "anchor": "id_Toc163156091",
+          "level": 2
+        },
+        {
+          "title": "§15.4 战役经过及主要经验",
+          "anchor": "id_Toc163156092",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第十六章 豫东之战",
+      "level": 1,
+      "wordCount": 21388,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§16.1 集中兵力，大战中原",
+          "anchor": "id_Toc163156094",
+          "level": 2
+        },
+        {
+          "title": "§16.2 审时度势创战机",
+          "anchor": "id_Toc163156095",
+          "level": 2
+        },
+        {
+          "title": "§16.3 取开封，攻敌必救",
+          "anchor": "id_Toc163156096",
+          "level": 2
+        },
+        {
+          "title": "§16.4 再歼援敌",
+          "anchor": "id_Toc163156097",
+          "level": 2
+        },
+        {
+          "title": "§16.5 胜利转移",
+          "anchor": "id_Toc163156098",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第十七章 济南战役",
+      "level": 1,
+      "wordCount": 10422,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§17.1 中央军委攻打济南的作战方针",
+          "anchor": "id_Toc163156100",
+          "level": 2
+        },
+        {
+          "title": "§17.2 攻济打援的具体部署",
+          "anchor": "id_Toc163156101",
+          "level": 2
+        },
+        {
+          "title": "§17.3 攻占济南外围防御地带",
+          "anchor": "id_Toc163156102",
+          "level": 2
+        },
+        {
+          "title": "§17.4 打到济南府，活捉王耀武",
+          "anchor": "id_Toc163156103",
+          "level": 2
+        },
+        {
+          "title": "§17.5 争取更大胜利",
+          "anchor": "id_Toc163156104",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第十八章 第三野战军在渡江战役中",
+      "level": 1,
+      "wordCount": 17488,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§18.1 渡江计划的演变",
+          "anchor": "id_Toc163156106",
+          "level": 2
+        },
+        {
+          "title": "§18.2 战役前的形势",
+          "anchor": "id_Toc163156107",
+          "level": 2
+        },
+        {
+          "title": "§18.3 打过长江去",
+          "anchor": "id_Toc163156108",
+          "level": 2
+        },
+        {
+          "title": "§18.4 围歼逃敌于郎溪、广德地区",
+          "anchor": "id_Toc163156109",
+          "level": 2
+        },
+        {
+          "title": "§18.5 钳击吴淞，解放上海",
+          "anchor": "id_Toc163156110",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第十九章 真正的铜墙铁壁",
+      "level": 1,
+      "wordCount": 8343,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "§19.1 人民是父母",
+          "anchor": "id_Toc163156112",
+          "level": 2
+        },
+        {
+          "title": "§19.2 一切为了前线",
+          "anchor": "id_Toc163156113",
+          "level": 2
+        },
+        {
+          "title": "§19.3 不竭之源",
+          "anchor": "id_Toc163156114",
+          "level": 2
+        },
+        {
+          "title": "§19.4 英雄的山东民兵",
+          "anchor": "id_Toc163156115",
+          "level": 2
+        },
+        {
+          "title": "§19.5 浩浩荡荡的支前大军",
+          "anchor": "id_Toc163156116",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第二十章 淮海战役–粟裕谈",
+      "level": 1,
+      "wordCount": 10677,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第二十一章 编后记",
+      "level": 1,
+      "wordCount": 3187,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=23"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 7,
+      "chapterTitle": "第五章 红军北上抗日先遗队",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_0lxB1pAzlGz86nO6opAn9BI0_7_2695-2773",
+          "range": "2695-2773",
+          "rangeStart": 2695,
+          "rangeEnd": 2773,
+          "markText": "当时中央派出这支部队的更加直接的目的，是企图以这一行动威胁国民党统治的腹心地区，吸引和调动一部分“围剿”中央苏区的敌人，配合中央红军主力即将实行的战略转移。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1741441162,
+          "createTimeFormatted": "2025-03-08 21:39:22",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=7&rangeStart=2695&rangeEnd=2773",
+          "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=7&rangeStart=2695&rangeEnd=2773"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7Yv1JOmAz",
+          "range": "1645-1650",
+          "chapterName": "",
+          "content": "1934年夏，日本帝国主义进一步扩大对华北的侵略，对中央苏区进行第五次大规模“围剿”的国民党军正以重兵向苏区腹地进攻。在此形势下，中共中央和中央革命军事委员会决定，以红7军团组成红军北上抗日先遣队，立即向闽、浙、皖、赣边出动，宣传我党的抗日主张，以推动全国抗日救亡运动的发展，同时调动与牵制国民党军“围剿”中央苏区的兵力，减轻中央苏区的压力。\n　　红军北上抗日先遣队下辖3个师，共6000余人。寻淮洲任军团长，乐少华任政治委员，曾洪易（后叛变）为中共中央随军代表。1934年7月6日晚，北上抗日先遣队从江西瑞金出发，经福建长汀、大田、尤溪、谷口、水口，直逼福州近郊。福建国民党当局十分震惊，迅即调集重兵进行追击和堵截。北上抗日先遣队且战且走，先向闽东转移，相继攻克罗源县城、穆阳镇和庆元县城；后于9月初进入闽北苏区东北古楼一带游击区；接着向浙西挺进，先后攻占清湖、常山等城；继而转向皖赣边行动，于10月下旬进至闽浙赣苏区，在德兴县重溪与红10军会合。11月4日，与红10军合编为红10军团，继续担负抗日先遣队的任务。刘畴西任军团长，乐少华任政治委员，红7军团编为第19师，红10军和地方部队编为第20师、第21师。这时，中共中央已率中央红军主力撤离中央苏区，进行战略转移，红10军团改由在中央苏区坚持斗争的中央军区指挥。11月中旬，第19师向浙皖赣边进发。11月18日，中央军区鉴于国民党军对闽浙赣苏区的“围剿”日趋严重，决定红10军团率第20师、第21师转到外线作战，会同第19师在开化、遂安、衢县、常山地区活动，创建浙皖边根据地。并组成以方志敏为主席的军政委员会，领导红10军团的行动。\n　　11月下旬，红10军团主力向浙皖边前进，12月10日在皖南汤口地区同第19师会合。这时，国民党军两个多旅的兵力，分南北两路向汤口进逼。14日，红10军团利用乌泥关至谭家桥段公路两侧有利地形进行伏击，战斗失利，第19师师长寻淮洲负伤后牺牲。随后，国民党军1个师又两个旅及一些地方团防部队共约20个团的兵力蜂拥追来。12月下旬至次年1月上旬，红10军团为摆脱敌军，艰苦转战于皖南地区，进行大小战斗10余次，损失严重。1935年1月中旬，向闽浙赣苏区转移。进至德兴县港头村时，遭国民党军绝对优势兵力袭击，部队被截成两段，主力约2000人，被合围于怀玉山地区。经7昼夜顽强战斗，指战员大部牺牲，方志敏、刘畴西在突围中被俘，后于南昌英勇就义。先头部队1000余人在参谋长粟裕、政治部主任刘英率领下，突过封锁线进入闽浙赣苏区，经过整编，组成500余人的红军挺进师。此后，挺进师在师长粟裕，政治委员刘英率领下，转战至浙南，开辟了浙南游击根据地，坚持游击战争。\n　　红军北上抗日先遣队虽遭失败，但扩大了共产党和红军的影响，推动了群众性抗日救亡运动的发展，配合了中央红军的战略转移。",
+          "abstract": "抗日先遣队",
+          "star": -1,
+          "createTime": 1741440016,
+          "createTimeFormatted": "2025-03-08 21:20:16",
+          "isFinish": false,
+          "chapterUid": 7
+        }
+      ]
+    },
+    {
+      "chapterUid": 22,
+      "chapterTitle": "第二十章 淮海战役–粟裕谈",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_0lxB1pAzlGz86nO6opAn9BI0_22_1566-2643",
+          "range": "1566-2643",
+          "rangeStart": 1566,
+          "rangeEnd": 2643,
+          "markText": "2、 有人请粟裕谈谈向中央军委提出举行淮海战役建议时的考虑，粟裕说： \t谈这个问题要从豫东战役说起。在豫东战役之前，1947年第四季度，我三支大军已经在中原成品字形，完成了战略展开。但蒋介石在中原还能集中较大的机动兵力。敌人利用优越的运输条件，又常临机变动建制，采取避实击虚的战法，以集中或分散对付我军。我兵力分散时则集中进犯，我兵力集中时则后缩，敌我兵力相当时则与我纠缠。一段时间里敌我形成拉锯状态。为改变中原战局,发展战略进攻，我反复考虑了我军的作战方针，认为面对敌人的新情况，我军必须把歼灭战发展到更大规模。如果我军不能集中更大兵力，打更大规模的歼灭战，而是打中、小规模的歼灭战，战机就很难寻找。当时三支大军各自对付当面敌人均显不足。从华野外线兵团的兵力来看，彻底歼灭敌人一路的力量是够的，但必须邻区协助打援或钳制。我估计，只要我军能打两三个大歼灭战，形势必将改观。为此，我于1948年1月22日向中央军委建议，三支大军采取忽集忽分的作战方针，以集中更大兵力，寻歼敌人重兵集团，兼顾开辟新区工作。1948年4月18日我向中央建议华野一、四、六纵队暂不渡江，会同三、八、十等纵队，并在中原野战军配合下，集中于黄淮地区打大歼灭战，也是基于上述考虑出发的。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1712294184,
+          "createTimeFormatted": "2024-04-05 13:16:24",
+          "chapterUid": 22,
+          "appLink": "weread://bestbookmark?bookId=CB_0lxB1pAzlGz86nO6opAn9BI0&chapterUid=22&rangeStart=1566&rangeEnd=2643",
+          "webLink": "https://weread.qq.com/web/reader/5d742c03643425f306c78423170417a6c477a38366e4f366f70416e3942493020b?chapterUid=22&rangeStart=1566&rangeEnd=2643"
+        }
+      ]
+    },
+    {
+      "chapterUid": 1,
+      "chapterTitle": "粟裕战争回忆录",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7YRMEyfsF",
+          "range": "663-665",
+          "chapterName": "",
+          "content": "sù yù\n（1907—1984）中国无产阶级革命家、军事家，中国人民解放军高级将领。湖南会同人。侗族。1926年11月加入中国共产主义青年团。1927年6月转为中国共产党党员。先后参加南昌起义和湘南起义。历任工农革命军第一师连长、支队长，红军第二十二军六十四师师长，红四军、红十一军、红七军团参谋长。参加中央革命根据地历次反“围剿”作战。1934年7月起，任红军北上抗日先遣队参谋长，挺进师师长，闽浙边临时省军区司令员。抗日战争全面爆发后，任新四军第二支队副司令员，江南、苏北指挥部副指挥，新四军第一师师长兼政治委员、苏中军区司令员兼政治委员、苏浙军区司令员兼政治委员，中共苏中、苏浙区委书记，华中军区副司令员，华中野战军司令员，华东野战军副司令员、代司令员、代政治委员，第三野战军副司令员兼第二副政治委员，兼上海市军管会副主任、南京市军管会主任、南京市市长。曾指挥苏中、豫东、济南等战役，参与指挥淮海和渡江等战役。中华人民共和国成立后，任华东军政委员会副主席，解放军第二副总参谋长、总参谋长，国防部副部长，军事科学院副院长、第一政治委员，中共中央军委常委等职。1955年被授予大将军衔和一级八一勋章、一级独立自由勋章、一级解放勋章。是中共第七届中央候补委员，第八至十一届中央委员，第五届全国人大常委会副委员长，第一至三届国防委员会委员。1982年当选中共中央顾问委员会常委。主要著作编为《粟裕军事文集》《粟裕文选》。",
+          "abstract": "粟裕",
+          "star": -1,
+          "createTime": 1742732602,
+          "createTimeFormatted": "2025-03-23 20:23:22",
+          "isFinish": false,
+          "chapterUid": 1
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 23,
+    "chapterOffset": 544,
+    "progress": 18,
+    "updateTime": 1770286819,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

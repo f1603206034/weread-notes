@@ -1,0 +1,1164 @@
+{
+  "meta": {
+    "bookId": "CB_7ql9ul9roBPW6Pq6Px",
+    "title": "超越感觉:批判性思考指南(第8版) (博学译丛)",
+    "author": "文森特•鲁吉罗",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_CUp4hj4gD64I6Ko6Lk_parsecover",
+    "intro": "",
+    "category": "",
+    "publisher": "复旦大学出版社",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px",
+    "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237",
+    "lastSync": "2026-05-21T12:01:06Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "书名页",
+      "level": 1,
+      "wordCount": 2552,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 2552,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "目录",
+      "level": 1,
+      "wordCount": 1291,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "导论",
+      "level": 1,
+      "wordCount": 1354,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第一篇　背景",
+      "level": 1,
+      "wordCount": 289,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第一章　你是谁？",
+      "level": 2,
+      "wordCount": 10910,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "时间和地点的影响",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "大众文化的影响",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "操纵的“学问”",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "心理学的影响",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "成为个体",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec006",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二章　什么是批判性思考？",
+      "level": 2,
+      "wordCount": 13988,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "心智、大脑，抑或两者兼有？",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "批判性思考的定义",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "批判性思考者的特点",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "直觉的作用",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "批判性思考的基本活动",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "批判性思考与写作",
+          "anchor": "sec006",
+          "level": 3
+        },
+        {
+          "title": "批判性思考与讨论",
+          "anchor": "sec007",
+          "level": 3
+        },
+        {
+          "title": "避免抄袭",
+          "anchor": "sec008",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec009",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第三章　真理是什么？",
+      "level": 2,
+      "wordCount": 9071,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "究竟始于何处？",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "不完善的感知",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "不完善的记忆",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "有缺陷的信息",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "即使最明智的人也会出错",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "真理是发现的，不是创造的",
+          "anchor": "sec006",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec007",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第四章　认知意味着什么？",
+      "level": 2,
+      "wordCount": 12886,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "认知的必要条件",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "检验你自己的知识",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "我们如何知道",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "为什么认知是困难的",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "一个警示故事",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "信仰是一种形式的知识吗？",
+          "anchor": "sec006",
+          "level": 3
+        },
+        {
+          "title": "知识的障碍",
+          "anchor": "sec007",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec008",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第五章　你的观点有多少根据？",
+      "level": 2,
+      "wordCount": 12899,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "可能出错的观点",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "关于道德问题的观点",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "甚至专家也可能出错",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "错误的种类",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "有见识的对无见识的观点",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "形成正确的观点",
+          "anchor": "sec006",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec007",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第六章　证据是什么？",
+      "level": 2,
+      "wordCount": 9287,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "证据种类",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "个人经验",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "未公开的传说",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "公开的报道",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "目击者证言",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "名人证言",
+          "anchor": "sec006",
+          "level": 3
+        },
+        {
+          "title": "专家意见",
+          "anchor": "sec007",
+          "level": 3
+        },
+        {
+          "title": "实验",
+          "anchor": "sec008",
+          "level": 3
+        },
+        {
+          "title": "统计资料",
+          "anchor": "sec009",
+          "level": 3
+        },
+        {
+          "title": "调查",
+          "anchor": "sec010",
+          "level": 3
+        },
+        {
+          "title": "正规观察",
+          "anchor": "sec011",
+          "level": 3
+        },
+        {
+          "title": "研究评述",
+          "anchor": "sec012",
+          "level": 3
+        },
+        {
+          "title": "评价证据",
+          "anchor": "sec013",
+          "level": 3
+        },
+        {
+          "title": "“充分”证据的构成要件是什么？",
+          "anchor": "sec014",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec015",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第七章　什么是论证？",
+      "level": 2,
+      "wordCount": 7887,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "论证的各部分",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "评价论证",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "比较困难的论证",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec004",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第二篇　易犯的错误",
+      "level": 1,
+      "wordCount": 445,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第八章　基本问题：“我的更好”",
+      "level": 2,
+      "wordCount": 8370,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "自我中心的人",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "族群中心的人",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "控制“我的更好”的思维",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec004",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第九章　立场的错误",
+      "level": 2,
+      "wordCount": 13084,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "视角匮乏",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "无根据的假定",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "要么/要么观念",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "盲目遵从",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "绝对主义",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "相对主义",
+          "anchor": "sec006",
+          "level": 3
+        },
+        {
+          "title": "支持或反对变化的偏见",
+          "anchor": "sec007",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec008",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第十章　程序错误",
+      "level": 2,
+      "wordCount": 10645,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "有偏见的证据考量",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "双重标准",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "草率的结论",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "过度概括和刻板成见",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "过度简单化",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "事后归因谬误",
+          "anchor": "sec006",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec007",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第十一章　表达的错误",
+      "level": 2,
+      "wordCount": 8275,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "自相矛盾",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "循环论证",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "无意义的陈述",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "误用权威",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "错误类比",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "非理性的诉求",
+          "anchor": "sec006",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec007",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第十二章　反应的错误",
+      "level": 2,
+      "wordCount": 8171,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "自动拒绝",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "转换话题",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "转移举证责任",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "“稻草人”",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "攻击批评者",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec006",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第十三章　错误组合",
+      "level": 2,
+      "wordCount": 10697,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "立场的错误",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "程序的错误",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "表达的错误",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "反应的错误",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "简单的错误组合",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "有关术语的明智观点",
+          "anchor": "sec006",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec007",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第三篇　策略",
+      "level": 1,
+      "wordCount": 318,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第十四章　知道你自己",
+      "level": 2,
+      "wordCount": 5212,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "批判性思考的详细目录",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "使用你的详细目录",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "挑战与回报",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec004",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第十五章　敏锐地观察",
+      "level": 2,
+      "wordCount": 6220,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "观察人",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "科学和医学中的观察",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "应用的范围",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "变得更敏锐",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "反思你的观察",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec006",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第十六章　选择一个议题",
+      "level": 2,
+      "wordCount": 4964,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十六章　选择一个议题",
+          "anchor": "ch1a-back",
+          "level": 2
+        },
+        {
+          "title": "基本原则：少是多",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "如何限定一个议题",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "样本议题：色情文艺",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "样本议题：拳击",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "样本议题：青少年犯罪",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "进一步收拢议题",
+          "anchor": "sec006",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec007",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第十七章　进行探究",
+      "level": 2,
+      "wordCount": 11930,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "处理不确定的结果",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "到何处寻找信息",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "问题的背景",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "事实和统计资料",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "关于人的信息",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "关于英语语言的信息",
+          "anchor": "sec006",
+          "level": 3
+        },
+        {
+          "title": "报纸、杂志和期刊上的文章",
+          "anchor": "sec007",
+          "level": 3
+        },
+        {
+          "title": "书籍",
+          "anchor": "sec008",
+          "level": 3
+        },
+        {
+          "title": "电脑数据库和摘要检索服务",
+          "anchor": "sec009",
+          "level": 3
+        },
+        {
+          "title": "因特网",
+          "anchor": "sec010",
+          "level": 3
+        },
+        {
+          "title": "集中于焦点",
+          "anchor": "sec011",
+          "level": 3
+        },
+        {
+          "title": "多少探究才够充分？",
+          "anchor": "sec012",
+          "level": 3
+        },
+        {
+          "title": "处理长篇材料",
+          "anchor": "sec013",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec014",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第十八章　形成判断",
+      "level": 2,
+      "wordCount": 10668,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "评价证据",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "评价你信息来源的论证",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "作出重要的区分",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "判断的表达",
+          "anchor": "sec004",
+          "level": 3
+        },
+        {
+          "title": "力求一个平衡的观点",
+          "anchor": "sec005",
+          "level": 3
+        },
+        {
+          "title": "处理可能性",
+          "anchor": "sec006",
+          "level": 3
+        },
+        {
+          "title": "让你的主语适当地具体",
+          "anchor": "sec007",
+          "level": 3
+        },
+        {
+          "title": "使你的谓语准确",
+          "anchor": "sec008",
+          "level": 3
+        },
+        {
+          "title": "包括所有适当的限定语",
+          "anchor": "sec009",
+          "level": 3
+        },
+        {
+          "title": "避免夸大其词",
+          "anchor": "sec010",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec011",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第十九章　说服他人",
+      "level": 2,
+      "wordCount": 15522,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "说服的指导原则",
+          "anchor": "sec001",
+          "level": 3
+        },
+        {
+          "title": "一个缺乏说服力的表述",
+          "anchor": "sec002",
+          "level": 3
+        },
+        {
+          "title": "一个有说服力的表述",
+          "anchor": "sec003",
+          "level": 3
+        },
+        {
+          "title": "应用练习",
+          "anchor": "sec004",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "索引",
+      "level": 1,
+      "wordCount": 12046,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "封底评论",
+      "level": 1,
+      "wordCount": 724,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=28"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "第一章　你是谁？",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_7ql9ul9roBPW6Pq6Px_6_9056-9612",
+          "range": "9056-9612",
+          "rangeStart": 9056,
+          "rangeEnd": 9612,
+          "markText": "成为个体\n鉴于我们前面已经讨论过的，我们应如何看待个性？不是把它视为我们生来俱有的，而是后天获得的——或者更准确地说，是赢得的 。个性始于这样的认知：不可能逃脱受他人和环境的影响。个性的本质就是警惕。下面的指导原则将帮助你达到这一点：\n1．把你对任何人、议题或情势的第一反应看作是尝试性的。 无论它多么吸引人，在你未考察它之前，都不要接受它。\n2．判断你为什么会作出这种反应。 考虑你是不是借鉴自其他人——父母、朋友或者名人、电视中虚构的角色。如果可能，确定是什么特定的经验影响你作出这样的选择。\n3．考虑你有可能对这个人、议题或情势作出的其他可能的反应。\n4．询问你自己是否还有其他比你的第一反应更恰当的反应 。你在回答时，排除你的制约条件的影响。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1627546571,
+          "createTimeFormatted": "2021-07-29 16:16:11",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=CB_7ql9ul9roBPW6Pq6Px&chapterUid=6&rangeStart=9056&rangeEnd=9612",
+          "webLink": "https://weread.qq.com/web/reader/0bb429e2a43425f37716c39756c39726f425057365071365078237?chapterUid=6&rangeStart=9056&rangeEnd=9612"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 6,
+    "chapterOffset": 9304,
+    "progress": 0,
+    "updateTime": 1708322410,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

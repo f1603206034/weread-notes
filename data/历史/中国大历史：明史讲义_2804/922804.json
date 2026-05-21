@@ -1,0 +1,450 @@
+{
+  "meta": {
+    "bookId": "922804",
+    "title": "中国大历史：明史讲义",
+    "author": "孟森",
+    "translator": "",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/804/922804/t6_922804.jpg",
+    "intro": "本书为孟森先生20世纪上半叶在北京大学授课的讲义。全书以时间为线索，运用大量史料，对明史的重要史实和制度演变进行了全面考察，对历任统治者统治期间内部和内外部的各种利益争斗予以了特别关注，对朝代兴衰的原因也予以了深入剖析。全书叙事流畅，剪裁得当，分析透彻，至今依然是了解明史的重要参考书。",
+    "category": "历史-中国古代",
+    "publisher": "北京理工大学出版社",
+    "publishTime": "2016-04-01 00:00:00",
+    "isbn": "9787568216173",
+    "wordCount": 0,
+    "newRating": 799,
+    "newRatingCount": 46,
+    "newRatingDetail": {
+      "good": 35,
+      "fair": 11,
+      "poor": 0,
+      "recent": 1,
+      "deepV": 4,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=922804",
+    "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a",
+    "lastSync": "2026-05-21T11:48:45Z",
+    "readingProgress": "2%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 3,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922804&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 127,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922804&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "《中国大历史》编委会",
+      "level": 1,
+      "wordCount": 66,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922804&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一编 总论",
+      "level": 1,
+      "wordCount": 1322,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 明史在史学上之位置",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=922804&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第二章 明史体例 附明代系统表",
+      "level": 2,
+      "wordCount": 1641,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922804&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第二编 各论",
+      "level": 1,
+      "wordCount": 44800,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 开国",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=922804&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二章 靖难",
+      "level": 2,
+      "wordCount": 31463,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922804&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第三章 夺门",
+      "level": 2,
+      "wordCount": 38524,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922804&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第四章 议礼",
+      "level": 2,
+      "wordCount": 47737,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922804&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第五章 万历之荒怠",
+      "level": 2,
+      "wordCount": 25148,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922804&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第六章 天、崇两朝乱亡之炯鉴",
+      "level": 2,
+      "wordCount": 36859,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922804&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第七章 南明之颠沛",
+      "level": 2,
+      "wordCount": 15468,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922804&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=12"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "第二编 各论",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "922804_6_484-529",
+          "range": "484-529",
+          "rangeStart": 484,
+          "rangeEnd": 529,
+          "markText": "中国自三代以后，得国最正者，惟汉与明。匹夫起事，无凭借威柄之嫌；为民除暴，无预窥神器之意。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1758198755,
+          "createTimeFormatted": "2025-09-18 20:32:35",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=922804&chapterUid=6&rangeStart=484&rangeEnd=529",
+          "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=6&rangeStart=484&rangeEnd=529"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "922804_6_53960-54054",
+          "range": "53960-54054",
+          "rangeStart": 53960,
+          "rangeEnd": 54054,
+          "markText": "至明之廷杖虽酷，然正人被杖，天下以为至荣，终身被人倾慕，此犹太祖以来，与臣下争意气不与臣下争是非所养成之美俗。清则君之处臣，必令天下颂为至圣，必令天下视被处者为至辱，此则气节之所以日卑也。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1743037554,
+          "createTimeFormatted": "2025-03-27 09:05:54",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=922804&chapterUid=6&rangeStart=53960&rangeEnd=54054",
+          "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=6&rangeStart=53960&rangeEnd=54054"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "922804_6_1607-1648",
+          "range": "1607-1648",
+          "rangeStart": 1607,
+          "rangeEnd": 1648,
+          "markText": "惟元无制度，其享国即在武力之上，其能箝制人民数十年而后动者，即其武力之横绝历代也。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1743037546,
+          "createTimeFormatted": "2025-03-27 09:05:46",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=922804&chapterUid=6&rangeStart=1607&rangeEnd=1648",
+          "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=6&rangeStart=1607&rangeEnd=1648"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "922804_6_484-503",
+      "chapterUid": 6,
+      "range": "484-503",
+      "markText": "中国自三代以后，得国最正者，惟汉与明。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=6&rangeStart=484&rangeEnd=503",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=6&rangeStart=484&rangeEnd=503"
+    },
+    {
+      "bookmarkId": "922804_6_1607-1648",
+      "chapterUid": 6,
+      "range": "1607-1648",
+      "markText": "惟元无制度，其享国即在武力之上，其能箝制人民数十年而后动者，即其武力之横绝历代也。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=6&rangeStart=1607&rangeEnd=1648",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=6&rangeStart=1607&rangeEnd=1648"
+    },
+    {
+      "bookmarkId": "922804_9_21239-21265",
+      "chapterUid": 9,
+      "range": "21239-21265",
+      "markText": "其所可供后人议论者，正见明代士气之昌，非后来所能及尔",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=9&rangeStart=21239&rangeEnd=21265",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=9&rangeStart=21239&rangeEnd=21265"
+    },
+    {
+      "bookmarkId": "922804_12_19325-19336",
+      "chapterUid": 12,
+      "range": "19325-19336",
+      "markText": "明亡，时为清康熙三年。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=12&rangeStart=19325&rangeEnd=19336",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=12&rangeStart=19325&rangeEnd=19336"
+    },
+    {
+      "bookmarkId": "922804_6_53960-54054",
+      "chapterUid": 6,
+      "range": "53960-54054",
+      "markText": "至明之廷杖虽酷，然正人被杖，天下以为至荣，终身被人倾慕，此犹太祖以来，与臣下争意气不与臣下争是非所养成之美俗。清则君之处臣，必令天下颂为至圣，必令天下视被处者为至辱，此则气节之所以日卑也。",
+      "totalCount": 60,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=6&rangeStart=53960&rangeEnd=54054",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=6&rangeStart=53960&rangeEnd=54054"
+    },
+    {
+      "bookmarkId": "922804_8_31767-31805",
+      "chapterUid": 8,
+      "range": "31767-31805",
+      "markText": "观于于谦终帝世不予雪，而害谦者则已次第戮之，故知非群小能害谦，自出英宗意尔。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=8&rangeStart=31767&rangeEnd=31805",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=8&rangeStart=31767&rangeEnd=31805"
+    },
+    {
+      "bookmarkId": "922804_9_30468-30541",
+      "chapterUid": 9,
+      "range": "30468-30541",
+      "markText": "李福达之狱，陛下驳勘再三，诚古帝王钦恤盛心，而诸臣负陛下，欺蔽者肆其谗，谄谀者溷其说，畏威者变其辞，访缉者淆其真。是以陛下惑滋甚，而是非卒不能明。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=9&rangeStart=30468&rangeEnd=30541",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=9&rangeStart=30468&rangeEnd=30541"
+    },
+    {
+      "bookmarkId": "922804_7_20491-20524",
+      "chapterUid": 7,
+      "range": "20491-20524",
+      "markText": "蹇义、夏原吉亦言不宜隳成功，而杨士奇、杨荣主罢兵息民，遂复安南国。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=7&rangeStart=20491&rangeEnd=20524",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=7&rangeStart=20491&rangeEnd=20524"
+    },
+    {
+      "bookmarkId": "922804_8_3746-3772",
+      "chapterUid": 8,
+      "range": "3746-3772",
+      "markText": "敌国外患，反为廓清阉焰之一助，其后于明之全盛无损也。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=8&rangeStart=3746&rangeEnd=3772",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=8&rangeStart=3746&rangeEnd=3772"
+    },
+    {
+      "bookmarkId": "922804_11_33445-33466",
+      "chapterUid": 11,
+      "range": "33445-33466",
+      "markText": "卫所之军，亦为豪家供奔走，虽一诸生可役使之",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=11&rangeStart=33445&rangeEnd=33466",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=11&rangeStart=33445&rangeEnd=33466"
+    },
+    {
+      "bookmarkId": "922804_6_42242-42333",
+      "chapterUid": 6,
+      "range": "42242-42333",
+      "markText": "然以国家全体而论，当开创之后，而无检制元勋宿将之力，人人挟其马上之烈以自豪，权贵纵横，民生凋敝，其囯亦不可久也。功臣遭戮，千古叹汉、明两祖之少恩，其实亦汉、明开国之功，所以能速就耳。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=6&rangeStart=42242&rangeEnd=42333",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=6&rangeStart=42242&rangeEnd=42333"
+    },
+    {
+      "bookmarkId": "922804_11_37755-37765",
+      "chapterUid": 11,
+      "range": "37755-37765",
+      "markText": "举朝知其冤，莫敢言。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=11&rangeStart=37755&rangeEnd=37765",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=11&rangeStart=37755&rangeEnd=37765"
+    },
+    {
+      "bookmarkId": "922804_7_18805-18848",
+      "chapterUid": 7,
+      "range": "18805-18848",
+      "markText": "仁、宣两朝，蒙业而治，为明代极盛之时，承成祖之所得而其功未坠，沿成祖之所失而其弊亦未形",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=7&rangeStart=18805&rangeEnd=18848",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=7&rangeStart=18805&rangeEnd=18848"
+    },
+    {
+      "bookmarkId": "922804_7_23729-23752",
+      "chapterUid": 7,
+      "range": "23729-23752",
+      "markText": "，莫敢不服，以此德阉，一意重用，尽坏太祖成宪。",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=7&rangeStart=23729&rangeEnd=23752",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=7&rangeStart=23729&rangeEnd=23752"
+    },
+    {
+      "bookmarkId": "922804_8_15609-15618",
+      "chapterUid": 8,
+      "range": "15609-15618",
+      "markText": "天位已定，宁复有他",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=8&rangeStart=15609&rangeEnd=15618",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=8&rangeStart=15609&rangeEnd=15618"
+    },
+    {
+      "bookmarkId": "922804_10_12719-12802",
+      "chapterUid": 10,
+      "range": "12719-12802",
+      "markText": "由雒于仁疏可见帝之昏惰。申时行遇事迁就，以成其过。留中之例开，言路无所施其匡救，于是庙堂争议，与君国不生效力，惟在臣僚间自为恩怨，朋党分歧，言论厖杂，任事者无所措手。",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=10&rangeStart=12719&rangeEnd=12802",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=10&rangeStart=12719&rangeEnd=12802"
+    },
+    {
+      "bookmarkId": "922804_12_3103-3126",
+      "chapterUid": 12,
+      "range": "3103-3126",
+      "markText": "北兵至犹可议款，左逆至则若辈高官，我君臣死耳。",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=12&rangeStart=3103&rangeEnd=3126",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=12&rangeStart=3103&rangeEnd=3126"
+    },
+    {
+      "bookmarkId": "922804_6_37989-38017",
+      "chapterUid": 6,
+      "range": "37989-38017",
+      "markText": "御史台古与省对立，明初改台为都察院，与部并立，是为七卿。",
+      "totalCount": 42,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=6&rangeStart=37989&rangeEnd=38017",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=6&rangeStart=37989&rangeEnd=38017"
+    },
+    {
+      "bookmarkId": "922804_6_3806-3826",
+      "chapterUid": 6,
+      "range": "3806-3826",
+      "markText": "是岁，巴延请杀张、王、刘、李、赵五姓汉人",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=6&rangeStart=3806&rangeEnd=3826",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=6&rangeStart=3806&rangeEnd=3826"
+    },
+    {
+      "bookmarkId": "922804_7_25703-25777",
+      "chapterUid": 7,
+      "range": "25703-25777",
+      "markText": "其所以作此狡狯者，主者之意，必欲言帝王无野窜幸存之理，为绝天下系望崇祯太子之计，即太子复出，亦执定其为伪托，以处光棍之法处之也。此秉笔者之不得已也。",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=922804&chapterUid=7&rangeStart=25703&rangeEnd=25777",
+      "webLink": "https://weread.qq.com/web/reader/f6d326805e14b4f6d98ed9a?chapterUid=7&rangeStart=25703&rangeEnd=25777"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 8,
+    "chapterOffset": 7044,
+    "progress": 2,
+    "updateTime": 1761897823,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

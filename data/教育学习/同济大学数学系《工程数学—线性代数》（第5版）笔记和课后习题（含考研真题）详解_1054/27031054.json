@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "bookId": "27031054",
+    "title": "同济大学数学系《工程数学—线性代数》（第5版）笔记和课后习题（含考研真题）详解",
+    "author": "圣才电子书",
+    "translator": "",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/54/27031054/t6_27031054.jpg",
+    "intro": "本书特别适用于参加研究生入学考试指定考研参考书目为同济大学数学系《工程数学—线性代数》（第5版）的考生。也可供各大院校学习同济大学数学系《工程数学—线性代数》（第5版）的师生参考。同济大学数学系主编的《工程数学—线性代数》（第5版）是我国高校数学类广泛采用的权威教材之一，也被众多高校（包括科研机构）指定为考研数学公共课参考书目。为了帮助参加研究生入学考试指定参考书目为同济大学数学系主编的《工程数学—线性代数》（第5版）的考生复习专业课，我们根据该教材的教学大纲和名校考研真题的命题规律精心编写了同济大学数学系《工程数学—线性代数》（第5版）辅导用书（均提供免费下载，免费升级）：1．[3D电子书]同济大学数学系《工程数学—线性代数》（第5版）笔记和课后习题（含考研真题）详解[免费下载]2．[3D电子书]同济大学数学系《工程数学—线性代数》（第5版）配套题库【名校考研真题+课后习题+章节题库+模拟试题】[免费下载]本书是同济大学数学系主编的《工程数学—线性代数》（第5版）的配套e书，主要包括以下内容：（1）梳理知识脉络，浓缩学科精华。本书每章的复习笔记均对该章的重难点进行了整理，并参考了国内名校名师讲授该教材的课堂笔记。因此，本书的内容几乎浓缩了该教材的所有知识精华。（2）详解课后习题，巩固重点难点。本书参考大量相关辅导资料，对同济大学数学系主编的《工程数学—线性代数》（第4版）的课后思考题进行了详细的分析和解答，并对相关重要知识点进行了延伸和归纳。（3）精编考研真题，培养解题思路。本书精选详析了近年来的考研真题，所选考研真题基本涵盖了每章的考点和难点，考生可以据此了解考研真题的命题风格和难易程度，并检验自己的复习效果。（4）免费更新内容，获取最新信息。本书定期会进行修订完善，补充最新的考研真题和答案。对于最新补充的考研真题和答案，均可以免费升级获得。",
+    "category": "教育学习-考试",
+    "publisher": "圣才学习网",
+    "publishTime": "2017-08-07 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 5,
+    "newRatingDetail": {
+      "good": 3,
+      "fair": 1,
+      "poor": 1,
+      "recent": 0,
+      "deepV": 1,
+      "myRating": "",
+      "title": "评分不足"
+    },
+    "appLink": "weread://reading?bId=27031054",
+    "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8",
+    "lastSync": "2026-05-21T11:50:09Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27031054&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "第1章 行列式",
+      "level": 1,
+      "wordCount": 2991,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.1 复习笔记",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=27031054&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "1.2 课后习题详解",
+      "level": 2,
+      "wordCount": 2398,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27031054&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "1.3 考研真题详解",
+      "level": 2,
+      "wordCount": 273,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27031054&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第2章 矩阵及其运算",
+      "level": 1,
+      "wordCount": 3219,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1 复习笔记",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=27031054&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "2.2 课后习题详解",
+      "level": 2,
+      "wordCount": 2631,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27031054&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "2.3 考研真题详解",
+      "level": 2,
+      "wordCount": 112,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27031054&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第3章 矩阵的初等变换与线性方程组",
+      "level": 1,
+      "wordCount": 1937,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.1 复习笔记",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=27031054&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "3.2 课后习题详解",
+      "level": 2,
+      "wordCount": 3121,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27031054&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "3.3 考研真题详解",
+      "level": 2,
+      "wordCount": 315,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27031054&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第4章 向量组的线性相关性",
+      "level": 1,
+      "wordCount": 2532,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.1 复习笔记",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=27031054&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "4.2 课后习题详解",
+      "level": 2,
+      "wordCount": 6338,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27031054&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "4.3 考研真题详解",
+      "level": 2,
+      "wordCount": 1677,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27031054&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第5章 相似矩阵及二次型",
+      "level": 1,
+      "wordCount": 2916,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1 复习笔记",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=27031054&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "5.2 课后习题详解",
+      "level": 2,
+      "wordCount": 6670,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27031054&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "5.3 考研真题详解",
+      "level": 2,
+      "wordCount": 1136,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27031054&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第6章 线性空间与线性变换",
+      "level": 1,
+      "wordCount": 2099,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.1 复习笔记",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=27031054&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "6.2 课后习题详解",
+      "level": 2,
+      "wordCount": 1535,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27031054&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "6.3 考研真题详解",
+      "level": 2,
+      "wordCount": 49,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27031054&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=19"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 8,
+      "chapterTitle": "第3章 矩阵的初等变换与线性方程组",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "27031054_8_10338-13257",
+          "range": "10338-13257",
+          "rangeStart": 10338,
+          "rangeEnd": 13257,
+          "markText": "秩的性质\n①￼￼\n②￼;\n③若￼,则￼;\n④若P、Q可逆，则￼.\n⑤￼特别地，当B=b为非零列向量时，有\n￼.\n⑥￼.\n⑦￼.\n⑧若￼则￼.\n推论  ①设A为n阶矩阵，则￼.\n②若￼且￼,则￼.\n③设AB=0，若A为列满秩矩阵，则B=0．",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1750387248,
+          "createTimeFormatted": "2025-06-20 10:40:48",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=27031054&chapterUid=8&rangeStart=10338&rangeEnd=13257",
+          "webLink": "https://weread.qq.com/web/reader/3fc32ca0719c760e3fc17d8?chapterUid=8&rangeStart=10338&rangeEnd=13257"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 8,
+    "chapterOffset": 5263,
+    "progress": 0,
+    "updateTime": 1750391160,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

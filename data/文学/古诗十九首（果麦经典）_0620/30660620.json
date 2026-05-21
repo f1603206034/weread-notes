@@ -1,0 +1,583 @@
+{
+  "meta": {
+    "bookId": "30660620",
+    "title": "古诗十九首（果麦经典）",
+    "author": "朱自清释 [明]董其昌绘",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/81/YueWen_30660620/t6_YueWen_30660620.jpg",
+    "intro": "古诗十九首最早收录于梁昭明太子萧统编纂的《文选》，是一组五言诗。作者为谁不得而知，年代也遥不可知，学者推测大约创作于东汉末年。这十九首古诗，质朴自然，平淡浅近，可谓是最古的五言诗，在中国文学史上有崇高的地位。古诗十九首能流传千古，被后人推崇，究其原因，是它能道出人所共有之情。情人之间的离愁别绪，士子的失意之情，人生无常、岁月流逝的感慨，人人都有这种情感，人人心中都有诗，然而大多人有情却不能言，或能言而言不尽，古诗十九首却把这些感情说到了极致。一九四一年朱自清在《国文月刊》设置诗文选读一栏，他选择了《古诗十九首》作为对象，把对诗歌典故的注解考证与鉴赏批评结合在一起，融学术性与通俗性为一体，形成了自己独有的诗歌鉴赏风格。虽然只连载了九篇，分析了九首诗，但仍然成为古诗十九首研究史上的一个经典文本。本书的赏析部分就采用朱自清的诠释和讲解，另外十首附上原文及《文选》李善注。",
+    "category": "文学-古代诗词",
+    "publisher": "中国广播影视出版社",
+    "publishTime": "2020-03-01 00:00:00",
+    "isbn": "9787504384409",
+    "wordCount": 0,
+    "newRating": 867,
+    "newRatingCount": 1283,
+    "newRatingDetail": {
+      "good": 1123,
+      "fair": 147,
+      "poor": 13,
+      "recent": 10,
+      "deepV": 167,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=30660620",
+    "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e",
+    "lastSync": "2026-05-21T12:00:48Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "118e838f15aafcfc4129ab9ff21cdecf44d36bec41770695e034630ca2725fee"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 126,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "插图",
+      "level": 1,
+      "wordCount": 196,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "序",
+      "level": 1,
+      "wordCount": 2546,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "壹",
+      "level": 1,
+      "wordCount": 3016,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "贰",
+      "level": 1,
+      "wordCount": 3435,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "叁",
+      "level": 1,
+      "wordCount": 2538,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "肆",
+      "level": 1,
+      "wordCount": 2334,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "伍",
+      "level": 1,
+      "wordCount": 3328,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "陆",
+      "level": 1,
+      "wordCount": 2161,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "柒",
+      "level": 1,
+      "wordCount": 3397,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "捌",
+      "level": 1,
+      "wordCount": 2555,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "玖",
+      "level": 1,
+      "wordCount": 1990,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "拾",
+      "level": 1,
+      "wordCount": 224,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "拾壹",
+      "level": 1,
+      "wordCount": 248,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "拾贰",
+      "level": 1,
+      "wordCount": 465,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "拾叁",
+      "level": 1,
+      "wordCount": 425,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "拾肆",
+      "level": 1,
+      "wordCount": 184,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "拾伍",
+      "level": 1,
+      "wordCount": 219,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "拾陆",
+      "level": 1,
+      "wordCount": 495,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "拾柒",
+      "level": 1,
+      "wordCount": 347,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "拾捌",
+      "level": 1,
+      "wordCount": 212,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "拾玖",
+      "level": 1,
+      "wordCount": 184,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 312,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=30660620&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=24"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 5,
+      "chapterTitle": "壹",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "30660620_5_800-945",
+          "range": "800-886",
+          "rangeStart": 800,
+          "rangeEnd": 886,
+          "markText": "思君令人老，岁月忽已晚。弃捐勿复道，努力加餐饭。\n",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1636074218,
+          "createTimeFormatted": "2021-11-05 09:03:38",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=5&rangeStart=800&rangeEnd=886",
+          "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=5&rangeStart=800&rangeEnd=886"
+        }
+      ]
+    },
+    {
+      "chapterUid": 14,
+      "chapterTitle": "拾",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7Bg0jUdJi",
+          "range": "718-761",
+          "chapterName": "",
+          "content": "脉脉眼中波，盈盈花盛处",
+          "abstract": "盈盈一水间，脉脉不得语。",
+          "star": -1,
+          "createTime": 1659589577,
+          "createTimeFormatted": "2022-08-04 13:06:17",
+          "isFinish": false,
+          "chapterUid": 14
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "30660620_7_614-657",
+      "chapterUid": 7,
+      "range": "614-657",
+      "markText": "人生天地间，忽如远行客。",
+      "totalCount": 1309,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=7&rangeStart=614&rangeEnd=657",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=7&rangeStart=614&rangeEnd=657"
+    },
+    {
+      "bookmarkId": "30660620_19_439-763",
+      "chapterUid": 19,
+      "range": "439-763",
+      "markText": "生年不满百，常怀千岁忧。 昼短苦夜长，何不秉烛游。 为乐当及时，何能待来兹。 愚者爱惜费，但为后世嗤。 仙人王子乔，难可与等期。",
+      "totalCount": 680,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=19&rangeStart=439&rangeEnd=763",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=19&rangeStart=439&rangeEnd=763"
+    },
+    {
+      "bookmarkId": "30660620_5_679-886",
+      "chapterUid": 5,
+      "range": "679-886",
+      "markText": "相去日已远，衣带日已缓。浮云蔽白日，游子不顾反。 思君令人老，岁月忽已晚。弃捐勿复道，努力加餐饭。",
+      "totalCount": 517,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=5&rangeStart=679&rangeEnd=886",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=5&rangeStart=679&rangeEnd=886"
+    },
+    {
+      "bookmarkId": "30660620_6_437-792",
+      "chapterUid": 6,
+      "range": "437-792",
+      "markText": "青青河畔草，郁郁园中柳。 盈盈楼上女，皎皎当窗牖。 娥娥红粉妆，纤纤出素手。 昔为倡家女，今为荡子妇。 荡子行不归，空床难独守。",
+      "totalCount": 486,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=6&rangeStart=437&rangeEnd=792",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=6&rangeStart=437&rangeEnd=792"
+    },
+    {
+      "bookmarkId": "30660620_5_4204-4250",
+      "chapterUid": 5,
+      "range": "4204-4250",
+      "markText": "这种回环复沓，是歌谣的生命；许多歌谣没有韵，专靠这种组织来建筑它们的体格，表现那强度的情感。",
+      "totalCount": 425,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=5&rangeStart=4204&rangeEnd=4250",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=5&rangeStart=4204&rangeEnd=4250"
+    },
+    {
+      "bookmarkId": "30660620_23_439-794",
+      "chapterUid": 23,
+      "range": "439-794",
+      "markText": "明月何皎皎，照我罗床帏。 忧愁不能寐，揽衣起徘徊。 客行虽云乐，不如早旋归。 出户独彷徨，愁思当告谁。 引领还入房，泪下沾裳衣。",
+      "totalCount": 416,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=23&rangeStart=439&rangeEnd=794",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=23&rangeStart=439&rangeEnd=794"
+    },
+    {
+      "bookmarkId": "30660620_5_601-644",
+      "chapterUid": 5,
+      "range": "601-644",
+      "markText": "胡马依北风，越鸟巢南枝。",
+      "totalCount": 405,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=5&rangeStart=601&rangeEnd=644",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=5&rangeStart=601&rangeEnd=644"
+    },
+    {
+      "bookmarkId": "30660620_4_2027-2123",
+      "chapterUid": 4,
+      "range": "2027-2123",
+      "markText": "所谓“比兴”的信念，是认为作诗必关教化；凡男女私情，相思离别的作品，必有寄托的意旨——不是“臣不得于君”，便是“士不遇知己”。这些人似乎觉得相思离别等私情不值得作诗；作诗和读诗，必须能见其大。",
+      "totalCount": 400,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=4&rangeStart=2027&rangeEnd=2123",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=4&rangeStart=2027&rangeEnd=2123"
+    },
+    {
+      "bookmarkId": "30660620_4_1605-1645",
+      "chapterUid": 4,
+      "range": "1605-1645",
+      "markText": "诗是精粹的语言，暗示是它的生命。暗示得从比喻和组织上作工夫，利用读者联想的力量。",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=4&rangeStart=1605&rangeEnd=1645",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=4&rangeStart=1605&rangeEnd=1645"
+    },
+    {
+      "bookmarkId": "30660620_9_800-886",
+      "chapterUid": 9,
+      "range": "800-886",
+      "markText": "不惜歌者苦，但伤知音稀。愿为双鸣鹤，奋翅起高飞。",
+      "totalCount": 342,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=9&rangeStart=800&rangeEnd=886",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=9&rangeStart=800&rangeEnd=886"
+    },
+    {
+      "bookmarkId": "30660620_4_731-757",
+      "chapterUid": 4,
+      "range": "731-757",
+      "markText": "只有能分析的人，才能切实欣赏；欣赏是在透彻的了解里。",
+      "totalCount": 336,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=4&rangeStart=731&rangeEnd=757",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=4&rangeStart=731&rangeEnd=757"
+    },
+    {
+      "bookmarkId": "30660620_7_1203-1249",
+      "chapterUid": 7,
+      "range": "1203-1249",
+      "markText": "《尸子》：老莱子曰，人生于天地之间，寄也。寄者固归。《列子》曰：死人为归人，则生人为行人矣。",
+      "totalCount": 312,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=7&rangeStart=1203&rangeEnd=1249",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=7&rangeStart=1203&rangeEnd=1249"
+    },
+    {
+      "bookmarkId": "30660620_5_2751-2791",
+      "chapterUid": 5,
+      "range": "2751-2791",
+      "markText": "所谓诗中主人，可并不一定是作诗人；作诗人是尽可以虚拟各种人的口气，代他们立言的。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=5&rangeStart=2751&rangeEnd=2791",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=5&rangeStart=2751&rangeEnd=2791"
+    },
+    {
+      "bookmarkId": "30660620_5_2820-2901",
+      "chapterUid": 5,
+      "range": "2820-2901",
+      "markText": "但是“浮云蔽白日”这个比喻，究竟该怎样解释呢？朱筠说：“‘不顾返’者，本是游子薄幸；不肯直言，却托诸浮云蔽日。言我思子而子不思归，定有谗人间之；不然，胡不返耶？”",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=5&rangeStart=2820&rangeEnd=2901",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=5&rangeStart=2820&rangeEnd=2901"
+    },
+    {
+      "bookmarkId": "30660620_9_1254-1330",
+      "chapterUid": 9,
+      "range": "1254-1330",
+      "markText": "《琴操》曰：《杞梁妻叹》者，齐邑杞梁殖之妻所作也。殖死，妻叹曰：上则无父，中则无夫，下则无子，将何以立吾节？亦死而已。援琴而鼓之。曲终，遂自投淄水而死。",
+      "totalCount": 260,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=9&rangeStart=1254&rangeEnd=1330",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=9&rangeStart=1254&rangeEnd=1330"
+    },
+    {
+      "bookmarkId": "30660620_4_997-1036",
+      "chapterUid": 4,
+      "range": "997-1036",
+      "markText": "所谓“温柔敦厚”“怨而不怒”的作风，“三百篇”之外，“十九首”是最重要的代表。",
+      "totalCount": 256,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=4&rangeStart=997&rangeEnd=1036",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=4&rangeStart=997&rangeEnd=1036"
+    },
+    {
+      "bookmarkId": "30660620_13_437-714",
+      "chapterUid": 13,
+      "range": "437-714",
+      "markText": "庭中有奇树，绿叶发华滋。 攀条折其荣，将以遗所思。 馨香盈怀袖，路远莫致之。 此物何足贡，但感别经时。",
+      "totalCount": 253,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=13&rangeStart=437&rangeEnd=714",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=13&rangeStart=437&rangeEnd=714"
+    },
+    {
+      "bookmarkId": "30660620_4_873-917",
+      "chapterUid": 4,
+      "range": "873-917",
+      "markText": "若是囫囵吞枣的读去，所得着的怕只是声调辞藻等一枝一节，整个儿的诗会从你的口头眼下滑过去。",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=4&rangeStart=873&rangeEnd=917",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=4&rangeStart=873&rangeEnd=917"
+    },
+    {
+      "bookmarkId": "30660620_5_1770-1790",
+      "chapterUid": 5,
+      "range": "1770-1790",
+      "markText": "这所谓词短意长，以技巧而论，是很经济的。",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=5&rangeStart=1770&rangeEnd=1790",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=5&rangeStart=1770&rangeEnd=1790"
+    },
+    {
+      "bookmarkId": "30660620_9_437-480",
+      "chapterUid": 9,
+      "range": "437-480",
+      "markText": "西北有高楼，上与浮云齐。",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=30660620&chapterUid=9&rangeStart=437&rangeEnd=480",
+      "webLink": "https://weread.qq.com/web/reader/e5c32bd071d3d80ce5c7d1e?chapterUid=9&rangeStart=437&rangeEnd=480"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 5,
+    "chapterOffset": 1137,
+    "progress": 0,
+    "updateTime": 1762100889,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

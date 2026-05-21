@@ -1,0 +1,2984 @@
+{
+  "meta": {
+    "bookId": "CB_7WA6WE6W1GJg6vU6x70qf863",
+    "title": "西方哲学史(第9版)",
+    "author": "[美]撒穆尔·伊诺克·斯通普夫 [美] 詹姆斯·菲泽，译者：邓晓芒、匡宏 等",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_7dgBEeBEx87i6es6cN2jb5V4_parsecover",
+    "intro": "",
+    "category": "",
+    "publisher": "北京联合出版公司",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863",
+    "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696",
+    "lastSync": "2026-05-21T11:51:25Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 0,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "3bb61b0a8e7c14747d11bd33c18bb6e2b6b8e45604ec376919a2c22b71848fca"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "制作说明",
+      "level": 1,
+      "wordCount": 496,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "目 录",
+      "level": 1,
+      "wordCount": 4305,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "中文版序",
+      "level": 1,
+      "wordCount": 880,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第八版译者序",
+      "level": 1,
+      "wordCount": 2421,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第七版译者序",
+      "level": 1,
+      "wordCount": 2361,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 319,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第一部分希腊哲学",
+      "level": 1,
+      "wordCount": 150,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第一章苏格拉底的前辈",
+      "level": 2,
+      "wordCount": 78,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "1.1 什么东西是永恒存在的？",
+      "level": 3,
+      "wordCount": 25017,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.1 什么东西是永恒存在的？",
+          "anchor": "ch1-1",
+          "level": 3
+        },
+        {
+          "title": "泰勒斯",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "阿那克西曼德",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "阿那克西米尼",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "1.2 万物的数学基础",
+          "anchor": "ch1-2",
+          "level": 3
+        },
+        {
+          "title": "毕达哥拉斯",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "1.3解释变化的尝试",
+          "anchor": "ch1-3",
+          "level": 3
+        },
+        {
+          "title": "赫拉克利特",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "巴门尼德",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "芝诺",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "恩培多克勒",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "阿那克萨戈拉",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "1.4 原子论者",
+          "anchor": "ch1-4",
+          "level": 3
+        },
+        {
+          "title": "原子和虚空",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "知识理论和伦理学",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_12",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_13",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第二章智者派与苏格拉底",
+      "level": 2,
+      "wordCount": 46,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "2.1 智者派",
+      "level": 3,
+      "wordCount": 17232,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1 智者派",
+          "anchor": "ch2-1",
+          "level": 3
+        },
+        {
+          "title": "普罗泰戈拉",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "高尔吉亚",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "色拉叙马霍斯",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "2.2 苏格拉底",
+          "anchor": "ch2-2",
+          "level": 3
+        },
+        {
+          "title": "苏格拉底的生平",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "作为哲学家的苏格拉底",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "苏格拉底的知识理论：思想的助产术",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "苏格拉底的道德思想",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "苏格拉底的审判和死亡",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_9",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_10",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第三章柏拉图",
+      "level": 2,
+      "wordCount": 68,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "3.1 柏拉图的生平",
+      "level": 3,
+      "wordCount": 29726,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.1 柏拉图的生平",
+          "anchor": "ch3-1",
+          "level": 3
+        },
+        {
+          "title": "3.2 知识理论",
+          "anchor": "ch3-2",
+          "level": 3
+        },
+        {
+          "title": "洞 穴",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "线 段",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "理念论",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "3.3 道德哲学",
+          "anchor": "ch3-3",
+          "level": 3
+        },
+        {
+          "title": "灵魂概念",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "恶的原因：无知或遗忘",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "恢复失去的道德",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "作为功能之实现的德性",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "3.4 政治哲学",
+          "anchor": "ch3-4",
+          "level": 3
+        },
+        {
+          "title": "巨人般的国家",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "哲学王",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "国家中的德性",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "理想国的衰败",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "3.5 宇宙观",
+          "anchor": "ch3-5",
+          "level": 3
+        },
+        {
+          "title": "总结",
+          "anchor": "toc_12",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_13",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第四章亚里士多德",
+      "level": 2,
+      "wordCount": 104,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "4.1 亚里士多德的生平",
+      "level": 3,
+      "wordCount": 26604,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.2 逻辑学",
+          "anchor": "ch4-2",
+          "level": 3
+        },
+        {
+          "title": "范畴和推理的起点",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "三段论",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "4.3 形而上学",
+          "anchor": "ch4-3",
+          "level": 3
+        },
+        {
+          "title": "界定形而上学的问题",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "作为事物的首要本质的实体",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "质料和形式",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "变化的过程：四因",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "潜能与现实",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "不被推动的推动者",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "4.4 人的地位：物理学、生物学和心理学",
+          "anchor": "ch4-4",
+          "level": 3
+        },
+        {
+          "title": "物理学",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "生物学",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "心理学",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "4.5 伦理学",
+          "anchor": "ch4-5",
+          "level": 3
+        },
+        {
+          "title": "“目的”的类型",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "人的功能",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "作为目的的幸福",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "作为中道的德性",
+          "anchor": "toc_15",
+          "level": 4
+        },
+        {
+          "title": "慎思和选择",
+          "anchor": "toc_16",
+          "level": 4
+        },
+        {
+          "title": "沉思",
+          "anchor": "toc_17",
+          "level": 4
+        },
+        {
+          "title": "4.6 政治学",
+          "anchor": "ch4-6",
+          "level": 3
+        },
+        {
+          "title": "国家类型",
+          "anchor": "toc_18",
+          "level": 4
+        },
+        {
+          "title": "差异与不平等",
+          "anchor": "toc_19",
+          "level": 4
+        },
+        {
+          "title": "好的政体和革命",
+          "anchor": "toc_20",
+          "level": 4
+        },
+        {
+          "title": "4.7 艺术哲学",
+          "anchor": "ch4-7",
+          "level": 3
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_21",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_22",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第二部分希腊化时期和中世纪的哲学",
+      "level": 1,
+      "wordCount": 350,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第五章亚里士多德以后的古代哲学",
+      "level": 2,
+      "wordCount": 78,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "5.1 伊壁鸠鲁主义",
+      "level": 3,
+      "wordCount": 25090,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1 伊壁鸠鲁主义",
+          "anchor": "ch5-1",
+          "level": 3
+        },
+        {
+          "title": "物理学与伦理学",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "神和死亡",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "快乐原则",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "快乐与社会正义",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "5.2 斯多葛主义",
+          "anchor": "ch5-2",
+          "level": 3
+        },
+        {
+          "title": "相对于快乐的智慧和控制",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "斯多葛学派的知识理论",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "作为一切实在之基础的物质",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "万物中的神",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "命运和天意",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "人的本性",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "伦理学和人的戏剧",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "自由的问题",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "世界主义和正义",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "5.3 怀疑主义",
+          "anchor": "ch5-3",
+          "level": 3
+        },
+        {
+          "title": "寻求心灵的安宁",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "明显的事情和不明显的事情",
+          "anchor": "toc_15",
+          "level": 4
+        },
+        {
+          "title": "5.4 普罗提诺",
+          "anchor": "ch5-4",
+          "level": 3
+        },
+        {
+          "title": "普罗提诺的生平",
+          "anchor": "toc_16",
+          "level": 3
+        },
+        {
+          "title": "作为太一的神",
+          "anchor": "toc_17",
+          "level": 4
+        },
+        {
+          "title": "流溢的隐喻",
+          "anchor": "toc_18",
+          "level": 4
+        },
+        {
+          "title": "救 赎",
+          "anchor": "toc_19",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_20",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_21",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第六章奥古斯丁",
+      "level": 2,
+      "wordCount": 91,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "6.1 奥古斯丁的生平",
+      "level": 3,
+      "wordCount": 19202,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.2 人类知识",
+          "anchor": "ch6-2",
+          "level": 3
+        },
+        {
+          "title": "信仰与理性",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "克服怀疑论",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "知识与感觉",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "光照论",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "6.3 上 帝",
+          "anchor": "ch6-3",
+          "level": 3
+        },
+        {
+          "title": "6.4 被造世界",
+          "anchor": "ch6-4",
+          "level": 3
+        },
+        {
+          "title": "从无中创世",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "种 质",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "6.5 道德哲学",
+          "anchor": "ch6-5",
+          "level": 3
+        },
+        {
+          "title": "爱的作用",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "作为恶的原因的自由意志",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "6.6 正义",
+          "anchor": "ch6-6",
+          "level": 3
+        },
+        {
+          "title": "6.7 历史和两座城",
+          "anchor": "ch6-7",
+          "level": 3
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_9",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_10",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第七章中世纪早期的哲学",
+      "level": 2,
+      "wordCount": 111,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "7.1 波爱修斯",
+      "level": 3,
+      "wordCount": 23474,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.1 波爱修斯",
+          "anchor": "ch7-1",
+          "level": 3
+        },
+        {
+          "title": "波爱修斯的生平",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "哲学的慰藉",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "共相的问题",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "7.2 伪狄奥尼修斯",
+          "anchor": "ch7-2",
+          "level": 3
+        },
+        {
+          "title": "对上帝的知识",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "7.3 爱留根纳",
+          "anchor": "ch7-3",
+          "level": 3
+        },
+        {
+          "title": "爱留根纳的生平",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "自然的区分",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "7.4 解决共相问题的新方法",
+          "anchor": "ch7-4",
+          "level": 3
+        },
+        {
+          "title": "奥多和威廉姆：极端实在论",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "洛色林：唯名论",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "阿伯拉尔：概念论或温和实在论",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "7.5 安瑟伦的本体论证明",
+          "anchor": "ch7-5",
+          "level": 3
+        },
+        {
+          "title": "安瑟伦的实在论",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "本体论论证",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "高尼罗的反驳",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "安瑟伦对高尼罗的回答",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "7.6 穆斯林和犹太思想中的信仰和理性",
+          "anchor": "ch7-6",
+          "level": 3
+        },
+        {
+          "title": "阿维森纳",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "阿威罗伊",
+          "anchor": "toc_15",
+          "level": 4
+        },
+        {
+          "title": "摩西·迈蒙尼德",
+          "anchor": "toc_16",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_17",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_18",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第八章阿奎那和他的中世纪晚期的继承者",
+      "level": 2,
+      "wordCount": 152,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "8.1 阿奎那的生平",
+      "level": 3,
+      "wordCount": 26615,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.1 阿奎那的生平",
+          "anchor": "ch8-1",
+          "level": 3
+        },
+        {
+          "title": "波那文都和巴黎大学",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "8.2 哲学与神学",
+          "anchor": "ch8-2",
+          "level": 3
+        },
+        {
+          "title": "信仰与理性",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "8.3 上帝存在的证明",
+          "anchor": "ch8-3",
+          "level": 3
+        },
+        {
+          "title": "从运动、致动因以及必然存在出发的证明",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "从完满性和秩序出发的证明",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "8.4 对上帝本性的知识",
+          "anchor": "ch8-4",
+          "level": 3
+        },
+        {
+          "title": "否定的方式",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "类比的知识",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "8.5 创 世",
+          "anchor": "ch8-5",
+          "level": 3
+        },
+        {
+          "title": "被创造的秩序是永恒的吗？",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "从无中创世",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "这是最好的可能世界吗？",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "作为缺乏的恶",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "被创造的存在的等级排列：存在之链",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "8.6 道德和自然法",
+          "anchor": "ch8-6",
+          "level": 3
+        },
+        {
+          "title": "道德的构成",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "自然法",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "8.7 国家",
+          "anchor": "ch8-7",
+          "level": 3
+        },
+        {
+          "title": "8.8 人的本性和知识",
+          "anchor": "ch8-8",
+          "level": 3
+        },
+        {
+          "title": "人的本性",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "知 识",
+          "anchor": "toc_15",
+          "level": 4
+        },
+        {
+          "title": "8.9 司各脱、奥卡姆和艾克哈特",
+          "anchor": "ch8-9",
+          "level": 3
+        },
+        {
+          "title": "唯意志论",
+          "anchor": "toc_16",
+          "level": 4
+        },
+        {
+          "title": "唯名论",
+          "anchor": "toc_17",
+          "level": 4
+        },
+        {
+          "title": "神秘主义",
+          "anchor": "toc_18",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_19",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_20",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第三部分近代早期的哲学",
+      "level": 1,
+      "wordCount": 445,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第九章文艺复兴时期的哲学",
+      "level": 2,
+      "wordCount": 111,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "9.1 中世纪的结束",
+      "level": 3,
+      "wordCount": 33973,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.2 人文主义和意大利文艺复兴运动",
+          "anchor": "ch9-2",
+          "level": 3
+        },
+        {
+          "title": "皮 科",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "马基雅维利",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "9.3 宗教改革",
+          "anchor": "ch9-3",
+          "level": 3
+        },
+        {
+          "title": "路 德",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "伊拉斯谟",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "9.4 怀疑论和信仰",
+          "anchor": "ch9-4",
+          "level": 3
+        },
+        {
+          "title": "蒙 田",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "帕斯卡",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "9.5 科学革命",
+          "anchor": "ch9-5",
+          "level": 3
+        },
+        {
+          "title": "新的发现和新的方法",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "近代原子论",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "9.6 培 根",
+          "anchor": "ch9-6",
+          "level": 3
+        },
+        {
+          "title": "培根的生平",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "学术的病状",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "心灵的假相",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "归纳的方法",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "9.7 霍布斯",
+          "anchor": "ch9-7",
+          "level": 3
+        },
+        {
+          "title": "霍布斯的生平",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "几何学对霍布斯思想的影响",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "运动中的物体：思想的对象",
+          "anchor": "toc_15",
+          "level": 4
+        },
+        {
+          "title": "关于人的思想的机械论观点",
+          "anchor": "toc_16",
+          "level": 4
+        },
+        {
+          "title": "政治哲学与道德",
+          "anchor": "toc_17",
+          "level": 4
+        },
+        {
+          "title": "自然状态",
+          "anchor": "toc_18",
+          "level": 4
+        },
+        {
+          "title": "自然状态中的义务",
+          "anchor": "toc_19",
+          "level": 4
+        },
+        {
+          "title": "社会契约",
+          "anchor": "toc_20",
+          "level": 4
+        },
+        {
+          "title": "民法对自然法",
+          "anchor": "toc_21",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_22",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_23",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第十章大陆理性主义",
+      "level": 2,
+      "wordCount": 55,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "10.1 笛卡尔",
+      "level": 3,
+      "wordCount": 29610,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10.1 笛卡尔",
+          "anchor": "ch10-1",
+          "level": 3
+        },
+        {
+          "title": "笛卡尔的生平",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "对确定性的追求",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "笛卡尔的方法",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "方法上的怀疑",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "上帝和外部事物的存在",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "心灵和身体",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "10.2 斯宾诺莎",
+          "anchor": "ch10-2",
+          "level": 3
+        },
+        {
+          "title": "斯宾诺莎的生平",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "斯宾诺莎的方法",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "上帝：实体和属性",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "世界作为上帝属性的样式",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "知识、心灵和身体",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "伦理学",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "10.3 莱布尼茨",
+          "anchor": "ch10-3",
+          "level": 3
+        },
+        {
+          "title": "莱布尼茨的生平",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "实 体",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "上帝的存在",
+          "anchor": "toc_15",
+          "level": 4
+        },
+        {
+          "title": "知识和自然",
+          "anchor": "toc_16",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_17",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_18",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第十一章英国经验主义",
+      "level": 2,
+      "wordCount": 55,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "11.1 洛 克",
+      "level": 3,
+      "wordCount": 29420,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11.1 洛 克",
+          "anchor": "ch11-1",
+          "level": 3
+        },
+        {
+          "title": "洛克的生平",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "洛克的知识理论",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "洛克的道德和政治理论",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "11.2 贝克莱",
+          "anchor": "ch11-2",
+          "level": 3
+        },
+        {
+          "title": "存在的本质",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "物质和实体",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "11.3 休 谟",
+          "anchor": "ch11-3",
+          "level": 3
+        },
+        {
+          "title": "休谟的生平",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "休谟的知识理论",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "什么存在于我们之外？",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "伦理学",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_10",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_11",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第十二章启蒙哲学",
+      "level": 2,
+      "wordCount": 56,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "12.1 自然神论和无神论",
+      "level": 3,
+      "wordCount": 18271,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12.1 自然神论和无神论",
+          "anchor": "ch12-1",
+          "level": 3
+        },
+        {
+          "title": "英国自然神论",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "法国哲人派",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "12.2 卢 梭",
+          "anchor": "ch12-2",
+          "level": 3
+        },
+        {
+          "title": "卢梭的生平",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "学问的悖论",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "社会契约",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "12.3 里 德",
+          "anchor": "ch12-3",
+          "level": 3
+        },
+        {
+          "title": "里德的生平",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "对观念论的批判",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "常识信念与直接实在论",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_9",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_10",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第四部分近代晚期和19世纪哲学",
+      "level": 1,
+      "wordCount": 324,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第十三章康 德",
+      "level": 2,
+      "wordCount": 102,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "13.1 康德的生平",
+      "level": 3,
+      "wordCount": 26465,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "13.2 康德问题的形成",
+          "anchor": "ch13-2",
+          "level": 3
+        },
+        {
+          "title": "13.3 康德的批判哲学和他的哥白尼革命",
+          "anchor": "ch13-3",
+          "level": 3
+        },
+        {
+          "title": "批判哲学的方法",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "先天知识的本质",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "先天综合判断",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "康德的哥白尼革命",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "13.4 理性思想的结构",
+          "anchor": "ch13-4",
+          "level": 3
+        },
+        {
+          "title": "思想范畴和直观形式",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "自我和经验的统一",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "现象实在和本体实在",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "作为调节性理念的纯粹理性的先验理念",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "二律背反和理性的限度",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "上帝存在的证明",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "13.5 实践理性",
+          "anchor": "ch13-5",
+          "level": 3
+        },
+        {
+          "title": "道德知识的基础",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "道德与理性",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "被定义为善良意志的“善”",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "定言命令",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "道德悬设",
+          "anchor": "toc_15",
+          "level": 4
+        },
+        {
+          "title": "13.6 美学：美",
+          "anchor": "ch13-6",
+          "level": 3
+        },
+        {
+          "title": "作为独立的愉悦满足的美",
+          "anchor": "toc_16",
+          "level": 4
+        },
+        {
+          "title": "作为普遍愉悦的对象的美",
+          "anchor": "toc_17",
+          "level": 4
+        },
+        {
+          "title": "美的对象中的目的与合目的性",
+          "anchor": "toc_18",
+          "level": 4
+        },
+        {
+          "title": "必然性、共通感和美",
+          "anchor": "toc_19",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_20",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_21",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "第十四章德国唯心主义",
+      "level": 2,
+      "wordCount": 62,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "14.1 康德对德国思想的影响",
+      "level": 3,
+      "wordCount": 26449,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14.2 黑格尔",
+          "anchor": "ch14-2",
+          "level": 3
+        },
+        {
+          "title": "黑格尔的生平",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "绝对精神",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "实在的本质",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "伦理学与政治学",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "14.3 叔本华",
+          "anchor": "ch14-3",
+          "level": 3
+        },
+        {
+          "title": "叔本华的生平",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "充足理由律",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "作为意志和表象的世界",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "悲观主义的基础",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "有可能摆脱“意志”吗？",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_11",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_12",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "第十五章功利主义和实证主义",
+      "level": 2,
+      "wordCount": 67,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "15.1边 沁",
+      "level": 3,
+      "wordCount": 26400,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15.1边 沁",
+          "anchor": "ch15-1",
+          "level": 3
+        },
+        {
+          "title": "边沁的生平",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "功利原则",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "法律和惩罚",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "边沁的激进主义",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "15.2 约翰·斯图亚特·密尔",
+          "anchor": "ch15-2",
+          "level": 3
+        },
+        {
+          "title": "密尔的生平",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "密尔的功利主义",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "自 由",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "15.3 孔 德",
+          "anchor": "ch15-3",
+          "level": 3
+        },
+        {
+          "title": "孔德的生平和时代",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "实证主义的定义",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "三阶段法则",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "孔德的社会学和“人道教”",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_12",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_13",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "第十六章克尔凯郭尔、马克思和尼采",
+      "level": 2,
+      "wordCount": 69,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "16.1 克尔凯郭尔",
+      "level": 3,
+      "wordCount": 31362,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "16.1 克尔凯郭尔",
+          "anchor": "ch16-1",
+          "level": 3
+        },
+        {
+          "title": "克尔凯郭尔的生平",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "人的存在",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "作为主观性的真理",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "美学阶段",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "伦理阶段",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "宗教阶段",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "16.2 马克思",
+          "anchor": "ch16-2",
+          "level": 3
+        },
+        {
+          "title": "马克思的生平和影响",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "历史的诸阶段：马克思的辩证法",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "基础：物质秩序",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "劳动异化",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "上层建筑：观念的来源和作用",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "16.3 尼 采",
+          "anchor": "ch16-3",
+          "level": 3
+        },
+        {
+          "title": "尼采的生平",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "“上帝死了“",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "阿波罗精神与狄俄尼索斯精神",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "主人道德与奴隶道德",
+          "anchor": "toc_15",
+          "level": 4
+        },
+        {
+          "title": "权力意志",
+          "anchor": "toc_16",
+          "level": 4
+        },
+        {
+          "title": "重估一切道德",
+          "anchor": "toc_17",
+          "level": 4
+        },
+        {
+          "title": "超 人",
+          "anchor": "toc_18",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_19",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_20",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "第五部分20世纪和当代哲学",
+      "level": 1,
+      "wordCount": 430,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "第十七章实用主义与过程哲学",
+      "level": 2,
+      "wordCount": 103,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "17.1 实用主义",
+      "level": 3,
+      "wordCount": 31061,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "17.1 实用主义",
+          "anchor": "ch17-1",
+          "level": 3
+        },
+        {
+          "title": "17.2 皮尔士",
+          "anchor": "ch17-2",
+          "level": 3
+        },
+        {
+          "title": "皮尔士的生平",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "意义理论",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "信念的地位",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "方法的要素",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "17.3 詹姆斯",
+          "anchor": "ch17-3",
+          "level": 3
+        },
+        {
+          "title": "詹姆斯的生平",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "作为一种方法的实用主义",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "实用主义的真理理论",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "自由意志",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "相信的意志",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "17.4 杜 威",
+          "anchor": "ch17-4",
+          "level": 3
+        },
+        {
+          "title": "杜威的生平",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "旁观者与经验",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "习惯、智力和学习",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "事实世界里的价值",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "17.5 过程哲学",
+          "anchor": "ch17-5",
+          "level": 3
+        },
+        {
+          "title": "17.6 柏格森",
+          "anchor": "ch17-6",
+          "level": 3
+        },
+        {
+          "title": "柏格森的生平",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "绕行和进入",
+          "anchor": "toc_15",
+          "level": 4
+        },
+        {
+          "title": "科学的分析方法",
+          "anchor": "toc_16",
+          "level": 4
+        },
+        {
+          "title": "形而上学的直觉方法",
+          "anchor": "toc_17",
+          "level": 4
+        },
+        {
+          "title": "绵延的过程",
+          "anchor": "toc_18",
+          "level": 4
+        },
+        {
+          "title": "进化和生命冲动",
+          "anchor": "toc_19",
+          "level": 4
+        },
+        {
+          "title": "道德和宗教",
+          "anchor": "toc_20",
+          "level": 4
+        },
+        {
+          "title": "17.7 怀特海",
+          "anchor": "ch17-7",
+          "level": 3
+        },
+        {
+          "title": "怀特海的生平",
+          "anchor": "toc_21",
+          "level": 4
+        },
+        {
+          "title": "简单定位的错误",
+          "anchor": "toc_22",
+          "level": 4
+        },
+        {
+          "title": "自我意识",
+          "anchor": "toc_23",
+          "level": 4
+        },
+        {
+          "title": "把握",
+          "anchor": "toc_24",
+          "level": 4
+        },
+        {
+          "title": "永恒客体",
+          "anchor": "toc_25",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_26",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_27",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "第十八章分析哲学",
+      "level": 2,
+      "wordCount": 65,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "18.1 罗素",
+      "level": 3,
+      "wordCount": 23785,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "18.1 罗素",
+          "anchor": "ch18-1",
+          "level": 3
+        },
+        {
+          "title": "罗素的任务",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "逻辑原子主义",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "逻辑原子主义的困难",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "18.2 逻辑实证主义",
+          "anchor": "ch18-2",
+          "level": 3
+        },
+        {
+          "title": "证实原则",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "卡尔纳普的逻辑分析",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "逻辑实证主义的疑难",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "蒯因对经验主义的批判",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "18.3 维特根斯坦",
+          "anchor": "ch18-3",
+          "level": 3
+        },
+        {
+          "title": "维特根斯坦的哲学之路",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "新的维特根斯坦",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "语言游戏和遵守规则",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "澄清形而上学的语言",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "18.4 奥斯汀",
+          "anchor": "ch18-4",
+          "level": 3
+        },
+        {
+          "title": "奥斯汀的独特方法",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "“辩解”这个概念",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "日常语言的优势",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_15",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_16",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "第十九章现象学和存在主义",
+      "level": 2,
+      "wordCount": 84,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "19.1 胡塞尔",
+      "level": 3,
+      "wordCount": 33203,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "19.1 胡塞尔",
+          "anchor": "ch19-1",
+          "level": 3
+        },
+        {
+          "title": "胡塞尔的生平及影响",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "欧洲科学的危机",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "笛卡尔和意向性",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "现象和现象学的加括号",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "生活世界",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "19.2 海德格尔",
+          "anchor": "ch19-2",
+          "level": 3
+        },
+        {
+          "title": "海德格尔的生平",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "作为在世的此在",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "作为操心的此在",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "19.3 宗教存在主义",
+          "anchor": "ch19-3",
+          "level": 3
+        },
+        {
+          "title": "雅斯贝尔斯的生存哲学",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "马塞尔的存在主义",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "19.4 萨特",
+          "anchor": "ch19-4",
+          "level": 3
+        },
+        {
+          "title": "萨特的生平",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "存在先于本质",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "自由和责任",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "虚无与自欺",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "人的意识",
+          "anchor": "toc_15",
+          "level": 4
+        },
+        {
+          "title": "马克思主义与复盘自由",
+          "anchor": "toc_16",
+          "level": 4
+        },
+        {
+          "title": "19.5 梅洛–庞蒂",
+          "anchor": "ch19-5",
+          "level": 3
+        },
+        {
+          "title": "梅洛–庞蒂的生平",
+          "anchor": "toc_17",
+          "level": 4
+        },
+        {
+          "title": "知觉的首要性",
+          "anchor": "toc_18",
+          "level": 4
+        },
+        {
+          "title": "知识的相对性",
+          "anchor": "toc_19",
+          "level": 4
+        },
+        {
+          "title": "知觉与政治学",
+          "anchor": "toc_20",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_21",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_22",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "第二十章晚近的哲学",
+      "level": 2,
+      "wordCount": 79,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "赖尔的机器中的幽灵",
+      "level": 3,
+      "wordCount": 34255,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "赖尔的机器中的幽灵",
+          "anchor": "toc_1",
+          "level": 3
+        },
+        {
+          "title": "同一论和功能主义",
+          "anchor": "toc_2",
+          "level": 3
+        },
+        {
+          "title": "塞尔的中文房间论证",
+          "anchor": "toc_3",
+          "level": 3
+        },
+        {
+          "title": "20.2 罗 蒂",
+          "anchor": "ch20-2",
+          "level": 3
+        },
+        {
+          "title": "罗蒂的分析哲学",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "实用主义的影响",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "语言的偶然性",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "自我的偶然性",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "共同体的偶然性",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "20.3 复盘德性论",
+          "anchor": "ch20-3",
+          "level": 3
+        },
+        {
+          "title": "安斯康姆的辩护",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "诺丁斯的辩护",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "德性认识论",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "20.4 大陆哲学",
+          "anchor": "ch20-4",
+          "level": 3
+        },
+        {
+          "title": "结构主义",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "后结构主义",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "后现代主义",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "20.5 政治哲学",
+          "anchor": "ch20-5",
+          "level": 3
+        },
+        {
+          "title": "罗尔斯：作为公平的正义",
+          "anchor": "toc_15",
+          "level": 4
+        },
+        {
+          "title": "诺齐克：最小化的政府",
+          "anchor": "toc_16",
+          "level": 4
+        },
+        {
+          "title": "总 结",
+          "anchor": "toc_17",
+          "level": 3
+        },
+        {
+          "title": "研究问题",
+          "anchor": "toc_18",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "重要词汇",
+      "level": 1,
+      "wordCount": 7257,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "延伸阅读",
+      "level": 1,
+      "wordCount": 41141,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "译者跋",
+      "level": 1,
+      "wordCount": 1099,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "出版后记",
+      "level": 1,
+      "wordCount": 941,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "版权页",
+      "level": 1,
+      "wordCount": 1599,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "目录",
+      "level": 1,
+      "wordCount": 4182,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "Landmarks",
+      "level": 1,
+      "wordCount": 4182,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Landmarks",
+          "anchor": "toc_1",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_7WA6WE6W1GJg6vU6x70qf863&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/51142033643425f375741365745365731474a67367655367837307166383633696?chapterUid=58"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 9,
+      "chapterTitle": "1.1 什么东西是永恒存在的？",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZxMfI0ta",
+          "range": "2590-2593",
+          "chapterName": "",
+          "content": "tài lè sī\n（Thalēs，约前624—约前547）传说为古希腊第一个哲学家，米利都学派的创始人。生于米利都（今属土耳其）。曾因经商、从政、科学活动等多方面的成就被誉为“希腊七贤”之一。无著作传世，据古代文献记载，他曾从事天文学与数学研究，提出一些几何学定理。哲学上提出水为万物之本原。认为万物皆由水而生成，又复归于水。",
+          "abstract": "泰勒斯",
+          "star": -1,
+          "createTime": 1745117844,
+          "createTimeFormatted": "2025-04-20 10:57:24",
+          "isFinish": false,
+          "chapterUid": 9
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 7,
+    "chapterOffset": 1706,
+    "progress": 0,
+    "updateTime": 1745130268,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

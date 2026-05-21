@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "bookId": "3300025477",
+    "title": "陈赓日记",
+    "author": "陈赓",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/6/cpPlatform_wKXEY8n4L8U88VopyKqDkU/t6_cpPlatform_wKXEY8n4L8U88VopyKqDkU.jpg",
+    "intro": "《陈赓日记》是陈赓同志的日记，在他去世二十多年后才首次与读者见面。出版以来受到读者的广泛欢迎和好评，邓小平同志还亲自为《陈赓日记》题写书名。书中记录了他从1937年到1952年的戎马生涯。战火洗礼、风雨飘摇，这本日记得以流传下来与读者见面，弥足珍贵，它真实记录了我军高级将领陈赓同志在战争中的睿智、在生活中的情趣以及对党和革命的忠贞。令人遗憾的是长征无日记，陈赓同志自己也对这段记录的缺失悔憾不已，但身处革命年代的历史境遇中，能够有这样的文字流传于今，对我们今天的读者已经是莫大的幸事了。书中还附有陈赓同志1944年在中央党校学习期间书写的自传，以及陈赓同志的书信和手稿，非常珍贵，具有很高的可读性和收藏性。",
+    "category": "人物传记-军政领袖",
+    "publisher": "人民出版社",
+    "publishTime": "2013-10-01 00:00:00",
+    "isbn": "9787010126814",
+    "wordCount": 0,
+    "newRating": 890,
+    "newRatingCount": 227,
+    "newRatingDetail": {
+      "good": 205,
+      "fair": 17,
+      "poor": 5,
+      "recent": 2,
+      "deepV": 105,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300025477",
+    "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47",
+    "lastSync": "2026-05-21T11:53:36Z",
+    "readingProgress": "99%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 3,
+    "reviewCount": 2,
+    "bookmarkCount": 0,
+    "contentHash": "3c7c660a08a3dd881c1dbbdcdfe7fd6ee0f7e128d3818310f2e493bf60293a07"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 743,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "2013年版出版说明",
+      "level": 1,
+      "wordCount": 672,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2013年版出版说明",
+          "anchor": "CHP2",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "2003年再版说明",
+      "level": 1,
+      "wordCount": 308,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2003年再版说明",
+          "anchor": "CHP3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "2003年修订版说明",
+      "level": 1,
+      "wordCount": 718,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2003年修订版说明",
+          "anchor": "CHP4",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "《陈赓日记》（续）前言（1984年10月）",
+      "level": 1,
+      "wordCount": 1117,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《陈赓日记》（续）前言（1984年10月）",
+          "anchor": "CHP5",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "《陈赓日记》前言（1982年8月）",
+      "level": 1,
+      "wordCount": 1257,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《陈赓日记》前言（1982年8月）",
+          "anchor": "CHP6",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "我与陈赓日记",
+      "level": 1,
+      "wordCount": 1944,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "我与陈赓日记",
+          "anchor": "CHP7",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "一九三七年",
+      "level": 1,
+      "wordCount": 27,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一九三七年",
+          "anchor": "CHP8",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "写在前面",
+      "level": 1,
+      "wordCount": 16730,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "写在前面",
+          "anchor": "CHP9",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "一九三八年",
+      "level": 1,
+      "wordCount": 56518,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一九三八年",
+          "anchor": "CHP10",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "一九三九年",
+      "level": 1,
+      "wordCount": 9544,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一九三九年",
+          "anchor": "CHP11",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "一九四一年",
+      "level": 1,
+      "wordCount": 2006,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一九四一年",
+          "anchor": "CHP12",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "一九四三年",
+      "level": 1,
+      "wordCount": 21635,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一九四三年",
+          "anchor": "CHP13",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "一九四九年",
+      "level": 1,
+      "wordCount": 12998,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一九四九年",
+          "anchor": "CHP14",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "一九五○年（在越北战场）",
+      "level": 1,
+      "wordCount": 14871,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一九五○年（在越北战场）",
+          "anchor": "CHP15",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "一九五一年（在朝鲜战场）",
+      "level": 1,
+      "wordCount": 5171,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一九五一年（在朝鲜战场）",
+          "anchor": "CHP16",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "一九五二年（在朝鲜战场）",
+      "level": 1,
+      "wordCount": 3049,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一九五二年（在朝鲜战场）",
+          "anchor": "CHP17",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "附录",
+      "level": 1,
+      "wordCount": 4973,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "附录",
+          "anchor": "CHP18",
+          "level": 1
+        },
+        {
+          "title": "我的自传",
+          "anchor": "CHP18-1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "书信十四封",
+      "level": 2,
+      "wordCount": 4968,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "书信十四封",
+          "anchor": "CHP18-2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "手稿五份",
+      "level": 2,
+      "wordCount": 24118,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "手稿五份",
+          "anchor": "CHP18-3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "编后记",
+      "level": 1,
+      "wordCount": 366,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "编后记",
+          "anchor": "CHP19",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025477&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=22"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 10,
+      "chapterTitle": "写在前面",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300025477_10_399-570",
+          "range": "399-570",
+          "rangeStart": 399,
+          "rangeEnd": 570,
+          "markText": "长征无日记，是我生平最大的遗憾，我曾经不止一次下决心坚持写下去，但也不止一次半途而废。这是我的耻辱，充分表现了我小资产阶级的不经常性和可耻的惰性。从今天起——1937年8月7日起，坚决地把日记日日不间断地写下去，无论在任何情况之下，战斗时也好，行军时也好，极度疲劳时也好，始终如一地写下去。要使这次全部抗战的事迹，没有一点遗漏在我的记载以外。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1735797447,
+          "createTimeFormatted": "2025-01-02 13:57:27",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=10&rangeStart=399&rangeEnd=570",
+          "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10&rangeStart=399&rangeEnd=570"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300025477_10_28097-28124",
+          "range": "28097-28124",
+          "rangeStart": 28097,
+          "rangeEnd": 28124,
+          "markText": "师部电话：南京于13日失守，国民政府发表继续抗战宣言。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1735747301,
+          "createTimeFormatted": "2025-01-02 00:01:41",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=10&rangeStart=28097&rangeEnd=28124",
+          "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10&rangeStart=28097&rangeEnd=28124"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7WTGN9pjP",
+          "range": "1464-1466",
+          "chapterName": "",
+          "content": "（1906—1939）上海市人，原名庶心。女。1924年加入中国社会主义青年团。1925年转入中国共产党。长期在上海从事工人运动。曾参加五卅运动和上海工人三次武装起义，曾任上海特别市临时政府委员。1927年先后出席中共第五次全国代表大会、第四次全国劳动大会和国际工人太平洋劳动会议，并于同年和陈赓结婚。1932年任全国总工会女工部部长、中共江苏省委妇女部部长。1933年被国民党反动派逮捕。抗日战争爆发后出狱到延安，入陕甘宁边区党校学习。1938年任八路军第一二九师供给部财经干校政治指导员，后在河北南宫反“扫荡”时牺牲。",
+          "abstract": "根英",
+          "star": -1,
+          "createTime": 1735797603,
+          "createTimeFormatted": "2025-01-02 14:00:03",
+          "isFinish": false,
+          "chapterUid": 10
+        }
+      ]
+    },
+    {
+      "chapterUid": 21,
+      "chapterTitle": "手稿五份",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300025477_21_9574-10588",
+          "range": "9574-10588",
+          "rangeStart": 9574,
+          "rangeEnd": 10588,
+          "markText": "对于挺进豫西的行动，毛主席给了极重要的指示。毛主席指出，刘邓率领我野战军主力挺进大别山，一定搞得敌人手忙脚乱，到处调兵去追堵。胡宗南[插图]又被牵在陕北，深入绝境。豫西敌军不多，是个空子，师出豫西是有战略意义的。进去以后应当放手发展，东向配合刘邓、陈粟[插图]，西向配合陕北，东西机动作战，大量歼灭敌人，开辟豫陕鄂根据地。主席还向我讲了破釜沉舟的故事[插图]，并说这个故事就发生在我们将要渡河的地方，要我们以最大的决心和勇气打出去。最后，主席问我有什么困难没有。我说，现在部队士气很高，在晋南反攻中又搞到了敌人大量的装备，正是兵强马壮，弹药充足，在主席和中央军委的领导下，一定可以师出报捷。出师以后，部队迅速展开，弹药的运送补给可能有时跟不上，到了新区，伤员和安顿也可能有困难。但这些困难是可以克服的。主席笑着说，对嘛！弹药不足，由蒋介石来“补充”你们；伤员安顿，靠群众嘛；我们从来是这样办的。根据地是创建起来的，不是一切搞好了才去革命嘛；蒋管区的人民遭受封建势力和国民党的残酷统治，你们去了要好好地发动群众，依靠群众，把人民革命的高潮推动起来，这样就一定能胜利。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1735789327,
+          "createTimeFormatted": "2025-01-02 11:42:07",
+          "chapterUid": 21,
+          "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=21&rangeStart=9574&rangeEnd=10588",
+          "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=21&rangeStart=9574&rangeEnd=10588"
+        }
+      ]
+    },
+    {
+      "chapterUid": 8,
+      "chapterTitle": "我与陈赓日记",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7WTGWe1Ju",
+          "range": "400-402",
+          "chapterName": "",
+          "content": "傅涯（1918年4月-2010年1月4日），女，1918年生，原名傅慧英，上虞沥海人，陈赓大将夫人。1937年南京私立东方中学毕业，1938年进延安抗日军政大学第四期学习，毕业后，进入抗大总政文工团。1946年起，先后任太岳军区卫校指导员、中共中央组织部干部处档案科科员。1949年随陈赓部队南下，曾任郑州市委政策研究室秘书，云南省妇联筹备工作组代组长、土改工作团组长等职。1951年调北京，先后任中共中央组织部政法科、综合科干事，北京市公用局机关党总支书记。系北京市第五、六、七届政协委员。\n因病医治无效，于2010年1月4日上午10时20分在北京逝世，享年92岁。",
+          "abstract": "傅涯",
+          "star": -1,
+          "createTime": 1735797737,
+          "createTimeFormatted": "2025-01-02 14:02:17",
+          "isFinish": false,
+          "chapterUid": 8
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300025477_10_399-472",
+      "chapterUid": 10,
+      "range": "399-472",
+      "markText": "长征无日记，是我生平最大的遗憾，我曾经不止一次下决心坚持写下去，但也不止一次半途而废。这是我的耻辱，充分表现了我小资产阶级的不经常性和可耻的惰性。",
+      "totalCount": 900,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=10&rangeStart=399&rangeEnd=472",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10&rangeStart=399&rangeEnd=472"
+    },
+    {
+      "bookmarkId": "3300025477_10_13085-13166",
+      "chapterUid": 10,
+      "range": "13085-13166",
+      "markText": "今日由王庄经雷村、三眼桥到达澄城。到时，澄城县长及一科长求见，并为我们设宴，颇能尽其官场逢迎之能事。再道、聚奎不惯应酬，均“开小差”，仅留我一个人对付，真苦事也。",
+      "totalCount": 391,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=10&rangeStart=13085&rangeEnd=13166",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10&rangeStart=13085&rangeEnd=13166"
+    },
+    {
+      "bookmarkId": "3300025477_10_5955-6011",
+      "chapterUid": 10,
+      "range": "5955-6011",
+      "markText": "771团两个通信员逃跑，一个连长鸡奸行为，今撤职送军事裁判所。772团一个连长逃亡。这是国焘路线破产的又一证明。",
+      "totalCount": 289,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=10&rangeStart=5955&rangeEnd=6011",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10&rangeStart=5955&rangeEnd=6011"
+    },
+    {
+      "bookmarkId": "3300025477_10_7410-7464",
+      "chapterUid": 10,
+      "range": "7410-7464",
+      "markText": "772团的首长也站队吃饭，这样在他们自己以为是以身作则，实际上不免是十足的平均主义。当以电话向他们作了说明。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=10&rangeStart=7410&rangeEnd=7464",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10&rangeStart=7410&rangeEnd=7464"
+    },
+    {
+      "bookmarkId": "3300025477_10_14157-14189",
+      "chapterUid": 10,
+      "range": "14157-14189",
+      "markText": "沿途麦田践踏不堪，察其足迹多系骑兵，今晚对各团、营严格纠正此事。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=10&rangeStart=14157&rangeEnd=14189",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10&rangeStart=14157&rangeEnd=14189"
+    },
+    {
+      "bookmarkId": "3300025477_10_28097-28124",
+      "chapterUid": 10,
+      "range": "28097-28124",
+      "markText": "师部电话：南京于13日失守，国民政府发表继续抗战宣言。",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=10&rangeStart=28097&rangeEnd=28124",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10&rangeStart=28097&rangeEnd=28124"
+    },
+    {
+      "bookmarkId": "3300025477_12_15295-15317",
+      "chapterUid": 12,
+      "range": "15295-15317",
+      "markText": "今天是我不可忘记的一天，也是我最惨痛的一天。",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=12&rangeStart=15295&rangeEnd=15317",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=12&rangeStart=15295&rangeEnd=15317"
+    },
+    {
+      "bookmarkId": "3300025477_10_16232-16393",
+      "chapterUid": 10,
+      "range": "16232-16393",
+      "markText": "前行部队纪律甚坏，到处抢劫，十室九空。当我们到达时，群众奔避，经我们解释后，知道我们为红军，对我们特别表示好感，不到1时，逃避群众陆续回家。",
+      "totalCount": 238,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=10&rangeStart=16232&rangeEnd=16393",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10&rangeStart=16232&rangeEnd=16393"
+    },
+    {
+      "bookmarkId": "3300025477_16_7333-7401",
+      "chapterUid": 16,
+      "range": "7333-7401",
+      "markText": "途中小休息，遇一土妇。她说她的丈夫为越南人民军，彼请假一月返家，她发现其夫瘦弱不堪，比即入山猎一老虎，令其夫熬膏而食，食后即劝其夫返营。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=16&rangeStart=7333&rangeEnd=7401",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=16&rangeStart=7333&rangeEnd=7401"
+    },
+    {
+      "bookmarkId": "3300025477_10_17516-17603",
+      "chapterUid": 10,
+      "range": "17516-17603",
+      "markText": "772团到支沙口，夜袭长生口、蔡家岭，缴获步枪4支，骡子4匹，炮弹16发。这次缺点是干部顾虑太大，不敢使用大的兵力，游击动作生疏，部队夜间不肃静，不善于使用手榴弹，想捉活的。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=10&rangeStart=17516&rangeEnd=17603",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10&rangeStart=17516&rangeEnd=17603"
+    },
+    {
+      "bookmarkId": "3300025477_16_15043-15071",
+      "chapterUid": 16,
+      "range": "15043-15071",
+      "markText": "越南与法帝真是一对绝妙的对手，两方面的战斗力都不相上下。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=16&rangeStart=15043&rangeEnd=15071",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=16&rangeStart=15043&rangeEnd=15071"
+    },
+    {
+      "bookmarkId": "3300025477_10_5015-5064",
+      "chapterUid": 10,
+      "range": "5015-5064",
+      "markText": "但我们永远是党军，红军永远是红军，任他换上什么名义，戴上什么帽子，我们始终为了共产党的光荣而奋斗。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=10&rangeStart=5015&rangeEnd=5064",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10&rangeStart=5015&rangeEnd=5064"
+    },
+    {
+      "bookmarkId": "3300025477_11_63594-63633",
+      "chapterUid": 11,
+      "range": "63594-63633",
+      "markText": "过香水河，水深及腹，许多战士都赤着下部。大可在此鉴赏一番曲线美，但可惜是雄者。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=11&rangeStart=63594&rangeEnd=63633",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=11&rangeStart=63594&rangeEnd=63633"
+    },
+    {
+      "bookmarkId": "3300025477_16_25933-26017",
+      "chapterUid": 16,
+      "range": "25933-26017",
+      "markText": "工农干部一般是纯洁的，但要知识化。知识分子一般是复杂的，要实际化；知识分子要认真地在实际锻炼中改造自己的缺点，如虚伪、爱面子、夸夸其谈、不实际、个人主义、不接近群众等。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=16&rangeStart=25933&rangeEnd=26017",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=16&rangeStart=25933&rangeEnd=26017"
+    },
+    {
+      "bookmarkId": "3300025477_11_1380-1423",
+      "chapterUid": 11,
+      "range": "1380-1423",
+      "markText": "村民唱花鼓戏，祝我们胜利。剧情封建，令我肉麻，又不好禁止他们，拂其意，只好让他们唱罢！",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=11&rangeStart=1380&rangeEnd=1423",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=11&rangeStart=1380&rangeEnd=1423"
+    },
+    {
+      "bookmarkId": "3300025477_10_4287-4322",
+      "chapterUid": 10,
+      "range": "4287-4322",
+      "markText": "今日正式宣布改组后之干部名单，也是我正式担任386旅旅长工作之第一日。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=10&rangeStart=4287&rangeEnd=4322",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10&rangeStart=4287&rangeEnd=4322"
+    },
+    {
+      "bookmarkId": "3300025477_11_8744-8817",
+      "chapterUid": 11,
+      "range": "8744-8817",
+      "markText": "饭后去772团第2营。有些连上见我至，临时打扫地段，故作紧张之状。这完全是军阀军队的习气，是为了欺骗长官的一种虚伪行为，在我们的部队里应根本铲除。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=11&rangeStart=8744&rangeEnd=8817",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=11&rangeStart=8744&rangeEnd=8817"
+    },
+    {
+      "bookmarkId": "3300025477_10_26603-26620",
+      "chapterUid": 10,
+      "range": "26603-26620",
+      "markText": "下午房东请客，我不客气，大吃一顿。",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=10&rangeStart=26603&rangeEnd=26620",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=10&rangeStart=26603&rangeEnd=26620"
+    },
+    {
+      "bookmarkId": "3300025477_12_12688-12715",
+      "chapterUid": 12,
+      "range": "12688-12715",
+      "markText": "昨晚得到了整晚的休息，我连裤子都脱光，其味道确是无穷。",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=12&rangeStart=12688&rangeEnd=12715",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=12&rangeStart=12688&rangeEnd=12715"
+    },
+    {
+      "bookmarkId": "3300025477_11_73990-74014",
+      "chapterUid": 11,
+      "range": "73990-74014",
+      "markText": "王白头派政训主任来，企图收编我，我只好一笑置之。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=3300025477&chapterUid=11&rangeStart=73990&rangeEnd=74014",
+      "webLink": "https://weread.qq.com/web/reader/ee532810813ab7073g017b47?chapterUid=11&rangeStart=73990&rangeEnd=74014"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 21,
+    "chapterOffset": 9197,
+    "progress": 99,
+    "updateTime": 1772934344,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

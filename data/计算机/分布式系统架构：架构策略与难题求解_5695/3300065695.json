@@ -1,0 +1,965 @@
+{
+  "meta": {
+    "bookId": "3300065695",
+    "title": "分布式系统架构：架构策略与难题求解",
+    "author": "尼尔·福特 马克·理查兹 普拉莫德·萨达拉奇 扎马克·德加尼",
+    "translator": "王岩 等",
+    "cover": "https://cdn.weread.qq.com/weread/cover/98/cpplatform_sqmreagsbdwrsbpsoyqxfv/t6_cpplatform_sqmreagsbdwrsbpsoyqxfv1690772475.jpg",
+    "intro": "本书探讨了选择合适的分布式系统架构的策略。作者通过一个虚构的技术小组（Sysops Squad）的故事，研究了架构的各种可能性，包括如何确定服务粒度、管理工作流和编排、管理和解耦契约、管理分布式事务，以及如何优化运维性特征，例如可伸缩性、弹性和性能。本书分为两大部分：第1部分主要处理架构结构，即事物如何静态耦合在一起；第二部分讨论各种技术来克服与分布式架构相关的困难，包括管理服务通信、契约、分布式工作流、分布式事务、数据所有权、数据访问和分析型数据。",
+    "category": "计算机-计算机综合",
+    "publisher": "机械工业出版社",
+    "publishTime": "2023-05-01 00:00:00",
+    "isbn": "9787111724223",
+    "wordCount": 0,
+    "newRating": 744,
+    "newRatingCount": 62,
+    "newRatingDetail": {
+      "good": 41,
+      "fair": 16,
+      "poor": 5,
+      "recent": 0,
+      "deepV": 36,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300065695",
+    "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a",
+    "lastSync": "2026-05-21T11:45:11Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 516,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "O\"Reilly Media, Inc.介绍",
+      "level": 1,
+      "wordCount": 623,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "推荐语",
+      "level": 1,
+      "wordCount": 554,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "本书赞誉",
+      "level": 1,
+      "wordCount": 665,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 2344,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第1章 没有最佳实践会怎么样",
+      "level": 1,
+      "wordCount": 12653,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.1 何为“难点”",
+          "anchor": "A8f6c0010-271a-4b3a-9745-e6272e956018",
+          "level": 2
+        },
+        {
+          "title": "1.2 永不过时的软件架构建议",
+          "anchor": "Ac05c0010-6a65-442c-a8f4-f7c251ef1dd9",
+          "level": 2
+        },
+        {
+          "title": "1.3 数据在架构中的重要性",
+          "anchor": "A73ca0011-7b28-4780-9b67-8090078fc188",
+          "level": 2
+        },
+        {
+          "title": "1.4 架构决策记录",
+          "anchor": "Af4930012-0543-4170-ba31-3f88704b021a",
+          "level": 2
+        },
+        {
+          "title": "1.5 架构适应度函数",
+          "anchor": "A67f30013-6808-46b3-a7d2-d5ef6dffc1dd",
+          "level": 2
+        },
+        {
+          "title": "1.6 架构与设计：保持定义简单",
+          "anchor": "Aba210019-98d6-4049-8ba9-965f8d80df46",
+          "level": 2
+        },
+        {
+          "title": "1.7 引入Sysops Squad的传奇故事",
+          "anchor": "Af245001b-e9a0-4d65-957d-5436c66fbea4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第一部分 分而治之",
+      "level": 1,
+      "wordCount": 722,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第2章 识别软件架构中的耦合",
+      "level": 2,
+      "wordCount": 10088,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1 架构量子",
+          "anchor": "A26f80025-de5d-4ff0-aad2-94462a808e78",
+          "level": 3
+        },
+        {
+          "title": "2.2 Sysops Squad的传奇故事：理解量子",
+          "anchor": "A2aec0030-e2a9-4fcc-bbc6-8bf3b42d2303",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第3章 架构模块化",
+      "level": 2,
+      "wordCount": 9905,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.1 模块化的驱动因素",
+          "anchor": "A61ce0036-0e3a-4059-b755-7e8a6767a6a1",
+          "level": 3
+        },
+        {
+          "title": "3.2 Sysops Squad的传奇故事：创建业务案例",
+          "anchor": "A4adb003d-4e73-4640-8b0a-5701c148d7ab",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第4章 架构分解",
+      "level": 2,
+      "wordCount": 7313,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.1 代码库能分解吗",
+          "anchor": "Add510042-dd48-4967-b116-b1aa1ef6c6ee",
+          "level": 3
+        },
+        {
+          "title": "4.2 基于组件的分解",
+          "anchor": "A55f70047-6136-4933-9d5d-8224aba3218c",
+          "level": 3
+        },
+        {
+          "title": "4.3 战术分叉",
+          "anchor": "Ac2d70048-324c-4ee4-adbc-7af3f3c76492",
+          "level": 3
+        },
+        {
+          "title": "4.4 Sysops Squad的传奇故事：走上分解之路",
+          "anchor": "A1647004c-f56d-4f23-becb-3699cdffe0e9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第5章 基于组件的分解模式",
+      "level": 2,
+      "wordCount": 20873,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1 识别和调整组件模式",
+          "anchor": "A17d10051-9ccb-492b-8fdd-c08d1b4f997b",
+          "level": 3
+        },
+        {
+          "title": "5.2 收集公共领域组件模式",
+          "anchor": "Ae7650058-85a8-488b-9b41-717e746c89d5",
+          "level": 3
+        },
+        {
+          "title": "5.3 扁平化组件模式",
+          "anchor": "A775d005e-6c93-4030-af8f-dcfae31f2035",
+          "level": 3
+        },
+        {
+          "title": "5.4 明确组件依赖项模式",
+          "anchor": "Aced30066-2a91-4ace-a725-486c2208eaa7",
+          "level": 3
+        },
+        {
+          "title": "5.5 构建组件领域模式",
+          "anchor": "A6216006c-1e23-4514-8609-fc9bbb756321",
+          "level": 3
+        },
+        {
+          "title": "5.6 构建领域服务模式",
+          "anchor": "A7acc0071-530e-43b8-a8d0-6837762be38f",
+          "level": 3
+        },
+        {
+          "title": "5.7 总结",
+          "anchor": "Aaeb50074-abe4-4321-bc53-112876650c4f",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第6章 分离业务型数据",
+      "level": 2,
+      "wordCount": 26769,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.1 数据分解的驱动因素",
+          "anchor": "A20fa0076-0582-4ae1-8454-3f4b837f62f5",
+          "level": 3
+        },
+        {
+          "title": "6.2 分解单体数据",
+          "anchor": "A70650085-2d74-4260-ac25-172646846032",
+          "level": 3
+        },
+        {
+          "title": "6.3 数据库类型的选择",
+          "anchor": "Aa58f008d-9670-4ca3-ac48-8d65a8c7ddeb",
+          "level": 3
+        },
+        {
+          "title": "6.4 Sysops Squad的传奇故事：多维数据库",
+          "anchor": "Ae016009c-7b63-47c3-841b-b7192444ff25",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第7章 服务粒度",
+      "level": 2,
+      "wordCount": 15675,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.1 粒度分解因素",
+          "anchor": "Aac6100a4-bba8-4b96-9558-bdd15d01355b",
+          "level": 3
+        },
+        {
+          "title": "7.2 粒度集成因素",
+          "anchor": "Af8f600ac-45b6-406c-ab0c-bada7167e17b",
+          "level": 3
+        },
+        {
+          "title": "7.3 找到正确的平衡",
+          "anchor": "A759e00b3-80cd-42f2-ac61-aea668c26901",
+          "level": 3
+        },
+        {
+          "title": "7.4 Sysops Squad的传奇故事：工单分配粒度",
+          "anchor": "A3abe00b5-7edc-409c-a277-ecfb69248272",
+          "level": 3
+        },
+        {
+          "title": "7.5 Sysops Squad的传奇故事：客户注册粒度",
+          "anchor": "A6bee00b7-7b09-47fa-a49c-008980e0ca90",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第二部分 合而为一",
+      "level": 1,
+      "wordCount": 261,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第8章 复用模式",
+      "level": 2,
+      "wordCount": 14497,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.1 代码复制",
+          "anchor": "A9f7400be-10d1-467e-9687-d7347276fda6",
+          "level": 3
+        },
+        {
+          "title": "8.2 共享库",
+          "anchor": "Afdda00c0-03e2-4a69-a9a0-390c936eee4a",
+          "level": 3
+        },
+        {
+          "title": "8.3 共享服务",
+          "anchor": "A636600c4-659e-4af0-842a-a89760542518",
+          "level": 3
+        },
+        {
+          "title": "8.4 边车和服务网格",
+          "anchor": "Aa3a400c8-8352-4091-aa5f-976487201fa2",
+          "level": 3
+        },
+        {
+          "title": "8.5 Sysops Squad的传奇故事：公共基础设施逻辑",
+          "anchor": "A59ab00cc-2423-4ed2-b1b9-9cf769e36318",
+          "level": 3
+        },
+        {
+          "title": "8.6 代码复用：何时带来价值",
+          "anchor": "Ab1f500ce-18e9-4001-8c75-7ff138b61a59",
+          "level": 3
+        },
+        {
+          "title": "8.7 Sysops Squad的传奇故事：共享领域功能",
+          "anchor": "A86a200d0-f2d3-4abd-965b-1fe1fea9bdbc",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第9章 数据所有权和分布式事务",
+      "level": 2,
+      "wordCount": 15933,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.1 分配数据所有权",
+          "anchor": "Afb4f00d5-718c-4a1f-b736-0e1c6b46ef40",
+          "level": 3
+        },
+        {
+          "title": "9.2 单一所有权场景",
+          "anchor": "Af99600d6-bcc1-4ad7-b483-7abf91490b67",
+          "level": 3
+        },
+        {
+          "title": "9.3 公共所有权场景",
+          "anchor": "A9d5b00d6-7642-4fdc-87bc-402c0e7401db",
+          "level": 3
+        },
+        {
+          "title": "9.4 共同所有权场景",
+          "anchor": "Ad87e00d8-212f-40c7-9028-a3f167627661",
+          "level": 3
+        },
+        {
+          "title": "9.5 数据所有权总结",
+          "anchor": "A8fb200de-68fb-429c-bdaf-6e3574a15682",
+          "level": 3
+        },
+        {
+          "title": "9.6 分布式事务",
+          "anchor": "A792a00df-d4d3-4ddd-b3f9-dcd78e6b968f",
+          "level": 3
+        },
+        {
+          "title": "9.7 最终一致性模式",
+          "anchor": "A28b300e1-b96a-4279-9397-f369c089e2c1",
+          "level": 3
+        },
+        {
+          "title": "9.8 Sysops Squad的传奇故事：工单处理的数据所有权",
+          "anchor": "Ad6a869d7-88e7-4d69-8262-dc1e72028f21",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第10章 分布式数据访问",
+      "level": 2,
+      "wordCount": 8220,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10.1 服务间通信模式",
+          "anchor": "A3b8d00ee-9a7b-4219-aedb-a8effdf960af",
+          "level": 3
+        },
+        {
+          "title": "10.2 列schema复制模式",
+          "anchor": "Ace9800f0-5b70-4a2a-8da6-88a0b82c1f2f",
+          "level": 3
+        },
+        {
+          "title": "10.3 复制缓存模式",
+          "anchor": "A6fcf00f1-63b1-4bd5-8525-639089e4d365",
+          "level": 3
+        },
+        {
+          "title": "10.4 数据领域模式",
+          "anchor": "Aaa7400f4-5f03-4bd5-8565-6f2d859ca994",
+          "level": 3
+        },
+        {
+          "title": "10.5 Sysops Squad的传奇故事：工单分配的数据访问",
+          "anchor": "Ace174ac2-9f3f-4b4d-a080-67ed8addd0f2",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第11章 管理分布式工作流",
+      "level": 2,
+      "wordCount": 8854,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11.1 集中编排式通信",
+          "anchor": "A461000fb-7cf4-4581-87b9-5d424a074771",
+          "level": 3
+        },
+        {
+          "title": "11.2 分散协作式通信",
+          "anchor": "A9ec900fe-c1d3-46a2-b43d-e7f778398923",
+          "level": 3
+        },
+        {
+          "title": "11.3 权衡集中编排与分散协作",
+          "anchor": "A10540105-8ccc-40ee-b25d-43e7973ca5d4",
+          "level": 3
+        },
+        {
+          "title": "11.4 Sysops Squad的传奇故事：工作流管理",
+          "anchor": "Ae5400106-ba40-4340-bbfc-a5f277f06dff",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第12章 事务Saga",
+      "level": 2,
+      "wordCount": 19255,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12.1 事务Saga的8种模式",
+          "anchor": "Ab6c1010c-52ff-483a-b413-e947f9b26022",
+          "level": 3
+        },
+        {
+          "title": "12.2 状态管理与最终一致性",
+          "anchor": "A7b870121-737d-4f53-9c36-8a21fa7c0032",
+          "level": 3
+        },
+        {
+          "title": "12.3 管理Saga的手段",
+          "anchor": "A678f0124-20c3-4625-bba7-76582095815a",
+          "level": 3
+        },
+        {
+          "title": "12.4 Sysops Squad的传奇故事：原子性事务和补偿更新",
+          "anchor": "Aae832bf9-0dfc-438a-ac3b-b805d93d76b9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第13章 契约",
+      "level": 2,
+      "wordCount": 7811,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "13.1 严格契约与宽松契约",
+          "anchor": "A60c7012d-9749-459f-92ba-166c312fb9e6",
+          "level": 3
+        },
+        {
+          "title": "13.2 微服务中的契约",
+          "anchor": "A29b60131-1781-4a04-85a0-904ab2e55c6e",
+          "level": 3
+        },
+        {
+          "title": "13.3 邮戳耦合",
+          "anchor": "Adf2d0135-15a8-4eb0-b463-a417672c6685",
+          "level": 3
+        },
+        {
+          "title": "13.4 Sysops Squad的传奇故事：管理工单契约",
+          "anchor": "Ac63b0137-8048-4554-ae1c-439d78e79978",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第14章 管理分析型数据",
+      "level": 2,
+      "wordCount": 9799,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14.1 以前的方法",
+          "anchor": "A6c980139-926b-455c-ac5e-35bd13f4237e",
+          "level": 3
+        },
+        {
+          "title": "14.2 数据网格",
+          "anchor": "A08ed013f-f0a7-499a-b580-90b44a2c7925",
+          "level": 3
+        },
+        {
+          "title": "14.3 Sysops Squad的传奇故事：数据网格",
+          "anchor": "A40b30144-4d68-4df6-be2e-1e070c99c6f2",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第15章 打造你自己的权衡分析",
+      "level": 2,
+      "wordCount": 8574,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15.1 找出彼此纠缠的部分",
+          "anchor": "A3dc80148-9ebd-4250-b727-b42e6120401c",
+          "level": 3
+        },
+        {
+          "title": "15.2 权衡利弊的技巧",
+          "anchor": "Ad00d014b-bf26-4cc5-8826-95b52c6187df",
+          "level": 3
+        },
+        {
+          "title": "15.3 Sysops Squad的传奇故事：尾声",
+          "anchor": "A60940155-3a58-4874-9253-7781d3ebf5d7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "关于作者",
+      "level": 1,
+      "wordCount": 770,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "关于封面",
+      "level": 1,
+      "wordCount": 468,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "文后",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300065695&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=26"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 7,
+      "chapterTitle": "第1章 没有最佳实践会怎么样",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300065695_7_13983-14007",
+          "range": "13983-14007",
+          "rangeStart": 13983,
+          "rangeEnd": 14007,
+          "markText": "“我们知道这样做不好，回头就改”——然后永不回头",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1775557723,
+          "createTimeFormatted": "2026-04-07 18:28:43",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=7&rangeStart=13983&rangeEnd=14007",
+          "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=7&rangeStart=13983&rangeEnd=14007"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300065695_7_1659-1693",
+          "range": "1659-1693",
+          "rangeStart": 1659,
+          "rangeEnd": 1693,
+          "markText": "不要尝试在软件架构中寻求最佳设计，而应力求寻找不那么糟糕的取舍组合。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1775557718,
+          "createTimeFormatted": "2026-04-07 18:28:38",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=7&rangeStart=1659&rangeEnd=1693",
+          "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=7&rangeStart=1659&rangeEnd=1693"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300065695_7_1659-1693",
+      "chapterUid": 7,
+      "range": "1659-1693",
+      "markText": "不要尝试在软件架构中寻求最佳设计，而应力求寻找不那么糟糕的取舍组合。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=7&rangeStart=1659&rangeEnd=1693",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=7&rangeStart=1659&rangeEnd=1693"
+    },
+    {
+      "bookmarkId": "3300065695_7_2386-2402",
+      "chapterUid": 7,
+      "range": "2386-2402",
+      "markText": "软件架构就是以后不好改的那些东西",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=7&rangeStart=2386&rangeEnd=2402",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=7&rangeStart=2386&rangeEnd=2402"
+    },
+    {
+      "bookmarkId": "3300065695_7_13983-14007",
+      "chapterUid": 7,
+      "range": "13983-14007",
+      "markText": "“我们知道这样做不好，回头就改”——然后永不回头",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=7&rangeStart=13983&rangeEnd=14007",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=7&rangeStart=13983&rangeEnd=14007"
+    },
+    {
+      "bookmarkId": "3300065695_4_564-587",
+      "chapterUid": 4,
+      "range": "564-587",
+      "markText": "在不确定的环境中，通过技术寻找共赢的解决方案。",
+      "totalCount": 105,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=4&rangeStart=564&rangeEnd=587",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=4&rangeStart=564&rangeEnd=587"
+    },
+    {
+      "bookmarkId": "3300065695_10_10446-10497",
+      "chapterUid": 10,
+      "range": "10446-10497",
+      "markText": "如果你的微服务必须按照特定顺序作为完整的集合部署，那么不如让它们回归单体吧，这样你还可以免去一些痛苦。",
+      "totalCount": 98,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=10&rangeStart=10446&rangeEnd=10497",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=10&rangeStart=10446&rangeEnd=10497"
+    },
+    {
+      "bookmarkId": "3300065695_7_14841-14852",
+      "chapterUid": 7,
+      "range": "14841-14852",
+      "markText": "为什么做比如何做更重要",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=7&rangeStart=14841&rangeEnd=14852",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=7&rangeStart=14841&rangeEnd=14852"
+    },
+    {
+      "bookmarkId": "3300065695_4_446-481",
+      "chapterUid": 4,
+      "range": "446-481",
+      "markText": "架构师首先是一个政治角色，其次才是技术角色。这是我作为架构师恪守的格言",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=4&rangeStart=446&rangeEnd=481",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=4&rangeStart=446&rangeEnd=481"
+    },
+    {
+      "bookmarkId": "3300065695_7_7869-7949",
+      "chapterUid": 7,
+      "range": "7869-7949",
+      "markText": "自动化治理的一个关键点便是架构特征的客观定义。举例来说，架构师不能说我想要一个“高性能”的网站，而必须提供一个可以被测试、监控或者其他适应度函数来测定的目标值。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=7&rangeStart=7869&rangeEnd=7949",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=7&rangeStart=7869&rangeEnd=7949"
+    },
+    {
+      "bookmarkId": "3300065695_7_971-1030",
+      "chapterUid": 7,
+      "range": "971-1030",
+      "markText": "架构师很少遇到通用问题，他们持续地在各种新奇场景中艰难地做着抉择。对于架构师来说，问题就像雪花，没有两片雪花是相同的。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=7&rangeStart=971&rangeEnd=1030",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=7&rangeStart=971&rangeEnd=1030"
+    },
+    {
+      "bookmarkId": "3300065695_10_5074-5145",
+      "chapterUid": 10,
+      "range": "5074-5145",
+      "markText": "如今的商业活动中，5个关键的架构特征支撑了敏捷性、上市速度，最终获得竞争优势，它们是可用性（容错性）、可伸缩性、可部署性、可测试性和可维护性。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=10&rangeStart=5074&rangeEnd=5145",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=10&rangeStart=5074&rangeEnd=5145"
+    },
+    {
+      "bookmarkId": "3300065695_7_3501-3519",
+      "chapterUid": 7,
+      "range": "3501-3519",
+      "markText": "数据很珍贵，它比系统本身存在得更久。",
+      "totalCount": 60,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=7&rangeStart=3501&rangeEnd=3519",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=7&rangeStart=3501&rangeEnd=3519"
+    },
+    {
+      "bookmarkId": "3300065695_7_3712-3766",
+      "chapterUid": 7,
+      "range": "3712-3766",
+      "markText": "架构师和DBA必须保证业务型数据能够在单体系统解构后存活，无论架构如何变更，业务人员应该能持续从数据中获益。",
+      "totalCount": 60,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=7&rangeStart=3712&rangeEnd=3766",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=7&rangeStart=3712&rangeEnd=3766"
+    },
+    {
+      "bookmarkId": "3300065695_7_13835-13910",
+      "chapterUid": 7,
+      "range": "13835-13910",
+      "markText": "架构师应该避免过度使用强大的适应度函数。他们不应该蜷缩在象牙塔里筹谋一个复杂到不可思议、环环相扣的适应度函数，那样只会让开发人员和团队感到沮丧和挫败。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=7&rangeStart=13835&rangeEnd=13910",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=7&rangeStart=13835&rangeEnd=13910"
+    },
+    {
+      "bookmarkId": "3300065695_14_11241-11291",
+      "chapterUid": 14,
+      "range": "11241-11291",
+      "markText": "我们的建议是等待，直到一个模式建立或者持续可扩展性被确认，然后让该驱动因素成为判断粒度分解的主要手段",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=14&rangeStart=11241&rangeEnd=11291",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=14&rangeStart=11241&rangeEnd=11291"
+    },
+    {
+      "bookmarkId": "3300065695_16_14534-14583",
+      "chapterUid": 16,
+      "range": "14534-14583",
+      "markText": "共享服务技术非常适合于高度多语言的环境（具有多种异构语言和平台的环境），以及共享功能频繁变化的情况",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=16&rangeStart=14534&rangeEnd=14583",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=16&rangeStart=14534&rangeEnd=14583"
+    },
+    {
+      "bookmarkId": "3300065695_23_1006-1080",
+      "chapterUid": 23,
+      "range": "1006-1080",
+      "markText": "我们IT部门学会了宝贵的一课，就是把业务驱动因素作为处理问题的一种方式，从中催生出解决方案。以前，我们总是只关注问题的技术面，所以一直缺少大局观。”",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=23&rangeStart=1006&rangeEnd=1080",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=23&rangeStart=1006&rangeEnd=1080"
+    },
+    {
+      "bookmarkId": "3300065695_23_11088-11177",
+      "chapterUid": 23,
+      "range": "11088-11177",
+      "markText": "用通用和抽象的方式思考架构问题，无法让架构师走得更远。就如同架构问题往往能完美避开通用解决方案，对于架构师来说，重要的是自己掌握建模相关的领域能力，以便做出更好的利弊分析和决策。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=23&rangeStart=11088&rangeEnd=11177",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=23&rangeStart=11088&rangeEnd=11177"
+    },
+    {
+      "bookmarkId": "3300065695_10_12382-12467",
+      "chapterUid": 10,
+      "range": "12382-12467",
+      "markText": "与可测试性以及可部署性一样，完成单一业务流程的服务间通信越多，对可伸缩性和弹性产生的负面影响越大。因此，当需要更高的可伸缩性和弹性水平时，最好尽可能减少服务间的同步通信。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=10&rangeStart=12382&rangeEnd=12467",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=10&rangeStart=12382&rangeEnd=12467"
+    },
+    {
+      "bookmarkId": "3300065695_11_9931-10010",
+      "chapterUid": 11,
+      "range": "9931-10010",
+      "markText": "当把单体应用拆分为微服务时，先考虑迁移到基于服务的架构，作为走向微服务的第一步。但如果代码库就是一团毫无组织的大泥球，没什么组件呢？这时我们就需要战术分叉了。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=11&rangeStart=9931&rangeEnd=10010",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=11&rangeStart=9931&rangeEnd=10010"
+    },
+    {
+      "bookmarkId": "3300065695_13_8627-8721",
+      "chapterUid": 13,
+      "range": "8627-8721",
+      "markText": "管理如何在分布式架构中使用数据库连接很重要。一种有效的方法是为每个服务分配一个连接配额，以管理跨服务的可用数据库连接的分布。连接配额指定了允许服务在其连接池中使用或提供的最大数据库连接数。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=3300065695&chapterUid=13&rangeStart=8627&rangeEnd=8721",
+      "webLink": "https://weread.qq.com/web/reader/18632780813ab8029g01593a?chapterUid=13&rangeStart=8627&rangeEnd=8721"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 7,
+    "chapterOffset": 1017,
+    "progress": 0,
+    "updateTime": 1775557727,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

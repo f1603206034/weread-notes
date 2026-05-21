@@ -1,0 +1,660 @@
+{
+  "meta": {
+    "bookId": "3300038341",
+    "title": "晚清官场镜像：杜凤治日记研究",
+    "author": "邱捷 著",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/56/cpPlatform_8aAPWkf75BrumsYLPbxS2H/t6_cpPlatform_8aAPWkf75BrumsYLPbxS2H.jpg",
+    "intro": "晚清州县官杜凤治宦粤十几年，留下一部数百万字的日记，主要内容是杜凤治眼里和心中的官场。日记如同一面镜子，照出晚清官场的百态，为州县衙署的具体运作、州县如何借助士绅的基层权力机构管治乡村社会等方面提供了很多细节。南海知县任上的日记反映了晚清官府对大城市的管治。有关听讼的记载透露了州县官在审案时的种种考量，使今人得以了解官员为何经常偏离王法做出判决。有关州县催征的记述，有不少清代赋税研究者尚未充分注意的事实。对官员交往、馈送、收支的记述，构成了一个个关于晚清官场“无官不贪”的生动而可信的故事。",
+    "category": "历史-中国古代",
+    "publisher": "社会科学文献出版社",
+    "publishTime": "2021-05-01 00:00:00",
+    "isbn": "9787520182010",
+    "wordCount": 0,
+    "newRating": 906,
+    "newRatingCount": 420,
+    "newRatingDetail": {
+      "good": 391,
+      "fair": 22,
+      "poor": 7,
+      "recent": 7,
+      "deepV": 177,
+      "myRating": "",
+      "title": "神作潜力"
+    },
+    "appLink": "weread://reading?bId=3300038341",
+    "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2",
+    "lastSync": "2026-05-21T11:45:42Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 138,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "绪言",
+      "level": 1,
+      "wordCount": 3215,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第一章 杜凤治和他的日记",
+      "level": 1,
+      "wordCount": 15850,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 杜凤治其人",
+          "anchor": "b001",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "二 日记介绍",
+      "level": 2,
+      "wordCount": 9277,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二章 杜凤治宦粤时的广东社会",
+      "level": 1,
+      "wordCount": 9290,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 同光之际广东的治乱",
+          "anchor": "b003",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "二 日记反映的中外关系",
+      "level": 2,
+      "wordCount": 10385,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "三 日记中的广东民生礼俗",
+      "level": 2,
+      "wordCount": 12863,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第三章 官场众生相",
+      "level": 1,
+      "wordCount": 16828,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 官场的生态",
+          "anchor": "b006",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "二 杜凤治的上司同僚",
+      "level": 2,
+      "wordCount": 26480,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "三 官场的底层",
+      "level": 2,
+      "wordCount": 12831,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "四 州县衙门的附属群体",
+      "level": 2,
+      "wordCount": 13471,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第四章 州县衙门的公务",
+      "level": 1,
+      "wordCount": 5664,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 州县官与科举考试",
+          "anchor": "b010",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "二 州县官的审判权力",
+      "level": 2,
+      "wordCount": 11317,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "三 杜凤治审案案例",
+      "level": 2,
+      "wordCount": 12969,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "四 州县官的缉捕权责",
+      "level": 2,
+      "wordCount": 10446,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "五 南海知县的特殊公务",
+      "level": 2,
+      "wordCount": 17792,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第五章 赋税征收与州县官的收支",
+      "level": 1,
+      "wordCount": 13443,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 钱粮的征收",
+          "anchor": "b015",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "二 征收群体与利益分配",
+      "level": 2,
+      "wordCount": 9694,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "三 州县官的银两",
+      "level": 2,
+      "wordCount": 15334,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第六章 州县官与士绅的合作与冲突",
+      "level": 1,
+      "wordCount": 12525,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 日记中的广东士绅",
+          "anchor": "b018",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "二 州县官与士绅的合作",
+      "level": 2,
+      "wordCount": 14868,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "三 州县官与士绅的矛盾冲突",
+      "level": 2,
+      "wordCount": 11213,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "结语",
+      "level": 1,
+      "wordCount": 2442,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "参考文献",
+      "level": 1,
+      "wordCount": 5832,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "后记",
+      "level": 1,
+      "wordCount": 2837,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038341&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=27"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 10,
+      "chapterTitle": "第三章 官场众生相",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300038341_10_9049-9092",
+          "range": "9049-9092",
+          "rangeStart": 9049,
+          "rangeEnd": 9092,
+          "markText": "因为上司虽有权，但意见往往不一致，未必有明确指示，更不愿意担责，一旦出了事就追究下属。",
+          "colorStyle": 4,
+          "colorLabel": "",
+          "createTime": 1771680873,
+          "createTimeFormatted": "2026-02-21 21:34:33",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=10&rangeStart=9049&rangeEnd=9092",
+          "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=10&rangeStart=9049&rangeEnd=9092"
+        }
+      ]
+    },
+    {
+      "chapterUid": 5,
+      "chapterTitle": "第一章 杜凤治和他的日记",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300038341_5_2808-2885",
+          "range": "2808-2885",
+          "rangeStart": 2808,
+          "rangeEnd": 2885,
+          "markText": "咸丰六年，娄氏致函杜凤治，备述困苦之状，其中说道：“欲死则难舍儿女，不死则支持实难。”但杜凤治只能复信说几句安慰的空话。何氏所生之女，得病后无钱医治夭折。",
+          "colorStyle": 4,
+          "colorLabel": "",
+          "createTime": 1771680867,
+          "createTimeFormatted": "2026-02-21 21:34:27",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=5&rangeStart=2808&rangeEnd=2885",
+          "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=5&rangeStart=2808&rangeEnd=2885"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300038341_5_2808-2885",
+      "chapterUid": 5,
+      "range": "2808-2885",
+      "markText": "咸丰六年，娄氏致函杜凤治，备述困苦之状，其中说道：“欲死则难舍儿女，不死则支持实难。”但杜凤治只能复信说几句安慰的空话。何氏所生之女，得病后无钱医治夭折。",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=5&rangeStart=2808&rangeEnd=2885",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=5&rangeStart=2808&rangeEnd=2885"
+    },
+    {
+      "bookmarkId": "3300038341_10_9049-9092",
+      "chapterUid": 10,
+      "range": "9049-9092",
+      "markText": "因为上司虽有权，但意见往往不一致，未必有明确指示，更不愿意担责，一旦出了事就追究下属。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=10&rangeStart=9049&rangeEnd=9092",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=10&rangeStart=9049&rangeEnd=9092"
+    },
+    {
+      "bookmarkId": "3300038341_5_17625-17674",
+      "chapterUid": 5,
+      "range": "17625-17674",
+      "markText": "可见杜凤治虽然关注世界大事和西方新事物，但他始终是从一个中国士大夫、清朝官员的角度去观察和思考的。",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=5&rangeStart=17625&rangeEnd=17674",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=5&rangeStart=17625&rangeEnd=17674"
+    },
+    {
+      "bookmarkId": "3300038341_5_7739-7819",
+      "chapterUid": 5,
+      "range": "7739-7819",
+      "markText": "杜凤治又以“对扣”借了680两，实际到手340两。这些银两，说定了到任后迅速归还，通常债主会亲自或派出伙计跟随赴任官员，取得债银后回京，往返旅费也由借债者承担。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=5&rangeStart=7739&rangeEnd=7819",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=5&rangeStart=7739&rangeEnd=7819"
+    },
+    {
+      "bookmarkId": "3300038341_8_17459-17505",
+      "chapterUid": 8,
+      "range": "17459-17505",
+      "markText": "瑞麟并不在乎口供是否属实，不在乎是否冤枉，只在乎口供是否符合他维护清朝在广东统治秩序的需要。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=8&rangeStart=17459&rangeEnd=17505",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=8&rangeStart=17459&rangeEnd=17505"
+    },
+    {
+      "bookmarkId": "3300038341_5_16604-16643",
+      "chapterUid": 5,
+      "range": "16604-16643",
+      "markText": "在四会任上还曾向学官黄圣之（纪石）借阅以男同性恋为主题的“禁书”《品花宝鉴》。",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=5&rangeStart=16604&rangeEnd=16643",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=5&rangeStart=16604&rangeEnd=16643"
+    },
+    {
+      "bookmarkId": "3300038341_6_4319-4564",
+      "chapterUid": 6,
+      "range": "4319-4564",
+      "markText": "不过，日记极少议论太后、皇帝、朝廷；对自己的支出记录详细，对收入则记录不多，于此等地方也可见他精明谨慎之处。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=6&rangeStart=4319&rangeEnd=4564",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=6&rangeStart=4319&rangeEnd=4564"
+    },
+    {
+      "bookmarkId": "3300038341_7_14811-14852",
+      "chapterUid": 7,
+      "range": "14811-14852",
+      "markText": "且淫风流行，少年男子往往名为妹为娘，而搔头弄姿，顾影自怜，争赛妩媚，恶俗不可偻举。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=7&rangeStart=14811&rangeEnd=14852",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=7&rangeStart=14811&rangeEnd=14852"
+    },
+    {
+      "bookmarkId": "3300038341_5_9035-9072",
+      "chapterUid": 5,
+      "range": "9035-9072",
+      "markText": "杜凤治给送札的来人“规费”10元，但来人嫌少不肯收，最后给了24元才打发走",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=5&rangeStart=9035&rangeEnd=9072",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=5&rangeStart=9035&rangeEnd=9072"
+    },
+    {
+      "bookmarkId": "3300038341_13_20366-20406",
+      "chapterUid": 13,
+      "range": "20366-20406",
+      "markText": "役名也是一宗财产，可以抵押转让，实际充任者为谁并不重要，官员已完全认可这种状况。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=13&rangeStart=20366&rangeEnd=20406",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=13&rangeStart=20366&rangeEnd=20406"
+    },
+    {
+      "bookmarkId": "3300038341_15_20580-20863",
+      "chapterUid": 15,
+      "range": "20580-20863",
+      "markText": "以站笼、钉人、活埋等非刑处决犯人的事，在清朝各种官方记载、档案以及州县官、幕客的私人公开著述中都不易找到。杜凤治的日记留下了罕见而真实的记录。",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=15&rangeStart=20580&rangeEnd=20863",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=15&rangeStart=20580&rangeEnd=20863"
+    },
+    {
+      "bookmarkId": "3300038341_5_15676-15720",
+      "chapterUid": 5,
+      "range": "15676-15720",
+      "markText": "刘坤一曾任两广总督，是杜凤治的上司，李文田是探花，但杜凤治并不把他们两人的学问放在眼里。",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=5&rangeStart=15676&rangeEnd=15720",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=5&rangeStart=15676&rangeEnd=15720"
+    },
+    {
+      "bookmarkId": "3300038341_18_1376-1475",
+      "chapterUid": 18,
+      "range": "1376-1475",
+      "markText": "同治十二年四月廿三日（1873年5月19日）是杜凤治60岁（虚岁）生日，其中一副贺联由大学士直隶总督李鸿章撰、军机大臣工部尚书李鸿藻书（二李是杜凤治的乡试同年），附名的还有多位最低为四品京堂的京官。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=18&rangeStart=1376&rangeEnd=1475",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=18&rangeStart=1376&rangeEnd=1475"
+    },
+    {
+      "bookmarkId": "3300038341_8_14409-14496",
+      "chapterUid": 8,
+      "range": "14409-14496",
+      "markText": "人必来保释，要把梁亚福打死，绅士不得已，将梁亚福推出，众人拥至大门内，石子木棍齐下乱殴，顷刻殒命。但日记也说“梁亚福素有疯疾，绅等问其所掷何物，供系石子，何人授与，无有实供”",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=8&rangeStart=14409&rangeEnd=14496",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=8&rangeStart=14409&rangeEnd=14496"
+    },
+    {
+      "bookmarkId": "3300038341_10_5124-5183",
+      "chapterUid": 10,
+      "range": "5124-5183",
+      "markText": "（君）太认真太直性，官场不可与人有真性情，广东更甚，治民不可一味正道，如开古方，须要权术，如一味直道而行，究受亏不少。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=10&rangeStart=5124&rangeEnd=5183",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=10&rangeStart=5124&rangeEnd=5183"
+    },
+    {
+      "bookmarkId": "3300038341_12_4583-4616",
+      "chapterUid": 12,
+      "range": "4583-4616",
+      "markText": "可见佐杂庇赌、开赌，只要不闹出大乱子，各级官员都抱相当宽容的态度。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=12&rangeStart=4583&rangeEnd=4616",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=12&rangeStart=4583&rangeEnd=4616"
+    },
+    {
+      "bookmarkId": "3300038341_5_12478-12508",
+      "chapterUid": 5,
+      "range": "12478-12508",
+      "markText": "前生不善，今生州县；前生作恶，知县附郭；恶贯满盈，附郭省城。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=5&rangeStart=12478&rangeEnd=12508",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=5&rangeStart=12478&rangeEnd=12508"
+    },
+    {
+      "bookmarkId": "3300038341_5_13406-13492",
+      "chapterUid": 5,
+      "range": "13406-13492",
+      "markText": "杜凤治是一个对自身要求比较严格的士大夫，在日记中反复提醒自己要讲究三纲五常、孝悌忠信，以“格物、致知、诚意、正心”和“修身、齐家、治国、平天下”的原则要求自己、评论人和事。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=5&rangeStart=13406&rangeEnd=13492",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=5&rangeStart=13406&rangeEnd=13492"
+    },
+    {
+      "bookmarkId": "3300038341_5_23358-23376",
+      "chapterUid": 5,
+      "range": "23358-23376",
+      "markText": "欲不大黑，切不可大红，最为作官要诀”",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=5&rangeStart=23358&rangeEnd=23376",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=5&rangeStart=23358&rangeEnd=23376"
+    },
+    {
+      "bookmarkId": "3300038341_5_24260-24317",
+      "chapterUid": 5,
+      "range": "24260-24317",
+      "markText": "杜凤治知道潘衍桐未必能直接为难自己，偶尔不给翰林面子，以体恤小民的面目出现，反而有利于在官场和民间提高自己的声望。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=3300038341&chapterUid=5&rangeStart=24260&rangeEnd=24317",
+      "webLink": "https://weread.qq.com/web/reader/d2132580813ab757ag011ce2?chapterUid=5&rangeStart=24260&rangeEnd=24317"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 4,
+    "chapterOffset": 383,
+    "progress": 0,
+    "updateTime": 1774154292,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

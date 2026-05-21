@@ -1,0 +1,880 @@
+{
+  "meta": {
+    "bookId": "3300032970",
+    "title": "从诸侯到帝国",
+    "author": "王伟",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/45/cpPlatform_k9JQNyXs5QVUrmD1hxnzpp/t6_cpPlatform_k9JQNyXs5QVUrmD1hxnzpp.jpg",
+    "intro": "继《看懂世界格局的第1本书》之后，作者王伟将他特有的视角放回中国。\n这本《看懂中国格局的第本书》，细数从诸侯争霸到秦帝国统一中国的历史事件，以大历史观、战略思维的角度，分析地方诸侯国之间的微妙博弈、秦统一六国以及秦帝国的建立。呈现出一部精彩绝伦的历史大戏。\n本书用大开大合的笔法将复杂多变的先秦史呈现出来，并把中国放在世界大格局中，作者善用形象生动的比喻，用轻松明快的语调，使读者能够了解中国格局形成的由来以及未来的走向。",
+    "category": "历史-中国古代",
+    "publisher": "北京出版社",
+    "publishTime": "2016-06-01 00:00:00",
+    "isbn": "9787200122985",
+    "wordCount": 0,
+    "newRating": 787,
+    "newRatingCount": 841,
+    "newRatingDetail": {
+      "good": 654,
+      "fair": 126,
+      "poor": 61,
+      "recent": 8,
+      "deepV": 242,
+      "myRating": "",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=3300032970",
+    "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad",
+    "lastSync": "2026-05-21T11:55:36Z",
+    "readingProgress": "3%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 3,
+    "bookmarkCount": 0,
+    "contentHash": "01f85c6bec4fd74d148ceb54922e41bd6b165fd2509436aeb160cd2bed5d7086"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 114,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 1344,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一章 风起陇西",
+      "level": 1,
+      "wordCount": 247,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=4"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 5,
+      "title": "华夏之初",
+      "level": 2,
+      "wordCount": 3040,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 6,
+      "title": "浩浩商魂",
+      "level": 2,
+      "wordCount": 3589,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=42"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 7,
+      "title": "汤武革命",
+      "level": 2,
+      "wordCount": 7334,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=48"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "周治天下",
+      "level": 2,
+      "wordCount": 2516,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=8"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 9,
+      "title": "周秦同源",
+      "level": 2,
+      "wordCount": 2597,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=43"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第二章 刑名治世",
+      "level": 1,
+      "wordCount": 7433,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "大国分合",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "李悝变法",
+      "level": 2,
+      "wordCount": 3714,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=11"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 12,
+      "title": "吴起变法",
+      "level": 2,
+      "wordCount": 3961,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 13,
+      "title": "商鞅变法",
+      "level": 2,
+      "wordCount": 19583,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=45"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第三章 转折之战",
+      "level": 1,
+      "wordCount": 305,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=14"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 15,
+      "title": "马陵之战",
+      "level": 2,
+      "wordCount": 8258,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 16,
+      "title": "河西之战",
+      "level": 2,
+      "wordCount": 4263,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 17,
+      "title": "长平之战",
+      "level": 2,
+      "wordCount": 11756,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 18,
+      "title": "第四章 六国毕一",
+      "level": 1,
+      "wordCount": 4855,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "术不抵势——灭韩之战",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 19,
+      "title": "决胜庙堂——灭赵之战",
+      "level": 2,
+      "wordCount": 4010,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=53"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "胜之无奇——破燕灭魏",
+      "level": 2,
+      "wordCount": 3759,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "华夏统一的最后冲刺——灭楚降齐",
+      "level": 2,
+      "wordCount": 6493,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第五章 再铸华夏",
+      "level": 1,
+      "wordCount": 6403,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "秦帝国的事实统一",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "功在史、亡于势——秦帝国的宿命",
+      "level": 2,
+      "wordCount": 7899,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "偶然中的必然——一场宫廷政变改变了帝国命运",
+      "level": 2,
+      "wordCount": 2557,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "“大泽乡起义”——压垮秦国的最后一根稻草",
+      "level": 2,
+      "wordCount": 3898,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "帝国的回光返照",
+      "level": 2,
+      "wordCount": 5827,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第六章 大秦悲歌",
+      "level": 1,
+      "wordCount": 2688,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "祸起庙堂",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "定陶之战",
+      "level": 2,
+      "wordCount": 3140,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "巨鹿之战",
+      "level": 2,
+      "wordCount": 12897,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=29"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 30,
+      "title": "复辟封建，开启乱世",
+      "level": 2,
+      "wordCount": 6773,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=47"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "附章",
+      "level": 1,
+      "wordCount": 1305,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "战斗种族",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "战国时代的“硬件”",
+      "level": 2,
+      "wordCount": 2673,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "话说“封建”",
+      "level": 2,
+      "wordCount": 1056,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "秦法大块是来治官的",
+      "level": 2,
+      "wordCount": 3415,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "汉承秦制",
+      "level": 2,
+      "wordCount": 1536,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "关陇集团与华夏治乱",
+      "level": 2,
+      "wordCount": 2820,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "帝国之道：统合为本（上）",
+      "level": 2,
+      "wordCount": 4143,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "帝国之道：统合为本（中）",
+      "level": 2,
+      "wordCount": 2187,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "帝国之道：统合为本（下）",
+      "level": 2,
+      "wordCount": 4336,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "部分参考书目",
+      "level": 1,
+      "wordCount": 168,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300032970&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=40"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 29,
+      "chapterTitle": "巨鹿之战",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300032970_29_12184-12278",
+          "range": "12184-12278",
+          "rangeStart": 12184,
+          "rangeEnd": 12278,
+          "markText": "细节其实并不重要，我们只要知道，任何看似绝妙的奇谋妙算，在“势”面前，其实往往都是不堪一击。你觉得自己是在下棋，殊不知人家一柄重锤砸下来，连你带“棋盘”瞬间便会变成一堆拼都拼不回去的碎片。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1726619123,
+          "createTimeFormatted": "2024-09-18 08:25:23",
+          "chapterUid": 29,
+          "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=29&rangeStart=12184&rangeEnd=12278",
+          "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=29&rangeStart=12184&rangeEnd=12278"
+        }
+      ]
+    },
+    {
+      "chapterUid": 3,
+      "chapterTitle": "前言",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300032970_3_593-609",
+          "range": "593-609",
+          "rangeStart": 593,
+          "rangeEnd": 609,
+          "markText": "世间万事，知其所来，方知其所往。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1726619092,
+          "createTimeFormatted": "2024-09-18 08:24:52",
+          "chapterUid": 3,
+          "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=3&rangeStart=593&rangeEnd=609",
+          "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=3&rangeStart=593&rangeEnd=609"
+        }
+      ]
+    },
+    {
+      "chapterUid": 45,
+      "chapterTitle": "商鞅变法",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7UjKov2Ww",
+          "range": "356-358",
+          "chapterName": "",
+          "content": "shānɡ yānɡ\n（约前390—前338）战国时政治家。卫国人。公孙氏，名鞅，亦称卫鞅。初为魏相公叔痤家臣，后入秦说服秦孝公变法图强。秦孝公六年（前356年，一说在三年）任左庶长，实行变法。旋升大良造。秦孝公十二年进一步变法（参见“商鞅变法”）。后十年（前340年）因战功封商（今陕西丹凤西北）、於（今河南西峡境）十五邑，号商君，因称商鞅。认为追求名利是人的本性，采取“利出于地”“名出于战”的“利出一空（途径）”原则，推动人们积极投身于农战。以农为“本”，以奢侈品生产、销售和游食为“末”，主张“事本而禁末”。孝公死后，被贵族诬害，死后被车裂。《汉书·艺文志》有《商君》二十九篇，今存二十四篇；又有《公孙鞅》二十七篇，今佚。",
+          "abstract": "商鞅",
+          "star": -1,
+          "createTime": 1726712866,
+          "createTimeFormatted": "2024-09-19 10:27:46",
+          "isFinish": false,
+          "chapterUid": 45
+        }
+      ]
+    },
+    {
+      "chapterUid": 44,
+      "chapterTitle": "吴起变法",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7UjKm5D9Z",
+          "range": "356-358",
+          "chapterName": "",
+          "content": "wú qǐ\n吴起（约前440—前381）。战国时卫国左氏（今山东菏泽市定陶区西）人。兵家。善用兵。初任鲁将，继任魏将，屡建战功，被魏文侯任为西河守。文侯死，遭陷害，逃奔楚国，初为宛守，不久任令尹，佐楚悼王实行变法。“明法审令”，“要在强兵”。“废公族疏远者”，强迫旧贵族到边远地区开荒。“捐不急之官”，裁减冗员，整顿统治机构。他的变法促进了楚国的富强。曾北胜魏国，南收扬越，取得苍梧（今广西东部）。楚悼王死，被旧贵族杀害，变法失败。《汉书·艺文志》著录《吴起》四十八篇，已佚。今本《吴子》六篇系后人所托。\n县名。在陕西省西北部、洛河上游，邻接甘肃省。属延安市。面积3789平方千米。人口14万（2017年）。县人民政府驻吴起街道。1942年由靖边、定边、志丹、安化等县析置吴旗县，2005年改名吴起县。农产以粟、黍、荞麦为主，并产甘草、龙骨等药材。畜牧业亦盛。矿产有石油。工业有机械、建材、石油化工等。延吴高速公路经此。县城为1935年10月19日中国工农红军第一方面军长征到达陕北，和陕北红军胜利会师之地。",
+          "abstract": "吴起",
+          "star": -1,
+          "createTime": 1726712830,
+          "createTimeFormatted": "2024-09-19 10:27:10",
+          "isFinish": false,
+          "chapterUid": 44
+        }
+      ]
+    },
+    {
+      "chapterUid": 11,
+      "chapterTitle": "李悝变法",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7UjKjCEvw",
+          "range": "356-358",
+          "chapterName": "",
+          "content": "lǐ kuī\n（前455—前395）战国初魏国人。初为魏国上地之守，后任魏文侯相，主持变法。经济上推行“尽地力之教”，发展农业生产。实行“善平籴”政策，由国家根据收成控制粮价。政治上废除维护贵族特权的世卿世禄制度，从而使魏国成为战国初期强国。他汇集当时各国法律编成《法经》，是中国古代第一部比较完整的法典，已佚。《汉书·艺文志》著录《李子》三十二篇，已佚。",
+          "abstract": "李悝",
+          "star": -1,
+          "createTime": 1726712793,
+          "createTimeFormatted": "2024-09-19 10:26:33",
+          "isFinish": false,
+          "chapterUid": 11
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300032970_3_1488-1551",
+      "chapterUid": 3,
+      "range": "1488-1551",
+      "markText": "其实解剖历史也是差不多：地缘、经济基本盘、权力分布以及文化，这几条是最基本的切入点。也可以说，历史其实就是一份王朝的验尸报告。",
+      "totalCount": 408,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=3&rangeStart=1488&rangeEnd=1551",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=3&rangeStart=1488&rangeEnd=1551"
+    },
+    {
+      "bookmarkId": "3300032970_3_768-822",
+      "chapterUid": 3,
+      "range": "768-822",
+      "markText": "历史的真正价值在于给予我们逻辑和斗志，而不该是对古人“狗仔队”式的“八卦”，更不应该是粉饰当下错误的遮盖物。",
+      "totalCount": 405,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=3&rangeStart=768&rangeEnd=822",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=3&rangeStart=768&rangeEnd=822"
+    },
+    {
+      "bookmarkId": "3300032970_48_9896-9994",
+      "chapterUid": 48,
+      "range": "9896-9994",
+      "markText": "更讽刺的是，在600多年以后，孟子读到《尚书》《逸周书》中对牧野之战惨烈的描写后，认为这不符合圣君吊民伐罪的形象，于是将牧野之战改写成了奴隶们见到武王大军到来，便临阵倒戈，这样一个兵不血刃的场面。",
+      "totalCount": 364,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=48&rangeStart=9896&rangeEnd=9994",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=48&rangeStart=9896&rangeEnd=9994"
+    },
+    {
+      "bookmarkId": "3300032970_41_845-912",
+      "chapterUid": 41,
+      "range": "845-912",
+      "markText": "回顾千万年以来的历史，真正促成人类文明发展的因素，八九成都是因为要应付各种各样的麻烦，逼不得已只能往前走，而并非什么出于“追求理想”。",
+      "totalCount": 336,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=41&rangeStart=845&rangeEnd=912",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=41&rangeStart=845&rangeEnd=912"
+    },
+    {
+      "bookmarkId": "3300032970_41_1622-1702",
+      "chapterUid": 41,
+      "range": "1622-1702",
+      "markText": "在当时，牵头联合治水的是一个由四大部族组成的联盟，他们的首领分别是：居于领导核心的禹，以及契、稷、伯益。有意思的是，这四位正分别是后世夏、商、周、秦四朝的先祖。",
+      "totalCount": 336,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=41&rangeStart=1622&rangeEnd=1702",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=41&rangeStart=1622&rangeEnd=1702"
+    },
+    {
+      "bookmarkId": "3300032970_29_12184-12278",
+      "chapterUid": 29,
+      "range": "12184-12278",
+      "markText": "细节其实并不重要，我们只要知道，任何看似绝妙的奇谋妙算，在“势”面前，其实往往都是不堪一击。你觉得自己是在下棋，殊不知人家一柄重锤砸下来，连你带“棋盘”瞬间便会变成一堆拼都拼不回去的碎片。",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=29&rangeStart=12184&rangeEnd=12278",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=29&rangeStart=12184&rangeEnd=12278"
+    },
+    {
+      "bookmarkId": "3300032970_22_6689-6782",
+      "chapterUid": 22,
+      "range": "6689-6782",
+      "markText": "后世清代文人有诗云“万里长城今犹在，不见当年秦始皇”，一国的知识分子将如此重要的国防工程仅仅当做是皇帝个人的政绩标志，见识如此浅薄，而且还被当做美谈传颂，也就难怪清朝后期如此肥弱不堪了。",
+      "totalCount": 225,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=22&rangeStart=6689&rangeEnd=6782",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=22&rangeStart=6689&rangeEnd=6782"
+    },
+    {
+      "bookmarkId": "3300032970_3_593-609",
+      "chapterUid": 3,
+      "range": "593-609",
+      "markText": "世间万事，知其所来，方知其所往。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=3&rangeStart=593&rangeEnd=609",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=3&rangeStart=593&rangeEnd=609"
+    },
+    {
+      "bookmarkId": "3300032970_21_6302-6335",
+      "chapterUid": 21,
+      "range": "6302-6335",
+      "markText": "最能体现国家真实实力的地方，并非是你赢了几次，而是你能承受输几次。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=21&rangeStart=6302&rangeEnd=6335",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=21&rangeStart=6302&rangeEnd=6335"
+    },
+    {
+      "bookmarkId": "3300032970_21_7527-7564",
+      "chapterUid": 21,
+      "range": "7527-7564",
+      "markText": "秦王政在承认自己决策失误的同时，给予了这位年轻将领在战场上洗刷耻辱的机会。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=21&rangeStart=7527&rangeEnd=7564",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=21&rangeStart=7527&rangeEnd=7564"
+    },
+    {
+      "bookmarkId": "3300032970_10_7448-7516",
+      "chapterUid": 10,
+      "range": "7448-7516",
+      "markText": "“田氏代姜”的情况跟三家分晋是差不多的，都是卿大夫集团自我约束，同时不断向平民释放利益而获得民心，借此壮大自己的势力，最终取国君而代之。",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=10&rangeStart=7448&rangeEnd=7516",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=10&rangeStart=7448&rangeEnd=7516"
+    },
+    {
+      "bookmarkId": "3300032970_21_5827-5926",
+      "chapterUid": 21,
+      "range": "5827-5926",
+      "markText": "战争的终极目标只有一个，那就是取胜。战法没有什么奇与拙之分，相反，越是简单、直接的战法，越是不存在不确定因素，战胜的几率也就越大。过于醉心于奇谋妙算、诡诈之术，最终只能让自己成为“谋略综合症”患者。",
+      "totalCount": 169,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=21&rangeStart=5827&rangeEnd=5926",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=21&rangeStart=5827&rangeEnd=5926"
+    },
+    {
+      "bookmarkId": "3300032970_51_9033-9077",
+      "chapterUid": 51,
+      "range": "9033-9077",
+      "markText": "两个被历代文人所褒扬的“外交案例”，事实上除了成就了蔺相如的虚名之外，对国家则是有损无益",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=51&rangeStart=9033&rangeEnd=9077",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=51&rangeStart=9033&rangeEnd=9077"
+    },
+    {
+      "bookmarkId": "3300032970_52_5503-5576",
+      "chapterUid": 52,
+      "range": "5503-5576",
+      "markText": "韩国上层一直在忽略着一点：国际斗争终归不是在“下棋”。国家层面的对抗，谋略决定的只不过是局部，能够左右大局的，永远只有“意志”和“实力”两样东西。",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=52&rangeStart=5503&rangeEnd=5576",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=52&rangeStart=5503&rangeEnd=5576"
+    },
+    {
+      "bookmarkId": "3300032970_45_20550-20629",
+      "chapterUid": 45,
+      "range": "20550-20629",
+      "markText": "所谓“术”，很多时候不是体现在“进、取”上，而是体现在“退”和“舍”上。擅长于“术”（鬼手），最终却能排除“术治”，建立纯粹的“法治”，这就是“道”（佛心）。",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=45&rangeStart=20550&rangeEnd=20629",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=45&rangeStart=20550&rangeEnd=20629"
+    },
+    {
+      "bookmarkId": "3300032970_48_6259-6341",
+      "chapterUid": 48,
+      "range": "6259-6341",
+      "markText": "《尚书》中记载：周武王发动灭商战争之前，曾经立数帝辛六大罪状：“一、酗酒；二、不任用贵族、旧臣；三、任用小人；四、听信妇人言；五、信有命在天；六、不祭祀祖先神明”。",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=48&rangeStart=6259&rangeEnd=6341",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=48&rangeStart=6259&rangeEnd=6341"
+    },
+    {
+      "bookmarkId": "3300032970_22_4255-4350",
+      "chapterUid": 22,
+      "range": "4255-4350",
+      "markText": "战国末期，燕、赵两国最终都选择了在与秦军的决战中宣告亡国，而没有逃到北地勾结匈奴——所谓战国之风，并非是几个贵族公子在那自娱自乐，而是为人、为政、为国，皆行堂堂之阵、正正之旗，皆以大义为先。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=22&rangeStart=4255&rangeEnd=4350",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=22&rangeStart=4255&rangeEnd=4350"
+    },
+    {
+      "bookmarkId": "3300032970_37_472-531",
+      "chapterUid": 37,
+      "range": "472-531",
+      "markText": "用最简单的话来概括一下“权利”与“权力”：你去做你喜欢的事，这叫做“权利”；你让别人去做他不喜欢的事，这叫做“权力”。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=37&rangeStart=472&rangeEnd=531",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=37&rangeStart=472&rangeEnd=531"
+    },
+    {
+      "bookmarkId": "3300032970_45_24632-24681",
+      "chapterUid": 45,
+      "range": "24632-24681",
+      "markText": "商鞅为秦国铺就了一条强大之路，也为华夏开启的统一之路，而他自己，则是这一旷世工程完工后最后的祭品。",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=45&rangeStart=24632&rangeEnd=24681",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=45&rangeStart=24632&rangeEnd=24681"
+    },
+    {
+      "bookmarkId": "3300032970_10_8779-8869",
+      "chapterUid": 10,
+      "range": "8779-8869",
+      "markText": "公元前73年，也就是西汉宣帝时代，罗马爆发了斯巴达克斯起义，在17世纪资产阶级革命爆发之前，这是西方历史上唯一一次由非贵族人士主导了政治，除此之外，西方政治再无脱离血亲政治的范例。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300032970&chapterUid=10&rangeStart=8779&rangeEnd=8869",
+      "webLink": "https://weread.qq.com/web/reader/dc232000813ab7361g010fad?chapterUid=10&rangeStart=8779&rangeEnd=8869"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 44,
+    "chapterOffset": 0,
+    "progress": 3,
+    "updateTime": 1726713351,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

@@ -1,0 +1,770 @@
+{
+  "meta": {
+    "bookId": "3300021466",
+    "title": "县乡中国：县域治理现代化",
+    "author": "杨华",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/66/3300021466/t6_3300021466.jpg",
+    "intro": "本书是作者基于十多年来对基层治理的研究，结合最近两三年最新的调查资料写出来的关于县乡治理逻辑与实践的力作，对基层治理的体制机制做了深度分析，并提出了建设性的意见。具体而言，本书内容包括：县域体制优势转化为治理效能的机制安排、基层治理体制机制问题、基层领导和基层普通干部自主性、县乡政府落实国家政策的制度设计及其效率与效果、基层工作人员的激励与发展等。书稿通过通俗的语言对县乡治理现象进行了深描和刻画，对个案给予了呈现和剖析，抓住事物本质而又生动形象，尝试学理分析而又深入浅出。书中的理论透视，有助于读者深度理解我国县域治理体制的优势，又有利于推动基层创新治理机制、提高基层工作能力，形成干事创业的积极氛围。该书既有分析的深度，又有可读性，特别适合普通大众阅读。",
+    "category": "社会文化-社科",
+    "publisher": "中国人民大学出版社",
+    "publishTime": "2022-04-12 00:00:00",
+    "isbn": "9787300304946",
+    "wordCount": 0,
+    "newRating": 884,
+    "newRatingCount": 2079,
+    "newRatingDetail": {
+      "good": 1863,
+      "fair": 181,
+      "poor": 35,
+      "recent": 13,
+      "deepV": 647,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=3300021466",
+    "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266",
+    "lastSync": "2026-05-21T11:45:25Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 146,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "序言",
+      "level": 1,
+      "wordCount": 2426,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一篇 县域治理体系现代化",
+      "level": 1,
+      "wordCount": 7619,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "条块关系：博弈与均衡",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "资源与考核：条块体制中的支配关系",
+      "level": 2,
+      "wordCount": 4361,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "县乡关系：从共谋到卸责",
+      "level": 2,
+      "wordCount": 4641,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "从“乡镇没有两个一把手”说起：县乡党政关系实践形态",
+      "level": 2,
+      "wordCount": 5929,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "领导的权威如何树立：单位政治与一线政治",
+      "level": 2,
+      "wordCount": 4100,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "片线结合：不变体制变机制",
+      "level": 2,
+      "wordCount": 18052,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "河长制是个好东西",
+      "level": 2,
+      "wordCount": 2064,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "监督下乡：问责成为主要的激励方式",
+      "level": 2,
+      "wordCount": 3217,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第二篇 县域治理能力现代化",
+      "level": 1,
+      "wordCount": 8876,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "基层工作与政治任务",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "政治任务与过程管理",
+      "level": 2,
+      "wordCount": 15829,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "乡镇治理机制创新的约束",
+      "level": 2,
+      "wordCount": 5136,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "注意力内卷：基层“创新”泛滥的逻辑",
+      "level": 2,
+      "wordCount": 6253,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "基层党建如何避免形式主义",
+      "level": 2,
+      "wordCount": 5231,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "加强党的领导 遏制村级贿选",
+      "level": 2,
+      "wordCount": 3150,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "基层安全生产治理：管理比执法更重要",
+      "level": 2,
+      "wordCount": 3484,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "基层治理中的防“二次事件”",
+      "level": 2,
+      "wordCount": 3500,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "县级执法权怎么下沉",
+      "level": 2,
+      "wordCount": 4290,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "如何做好非中心工作：以项目为抓手",
+      "level": 2,
+      "wordCount": 5167,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第三篇 县域治理的自主空间",
+      "level": 1,
+      "wordCount": 5127,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "基层治理要有自主空间",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "自主性激励：让基层干部把工作当事业",
+      "level": 2,
+      "wordCount": 5839,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "政策沟通与政策谈判空间",
+      "level": 2,
+      "wordCount": 8719,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "“领导出面”与“解放领导”",
+      "level": 2,
+      "wordCount": 2383,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "基层领导开展工作的支持结构",
+      "level": 2,
+      "wordCount": 1666,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "迎检、暗访与加码",
+      "level": 2,
+      "wordCount": 5724,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "“体现工作”：基层虚事实做的逻辑",
+      "level": 2,
+      "wordCount": 5144,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "乡镇人事权的限度与突破：以普通干部选聘岗位为例",
+      "level": 2,
+      "wordCount": 3292,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "“县官”不如现管：多层级视频会成负担",
+      "level": 2,
+      "wordCount": 2969,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "第四篇 基层干部的激励与发展",
+      "level": 1,
+      "wordCount": 7029,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "综合考核变“全中心”工作考核：激励功能弱化",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "忙闲不均：职级并行制度亟待健全",
+      "level": 2,
+      "wordCount": 8191,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "领导用人的艺术：隐性层级与曲线流动",
+      "level": 2,
+      "wordCount": 5958,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "中层配备与事业编激励：让大多数人看到希望",
+      "level": 2,
+      "wordCount": 2184,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "年轻干部职场里那点事：“努力就有机会”",
+      "level": 2,
+      "wordCount": 5071,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "年轻干部职场外那点事：拮据的经济与健康的社交",
+      "level": 2,
+      "wordCount": 9852,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "驻村第一书记的角色与工作",
+      "level": 2,
+      "wordCount": 4289,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "一个普通公务员的成长",
+      "level": 2,
+      "wordCount": 6868,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300021466&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=38"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "第一篇 县域治理体系现代化",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300021466_4_9093-9147",
+          "range": "9093-9147",
+          "rangeStart": 9093,
+          "rangeEnd": 9147,
+          "markText": "在县一级条块合一了，县域条块关系问题由部门与县级党委政府的目标不一致矛盾，转变为部门与乡镇的权责不匹配矛盾。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1774315530,
+          "createTimeFormatted": "2026-03-24 09:25:30",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=4&rangeStart=9093&rangeEnd=9147",
+          "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=4&rangeStart=9093&rangeEnd=9147"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300021466_4_9093-9147",
+      "chapterUid": 4,
+      "range": "9093-9147",
+      "markText": "在县一级条块合一了，县域条块关系问题由部门与县级党委政府的目标不一致矛盾，转变为部门与乡镇的权责不匹配矛盾。",
+      "totalCount": 1464,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=4&rangeStart=9093&rangeEnd=9147",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=4&rangeStart=9093&rangeEnd=9147"
+    },
+    {
+      "bookmarkId": "3300021466_4_628-672",
+      "chapterUid": 4,
+      "range": "628-672",
+      "markText": "县域条块关系问题由部门与县级党委政府的目标不一致矛盾，转变为部门与乡镇的权责不匹配矛盾。",
+      "totalCount": 1428,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=4&rangeStart=628&rangeEnd=672",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=4&rangeStart=628&rangeEnd=672"
+    },
+    {
+      "bookmarkId": "3300021466_4_3760-3850",
+      "chapterUid": 4,
+      "range": "3760-3850",
+      "markText": "跟扶贫、党建工作一样，生态环保、发展集体经济、乡村振兴工作都是很重要的政治资源，是基层体制内的政治正确。越是讲政治，就越要政治正确，以它们的名义开展工作，就越能达到事半功倍的效果。",
+      "totalCount": 1265,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=4&rangeStart=3760&rangeEnd=3850",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=4&rangeStart=3760&rangeEnd=3850"
+    },
+    {
+      "bookmarkId": "3300021466_3_1010-1028",
+      "chapterUid": 3,
+      "range": "1010-1028",
+      "markText": "而在于县级行政是国家与社会的交汇点。",
+      "totalCount": 1232,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=3&rangeStart=1010&rangeEnd=1028",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=3&rangeStart=1010&rangeEnd=1028"
+    },
+    {
+      "bookmarkId": "3300021466_7_1525-1581",
+      "chapterUid": 7,
+      "range": "1525-1581",
+      "markText": "镇长的正确角色是党领导下的政府的办事员，不是政府的一把手。尽管书记和镇长的级别都是正科级，但权力和地位相差很大。",
+      "totalCount": 1080,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=7&rangeStart=1525&rangeEnd=1581",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=7&rangeStart=1525&rangeEnd=1581"
+    },
+    {
+      "bookmarkId": "3300021466_3_2510-2571",
+      "chapterUid": 3,
+      "range": "2510-2571",
+      "markText": "历史上的“人治”，与其说是依靠人去治理，还不如说是依“礼”而治，而“礼”源自儒家经典、社会情理，它实际上是另一种制度形态。",
+      "totalCount": 918,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=3&rangeStart=2510&rangeEnd=2571",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=3&rangeStart=2510&rangeEnd=2571"
+    },
+    {
+      "bookmarkId": "3300021466_5_1361-1416",
+      "chapterUid": 5,
+      "range": "1361-1416",
+      "markText": "部门对乡镇的调动主要有两种方式：一种是资源调动，一种是考核调动，分别形成了部门对乡镇的资源支配与考核支配关系。",
+      "totalCount": 884,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=5&rangeStart=1361&rangeEnd=1416",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=5&rangeStart=1361&rangeEnd=1416"
+    },
+    {
+      "bookmarkId": "3300021466_4_5039-5072",
+      "chapterUid": 4,
+      "range": "5039-5072",
+      "markText": "如果领导对什么事情都平均用力，就会把自己累死，工作还不一定干得好。",
+      "totalCount": 799,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=4&rangeStart=5039&rangeEnd=5072",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=4&rangeStart=5039&rangeEnd=5072"
+    },
+    {
+      "bookmarkId": "3300021466_4_755-817",
+      "chapterUid": 4,
+      "range": "755-817",
+      "markText": "最近几年在县域调研，笔者发现从中央到地方部门的权力在强化，同时县一级党委政府对部门资源的整合能力也在增强。这是一个悖论现象。",
+      "totalCount": 774,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=4&rangeStart=755&rangeEnd=817",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=4&rangeStart=755&rangeEnd=817"
+    },
+    {
+      "bookmarkId": "3300021466_4_3458-3529",
+      "chapterUid": 4,
+      "range": "3458-3529",
+      "markText": "这样，县级政府要实现自己的意志，就容易将脱贫攻坚作为政治资源，以脱贫攻坚的名义整合相关资源做自己想做的事情，这会比以一般政策的名义要容易得多。",
+      "totalCount": 765,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=4&rangeStart=3458&rangeEnd=3529",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=4&rangeStart=3458&rangeEnd=3529"
+    },
+    {
+      "bookmarkId": "3300021466_4_7095-7128",
+      "chapterUid": 4,
+      "range": "7095-7128",
+      "markText": "只有重要的事情才能转化为政治任务，只有事情重要才能去整合部门资源。",
+      "totalCount": 742,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=4&rangeStart=7095&rangeEnd=7128",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=4&rangeStart=7095&rangeEnd=7128"
+    },
+    {
+      "bookmarkId": "3300021466_11_1399-1439",
+      "chapterUid": 11,
+      "range": "1399-1439",
+      "markText": "督查督的是“事”，督察督的是“职”，巡察督的是“责”。三者各有分工，又相互联系。",
+      "totalCount": 738,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=11&rangeStart=1399&rangeEnd=1439",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=11&rangeStart=1399&rangeEnd=1439"
+    },
+    {
+      "bookmarkId": "3300021466_3_2681-2761",
+      "chapterUid": 3,
+      "range": "2681-2761",
+      "markText": "事实上，我们今天还如此强调地方领导者的德行与素养，强调群众工作要动“情”，甚至把“德治”与自治、法治的结合当作乡村治理新体系的方向，恰恰说明“人治”还没有过时。",
+      "totalCount": 732,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=3&rangeStart=2681&rangeEnd=2761",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=3&rangeStart=2681&rangeEnd=2761"
+    },
+    {
+      "bookmarkId": "3300021466_3_1174-1245",
+      "chapterUid": 3,
+      "range": "1174-1245",
+      "markText": "前一个身份意味着，他对政治伦理有深切体会，维护皇权和国家治理的合法性。后一个身份则意味着，他能够体察民情，驾驭地方势力，保证国家治理的有效性。",
+      "totalCount": 720,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=3&rangeStart=1174&rangeEnd=1245",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=3&rangeStart=1174&rangeEnd=1245"
+    },
+    {
+      "bookmarkId": "3300021466_4_1740-1794",
+      "chapterUid": 4,
+      "range": "1740-1794",
+      "markText": "“走两区，看变化”，就是到工业园区、城区去看看到底有哪些变化，激发县委书记们的比较意识、竞争意识、看齐意识。",
+      "totalCount": 714,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=4&rangeStart=1740&rangeEnd=1794",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=4&rangeStart=1740&rangeEnd=1794"
+    },
+    {
+      "bookmarkId": "3300021466_7_7328-7371",
+      "chapterUid": 7,
+      "range": "7328-7371",
+      "markText": "政府科层制越发达、条线部门越独立、依法行政越严格，县级对政府部门的动员能力就相对越弱。",
+      "totalCount": 680,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=7&rangeStart=7328&rangeEnd=7371",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=7&rangeStart=7328&rangeEnd=7371"
+    },
+    {
+      "bookmarkId": "3300021466_3_1627-1684",
+      "chapterUid": 3,
+      "range": "1627-1684",
+      "markText": "具体说来，“县官”不能仅仅是一个象征和摆设，不能仅仅成为上级的传声筒，而应该实实在在地回应基层诉求，为地方做实事。",
+      "totalCount": 663,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=3&rangeStart=1627&rangeEnd=1684",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=3&rangeStart=1627&rangeEnd=1684"
+    },
+    {
+      "bookmarkId": "3300021466_3_2365-2407",
+      "chapterUid": 3,
+      "range": "2365-2407",
+      "markText": "县域治理的主要目标在于真正激活基层社会活力，重构基层治理自主性，让“现管”起点作用。",
+      "totalCount": 660,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=3&rangeStart=2365&rangeEnd=2407",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=3&rangeStart=2365&rangeEnd=2407"
+    },
+    {
+      "bookmarkId": "3300021466_5_3548-3600",
+      "chapterUid": 5,
+      "range": "3548-3600",
+      "markText": "县级部门正是有资源可支配，使得考核仅仅是指挥棒，而不是推动工作的利器——它们不需要通过考核进行工作动员。",
+      "totalCount": 650,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=5&rangeStart=3548&rangeEnd=3600",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=5&rangeStart=3548&rangeEnd=3600"
+    },
+    {
+      "bookmarkId": "3300021466_11_456-537",
+      "chapterUid": 11,
+      "range": "456-537",
+      "markText": "上级为了压实下级责任，必须加大问责力度，一旦出问题，首先向下级追责，追得越大，自己脱卸的责任就越多。下级则可能通过留痕而不是实质性地做好工作来应对来自上级的压力。",
+      "totalCount": 578,
+      "appLink": "weread://bestbookmark?bookId=3300021466&chapterUid=11&rangeStart=456&rangeEnd=537",
+      "webLink": "https://weread.qq.com/web/reader/3cf32a00813ab6ee2g016266?chapterUid=11&rangeStart=456&rangeEnd=537"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 4,
+    "chapterOffset": 8553,
+    "progress": 0,
+    "updateTime": 1774315532,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

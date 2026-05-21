@@ -1,0 +1,1279 @@
+{
+  "meta": {
+    "bookId": "3300047636",
+    "title": "读者（2023年第3期）",
+    "author": "读者",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/63/cpplatform_gmwqogdax93am9tzbiy4gs/t6_cpplatform_gmwqogdax93am9tzbiy4gs1675736878.jpg",
+    "intro": "《读者》，原名《读者文摘》，是由读者出版传媒股份有限公司主办的中文版半月刊物。《读者》杂志发掘人性中的真、善、美，体现人文关怀。《读者》在刊物内容及形式方面与时俱进，追求高品位、高质量，力求精品，并以其形式和内容的丰富性及多样性，赢得了各个年龄段和不同阶层读者的喜爱与拥护。发行量稳居中国期刊排名第一，亚洲期刊排名第一，世界综合性期刊排名第四。被誉为“中国人的心灵读本”、“中国期刊第一品牌”。\n《读者》收录的文章融思想性、知识性、趣味性为一体，追求高质量、高品位，篇篇精品。这里有正确的思想、高尚的道德、崇高的理想、生活的哲理，使读者在轻松愉快的阅读中陶冶情操、净化心灵！具有深广的影响力与历久弥新的力量！",
+    "category": "期刊杂志-文学",
+    "publisher": "",
+    "publishTime": "2023-02-01 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 796,
+    "newRatingCount": 384,
+    "newRatingDetail": {
+      "good": 303,
+      "fair": 69,
+      "poor": 12,
+      "recent": 0,
+      "deepV": 14,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300047636",
+    "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d",
+    "lastSync": "2026-05-21T11:58:40Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 131,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "卷首语",
+      "level": 1,
+      "wordCount": 677,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "在田野，你不会丢失任何东西",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "专题",
+      "level": 1,
+      "wordCount": 11,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "复活半刀泥",
+      "level": 2,
+      "wordCount": 1644,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "复活半刀泥",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "读者故事",
+      "level": 1,
+      "wordCount": 14,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "庙会上的歌者",
+      "level": 2,
+      "wordCount": 2088,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "庙会上的歌者",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "文苑",
+      "level": 1,
+      "wordCount": 9,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "黄裙子",
+      "level": 2,
+      "wordCount": 4854,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "黄裙子",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "山吹",
+      "level": 2,
+      "wordCount": 974,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "湖",
+      "level": 2,
+      "wordCount": 3891,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "选择",
+      "level": 2,
+      "wordCount": 189,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "人物",
+      "level": 1,
+      "wordCount": 16,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "走出困境的“写作者”",
+      "level": 2,
+      "wordCount": 4172,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "走出困境的“写作者”",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "一张“迁帖”",
+      "level": 2,
+      "wordCount": 1099,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "人生是含泪的微笑",
+      "level": 2,
+      "wordCount": 1208,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "沈从文的湘行味道",
+      "level": 2,
+      "wordCount": 1528,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "杂谈",
+      "level": 1,
+      "wordCount": 10,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "月明如许",
+      "level": 2,
+      "wordCount": 1078,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "月明如许",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "野心的分岔",
+      "level": 2,
+      "wordCount": 1892,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "诗人的孤寂",
+      "level": 2,
+      "wordCount": 987,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "花落的姿势",
+      "level": 2,
+      "wordCount": 908,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "不死的人性",
+      "level": 2,
+      "wordCount": 1032,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "躲在屏幕后面的情绪",
+      "level": 2,
+      "wordCount": 1244,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "话题",
+      "level": 1,
+      "wordCount": 17,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "日本足球为什么越踢越好",
+      "level": 2,
+      "wordCount": 3424,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "日本足球为什么越踢越好",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "我们离适老社会还有多远",
+      "level": 2,
+      "wordCount": 3578,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "人生",
+      "level": 1,
+      "wordCount": 13,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "我的母亲不会老",
+      "level": 2,
+      "wordCount": 1407,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "我的母亲不会老",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "沿着父亲的足迹",
+      "level": 2,
+      "wordCount": 1571,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "田四",
+      "level": 2,
+      "wordCount": 3270,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "永远的萨沙",
+      "level": 2,
+      "wordCount": 2523,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "妈妈，对不起",
+      "level": 2,
+      "wordCount": 3598,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "生活的“胜利者”",
+      "level": 2,
+      "wordCount": 2495,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "最贪婪的人",
+      "level": 2,
+      "wordCount": 1097,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "生活",
+      "level": 1,
+      "wordCount": 13,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "就差那么一点点",
+      "level": 2,
+      "wordCount": 1536,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "就差那么一点点",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "未卜先知的底细",
+      "level": 2,
+      "wordCount": 532,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "克服社交焦虑的方法",
+      "level": 2,
+      "wordCount": 2206,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "烫盏思维",
+      "level": 2,
+      "wordCount": 515,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "一边打电话，一边信手涂鸦",
+      "level": 2,
+      "wordCount": 607,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "春卷",
+      "level": 2,
+      "wordCount": 742,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "文明",
+      "level": 1,
+      "wordCount": 13,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "出售时间的女士",
+      "level": 2,
+      "wordCount": 2722,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "出售时间的女士",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "曾侯乙编钟",
+      "level": 2,
+      "wordCount": 2499,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "通灵宝玉与玫瑰花蕾",
+      "level": 2,
+      "wordCount": 2139,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "你知道地球有多努力吗",
+      "level": 2,
+      "wordCount": 2426,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "困顿人生的一颗解药",
+      "level": 2,
+      "wordCount": 2527,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "打仗时，糖对军队有多重要",
+      "level": 2,
+      "wordCount": 1202,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "为时间旅行者举办派对",
+      "level": 2,
+      "wordCount": 814,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "悦读",
+      "level": 1,
+      "wordCount": 8,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "言论",
+      "level": 2,
+      "wordCount": 695,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "言论",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "幽默与漫画",
+      "level": 2,
+      "wordCount": 1263,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "节气与物候",
+      "level": 2,
+      "wordCount": 332,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "意林",
+      "level": 1,
+      "wordCount": 8,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "沉潜",
+      "level": 2,
+      "wordCount": 518,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "沉潜",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "孤独",
+      "level": 2,
+      "wordCount": 229,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "直面",
+      "level": 2,
+      "wordCount": 259,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "蜕化",
+      "level": 2,
+      "wordCount": 208,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "一个完整的人什么样",
+      "level": 2,
+      "wordCount": 334,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "相互扶持",
+      "level": 2,
+      "wordCount": 195,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "蝉和蟋蟀",
+      "level": 2,
+      "wordCount": 564,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "点滴",
+      "level": 1,
+      "wordCount": 9,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "灰帽子",
+      "level": 2,
+      "wordCount": 494,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "灰帽子",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "马的素描",
+      "level": 2,
+      "wordCount": 453,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "最后的繁茂",
+      "level": 2,
+      "wordCount": 258,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "返",
+      "level": 2,
+      "wordCount": 297,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "一日间",
+      "level": 2,
+      "wordCount": 205,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "关心更大的世界",
+      "level": 2,
+      "wordCount": 271,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "西西弗斯的巨石",
+      "level": 2,
+      "wordCount": 407,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "另一种时间观",
+      "level": 2,
+      "wordCount": 368,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "title": "343法则",
+      "level": 2,
+      "wordCount": 339,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "title": "嗅咖啡的人",
+      "level": 2,
+      "wordCount": 565,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047636&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=73"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 16,
+      "chapterTitle": "人生是含泪的微笑",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300047636_16_2374-2427",
+          "range": "2374-2427",
+          "rangeStart": 2374,
+          "rangeEnd": 2427,
+          "markText": "“我们最后变成什么样，并不取决于我们选择了哪条道路，而是取决于我们的内心。”无论如何，都要保持我们的内心。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1717028520,
+          "createTimeFormatted": "2024-05-30 08:22:00",
+          "chapterUid": 16,
+          "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=16&rangeStart=2374&rangeEnd=2427",
+          "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=16&rangeStart=2374&rangeEnd=2427"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300047636_3_516-601",
+      "chapterUid": 3,
+      "range": "516-601",
+      "markText": "在乡村，在田野，你不会丢失任何东西。即使你丢失了什么东西，到头来你也会发现，你其实什么都没有丢失。那些你不慎丢失了的，有的被其他生灵借用，有的被时间收藏，有的被土地认养。",
+      "totalCount": 590,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=3&rangeStart=516&rangeEnd=601",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=3&rangeStart=516&rangeEnd=601"
+    },
+    {
+      "bookmarkId": "3300047636_3_1089-1173",
+      "chapterUid": 3,
+      "range": "1089-1173",
+      "markText": "你知道它们是不结穗子和豆子的，它们短暂的、站在高处的一生，是一阵风导致的美丽错误。它们索性在这些短暂的日子里，认真地打出绿色的手语，把美丽的错误，变成纯粹的风景和美丽。",
+      "totalCount": 432,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=3&rangeStart=1089&rangeEnd=1173",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=3&rangeStart=1089&rangeEnd=1173"
+    },
+    {
+      "bookmarkId": "3300047636_3_846-942",
+      "chapterUid": 3,
+      "range": "846-942",
+      "markText": "你丢失的那根柳木拐杖，是你在走亲戚的路上歇息时顺手插在溪边的，你落在了那里。几天后，当你返回，柳木拐杖已经发芽，过些年就会长成一棵大柳树。无意中，你在土地上留下一个多么葱茏的念想和美好的签名。",
+      "totalCount": 400,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=3&rangeStart=846&rangeEnd=942",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=3&rangeStart=846&rangeEnd=942"
+    },
+    {
+      "bookmarkId": "3300047636_7_672-716",
+      "chapterUid": 7,
+      "range": "672-716",
+      "markText": "小时候，每年过庙，村里都会请戏班子来唱戏，这对孩子们来说，是比过年还要盛大和欢欣的节日。",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=7&rangeStart=672&rangeEnd=716",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=7&rangeStart=672&rangeEnd=716"
+    },
+    {
+      "bookmarkId": "3300047636_11_3580-3600",
+      "chapterUid": 11,
+      "range": "3580-3600",
+      "markText": "寒冷、静谧和孤独是当代世界的三样奢侈品。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=11&rangeStart=3580&rangeEnd=3600",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=11&rangeStart=3580&rangeEnd=3600"
+    },
+    {
+      "bookmarkId": "3300047636_9_7481-7532",
+      "chapterUid": 9,
+      "range": "7481-7532",
+      "markText": "“警方悬赏五十美元，给逮到逃犯的人。通风报信让警方逮到逃犯，只给二十五美元。我想那条裙子都快想疯了。”",
+      "totalCount": 256,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=9&rangeStart=7481&rangeEnd=7532",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=9&rangeStart=7481&rangeEnd=7532"
+    },
+    {
+      "bookmarkId": "3300047636_7_3159-3189",
+      "chapterUid": 7,
+      "range": "3159-3189",
+      "markText": "几年后，我离开了那个镇子，从此再也没有见过那些庙会上的歌者。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=7&rangeStart=3159&rangeEnd=3189",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=7&rangeStart=3159&rangeEnd=3189"
+    },
+    {
+      "bookmarkId": "3300047636_5_1732-1829",
+      "chapterUid": 5,
+      "range": "1732-1829",
+      "markText": "心无旁骛很重要，你一心一意去感受那些块面、那些线条，刻莲花时能闻到莲香，刻小虫时能感受到触须的弹动，能感受到秋虫的喜怒哀乐。你沉浸其中，就会忘了手上的刻刀有千钧重，忘了咽口水，你就逐渐上道了。”",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=5&rangeStart=1732&rangeEnd=1829",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=5&rangeStart=1732&rangeEnd=1829"
+    },
+    {
+      "bookmarkId": "3300047636_3_442-455",
+      "chapterUid": 3,
+      "range": "442-455",
+      "markText": "在田野，你不会丢失任何东西",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=3&rangeStart=442&rangeEnd=455",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=3&rangeStart=442&rangeEnd=455"
+    },
+    {
+      "bookmarkId": "3300047636_16_2374-2427",
+      "chapterUid": 16,
+      "range": "2374-2427",
+      "markText": "“我们最后变成什么样，并不取决于我们选择了哪条道路，而是取决于我们的内心。”无论如何，都要保持我们的内心。",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=16&rangeStart=2374&rangeEnd=2427",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=16&rangeStart=2374&rangeEnd=2427"
+    },
+    {
+      "bookmarkId": "3300047636_11_6291-6311",
+      "chapterUid": 11,
+      "range": "6291-6311",
+      "markText": "森林里是有正义的。但往往不是人类的正义。",
+      "totalCount": 225,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=11&rangeStart=6291&rangeEnd=6311",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=11&rangeStart=6291&rangeEnd=6311"
+    },
+    {
+      "bookmarkId": "3300047636_9_3379-3404",
+      "chapterUid": 9,
+      "range": "3379-3404",
+      "markText": "“我一定要有理由吗？我不能因为高兴而做一件事吗？”",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=9&rangeStart=3379&rangeEnd=3404",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=9&rangeStart=3379&rangeEnd=3404"
+    },
+    {
+      "bookmarkId": "3300047636_3_1202-1287",
+      "chapterUid": 3,
+      "range": "1202-1287",
+      "markText": "你一边走路，一边嗑着刚收获的葵花子儿，一不小心葵花子儿从你的手指缝里漏下去不少，沿途掉了一路。来年，你再从这里路过，一排排向日葵托举着一轮轮太阳，簇拥在路边，夹道欢迎你。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=3&rangeStart=1202&rangeEnd=1287",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=3&rangeStart=1202&rangeEnd=1287"
+    },
+    {
+      "bookmarkId": "3300047636_10_828-871",
+      "chapterUid": 10,
+      "range": "828-871",
+      "markText": "风，吹着吹着，就黄了，而且是一片金黄。这种黄是成熟，它让人想到一串枇杷，或者一块麦地。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=10&rangeStart=828&rangeEnd=871",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=10&rangeStart=828&rangeEnd=871"
+    },
+    {
+      "bookmarkId": "3300047636_9_7411-7434",
+      "chapterUid": 9,
+      "range": "7411-7434",
+      "markText": "女孩露出一个微笑，这是尼克见过的最邪恶的微笑。",
+      "totalCount": 196,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=9&rangeStart=7411&rangeEnd=7434",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=9&rangeStart=7411&rangeEnd=7434"
+    },
+    {
+      "bookmarkId": "3300047636_3_741-817",
+      "chapterUid": 3,
+      "range": "741-817",
+      "markText": "你丢失在田坎、地边的那些蚕豆，安静地蹲在土坷垃里，来年四月，它们会用绿叶和淡紫色的花儿打出招领启事。不过，你已经认不出它们了，但你能认出春天熟悉的容颜。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=3&rangeStart=741&rangeEnd=817",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=3&rangeStart=741&rangeEnd=817"
+    },
+    {
+      "bookmarkId": "3300047636_19_1495-1558",
+      "chapterUid": 19,
+      "range": "1495-1558",
+      "markText": "月上树梢，人约黄昏。花丛间、河堤上，并肩的人影被澄碧的光镶嵌着，絮语随波间的月影漂移。如果爱情是一杯水，月光便是拌进去的酒精。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=19&rangeStart=1495&rangeEnd=1558",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=19&rangeStart=1495&rangeEnd=1558"
+    },
+    {
+      "bookmarkId": "3300047636_39_665-762",
+      "chapterUid": 39,
+      "range": "665-762",
+      "markText": "社交焦虑者会反复思考自己和别人互动的过程，就好像自己在这个过程中“惊险地避开了事故”。他们会将注意力放在自己可能做错的、自己觉得做得不妥的或者使自己感到尴尬的事上，并不断揣测别人对这些事的反应。",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=39&rangeStart=665&rangeEnd=762",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=39&rangeStart=665&rangeEnd=762"
+    },
+    {
+      "bookmarkId": "3300047636_5_2357-2437",
+      "chapterUid": 5,
+      "range": "2357-2437",
+      "markText": "他明白，自己不是一个人在受这份礼，而是代表所有掌握了半刀泥技术的工匠在受这份礼，包括那些在宋瓷片上留下清雅、自在、随性之刀笔，却已经消失在历史云烟中的无名匠人。",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=5&rangeStart=2357&rangeEnd=2437",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=5&rangeStart=2357&rangeEnd=2437"
+    },
+    {
+      "bookmarkId": "3300047636_7_1489-1548",
+      "chapterUid": 7,
+      "range": "1489-1548",
+      "markText": "天边的彩云，总是聚了散，散了又聚，但是渐渐地，日益丰富的光影世界对孩子们形成了更大的诱惑，戏园子里的热闹一天不如一天。",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=3300047636&chapterUid=7&rangeStart=1489&rangeEnd=1548",
+      "webLink": "https://weread.qq.com/web/reader/90332f00813ab791bg01662d?chapterUid=7&rangeStart=1489&rangeEnd=1548"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

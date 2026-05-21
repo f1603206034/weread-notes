@@ -1,0 +1,1580 @@
+{
+  "meta": {
+    "bookId": "25949778",
+    "title": "毛泽东诗词鉴赏（第二版）",
+    "author": "田秉锷",
+    "translator": "",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/778/25949778/t6_25949778.jpg",
+    "intro": "《毛泽东诗词鉴赏》一书精选毛泽东的诗词、书法、对联、书信等内容，诗词部分的题解、注释和品评本着求实、求真、求新、求美的原则，以充分展示毛泽东诗词思想性、艺术性中最感人的魅力。同时结合毛泽东诗词手迹，以展示毛泽东书法的精髓。另外，精选毛泽东的部分对联及其关于诗词的书信，可全面展示毛泽东的艺术观。让毛泽东的诗、词与书法，在不加鼓吹的氛围里回归中国诗史与中国书法史的时代序列，是时代清明与平民自信的双重吁求；让对毛泽东诗词与书法的鉴赏，变成中国大众的文化常餐，自加选择、自加品味，是文化传播与文化接受的必然呼应。",
+    "category": "文学-文学鉴赏",
+    "publisher": "上海三联书店",
+    "publishTime": "2018-07-01 00:00:00",
+    "isbn": "9787542662743",
+    "wordCount": 0,
+    "newRating": 843,
+    "newRatingCount": 585,
+    "newRatingDetail": {
+      "good": 496,
+      "fair": 77,
+      "poor": 12,
+      "recent": 1,
+      "deepV": 25,
+      "myRating": "good",
+      "title": "脍炙人口"
+    },
+    "appLink": "weread://reading?bId=25949778",
+    "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5",
+    "lastSync": "2026-05-21T11:58:35Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "18ccff68711134fb8c917cfa3a1008415ae44e9298527aeec4456f96d237d3b4"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 132,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 1229,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "正编",
+      "level": 1,
+      "wordCount": 78,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "贺新郎·别友",
+      "level": 2,
+      "wordCount": 1399,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "沁园春·长沙",
+      "level": 2,
+      "wordCount": 1827,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "菩萨蛮·黄鹤楼",
+      "level": 2,
+      "wordCount": 1527,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "西江月·井冈山",
+      "level": 2,
+      "wordCount": 1318,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "清平乐·蒋桂战争",
+      "level": 2,
+      "wordCount": 1352,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "采桑子·重阳",
+      "level": 2,
+      "wordCount": 1010,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "如梦令·元旦",
+      "level": 2,
+      "wordCount": 1105,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "减字木兰花·广昌路上",
+      "level": 2,
+      "wordCount": 1092,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "蝶恋花·从汀州向长沙",
+      "level": 2,
+      "wordCount": 1535,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "渔家傲·反第一次大“围剿”",
+      "level": 2,
+      "wordCount": 1776,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "渔家傲·反第一次大“围剿”",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "渔家傲·反第二次大“围剿”",
+      "level": 2,
+      "wordCount": 1681,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "渔家傲·反第二次大“围剿”",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "菩萨蛮·大柏地",
+      "level": 2,
+      "wordCount": 1272,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "菩萨蛮·大柏地",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "清平乐·会昌",
+      "level": 2,
+      "wordCount": 1425,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "十六字令三首",
+      "level": 2,
+      "wordCount": 1108,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "忆秦娥·娄山关",
+      "level": 2,
+      "wordCount": 1651,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "七律·长征",
+      "level": 2,
+      "wordCount": 1587,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "念奴娇·昆仑",
+      "level": 2,
+      "wordCount": 2041,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "念奴娇·昆仑",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "清平乐·六盘山",
+      "level": 2,
+      "wordCount": 1141,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "沁园春·雪",
+      "level": 2,
+      "wordCount": 2036,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "七律·人民解放军占领南京",
+      "level": 2,
+      "wordCount": 1620,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "七律·和柳亚子先生",
+      "level": 2,
+      "wordCount": 1620,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "浣溪沙·和柳亚子先生",
+      "level": 2,
+      "wordCount": 1542,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "浪淘沙·北戴河",
+      "level": 2,
+      "wordCount": 1500,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "水调歌头·游泳",
+      "level": 2,
+      "wordCount": 1911,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "蝶恋花·答李淑一",
+      "level": 2,
+      "wordCount": 1635,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "七律二首·送瘟神",
+      "level": 2,
+      "wordCount": 2032,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "七律·到韶山",
+      "level": 2,
+      "wordCount": 1278,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "七律·登庐山",
+      "level": 2,
+      "wordCount": 1366,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "七绝·为女民兵题照",
+      "level": 2,
+      "wordCount": 1078,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "七律·答友人",
+      "level": 2,
+      "wordCount": 1428,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "七律·和郭沫若同志",
+      "level": 2,
+      "wordCount": 1632,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "七律·吊罗荣桓同志",
+      "level": 2,
+      "wordCount": 1299,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "贺新郎·读史",
+      "level": 2,
+      "wordCount": 1654,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "贺新郎·读史",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "卜算子·咏梅",
+      "level": 2,
+      "wordCount": 1241,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "七律·冬云",
+      "level": 2,
+      "wordCount": 1020,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "满江红·和郭沫若同志",
+      "level": 2,
+      "wordCount": 1378,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "满江红·和郭沫若同志",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "水调歌头·重上井冈山",
+      "level": 2,
+      "wordCount": 1273,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "水调歌头·重上井冈山",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "念奴娇·鸟儿问答",
+      "level": 2,
+      "wordCount": 1499,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "副编",
+      "level": 1,
+      "wordCount": 1608,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "五古·挽易昌陶",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "七古·送纵宇一郎东行",
+      "level": 2,
+      "wordCount": 1788,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "虞美人·枕上",
+      "level": 2,
+      "wordCount": 1164,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "虞美人·枕上",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "西江月·秋收起义",
+      "level": 2,
+      "wordCount": 1028,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "六言诗·给彭德怀同志",
+      "level": 2,
+      "wordCount": 857,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "六言诗·给彭德怀同志",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "临江仙·给丁玲同志",
+      "level": 2,
+      "wordCount": 1267,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "临江仙·给丁玲同志",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "五律·挽戴安澜将军",
+      "level": 2,
+      "wordCount": 1872,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "五律·张冠道中",
+      "level": 2,
+      "wordCount": 1342,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "五律·张冠道中",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "五律·喜闻捷报",
+      "level": 2,
+      "wordCount": 1173,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "五律·喜闻捷报",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "浣溪沙·和柳亚子先生",
+      "level": 2,
+      "wordCount": 1212,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "浣溪沙·和柳亚子先生",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "七律·和周世钊同志",
+      "level": 2,
+      "wordCount": 1286,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "七律·和周世钊同志",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "五律·看山",
+      "level": 2,
+      "wordCount": 1145,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "七绝·莫干山",
+      "level": 2,
+      "wordCount": 1276,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "七绝·五云山",
+      "level": 2,
+      "wordCount": 849,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "七绝·观潮",
+      "level": 2,
+      "wordCount": 1067,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "七绝·刘",
+      "level": 2,
+      "wordCount": 1272,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "七绝·刘",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "七绝·屈原",
+      "level": 2,
+      "wordCount": 958,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "七绝·屈原",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "七绝二首·纪念鲁迅八十寿辰",
+      "level": 2,
+      "wordCount": 1561,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "七绝二首·纪念鲁迅八十寿辰",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "杂言诗·八连颂",
+      "level": 2,
+      "wordCount": 946,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "杂言诗·八连颂",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "念奴娇·井冈山",
+      "level": 2,
+      "wordCount": 1054,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "念奴娇·井冈山",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "七律·洪都",
+      "level": 2,
+      "wordCount": 1415,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "七律·有所思",
+      "level": 2,
+      "wordCount": 1655,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "七律·有所思",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "七绝·贾谊",
+      "level": 2,
+      "wordCount": 1160,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "七绝·贾谊",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "七律·咏贾谊",
+      "level": 2,
+      "wordCount": 1053,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "七律·咏贾谊",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "一舞剑器动四方，天地为之久低昂——毛泽东诗词书法印象",
+      "level": 2,
+      "wordCount": 3844,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一舞剑器动四方，天地为之久低昂——毛泽东诗词书法印象",
+          "anchor": "sigil_toc_id_24",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "毛泽东对联精选",
+      "level": 1,
+      "wordCount": 19,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "对萧三",
+      "level": 2,
+      "wordCount": 313,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "自勉联",
+      "level": 2,
+      "wordCount": 277,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "自勉联",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "对夏默安",
+      "level": 2,
+      "wordCount": 434,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "对夏默安",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "title": "悼七位同学",
+      "level": 2,
+      "wordCount": 239,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "悼七位同学",
+          "anchor": "sigil_toc_id_27",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "title": "对何长工",
+      "level": 2,
+      "wordCount": 380,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "对何长工",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 74,
+      "title": "挽杨十三先生",
+      "level": 2,
+      "wordCount": 375,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "挽杨十三先生",
+          "anchor": "sigil_toc_id_29",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=74"
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 75,
+      "title": "挽葛太夫人",
+      "level": 2,
+      "wordCount": 459,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "挽葛太夫人",
+          "anchor": "sigil_toc_id_30",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=75",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=75"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 76,
+      "title": "挽续范亭同志",
+      "level": 2,
+      "wordCount": 400,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "挽续范亭同志",
+          "anchor": "sigil_toc_id_31",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 77,
+      "title": "为中华全国体育总会成立大会题联",
+      "level": 2,
+      "wordCount": 340,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 78,
+      "title": "赠叶剑英同志",
+      "level": 2,
+      "wordCount": 435,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "赠叶剑英同志",
+          "anchor": "sigil_toc_id_32",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 79,
+      "title": "附录：毛泽东关于诗词的书信",
+      "level": 1,
+      "wordCount": 290,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "致臧克家等",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=79"
+    },
+    {
+      "chapterUid": 80,
+      "chapterIdx": 80,
+      "title": "致李淑一",
+      "level": 2,
+      "wordCount": 348,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "致李淑一",
+          "anchor": "sigil_toc_id_34",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=80",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=80"
+    },
+    {
+      "chapterUid": 81,
+      "chapterIdx": 81,
+      "title": "致胡乔木",
+      "level": 2,
+      "wordCount": 174,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "致胡乔木",
+          "anchor": "sigil_toc_id_35",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=81",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=81"
+    },
+    {
+      "chapterUid": 82,
+      "chapterIdx": 82,
+      "title": "《词六首》引言",
+      "level": 2,
+      "wordCount": 133,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《词六首》引言",
+          "anchor": "sigil_toc_id_36",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=82",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=82"
+    },
+    {
+      "chapterUid": 83,
+      "chapterIdx": 83,
+      "title": "致陈毅",
+      "level": 2,
+      "wordCount": 677,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "致陈毅",
+          "anchor": "sigil_toc_id_37",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25949778&chapterUid=83",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=83"
+    },
+    {
+      "chapterUid": 84,
+      "chapterIdx": 84,
+      "title": "出版后记",
+      "level": 1,
+      "wordCount": 419,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25949778&chapterUid=84",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=84"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 7,
+      "chapterTitle": "菩萨蛮·黄鹤楼",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25949778_7_471-482",
+          "range": "471-482",
+          "rangeStart": 471,
+          "rangeEnd": 482,
+          "markText": "把酒酹滔滔，心潮逐浪高",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1710412622,
+          "createTimeFormatted": "2024-03-14 18:37:02",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=7&rangeStart=471&rangeEnd=482",
+          "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=7&rangeStart=471&rangeEnd=482"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [
+    {
+      "type": "review",
+      "reviewId": "32618646_7RDUrt7Xw",
+      "range": "",
+      "chapterName": "",
+      "content": "",
+      "abstract": "",
+      "star": 100,
+      "createTime": 1717293231,
+      "createTimeFormatted": "2024-06-02 09:53:51",
+      "isFinish": false,
+      "chapterUid": 0
+    }
+  ],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "25949778_19_432-488",
+      "chapterUid": 19,
+      "range": "432-488",
+      "markText": "西风烈，长空雁叫霜晨月。霜晨月，马蹄声碎，喇叭声咽。雄关漫道真如铁，而今迈步从头越。从头越，苍山如海，残阳如血。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=19&rangeStart=432&rangeEnd=488",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=19&rangeStart=432&rangeEnd=488"
+    },
+    {
+      "bookmarkId": "25949778_3_484-537",
+      "chapterUid": 3,
+      "range": "484-537",
+      "markText": "即便在一个日趋平庸、不易再产生大人物的时代，芸芸众生仍然怀抱一丝浪漫，渴望从昔日的雄杰身上汲取生命的阳刚。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=3&rangeStart=484&rangeEnd=537",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=3&rangeStart=484&rangeEnd=537"
+    },
+    {
+      "bookmarkId": "25949778_38_479-531",
+      "chapterUid": 38,
+      "range": "479-531",
+      "markText": "风雨送春归，飞雪迎春到。已是悬崖百丈冰，犹有花枝俏。俏也不争春，只把春来报。待到山花烂漫时，她在丛中笑。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=38&rangeStart=479&rangeEnd=531",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=38&rangeStart=479&rangeEnd=531"
+    },
+    {
+      "bookmarkId": "25949778_6_697-713",
+      "chapterUid": 6,
+      "range": "697-713",
+      "markText": "自信人生二百年，会当水击三千里。",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=6&rangeStart=697&rangeEnd=713",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=6&rangeStart=697&rangeEnd=713"
+    },
+    {
+      "bookmarkId": "25949778_10_431-483",
+      "chapterUid": 10,
+      "range": "431-483",
+      "markText": "人生易老天难老，岁岁重阳。今又重阳，战地黄花分外香。一年一度秋风劲，不似春光。胜似春光，寥廓江天万里霜。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=10&rangeStart=431&rangeEnd=483",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=10&rangeStart=431&rangeEnd=483"
+    },
+    {
+      "bookmarkId": "25949778_41_537-569",
+      "chapterUid": 41,
+      "range": "537-569",
+      "markText": "可上九天揽月，可下五洋捉鳖，谈笑凯歌还。世上无难事，只要肯登攀。",
+      "totalCount": 121,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=41&rangeStart=537&rangeEnd=569",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=41&rangeStart=537&rangeEnd=569"
+    },
+    {
+      "bookmarkId": "25949778_8_431-489",
+      "chapterUid": 8,
+      "range": "431-489",
+      "markText": "山下旌旗在望，山头鼓角相闻。敌军围困万千重，我自岿然不动。早已森严壁垒，更加众志成城。黄洋界上炮声隆，报道敌军宵遁。",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=8&rangeStart=431&rangeEnd=489",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=8&rangeStart=431&rangeEnd=489"
+    },
+    {
+      "bookmarkId": "25949778_7_471-483",
+      "chapterUid": 7,
+      "range": "471-483",
+      "markText": "把酒酹滔滔，心潮逐浪高！",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=7&rangeStart=471&rangeEnd=483",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=7&rangeStart=471&rangeEnd=483"
+    },
+    {
+      "bookmarkId": "25949778_29_436-504",
+      "chapterUid": 29,
+      "range": "436-504",
+      "markText": "我失骄杨君失柳，杨柳轻飏直上重霄九。问讯吴刚何所有，吴刚捧出桂花酒。寂寞嫦娥舒广袖，万里长空且为忠魂舞。忽报人间曾伏虎，泪飞顿作倾盆雨。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=29&rangeStart=436&rangeEnd=504",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=29&rangeStart=436&rangeEnd=504"
+    },
+    {
+      "bookmarkId": "25949778_25_534-597",
+      "chapterUid": 25,
+      "range": "534-597",
+      "markText": "牢骚太盛防肠断，风物长宜放眼量。 莫道昆明池水浅，观鱼胜过富春江。",
+      "totalCount": 104,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=25&rangeStart=534&rangeEnd=597",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=25&rangeStart=534&rangeEnd=597"
+    },
+    {
+      "bookmarkId": "25949778_16_375-503",
+      "chapterUid": 16,
+      "range": "375-503",
+      "markText": "菩萨蛮·大柏地 （一九三三年夏） 赤橙黄绿青蓝紫，谁持彩练当空舞？雨后复斜阳，关山阵阵苍。当年鏖战急，弹洞前村壁。装点此关山，今朝更好看。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=16&rangeStart=375&rangeEnd=503",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=16&rangeStart=375&rangeEnd=503"
+    },
+    {
+      "bookmarkId": "25949778_33_483-499",
+      "chapterUid": 33,
+      "range": "483-499",
+      "markText": "中华儿女多奇志，不爱红装爱武装。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=33&rangeStart=483&rangeEnd=499",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=33&rangeStart=483&rangeEnd=499"
+    },
+    {
+      "bookmarkId": "25949778_27_463-495",
+      "chapterUid": 27,
+      "range": "463-495",
+      "markText": "往事越千年，魏武挥鞭，东临碣石有遗篇。萧瑟秋风今又是，换了人间。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=27&rangeStart=463&rangeEnd=495",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=27&rangeStart=463&rangeEnd=495"
+    },
+    {
+      "bookmarkId": "25949778_22_432-486",
+      "chapterUid": 22,
+      "range": "432-486",
+      "markText": "天高云淡，望断南飞雁。不到长城非好汉，屈指行程二万。六盘山上高峰，红旗漫卷西风。今日长缨在手，何时缚住苍龙？",
+      "totalCount": 77,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=22&rangeStart=432&rangeEnd=486",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=22&rangeStart=432&rangeEnd=486"
+    },
+    {
+      "bookmarkId": "25949778_5_517-532",
+      "chapterUid": 5,
+      "range": "517-532",
+      "markText": "汽笛一声肠已断，从此天涯孤旅。",
+      "totalCount": 65,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=5&rangeStart=517&rangeEnd=532",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=5&rangeStart=517&rangeEnd=532"
+    },
+    {
+      "bookmarkId": "25949778_13_487-503",
+      "chapterUid": 13,
+      "range": "487-503",
+      "markText": "国际悲歌歌一曲，狂飙为我从天落。",
+      "totalCount": 65,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=13&rangeStart=487&rangeEnd=503",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=13&rangeStart=487&rangeEnd=503"
+    },
+    {
+      "bookmarkId": "25949778_6_429-498",
+      "chapterUid": 6,
+      "range": "429-498",
+      "markText": "独立寒秋，湘江北去，橘子洲头。看万山红遍，层林尽染；漫江碧透，百舸争流。鹰击长空，鱼翔浅底，万类霜天竞自由。怅寥廓，问苍茫大地，谁主沉浮？",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=6&rangeStart=429&rangeEnd=498",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=6&rangeStart=429&rangeEnd=498"
+    },
+    {
+      "bookmarkId": "25949778_17_430-484",
+      "chapterUid": 17,
+      "range": "430-484",
+      "markText": "东方欲晓，莫道君行早。踏遍青山人未老，风景这边独好。会昌城外高峰，颠连直接东溟。战士指看南粤，更加郁郁葱葱。",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=17&rangeStart=430&rangeEnd=484",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=17&rangeStart=430&rangeEnd=484"
+    },
+    {
+      "bookmarkId": "25949778_24_439-596",
+      "chapterUid": 24,
+      "range": "439-596",
+      "markText": "钟山风雨起苍黄，百万雄师过大江。 虎踞龙盘今胜昔，天翻地覆慨而慷。 宜将剩勇追穷寇，不可沽名学霸王。 天若有情天亦老，人间正道是沧桑。",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=24&rangeStart=439&rangeEnd=596",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=24&rangeStart=439&rangeEnd=596"
+    },
+    {
+      "bookmarkId": "25949778_3_585-595",
+      "chapterUid": 3,
+      "range": "585-595",
+      "markText": "毛泽东志不在案牍也明",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=25949778&chapterUid=3&rangeStart=585&rangeEnd=595",
+      "webLink": "https://weread.qq.com/web/reader/06932180718bf65206980e5?chapterUid=3&rangeStart=585&rangeEnd=595"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

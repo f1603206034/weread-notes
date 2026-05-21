@@ -1,0 +1,602 @@
+{
+  "meta": {
+    "bookId": "3300122052",
+    "title": "猛回头",
+    "author": "陈天华",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/21/cpplatform_eugpmrbqfbeb9ls1n9kl21/t6_cpplatform_eugpmrbqfbeb9ls1n9kl211767610259.jpg",
+    "intro": "《猛回头》是清末革命家陈天华的惊世之作，以锋利的笔触揭露了清政府的腐败无能，唤醒民众对列强侵略的警觉。书中言辞激昂，情感炽烈，痛斥洋奴走狗，号召全民觉醒，共赴国难。它以震撼人心的力量，点燃了无数爱国志士心中的革命火种，成为辛亥革命前夕振聋发聩的号角，激发了中华民族的觉醒与抗争。",
+    "category": "文学-经典作品",
+    "publisher": "",
+    "publishTime": "2024-12-01 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 904,
+    "newRatingCount": 1138,
+    "newRatingDetail": {
+      "good": 1053,
+      "fair": 70,
+      "poor": 15,
+      "recent": 14,
+      "deepV": 461,
+      "myRating": "",
+      "title": "神作"
+    },
+    "appLink": "weread://reading?bId=3300122052",
+    "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16",
+    "lastSync": "2026-05-21T11:53:27Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 93,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "猛回头",
+      "level": 1,
+      "wordCount": 153,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "序",
+          "anchor": "id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "黄帝肖像后题",
+      "level": 2,
+      "wordCount": 466,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "地理略述",
+      "level": 2,
+      "wordCount": 915,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "人种略述",
+      "level": 2,
+      "wordCount": 420,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "猛回头",
+      "level": 2,
+      "wordCount": 11756,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "要学那，法兰西，改革弊政",
+      "level": 2,
+      "wordCount": 489,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "要学那，德意志，报复凶狂",
+      "level": 2,
+      "wordCount": 277,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "要学那，美利坚，离英自立",
+      "level": 2,
+      "wordCount": 484,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "要学那，意大利，独自称王",
+      "level": 2,
+      "wordCount": 216,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "莫学那，张弘范，引元入宋",
+      "level": 2,
+      "wordCount": 167,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "莫学那，洪承畴，狠心毒肠",
+      "level": 2,
+      "wordCount": 271,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "莫学那，曾国藩，为仇尽力",
+      "level": 2,
+      "wordCount": 286,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "莫学那，叶志超，弃甲丢枪",
+      "level": 2,
+      "wordCount": 2065,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "警世钟",
+      "level": 1,
+      "wordCount": 23702,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "狮子吼",
+      "level": 1,
+      "wordCount": 3995,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "楔子",
+          "anchor": "id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第一回　数种祸惊心惨目述阴谋暮鼓晨钟",
+      "level": 2,
+      "wordCount": 3724,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第二回　大中华沉沦异种外风潮激醒睡狮",
+      "level": 2,
+      "wordCount": 7808,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第三回　民权村始祖垂训聚英馆老儒讲书",
+      "level": 2,
+      "wordCount": 5095,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第四回　孙念祖提倡自治狄必攘比试体操",
+      "level": 2,
+      "wordCount": 4274,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第五回　祭亡父叙述遗德访良友偶宿禅房",
+      "level": 2,
+      "wordCount": 6342,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第六回　游外洋远求学问入内地暗结英豪",
+      "level": 2,
+      "wordCount": 7439,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第七回　专制威层层进化反动力渐渐萌机",
+      "level": 2,
+      "wordCount": 5452,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第八回　鸟鼠山演说公法宜城县大闹学堂",
+      "level": 2,
+      "wordCount": 4167,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "绝命辞",
+      "level": 1,
+      "wordCount": 3141,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300122052&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=26"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 3,
+      "chapterTitle": "猛回头",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300122052_3_432-564",
+          "range": "432-564",
+          "rangeStart": 432,
+          "rangeEnd": 564,
+          "markText": "俺也曾，洒了几点国民泪，俺也曾，受了几日文明气，俺也曾，拔了一段杀人机，代同胞愿把头颅碎。俺本是如来座下现身说法的金光游戏，为什么有这儿女妻奴迷？俺真三昧，到于今始悟通灵地。走遍天涯，哭遍天涯，愿寻看一个同声气。拿鼓板儿，弦索儿，在亚洲大陆清凉山下，喝几曲文明戏。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1736985978,
+          "createTimeFormatted": "2025-01-16 08:06:18",
+          "chapterUid": 3,
+          "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=3&rangeStart=432&rangeEnd=564",
+          "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=3&rangeStart=432&rangeEnd=564"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300122052_4_454-485",
+      "chapterUid": 4,
+      "range": "454-485",
+      "markText": "受过了多少压制，做过了数朝奴隶，转瞬间又要为牛为马，断送躯躬。",
+      "totalCount": 1235,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=4&rangeStart=454&rangeEnd=485",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=4&rangeStart=454&rangeEnd=485"
+    },
+    {
+      "bookmarkId": "3300122052_3_432-477",
+      "chapterUid": 3,
+      "range": "432-477",
+      "markText": "俺也曾，洒了几点国民泪，俺也曾，受了几日文明气，俺也曾，拔了一段杀人机，代同胞愿把头颅碎。",
+      "totalCount": 994,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=3&rangeStart=432&rangeEnd=477",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=3&rangeStart=432&rangeEnd=477"
+    },
+    {
+      "bookmarkId": "3300122052_25_4681-4695",
+      "chapterUid": 25,
+      "range": "4681-4695",
+      "markText": "要知后事如何，且看下回分解。",
+      "totalCount": 629,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=25&rangeStart=4681&rangeEnd=4695",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=25&rangeStart=4681&rangeEnd=4695"
+    },
+    {
+      "bookmarkId": "3300122052_4_558-574",
+      "chapterUid": 4,
+      "range": "558-574",
+      "markText": "望皇祖告诉苍穹，为汉种速降下英雄",
+      "totalCount": 570,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=4&rangeStart=558&rangeEnd=574",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=4&rangeStart=558&rangeEnd=574"
+    },
+    {
+      "bookmarkId": "3300122052_7_13807-13895",
+      "chapterUid": 7,
+      "range": "13807-13895",
+      "markText": "依了鄙人的愚见，不如大家合做一个大党，凡是我汉族的人，无论是为士、为农、为工、为商，都不可丝毫扰害，都要极力保护。不使一个受外族的欺凌，方可对得祖宗住，岂不是大豪杰所做的事吗？",
+      "totalCount": 525,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=7&rangeStart=13807&rangeEnd=13895",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=7&rangeStart=13807&rangeEnd=13895"
+    },
+    {
+      "bookmarkId": "3300122052_7_16280-16337",
+      "chapterUid": 7,
+      "range": "16280-16337",
+      "markText": "天下事，怕的是，不肯去做， 断没有，做不到，有志莫偿。",
+      "totalCount": 476,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=7&rangeStart=16280&rangeEnd=16337",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=7&rangeStart=16280&rangeEnd=16337"
+    },
+    {
+      "bookmarkId": "3300122052_4_836-878",
+      "chapterUid": 4,
+      "range": "836-878",
+      "markText": "我饮我食兮，无非始祖之所经营，誓死以守之兮，决不令他族之我争。子子孙孙兮，同此血诚。",
+      "totalCount": 460,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=4&rangeStart=836&rangeEnd=878",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=4&rangeStart=836&rangeEnd=878"
+    },
+    {
+      "bookmarkId": "3300122052_17_2258-2355",
+      "chapterUid": 17,
+      "range": "2258-2355",
+      "markText": "乃是一个极大的都会，街广十丈，都是白石，洁净无尘；屋宇皆是七层，十二分的华美；街上的电汽车，往来如织；半空中修着铁桥，在上行走火车，底下又穿着地洞，也有火车行走。讲不尽富贵繁华，说不尽奇丽巧妙。",
+      "totalCount": 435,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=17&rangeStart=2258&rangeEnd=2355",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=17&rangeStart=2258&rangeEnd=2355"
+    },
+    {
+      "bookmarkId": "3300122052_7_1183-1233",
+      "chapterUid": 7,
+      "range": "1183-1233",
+      "markText": "义和团不懂这个道理，所以弄出天大的祸来，把我们中国害得上不上，下不下。义和团真真是我们中国的罪人了！",
+      "totalCount": 410,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=7&rangeStart=1183&rangeEnd=1233",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=7&rangeStart=1183&rangeEnd=1233"
+    },
+    {
+      "bookmarkId": "3300122052_7_1755-1797",
+      "chapterUid": 7,
+      "range": "1755-1797",
+      "markText": "你看满洲的政府，只图苟全一己，不顾汉人永世翻不得身，件件依了洋人的，你道可恨不可恨！",
+      "totalCount": 408,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=7&rangeStart=1755&rangeEnd=1797",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=7&rangeStart=1755&rangeEnd=1797"
+    },
+    {
+      "bookmarkId": "3300122052_16_6025-6099",
+      "chapterUid": 16,
+      "range": "6025-6099",
+      "markText": "天呀！地呀！同胞呀！世间万国，都没有这样的贱种！有了这样的贱种，这种怎么会不灭呢？不知我中国人的心肝五脏是什么做成的，为何这样残忍？唉！真好痛心呀！",
+      "totalCount": 408,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=16&rangeStart=6025&rangeEnd=6099",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=16&rangeStart=6025&rangeEnd=6099"
+    },
+    {
+      "bookmarkId": "3300122052_7_1528-1602",
+      "chapterUid": 7,
+      "range": "1528-1602",
+      "markText": "不如留着这满洲的政府，代他管领，他们又管领这满洲的政府。汉人做满洲的奴隶是做惯了的，自然安然无事，我们是奴隶的奴隶，各国是主人家的主人家，何等便当！",
+      "totalCount": 396,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=7&rangeStart=1528&rangeEnd=1602",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=7&rangeStart=1528&rangeEnd=1602"
+    },
+    {
+      "bookmarkId": "3300122052_7_801-861",
+      "chapterUid": 7,
+      "range": "801-861",
+      "markText": "哪里晓得这满洲政府说出什么“汉人强，满人亡”的话儿，不要我们汉人自己变法，把轰轰烈烈为国流血的大豪杰谭嗣同六个人一齐斩了",
+      "totalCount": 390,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=7&rangeStart=801&rangeEnd=861",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=7&rangeStart=801&rangeEnd=861"
+    },
+    {
+      "bookmarkId": "3300122052_26_1028-1054",
+      "chapterUid": 26,
+      "range": "1028-1054",
+      "markText": "恐同胞之不见听而或忘之，故以身投东海，为诸君之纪念。",
+      "totalCount": 352,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=26&rangeStart=1028&rangeEnd=1054",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=26&rangeStart=1028&rangeEnd=1054"
+    },
+    {
+      "bookmarkId": "3300122052_7_677-705",
+      "chapterUid": 7,
+      "range": "677-705",
+      "markText": "中国的官府好像他的奴仆一般，中国的百姓好像他的牛马一样。",
+      "totalCount": 338,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=7&rangeStart=677&rangeEnd=705",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=7&rangeStart=677&rangeEnd=705"
+    },
+    {
+      "bookmarkId": "3300122052_7_2273-2325",
+      "chapterUid": 7,
+      "range": "2273-2325",
+      "markText": "无奈我们的同胞沉迷不醒，依然歌舞太平，大家自私自利，全无一点团结力，真真是“火烧到眉毛尖子上尚不知痛”。",
+      "totalCount": 336,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=7&rangeStart=2273&rangeEnd=2325",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=7&rangeStart=2273&rangeEnd=2325"
+    },
+    {
+      "bookmarkId": "3300122052_5_1246-1296",
+      "chapterUid": 5,
+      "range": "1246-1296",
+      "markText": "五洲万国，除中国、日本数国之外，其余诸部，皆归服了欧罗巴。中国又危乎殆哉！我同胞乎！你们还没有醒转来",
+      "totalCount": 319,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=5&rangeStart=1246&rangeEnd=1296",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=5&rangeStart=1246&rangeEnd=1296"
+    },
+    {
+      "bookmarkId": "3300122052_7_8105-8199",
+      "chapterUid": 7,
+      "range": "8105-8199",
+      "markText": "有一个地方，号做檀香山，有中国万多人的街。病死一个妇人，也是常事，那洋人说是疫死的，怕传染他们外国人，就放火把这街全行烧了。这街的人不敢作声，大家都到那河边树下居住。列位，你道伤心不伤心！",
+      "totalCount": 308,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=7&rangeStart=8105&rangeEnd=8199",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=7&rangeStart=8105&rangeEnd=8199"
+    },
+    {
+      "bookmarkId": "3300122052_7_10369-10389",
+      "chapterUid": 7,
+      "range": "10369-10389",
+      "markText": "他的极下等人，其学问胜过我国的翰林进士。",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=7&rangeStart=10369&rangeEnd=10389",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=7&rangeStart=10369&rangeEnd=10389"
+    },
+    {
+      "bookmarkId": "3300122052_26_3605-3653",
+      "chapterUid": 26,
+      "range": "3605-3653",
+      "markText": "近来青年误解自由，以不服从规则、违抗尊长为能，以爱国自饰，而先牺牲一切私德。此之结果，不言可想。",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=3300122052&chapterUid=26&rangeStart=3605&rangeEnd=3653",
+      "webLink": "https://weread.qq.com/web/reader/00f326c0813ab962dg012a16?chapterUid=26&rangeStart=3605&rangeEnd=3653"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

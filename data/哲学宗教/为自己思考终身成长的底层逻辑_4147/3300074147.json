@@ -1,0 +1,780 @@
+{
+  "meta": {
+    "bookId": "3300074147",
+    "title": "为自己思考:终身成长的底层逻辑",
+    "author": "奥赞·瓦罗尔",
+    "translator": "苏西",
+    "cover": "https://cdn.weread.qq.com/weread/cover/86/cpplatform_mrnm9vtecf11tm8wr7xowq/t6_cpplatform_mrnm9vtecf11tm8wr7xowq1697016056.jpg",
+    "intro": "★ 宝藏潜力作家新作！前作《像火箭科学家一样思考》入选2021年度得到年度书单\n★ 英文版上市第一周，登顶美国亚马逊新书畅销榜首位\n★ 被评为《华尔街日报》畅销书 \n★写给那些“想要醒来”的人，在信息茧房中掌握独立思考的底层逻辑和方法。\n  生活中，我们经常会面临像《黑客帝国》红蓝药丸一样的选择题。当你在被他人规划的生活中逐渐麻木，就像活在《黑客帝国》中的虚拟世界，失去自我，失去独立思考能力。但你实在受够了，你迫切想要挣脱现状，那你就需要这本书。迈入未知需要勇气，但不要害怕，本书正是为了帮助你从麻木中醒来，挖掘内在的天赋而存在的。\n本书将替代那颗“红色药丸”，帮你打破思维囚室，唤醒你的潜在天赋，成为真正的自己。拒绝随波逐流，真理只存在于你的内心。（文末附赠导读手册）。",
+    "category": "哲学宗教-思维科学",
+    "publisher": "北京联合出版公司",
+    "publishTime": "2023-10-01 00:00:00",
+    "isbn": "9787559671790",
+    "wordCount": 0,
+    "newRating": 793,
+    "newRatingCount": 1273,
+    "newRatingDetail": {
+      "good": 985,
+      "fair": 219,
+      "poor": 69,
+      "recent": 20,
+      "deepV": 579,
+      "myRating": "",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=3300074147",
+    "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276",
+    "lastSync": "2026-05-21T11:55:44Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 3,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 143,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "献词",
+      "level": 1,
+      "wordCount": 224,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "格言",
+      "level": 1,
+      "wordCount": 127,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "前言 该醒来了",
+      "level": 1,
+      "wordCount": 4571,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "本书想对你说的话",
+      "level": 1,
+      "wordCount": 536,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第一部分 死亡",
+      "level": 1,
+      "wordCount": 335,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第一章 忘掉所学",
+      "level": 2,
+      "wordCount": 5704,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第二章 弃旧",
+      "level": 2,
+      "wordCount": 14744,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第三章 排毒",
+      "level": 2,
+      "wordCount": 13350,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第二部分 新生",
+      "level": 1,
+      "wordCount": 249,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第四章 独特的你，非凡的你",
+      "level": 2,
+      "wordCount": 14042,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第五章 发现你的使命",
+      "level": 2,
+      "wordCount": 12827,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第三部分 内在的旅程",
+      "level": 1,
+      "wordCount": 278,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第六章 解锁内在的智慧",
+      "level": 2,
+      "wordCount": 13129,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第七章 释放玩耍的力量",
+      "level": 2,
+      "wordCount": 7590,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第八章 大胆创造",
+      "level": 2,
+      "wordCount": 12990,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第四部分 外在的旅程",
+      "level": 1,
+      "wordCount": 316,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第九章 是谁在胡扯",
+      "level": 2,
+      "wordCount": 11578,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第十章 看向别人不看的地方",
+      "level": 2,
+      "wordCount": 9227,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第十一章 我不是你的上师",
+      "level": 2,
+      "wordCount": 7449,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第五部分 彻底转变",
+      "level": 1,
+      "wordCount": 218,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第十二章 放开手，让未来自然发生",
+      "level": 2,
+      "wordCount": 5152,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第十三章 蜕变",
+      "level": 2,
+      "wordCount": 3381,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "结语",
+      "level": 1,
+      "wordCount": 501,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "接下来做什么？",
+      "level": 1,
+      "wordCount": 315,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "为自己思考导读手册",
+      "level": 1,
+      "wordCount": 347,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "写在前面",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第一部分 死亡",
+      "level": 2,
+      "wordCount": 5014,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 忘掉所学",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "第二章 弃旧",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        },
+        {
+          "title": "第三章 排毒",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第二部分 新生",
+      "level": 2,
+      "wordCount": 4634,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第四章 独特的你，非凡的你",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        },
+        {
+          "title": "第五章 发现你的使命",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第三部分 内在的旅程",
+      "level": 2,
+      "wordCount": 5116,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第六章 解锁内在的智慧",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        },
+        {
+          "title": "第七章 释放玩耍的力量",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        },
+        {
+          "title": "第八章 大胆创造",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "第四部分 外在的旅程",
+      "level": 2,
+      "wordCount": 3266,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第九章 是谁在胡扯",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        },
+        {
+          "title": "第十章 看向别人不看的地方",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        },
+        {
+          "title": "第十一章 我不是你的上师",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第五部分 彻底转变",
+      "level": 2,
+      "wordCount": 632,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十二章 放开手，让未来自然发生",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        },
+        {
+          "title": "第十三章 蜕变",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300074147&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=32"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 28,
+      "chapterTitle": "第一部分 死亡",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300074147_28_1607-1749",
+          "range": "1607-1749",
+          "rangeStart": 1607,
+          "rangeEnd": 1749,
+          "markText": "针对每一条假设，思考下面这三个问题：●这条假设是怎么来的？●有充足的理由留下它吗？●我能用更好的假设替代它吗？",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1726409688,
+          "createTimeFormatted": "2024-09-15 22:14:48",
+          "chapterUid": 28,
+          "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=28&rangeStart=1607&rangeEnd=1749",
+          "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=28&rangeStart=1607&rangeEnd=1749"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300074147_28_4789-4991",
+          "range": "4789-4991",
+          "rangeStart": 4789,
+          "rangeEnd": 4991,
+          "markText": "你最稀缺的资源不是时间或金钱，而是注意力。我们一次只能关注一件事，这就是为什么它的价值如此之高。如果你的注意力被切分得支离破碎，不由自主地被分配到无数个不同的方向，那你肯定记不住多少东西。你没法在想法之间建立关联，把点连成线，最后构建出新的观点——你没法思考。要解决这个问题，单纯意识到自己在做什么还不够，你需要主动决定自己做什么，不做什么。\n",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1725496376,
+          "createTimeFormatted": "2024-09-05 08:32:56",
+          "chapterUid": 28,
+          "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=28&rangeStart=4789&rangeEnd=4991",
+          "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=28&rangeStart=4789&rangeEnd=4991"
+        }
+      ]
+    },
+    {
+      "chapterUid": 9,
+      "chapterTitle": "第二章 弃旧",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300074147_9_1247-1275",
+          "range": "1247-1275",
+          "rangeStart": 1247,
+          "rangeEnd": 1275,
+          "markText": "放弃旧的，我会暂时失去平衡。可如果不放弃，我会失去自我。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1725494807,
+          "createTimeFormatted": "2024-09-05 08:06:47",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=9&rangeStart=1247&rangeEnd=1275",
+          "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=9&rangeStart=1247&rangeEnd=1275"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300074147_5_1369-1430",
+      "chapterUid": 5,
+      "range": "1369-1430",
+      "markText": "作选择的时候，我们会基于习惯，而非心中的热望。我们不断加固同样的信念，得出同样的想法，作出同样的选择，于是得到同样的结果。",
+      "totalCount": 2295,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=5&rangeStart=1369&rangeEnd=1430",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=5&rangeStart=1369&rangeEnd=1430"
+    },
+    {
+      "bookmarkId": "3300074147_9_1247-1275",
+      "chapterUid": 9,
+      "range": "1247-1275",
+      "markText": "放弃旧的，我会暂时失去平衡。可如果不放弃，我会失去自我。",
+      "totalCount": 1484,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=9&rangeStart=1247&rangeEnd=1275",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=9&rangeStart=1247&rangeEnd=1275"
+    },
+    {
+      "bookmarkId": "3300074147_10_17966-18037",
+      "chapterUid": 10,
+      "range": "17966-18037",
+      "markText": "忙碌是人为捏造的美德，它是懒惰的另一种形式；走得很快，却没有方向；它是一种麻醉剂，服下它，人们就可以不用向内看，也就避免了看见内心之后的恐慌。",
+      "totalCount": 1316,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=10&rangeStart=17966&rangeEnd=18037",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=10&rangeStart=17966&rangeEnd=18037"
+    },
+    {
+      "bookmarkId": "3300074147_9_4658-4723",
+      "chapterUid": 9,
+      "range": "4658-4723",
+      "markText": "一砖一瓦地，我们构筑起自己的身份，它限定了我们在人生中能做什么、能相信什么、能成就什么。随后，我们会投注大量精力去捍卫它，维持它。",
+      "totalCount": 1122,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=9&rangeStart=4658&rangeEnd=4723",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=9&rangeStart=4658&rangeEnd=4723"
+    },
+    {
+      "bookmarkId": "3300074147_9_7690-7722",
+      "chapterUid": 9,
+      "range": "7690-7722",
+      "markText": "感知塑造了现实。我们看见的并非事物的本然，我们看见的是我们自己。",
+      "totalCount": 1050,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=9&rangeStart=7690&rangeEnd=7722",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=9&rangeStart=7690&rangeEnd=7722"
+    },
+    {
+      "bookmarkId": "3300074147_8_6790-6879",
+      "chapterUid": 8,
+      "range": "6790-6879",
+      "markText": "让我们换一种问法：“今天你对什么事情感到好奇？”或者：“你想深入了解什么问题呢？”又或者：“你准备怎么找到答案？”任何经过用心设计、能帮助学生独立思考并质疑世俗认知的问题都可以。",
+      "totalCount": 1044,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=8&rangeStart=6790&rangeEnd=6879",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=8&rangeStart=6790&rangeEnd=6879"
+    },
+    {
+      "bookmarkId": "3300074147_5_393-481",
+      "chapterUid": 5,
+      "range": "393-481",
+      "markText": "有一条虫子沉迷于大嚼葡萄叶，无法自拔。突然间，它醒了……它不再是一条虫了。它既是整个葡萄园，也是葡萄树；它是葡萄的果实，也是葡萄的藤蔓，是无须不停吞噬也能不断生长的智慧和欢悦。",
+      "totalCount": 945,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=5&rangeStart=393&rangeEnd=481",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=5&rangeStart=393&rangeEnd=481"
+    },
+    {
+      "bookmarkId": "3300074147_8_4355-4454",
+      "chapterUid": 8,
+      "range": "4355-4454",
+      "markText": "教育(educate)这个词跟拉丁语eductus有关，而eductus的意思是把一个人“潜在的、蛰伏的某种东西”“引发”出来。换言之，教育本该帮助学生把已经蕴藏在他们身上的东西开发出来并培育成熟。",
+      "totalCount": 864,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=8&rangeStart=4355&rangeEnd=4454",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=8&rangeStart=4355&rangeEnd=4454"
+    },
+    {
+      "bookmarkId": "3300074147_5_2177-2219",
+      "chapterUid": 5,
+      "range": "2177-2219",
+      "markText": "为了活在这个世界上，我们付出了代价——背叛自己本真的模样，也与内在的天赋失去了联系。",
+      "totalCount": 858,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=5&rangeStart=2177&rangeEnd=2219",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=5&rangeStart=2177&rangeEnd=2219"
+    },
+    {
+      "bookmarkId": "3300074147_13_5676-5722",
+      "chapterUid": 13,
+      "range": "5676-5722",
+      "markText": "如果说这辈子我遵循了什么成功定律的话，那就是这一条：停止过度思考，开始试验、学习，然后改进。",
+      "totalCount": 819,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=13&rangeStart=5676&rangeEnd=5722",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=13&rangeStart=5676&rangeEnd=5722"
+    },
+    {
+      "bookmarkId": "3300074147_9_2684-2708",
+      "chapterUid": 9,
+      "range": "2684-2708",
+      "markText": "我们渴望得到没有的东西，却又害怕失去已经拥有的。",
+      "totalCount": 810,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=9&rangeStart=2684&rangeEnd=2708",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=9&rangeStart=2684&rangeEnd=2708"
+    },
+    {
+      "bookmarkId": "3300074147_9_8172-8257",
+      "chapterUid": 9,
+      "range": "8172-8257",
+      "markText": "其实，交流的目标应当是带着好奇心去了解——努力地搞清楚对方看到的是大象的哪个部分，以及为什么他们看到的是这些；应当是“多跟我说说”，而不是“你是错的，我来告诉你为什么”。",
+      "totalCount": 782,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=9&rangeStart=8172&rangeEnd=8257",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=9&rangeStart=8172&rangeEnd=8257"
+    },
+    {
+      "bookmarkId": "3300074147_10_4617-4740",
+      "chapterUid": 10,
+      "range": "4617-4740",
+      "markText": "不要只是深度工作——这是《深度工作》(Deep Work)的作者卡尔·纽波特(Cal Newport)令人难忘的箴言。也要深度玩乐、深度休息、深度倾听、深度阅读、深度去爱，深度地做一切事情。",
+      "totalCount": 756,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=10&rangeStart=4617&rangeEnd=4740",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=10&rangeStart=4617&rangeEnd=4740"
+    },
+    {
+      "bookmarkId": "3300074147_8_2742-2786",
+      "chapterUid": 8,
+      "range": "2742-2786",
+      "markText": "学生们不能提出自己的问题，找出自己的答案；相反，他们必须死记硬背别人的问题和别人的答案。",
+      "totalCount": 714,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=8&rangeStart=2742&rangeEnd=2786",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=8&rangeStart=2742&rangeEnd=2786"
+    },
+    {
+      "bookmarkId": "3300074147_5_3153-3227",
+      "chapterUid": 5,
+      "range": "3153-3227",
+      "markText": "他们完全不受别人意见的影响，也不会受到自己旧观念和旧身份的影响。他们能做到真正意义上的独立思考与行动，直接从自己的内心深处形成洞见，并将其贡献出来。",
+      "totalCount": 702,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=5&rangeStart=3153&rangeEnd=3227",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=5&rangeStart=3153&rangeEnd=3227"
+    },
+    {
+      "bookmarkId": "3300074147_4_483-506",
+      "chapterUid": 4,
+      "range": "483-506",
+      "markText": "与我们内心中的东西相较，过往与未来均微不足道。",
+      "totalCount": 697,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=4&rangeStart=483&rangeEnd=506",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=4&rangeStart=483&rangeEnd=506"
+    },
+    {
+      "bookmarkId": "3300074147_9_7971-8041",
+      "chapterUid": 9,
+      "range": "7971-8041",
+      "markText": "如果他们的观点是正确的，哪些前提条件必定为真？他们看到了哪些我没有看到的东西？我错过了大象的哪一部分？",
+      "totalCount": 675,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=9&rangeStart=7971&rangeEnd=8041",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=9&rangeStart=7971&rangeEnd=8041"
+    },
+    {
+      "bookmarkId": "3300074147_10_9655-9745",
+      "chapterUid": 10,
+      "range": "9655-9745",
+      "markText": "你的大脑阁楼是你的空间，应当由你来决定哪些东西可以摆进去，哪些人可以留下。如果你不曾有意识地做出选择，其他人就会替你做。而那些人做选择的时候，想的可是他们的最大收益——而不是你的。",
+      "totalCount": 672,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=10&rangeStart=9655&rangeEnd=9745",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=10&rangeStart=9655&rangeEnd=9745"
+    },
+    {
+      "bookmarkId": "3300074147_9_2079-2105",
+      "chapterUid": 9,
+      "range": "2079-2105",
+      "markText": "你今天要做什么，不一定非得受到昨天所做的事情的辖制。",
+      "totalCount": 666,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=9&rangeStart=2079&rangeEnd=2105",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=9&rangeStart=2079&rangeEnd=2105"
+    },
+    {
+      "bookmarkId": "3300074147_5_3825-3869",
+      "chapterUid": 5,
+      "range": "3825-3869",
+      "markText": "毫无根由的离经叛道，其实是程度更深的循规蹈矩。顽固的信念标志着因循守旧，而不是独立思考。",
+      "totalCount": 663,
+      "appLink": "weread://bestbookmark?bookId=3300074147&chapterUid=5&rangeStart=3825&rangeEnd=3869",
+      "webLink": "https://weread.qq.com/web/reader/dc1326c0813ab8376g017276?chapterUid=5&rangeStart=3825&rangeEnd=3869"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 32,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": 1726409689,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

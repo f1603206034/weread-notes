@@ -1,0 +1,1043 @@
+{
+  "meta": {
+    "bookId": "843464",
+    "title": "刻意练习：如何从新手到大师",
+    "author": "[美]安德斯·艾利克森 [英]罗伯特·普尔",
+    "translator": "王正林",
+    "cover": "https://cdn.weread.qq.com/weread/cover/95/YueWen_843464/t6_YueWen_843464.jpg",
+    "intro": "本书是两位作者合作撰写的，一位是心理学家，另一位是科学作家。10多年前，我们开始经常探讨杰出人物和“刻意练习”这个主题，并在5年前开始认真地围绕这个主题写书。在那段时间，本书在我们两人的思想碰撞中慢慢成形，以至于我们现在都难以分辨，书中的哪一部分观点由谁提出。我们只知道，本书由我们两人合写，比由我们单独去写要好得多，也完全不同。",
+    "category": "个人成长-人生哲学",
+    "publisher": "机械工业出版社",
+    "publishTime": "2016-11-01 00:00:00",
+    "isbn": "9787111551287",
+    "wordCount": 0,
+    "newRating": 721,
+    "newRatingCount": 27744,
+    "newRatingDetail": {
+      "good": 19635,
+      "fair": 7168,
+      "poor": 941,
+      "recent": 86,
+      "deepV": 1820,
+      "myRating": "",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=843464",
+    "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8",
+    "lastSync": "2026-05-21T12:01:09Z",
+    "readingProgress": "77%",
+    "readingTime": "0分钟",
+    "finishedDate": "2022-12-10",
+    "noteCount": 14,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=843464&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=1"
+    },
+    {
+      "chapterUid": 87,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 159,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=843464&chapterUid=87",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=87"
+    },
+    {
+      "chapterUid": 88,
+      "chapterIdx": 3,
+      "title": "致读者",
+      "level": 1,
+      "wordCount": 371,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=843464&chapterUid=88",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=88"
+    },
+    {
+      "chapterUid": 89,
+      "chapterIdx": 4,
+      "title": "赞誉",
+      "level": 1,
+      "wordCount": 1456,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=843464&chapterUid=89",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=89"
+    },
+    {
+      "chapterUid": 90,
+      "chapterIdx": 5,
+      "title": "推荐序",
+      "level": 1,
+      "wordCount": 4889,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "超越1万小时定律",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "刻意练习的本质",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "隐性知识",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843464&chapterUid=90",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=90"
+    },
+    {
+      "chapterUid": 91,
+      "chapterIdx": 6,
+      "title": "作者声明",
+      "level": 1,
+      "wordCount": 362,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=843464&chapterUid=91",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=91"
+    },
+    {
+      "chapterUid": 92,
+      "chapterIdx": 7,
+      "title": "引言 天才存在吗",
+      "level": 1,
+      "wordCount": 9088,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "莫扎特的完美音高",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "“天才”是训练的产物",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        },
+        {
+          "title": "本书将告诉我们什么",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843464&chapterUid=92",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=92"
+    },
+    {
+      "chapterUid": 93,
+      "chapterIdx": 8,
+      "title": "第1章 有目的的练习",
+      "level": 1,
+      "wordCount": 18594,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "史蒂夫的超强记忆力",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "各领域的杰出人物都靠大量练习",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "从有目的的练习讲起",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        },
+        {
+          "title": "有目的的练习的四个特点",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        },
+        {
+          "title": "遇到瓶颈怎么办",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        },
+        {
+          "title": "有目的的练习还不够",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843464&chapterUid=93",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=93"
+    },
+    {
+      "chapterUid": 94,
+      "chapterIdx": 9,
+      "title": "第2章 大脑的适应能力",
+      "level": 1,
+      "wordCount": 16508,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "伦敦出租车司机的大脑",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        },
+        {
+          "title": "大脑拥有无限的适应能力",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        },
+        {
+          "title": "走出舒适区的重要性",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        },
+        {
+          "title": "练习改变大脑结构",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        },
+        {
+          "title": "潜能可以被构筑",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843464&chapterUid=94",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=94"
+    },
+    {
+      "chapterUid": 95,
+      "chapterIdx": 10,
+      "title": "第3章 心理表征",
+      "level": 1,
+      "wordCount": 23491,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "偶然的盲棋大师",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        },
+        {
+          "title": "大师比新手强在哪里",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        },
+        {
+          "title": "心理表征是什么",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        },
+        {
+          "title": "心理表征有助于找出规律",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        },
+        {
+          "title": "心理表征有助于解释信息",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        },
+        {
+          "title": "心理表征有助于组织信息",
+          "anchor": "sigil_toc_id_24",
+          "level": 2
+        },
+        {
+          "title": "心理表征有助于制订计划",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        },
+        {
+          "title": "心理表征有助于高效学习",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843464&chapterUid=95",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=95"
+    },
+    {
+      "chapterUid": 96,
+      "chapterIdx": 11,
+      "title": "第4章 黄金标准",
+      "level": 1,
+      "wordCount": 21426,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "从音乐领域开始",
+          "anchor": "sigil_toc_id_27",
+          "level": 2
+        },
+        {
+          "title": "最杰出的人，练习时间最长",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        },
+        {
+          "title": "刻意练习是什么",
+          "anchor": "sigil_toc_id_29",
+          "level": 2
+        },
+        {
+          "title": "如何运用刻意练习原则",
+          "anchor": "sigil_toc_id_30",
+          "level": 2
+        },
+        {
+          "title": "1万小时法则的错与对",
+          "anchor": "sigil_toc_id_31",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843464&chapterUid=96",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=96"
+    },
+    {
+      "chapterUid": 97,
+      "chapterIdx": 12,
+      "title": "第5章 在工作中运用刻意练习原则",
+      "level": 1,
+      "wordCount": 20939,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王牌训练计划",
+          "anchor": "sigil_toc_id_32",
+          "level": 2
+        },
+        {
+          "title": "让练习变成日常工作的一部分",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        },
+        {
+          "title": "用王牌训练方法训练医生",
+          "anchor": "sigil_toc_id_34",
+          "level": 2
+        },
+        {
+          "title": "致力于传授知识的传统方法",
+          "anchor": "sigil_toc_id_35",
+          "level": 2
+        },
+        {
+          "title": "致力于改进技能的新方法",
+          "anchor": "sigil_toc_id_36",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843464&chapterUid=97",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=97"
+    },
+    {
+      "chapterUid": 98,
+      "chapterIdx": 13,
+      "title": "第6章 在生活中运用刻意练习原则",
+      "level": 1,
+      "wordCount": 25286,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "首先，找位好导师",
+          "anchor": "sigil_toc_id_37",
+          "level": 2
+        },
+        {
+          "title": "专注和投入至关重要",
+          "anchor": "sigil_toc_id_38",
+          "level": 2
+        },
+        {
+          "title": "没有导师，怎么办",
+          "anchor": "sigil_toc_id_39",
+          "level": 2
+        },
+        {
+          "title": "跨越停滞阶段",
+          "anchor": "sigil_toc_id_40",
+          "level": 2
+        },
+        {
+          "title": "保持动机",
+          "anchor": "sigil_toc_id_41",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843464&chapterUid=98",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=98"
+    },
+    {
+      "chapterUid": 99,
+      "chapterIdx": 14,
+      "title": "第7章 成为杰出人物的路线图",
+      "level": 1,
+      "wordCount": 20061,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "三位女性象棋大师",
+          "anchor": "sigil_toc_id_42",
+          "level": 2
+        },
+        {
+          "title": "第一阶段：产生兴趣",
+          "anchor": "sigil_toc_id_43",
+          "level": 2
+        },
+        {
+          "title": "第二阶段：变得认真",
+          "anchor": "sigil_toc_id_44",
+          "level": 2
+        },
+        {
+          "title": "第三阶段：全力投入",
+          "anchor": "sigil_toc_id_45",
+          "level": 2
+        },
+        {
+          "title": "年龄与适应能力的关系",
+          "anchor": "sigil_toc_id_46",
+          "level": 2
+        },
+        {
+          "title": "成年人也可培养出完美音高",
+          "anchor": "sigil_toc_id_47",
+          "level": 2
+        },
+        {
+          "title": "第四阶段：开拓创新",
+          "anchor": "sigil_toc_id_48",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843464&chapterUid=99",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=99"
+    },
+    {
+      "chapterUid": 100,
+      "chapterIdx": 15,
+      "title": "第8章 怎样解释天生才华",
+      "level": 1,
+      "wordCount": 26331,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "破解“帕格尼尼奇迹”",
+          "anchor": "sigil_toc_id_49",
+          "level": 2
+        },
+        {
+          "title": "破解“莫扎特传奇”",
+          "anchor": "sigil_toc_id_50",
+          "level": 2
+        },
+        {
+          "title": "破解“天才跳高运动员的神迹”",
+          "anchor": "sigil_toc_id_51",
+          "level": 2
+        },
+        {
+          "title": "破解“自闭症奇才”",
+          "anchor": "sigil_toc_id_52",
+          "level": 2
+        },
+        {
+          "title": "“缺乏”天生才华的人",
+          "anchor": "sigil_toc_id_53",
+          "level": 2
+        },
+        {
+          "title": "训练VS“天才”",
+          "anchor": "sigil_toc_id_54",
+          "level": 2
+        },
+        {
+          "title": "换个角度看基因差异",
+          "anchor": "sigil_toc_id_55",
+          "level": 2
+        },
+        {
+          "title": "相信天生才华的危险性",
+          "anchor": "sigil_toc_id_56",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843464&chapterUid=100",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=100"
+    },
+    {
+      "chapterUid": 101,
+      "chapterIdx": 16,
+      "title": "第9章 用刻意练习创造全新的世界",
+      "level": 1,
+      "wordCount": 11684,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "用刻意练习原则教物理",
+          "anchor": "sigil_toc_id_57",
+          "level": 2
+        },
+        {
+          "title": "刻意练习的前景",
+          "anchor": "sigil_toc_id_58",
+          "level": 2
+        },
+        {
+          "title": "创造全新的世界",
+          "anchor": "sigil_toc_id_59",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843464&chapterUid=101",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=101"
+    },
+    {
+      "chapterUid": 102,
+      "chapterIdx": 17,
+      "title": "参考文献和注释",
+      "level": 1,
+      "wordCount": 70584,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "引言 天才存在吗",
+          "anchor": "sigil_toc_id_60",
+          "level": 2
+        },
+        {
+          "title": "第1章 有目的的练习",
+          "anchor": "sigil_toc_id_61",
+          "level": 2
+        },
+        {
+          "title": "第2章 大脑的适应能力",
+          "anchor": "sigil_toc_id_62",
+          "level": 2
+        },
+        {
+          "title": "第3章 心理表征",
+          "anchor": "sigil_toc_id_63",
+          "level": 2
+        },
+        {
+          "title": "第4章 黄金标准",
+          "anchor": "sigil_toc_id_64",
+          "level": 2
+        },
+        {
+          "title": "第5章 在工作中运用刻意练习原则",
+          "anchor": "sigil_toc_id_65",
+          "level": 2
+        },
+        {
+          "title": "第6章 在生活中运用刻意练习原则",
+          "anchor": "sigil_toc_id_66",
+          "level": 2
+        },
+        {
+          "title": "第7章 成为杰出人物的路线图",
+          "anchor": "sigil_toc_id_67",
+          "level": 2
+        },
+        {
+          "title": "第8章 怎样解释天生才华",
+          "anchor": "sigil_toc_id_68",
+          "level": 2
+        },
+        {
+          "title": "第9章 用刻意练习创造全新的世界",
+          "anchor": "sigil_toc_id_69",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=843464&chapterUid=102",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=102"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 97,
+      "chapterTitle": "第5章 在工作中运用刻意练习原则",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_45_1785-1816",
+          "range": "5586-5617",
+          "rangeStart": 5586,
+          "rangeEnd": 5617,
+          "markText": "第二种错误思想认为，如果你足够长时间地做某件事情，一定会更擅长",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1609648141,
+          "createTimeFormatted": "2021-01-03 12:29:01",
+          "chapterUid": 97,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=97&rangeStart=5586&rangeEnd=5617",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=97&rangeStart=5586&rangeEnd=5617"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_45_1917-1951",
+          "range": "5718-5752",
+          "rangeStart": 5718,
+          "rangeEnd": 5752,
+          "markText": "第三种错误思想认为，要想提高，只需要努力。如果足够刻苦，你会更加优秀",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1609568782,
+          "createTimeFormatted": "2021-01-02 14:26:22",
+          "chapterUid": 97,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=97&rangeStart=5718&rangeEnd=5752",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=97&rangeStart=5718&rangeEnd=5752"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_45_1358-1393",
+          "range": "5159-5194",
+          "rangeStart": 5159,
+          "rangeEnd": 5194,
+          "markText": "第一种错误思想是我们的老朋友，即认为某人的能力通常受到基因特征的限制。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1609568779,
+          "createTimeFormatted": "2021-01-02 14:26:19",
+          "chapterUid": 97,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=97&rangeStart=5159&rangeEnd=5194",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=97&rangeStart=5159&rangeEnd=5194"
+        }
+      ]
+    },
+    {
+      "chapterUid": 98,
+      "chapterTitle": "第6章 在生活中运用刻意练习原则",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_54_5451-5489",
+          "range": "23186-23224",
+          "rangeStart": 23186,
+          "rangeEnd": 23224,
+          "markText": "尽管任何一个特定的因素可能只对你产生微小的影响，但各种因素的影响是会累积的。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1609648134,
+          "createTimeFormatted": "2021-01-03 12:28:54",
+          "chapterUid": 98,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=98&rangeStart=23186&rangeEnd=23224",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=98&rangeStart=23186&rangeEnd=23224"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_54_5599-5610",
+          "range": "23334-23345",
+          "rangeStart": 23334,
+          "rangeEnd": 23345,
+          "markText": "第一件是一般的身体保养",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1609568788,
+          "createTimeFormatted": "2021-01-02 14:26:28",
+          "chapterUid": 98,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=98&rangeStart=23334&rangeEnd=23345",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=98&rangeStart=23334&rangeEnd=23345"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_54_5714-5734",
+          "range": "23449-23469",
+          "rangeStart": 23449,
+          "rangeEnd": 23469,
+          "markText": "第二件是将练习课的时间限制在1小时左右。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1609568781,
+          "createTimeFormatted": "2021-01-02 14:26:21",
+          "chapterUid": 98,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=98&rangeStart=23449&rangeEnd=23469",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=98&rangeStart=23449&rangeEnd=23469"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_52_3822-3928",
+          "range": "11844-11911",
+          "rangeStart": 11844,
+          "rangeEnd": 11911,
+          "markText": "反复做一件事情，目的是找出你在哪些方面存在不足，并且聚焦于在那些方面取得进步，试着采用不同的方法来提高，直到你最终找到适合自己的方法。\n",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1609157004,
+          "createTimeFormatted": "2020-12-28 20:03:24",
+          "chapterUid": 98,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=98&rangeStart=11844&rangeEnd=11911",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=98&rangeStart=11844&rangeEnd=11911"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_51_4084-4125",
+          "range": "8083-8124",
+          "rangeStart": 8083,
+          "rangeEnd": 8124,
+          "markText": "制订明确的目标，把练习课程的时间缩得更短，是更加迅速地提升新的技能水平的最佳方式。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1609157003,
+          "createTimeFormatted": "2020-12-28 20:03:23",
+          "chapterUid": 98,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=98&rangeStart=8083&rangeEnd=8124",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=98&rangeStart=8083&rangeEnd=8124"
+        }
+      ]
+    },
+    {
+      "chapterUid": 96,
+      "chapterTitle": "第4章 黄金标准",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_40_2450-2498",
+          "range": "12601-12649",
+          "rangeStart": 12601,
+          "rangeEnd": 12649,
+          "markText": "刻意练习包含得到良好定义的特定目标，通常还包括目标表现的某些方面；它并非指向某些模糊的总体改进。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1609648133,
+          "createTimeFormatted": "2021-01-03 12:28:53",
+          "chapterUid": 96,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=96&rangeStart=12601&rangeEnd=12649",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=96&rangeStart=12601&rangeEnd=12649"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_42_1068-1087",
+          "range": "22260-22279",
+          "rangeStart": 22260,
+          "rangeEnd": 22279,
+          "markText": "只要你在任何一件事情上花1万小时来练习",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1609568782,
+          "createTimeFormatted": "2021-01-02 14:26:22",
+          "chapterUid": 96,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=96&rangeStart=22260&rangeEnd=22279",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=96&rangeStart=22260&rangeEnd=22279"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_40_2816-2843",
+          "range": "12867-12894",
+          "rangeStart": 12867,
+          "rangeEnd": 12894,
+          "markText": "刻意练习包含反馈，以及为应对那些反馈而进行调整的努力。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1609568780,
+          "createTimeFormatted": "2021-01-02 14:26:20",
+          "chapterUid": 96,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=96&rangeStart=12867&rangeEnd=12894",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=96&rangeStart=12867&rangeEnd=12894"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_40_2135-2184",
+          "range": "12387-12435",
+          "rangeStart": 12387,
+          "rangeEnd": 12435,
+          "markText": " 刻意练习发展的技能，是其他人已经想出怎样提高的技能，也是已经拥有一整套行之有效的训练方法的技能。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1609568780,
+          "createTimeFormatted": "2021-01-02 14:26:20",
+          "chapterUid": 96,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=96&rangeStart=12387&rangeEnd=12435",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=96&rangeStart=12387&rangeEnd=12435"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_40_2302-2348",
+          "range": "12503-12549",
+          "rangeStart": 12503,
+          "rangeEnd": 12549,
+          "markText": "刻意练习发生在人们的舒适区之外，而且要求学生持续不断地尝试那些刚好超出他当前能力范围的事物。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1609568777,
+          "createTimeFormatted": "2021-01-02 14:26:17",
+          "chapterUid": 96,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=96&rangeStart=12503&rangeEnd=12549",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=96&rangeStart=12503&rangeEnd=12549"
+        }
+      ]
+    },
+    {
+      "chapterUid": 93,
+      "chapterTitle": "第1章 有目的的练习",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "843464_20_3559-3625",
+          "range": "20050-20116",
+          "rangeStart": 20050,
+          "rangeEnd": 20116,
+          "markText": "：走出你的舒适区，但要以专注的方式制订明确的目标，为达到那些目标制订一个计划，并且想出监测你的进步的方法。哦，还要想办法保持你的动机",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1608517021,
+          "createTimeFormatted": "2020-12-21 10:17:01",
+          "chapterUid": 93,
+          "appLink": "weread://bestbookmark?bookId=843464&chapterUid=93&rangeStart=20050&rangeEnd=20116",
+          "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=93&rangeStart=20050&rangeEnd=20116"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "843464_93_10873-10924",
+      "chapterUid": 93,
+      "range": "10873-10924",
+      "markText": "一旦某个人的表现达到了“可接受”的水平，并且可以做到自动化，那么，再多“练习”几年，也不会有什么进步。",
+      "totalCount": 56358,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=93&rangeStart=10873&rangeEnd=10924",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=93&rangeStart=10873&rangeEnd=10924"
+    },
+    {
+      "bookmarkId": "843464_93_19921-19992",
+      "chapterUid": 93,
+      "range": "19921-19992",
+      "markText": "有目的的练习：走出你的舒适区，但要以专注的方式制订明确的目标，为达到那些目标制订一个计划，并且想出监测你的进步的方法。还要想办法保持你的动机。",
+      "totalCount": 35625,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=93&rangeStart=19921&rangeEnd=19992",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=93&rangeStart=19921&rangeEnd=19992"
+    },
+    {
+      "bookmarkId": "843464_93_15690-15734",
+      "chapterUid": 93,
+      "range": "15690-15734",
+      "markText": "对于任何类型的练习，这是一条基本的真理：如果你从来不迫使自己走出舒适区，便永远无法进步。",
+      "totalCount": 29466,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=93&rangeStart=15690&rangeEnd=15734",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=93&rangeStart=15690&rangeEnd=15734"
+    },
+    {
+      "bookmarkId": "843464_90_4356-4399",
+      "chapterUid": 90,
+      "range": "4356-4399",
+      "markText": "刻意练习的任务难度要适中，能收到反馈，有足够的次数重复练习，学习者能够纠正自己的错误。",
+      "totalCount": 28446,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=90&rangeStart=4356&rangeEnd=4399",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=90&rangeStart=4356&rangeEnd=4399"
+    },
+    {
+      "bookmarkId": "843464_90_6160-6196",
+      "chapterUid": 90,
+      "range": "6160-6196",
+      "markText": "学习科学大量研究表明，成人的最佳学习方式并非独自练习，而是在情境中学习。",
+      "totalCount": 27152,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=90&rangeStart=6160&rangeEnd=6196",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=90&rangeStart=6160&rangeEnd=6196"
+    },
+    {
+      "bookmarkId": "843464_94_13514-13550",
+      "chapterUid": 94,
+      "range": "13514-13550",
+      "markText": "大脑对于处在舒适区之外却离得并不太远的“甜蜜点”上的挑战，改变最为迅速。",
+      "totalCount": 24528,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=94&rangeStart=13514&rangeEnd=13550",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=94&rangeStart=13514&rangeEnd=13550"
+    },
+    {
+      "bookmarkId": "843464_93_11850-11894",
+      "chapterUid": 93,
+      "range": "11850-11894",
+      "markText": "所谓“天真的练习”，基本上只是反复地做某件事情，并指望只靠那种反复，就能提高表现和水平。",
+      "totalCount": 24463,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=93&rangeStart=11850&rangeEnd=11894",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=93&rangeStart=11850&rangeEnd=11894"
+    },
+    {
+      "bookmarkId": "843464_93_14514-14538",
+      "chapterUid": 93,
+      "range": "14514-14538",
+      "markText": "要想取得进步，必须完全把注意力集中在你的任务上。",
+      "totalCount": 23424,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=93&rangeStart=14514&rangeEnd=14538",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=93&rangeStart=14514&rangeEnd=14538"
+    },
+    {
+      "bookmarkId": "843464_94_17766-17801",
+      "chapterUid": 94,
+      "range": "17766-17801",
+      "markText": "由训练引起的认知和生理变化需要继续保持。如果停止训练，它们便开始消失。",
+      "totalCount": 20332,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=94&rangeStart=17766&rangeEnd=17801",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=94&rangeStart=17766&rangeEnd=17801"
+    },
+    {
+      "bookmarkId": "843464_92_8051-8090",
+      "chapterUid": 92,
+      "range": "8051-8090",
+      "markText": "学习不再是挖掘某人潜力的方式，而是发展这种潜力的方式。我们可以创造自己的潜力。",
+      "totalCount": 16835,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=92&rangeStart=8051&rangeEnd=8090",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=92&rangeStart=8051&rangeEnd=8090"
+    },
+    {
+      "bookmarkId": "843464_88_772-794",
+      "chapterUid": 88,
+      "range": "772-794",
+      "markText": "“正确的练习”需要好导师、有目标、有反馈……",
+      "totalCount": 16269,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=88&rangeStart=772&rangeEnd=794",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=88&rangeStart=772&rangeEnd=794"
+    },
+    {
+      "bookmarkId": "843464_95_25418-25480",
+      "chapterUid": 95,
+      "range": "25418-25480",
+      "markText": "技能与心理表征之间的关系是一个良性循环：你的技能越娴熟，创建的心理表征就越好；而心理表征越好，就越能有效地练习，以磨炼技能。",
+      "totalCount": 15106,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=95&rangeStart=25418&rangeEnd=25480",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=95&rangeStart=25418&rangeEnd=25480"
+    },
+    {
+      "bookmarkId": "843464_96_9052-9079",
+      "chapterUid": 96,
+      "range": "9052-9079",
+      "markText": "最杰出的人是那些在各种有目的的练习中花了最多时间的人。",
+      "totalCount": 14970,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=96&rangeStart=9052&rangeEnd=9079",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=96&rangeStart=9052&rangeEnd=9079"
+    },
+    {
+      "bookmarkId": "843464_95_7516-7571",
+      "chapterUid": 95,
+      "range": "7516-7571",
+      "markText": "心理表征是一种与我们大脑正在思考的某个物体、某个观点、某些信息或者其他任何事物相对应的心理结构，或具体或抽象。",
+      "totalCount": 13689,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=95&rangeStart=7516&rangeEnd=7571",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=95&rangeStart=7516&rangeEnd=7571"
+    },
+    {
+      "bookmarkId": "843464_96_11867-11940",
+      "chapterUid": 96,
+      "range": "11867-11940",
+      "markText": "刻意练习与其他类型的有目的的练习在两个重要的方面上存在着差别。首先，它需要一个已经得到合理发展的行业或领域，其次，需要一位能够布置练习作业的导师。",
+      "totalCount": 13140,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=96&rangeStart=11867&rangeEnd=11940",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=96&rangeStart=11867&rangeEnd=11940"
+    },
+    {
+      "bookmarkId": "843464_97_14372-14467",
+      "chapterUid": 97,
+      "range": "14372-14467",
+      "markText": "当你观察人们在职业领域和商业世界中如何接受训练时，会发现一种趋势：不重视技能，过于重视知识。主要的原因是传统和方便：向一大群人介绍知识，比起创造条件让人们可以通过练习来提升技能，要容易得多。",
+      "totalCount": 12096,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=97&rangeStart=14372&rangeEnd=14467",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=97&rangeStart=14372&rangeEnd=14467"
+    },
+    {
+      "bookmarkId": "843464_93_17120-17136",
+      "chapterUid": 93,
+      "range": "17120-17136",
+      "markText": "试着做不同的事情，而非更难的事情",
+      "totalCount": 11325,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=93&rangeStart=17120&rangeEnd=17136",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=93&rangeStart=17120&rangeEnd=17136"
+    },
+    {
+      "bookmarkId": "843464_90_5890-5945",
+      "chapterUid": 90,
+      "range": "5890-5945",
+      "markText": "人的学习受到情境的制约或促进。你要学习的东西将实际应用在什么情境中，那么你就应该在什么样的情境中学习这些东西。",
+      "totalCount": 11286,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=90&rangeStart=5890&rangeEnd=5945",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=90&rangeStart=5890&rangeEnd=5945"
+    },
+    {
+      "bookmarkId": "843464_93_15108-15153",
+      "chapterUid": 93,
+      "range": "15108-15153",
+      "markText": "不论你在努力做什么事情，都需要反馈来准确辨别你在哪些方面还有不足，以及怎么会存在这些不足。",
+      "totalCount": 11130,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=93&rangeStart=15108&rangeEnd=15153",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=93&rangeStart=15108&rangeEnd=15153"
+    },
+    {
+      "bookmarkId": "843464_90_3750-3855",
+      "chapterUid": 90,
+      "range": "3750-3855",
+      "markText": "事实上，艾利克森的刻意练习的核心观点是，那些处于中上水平的人们，拥有一种较强的记忆能力：长时记忆。长时记忆正是区分卓越者与一般人的一个重要能力，它才是刻意练习的指向与本质。",
+      "totalCount": 11046,
+      "appLink": "weread://bestbookmark?bookId=843464&chapterUid=90&rangeStart=3750&rangeEnd=3855",
+      "webLink": "https://weread.qq.com/web/reader/2e932c005cdec82e9a0e3e8?chapterUid=90&rangeStart=3750&rangeEnd=3855"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 98,
+    "chapterOffset": 23449,
+    "progress": 77,
+    "updateTime": 1701736955,
+    "recordReadingTime": 0,
+    "finishTime": 1670654085
+  }
+}

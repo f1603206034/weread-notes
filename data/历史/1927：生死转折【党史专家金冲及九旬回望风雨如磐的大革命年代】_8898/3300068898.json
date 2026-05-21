@@ -1,0 +1,852 @@
+{
+  "meta": {
+    "bookId": "3300068898",
+    "title": "1927：生死转折【党史专家金冲及九旬回望风雨如磐的大革命年代】",
+    "author": "金冲及",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/95/cpplatform_89kggb4a5ksqw6xcue44tm/t6_cpplatform_89kggb4a5ksqw6xcue44tm1692871132.jpg",
+    "intro": "1927年，幼年时期的中国共产党，面临着一次生死大考……革命的成败仰仗军事、经济、政治与社会因素的动态组合，从合作到破裂，各方势力如何抉择？中共如何绝地求生？党史专家金冲及九旬回望风雨如磐的大革命年代。",
+    "category": "历史-中国近现代",
+    "publisher": "社会科学文献出版社",
+    "publishTime": "2021-09-01 00:00:00",
+    "isbn": "9787520184427",
+    "wordCount": 0,
+    "newRating": 844,
+    "newRatingCount": 192,
+    "newRatingDetail": {
+      "good": 165,
+      "fair": 21,
+      "poor": 6,
+      "recent": 3,
+      "deepV": 101,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300068898",
+    "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97",
+    "lastSync": "2026-05-21T11:52:32Z",
+    "readingProgress": "100%",
+    "readingTime": "0分钟",
+    "finishedDate": "2024-08-15",
+    "noteCount": 19,
+    "reviewCount": 7,
+    "bookmarkCount": 0,
+    "contentHash": "b627861f9ddcd4e152dccb037de89c752fcec2b4463fcbe36f694e28fb95cd04"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300068898&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 139,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300068898&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "文前",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300068898&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "文前辅文",
+      "level": 1,
+      "wordCount": 632,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300068898&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "北伐的大潮与暗流",
+      "level": 1,
+      "wordCount": 7738,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300068898&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "政变前夜各方力量对比",
+      "level": 1,
+      "wordCount": 10849,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300068898&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "谋定而动的阴谋",
+      "level": 1,
+      "wordCount": 10418,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300068898&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "四一二政变后各方的应对",
+      "level": 1,
+      "wordCount": 10647,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300068898&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "武汉向右转",
+      "level": 1,
+      "wordCount": 6428,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300068898&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "革命进入新时期",
+      "level": 1,
+      "wordCount": 7221,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300068898&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "文后",
+      "level": 1,
+      "wordCount": 3,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300068898&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=11"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "文前辅文",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_4_427-452",
+          "range": "427-452",
+          "rangeStart": 427,
+          "rangeEnd": 452,
+          "markText": "没有哪一次巨大的历史灾难不是以历史的进步为补偿的。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1723786799,
+          "createTimeFormatted": "2024-08-16 13:39:59",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=4&rangeStart=427&rangeEnd=452",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=4&rangeStart=427&rangeEnd=452"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7TueQ7fic",
+          "range": "868-932",
+          "chapterName": "",
+          "content": "《毛泽东选集（全四卷）》\n> 湖南农民运动考察报告（一九二七年三月）\n中国的红色政权为什么能够存在？\n（一九二八年十月五日）\n《毛泽东文集（全八卷）》\n> 在土地委员会第一次扩大会议上的发言[1]\n（一九二七年四月十九日）\n在中央紧急会议上的发言[1]\n（一九二七年八月七日）\n 《毛泽东军事文集》1993 年出版\n> 在中央紧急会议上的发言〔１〕（一九二七年八月七日）\n湘南运动大纲〔１〕（一九二七年八月）\n湖南民众组织更需要武装〔１〕（一九二七年八月九日）\n湖南秋收暴动要有军队帮助〔１〕（一九二七年八月十八日）\n《周恩来军事文选》1997年出版\n> 国民革命军及军事政治工作〔1〕（一九二六年七月）\n关于上海的武装起义〔1〕（一九二七年三月三日） 赶快决定打东南的方策〔1〕（一九二七年四月十六日）\n迅速出师讨伐蒋介石〔1〕（一九二七年四月）\n向潮汕进军的问题〔1〕（一九二七年九月）",
+          "abstract": "国共关系全面破裂发生后半个多月，中国共产党便先后发动南昌起义和召开八七会议，走上独立开展土地革命和武装反抗国民党反动派的新道路。",
+          "star": -1,
+          "createTime": 1723787145,
+          "createTimeFormatted": "2024-08-16 13:45:45",
+          "isFinish": false,
+          "chapterUid": 4
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7Tst4g6bz",
+          "range": "894-905",
+          "chapterName": "",
+          "content": "土地革命",
+          "abstract": "南昌起义和召开八七会议",
+          "star": -1,
+          "createTime": 1723686579,
+          "createTimeFormatted": "2024-08-15 09:49:39",
+          "isFinish": false,
+          "chapterUid": 4
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7Tst4ec5h",
+          "range": "894-905",
+          "chapterName": "",
+          "content": "第二次国内革命战争时期",
+          "abstract": "南昌起义和召开八七会议",
+          "star": -1,
+          "createTime": 1723686579,
+          "createTimeFormatted": "2024-08-15 09:49:39",
+          "isFinish": false,
+          "chapterUid": 4
+        }
+      ]
+    },
+    {
+      "chapterUid": 10,
+      "chapterTitle": "革命进入新时期",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_10_8766-8773",
+          "range": "8766-8773",
+          "rangeStart": 8766,
+          "rangeEnd": 8773,
+          "markText": "第三，军事问题",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723718592,
+          "createTimeFormatted": "2024-08-15 18:43:12",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=10&rangeStart=8766&rangeEnd=8773",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=10&rangeStart=8766&rangeEnd=8773"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_10_6508-6518",
+          "range": "6508-6518",
+          "rangeStart": 6508,
+          "rangeEnd": 6518,
+          "markText": "第一，党的独立性问题",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723718591,
+          "createTimeFormatted": "2024-08-15 18:43:11",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=10&rangeStart=6508&rangeEnd=6518",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=10&rangeStart=6508&rangeEnd=6518"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_10_1999-2018",
+          "range": "1999-2018",
+          "rangeStart": 1999,
+          "rangeEnd": 2018,
+          "markText": "二是贺龙领导的国民革命军暂编第二十军。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723718589,
+          "createTimeFormatted": "2024-08-15 18:43:09",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=10&rangeStart=1999&rangeEnd=2018",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=10&rangeStart=1999&rangeEnd=2018"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_10_1609-1625",
+          "range": "1609-1625",
+          "rangeStart": 1609,
+          "rangeEnd": 1625,
+          "markText": "一是叶挺能控制的张发奎部两个师。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723718588,
+          "createTimeFormatted": "2024-08-15 18:43:08",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=10&rangeStart=1609&rangeEnd=1625",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=10&rangeStart=1609&rangeEnd=1625"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_10_480-527",
+          "range": "480-527",
+          "rangeStart": 480,
+          "rangeEnd": 527,
+          "markText": "第一次国共合作的破裂，标志着大革命的失败，同时标志着中国共产党领导的土地革命这一新时期的开始。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723718586,
+          "createTimeFormatted": "2024-08-15 18:43:06",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=10&rangeStart=480&rangeEnd=527",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=10&rangeStart=480&rangeEnd=527"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_10_2736-2741",
+          "range": "2736-2741",
+          "rangeStart": 2736,
+          "rangeEnd": 2741,
+          "markText": "三是朱德。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723718584,
+          "createTimeFormatted": "2024-08-15 18:43:04",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=10&rangeStart=2736&rangeEnd=2741",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=10&rangeStart=2736&rangeEnd=2741"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_10_7936-7945",
+          "range": "7936-7945",
+          "rangeStart": 7936,
+          "rangeEnd": 7945,
+          "markText": "第二，土地革命问题",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723718583,
+          "createTimeFormatted": "2024-08-15 18:43:03",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=10&rangeStart=7936&rangeEnd=7945",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=10&rangeStart=7936&rangeEnd=7945"
+        }
+      ]
+    },
+    {
+      "chapterUid": 8,
+      "chapterTitle": "四一二政变后各方的应对",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_8_9906-9949",
+          "range": "9906-9949",
+          "rangeStart": 9906,
+          "rangeEnd": 9949,
+          "markText": "第一，很直接的原因还是经济问题。冯玉祥说：“我们所感到的困难，主要地是在财政方面。”他",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723718590,
+          "createTimeFormatted": "2024-08-15 18:43:10",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=8&rangeStart=9906&rangeEnd=9949",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=8&rangeStart=9906&rangeEnd=9949"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_8_10859-10902",
+          "range": "10859-10902",
+          "rangeStart": 10859,
+          "rangeEnd": 10902,
+          "markText": "第二，从更深层次来看，冯玉祥不是共产主义者，只能说是一个信奉孙中山三民主义的爱国军人。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723718586,
+          "createTimeFormatted": "2024-08-15 18:43:06",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=8&rangeStart=10859&rangeEnd=10902",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=8&rangeStart=10859&rangeEnd=10902"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_8_2377-2427",
+          "range": "2377-2427",
+          "rangeStart": 2377,
+          "rangeEnd": 2427,
+          "markText": "一几乎没有军队，二没有政权，三对农民的力量和作用估计过低，没有将渴望得到土地的农民充分组织和武装起来",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723718585,
+          "createTimeFormatted": "2024-08-15 18:43:05",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=8&rangeStart=2377&rangeEnd=2427",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=8&rangeStart=2377&rangeEnd=2427"
+        }
+      ]
+    },
+    {
+      "chapterUid": 6,
+      "chapterTitle": "政变前夜各方力量对比",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_6_10545-10598",
+          "range": "10545-10598",
+          "rangeStart": 10545,
+          "rangeEnd": 10598,
+          "markText": "根本原因，一是在于蒋介石已经公然背弃孙中山晚年实行的联俄、联共、扶助农工的三民主义政策，到江西后变本加厉；",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723708139,
+          "createTimeFormatted": "2024-08-15 15:48:59",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=6&rangeStart=10545&rangeEnd=10598",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=6&rangeStart=10545&rangeEnd=10598"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_6_10953-10979",
+          "range": "10953-10979",
+          "rangeStart": 10953,
+          "rangeEnd": 10979,
+          "markText": "另一种是军队实力派，其中以唐生智对蒋最为不满和轻视。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723708138,
+          "createTimeFormatted": "2024-08-15 15:48:58",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=6&rangeStart=10953&rangeEnd=10979",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=6&rangeStart=10953&rangeEnd=10979"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_6_10714-10740",
+          "range": "10714-10740",
+          "rangeStart": 10714,
+          "rangeEnd": 10740,
+          "markText": "一种是在国民党内有一定资望或在社会上有一定声望的人士",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723708138,
+          "createTimeFormatted": "2024-08-15 15:48:58",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=6&rangeStart=10714&rangeEnd=10740",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=6&rangeStart=10714&rangeEnd=10740"
+        }
+      ]
+    },
+    {
+      "chapterUid": 5,
+      "chapterTitle": "北伐的大潮与暗流",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_5_2003-2029",
+          "range": "2003-2029",
+          "rangeStart": 2003,
+          "rangeEnd": 2029,
+          "markText": "明确接受了中国共产党提出的“反帝反封建”的革命纲领。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723686587,
+          "createTimeFormatted": "2024-08-15 09:49:47",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=5&rangeStart=2003&rangeEnd=2029",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=5&rangeStart=2003&rangeEnd=2029"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_5_2669-2693",
+          "range": "2669-2693",
+          "rangeStart": 2669,
+          "rangeEnd": 2693,
+          "markText": "促进了工农运动的蓬勃发展，农民协会和工会纷纷建立",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723686584,
+          "createTimeFormatted": "2024-08-15 09:49:44",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=5&rangeStart=2669&rangeEnd=2693",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=5&rangeStart=2669&rangeEnd=2693"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_5_8096-8102",
+          "range": "8096-8102",
+          "rangeStart": 8096,
+          "rangeEnd": 8102,
+          "markText": "中山舰事件。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723686583,
+          "createTimeFormatted": "2024-08-15 09:49:43",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=5&rangeStart=8096&rangeEnd=8102",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=5&rangeStart=8096&rangeEnd=8102"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_5_6355-6428",
+          "range": "6355-6428",
+          "rangeStart": 6355,
+          "rangeEnd": 6428,
+          "markText": "其地位的迅速上升，始于担任国共合作并得到苏联很大援助的黄埔军官学校校长，以及以黄埔师生为基础的党军在讨伐陈炯明粤军和盘踞广州的滇桂军时所立的战功。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723686576,
+          "createTimeFormatted": "2024-08-15 09:49:36",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=5&rangeStart=6355&rangeEnd=6428",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=5&rangeStart=6355&rangeEnd=6428"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300068898_5_10612-10675",
+          "range": "10612-10675",
+          "rangeStart": 10612,
+          "rangeEnd": 10675,
+          "markText": "凡他党党员之加入本党者，在高级党部（中央党部、省党部、特别市党部）任执行委员时，其额数不得超过各该党部执行委员总数三分之一。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1723686575,
+          "createTimeFormatted": "2024-08-15 09:49:35",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=5&rangeStart=10612&rangeEnd=10675",
+          "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=5&rangeStart=10612&rangeEnd=10675"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7YcJf4imm",
+          "range": "2190-2194",
+          "chapterName": "",
+          "content": "zhū zǎi ɡuó huì\n指被政治野心家收买、利用的议员组成的御用国会。",
+          "abstract": "猪仔国会",
+          "star": -1,
+          "createTime": 1740400668,
+          "createTimeFormatted": "2025-02-24 20:37:48",
+          "isFinish": false,
+          "chapterUid": 5
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7Uh7kk8y0",
+          "range": "11312-11316",
+          "chapterName": "",
+          "content": "ɡònɡ chǎn ɡuó jì\n（CommunistInternational）亦称“第三国际”。全世界共产党和共产主义组织的国际联合组织。第一次世界大战爆发后，第二国际陷于破产，列宁为团结各国的革命左派、建立共产国际进行了一系列工作。1919年3月2日于莫斯科召开有30个国家的工人政党和组织代表参加的国际共产主义代表大会，通过了《告全世界无产者》的宣言、《共产国际行动纲领》和《关于资产阶级民主和无产阶级专政的提纲》，宣告共产国际成立。其任务是宣传马克思主义，团结各国工人阶级和广大劳动群众，为推翻帝国主义和资本主义统治，建立无产阶级专政，消灭剥削制度而斗争。总部设在莫斯科。凡参加共产国际的各国共产党都是它的支部。以后随着国际共产主义运动的发展，原有组织形式不能适应新形势的要求，经各国共产党一致同意，于1943年6月正式解散。",
+          "abstract": "共产国际",
+          "star": -1,
+          "createTime": 1726563474,
+          "createTimeFormatted": "2024-09-17 16:57:54",
+          "isFinish": false,
+          "chapterUid": 5
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7Tst4ie59",
+          "range": "3544-3604",
+          "chapterName": "",
+          "content": "张作霖打革命军只是幌子，吞并吴，孙为真",
+          "abstract": "国民革命军北伐开始后，张作霖曾想借支援吴佩孚、孙传芳之名挥师南下，进攻北伐军。但吴、孙担心奉军南下会夺去他们的地盘而婉拒",
+          "star": -1,
+          "createTime": 1723686580,
+          "createTimeFormatted": "2024-08-15 09:49:40",
+          "isFinish": false,
+          "chapterUid": 5
+        }
+      ]
+    },
+    {
+      "chapterUid": 7,
+      "chapterTitle": "谋定而动的阴谋",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7TsQByS1g",
+          "range": "15992-15997",
+          "chapterName": "",
+          "content": "一大立党，二大立纲，三大国共要合作，四大领导工农，五大批陈右倾机会主义，六大唯一国外开，七大毛思入党章",
+          "abstract": "中共五大就",
+          "star": -1,
+          "createTime": 1723708143,
+          "createTimeFormatted": "2024-08-15 15:49:03",
+          "isFinish": false,
+          "chapterUid": 7
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300068898_5_7202-7278",
+      "chapterUid": 5,
+      "range": "7202-7278",
+      "markText": "如果国民党的党员反对共产党，我便要自己去加入共产党。’这是什么理由？是因为共产党和国民党的革命的目的，都是一样的，并且我们革命党的性质，就是‘打不平’。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=5&rangeStart=7202&rangeEnd=7278",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=5&rangeStart=7202&rangeEnd=7278"
+    },
+    {
+      "bookmarkId": "3300068898_4_427-452",
+      "chapterUid": 4,
+      "range": "427-452",
+      "markText": "没有哪一次巨大的历史灾难不是以历史的进步为补偿的。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=4&rangeStart=427&rangeEnd=452",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=4&rangeStart=427&rangeEnd=452"
+    },
+    {
+      "bookmarkId": "3300068898_8_6756-6785",
+      "chapterUid": 8,
+      "range": "6756-6785",
+      "markText": "黄埔一期的优秀共产党员、时任团长的蒋先云在这次战役中牺牲。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=8&rangeStart=6756&rangeEnd=6785",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=8&rangeStart=6756&rangeEnd=6785"
+    },
+    {
+      "bookmarkId": "3300068898_6_6679-6704",
+      "chapterUid": 6,
+      "range": "6679-6704",
+      "markText": "“昨晚忧患终夜，不能安眠。今晨八时起床，几欲自杀。",
+      "totalCount": 99,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=6&rangeStart=6679&rangeEnd=6704",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=6&rangeStart=6679&rangeEnd=6704"
+    },
+    {
+      "bookmarkId": "3300068898_5_2953-3030",
+      "chapterUid": 5,
+      "range": "2953-3030",
+      "markText": "国民党人历来主要在上层社会中活动，对会党也只是同一些上层人物有联系，没有深入社会底层去做群众工作的经历，这些发动并组织工农群众的工作几乎都由共产党人去做。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=5&rangeStart=2953&rangeEnd=3030",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=5&rangeStart=2953&rangeEnd=3030"
+    },
+    {
+      "bookmarkId": "3300068898_6_11661-11684",
+      "chapterUid": 6,
+      "range": "11661-11684",
+      "markText": "最恨以下凌上、使人难堪也。如此奇辱，其能忘乎？",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=6&rangeStart=11661&rangeEnd=11684",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=6&rangeStart=11661&rangeEnd=11684"
+    },
+    {
+      "bookmarkId": "3300068898_8_3320-3372",
+      "chapterUid": 8,
+      "range": "3320-3372",
+      "markText": "这次大会并未能根本纠正以陈独秀为首的党中央的右倾错误，仍然坚持了只注重群众运动、忽视掌握军队领导权的错误",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=8&rangeStart=3320&rangeEnd=3372",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=8&rangeStart=3320&rangeEnd=3372"
+    },
+    {
+      "bookmarkId": "3300068898_9_5693-5744",
+      "chapterUid": 9,
+      "range": "5693-5744",
+      "markText": "汪精卫是一个道地的野心家，善于做种种十分逼真的表演。他在国民党内有很高的资历和声望，有着强烈的领袖欲。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=9&rangeStart=5693&rangeEnd=5744",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=9&rangeStart=5693&rangeEnd=5744"
+    },
+    {
+      "bookmarkId": "3300068898_7_3038-3079",
+      "chapterUid": 7,
+      "range": "3038-3079",
+      "markText": "23日，北伐军攻克南京。英美军舰借口溃兵游民的抢劫杀人暴行炮轰南京，制造南京惨案。",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=7&rangeStart=3038&rangeEnd=3079",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=7&rangeStart=3038&rangeEnd=3079"
+    },
+    {
+      "bookmarkId": "3300068898_10_3889-3920",
+      "chapterUid": 10,
+      "range": "3889-3920",
+      "markText": "贺龙毫不迟疑地回答：“我完全听共产党的话，要我怎样干就怎样干。",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=10&rangeStart=3889&rangeEnd=3920",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=10&rangeStart=3889&rangeEnd=3920"
+    },
+    {
+      "bookmarkId": "3300068898_10_4959-5046",
+      "chapterUid": 10,
+      "range": "4959-5046",
+      "markText": "南昌起义军中将星如雨，新中国成立后的十位元帅中朱德、贺龙、刘伯承、聂荣臻、陈毅、林彪参加了南昌起义，叶剑英参与了起义前的商议，以后由于需要他继续隐蔽身份，于是随张发奎部南下。",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=10&rangeStart=4959&rangeEnd=5046",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=10&rangeStart=4959&rangeEnd=5046"
+    },
+    {
+      "bookmarkId": "3300068898_10_480-527",
+      "chapterUid": 10,
+      "range": "480-527",
+      "markText": "第一次国共合作的破裂，标志着大革命的失败，同时标志着中国共产党领导的土地革命这一新时期的开始。",
+      "totalCount": 65,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=10&rangeStart=480&rangeEnd=527",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=10&rangeStart=480&rangeEnd=527"
+    },
+    {
+      "bookmarkId": "3300068898_5_4480-4554",
+      "chapterUid": 5,
+      "range": "4480-4554",
+      "markText": "党军负嵎两广，正如麻绳子扭作一团，刀砍不入，火烧不断，如今他们由珠江流域伸展到长江流域来，就成了一根长绳子，用剪刀一剪就可以剪断，我们岂不省力得多。",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=5&rangeStart=4480&rangeEnd=4554",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=5&rangeStart=4480&rangeEnd=4554"
+    },
+    {
+      "bookmarkId": "3300068898_5_3555-3629",
+      "chapterUid": 5,
+      "range": "3555-3629",
+      "markText": "张作霖曾想借支援吴佩孚、孙传芳之名挥师南下，进攻北伐军。但吴、孙担心奉军南下会夺去他们的地盘而婉拒。所以，直接面对北伐军作战的，其实只有吴、孙两部。",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=5&rangeStart=3555&rangeEnd=3629",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=5&rangeStart=3555&rangeEnd=3629"
+    },
+    {
+      "bookmarkId": "3300068898_7_13389-13478",
+      "chapterUid": 7,
+      "range": "13389-13478",
+      "markText": "可见，从国民党方面的传统力量来说，南京并不比武汉占优势。它的优势主要在于控制沪宁后江浙金融资本的财力、北洋军阀部队纷纷投入的兵力、日英等支持的外力以及蒋的国民革命军总司令的名号。",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=7&rangeStart=13389&rangeEnd=13478",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=7&rangeStart=13389&rangeEnd=13478"
+    },
+    {
+      "bookmarkId": "3300068898_8_1174-1189",
+      "chapterUid": 8,
+      "range": "1174-1189",
+      "markText": "不能说共产国际这个决议一无是处",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=8&rangeStart=1174&rangeEnd=1189",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=8&rangeStart=1174&rangeEnd=1189"
+    },
+    {
+      "bookmarkId": "3300068898_10_10514-10549",
+      "chapterUid": 10,
+      "range": "10514-10549",
+      "markText": "巨大的历史灾难通常会以历史的进步作为补偿，这正是历史辩证法告诉我们的。",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=10&rangeStart=10514&rangeEnd=10549",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=10&rangeStart=10514&rangeEnd=10549"
+    },
+    {
+      "bookmarkId": "3300068898_4_739-824",
+      "chapterUid": 4,
+      "range": "739-824",
+      "markText": "事实恰恰相反。惨痛的失败深刻地教育了共产党人，他们从失败的惨痛教训中懂得了许多以前不明白的道理，重新考虑以后该怎么做，从而在极端困难中闯出一条新路，把革命推向更高的阶段。",
+      "totalCount": 55,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=4&rangeStart=739&rangeEnd=824",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=4&rangeStart=739&rangeEnd=824"
+    },
+    {
+      "bookmarkId": "3300068898_5_5622-5676",
+      "chapterUid": 5,
+      "range": "5622-5676",
+      "markText": "参加的有国民党中央执行委员邹鲁、林森、居正、叶楚伧等八人，中央监察委员谢持、张继两人，都是老资格的国民党员。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=5&rangeStart=5622&rangeEnd=5676",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=5&rangeStart=5622&rangeEnd=5676"
+    },
+    {
+      "bookmarkId": "3300068898_6_14952-14995",
+      "chapterUid": 6,
+      "range": "14952-14995",
+      "markText": "大多数领导成员很年轻，只有二三十岁，以往主要从事工人运动和学生运动，社会政治经验不足。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300068898&chapterUid=6&rangeStart=14952&rangeEnd=14995",
+      "webLink": "https://weread.qq.com/web/reader/f3f32fe0813ab8169g018d97?chapterUid=6&rangeStart=14952&rangeEnd=14995"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 5,
+    "chapterOffset": 0,
+    "progress": 100,
+    "updateTime": 1740444124,
+    "recordReadingTime": 0,
+    "finishTime": 1723718668
+  }
+}

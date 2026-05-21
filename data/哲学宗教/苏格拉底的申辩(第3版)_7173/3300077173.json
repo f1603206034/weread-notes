@@ -1,0 +1,487 @@
+{
+  "meta": {
+    "bookId": "3300077173",
+    "title": "苏格拉底的申辩(第3版)",
+    "author": "[古希腊]柏拉图",
+    "translator": "吴飞",
+    "cover": "https://cdn.weread.qq.com/weread/cover/58/cpplatform_wao9wvnxmb6vquaumyuejc/t6_cpplatform_wao9wvnxmb6vquaumyuejc1699431654.jpg",
+    "intro": "公元前399年，古希腊哲人苏格拉底被指控不敬神、败坏青年，于是他在由500人组成的陪审团面前作了著名的申辩。在审判官面前，苏格拉底自豪地宣布，他的生活是哲学生活，因而是一种值得过的生活，同样是在这些审判官面前，他又骄傲地选择了本来不一定要选择地死刑。苏格拉底之死成为西方哲学史上的核心事件，对西方思想有着重要而深远的影响。本版《苏格拉底的申辩》由北京大学吴飞教授译疏，吴飞老师参阅近年各家新出译本，在旧版基础上进行全新修订。",
+    "category": "哲学宗教-西方哲学",
+    "publisher": "华夏出版社有限公司",
+    "publishTime": "2023-05-01 00:00:00",
+    "isbn": "9787522204475",
+    "wordCount": 0,
+    "newRating": 868,
+    "newRatingCount": 1689,
+    "newRatingDetail": {
+      "good": 1480,
+      "fair": 170,
+      "poor": 39,
+      "recent": 64,
+      "deepV": 641,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=3300077173",
+    "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d",
+    "lastSync": "2026-05-21T11:49:41Z",
+    "readingProgress": "5%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 124,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "“柏拉图读本”出版说明",
+      "level": 1,
+      "wordCount": 1194,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "编译说明",
+      "level": 1,
+      "wordCount": 1025,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "苏格拉底的申辩",
+      "level": 1,
+      "wordCount": 402,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一场演说",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "开场白",
+      "level": 3,
+      "wordCount": 1652,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "驳斥以前的诽谤(1)",
+      "level": 3,
+      "wordCount": 1043,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "驳斥以前的诽谤(2)",
+      "level": 3,
+      "wordCount": 3680,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "正式申辩(1)",
+      "level": 3,
+      "wordCount": 759,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "正式申辩(2)",
+      "level": 3,
+      "wordCount": 3226,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "离题话(1)",
+      "level": 3,
+      "wordCount": 1703,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "离题话(2)",
+      "level": 3,
+      "wordCount": 4151,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "结束语(1)",
+      "level": 3,
+      "wordCount": 698,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "结束语(2)",
+      "level": 3,
+      "wordCount": 632,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第二场演说",
+      "level": 2,
+      "wordCount": 2793,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第三场演说",
+      "level": 2,
+      "wordCount": 3764,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300077173&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=16"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 15,
+      "chapterTitle": "第二场演说",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300077173_15_8259-8277",
+          "range": "8259-8277",
+          "rangeStart": 8259,
+          "rangeEnd": 8277,
+          "markText": "对人而言，缺乏省察的生活根本不值得过",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1752712005,
+          "createTimeFormatted": "2025-07-17 08:26:45",
+          "chapterUid": 15,
+          "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=15&rangeStart=8259&rangeEnd=8277",
+          "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=15&rangeStart=8259&rangeEnd=8277"
+        }
+      ]
+    },
+    {
+      "chapterUid": 8,
+      "chapterTitle": "驳斥以前的诽谤(2)",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300077173_8_14788-14803",
+          "range": "14788-14803",
+          "rangeStart": 14788,
+          "rangeEnd": 14803,
+          "markText": "他们虽假装知道，其实一无所知。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1752712001,
+          "createTimeFormatted": "2025-07-17 08:26:41",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=8&rangeStart=14788&rangeEnd=14803",
+          "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=8&rangeStart=14788&rangeEnd=14803"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300077173_8_6847-6885",
+      "chapterUid": 8,
+      "range": "6847-6885",
+      "markText": "所以，我似乎在这个方面比这人智慧一点点，因为我绝不认为自己懂得自己所不懂的。",
+      "totalCount": 1216,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=8&rangeStart=6847&rangeEnd=6885",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=8&rangeStart=6847&rangeEnd=6885"
+    },
+    {
+      "bookmarkId": "3300077173_16_13370-13436",
+      "chapterUid": 16,
+      "range": "13370-13436",
+      "markText": "就到这里吧，因为分别的时候到啦，虽然我就要赴死，你们还会继续活，但我们双方究竟哪个命数更好，谁又能知道？——呜呼，厥知惟[a5]神！",
+      "totalCount": 1120,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=16&rangeStart=13370&rangeEnd=13436",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=16&rangeStart=13370&rangeEnd=13436"
+    },
+    {
+      "bookmarkId": "3300077173_11_7983-8055",
+      "chapterUid": 11,
+      "range": "7983-8055",
+      "markText": "居然只去关心如何才能赚取尽可能多的钱财、[29e]名望和荣誉，却既不关心也不思考明智、真理以及如何让灵魂尽可能变得最好，难道你们就不感到羞愧吗？",
+      "totalCount": 1110,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=11&rangeStart=7983&rangeEnd=8055",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=11&rangeStart=7983&rangeEnd=8055"
+    },
+    {
+      "bookmarkId": "3300077173_8_12307-12364",
+      "chapterUid": 8,
+      "range": "12307-12364",
+      "markText": "凡夫俗子们，你们中随便什么人，只要能像苏格拉底那样认识到，自己在智慧方面真正说来毫无价值，那么，他就是最智慧的人”",
+      "totalCount": 954,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=8&rangeStart=12307&rangeEnd=12364",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=8&rangeStart=12307&rangeEnd=12364"
+    },
+    {
+      "bookmarkId": "3300077173_8_10839-10905",
+      "chapterUid": 8,
+      "range": "10839-10905",
+      "markText": "由于能出色地完成本行的手艺活，每个人就号称自己在别的最重大的事情上也都最智慧。他们这种离谱的大错反而[22e]遮蔽了自己的那种巧智。",
+      "totalCount": 800,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=8&rangeStart=10839&rangeEnd=10905",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=8&rangeStart=10839&rangeEnd=10905"
+    },
+    {
+      "bookmarkId": "3300077173_15_8259-8277",
+      "chapterUid": 15,
+      "range": "8259-8277",
+      "markText": "对人而言，缺乏省察的生活根本不值得过",
+      "totalCount": 736,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=15&rangeStart=8259&rangeEnd=8277",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=15&rangeStart=8259&rangeEnd=8277"
+    },
+    {
+      "bookmarkId": "3300077173_8_10002-10030",
+      "chapterUid": 8,
+      "range": "10002-10030",
+      "markText": "因为他们虽说了很多美妙的话，其实并不理解自己所说的东西。",
+      "totalCount": 684,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=8&rangeStart=10002&rangeEnd=10030",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=8&rangeStart=10002&rangeEnd=10030"
+    },
+    {
+      "bookmarkId": "3300077173_15_627-711",
+      "chapterUid": 15,
+      "range": "627-711",
+      "markText": "但他为什么要故意激怒陪审团，处处跟同胞们作对，主动“找死”，或许反对他和支持他的人都不理解。的确，这不是一次成功的“申辩”，却无疑是西方思想史上最成功最生动的“教谕”。",
+      "totalCount": 663,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=15&rangeStart=627&rangeEnd=711",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=15&rangeStart=627&rangeEnd=711"
+    },
+    {
+      "bookmarkId": "3300077173_6_3759-3837",
+      "chapterUid": 6,
+      "range": "3759-3837",
+      "markText": "无论我的说话方式好也罢、歹也罢，都请只考虑这样一点，并把心思转到这一点上，即看[a5]我说的究竟正当与否——因为这才是法官的职责，而演说者之德则在于讲真话。",
+      "totalCount": 615,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=6&rangeStart=3759&rangeEnd=3837",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=6&rangeStart=3759&rangeEnd=3837"
+    },
+    {
+      "bookmarkId": "3300077173_8_8083-8151",
+      "chapterUid": 8,
+      "range": "8083-8151",
+      "markText": "遵从那位神明做了一番探究之后，我发现那些名气最大的人，几乎都最差劲，[a5]而另外那些看上去更低贱的人，却因为明智，反倒更平和持中一些。",
+      "totalCount": 612,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=8&rangeStart=8083&rangeEnd=8151",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=8&rangeStart=8083&rangeEnd=8151"
+    },
+    {
+      "bookmarkId": "3300077173_12_1602-1648",
+      "chapterUid": 12,
+      "range": "1602-1648",
+      "markText": "美德不来自钱财，相反，钱财以及世人其他所有好东西，无论私人生活还是公共生活中的，都来自美德。",
+      "totalCount": 570,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=12&rangeStart=1602&rangeEnd=1648",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=12&rangeStart=1602&rangeEnd=1648"
+    },
+    {
+      "bookmarkId": "3300077173_8_14788-14803",
+      "chapterUid": 8,
+      "range": "14788-14803",
+      "markText": "他们虽假装知道，其实一无所知。",
+      "totalCount": 540,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=8&rangeStart=14788&rangeEnd=14803",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=8&rangeStart=14788&rangeEnd=14803"
+    },
+    {
+      "bookmarkId": "3300077173_5_948-1031",
+      "chapterUid": 5,
+      "range": "948-1031",
+      "markText": "最终，苏格拉底不愿意通过苦苦哀求和装可怜等方式博取陪审团的同情而获释，因为这与他的人生信条不合。当然，这也是为了不给陪审团添麻烦，免得他们违背司法誓言而做出不义之举。",
+      "totalCount": 490,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=5&rangeStart=948&rangeEnd=1031",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=5&rangeStart=948&rangeEnd=1031"
+    },
+    {
+      "bookmarkId": "3300077173_6_6038-6086",
+      "chapterUid": 6,
+      "range": "6038-6086",
+      "markText": "他们在你们最容易轻信的年龄就对你们说那些话，因为你们中的一些人当时还是小孩子，有些人也只是小伙子",
+      "totalCount": 468,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=6&rangeStart=6038&rangeEnd=6086",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=6&rangeStart=6038&rangeEnd=6086"
+    },
+    {
+      "bookmarkId": "3300077173_8_15844-15880",
+      "chapterUid": 8,
+      "range": "15844-15880",
+      "markText": "总而言之，对于最先控告我的人所控告的罪名，这就是在你们面前的充分辩护了。",
+      "totalCount": 459,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=8&rangeStart=15844&rangeEnd=15880",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=8&rangeStart=15844&rangeEnd=15880"
+    },
+    {
+      "bookmarkId": "3300077173_3_857-913",
+      "chapterUid": 3,
+      "range": "857-913",
+      "markText": "自有柏拉图书，借用我国古人的说法，可谓“天地已洩其秘，而浑穆醇庞之气，人日由其中而不知是道寄于人，而学寄于天”。",
+      "totalCount": 450,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=3&rangeStart=857&rangeEnd=913",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=3&rangeStart=857&rangeEnd=913"
+    },
+    {
+      "bookmarkId": "3300077173_16_1957-2012",
+      "chapterUid": 16,
+      "range": "1957-2012",
+      "markText": "我之所以被定罪，根本不是由于我拙于言辞，而是因为我没有那么胆大妄为和厚颜无耻，愿意对你们说那些你们最乐于听的话",
+      "totalCount": 450,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=16&rangeStart=1957&rangeEnd=2012",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=16&rangeStart=1957&rangeEnd=2012"
+    },
+    {
+      "bookmarkId": "3300077173_8_11992-12014",
+      "chapterUid": 8,
+      "range": "11992-12014",
+      "markText": "人的智慧没有多大价值，甚至根本就没有任何价值",
+      "totalCount": 448,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=8&rangeStart=11992&rangeEnd=12014",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=8&rangeStart=11992&rangeEnd=12014"
+    },
+    {
+      "bookmarkId": "3300077173_13_2670-2744",
+      "chapterUid": 13,
+      "range": "2670-2744",
+      "markText": "我经常看到那类人，[a5]尽管也颇有名望，但一旦受审，就会干出稀奇古怪的事，他们好像把被判死刑看作可怕的事情，仿佛你们不处死他们，他们就会不死一样。",
+      "totalCount": 448,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=13&rangeStart=2670&rangeEnd=2744",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=13&rangeStart=2670&rangeEnd=2744"
+    },
+    {
+      "bookmarkId": "3300077173_10_974-1029",
+      "chapterUid": 10,
+      "range": "974-1029",
+      "markText": "那么，看起来，除了我，所有雅典人都在让人变得[a10]高贵善良，竟然只有我一个人在败坏他们！你就是这个意思吧？",
+      "totalCount": 425,
+      "appLink": "weread://bestbookmark?bookId=3300077173&chapterUid=10&rangeStart=974&rangeEnd=1029",
+      "webLink": "https://weread.qq.com/web/reader/b4a322d0813ab84a5g013c2d?chapterUid=10&rangeStart=974&rangeEnd=1029"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 6,
+    "chapterOffset": 2011,
+    "progress": 5,
+    "updateTime": 1765423054,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

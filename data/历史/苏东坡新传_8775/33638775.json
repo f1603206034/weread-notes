@@ -1,0 +1,1399 @@
+{
+  "meta": {
+    "bookId": "33638775",
+    "title": "苏东坡新传",
+    "author": "李一冰",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/2/yuewen_33638775/t6_yuewen_336387751685962456.jpg",
+    "intro": "苏东坡，天赋异禀的大文豪，无可救药的乐天派……他的标签很多，却难以被标签定义。居高处为翰林学士，落低谷为狱中囚犯，一生波澜曲折都在诗里见。本书即以东坡诗词为主线，兼及东坡文集、后人笔记等百余种资料，以坚实的考订和热情的笔触，呈现出一个立体的东坡形象。全新增订版特别收录《寻找李一冰》和《缥缈孤鸿影──父亲与〈苏东坡新传〉》，追寻谜样作者和出版缘由，附录《苏轼及宋朝大事年表》。",
+    "category": "历史-中国古代",
+    "publisher": "四川人民出版社",
+    "publishTime": "2020-05-01 00:00:00",
+    "isbn": "9787220118043",
+    "wordCount": 0,
+    "newRating": 928,
+    "newRatingCount": 6408,
+    "newRatingDetail": {
+      "good": 6058,
+      "fair": 250,
+      "poor": 100,
+      "recent": 71,
+      "deepV": 1654,
+      "myRating": "",
+      "title": "神作"
+    },
+    "appLink": "weread://reading?bId=33638775",
+    "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5",
+    "lastSync": "2026-05-21T11:51:17Z",
+    "readingProgress": "8%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 8,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "e909db18213f0c26dd17c5aff8dc2780cd00d09965549aecfb4babc72329bfa2"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33638775&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=1"
+    },
+    {
+      "chapterUid": 146,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 125,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33638775&chapterUid=146",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=146"
+    },
+    {
+      "chapterUid": 147,
+      "chapterIdx": 3,
+      "title": "寻找李一冰",
+      "level": 1,
+      "wordCount": 7487,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33638775&chapterUid=147",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=147"
+    },
+    {
+      "chapterUid": 148,
+      "chapterIdx": 4,
+      "title": "第一章 食蓼少年",
+      "level": 1,
+      "wordCount": 41261,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 食蓼少年",
+          "anchor": "sigil_toc_id_1",
+          "level": 1
+        },
+        {
+          "title": "一 蜀道难",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "二 宋之平蜀",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "三 世系",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        },
+        {
+          "title": "四 双亲",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "五 少年",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        },
+        {
+          "title": "六 但愿一识张益州",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "七 登进士第",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "八 母丧",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "九 南行",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        },
+        {
+          "title": "十 老苏的一官难求",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        },
+        {
+          "title": "十一 制策之试",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=148",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148"
+    },
+    {
+      "chapterUid": 149,
+      "chapterIdx": 5,
+      "title": "第二章 变法与党争",
+      "level": 1,
+      "wordCount": 43621,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二章 变法与党争",
+          "anchor": "sigil_toc_id_13",
+          "level": 1
+        },
+        {
+          "title": "一 初仕凤翔",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        },
+        {
+          "title": "二 怀乡念弟",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        },
+        {
+          "title": "三 陈希亮",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        },
+        {
+          "title": "四 亡妻·丧父",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        },
+        {
+          "title": "五 荆公变法",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        },
+        {
+          "title": "六 党争的发端",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        },
+        {
+          "title": "七 新政暴风",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        },
+        {
+          "title": "八 上皇帝书",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        },
+        {
+          "title": "九 遭诬",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        },
+        {
+          "title": "十 惘惘出都",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=149",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=149"
+    },
+    {
+      "chapterUid": 150,
+      "chapterIdx": 6,
+      "title": "第三章 马入尘埃",
+      "level": 1,
+      "wordCount": 40185,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第三章 马入尘埃",
+          "anchor": "sigil_toc_id_24",
+          "level": 1
+        },
+        {
+          "title": "一 湖畔孤鸿",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        },
+        {
+          "title": "二 湖寺寻僧",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        },
+        {
+          "title": "三 监试乡举",
+          "anchor": "sigil_toc_id_27",
+          "level": 2
+        },
+        {
+          "title": "四 相度堤岸工程",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        },
+        {
+          "title": "五 富春山行",
+          "anchor": "sigil_toc_id_29",
+          "level": 2
+        },
+        {
+          "title": "六 红裙白酒",
+          "anchor": "sigil_toc_id_30",
+          "level": 2
+        },
+        {
+          "title": "七 常润道中",
+          "anchor": "sigil_toc_id_31",
+          "level": 2
+        },
+        {
+          "title": "八 别西湖",
+          "anchor": "sigil_toc_id_32",
+          "level": 2
+        },
+        {
+          "title": "九 密州利病",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        },
+        {
+          "title": "十 超然台与盖公堂",
+          "anchor": "sigil_toc_id_34",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=150",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=150"
+    },
+    {
+      "chapterUid": 151,
+      "chapterIdx": 7,
+      "title": "第四章 黄楼",
+      "level": 1,
+      "wordCount": 23744,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第四章 黄楼",
+          "anchor": "sigil_toc_id_35",
+          "level": 1
+        },
+        {
+          "title": "一 作客东园",
+          "anchor": "sigil_toc_id_36",
+          "level": 2
+        },
+        {
+          "title": "二 谏用兵书",
+          "anchor": "sigil_toc_id_37",
+          "level": 2
+        },
+        {
+          "title": "三 徐州大水",
+          "anchor": "sigil_toc_id_38",
+          "level": 2
+        },
+        {
+          "title": "四 秦七黄九",
+          "anchor": "sigil_toc_id_39",
+          "level": 2
+        },
+        {
+          "title": "五 黄楼之会",
+          "anchor": "sigil_toc_id_40",
+          "level": 2
+        },
+        {
+          "title": "六 诗僧参寥",
+          "anchor": "sigil_toc_id_41",
+          "level": 2
+        },
+        {
+          "title": "七 文同",
+          "anchor": "sigil_toc_id_42",
+          "level": 2
+        },
+        {
+          "title": "八 重游江南",
+          "anchor": "sigil_toc_id_43",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=151",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=151"
+    },
+    {
+      "chapterUid": 152,
+      "chapterIdx": 8,
+      "title": "第五章 乌台诗狱",
+      "level": 1,
+      "wordCount": 17149,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第五章 乌台诗狱",
+          "anchor": "sigil_toc_id_44",
+          "level": 1
+        },
+        {
+          "title": "一 始作俑者——沈括",
+          "anchor": "sigil_toc_id_45",
+          "level": 2
+        },
+        {
+          "title": "二 被台谏围剿",
+          "anchor": "sigil_toc_id_46",
+          "level": 2
+        },
+        {
+          "title": "三 追捕",
+          "anchor": "sigil_toc_id_47",
+          "level": 2
+        },
+        {
+          "title": "四 勘问",
+          "anchor": "sigil_toc_id_48",
+          "level": 2
+        },
+        {
+          "title": "五 审理",
+          "anchor": "sigil_toc_id_49",
+          "level": 2
+        },
+        {
+          "title": "六 论救",
+          "anchor": "sigil_toc_id_50",
+          "level": 2
+        },
+        {
+          "title": "七 定谳",
+          "anchor": "sigil_toc_id_51",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=152",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=152"
+    },
+    {
+      "chapterUid": 153,
+      "chapterIdx": 9,
+      "title": "第六章 黄州五年",
+      "level": 1,
+      "wordCount": 50669,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第六章 黄州五年",
+          "anchor": "sigil_toc_id_52",
+          "level": 1
+        },
+        {
+          "title": "一 出狱赴黄",
+          "anchor": "sigil_toc_id_53",
+          "level": 2
+        },
+        {
+          "title": "二 初到黄州",
+          "anchor": "sigil_toc_id_54",
+          "level": 2
+        },
+        {
+          "title": "三 孤立于风雨沙洲",
+          "anchor": "sigil_toc_id_55",
+          "level": 2
+        },
+        {
+          "title": "四 朋友",
+          "anchor": "sigil_toc_id_56",
+          "level": 2
+        },
+        {
+          "title": "五 东坡",
+          "anchor": "sigil_toc_id_57",
+          "level": 2
+        },
+        {
+          "title": "六 书斋生活",
+          "anchor": "sigil_toc_id_58",
+          "level": 2
+        },
+        {
+          "title": "七 饮食生活",
+          "anchor": "sigil_toc_id_59",
+          "level": 2
+        },
+        {
+          "title": "八 黄泥坂和赤壁",
+          "anchor": "sigil_toc_id_60",
+          "level": 2
+        },
+        {
+          "title": "九 临皋·东坡·雪堂",
+          "anchor": "sigil_toc_id_61",
+          "level": 2
+        },
+        {
+          "title": "十 老农忧国",
+          "anchor": "sigil_toc_id_62",
+          "level": 2
+        },
+        {
+          "title": "十一 神宗的救赎",
+          "anchor": "sigil_toc_id_63",
+          "level": 2
+        },
+        {
+          "title": "十二 别黄州",
+          "anchor": "sigil_toc_id_64",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=153",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=153"
+    },
+    {
+      "chapterUid": 154,
+      "chapterIdx": 10,
+      "title": "第七章 飘泊江淮",
+      "level": 1,
+      "wordCount": 25993,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第七章 飘泊江淮",
+          "anchor": "sigil_toc_id_65",
+          "level": 1
+        },
+        {
+          "title": "一 庐山纪游",
+          "anchor": "sigil_toc_id_66",
+          "level": 2
+        },
+        {
+          "title": "二 访弟·殇子",
+          "anchor": "sigil_toc_id_67",
+          "level": 2
+        },
+        {
+          "title": "三 金陵谒荆公",
+          "anchor": "sigil_toc_id_68",
+          "level": 2
+        },
+        {
+          "title": "四 求田问舍",
+          "anchor": "sigil_toc_id_69",
+          "level": 2
+        },
+        {
+          "title": "五 南都来去",
+          "anchor": "sigil_toc_id_70",
+          "level": 2
+        },
+        {
+          "title": "六 阳羡一梦",
+          "anchor": "sigil_toc_id_71",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=154",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=154"
+    },
+    {
+      "chapterUid": 155,
+      "chapterIdx": 11,
+      "title": "第八章 风雨京华",
+      "level": 1,
+      "wordCount": 46955,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第八章 风雨京华",
+          "anchor": "sigil_toc_id_72",
+          "level": 1
+        },
+        {
+          "title": "一 元祐更化",
+          "anchor": "sigil_toc_id_73",
+          "level": 2
+        },
+        {
+          "title": "二 从调和到冲突",
+          "anchor": "sigil_toc_id_74",
+          "level": 2
+        },
+        {
+          "title": "三 不到中书不是官",
+          "anchor": "sigil_toc_id_75",
+          "level": 2
+        },
+        {
+          "title": "四 老成凋谢",
+          "anchor": "sigil_toc_id_76",
+          "level": 2
+        },
+        {
+          "title": "五 学士院风波",
+          "anchor": "sigil_toc_id_77",
+          "level": 2
+        },
+        {
+          "title": "六 经筵与驱程",
+          "anchor": "sigil_toc_id_78",
+          "level": 2
+        },
+        {
+          "title": "七 元祐党争",
+          "anchor": "sigil_toc_id_79",
+          "level": 2
+        },
+        {
+          "title": "八 一士谔谔",
+          "anchor": "sigil_toc_id_80",
+          "level": 2
+        },
+        {
+          "title": "九 试院抡才",
+          "anchor": "sigil_toc_id_81",
+          "level": 2
+        },
+        {
+          "title": "十 金莲烛",
+          "anchor": "sigil_toc_id_82",
+          "level": 2
+        },
+        {
+          "title": "十一 乞郡避谤",
+          "anchor": "sigil_toc_id_83",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=155",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=155"
+    },
+    {
+      "chapterUid": 156,
+      "chapterIdx": 12,
+      "title": "第九章 书斋内外",
+      "level": 1,
+      "wordCount": 45594,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第九章 书斋内外",
+          "anchor": "sigil_toc_id_84",
+          "level": 1
+        },
+        {
+          "title": "一 一家融融",
+          "anchor": "sigil_toc_id_85",
+          "level": 2
+        },
+        {
+          "title": "二 苏门六君子",
+          "anchor": "sigil_toc_id_86",
+          "level": 2
+        },
+        {
+          "title": "三 王巩",
+          "anchor": "sigil_toc_id_87",
+          "level": 2
+        },
+        {
+          "title": "四 画友",
+          "anchor": "sigil_toc_id_88",
+          "level": 2
+        },
+        {
+          "title": "五 文字生涯",
+          "anchor": "sigil_toc_id_89",
+          "level": 2
+        },
+        {
+          "title": "六 书法",
+          "anchor": "sigil_toc_id_90",
+          "level": 2
+        },
+        {
+          "title": "七 绘画",
+          "anchor": "sigil_toc_id_91",
+          "level": 2
+        },
+        {
+          "title": "八 书斋文物",
+          "anchor": "sigil_toc_id_92",
+          "level": 2
+        },
+        {
+          "title": "九 宴游和谐谑",
+          "anchor": "sigil_toc_id_93",
+          "level": 2
+        },
+        {
+          "title": "十 重结西湖缘",
+          "anchor": "sigil_toc_id_94",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=156",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=156"
+    },
+    {
+      "chapterUid": 157,
+      "chapterIdx": 13,
+      "title": "第十章 杭州去来",
+      "level": 1,
+      "wordCount": 44670,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十章 杭州去来",
+          "anchor": "sigil_toc_id_95",
+          "level": 1
+        },
+        {
+          "title": "一 储粮防灾",
+          "anchor": "sigil_toc_id_96",
+          "level": 2
+        },
+        {
+          "title": "二 吏治",
+          "anchor": "sigil_toc_id_97",
+          "level": 2
+        },
+        {
+          "title": "三 治六井·开西湖",
+          "anchor": "sigil_toc_id_98",
+          "level": 2
+        },
+        {
+          "title": "四 僚友",
+          "anchor": "sigil_toc_id_99",
+          "level": 2
+        },
+        {
+          "title": "五 方外交",
+          "anchor": "sigil_toc_id_100",
+          "level": 2
+        },
+        {
+          "title": "六 救灾和水利",
+          "anchor": "sigil_toc_id_101",
+          "level": 2
+        },
+        {
+          "title": "七 奉召还朝",
+          "anchor": "sigil_toc_id_102",
+          "level": 2
+        },
+        {
+          "title": "八 破琴之梦",
+          "anchor": "sigil_toc_id_103",
+          "level": 2
+        },
+        {
+          "title": "九 竹寺题诗案",
+          "anchor": "sigil_toc_id_104",
+          "level": 2
+        },
+        {
+          "title": "十 东府感旧",
+          "anchor": "sigil_toc_id_105",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=157",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=157"
+    },
+    {
+      "chapterUid": 158,
+      "chapterIdx": 14,
+      "title": "第十一章 颍州·扬州·定州",
+      "level": 1,
+      "wordCount": 45274,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十一章 颍州·扬州·定州",
+          "anchor": "sigil_toc_id_106",
+          "level": 1
+        },
+        {
+          "title": "一 颍水之鱼",
+          "anchor": "sigil_toc_id_107",
+          "level": 2
+        },
+        {
+          "title": "二 颍扬之治",
+          "anchor": "sigil_toc_id_108",
+          "level": 2
+        },
+        {
+          "title": "三 广陵生活",
+          "anchor": "sigil_toc_id_109",
+          "level": 2
+        },
+        {
+          "title": "四 初和陶诗",
+          "anchor": "sigil_toc_id_110",
+          "level": 2
+        },
+        {
+          "title": "五 二次还朝",
+          "anchor": "sigil_toc_id_111",
+          "level": 2
+        },
+        {
+          "title": "六 再被围攻",
+          "anchor": "sigil_toc_id_112",
+          "level": 2
+        },
+        {
+          "title": "七 丧偶",
+          "anchor": "sigil_toc_id_113",
+          "level": 2
+        },
+        {
+          "title": "八 太后崩逝",
+          "anchor": "sigil_toc_id_114",
+          "level": 2
+        },
+        {
+          "title": "九 守边定州",
+          "anchor": "sigil_toc_id_115",
+          "level": 2
+        },
+        {
+          "title": "十 再遭谪逐",
+          "anchor": "sigil_toc_id_116",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=158",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=158"
+    },
+    {
+      "chapterUid": 159,
+      "chapterIdx": 15,
+      "title": "第十二章 惠州流人",
+      "level": 1,
+      "wordCount": 50881,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十二章 惠州流人",
+          "anchor": "sigil_toc_id_117",
+          "level": 1
+        },
+        {
+          "title": "一 远谪南荒",
+          "anchor": "sigil_toc_id_118",
+          "level": 2
+        },
+        {
+          "title": "二 过岭",
+          "anchor": "sigil_toc_id_119",
+          "level": 2
+        },
+        {
+          "title": "三 初到惠州",
+          "anchor": "sigil_toc_id_120",
+          "level": 2
+        },
+        {
+          "title": "四 借刀杀人之计",
+          "anchor": "sigil_toc_id_121",
+          "level": 2
+        },
+        {
+          "title": "五 劳己以“为人”",
+          "anchor": "sigil_toc_id_122",
+          "level": 2
+        },
+        {
+          "title": "六 服食养生",
+          "anchor": "sigil_toc_id_123",
+          "level": 2
+        },
+        {
+          "title": "七 朝云之死",
+          "anchor": "sigil_toc_id_124",
+          "level": 2
+        },
+        {
+          "title": "八 惠州和陶",
+          "anchor": "sigil_toc_id_125",
+          "level": 2
+        },
+        {
+          "title": "九 白鹤峰新居",
+          "anchor": "sigil_toc_id_126",
+          "level": 2
+        },
+        {
+          "title": "十 又贬海外",
+          "anchor": "sigil_toc_id_127",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=159",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=159"
+    },
+    {
+      "chapterUid": 160,
+      "chapterIdx": 16,
+      "title": "第十三章 海外东坡",
+      "level": 1,
+      "wordCount": 28788,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十三章 海外东坡",
+          "anchor": "sigil_toc_id_128",
+          "level": 1
+        },
+        {
+          "title": "一 海南风土",
+          "anchor": "sigil_toc_id_129",
+          "level": 2
+        },
+        {
+          "title": "二 食芋饮水",
+          "anchor": "sigil_toc_id_130",
+          "level": 2
+        },
+        {
+          "title": "三 房屋风波",
+          "anchor": "sigil_toc_id_131",
+          "level": 2
+        },
+        {
+          "title": "四 读书著作",
+          "anchor": "sigil_toc_id_132",
+          "level": 2
+        },
+        {
+          "title": "五 家人朋友",
+          "anchor": "sigil_toc_id_133",
+          "level": 2
+        },
+        {
+          "title": "六 采药与造墨",
+          "anchor": "sigil_toc_id_134",
+          "level": 2
+        },
+        {
+          "title": "七 别海南",
+          "anchor": "sigil_toc_id_135",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=160",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=160"
+    },
+    {
+      "chapterUid": 161,
+      "chapterIdx": 17,
+      "title": "第十四章 北归",
+      "level": 1,
+      "wordCount": 35354,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十四章 北归",
+          "anchor": "sigil_toc_id_136",
+          "level": 1
+        },
+        {
+          "title": "一 秦观之丧",
+          "anchor": "sigil_toc_id_137",
+          "level": 2
+        },
+        {
+          "title": "二 广州·英州",
+          "anchor": "sigil_toc_id_138",
+          "level": 2
+        },
+        {
+          "title": "三 韶州",
+          "anchor": "sigil_toc_id_139",
+          "level": 2
+        },
+        {
+          "title": "四 虔州",
+          "anchor": "sigil_toc_id_140",
+          "level": 2
+        },
+        {
+          "title": "五 归程何处是",
+          "anchor": "sigil_toc_id_141",
+          "level": 2
+        },
+        {
+          "title": "六 染疾",
+          "anchor": "sigil_toc_id_142",
+          "level": 2
+        },
+        {
+          "title": "七 逝世",
+          "anchor": "sigil_toc_id_143",
+          "level": 2
+        },
+        {
+          "title": "八 浩气不亡",
+          "anchor": "sigil_toc_id_144",
+          "level": 2
+        },
+        {
+          "title": "九 子孙",
+          "anchor": "sigil_toc_id_145",
+          "level": 2
+        },
+        {
+          "title": "十 身后",
+          "anchor": "sigil_toc_id_146",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=33638775&chapterUid=161",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=161"
+    },
+    {
+      "chapterUid": 162,
+      "chapterIdx": 18,
+      "title": "后记",
+      "level": 1,
+      "wordCount": 6993,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33638775&chapterUid=162",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=162"
+    },
+    {
+      "chapterUid": 163,
+      "chapterIdx": 19,
+      "title": "缥缈孤鸿影：父亲与《苏东坡新传》",
+      "level": 1,
+      "wordCount": 1901,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33638775&chapterUid=163",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=163"
+    },
+    {
+      "chapterUid": 164,
+      "chapterIdx": 20,
+      "title": "附录 苏轼及宋大事年表",
+      "level": 1,
+      "wordCount": 20,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33638775&chapterUid=164",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=164"
+    },
+    {
+      "chapterUid": 165,
+      "chapterIdx": 21,
+      "title": "插图",
+      "level": 1,
+      "wordCount": 307,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33638775&chapterUid=165",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=165"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 148,
+      "chapterTitle": "第一章 食蓼少年",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "33638775_13_1121-1132",
+          "range": "43222-43233",
+          "rangeStart": 43222,
+          "rangeEnd": 43233,
+          "markText": "故乡飘已远，往意浩无边",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1647590978,
+          "createTimeFormatted": "2022-03-18 16:09:38",
+          "chapterUid": 148,
+          "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=43222&rangeEnd=43233",
+          "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=43222&rangeEnd=43233"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "33638775_13_683-746",
+          "range": "42720-42783",
+          "rangeStart": 42720,
+          "rangeEnd": 42783,
+          "markText": "岷山之阳土如腴，江水清滑多鲤鱼。古人居之富者众，我独厌倦思移居。经行天下爱嵩岳，遂欲买地居妻孥。晴原漫漫望不尽，山色照野光如濡",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1647590910,
+          "createTimeFormatted": "2022-03-18 16:08:30",
+          "chapterUid": 148,
+          "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=42720&rangeEnd=42783",
+          "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=42720&rangeEnd=42783"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "33638775_9_1296-1306",
+          "range": "17500-17510",
+          "rangeStart": 17500,
+          "rangeEnd": 17510,
+          "markText": "冰肌玉骨，自清凉无汗",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1647392364,
+          "createTimeFormatted": "2022-03-16 08:59:24",
+          "chapterUid": 148,
+          "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=17500&rangeEnd=17510",
+          "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=17500&rangeEnd=17510"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "33638775_9_792-808",
+          "range": "16991-17007",
+          "rangeStart": 16991,
+          "rangeEnd": 17007,
+          "markText": "诸孙相逢万里外，一笑未解千忧积。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1647389613,
+          "createTimeFormatted": "2022-03-16 08:13:33",
+          "chapterUid": 148,
+          "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=16991&rangeEnd=17007",
+          "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=16991&rangeEnd=17007"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "33638775_8_4225-4343",
+          "range": "15879-15967",
+          "rangeStart": 15879,
+          "rangeEnd": 15967,
+          "markText": "少或百字，多或千言，其指事析理，引物托喻，侈能尽之约，远能见之近，大能使之微，小能使之著，烦能不乱，肆能不流。其雄壮俊伟，若决江河而下也；其辉光明白，若引星辰而上也，其略如是。\n",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1647389293,
+          "createTimeFormatted": "2022-03-16 08:08:13",
+          "chapterUid": 148,
+          "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=15879&rangeEnd=15967",
+          "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=15879&rangeEnd=15967"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "33638775_8_827-997",
+          "range": "12489-12693",
+          "rangeStart": 12489,
+          "rangeEnd": 12693,
+          "markText": "富家不用买良田，书中自有千钟粟。\n安居不用架高堂，书中自有黄金屋。\n娶妻莫恨无良媒，书中自有颜如玉。\n出门莫恨无人随，书中车马多如簇。\n男儿欲遂平生志，五经勤向窗前读。\n",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1647388753,
+          "createTimeFormatted": "2022-03-16 07:59:13",
+          "chapterUid": 148,
+          "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=12489&rangeEnd=12693",
+          "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=12489&rangeEnd=12693"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "33638775_7_2069-2098",
+          "range": "10215-10244",
+          "rangeStart": 10215,
+          "rangeEnd": 10244,
+          "markText": "多财而不施，吾恐他人谋我；然施而使人知之，人将以我为好名。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1647388366,
+          "createTimeFormatted": "2022-03-16 07:52:46",
+          "chapterUid": 148,
+          "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=10215&rangeEnd=10244",
+          "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=10215&rangeEnd=10244"
+        }
+      ]
+    },
+    {
+      "chapterUid": 157,
+      "chapterTitle": "第十章 杭州去来",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "33638775_9_1815-1830",
+          "range": "64589-64604",
+          "rangeStart": 64589,
+          "rangeEnd": 64604,
+          "markText": "匪伊垂之带有余，非敢后也马不进",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1647392446,
+          "createTimeFormatted": "2022-03-16 09:00:46",
+          "chapterUid": 157,
+          "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=157&rangeStart=64589&rangeEnd=64604",
+          "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=157&rangeStart=64589&rangeEnd=64604"
+        }
+      ]
+    },
+    {
+      "chapterUid": 159,
+      "chapterTitle": "第十二章 惠州流人",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZDRv6xgQ",
+          "range": "32736-32738",
+          "chapterName": "",
+          "content": "huì zhōu\n州、路、府名。北宋天禧五年（1021年）改祯州为惠州。治归善（今惠州）。辖境相当今广东罗浮山以东的东江流域和螺河水流域以西沿海地区。元世祖至元十六年（1279年）改为路，明洪武元年（1368年）改为府。1911年废。宋以来产铁、锡。宋置阜民钱监及淡水等盐场。明、清时有棉布、土绸等织造业。\n市名。在广东省南部。面积1.12万平方千米。人口341万（2017年）。辖惠城、惠阳二区和龙门、惠东、博罗三县。市人民政府驻惠城区。隋为循州治，五代南汉为祯州治。北宋改祯州为惠州，后为惠州州、路、府治。1953年初设市，同年底撤销。1958年析惠阳县惠州镇又设市。1959年撤销，1964年复设市。1988年升设地级市，原县级惠州市改置惠城区。地处粤东沿海丘陵、东江下游。农产有稻、花生、大豆、甘薯、甘蔗和荔枝、柑橘、菠萝、龙眼等水果。为东江流域和粤东沿海水陆交通要冲和物资集散地，属粤港澳大湾区及珠三角城市群。建有惠州大亚湾经济技术开发区和仲恺高新技术产业开发区。工业有电子、纺织、机械、化工、制糖等。特产“东江糯米酒”。京九、沿海高铁及京九、广梅汕铁路和长深、潮惠高速公路经此。名胜古迹有西湖、泗洲塔、望江亭、东坡亭。为中国历史文化名城。",
+          "abstract": "惠州",
+          "star": -1,
+          "createTime": 1745463454,
+          "createTimeFormatted": "2025-04-24 10:57:34",
+          "isFinish": false,
+          "chapterUid": 159
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "33638775_147_9750-9812",
+      "chapterUid": 147,
+      "range": "9750-9812",
+      "markText": "但是我一直记得李雍在电话中对我说的话：“辉诚老师，您知道吗？您写来第一封信的那天，正好是我父亲的忌日。”世间巧合，竟至于此。",
+      "totalCount": 21135,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=147&rangeStart=9750&rangeEnd=9812",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=147&rangeStart=9750&rangeEnd=9812"
+    },
+    {
+      "bookmarkId": "33638775_148_28900-28967",
+      "chapterUid": 148,
+      "range": "28900-28967",
+      "markText": "但是张方平为不埋没苏洵，毅然写信给欧阳修，固然难得，而欧阳修也并不因是张方平介绍，便漠视这个人才，这种风度，求诸后世，几已不易再见了。",
+      "totalCount": 10914,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=28900&rangeEnd=28967",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=28900&rangeEnd=28967"
+    },
+    {
+      "bookmarkId": "33638775_148_8320-8358",
+      "chapterUid": 148,
+      "range": "8320-8358",
+      "markText": "苏轼四十年的政治生活中，被人疏远，永远孤立，受出生地的影响，不能说完全没有。",
+      "totalCount": 10183,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=8320&rangeEnd=8358",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=8320&rangeEnd=8358"
+    },
+    {
+      "bookmarkId": "33638775_148_7846-7938",
+      "chapterUid": 148,
+      "range": "7846-7938",
+      "markText": "苏轼兄弟因农村破产，家业凋零，而不得不出仕，但初至京师，尚在应试阶段，即已思想及早退休还乡，寻求夜雨对床之乐，所谓“未入仕版，已怀归志”。这也是地方性格的表现，与一般人的淡泊不尽相同。",
+      "totalCount": 7650,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=7846&rangeEnd=7938",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=7846&rangeEnd=7938"
+    },
+    {
+      "bookmarkId": "33638775_148_20031-20061",
+      "chapterUid": 148,
+      "range": "20031-20061",
+      "markText": "吾欲使汝为恶，则恶不可为；使汝为善，则我不为恶，而下场如此。",
+      "totalCount": 6123,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=20031&rangeEnd=20061",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=20031&rangeEnd=20061"
+    },
+    {
+      "bookmarkId": "33638775_148_52898-52956",
+      "chapterUid": 148,
+      "range": "52898-52956",
+      "markText": "兄弟俩就在怀远驿做了“风雨对床”的约定，此后四十年间，两人都念念不忘这个旧约，然而由于可悲的人生羁绊，终身不能实现。",
+      "totalCount": 6075,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=52898&rangeEnd=52956",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=52898&rangeEnd=52956"
+    },
+    {
+      "bookmarkId": "33638775_147_8362-8409",
+      "chapterUid": 147,
+      "range": "8362-8409",
+      "markText": "人生得失，难以短暂时光看待，其屈辱悲痛，当时哭之、恨之、衔之，放诸长远，祸福得失之间，亦难遽断",
+      "totalCount": 6017,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=147&rangeStart=8362&rangeEnd=8409",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=147&rangeStart=8362&rangeEnd=8409"
+    },
+    {
+      "bookmarkId": "33638775_148_3865-3959",
+      "chapterUid": 148,
+      "range": "3865-3959",
+      "markText": "然而一人之奉，毕竟有限，老百姓忍辱负重惯了，生活欲望非常低微，只要日子过得平安，农人能安分守己地耕作田野，商人能顺顺当当做生意，他们就可以从节俭中过他们卑微的生活，从卑微的生活中获得满足。",
+      "totalCount": 5600,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=3865&rangeEnd=3959",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=3865&rangeEnd=3959"
+    },
+    {
+      "bookmarkId": "33638775_149_13367-13460",
+      "chapterUid": 149,
+      "range": "13367-13460",
+      "markText": "自来凤翔，他对于这么许多牵连不断的吏事，厌倦不堪，以为除了浪费生命之外，身名两皆无益。案牍劳形，问囚理讼，不知所为何来，从前所学，完全抛弃，而一官在身，却又不得不奔走劳役，弄得心神俱疲。",
+      "totalCount": 4815,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=149&rangeStart=13367&rangeEnd=13460",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=149&rangeStart=13367&rangeEnd=13460"
+    },
+    {
+      "bookmarkId": "33638775_149_4893-4954",
+      "chapterUid": 149,
+      "range": "4893-4954",
+      "markText": "苏轼辛辛苦苦经营这个小园，只为“临池饮酒”而已，但一想到任期有限，“三年辄去岂无乡，种树穿池亦漫忙”，自己也觉得好笑起来。",
+      "totalCount": 4448,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=149&rangeStart=4893&rangeEnd=4954",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=149&rangeStart=4893&rangeEnd=4954"
+    },
+    {
+      "bookmarkId": "33638775_148_655-827",
+      "chapterUid": 148,
+      "range": "655-827",
+      "markText": "蜀，位居中国之西南边陲，四境皆被崇山峻岭所围绕，中间一大盆地。境内旧有岷、泸、雒、巴四大河流，所以又称四川。",
+      "totalCount": 4380,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=655&rangeEnd=827",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=655&rangeEnd=827"
+    },
+    {
+      "bookmarkId": "33638775_149_6618-6709",
+      "chapterUid": 149,
+      "range": "6618-6709",
+      "markText": "苏轼不禁生出一个感想，天下的至人，本来已将生死置于度外，人的肉体像天上的浮云一样，随时变灭，全不足恃，只有心灵才是主宰的永恒。世上尽多体格非常壮硕而心病独多的人，宛转人间，才堪悲悯。",
+      "totalCount": 4242,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=149&rangeStart=6618&rangeEnd=6709",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=149&rangeStart=6618&rangeEnd=6709"
+    },
+    {
+      "bookmarkId": "33638775_148_32422-32503",
+      "chapterUid": 148,
+      "range": "32422-32503",
+      "markText": "韩琦是与范仲淹同以文人治军，声震夷狄，人称“韩范”的军事家，而苏洵与之大谈兵事；富弼更是政坛老手，且具外交长才的政治人物，而苏洵与之论政治技术，宜其所得结果如此。",
+      "totalCount": 4233,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=32422&rangeEnd=32503",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=32422&rangeEnd=32503"
+    },
+    {
+      "bookmarkId": "33638775_147_3593-3652",
+      "chapterUid": 147,
+      "range": "3593-3652",
+      "markText": "吾兄有所不知，是书写于国民党的冤狱之中，吾家隐忍不发者，四十年。先父者，异代之太史公也；《苏传》者，先父之《史记》也。",
+      "totalCount": 4225,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=147&rangeStart=3593&rangeEnd=3652",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=147&rangeStart=3593&rangeEnd=3652"
+    },
+    {
+      "bookmarkId": "33638775_148_20151-20248",
+      "chapterUid": 148,
+      "range": "20151-20248",
+      "markText": "苏轼读完这篇甚长的《范滂传》，十分感动，陡然问母亲道：“儿若要做范滂，你许我吗？” “你能做范滂，难道我就不能做范母吗！”程夫人凛然答他。",
+      "totalCount": 4172,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=20151&rangeEnd=20248",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=20151&rangeEnd=20248"
+    },
+    {
+      "bookmarkId": "33638775_147_6321-6358",
+      "chapterUid": 147,
+      "range": "6321-6358",
+      "markText": "一冰先生晚年常对子女说：“我这辈子最大的错误，就是相信这个时代还有公道！”",
+      "totalCount": 4016,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=147&rangeStart=6321&rangeEnd=6358",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=147&rangeStart=6321&rangeEnd=6358"
+    },
+    {
+      "bookmarkId": "33638775_148_38039-38094",
+      "chapterUid": 148,
+      "range": "38039-38094",
+      "markText": "莫道登科易，老夫如登天。 莫道登科难，小儿如拾芥。",
+      "totalCount": 3926,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=38039&rangeEnd=38094",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=38039&rangeEnd=38094"
+    },
+    {
+      "bookmarkId": "33638775_149_56812-56894",
+      "chapterUid": 149,
+      "range": "56812-56894",
+      "markText": "人生真有命运这样东西，挡在前面，引领人懵懂前行吗？尽管有人不肯承认它，以为人自有力主宰一切，不幸有更多的经验事实，使人们不得不承认：人，实在很脆弱，常被命运所捉弄。",
+      "totalCount": 3888,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=149&rangeStart=56812&rangeEnd=56894",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=149&rangeStart=56812&rangeEnd=56894"
+    },
+    {
+      "bookmarkId": "33638775_148_20355-20393",
+      "chapterUid": 148,
+      "range": "20355-20393",
+      "markText": "当初，他用一片如火的热情来拥抱人生，不料四十年漫长的历程，却尽是错落的噩梦。",
+      "totalCount": 3780,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=20355&rangeEnd=20393",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=20355&rangeEnd=20393"
+    },
+    {
+      "bookmarkId": "33638775_148_49255-49324",
+      "chapterUid": 148,
+      "range": "49255-49324",
+      "markText": "王安石抵京后，欧阳修劝苏洵往交这位杰出的名士，但苏洵说：“我知道这个人，凡是不近人情者，很少有不为天下之患的。”老苏不愿意有这样一个朋友。",
+      "totalCount": 3680,
+      "appLink": "weread://bestbookmark?bookId=33638775&chapterUid=148&rangeStart=49255&rangeEnd=49324",
+      "webLink": "https://weread.qq.com/web/reader/ed732f2072014977ed74bf5?chapterUid=148&rangeStart=49255&rangeEnd=49324"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 157,
+    "chapterOffset": 45447,
+    "progress": 8,
+    "updateTime": 1745463465,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

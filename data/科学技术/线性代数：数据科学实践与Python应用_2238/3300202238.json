@@ -1,0 +1,1779 @@
+{
+  "meta": {
+    "bookId": "3300202238",
+    "title": "线性代数：数据科学实践与Python应用",
+    "author": "迈克·X·科恩",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/77/cpplatform_kcebuytzyqt7g3pjdzggzj/t6_cpplatform_kcebuytzyqt7g3pjdzggzj1776674475.jpg",
+    "intro": "本书是一部数据科学方向的线性代数使用指南，运用Python语言讲述了很多实例，包括在数据科学、机器学习、深度学习、计算机模拟和生物数据处理中的应用。运用本书的知识，读者能够理解、实践和适应庞杂的现代分析方法和算法。",
+    "category": "科学技术-自然科学",
+    "publisher": "机械工业出版社",
+    "publishTime": "2026-03-04 00:00:00",
+    "isbn": "9787111780762",
+    "wordCount": 0,
+    "newRating": 834,
+    "newRatingCount": 21,
+    "newRatingDetail": {
+      "good": 15,
+      "fair": 3,
+      "poor": 3,
+      "recent": 1,
+      "deepV": 1,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300202238",
+    "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da",
+    "lastSync": "2026-05-21T11:44:26Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权",
+      "level": 1,
+      "wordCount": 978,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "O'Reilly Media，Inc.介绍",
+      "level": 1,
+      "wordCount": 623,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "O'Reilly Media，Inc.介绍",
+          "anchor": "A934b53d6-3962-4549-89bf-bf54c0edcfd6",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "译者序",
+      "level": 1,
+      "wordCount": 595,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "译者序",
+          "anchor": "Ace3a92a8-80f5-4cef-84ca-25c0cf773539",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 2206,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "前言",
+          "anchor": "Aeddc2e29-7015-4acd-a138-b81cccdc8be9",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第1章 绪论",
+      "level": 1,
+      "wordCount": 3891,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1章 绪论",
+          "anchor": "A79eb689b-7b30-4c43-87d5-8a8776cf8526",
+          "level": 1
+        },
+        {
+          "title": "什么是线性代数以及为什么要学习它？",
+          "anchor": "Ae8c5cf1b-07bf-468c-88fd-6e8d9fa113f7",
+          "level": 2
+        },
+        {
+          "title": "关于本书",
+          "anchor": "A016cb712-09e8-4243-8f4f-dc6a0be4adcb",
+          "level": 2
+        },
+        {
+          "title": "预备知识",
+          "anchor": "A9b6d27e8-e8be-4124-912b-3735c1512077",
+          "level": 2
+        },
+        {
+          "title": "数学",
+          "anchor": "A1bad4821-5ac9-448e-a1b5-791fc17e3ba5",
+          "level": 3
+        },
+        {
+          "title": "态度",
+          "anchor": "Ae784c671-779d-4422-bb95-ec09a1f89318",
+          "level": 3
+        },
+        {
+          "title": "代码",
+          "anchor": "Ab8610013-313b-402c-8c5f-706b113bf17e",
+          "level": 3
+        },
+        {
+          "title": "数学证明与代码直观",
+          "anchor": "Add020014-4a9e-497e-8fa2-816bfd5c8202",
+          "level": 2
+        },
+        {
+          "title": "本书给出的和线上可下载的代码",
+          "anchor": "A1faa0015-6aba-4a8f-ba9d-3fd4effe27bc",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "A9c4c0015-4961-414e-92a9-58e92ce1dabc",
+          "level": 2
+        },
+        {
+          "title": "如何使用本书（面向教师和自学者）",
+          "anchor": "A21e40016-12f6-4db1-9c4d-8c756bec1c6e",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第2章 向量，第一部分",
+      "level": 1,
+      "wordCount": 13123,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第2章 向量，第一部分",
+          "anchor": "A93d877f9-98e7-4133-aaac-6fcb091069a5",
+          "level": 1
+        },
+        {
+          "title": "在NumPy中创建和可视化向量",
+          "anchor": "A76a80017-88aa-4ae2-900a-8209cddc721c",
+          "level": 2
+        },
+        {
+          "title": "向量的排列有影响吗？",
+          "anchor": "Aa5680019-6f84-46f5-9e79-6c5036c55ee1",
+          "level": 2
+        },
+        {
+          "title": "向量的几何表示",
+          "anchor": "Ab39c001a-cbbe-4e00-9e4b-64fc3f05e930",
+          "level": 3
+        },
+        {
+          "title": "向量运算",
+          "anchor": "A462c001b-8e91-43bc-90bc-badf078cbe4e",
+          "level": 2
+        },
+        {
+          "title": "两个向量的加法",
+          "anchor": "A1187de9f-b1d3-4c11-9b8a-814ec46ffeb2",
+          "level": 3
+        },
+        {
+          "title": "向量加法和减法的几何表示",
+          "anchor": "A7aba001c-724c-4a5d-a118-cb17b93d6383",
+          "level": 3
+        },
+        {
+          "title": "向量-标量的乘法",
+          "anchor": "Adf33001d-51e5-41e8-8e39-4a414f6ef8d4",
+          "level": 3
+        },
+        {
+          "title": "标量-向量的加法",
+          "anchor": "A2276001e-ab99-472e-b47c-fde7311e3625",
+          "level": 3
+        },
+        {
+          "title": "向量-标量乘法的几何解释",
+          "anchor": "Ab997001e-1c7a-45fc-8408-3d0522a98784",
+          "level": 3
+        },
+        {
+          "title": "转置",
+          "anchor": "A6938001f-6fdb-4a55-8426-03b250badccf",
+          "level": 3
+        },
+        {
+          "title": "Python中的向量广播",
+          "anchor": "Afbec4fe0-a45b-4582-9019-2fbaf6c0c531",
+          "level": 3
+        },
+        {
+          "title": "向量的幅度和单位向量",
+          "anchor": "Abd950020-808b-43f3-8e3b-b638d2772eac",
+          "level": 2
+        },
+        {
+          "title": "向量点积",
+          "anchor": "Abe520022-15de-426d-b731-6b4fb593d95d",
+          "level": 2
+        },
+        {
+          "title": "点积的分配律",
+          "anchor": "Adb390024-9d3b-470d-b85a-149678c244e6",
+          "level": 3
+        },
+        {
+          "title": "点积的几何表示",
+          "anchor": "A28df0024-39ba-4e02-bb7b-a8eaae1e4b76",
+          "level": 3
+        },
+        {
+          "title": "其他向量乘法",
+          "anchor": "Aa64e0025-1911-4e9d-8ed1-f3ffda979c0c",
+          "level": 2
+        },
+        {
+          "title": "Hadamard乘法",
+          "anchor": "Aab05f35b-7dc8-4f47-9c76-f4869c0d3944",
+          "level": 3
+        },
+        {
+          "title": "外积",
+          "anchor": "A991f0026-bc31-4130-a810-9f263d5d1bae",
+          "level": 3
+        },
+        {
+          "title": "叉积和三重积",
+          "anchor": "A64c20027-5a2c-45f3-875c-b057aa746be0",
+          "level": 3
+        },
+        {
+          "title": "正交向量分解",
+          "anchor": "Abc0e0027-bcaa-4878-a220-c79c43ec3c60",
+          "level": 2
+        },
+        {
+          "title": "总结",
+          "anchor": "A1f6e002b-120f-4cb7-8766-a9b80a9e2894",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "A03e9002b-4ade-4af1-84aa-e66801e25a46",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第3章 向量，第二部分",
+      "level": 1,
+      "wordCount": 7826,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第3章 向量，第二部分",
+          "anchor": "A1f099d6f-8aba-4ad1-987a-5d395d73b34e",
+          "level": 1
+        },
+        {
+          "title": "向量集合",
+          "anchor": "A006c002e-1430-4259-895d-db9824bed9fa",
+          "level": 2
+        },
+        {
+          "title": "线性加权组合",
+          "anchor": "A18bf002f-bb6b-4bc0-997e-8da755c17a36",
+          "level": 2
+        },
+        {
+          "title": "线性无关",
+          "anchor": "Af2b00030-d90b-4851-a31c-788bad4f00d5",
+          "level": 2
+        },
+        {
+          "title": "线性无关的数学知识",
+          "anchor": "A8bee0031-26df-4228-bb77-59718ea15c0e",
+          "level": 3
+        },
+        {
+          "title": "线性无关和零向量",
+          "anchor": "Aa7dd0032-871f-4299-a27b-e97de27dc7b4",
+          "level": 3
+        },
+        {
+          "title": "子空间和张成的空间",
+          "anchor": "A0dd20033-b44a-4bce-a99d-8ae85985fa7d",
+          "level": 2
+        },
+        {
+          "title": "基",
+          "anchor": "Afc540036-49be-4b65-9747-6f2dbb1adb44",
+          "level": 2
+        },
+        {
+          "title": "基的定义",
+          "anchor": "A219e0038-db37-46da-9073-cdd7a11f60d9",
+          "level": 3
+        },
+        {
+          "title": "总结",
+          "anchor": "Acaaf003a-0120-407a-942d-e863d812bf5b",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "Aec1d003a-b8df-460d-990f-800286220d03",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第4章 向量的应用",
+      "level": 1,
+      "wordCount": 5780,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第4章 向量的应用",
+          "anchor": "A52bf0718-0ad4-4111-ad18-00e98ef2194a",
+          "level": 1
+        },
+        {
+          "title": "相关性和余弦相似度",
+          "anchor": "Aebad003c-c8b0-4654-bd3c-6ca6007ee680",
+          "level": 2
+        },
+        {
+          "title": "时间序列的滤波和特征检测",
+          "anchor": "A6e96003e-d22b-4514-8d0e-82c91d2bc118",
+          "level": 2
+        },
+        {
+          "title": "k-means聚类",
+          "anchor": "A63779d06-f6f1-48e3-9f7c-d73a485974fb",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "A8bec0043-d3aa-492c-be84-1f200904f107",
+          "level": 2
+        },
+        {
+          "title": "相关性练习",
+          "anchor": "A559c0043-fdeb-4e99-bf43-611734024739",
+          "level": 3
+        },
+        {
+          "title": "滤波和特征检测练习",
+          "anchor": "A12350044-3575-4ba5-a0a1-952f38eef9a6",
+          "level": 3
+        },
+        {
+          "title": "k-means练习",
+          "anchor": "A4772ec66-0eed-474a-832b-2387cb1343aa",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第5章 矩阵，第一部分",
+      "level": 1,
+      "wordCount": 9921,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第5章 矩阵，第一部分",
+          "anchor": "Af4aed259-d31b-4e8b-8303-773973a526b4",
+          "level": 1
+        },
+        {
+          "title": "在NumPy中创建和可视化矩阵",
+          "anchor": "A65f00047-2ceb-4f3b-b4ab-6c0486eded48",
+          "level": 2
+        },
+        {
+          "title": "可视化、下标和矩阵切片",
+          "anchor": "A379a0047-6e71-4b31-9a13-7c63aff9a940",
+          "level": 3
+        },
+        {
+          "title": "特殊矩阵",
+          "anchor": "A0fbe0049-034c-4a7b-ae20-1db48bb4468d",
+          "level": 3
+        },
+        {
+          "title": "矩阵数学：加法、标量乘法、Hadamard乘法",
+          "anchor": "Ae3d4004b-4324-47df-aff5-c6bafa366d66",
+          "level": 2
+        },
+        {
+          "title": "加法和减法",
+          "anchor": "A67b0004b-8be2-44f6-965c-8bf515154d56",
+          "level": 3
+        },
+        {
+          "title": "“平移”一个矩阵",
+          "anchor": "Ac8ba004b-1f52-4c97-91ef-c0c1a82467f5",
+          "level": 3
+        },
+        {
+          "title": "标量和Hadamard乘法",
+          "anchor": "Aa2b8004c-b3d9-4a52-874f-92629b6b1bfb",
+          "level": 3
+        },
+        {
+          "title": "标准的矩阵乘法",
+          "anchor": "A66fc004d-cb67-4747-92de-9ac8712d589c",
+          "level": 2
+        },
+        {
+          "title": "矩阵乘法有效性的规则",
+          "anchor": "Ac1bc004d-5b3a-4d99-a620-4c79836cb3a7",
+          "level": 3
+        },
+        {
+          "title": "矩阵乘法",
+          "anchor": "A7844004e-b237-476b-969e-e14728485fd1",
+          "level": 3
+        },
+        {
+          "title": "矩阵-向量乘法",
+          "anchor": "Ac74e004f-464b-4fa7-93bd-bd53fdff537f",
+          "level": 3
+        },
+        {
+          "title": "矩阵运算：转置",
+          "anchor": "A3bed0051-5a77-4eb3-909c-2386cb77d2a5",
+          "level": 2
+        },
+        {
+          "title": "点积和外积的记号",
+          "anchor": "A7f260052-630a-46b7-8331-fc93d9a1475e",
+          "level": 3
+        },
+        {
+          "title": "矩阵运算：LIVE EVIL（运算的顺序）",
+          "anchor": "A270f0052-9d30-431e-964f-14883abc3089",
+          "level": 2
+        },
+        {
+          "title": "对称矩阵",
+          "anchor": "Af0df0053-b0fc-4479-86d1-ee080d2f1ff4",
+          "level": 2
+        },
+        {
+          "title": "用非对称矩阵创建对称矩阵",
+          "anchor": "A24eb0053-8767-4fe5-ab60-7dea52095c22",
+          "level": 3
+        },
+        {
+          "title": "总结",
+          "anchor": "Af8310054-4f36-4e90-8e1c-d6c22bb0987e",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "Afdb40055-d60c-4a48-9583-c9b149eced56",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第6章 矩阵，第二部分",
+      "level": 1,
+      "wordCount": 16355,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第6章 矩阵，第二部分",
+          "anchor": "Aafdf32d2-2f6e-4840-bc2b-3ee78c7f3880",
+          "level": 1
+        },
+        {
+          "title": "矩阵范数",
+          "anchor": "Abcf8b875-e839-4f09-abc8-3a76d4621747",
+          "level": 2
+        },
+        {
+          "title": "矩阵的迹和Frobenius范数",
+          "anchor": "A7882005b-3b3c-4445-8b75-2c12f2843cf8",
+          "level": 3
+        },
+        {
+          "title": "矩阵空间（列空间、行空间和零空间）",
+          "anchor": "A919c005b-8d94-41df-b3d1-532c073a6de1",
+          "level": 2
+        },
+        {
+          "title": "列空间",
+          "anchor": "Af5a8005b-2847-43e4-aa08-ed08dad66e8c",
+          "level": 3
+        },
+        {
+          "title": "行空间",
+          "anchor": "A85eb005f-33a3-44dd-84de-783a0d08f82f",
+          "level": 3
+        },
+        {
+          "title": "零空间",
+          "anchor": "A59a8005f-1347-4a46-8527-6a5c516385a5",
+          "level": 3
+        },
+        {
+          "title": "秩",
+          "anchor": "A6c16042d-01f2-4e25-b068-2bca53ded8ab",
+          "level": 2
+        },
+        {
+          "title": "特殊矩阵的秩",
+          "anchor": "A58760064-d72f-4fd9-9395-a4a300b86e67",
+          "level": 3
+        },
+        {
+          "title": "和矩阵、积矩阵的秩",
+          "anchor": "A95d20066-e451-4826-955a-6fe79ff5640e",
+          "level": 3
+        },
+        {
+          "title": "平移矩阵的秩",
+          "anchor": "Afe1c0067-6239-4d27-972c-21b72b665ce2",
+          "level": 3
+        },
+        {
+          "title": "理论与实践",
+          "anchor": "A448c0067-e121-41b8-8d70-ca6e13feca6f",
+          "level": 3
+        },
+        {
+          "title": "秩的应用",
+          "anchor": "Aed360068-9512-40eb-a83d-b41923641bb4",
+          "level": 2
+        },
+        {
+          "title": "在列空间中吗？",
+          "anchor": "Af8b10068-4e20-407e-8b90-273ac64c28a7",
+          "level": 3
+        },
+        {
+          "title": "一个向量集的线性无关性",
+          "anchor": "A30fc006a-68ef-49de-b58d-71074dea5222",
+          "level": 3
+        },
+        {
+          "title": "行列式",
+          "anchor": "A2e0a006a-3900-4a1a-84db-822a8e40c10f",
+          "level": 2
+        },
+        {
+          "title": "计算行列式",
+          "anchor": "A2662006b-082b-4c1f-8e5b-0f5e1dd5fd43",
+          "level": 3
+        },
+        {
+          "title": "有线性相关性矩阵的行列式",
+          "anchor": "A5116006c-d697-4f0e-9ffb-766800d9e2c1",
+          "level": 3
+        },
+        {
+          "title": "特征多项式",
+          "anchor": "A1f11006d-b474-49db-83b9-5c9a910006bb",
+          "level": 3
+        },
+        {
+          "title": "总结",
+          "anchor": "A16e9006f-5765-42f9-bc03-639e24bc26b0",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "Aa23b0070-09ae-4239-ab72-4652f9493cc3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第7章 矩阵的应用",
+      "level": 1,
+      "wordCount": 6683,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第7章 矩阵的应用",
+          "anchor": "Acfda10f4-67c0-4473-941a-bc1e7567d062",
+          "level": 1
+        },
+        {
+          "title": "多元数据协方差矩阵",
+          "anchor": "Ad1e40074-c104-445c-bc2c-74c1b5bf1909",
+          "level": 2
+        },
+        {
+          "title": "使用矩阵-向量乘法进行几何变换",
+          "anchor": "Ab9d20077-767b-4133-aac2-eb1cbf7e3333",
+          "level": 2
+        },
+        {
+          "title": "图像特征检测",
+          "anchor": "Acfab007a-3939-455e-9b69-7ce417fd284f",
+          "level": 2
+        },
+        {
+          "title": "总结",
+          "anchor": "A9585007d-13b7-41c5-8452-a8604d8dbd57",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "A26d6007d-742b-4389-a653-27a94783a6fd",
+          "level": 2
+        },
+        {
+          "title": "协方差和相关矩阵练习",
+          "anchor": "A6a42f282-901d-4041-aa02-1580f24f26bf",
+          "level": 3
+        },
+        {
+          "title": "几何变换练习",
+          "anchor": "A5b98007f-bb9f-49b5-bddf-7aa9c9553e0a",
+          "level": 3
+        },
+        {
+          "title": "图像特征检测练习",
+          "anchor": "A1fc00080-7542-49c7-bd61-0307465e769f",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第8章 矩阵逆",
+      "level": 1,
+      "wordCount": 8001,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第8章 矩阵逆",
+          "anchor": "A6231ccfb-6167-4d7d-9aae-a737d1a30d8c",
+          "level": 1
+        },
+        {
+          "title": "矩阵的逆",
+          "anchor": "A90220082-c09c-424e-b26f-15e84b353529",
+          "level": 2
+        },
+        {
+          "title": "矩阵逆的类型和可逆的条件",
+          "anchor": "A1ab9b6f9-1e92-45c8-8846-ab7ccedd9990",
+          "level": 2
+        },
+        {
+          "title": "计算矩阵的逆",
+          "anchor": "A4ac50083-05db-45e6-8d5b-55abcbb99ab5",
+          "level": 2
+        },
+        {
+          "title": "2×2矩阵的逆",
+          "anchor": "Aae3d31c7-a760-4e3d-8432-57548f557bb4",
+          "level": 3
+        },
+        {
+          "title": "对角矩阵的逆",
+          "anchor": "Ab4210086-f710-408a-9aba-1150127b4c29",
+          "level": 3
+        },
+        {
+          "title": "任意方形满秩矩阵的逆",
+          "anchor": "A56f50086-641a-4681-baa7-c3642e19f9b0",
+          "level": 3
+        },
+        {
+          "title": "单边逆",
+          "anchor": "Aa1600088-07f2-4bad-8b57-e1c192edcc2e",
+          "level": 3
+        },
+        {
+          "title": "逆矩阵是唯一的",
+          "anchor": "A53d2008a-0f0a-403a-98fe-c221c9d38a40",
+          "level": 2
+        },
+        {
+          "title": "Moore-Penrose伪逆",
+          "anchor": "Aeebd008b-adcb-42e0-9c32-6b2a8ae13b87",
+          "level": 2
+        },
+        {
+          "title": "求逆矩阵的数值稳定性",
+          "anchor": "A9a8b008c-5c2b-4650-b355-4d4f0f9beabb",
+          "level": 2
+        },
+        {
+          "title": "逆矩阵的几何解释",
+          "anchor": "A1396008d-5b4b-4e79-8e9d-b566cd1a3cd2",
+          "level": 2
+        },
+        {
+          "title": "总结",
+          "anchor": "A46fd008e-6140-4873-bbdd-9b52c0cab2f1",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "A9b09008f-5c30-420d-8f36-cdc9414b6946",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第9章 正交矩阵和QR分解",
+      "level": 1,
+      "wordCount": 6499,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第9章 正交矩阵和QR分解",
+          "anchor": "A91e1898a-2045-4c33-871e-9b02cd0bb6b3",
+          "level": 1
+        },
+        {
+          "title": "正交矩阵",
+          "anchor": "A285b0092-183c-4fcb-abb6-79a106af22fb",
+          "level": 2
+        },
+        {
+          "title": "Gram-Schmidt方法",
+          "anchor": "Afb14350c-1285-4041-a924-4455bbe0363d",
+          "level": 2
+        },
+        {
+          "title": "QR分解",
+          "anchor": "Aba700094-6bae-4c9b-a1dc-1d37ea410e22",
+          "level": 2
+        },
+        {
+          "title": "Q和R的大小",
+          "anchor": "Aaf4304c9-7cc6-44be-a320-e4c115500bc3",
+          "level": 3
+        },
+        {
+          "title": "QR和逆矩阵",
+          "anchor": "A256599a2-37d2-4078-bf6a-392a2277b37b",
+          "level": 3
+        },
+        {
+          "title": "总结",
+          "anchor": "Ab6730099-fc31-4542-8f31-c294eaf0c679",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "Abb340099-f1d6-4f85-9793-418b499c1166",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第10章 行简化和LU分解",
+      "level": 1,
+      "wordCount": 7855,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第10章 行简化和LU分解",
+          "anchor": "A89eeada8-1424-4684-a469-909217c76c95",
+          "level": 1
+        },
+        {
+          "title": "线性代数方程组",
+          "anchor": "Ae8cc009d-41bd-4012-a63b-94e9df7a2272",
+          "level": 2
+        },
+        {
+          "title": "将方程组转化为矩阵",
+          "anchor": "Ae65f009e-26b5-4774-b428-8d4073a46425",
+          "level": 3
+        },
+        {
+          "title": "使用矩阵方程",
+          "anchor": "A4b6d009f-5948-4c80-9137-495a718ba0b4",
+          "level": 3
+        },
+        {
+          "title": "行简化",
+          "anchor": "Af03a00a1-f519-4ce7-a4c0-f63a8f11d8c0",
+          "level": 2
+        },
+        {
+          "title": "Gauss消去法",
+          "anchor": "Ad989a96a-2cb2-465a-ac36-34e854e0149c",
+          "level": 3
+        },
+        {
+          "title": "Gauss-Jordan消去法",
+          "anchor": "Afdb29e2e-c57c-4877-9d8d-d1ce9281f4a5",
+          "level": 3
+        },
+        {
+          "title": "使用Gauss-Jordan消去法求逆矩阵",
+          "anchor": "A841426ac-e8f5-42f9-864a-55f4ff985c46",
+          "level": 3
+        },
+        {
+          "title": "LU分解",
+          "anchor": "A699900a6-3faa-4e86-bba4-987b23a34305",
+          "level": 2
+        },
+        {
+          "title": "使用置换矩阵实现换行",
+          "anchor": "Ae9a100a7-5bd6-4e8a-976f-2a9efa0a6542",
+          "level": 3
+        },
+        {
+          "title": "总结",
+          "anchor": "A233400a8-608b-459c-af0a-3fb55b616672",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "Ab48f00a9-560e-490e-bdc4-7d61982431f6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第11章 广义线性模型和最小二乘",
+      "level": 1,
+      "wordCount": 8354,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第11章 广义线性模型和最小二乘",
+          "anchor": "A37b73e3f-4f84-4b59-b526-48339b072504",
+          "level": 1
+        },
+        {
+          "title": "广义线性模型",
+          "anchor": "Ae44c00ab-e1c2-4800-a03a-d2cfb72836ea",
+          "level": 2
+        },
+        {
+          "title": "术语",
+          "anchor": "Abc5800ac-de92-4546-85ef-940552c65f52",
+          "level": 3
+        },
+        {
+          "title": "建立广义线性模型",
+          "anchor": "Aaaf800ac-16dd-4a32-a63b-294a1b86ceff",
+          "level": 3
+        },
+        {
+          "title": "求解广义线性模型",
+          "anchor": "Ad3ae00ad-0eca-4646-83fd-88f1cdb0521d",
+          "level": 2
+        },
+        {
+          "title": "解是准确的吗？",
+          "anchor": "Aa58700ae-c573-48c0-99fb-53bfaf54aa1e",
+          "level": 3
+        },
+        {
+          "title": "最小二乘的几何解释",
+          "anchor": "Ac3ec1276-a027-4b2c-a2de-4b2193bbcd08",
+          "level": 3
+        },
+        {
+          "title": "为什么最小二乘有效？",
+          "anchor": "A6f2e00b1-cd70-452a-81ac-29388a18eabc",
+          "level": 3
+        },
+        {
+          "title": "一个简单例子中的广义线性模型",
+          "anchor": "A45de00b2-2a05-45ba-b72b-6391c8041c4b",
+          "level": 2
+        },
+        {
+          "title": "用QR分解实现最小二乘",
+          "anchor": "A31bc00b5-74b9-4690-8c68-6a62f0b2e327",
+          "level": 2
+        },
+        {
+          "title": "总结",
+          "anchor": "Ad5cf00b6-80f0-4aa0-b123-e2c781fff040",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "A32b200b7-1be4-488a-be2f-e6add34eefa1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第12章 最小二乘的应用",
+      "level": 1,
+      "wordCount": 9110,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第12章 最小二乘的应用",
+          "anchor": "A1481a84b-11a5-48b7-8a6a-885b4ecd402a",
+          "level": 1
+        },
+        {
+          "title": "根据天气预测自行车租赁",
+          "anchor": "Ad42100bb-9082-4343-a01b-a8bc989a0e7d",
+          "level": 2
+        },
+        {
+          "title": "使用statsmodels库创建回归表",
+          "anchor": "A61e300bf-d1ea-4580-ae3f-d2906e2af3ac",
+          "level": 3
+        },
+        {
+          "title": "多重共线性",
+          "anchor": "A196700c0-3826-4a6d-9e21-4033eb7aae39",
+          "level": 3
+        },
+        {
+          "title": "正则化",
+          "anchor": "Abb0400c1-6699-435d-88f8-671693b40483",
+          "level": 3
+        },
+        {
+          "title": "多项式回归",
+          "anchor": "Af88600c2-9479-4f08-95b6-385ff756d9b9",
+          "level": 2
+        },
+        {
+          "title": "求模型参数的网格搜索法",
+          "anchor": "Acae66950-23e3-42aa-a582-acddbe2048b6",
+          "level": 2
+        },
+        {
+          "title": "总结",
+          "anchor": "Adf8300c6-9fc5-43b3-9d3e-cf78dd5b8422",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "A717f00c7-a469-4c2f-a6fd-f9e14eeb6df8",
+          "level": 2
+        },
+        {
+          "title": "自行车租赁练习",
+          "anchor": "A04c000c7-fb82-4f03-904f-267bb63820e7",
+          "level": 3
+        },
+        {
+          "title": "多重共线性练习",
+          "anchor": "A03516295-f6a7-4251-bda1-75509f88f62c",
+          "level": 3
+        },
+        {
+          "title": "正则化练习",
+          "anchor": "Ad5736fed-6f2d-49fb-b164-3fcd750ff927",
+          "level": 3
+        },
+        {
+          "title": "多项式回归练习",
+          "anchor": "A407f00ca-589a-42e5-98fe-3cd99a22f06f",
+          "level": 3
+        },
+        {
+          "title": "网格搜索练习",
+          "anchor": "Ad5b900cb-4a45-42a8-995e-108da97a32b3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第13章 特征值分解",
+      "level": 1,
+      "wordCount": 13858,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第13章 特征值分解",
+          "anchor": "A348602c9-e458-48de-9236-449127c89598",
+          "level": 1
+        },
+        {
+          "title": "特征值和特征向量的解释",
+          "anchor": "A597200cd-3bf3-4941-85f5-b313f76cab5d",
+          "level": 2
+        },
+        {
+          "title": "几何解释",
+          "anchor": "Ae46500cd-19fa-43cb-9c34-7ab8cadd297d",
+          "level": 3
+        },
+        {
+          "title": "统计解释（主成分分析）",
+          "anchor": "A680800ce-bb02-4eae-8845-53d343035b69",
+          "level": 3
+        },
+        {
+          "title": "降噪",
+          "anchor": "Abd2500cf-a92b-4704-8d17-64ddbc8d2342",
+          "level": 3
+        },
+        {
+          "title": "降维（数据压缩）",
+          "anchor": "A8c4300cf-3f56-4bfa-9b7d-58c9f51554db",
+          "level": 3
+        },
+        {
+          "title": "求特征值",
+          "anchor": "Afb2500d0-f064-4d48-a41c-5e34f539287f",
+          "level": 2
+        },
+        {
+          "title": "求特征向量",
+          "anchor": "Ae09100d2-9508-4233-9871-e1e893c3ceeb",
+          "level": 2
+        },
+        {
+          "title": "特征向量符号和大小的不确定性",
+          "anchor": "Afd5300d4-5b56-4107-8661-7a2d6a8f55a9",
+          "level": 3
+        },
+        {
+          "title": "对角化方阵",
+          "anchor": "Ae04000d4-5e32-454a-9339-e99cc0f043f3",
+          "level": 2
+        },
+        {
+          "title": "对称矩阵的独特优势",
+          "anchor": "A559c00d6-f353-49b0-9fe8-f365ae161d6a",
+          "level": 2
+        },
+        {
+          "title": "正交的特征向量",
+          "anchor": "A1b8200d6-5336-4a59-bb23-c5b0793c8d50",
+          "level": 3
+        },
+        {
+          "title": "实特征值",
+          "anchor": "Ad9c300d8-f2ee-4393-8940-da1aab95237e",
+          "level": 3
+        },
+        {
+          "title": "奇异矩阵的特征值分解",
+          "anchor": "A308c00d9-12d8-476d-9690-427d3c1f153c",
+          "level": 2
+        },
+        {
+          "title": "二次型、定性和特征值",
+          "anchor": "A5baf00db-5b26-4af7-9fb9-34fa56f1c1fe",
+          "level": 2
+        },
+        {
+          "title": "矩阵的二次型",
+          "anchor": "A33d200db-6389-4d9b-9a3b-950ec415ca0b",
+          "level": 3
+        },
+        {
+          "title": "定性",
+          "anchor": "Ad7d500dd-be9c-47c3-92a2-a92f8837a217",
+          "level": 3
+        },
+        {
+          "title": "ATA是正（半正）定的",
+          "anchor": "Ae344bc35-eba2-477e-a985-8a3609d75a6a",
+          "level": 3
+        },
+        {
+          "title": "广义特征值分解",
+          "anchor": "Ad9e500de-61d4-4cea-8370-623842fa9b0a",
+          "level": 2
+        },
+        {
+          "title": "总结",
+          "anchor": "Acd2100df-f2bc-46e4-b6c8-87c38e1cfd59",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "Af54000e0-6c5a-416e-8291-a2ca69345772",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第14章 奇异值分解",
+      "level": 1,
+      "wordCount": 7177,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第14章 奇异值分解",
+          "anchor": "A13a74dac-aea4-4108-9c3c-26d210312d08",
+          "level": 1
+        },
+        {
+          "title": "奇异值分解全图",
+          "anchor": "A030500e5-aabc-4940-9262-9f7be71fd5ac",
+          "level": 2
+        },
+        {
+          "title": "奇异值和矩阵的秩",
+          "anchor": "A6fc11715-69d4-438c-8e05-e0f5819fb1cc",
+          "level": 3
+        },
+        {
+          "title": "Python中的奇异值分解",
+          "anchor": "A48d400e7-aa54-43e7-834b-5450c2f6af34",
+          "level": 2
+        },
+        {
+          "title": "奇异值分解和矩阵的秩-1“层”",
+          "anchor": "Ab21400e8-66cd-453a-92e3-d0f729c52ce8",
+          "level": 2
+        },
+        {
+          "title": "由特征值分解计算奇异值分解",
+          "anchor": "Ae39600e9-5379-4008-aa3a-fdc5e0f73237",
+          "level": 2
+        },
+        {
+          "title": "ATA的奇异值分解",
+          "anchor": "A865cf01d-6f57-4e6e-aa6d-9ad0acccf089",
+          "level": 3
+        },
+        {
+          "title": "奇异值转化为方差的原因",
+          "anchor": "A29a400eb-158e-44e9-8846-a8cfd7130675",
+          "level": 3
+        },
+        {
+          "title": "条件数",
+          "anchor": "A312e00ec-42a9-4923-bb8e-ddfdf5bcdff2",
+          "level": 3
+        },
+        {
+          "title": "奇异值分解和MP伪逆",
+          "anchor": "A3e0e00ed-4bc3-4ace-8965-972c3a47605c",
+          "level": 2
+        },
+        {
+          "title": "总结",
+          "anchor": "Abcc600ee-8523-4975-a95b-b3577a763acb",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "A9b0000ee-cb59-4d2f-81c2-0fa0920546b3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第15章 特征值分解和奇异值分解的应用",
+      "level": 1,
+      "wordCount": 10678,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第15章 特征值分解和奇异值分解的应用",
+          "anchor": "A9004b331-cf42-41e8-91f9-9c20436e173b",
+          "level": 1
+        },
+        {
+          "title": "用特征值分解和奇异值分解进行主成分分析",
+          "anchor": "A015500f2-7bfb-4d27-abd0-e257b929ae34",
+          "level": 2
+        },
+        {
+          "title": "主成分分析中的数学知识",
+          "anchor": "A1e8c00f3-6b7d-4fd2-8ebd-553d74f143d7",
+          "level": 3
+        },
+        {
+          "title": "主成分分析的步骤",
+          "anchor": "A273100f5-2d08-402a-9259-0645e213e1ee",
+          "level": 3
+        },
+        {
+          "title": "用奇异值分解进行主成分分析",
+          "anchor": "A72aa00f6-a84a-483c-b83a-78af1a0c01d5",
+          "level": 3
+        },
+        {
+          "title": "线性判别分析",
+          "anchor": "Aa1b800f6-e585-4b38-b933-037d6c80d1c1",
+          "level": 2
+        },
+        {
+          "title": "用奇异值分解进行低秩近似",
+          "anchor": "A50a000f8-0541-408d-85b1-67ca2906a4f7",
+          "level": 2
+        },
+        {
+          "title": "用奇异值分解降噪",
+          "anchor": "Abdc400f9-72a9-40d6-9bbb-a6d043370c5b",
+          "level": 3
+        },
+        {
+          "title": "总结",
+          "anchor": "A801c00f9-a187-42b7-ae62-b54cc5037bfc",
+          "level": 2
+        },
+        {
+          "title": "代码练习",
+          "anchor": "A75fd00fa-3f3d-4736-aade-079eacd0ddff",
+          "level": 2
+        },
+        {
+          "title": "主成分分析",
+          "anchor": "Ae7b300fa-fde6-4dc8-90a4-024b82938c95",
+          "level": 3
+        },
+        {
+          "title": "线性判别分析",
+          "anchor": "A523100fe-1705-44ff-aeeb-93b7c1bc89ef",
+          "level": 3
+        },
+        {
+          "title": "奇异值分解用于低秩近似",
+          "anchor": "Ad76f0101-f918-48cd-bae8-4233addaa45b",
+          "level": 3
+        },
+        {
+          "title": "奇异值分解用于图像降噪",
+          "anchor": "A9f8c0104-8ed5-43d4-bf96-3c0b5515a6c5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第16章 Python教程",
+      "level": 1,
+      "wordCount": 13378,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第16章 Python教程",
+          "anchor": "A91b01b53-3d34-4278-afcb-32d1fd6083e7",
+          "level": 1
+        },
+        {
+          "title": "为什么是Python，其他选择是什么？",
+          "anchor": "Aa92e0107-94c0-4a21-8481-d48d414a0f44",
+          "level": 2
+        },
+        {
+          "title": "交互式开发环境",
+          "anchor": "Ad0cc0108-4c4f-42fe-946c-bc05d18fd7ff",
+          "level": 2
+        },
+        {
+          "title": "本地和在线使用Python",
+          "anchor": "Adbef0108-b841-46b0-ab7c-a7a33f65f2c1",
+          "level": 2
+        },
+        {
+          "title": "在Google Colab中使用代码文件",
+          "anchor": "Aa8720109-1e37-4de5-8ad2-2877c36d73b8",
+          "level": 3
+        },
+        {
+          "title": "变量",
+          "anchor": "Aa9f5010a-f165-4f6c-b88a-39fb498e5ef1",
+          "level": 2
+        },
+        {
+          "title": "数据类型",
+          "anchor": "A6d3a010c-adbf-40af-9779-859f5619fb14",
+          "level": 3
+        },
+        {
+          "title": "下标",
+          "anchor": "Adece010d-474d-4640-805d-d6285a50d35d",
+          "level": 3
+        },
+        {
+          "title": "函数",
+          "anchor": "Ab8d1010e-dab9-404c-9b0c-409915feb345",
+          "level": 2
+        },
+        {
+          "title": "作为函数的方法",
+          "anchor": "A1b8b010f-15c4-47c0-9252-1d3150fe4cda",
+          "level": 3
+        },
+        {
+          "title": "写自己的函数",
+          "anchor": "A12770110-66cb-4c54-a9f6-a1651e748a7d",
+          "level": 3
+        },
+        {
+          "title": "库",
+          "anchor": "Ab2450111-dc16-4ec6-9964-7ad038c454d7",
+          "level": 3
+        },
+        {
+          "title": "NumPy",
+          "anchor": "Ae7eb43db-c732-4b05-9081-c8f143bfa943",
+          "level": 3
+        },
+        {
+          "title": "NumPy中的下标和切片",
+          "anchor": "A9a7da3a2-72c4-46c0-85cd-339295a3a3ce",
+          "level": 3
+        },
+        {
+          "title": "可视化",
+          "anchor": "Ae50a0113-6f57-4e83-acbf-15733e323ee1",
+          "level": 2
+        },
+        {
+          "title": "将公式转换为代码",
+          "anchor": "A7a2e0116-5ef7-4117-9170-bf905274739d",
+          "level": 2
+        },
+        {
+          "title": "格式化打印和F-字符串",
+          "anchor": "A646f0119-9df3-4ffa-9af5-448b6842bfb9",
+          "level": 2
+        },
+        {
+          "title": "控制流",
+          "anchor": "A4d3c011a-366f-423b-a42a-8d77efb61b94",
+          "level": 2
+        },
+        {
+          "title": "比较器",
+          "anchor": "Af61a011a-3476-4849-b747-a1a3c1150ec7",
+          "level": 3
+        },
+        {
+          "title": "if语句",
+          "anchor": "A3fff87f9-ee9f-45c3-8b98-89248b49eec7",
+          "level": 3
+        },
+        {
+          "title": "for循环",
+          "anchor": "A4abeac66-88fd-49f9-88d7-884473b190dd",
+          "level": 3
+        },
+        {
+          "title": "控制语句的嵌套",
+          "anchor": "A9943011d-f4de-4785-9a79-33ee675bd089",
+          "level": 3
+        },
+        {
+          "title": "度量计算时间",
+          "anchor": "Afa4b011e-d314-42d7-a99a-c1b8ac77a065",
+          "level": 2
+        },
+        {
+          "title": "获得帮助和深入学习",
+          "anchor": "A2206011e-4538-4049-b72c-1a960f354ce2",
+          "level": 2
+        },
+        {
+          "title": "出错时该怎么办",
+          "anchor": "Aeaee011e-d70a-4e28-b68c-d9e304603998",
+          "level": 3
+        },
+        {
+          "title": "总结",
+          "anchor": "Aaa69011f-2909-4ca9-8e82-bbdb94a38335",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 172,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "作者简介",
+          "anchor": "Ae3c24267-cd1f-4a62-a8ed-a98479670cdc",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "封面简介",
+      "level": 1,
+      "wordCount": 455,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "封底",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300202238&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=24"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 11,
+      "chapterTitle": "第6章 矩阵，第二部分",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300202238_11_25114-25153",
+          "range": "25114-25153",
+          "rangeStart": 25114,
+          "rangeEnd": 25153,
+          "markText": "一旦到了4×4矩阵，行列式就真的变得难以计算了，除非该矩阵在很多位置上都是零。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1779161168,
+          "createTimeFormatted": "2026-05-19 11:26:08",
+          "chapterUid": 11,
+          "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=11&rangeStart=25114&rangeEnd=25153",
+          "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=11&rangeStart=25114&rangeEnd=25153"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300202238_11_25114-25153",
+      "chapterUid": 11,
+      "range": "25114-25153",
+      "markText": "一旦到了4×4矩阵，行列式就真的变得难以计算了，除非该矩阵在很多位置上都是零。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=11&rangeStart=25114&rangeEnd=25153",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=11&rangeStart=25114&rangeEnd=25153"
+    },
+    {
+      "bookmarkId": "3300202238_21_1779-1839",
+      "chapterUid": 21,
+      "range": "1779-1839",
+      "markText": "一旦通过Jupyter熟悉了Python，读者可以花点时间试试其他的交互式开发环境，看看它们是否更适合个人的需要和喜好。",
+      "totalCount": 254,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=21&rangeStart=1779&rangeEnd=1839",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=21&rangeStart=1779&rangeEnd=1839"
+    },
+    {
+      "bookmarkId": "3300202238_13_11023-11148",
+      "chapterUid": 13,
+      "range": "11023-11148",
+      "markText": "不存在两个矩阵B和C使AB=I且AC=I，但B/=C。",
+      "totalCount": 253,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=13&rangeStart=11023&rangeEnd=11148",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=13&rangeStart=11023&rangeEnd=11148"
+    },
+    {
+      "bookmarkId": "3300202238_13_17448-17665",
+      "chapterUid": 13,
+      "range": "17448-17665",
+      "markText": "用代码创建两个方形满秩矩阵A和B，然后对比（AB）-1，A-1B-1，和B-1A-1的欧氏距离来验证这一结论。",
+      "totalCount": 253,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=13&rangeStart=17448&rangeEnd=17665",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=13&rangeStart=17448&rangeEnd=17665"
+    },
+    {
+      "bookmarkId": "3300202238_21_23374-23440",
+      "chapterUid": 21,
+      "range": "23374-23440",
+      "markText": "基本的if语句有三个部分：关键字if、条件语句（conditional statement）和代码内容（code content）。",
+      "totalCount": 253,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=21&rangeStart=23374&rangeEnd=23440",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=21&rangeStart=23374&rangeEnd=23440"
+    },
+    {
+      "bookmarkId": "3300202238_9_3153-3236",
+      "chapterUid": 9,
+      "range": "3153-3236",
+      "markText": "在Pearson的眼中，变量[0，1，2，3]和[100，101，102，103]是完美相关的（ρ=1），因为一个变量的变化完美地镜像到另一个变量中了；",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=9&rangeStart=3153&rangeEnd=3236",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=9&rangeStart=3153&rangeEnd=3236"
+    },
+    {
+      "bookmarkId": "3300202238_20_9617-9646",
+      "chapterUid": 20,
+      "range": "9617-9646",
+      "markText": "但大的噪声源可能对数据有很大的影响，因此也有较大的奇异值。",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=20&rangeStart=9617&rangeEnd=9646",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=20&rangeStart=9617&rangeEnd=9646"
+    },
+    {
+      "bookmarkId": "3300202238_21_981-1019",
+      "chapterUid": 21,
+      "range": "981-1019",
+      "markText": "读者可以用Python做文本分析、处理web表单、创建算法和无穷的其他应用。",
+      "totalCount": 248,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=21&rangeStart=981&rangeEnd=1019",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=21&rangeStart=981&rangeEnd=1019"
+    },
+    {
+      "bookmarkId": "3300202238_7_16886-16921",
+      "chapterUid": 7,
+      "range": "16886-16921",
+      "markText": "假设读者得到了20个人的身高和体重数据，并将它们分别存储在两个向量中。",
+      "totalCount": 245,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=7&rangeStart=16886&rangeEnd=16921",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=7&rangeStart=16886&rangeEnd=16921"
+    },
+    {
+      "bookmarkId": "3300202238_11_29089-29122",
+      "chapterUid": 11,
+      "range": "29089-29122",
+      "markText": "只为一事，它给出了一个深刻的观点，每一个方阵都可以表示为一个方程。",
+      "totalCount": 242,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=11&rangeStart=29089&rangeEnd=29122",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=11&rangeStart=29089&rangeEnd=29122"
+    },
+    {
+      "bookmarkId": "3300202238_18_27636-27678",
+      "chapterUid": 18,
+      "range": "27636-27678",
+      "markText": "随机矩阵的一个有趣性质是其复特征值都分布在一个圆周上，圆周的半径与矩阵的大小成比例。",
+      "totalCount": 242,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=18&rangeStart=27636&rangeEnd=27678",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=18&rangeStart=27636&rangeEnd=27678"
+    },
+    {
+      "bookmarkId": "3300202238_11_16843-16924",
+      "chapterUid": 11,
+      "range": "16843-16924",
+      "markText": "rank（A+B）≤rank（A）+rank（B）",
+      "totalCount": 241,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=11&rangeStart=16843&rangeEnd=16924",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=11&rangeStart=16843&rangeEnd=16924"
+    },
+    {
+      "bookmarkId": "3300202238_16_675-752",
+      "chapterUid": 16,
+      "range": "675-752",
+      "markText": "有些模型则更为复杂，例如，蓝色大脑项目（Blue Brain Project）中使用了非常精细的细节模拟大脑活动，其模拟一秒钟的大脑活动需要计算40分钟。",
+      "totalCount": 236,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=16&rangeStart=675&rangeEnd=752",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=16&rangeStart=675&rangeEnd=752"
+    },
+    {
+      "bookmarkId": "3300202238_20_2124-2273",
+      "chapterUid": 20,
+      "range": "2124-2273",
+      "markText": "当数据进行了均值中心化（也即，每一个变量的数据均值都是零）后，向量范数的平方与方差是一样的；",
+      "totalCount": 236,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=20&rangeStart=2124&rangeEnd=2273",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=20&rangeStart=2124&rangeEnd=2273"
+    },
+    {
+      "bookmarkId": "3300202238_7_26595-26639",
+      "chapterUid": 7,
+      "range": "26595-26639",
+      "markText": "向量中元素的个数称为维数，且向量还可被表示为几何空间中的直线，其坐标轴的数量就等于维数。",
+      "totalCount": 235,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=7&rangeStart=26595&rangeEnd=26639",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=7&rangeStart=26595&rangeEnd=26639"
+    },
+    {
+      "bookmarkId": "3300202238_10_18827-18905",
+      "chapterUid": 10,
+      "range": "18827-18905",
+      "markText": "●对称矩阵是关于对角线成镜像的，这意味着每一行与对应列相等，且定义为A=AT。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=10&rangeStart=18827&rangeEnd=18905",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=10&rangeStart=18827&rangeEnd=18905"
+    },
+    {
+      "bookmarkId": "3300202238_18_7152-7219",
+      "chapterUid": 18,
+      "range": "7152-7219",
+      "markText": "这些匹配的2不是偶然的：一个M×M矩阵的特征多项式中将有包含λM的项。",
+      "totalCount": 232,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=18&rangeStart=7152&rangeEnd=7219",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=18&rangeStart=7152&rangeEnd=7219"
+    },
+    {
+      "bookmarkId": "3300202238_12_7100-7128",
+      "chapterUid": 12,
+      "range": "7100-7128",
+      "markText": "利用该句柄可更新点的位置，而不需要在每帧中重新绘制图形。",
+      "totalCount": 229,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=12&rangeStart=7100&rangeEnd=7128",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=12&rangeStart=7100&rangeEnd=7128"
+    },
+    {
+      "bookmarkId": "3300202238_11_33765-33858",
+      "chapterUid": 11,
+      "range": "33765-33858",
+      "markText": "创建一个秩-3的矩阵A ∈R4×3和向量v ∈R，它们的元素都从一个正态分布中抽取。",
+      "totalCount": 226,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=11&rangeStart=33765&rangeEnd=33858",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=11&rangeStart=33765&rangeEnd=33858"
+    },
+    {
+      "bookmarkId": "3300202238_9_3848-3890",
+      "chapterUid": 9,
+      "range": "3848-3890",
+      "markText": "但滤波通常需要局部（local）特征检测，且核的长度通常比整个时间序列的长度小得多。",
+      "totalCount": 225,
+      "appLink": "weread://bestbookmark?bookId=3300202238&chapterUid=9&rangeStart=3848&rangeEnd=3890",
+      "webLink": "https://weread.qq.com/web/reader/1df32610813abb57fg0180da?chapterUid=9&rangeStart=3848&rangeEnd=3890"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": 1779161211,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

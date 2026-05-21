@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "bookId": "3300095647",
+    "title": "都柏林人（西方文学史上最有名的一场雪）",
+    "author": "[爱尔兰]詹姆斯·乔伊斯",
+    "translator": "杨浩田",
+    "cover": "https://cdn.weread.qq.com/weread/cover/50/cpplatform_qthtdvdmzzyszxlcu7vuty/t6_cpplatform_qthtdvdmzzyszxlcu7vuty1763370373.jpg",
+    "intro": "那种怎么活都没有意义的无力感，让我更想轰轰烈烈地活一回。乔伊斯天才之作！20世纪短篇小说范本！南开名师导读，原创精美插画\n大雪将至，一种怎么活都没有意义的无力感，长久地笼罩在都柏林的城市上空，男女老少几乎无人幸免：\n◆年幼时脆弱而盲目的爱慕，喜欢一个人只敢悄悄藏在心里。\n——《阿拉比》\n◆人到中年却几乎失去一切，对平淡的生活感到厌烦，悲剧就像一个雪球，越滚越大。\n——《如出一辙》\n◆妻子的初恋在圣诞雪夜伴着记忆而来，而自己作为丈夫，却始终无足轻重。\n——《死者》\n……\n雪花悠悠然飘落在天地间，像一面镜子，照见并鼓舞每一个成长、工作、婚姻的泥沼之中深感无力，又拼命挣扎的我们，释放属于自己的生命力！",
+    "category": "文学-外国文学",
+    "publisher": "江苏凤凰文艺出版社",
+    "publishTime": "2024-03-01 00:00:00",
+    "isbn": "9787559481337",
+    "wordCount": 0,
+    "newRating": 895,
+    "newRatingCount": 1143,
+    "newRatingDetail": {
+      "good": 1035,
+      "fair": 93,
+      "poor": 15,
+      "recent": 77,
+      "deepV": 422,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=3300095647",
+    "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb",
+    "lastSync": "2026-05-21T11:59:09Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=1"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 142,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 3,
+      "title": "文前",
+      "level": 1,
+      "wordCount": 233,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 4,
+      "title": "姐妹",
+      "level": 1,
+      "wordCount": 5331,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 5,
+      "title": "一次偶遇",
+      "level": 1,
+      "wordCount": 5799,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 6,
+      "title": "阿拉比",
+      "level": 1,
+      "wordCount": 4035,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 7,
+      "title": "伊芙琳",
+      "level": 1,
+      "wordCount": 3212,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 8,
+      "title": "赛车之后",
+      "level": 1,
+      "wordCount": 4335,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 9,
+      "title": "两位绅士",
+      "level": 1,
+      "wordCount": 6876,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 10,
+      "title": "寄宿公寓",
+      "level": 1,
+      "wordCount": 4867,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=28"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 11,
+      "title": "一小朵云",
+      "level": 1,
+      "wordCount": 9331,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=40"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 12,
+      "title": "如出一辙",
+      "level": 1,
+      "wordCount": 7141,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 13,
+      "title": "泥土",
+      "level": 1,
+      "wordCount": 4226,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 14,
+      "title": "一桩惨案",
+      "level": 1,
+      "wordCount": 6332,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 15,
+      "title": "委员会办公室里的常春藤节",
+      "level": 1,
+      "wordCount": 9653,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 16,
+      "title": "母亲",
+      "level": 1,
+      "wordCount": 8214,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 17,
+      "title": "圣恩",
+      "level": 1,
+      "wordCount": 14313,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 18,
+      "title": "死者",
+      "level": 1,
+      "wordCount": 28965,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 19,
+      "title": "三个圈独家文学手册",
+      "level": 1,
+      "wordCount": 17920,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "导读 《都柏林人》：去国者的文学返乡",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 20,
+      "title": "附：都柏林日报",
+      "level": 1,
+      "wordCount": 10,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 21,
+      "title": "附：都柏林文学地图",
+      "level": 1,
+      "wordCount": 10,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300095647&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=39"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 36,
+      "chapterTitle": "死者",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300095647_36_44804-45102",
+          "range": "44804-45102",
+          "rangeStart": 44804,
+          "rangeEnd": 45102,
+          "markText": "窗玻璃上传来轻轻的拍打声，他转头看去。又开始下雪了。他睡眼蒙眬地望着窗外的雪花，银闪闪的、黑茫茫的，在街灯的映照下斜斜地飘落。是时候踏上向西的旅程了。对，报纸上说得没错：整个爱尔兰都在下雪。雪落在晦暗的中部平原的每一寸土地上，落在没有树木的山丘上，轻轻地落在艾伦沼泽上，再往西去，还见它恬然落入香农河汹涌的暗流之中。诚然，这雪也落在山上那片清冷的教堂墓园里，落在迈克尔·福瑞的坟墓上。雪片纷纷扬扬地落下，厚厚地堆积在歪斜的十字架和墓碑上，堆积在小门护栏的铁镖头上，堆积在荒芜的荆棘丛上。他的灵魂缓缓陷入沉眠。他听着雪花在天地间悠悠飘落，悠悠地，如同他们最终的归宿那样，飘落在每一个生者和死者身上。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1714615894,
+          "createTimeFormatted": "2024-05-02 10:11:34",
+          "chapterUid": 36,
+          "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=36&rangeStart=44804&rangeEnd=45102",
+          "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=36&rangeStart=44804&rangeEnd=45102"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300095647_21_614-660",
+      "chapterUid": 21,
+      "range": "614-660",
+      "markText": "大雪将至，一种怎么活都没有意义的无力感，长久笼罩在都柏林的城市上空，男女老少几乎无人幸免……",
+      "totalCount": 3504,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=21&rangeStart=614&rangeEnd=660",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=21&rangeStart=614&rangeEnd=660"
+    },
+    {
+      "bookmarkId": "3300095647_22_621-639",
+      "chapterUid": 22,
+      "range": "621-639",
+      "markText": "只有当一切结束了，你才会开始想念他。",
+      "totalCount": 3258,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=22&rangeStart=621&rangeEnd=639",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=22&rangeStart=621&rangeEnd=639"
+    },
+    {
+      "bookmarkId": "3300095647_25_4986-5045",
+      "chapterUid": 25,
+      "range": "4986-5045",
+      "markText": "她抬起那张苍白的脸，茫茫然地，像一只走投无路的动物。她的眼中既没有爱意，也没有流露出惜别之情，她仿佛在望着一个陌生人。",
+      "totalCount": 2288,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=25&rangeStart=4986&rangeEnd=5045",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=25&rangeStart=4986&rangeEnd=5045"
+    },
+    {
+      "bookmarkId": "3300095647_21_2493-2503",
+      "chapterUid": 21,
+      "range": "2493-2503",
+      "markText": "整个爱尔兰都在下雪。",
+      "totalCount": 1840,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=21&rangeStart=2493&rangeEnd=2503",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=21&rangeStart=2493&rangeEnd=2503"
+    },
+    {
+      "bookmarkId": "3300095647_25_4181-4232",
+      "chapterUid": 25,
+      "range": "4181-4232",
+      "markText": "难道她不应该快乐吗？凭什么她就应该受苦？她有权利获得幸福。弗兰克会抱住她，把她搂在怀里。他会拯救她的。",
+      "totalCount": 1692,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=25&rangeStart=4181&rangeEnd=4232",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=25&rangeStart=4181&rangeEnd=4232"
+    },
+    {
+      "bookmarkId": "3300095647_22_7506-7524",
+      "chapterUid": 22,
+      "range": "7506-7524",
+      "markText": "只有当一切结束了，你才会开始想念他。",
+      "totalCount": 1674,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=22&rangeStart=7506&rangeEnd=7524",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=22&rangeStart=7506&rangeEnd=7524"
+    },
+    {
+      "bookmarkId": "3300095647_23_625-718",
+      "chapterUid": 23,
+      "range": "625-718",
+      "markText": "真正的冒险不会发生在 整天待在家里的人身上—— 我得去外面的世界。",
+      "totalCount": 1568,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=23&rangeStart=625&rangeEnd=718",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=23&rangeStart=625&rangeEnd=718"
+    },
+    {
+      "bookmarkId": "3300095647_32_8325-8407",
+      "chapterUid": 32,
+      "range": "8325-8407",
+      "markText": "在黑暗中，他感觉不到她在身边，也听不见她的声音了。他等待了几分钟，仔细聆听着。他什么也听不见：黑夜一片寂静。他又听了听：仍是一片寂静。他知道，他的孤独已在此刻降临。",
+      "totalCount": 1530,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=32&rangeStart=8325&rangeEnd=8407",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=32&rangeStart=8325&rangeEnd=8407"
+    },
+    {
+      "bookmarkId": "3300095647_23_5887-5919",
+      "chapterUid": 23,
+      "range": "5887-5919",
+      "markText": "人这一生中最幸福的时光无疑是学生时代，他愿意付出一切来换取青春。",
+      "totalCount": 1344,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=23&rangeStart=5887&rangeEnd=5919",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=23&rangeStart=5887&rangeEnd=5919"
+    },
+    {
+      "bookmarkId": "3300095647_24_5860-5909",
+      "chapterUid": 24,
+      "range": "5860-5909",
+      "markText": "抬头望向黑暗，我发现自己是一个被虚荣心驱使，又被虚荣心嘲弄的可怜虫，眼里不禁燃起痛苦和愤怒的火焰。",
+      "totalCount": 1296,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=24&rangeStart=5860&rangeEnd=5909",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=24&rangeStart=5860&rangeEnd=5909"
+    },
+    {
+      "bookmarkId": "3300095647_34_5248-5275",
+      "chapterUid": 34,
+      "range": "5248-5275",
+      "markText": "尽管她知道丈夫能力有限，但她欣赏他作为男人的抽象价值。",
+      "totalCount": 1206,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=34&rangeStart=5248&rangeEnd=5275",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=34&rangeStart=5248&rangeEnd=5275"
+    },
+    {
+      "bookmarkId": "3300095647_28_6732-6749",
+      "chapterUid": 28,
+      "range": "6732-6749",
+      "markText": "那一刻，她才想起自己期待的是什么。",
+      "totalCount": 1139,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=28&rangeStart=6732&rangeEnd=6749",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=28&rangeStart=6732&rangeEnd=6749"
+    },
+    {
+      "bookmarkId": "3300095647_24_1841-1886",
+      "chapterUid": 24,
+      "range": "1841-1886",
+      "markText": "除了偶尔打声招呼，我从未同她讲过话，但她的名字却像一道咒语，召唤着我身体里所有愚蠢的血液。",
+      "totalCount": 1134,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=24&rangeStart=1841&rangeEnd=1886",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=24&rangeStart=1841&rangeEnd=1886"
+    },
+    {
+      "bookmarkId": "3300095647_40_14227-14289",
+      "chapterUid": 40,
+      "range": "14227-14289",
+      "markText": "小钱德勒只觉得脸颊发烫，羞愧难当；他躲进了灯光照不到的地方。他听着听着，发现孩子的啜泣声渐渐平息；悔恨的泪水盈满了他的眼眶。",
+      "totalCount": 996,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=40&rangeStart=14227&rangeEnd=14289",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=40&rangeStart=14227&rangeEnd=14289"
+    },
+    {
+      "bookmarkId": "3300095647_21_1758-1790",
+      "chapterUid": 21,
+      "range": "1758-1790",
+      "markText": "他深切地感受到自己和朋友过着两种截然不同的生活，可他觉得不公平。",
+      "totalCount": 975,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=21&rangeStart=1758&rangeEnd=1790",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=21&rangeStart=1758&rangeEnd=1790"
+    },
+    {
+      "bookmarkId": "3300095647_23_8784-8805",
+      "chapterUid": 23,
+      "range": "8784-8805",
+      "markText": "我有些后悔了，因为我心里一直有些瞧不起他。",
+      "totalCount": 969,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=23&rangeStart=8784&rangeEnd=8805",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=23&rangeStart=8784&rangeEnd=8805"
+    },
+    {
+      "bookmarkId": "3300095647_24_2194-2273",
+      "chapterUid": 24,
+      "range": "2194-2273",
+      "markText": "我很少考虑将来的事情。我不知道自己是否会和她说话，如果说了，我又该如何表达我对她迷惘的爱慕之情呢？然而，我的身体好似一架竖琴，她的一言一行则如拨弄琴弦的手指。",
+      "totalCount": 936,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=24&rangeStart=2194&rangeEnd=2273",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=24&rangeStart=2194&rangeEnd=2273"
+    },
+    {
+      "bookmarkId": "3300095647_25_2412-2461",
+      "chapterUid": 25,
+      "range": "2412-2461",
+      "markText": "工作很辛苦——生活也不容易——然而，在她即将离开这里的时候，她却不觉得这是一种完全无法忍受的生活。",
+      "totalCount": 890,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=25&rangeStart=2412&rangeEnd=2461",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=25&rangeStart=2412&rangeEnd=2461"
+    },
+    {
+      "bookmarkId": "3300095647_27_10800-10875",
+      "chapterUid": 27,
+      "range": "10800-10875",
+      "markText": "考利在第一盏街灯前停住脚步，冷冷地盯着前方。然后，他以一种极为庄重的姿态把手伸向灯光，微笑着，对他的信徒缓缓摊开手掌。一枚小小的金币在他掌中闪闪发光。",
+      "totalCount": 864,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=27&rangeStart=10800&rangeEnd=10875",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=27&rangeStart=10800&rangeEnd=10875"
+    },
+    {
+      "bookmarkId": "3300095647_24_2758-2831",
+      "chapterUid": 24,
+      "range": "2758-2831",
+      "markText": "门对面那盏灯的光照在她雪白的脖颈上，照亮了她垂落的长发，照亮了她轻放在扶栏上的手。她只是随意站着，灯光落在她衣裙的一角，正好映出她衬裙的雪白滚边。",
+      "totalCount": 846,
+      "appLink": "weread://bestbookmark?bookId=3300095647&chapterUid=24&rangeStart=2758&rangeEnd=2831",
+      "webLink": "https://weread.qq.com/web/reader/be5328e0813ab8bdcg0179fb?chapterUid=24&rangeStart=2758&rangeEnd=2831"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

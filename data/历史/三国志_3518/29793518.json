@@ -1,0 +1,1588 @@
+{
+  "meta": {
+    "bookId": "29793518",
+    "title": "三国志",
+    "author": "[西晋]陈寿 裴松之",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/6/YueWen_29793518/t6_YueWen_29793518.jpg",
+    "intro": "《三国志》为西晋陈寿所撰，共六十五卷，其中《魏书》三十卷、《蜀书》十五卷、《吴书》二十卷，主要叙述三国时期的历史，与《史记》、《汉书》、《后汉书》并称“前四史”。南朝宋裴松之为之注，引魏晋时人著述两百多种，丰富了陈寿《三国志》文本本身。",
+    "category": "历史-历史典籍",
+    "publisher": "上海古籍出版社",
+    "publishTime": "2017-01-17 00:00:00",
+    "isbn": "9787532577828",
+    "wordCount": 0,
+    "newRating": 898,
+    "newRatingCount": 1534,
+    "newRatingDetail": {
+      "good": 1391,
+      "fair": 92,
+      "poor": 51,
+      "recent": 6,
+      "deepV": 105,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=29793518",
+    "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97",
+    "lastSync": "2026-05-21T11:51:37Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 2,
+    "bookmarkCount": 0,
+    "contentHash": "62febe85ffdf99a2ef6f16a62b68d9a55e93c728746165d0f8594f5a80bc11dc"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29793518&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 1346,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29793518&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "卷一 魏书一",
+      "level": 1,
+      "wordCount": 32585,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "武帝纪第一",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "卷二 魏书二",
+      "level": 1,
+      "wordCount": 23840,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "文帝纪第二",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "卷三 魏书三",
+      "level": 1,
+      "wordCount": 15696,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "明帝纪第三",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "卷四 魏书四",
+      "level": 1,
+      "wordCount": 23070,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "三少帝纪第四",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "卷五 魏书五",
+      "level": 1,
+      "wordCount": 8694,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "后妃传第五",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "卷六 魏书六",
+      "level": 1,
+      "wordCount": 30990,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "董二袁刘传第六",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "卷七 魏书七",
+      "level": 1,
+      "wordCount": 11710,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "吕布（张邈）臧洪传第七",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "卷八 魏书八",
+      "level": 1,
+      "wordCount": 19060,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二公孙陶四张传第八",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "卷九 魏书九",
+      "level": 1,
+      "wordCount": 24733,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "诸夏侯曹传第九",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "卷十 魏书十",
+      "level": 1,
+      "wordCount": 16591,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "荀彧荀攸贾诩传第十",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "卷十一 魏书十一",
+      "level": 1,
+      "wordCount": 21927,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "袁张凉国田王邴管传第十一",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "卷十二 魏书十二",
+      "level": 1,
+      "wordCount": 14002,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "崔毛徐何邢鲍司马传第十二",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "卷十三 魏书十三",
+      "level": 1,
+      "wordCount": 20781,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "钟繇华歆王朗传第十三",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "卷十四 魏书十四",
+      "level": 1,
+      "wordCount": 23269,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "程郭董刘蒋刘传第十四",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "卷十五 魏书十五",
+      "level": 1,
+      "wordCount": 15394,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘司马梁张温贾传第十五",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "卷十六 魏书十六",
+      "level": 1,
+      "wordCount": 15958,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "任苏杜郑仓传第十六",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "卷十七 魏书十七",
+      "level": 1,
+      "wordCount": 8068,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "张乐于张徐传第十七",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "卷十八 魏书十八",
+      "level": 1,
+      "wordCount": 13064,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二李臧文吕许典二庞阎传第十八",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "卷十九 魏书十九",
+      "level": 1,
+      "wordCount": 14313,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "任城陈萧王传第十九",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "卷二十 魏书二十",
+      "level": 1,
+      "wordCount": 10044,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "武文世王公传第二十",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "卷二十一 魏书二十一",
+      "level": 1,
+      "wordCount": 21593,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王卫二刘傅传第二十一",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "卷二十二 魏书二十二",
+      "level": 1,
+      "wordCount": 13102,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "桓二陈徐卫卢传第二十二",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "卷二十三 魏书二十三",
+      "level": 1,
+      "wordCount": 13821,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "和常杨杜赵裴传第二十三",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "卷二十四 魏书二十四",
+      "level": 1,
+      "wordCount": 10379,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "韩崔高孙王传第二十四",
+          "anchor": "sigil_toc_id_24",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "卷二十五 魏书二十五",
+      "level": 1,
+      "wordCount": 14204,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "辛毗杨阜高堂隆传第二十五",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "卷二十六 魏书二十六",
+      "level": 1,
+      "wordCount": 9120,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "满田牵郭传第二十六",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "卷二十七 魏书二十七",
+      "level": 1,
+      "wordCount": 10206,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "徐胡二王传第二十七",
+          "anchor": "sigil_toc_id_27",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "卷二十八 魏书二十八",
+      "level": 1,
+      "wordCount": 25742,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王毌丘诸葛邓钟传第二十八",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "卷二十九 魏书二十九",
+      "level": 1,
+      "wordCount": 21209,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "方技传第二十九",
+          "anchor": "sigil_toc_id_29",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "卷三十 魏书三十",
+      "level": 1,
+      "wordCount": 20082,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "乌丸鲜卑东夷传第三十",
+          "anchor": "sigil_toc_id_30",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "卷三十一 蜀书一",
+      "level": 1,
+      "wordCount": 3559,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘二牧传第一",
+          "anchor": "sigil_toc_id_31",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "卷三十二 蜀书二",
+      "level": 1,
+      "wordCount": 12818,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "先主传第二",
+          "anchor": "sigil_toc_id_32",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "卷三十三 蜀书三",
+      "level": 1,
+      "wordCount": 5702,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "后主传第三",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "卷三十四 蜀书四",
+      "level": 1,
+      "wordCount": 1891,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二主妃子传第四",
+          "anchor": "sigil_toc_id_34",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "卷三十五 蜀书五",
+      "level": 1,
+      "wordCount": 17122,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "诸葛亮传第五",
+          "anchor": "sigil_toc_id_35",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "卷三十六 蜀书六",
+      "level": 1,
+      "wordCount": 7627,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关张马黄赵传第六",
+          "anchor": "sigil_toc_id_36",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "卷三十七 蜀书七",
+      "level": 1,
+      "wordCount": 5697,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "庞统法正传第七",
+          "anchor": "sigil_toc_id_37",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "卷三十八 蜀书八",
+      "level": 1,
+      "wordCount": 8214,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "许麋孙简伊秦传第八",
+          "anchor": "sigil_toc_id_38",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "卷三十九 蜀书九",
+      "level": 1,
+      "wordCount": 5815,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "董刘马陈董吕传第九",
+          "anchor": "sigil_toc_id_39",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "卷四十 蜀书十",
+      "level": 1,
+      "wordCount": 8726,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘彭廖李刘魏杨传第十",
+          "anchor": "sigil_toc_id_40",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "卷四十一 蜀书十一",
+      "level": 1,
+      "wordCount": 6168,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "霍王向张杨费传第十一",
+          "anchor": "sigil_toc_id_41",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "卷四十二 蜀书十二",
+      "level": 1,
+      "wordCount": 13819,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "杜周杜许孟来尹李谯郤传第十二",
+          "anchor": "sigil_toc_id_42",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "卷四十三 蜀书十三",
+      "level": 1,
+      "wordCount": 6664,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "黄李吕马王张传第十三",
+          "anchor": "sigil_toc_id_43",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "卷四十四 蜀书十四",
+      "level": 1,
+      "wordCount": 7432,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "蒋琬费祎姜维传第十四",
+          "anchor": "sigil_toc_id_44",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "卷四十五 蜀书十五",
+      "level": 1,
+      "wordCount": 11539,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "邓张宗杨传第十五",
+          "anchor": "sigil_toc_id_45",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "卷四十六 吴书一",
+      "level": 1,
+      "wordCount": 13922,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "孙破虏讨逆传第一",
+          "anchor": "sigil_toc_id_46",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "卷四十七 吴书二",
+      "level": 1,
+      "wordCount": 21775,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "吴主传第二",
+          "anchor": "sigil_toc_id_47",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "卷四十八 吴书三",
+      "level": 1,
+      "wordCount": 20401,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "三嗣主传第三",
+          "anchor": "sigil_toc_id_48",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "卷四十九 吴书四",
+      "level": 1,
+      "wordCount": 6467,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘繇太史慈士燮传第四",
+          "anchor": "sigil_toc_id_49",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "卷五十 吴书五",
+      "level": 1,
+      "wordCount": 4275,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "妃嫔传第五",
+          "anchor": "sigil_toc_id_50",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "卷五十一 吴书六",
+      "level": 1,
+      "wordCount": 7508,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "宗室传第六",
+          "anchor": "sigil_toc_id_51",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "卷五十二 吴书七",
+      "level": 1,
+      "wordCount": 14055,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "张顾诸葛步传第七",
+          "anchor": "sigil_toc_id_52",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "卷五十三 吴书八",
+      "level": 1,
+      "wordCount": 8351,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "张严程阚薛传第八",
+          "anchor": "sigil_toc_id_53",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "卷五十四 吴书九",
+      "level": 1,
+      "wordCount": 13632,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "周瑜鲁肃吕蒙传第九",
+          "anchor": "sigil_toc_id_54",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "卷五十五 吴书十",
+      "level": 1,
+      "wordCount": 10311,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "程黄韩蒋周陈董甘凌徐潘丁传第十",
+          "anchor": "sigil_toc_id_55",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "卷五十六 吴书十一",
+      "level": 1,
+      "wordCount": 7541,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "朱治朱然吕范朱桓传第十一",
+          "anchor": "sigil_toc_id_56",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "卷五十七 吴书十二",
+      "level": 1,
+      "wordCount": 15270,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "虞陆张骆陆吾朱传第十二",
+          "anchor": "sigil_toc_id_57",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "卷五十八 吴书十三",
+      "level": 1,
+      "wordCount": 10705,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "陆逊传第十三",
+          "anchor": "sigil_toc_id_58",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "卷五十九 吴书十四",
+      "level": 1,
+      "wordCount": 7371,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "吴主五子传第十四",
+          "anchor": "sigil_toc_id_59",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "卷六十 吴书十五",
+      "level": 1,
+      "wordCount": 10462,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "贺全吕周钟离传第十五",
+          "anchor": "sigil_toc_id_60",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "卷六十一 吴书十六",
+      "level": 1,
+      "wordCount": 7700,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "潘濬陆凯传第十六",
+          "anchor": "sigil_toc_id_61",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "卷六十二 吴书十七",
+      "level": 1,
+      "wordCount": 4300,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "是仪胡综传第十七",
+          "anchor": "sigil_toc_id_62",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "卷六十三 吴书十八",
+      "level": 1,
+      "wordCount": 3934,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "吴范刘惇赵达传第十八",
+          "anchor": "sigil_toc_id_63",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "卷六十四 吴书十九",
+      "level": 1,
+      "wordCount": 13541,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "诸葛滕二孙濮阳传第十九",
+          "anchor": "sigil_toc_id_64",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "卷六十五 吴书二十",
+      "level": 1,
+      "wordCount": 9212,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王楼贺韦华传第二十",
+          "anchor": "sigil_toc_id_65",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "附录",
+      "level": 1,
+      "wordCount": 535,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "上三国志注表",
+          "anchor": "sigil_toc_id_66",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793518&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "四库全书总目提要",
+      "level": 2,
+      "wordCount": 1066,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29793518&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "晋书陈寿传",
+      "level": 2,
+      "wordCount": 698,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29793518&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "宋书裴松之传",
+      "level": 2,
+      "wordCount": 1651,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29793518&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=71"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 28,
+      "chapterTitle": "卷二十六 魏书二十六",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZkmKDw12",
+          "range": "9459-9461",
+          "chapterName": "卷二十六 魏书二十六",
+          "content": "tài hé\n\n太平；安乐。\n区名。在辽宁省锦州市市区南部，南濒渤海。市人民政府驻地。面积865平方千米。人口46万（2020年）。区人民政府驻营盘街道。清属锦县。1957年设锦州市农村工作办事处。1962年设郊区。1983年更名太和区。为锦州市副食品供应基地。农业以蔬菜、水果、畜牧为主导。工业有建材、纺织、机设备、农产品加工等。地处关内外交通要道，战略地位重要。京哈高铁和京哈、丹锡高速公路经此。游览地有笔架山风景区、锦州世博园等。\n“太”本作“大”，原出《易·乾·彖辞》：“保合大和，乃利贞。”张载用以形容气的𬘡缊未分的状态。《正蒙·太和》：“太和所谓道，中涵浮沉、升降、动静相感之性，是生𬘡缊、相荡、胜负、屈伸之始。”认为“道”就是“气”的变化或阴阳二气既矛盾又统一的状态，所以“太和”也就是“道”。\n古县名。隋初改乌突县置，为太和郡治所。治今山西临县西。唐初改名临泉。\n旧县名。元世祖至元二十六年（1289年）置。治今云南大理市西北。明、清时为大理府治所。1913年改名大理。\n县名。在安徽省西北部，颍河斜贯南部。属阜阳市。面积1820平方千米。人口175万（2017年）。县人民政府驻城关镇。北宋开宝六年（973年）置万寿县，宣和年间改泰和县。元改今名。1949—1952年曾属皖北行署区。农产有小麦、高粱、小米、甘薯、大豆、棉花等，并产香椿芽、黄花菜。工业有机械、化肥、纺织、酿酒等。漯阜铁路和宁洛高速公路经此。古迹有文庙、经锄楼。\n年号。（1）魏明帝年号（227—233）。（2）后赵石勒年号（328—330）。（3）成（汉）李势年号（344—346）。（4）晋废帝年号（366—371）。（5）北魏孝文帝年号（477—499）。（6）即“大和（1）”。",
+          "abstract": "太和",
+          "star": -1,
+          "createTime": 1744356079,
+          "createTimeFormatted": "2025-04-11 15:21:19",
+          "isFinish": false,
+          "chapterUid": 28
+        }
+      ]
+    },
+    {
+      "chapterUid": 9,
+      "chapterTitle": "卷七 魏书七",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7YsSZj292",
+          "range": "8491-8789",
+          "chapterName": "",
+          "content": "求田问舍，\n怕应羞见，\n刘郎才气。",
+          "abstract": "陈登者，字元龙，在广陵有威名。又掎角吕布有功，加伏波将军，年三十九卒。后许汜与刘备并在荆州牧刘表坐，表与备共论天下人，汜曰：“陈元龙湖海之士，豪气不除。”备谓表曰：“许君论是非？”表曰：“欲言非，此君为善士，不宜虚言；欲言是，元龙名重天下。”备问汜：“君言豪，宁有事邪？”汜曰：“昔遭乱过下邳，见元龙。元龙无客主之意，久不相与语，自上大床卧，使客卧下床。”备曰：“君有国士之名，今天下大乱，帝主失所，望君忧国忘家，有救世之意，而君求田问舍，言无可采，是元龙所讳也，何缘当与君语？如小人，欲卧百尺楼上，卧君于地，何但上下床之间邪？”表大笑。备因言曰：“若元龙文武胆志，当求之于古耳，造次难得比也。”",
+          "star": -1,
+          "createTime": 1741318399,
+          "createTimeFormatted": "2025-03-07 11:33:19",
+          "isFinish": false,
+          "chapterUid": 9
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "29793518_3_498-607",
+      "chapterUid": 3,
+      "range": "498-607",
+      "markText": "太祖武皇帝，沛国谯人也，姓曹，讳操，字孟德，汉相国参之后。①桓帝世，曹腾为中常侍、大长秋，封费亭侯。②养子嵩嗣，官至太尉，莫能审其生出本末。③嵩生太祖。",
+      "totalCount": 1422,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=498&rangeEnd=607",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=498&rangeEnd=607"
+    },
+    {
+      "bookmarkId": "29793518_3_2533-2547",
+      "chapterUid": 3,
+      "range": "2533-2547",
+      "markText": "太祖知不可匡正，遂不复献言。",
+      "totalCount": 1404,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=2533&rangeEnd=2547",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=2533&rangeEnd=2547"
+    },
+    {
+      "bookmarkId": "29793518_3_2966-2988",
+      "chapterUid": 3,
+      "range": "2966-2988",
+      "markText": "筑室城外，春夏习读书传，秋冬弋猎，以自娱乐。",
+      "totalCount": 1224,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=2966&rangeEnd=2988",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=2966&rangeEnd=2988"
+    },
+    {
+      "bookmarkId": "29793518_3_4050-4068",
+      "chapterUid": 3,
+      "range": "4050-4068",
+      "markText": "既而凄怆曰：“宁我负人，无人负我！”",
+      "totalCount": 980,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=4050&rangeEnd=4068",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=4050&rangeEnd=4068"
+    },
+    {
+      "bookmarkId": "29793518_3_22432-22453",
+      "chapterUid": 3,
+      "range": "22432-22453",
+      "markText": "设使国家无有孤，不知当几人称帝，几人称王。",
+      "totalCount": 918,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=22432&rangeEnd=22453",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=22432&rangeEnd=22453"
+    },
+    {
+      "bookmarkId": "29793518_3_9533-9605",
+      "chapterUid": 3,
+      "range": "9533-9605",
+      "markText": "吕布袭刘备，取下邳。备来奔。程昱说公曰：“观刘备有雄才而甚得众心，终不为人下，不如早图之。”公曰：“方今收英雄时也，杀一人而失天下之心，不可。”",
+      "totalCount": 864,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=9533&rangeEnd=9605",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=9533&rangeEnd=9605"
+    },
+    {
+      "bookmarkId": "29793518_3_11944-12002",
+      "chapterUid": 3,
+      "range": "11944-12002",
+      "markText": "吾知绍之为人，志大而智小，色厉而胆薄，忌克而少威，兵多而分画不明，将骄而政令不一。土地虽广，粮食虽丰，适足以为吾奉也",
+      "totalCount": 850,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=11944&rangeEnd=12002",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=11944&rangeEnd=12002"
+    },
+    {
+      "bookmarkId": "29793518_3_6611-6640",
+      "chapterUid": 3,
+      "range": "6611-6640",
+      "markText": "冬，受降卒三十余万，男女百余万口，收其精锐者，号为青州兵。",
+      "totalCount": 833,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=6611&rangeEnd=6640",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=6611&rangeEnd=6640"
+    },
+    {
+      "bookmarkId": "29793518_3_13282-13305",
+      "chapterUid": 3,
+      "range": "13282-13305",
+      "markText": "孙策闻公与绍相持，乃谋袭许，未发，为刺客所杀。",
+      "totalCount": 814,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=13282&rangeEnd=13305",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=13282&rangeEnd=13305"
+    },
+    {
+      "bookmarkId": "29793518_34_902-966",
+      "chapterUid": 34,
+      "range": "902-966",
+      "markText": "先主不甚乐读书，喜狗马、音乐、美衣服。身长七尺五寸，垂手下膝，顾自见其耳。少语言，善下人，喜怒不形于色。好交结豪侠，年少争附之。",
+      "totalCount": 793,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=34&rangeStart=902&rangeEnd=966",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=34&rangeStart=902&rangeEnd=966"
+    },
+    {
+      "bookmarkId": "29793518_3_1650-1708",
+      "chapterUid": 3,
+      "range": "1650-1708",
+      "markText": "太祖曰：“初不中风，但失爱于叔父，故见罔耳。”嵩乃疑焉。自后叔父（所有）〔有所〕告，嵩终不复信，太祖于是益得肆意矣。",
+      "totalCount": 765,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=1650&rangeEnd=1708",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=1650&rangeEnd=1708"
+    },
+    {
+      "bookmarkId": "29793518_3_7955-7987",
+      "chapterUid": 3,
+      "range": "7955-7987",
+      "markText": "是岁谷一斛五十余万钱，人相食，乃罢吏兵新募者。陶谦死，刘备代之。",
+      "totalCount": 765,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=7955&rangeEnd=7987",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=7955&rangeEnd=7987"
+    },
+    {
+      "bookmarkId": "29793518_38_897-933",
+      "chapterUid": 38,
+      "range": "897-933",
+      "markText": "羽望见良麾盖，策马刺良于万众之中，斩其首还，绍诸将莫能当者，遂解白马围。",
+      "totalCount": 750,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=38&rangeStart=897&rangeEnd=933",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=38&rangeStart=897&rangeEnd=933"
+    },
+    {
+      "bookmarkId": "29793518_3_10165-10201",
+      "chapterUid": 3,
+      "range": "10165-10201",
+      "markText": "张绣降，既而悔之，复反。公与战，军败，为流矢所中，长子昂、弟子安民遇害。",
+      "totalCount": 714,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=10165&rangeEnd=10201",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=10165&rangeEnd=10201"
+    },
+    {
+      "bookmarkId": "29793518_3_8438-8496",
+      "chapterUid": 3,
+      "range": "8438-8496",
+      "markText": "布骑得太祖而不知是，问曰：“曹操何在？”太祖曰：“乘黄马走者是也。”布骑乃释太祖而追黄马者。门火犹盛，太祖突火而出。",
+      "totalCount": 700,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=8438&rangeEnd=8496",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=8438&rangeEnd=8496"
+    },
+    {
+      "bookmarkId": "29793518_4_21111-21131",
+      "chapterUid": 4,
+      "range": "21111-21131",
+      "markText": "自古及今，未有不亡之国，亦无不掘之墓也。",
+      "totalCount": 688,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=4&rangeStart=21111&rangeEnd=21131",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=4&rangeStart=21111&rangeEnd=21131"
+    },
+    {
+      "bookmarkId": "29793518_3_7452-7472",
+      "chapterUid": 3,
+      "range": "7452-7472",
+      "markText": "是岁，孙策受袁术使渡江，数年间遂有江东。",
+      "totalCount": 658,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=7452&rangeEnd=7472",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=7452&rangeEnd=7472"
+    },
+    {
+      "bookmarkId": "29793518_3_2864-2907",
+      "chapterUid": 3,
+      "range": "2864-2907",
+      "markText": "太祖到，皆毁坏祠屋，止绝官吏民不得祠祀。及至秉政，遂除奸邪鬼神之事，世之淫祀由此遂绝。",
+      "totalCount": 656,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=2864&rangeEnd=2907",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=2864&rangeEnd=2907"
+    },
+    {
+      "bookmarkId": "29793518_3_19752-19782",
+      "chapterUid": 3,
+      "range": "19752-19782",
+      "markText": "公曰：“彼素畏尚等，吾急之则并力，缓之则自相图，其势然也。”",
+      "totalCount": 645,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=3&rangeStart=19752&rangeEnd=19782",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=3&rangeStart=19752&rangeEnd=19782"
+    },
+    {
+      "bookmarkId": "29793518_4_17104-17111",
+      "chapterUid": 4,
+      "range": "17104-17111",
+      "markText": "令曰：“可。”",
+      "totalCount": 640,
+      "appLink": "weread://bestbookmark?bookId=29793518&chapterUid=4&rangeStart=17104&rangeEnd=17111",
+      "webLink": "https://weread.qq.com/web/reader/a11324a071c69ceea11aa97?chapterUid=4&rangeStart=17104&rangeEnd=17111"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 38,
+    "chapterOffset": 4751,
+    "progress": 0,
+    "updateTime": 1744419619,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

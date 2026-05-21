@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "bookId": "3300043898",
+    "title": "框架：中国经济、政策路径与金融市场",
+    "author": "高瑞东",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/27/cpPlatform_rJH682S7kThHM8b25Rb8UV/t6_cpPlatform_rJH682S7kThHM8b25Rb8UV.jpg",
+    "intro": "凭借对数据和政策的长期跟踪分析、对全球政治经济文化的深度理解，光大证券首 席宏观经济学家高瑞东认为“宏观经济可预测”。基于丰富的理论、政策、数据、实证和实践积累，高瑞东博士在本书中从宏观研判、政策分析、产业变迁、大国博弈与未来趋势5个角度，构建了12个严谨有效的宏观分析框架，并详述了框架的逻辑推演、关键变量、联动关系、预测模型等。 宏观篇，回顾中国经济发展历程，探寻中国宏观调控从逆周期到跨周期的演进路径。 政策篇，包含财政、货币以及利率三个分析框架。 实体篇，涵盖投入产出表、通胀分析框架。 中美篇，站在大国博弈视角解读美国经济与中美关系。 未来篇，集中分析人口、共同富裕以及低碳转型。 本书有助于经济研究者、公共部门、金融机构和各类企业解读高频宏观数据，把握中期政策脉络，抓住长期发展机遇。",
+    "category": "经济理财-财经",
+    "publisher": "中信出版集团",
+    "publishTime": "2022-10-01 00:00:00",
+    "isbn": "9787521745610",
+    "wordCount": 0,
+    "newRating": 747,
+    "newRatingCount": 96,
+    "newRatingDetail": {
+      "good": 68,
+      "fair": 19,
+      "poor": 9,
+      "recent": 3,
+      "deepV": 28,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300043898",
+    "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22",
+    "lastSync": "2026-05-21T11:52:49Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 147,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "推荐序一 应大国气象，立研究本心",
+      "level": 1,
+      "wordCount": 1628,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "立足中国，放眼全球",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "大胆亮剑，小心求证",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "经世致用，积极有为",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "结语",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "推荐序二 立足中国实践，读懂宏观经济",
+      "level": 1,
+      "wordCount": 1997,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "经济分析框架的实践性",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "经济分析框架的实际性",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "自序 经济学之旅有感",
+      "level": 1,
+      "wordCount": 1402,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "宏观篇",
+      "level": 1,
+      "wordCount": 12869,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 宏观调控框架：从逆周期调控到跨周期调节",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "一 潜在经济增速出现拐点，带来宏观调控分水岭",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        },
+        {
+          "title": "二 潜在经济增速下滑阶段，跨周期与逆周期有机结合",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二章 经济预测框架：通过支出法和生产法核算GDP",
+      "level": 2,
+      "wordCount": 15332,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 GDP数据是怎么统计出来的？",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        },
+        {
+          "title": "二 如何通过支出法预测GDP增速？",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        },
+        {
+          "title": "三 生产法视角下，如何建立GDP预测体系？",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "政策篇",
+      "level": 1,
+      "wordCount": 27829,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第三章 财政分析框架：从国家账本读懂中国经济",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        },
+        {
+          "title": "一 详解财政“四本账”",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "二 如何构建广义财政支出指标？",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        },
+        {
+          "title": "三 新发展模式下，土地财政何去何从？",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "四 财政政策如何推动高质量发展？",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第四章 货币分析框架：政策路径的观测与预判",
+      "level": 2,
+      "wordCount": 23825,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 宏观与市场研究为什么要讨论货币政策？",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        },
+        {
+          "title": "二 决策者视角下货币政策的权衡取舍",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        },
+        {
+          "title": "三 投资者视角下货币政策的观测与预判",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "四 货币信用周期视角下的宏观流动性",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        },
+        {
+          "title": "五 我国的汇率体系与汇率分析",
+          "anchor": "sigil_toc_id_22",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第五章 利率分析框架：连接实体经济与金融市场",
+      "level": 2,
+      "wordCount": 16385,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 利率如何连接实体经济与金融市场？",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "二 利率市场化与利率体系演进",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "三 利率走势的观测与分析",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "实体篇",
+      "level": 1,
+      "wordCount": 13234,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第六章 投入产出表框架：产业联结与产业链变迁",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        },
+        {
+          "title": "一 走近投入产出表",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        },
+        {
+          "title": "二 如何构建产业链全景图？",
+          "anchor": "sigil_toc_id_28",
+          "level": 3
+        },
+        {
+          "title": "三 把握产业链变迁",
+          "anchor": "sigil_toc_id_29",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第七章 通胀分析框架：全方位拆解中国通胀指标",
+      "level": 2,
+      "wordCount": 11711,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 中国通胀体系的宏微观视角",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        },
+        {
+          "title": "二 CPI的全方位拆解",
+          "anchor": "sigil_toc_id_31",
+          "level": 3
+        },
+        {
+          "title": "三 PPI的全方位拆解",
+          "anchor": "sigil_toc_id_32",
+          "level": 3
+        },
+        {
+          "title": "四 客观看待PPI向CPI的传导",
+          "anchor": "sigil_toc_id_33",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "中美篇",
+      "level": 1,
+      "wordCount": 46497,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第八章 美国经济研究框架：维持霸权与全球外溢",
+          "anchor": "sigil_toc_id_34",
+          "level": 2
+        },
+        {
+          "title": "一 两次全球大危机的比较",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        },
+        {
+          "title": "二 美国的利率体系",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        },
+        {
+          "title": "三 解密美国货币市场",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        },
+        {
+          "title": "四 美国财政和税收体制",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第九章 中美关系分析框架：大国博弈与全局推演",
+      "level": 2,
+      "wordCount": 19501,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 中美关系进入百年大拐点",
+          "anchor": "sigil_toc_id_39",
+          "level": 3
+        },
+        {
+          "title": "二 如何看懂美国政治版图？",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        },
+        {
+          "title": "三 中美关系展望：小周期、“小院高墙”和“排华供应链”",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        },
+        {
+          "title": "四 美国霸权的核心——美元霸权",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "未来篇",
+      "level": 1,
+      "wordCount": 9787,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第十一章 共同富裕框架：全球背景与实现路径",
+      "level": 2,
+      "wordCount": 25495,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 为何在这个时点强调共同富裕？",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        },
+        {
+          "title": "二 为什么制造业是实现共同富裕的关键？",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        },
+        {
+          "title": "三 要素改革如何推动共同富裕？",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "四 数字经济如何赋能共同富裕？",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第十二章 全球能源革命：一场政治与经济博弈",
+      "level": 2,
+      "wordCount": 25360,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 全球能源转型加速，中美欧三方如何博弈？",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "二 新能源革命下，全球未来利益争夺点在哪里？",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "三 低碳转型是我国经济稳增长的重要调节变量",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043898&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=17"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "宏观篇",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300043898_6_7789-7846",
+          "range": "7789-7846",
+          "rangeStart": 7789,
+          "rangeEnd": 7846,
+          "markText": "棚改货币化，是指直接通过货币化安置补偿，棚户区拆除后向居民补偿货币，而后居民持现金在商品房市场购房、解决住房需求。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1739237695,
+          "createTimeFormatted": "2025-02-11 09:34:55",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=6&rangeStart=7789&rangeEnd=7846",
+          "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6&rangeStart=7789&rangeEnd=7846"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300043898_3_696-713",
+      "chapterUid": 3,
+      "range": "696-713",
+      "markText": "全球“东升西降”是不可阻挡的趋势。",
+      "totalCount": 140,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=3&rangeStart=696&rangeEnd=713",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=3&rangeStart=696&rangeEnd=713"
+    },
+    {
+      "bookmarkId": "3300043898_6_17876-17948",
+      "chapterUid": 6,
+      "range": "17876-17948",
+      "markText": "所谓跨周期调节，淡化了过往“见招拆招”的调控模式，而是通过对经济的前瞻预判，提前做出应对，并且在中长期的视角下，为未来的不可控因素留下对冲空间。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=6&rangeStart=17876&rangeEnd=17948",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6&rangeStart=17876&rangeEnd=17948"
+    },
+    {
+      "bookmarkId": "3300043898_5_692-733",
+      "chapterUid": 5,
+      "range": "692-733",
+      "markText": "经济一词，源于“经邦济世”，体现的就是中国古代文人修身、齐家、治国、平天下的抱负。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=5&rangeStart=692&rangeEnd=733",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=5&rangeStart=692&rangeEnd=733"
+    },
+    {
+      "bookmarkId": "3300043898_6_15537-15622",
+      "chapterUid": 6,
+      "range": "15537-15622",
+      "markText": "在融资端、土地端调控层层加码的背景下，房地产两三年一次的大周期波动渐渐被抹平。在宏观调控的政策工具箱中，也逐步将房地产调控的角色淡化，而转向了灵活、前瞻的跨周期宏观调控。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=6&rangeStart=15537&rangeEnd=15622",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6&rangeStart=15537&rangeEnd=15622"
+    },
+    {
+      "bookmarkId": "3300043898_6_7789-7846",
+      "chapterUid": 6,
+      "range": "7789-7846",
+      "markText": "棚改货币化，是指直接通过货币化安置补偿，棚户区拆除后向居民补偿货币，而后居民持现金在商品房市场购房、解决住房需求。",
+      "totalCount": 70,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=6&rangeStart=7789&rangeEnd=7846",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6&rangeStart=7789&rangeEnd=7846"
+    },
+    {
+      "bookmarkId": "3300043898_6_7566-7611",
+      "chapterUid": 6,
+      "range": "7566-7611",
+      "markText": "去杠杆方面，2016—2018年，非金融企业杠杆率下滑，地方政府的杠杆率也没有进一步增长。",
+      "totalCount": 65,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=6&rangeStart=7566&rangeEnd=7611",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6&rangeStart=7566&rangeEnd=7611"
+    },
+    {
+      "bookmarkId": "3300043898_6_2542-2585",
+      "chapterUid": 6,
+      "range": "2542-2585",
+      "markText": "青壮年劳动力群体的快速涌现，不仅降低了供给端的用工成本，也释放了大量的住房、消费需求。",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=6&rangeStart=2542&rangeEnd=2585",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6&rangeStart=2542&rangeEnd=2585"
+    },
+    {
+      "bookmarkId": "3300043898_6_6500-6554",
+      "chapterUid": 6,
+      "range": "6500-6554",
+      "markText": "首次系统阐述了新常态的三个特点：一是增速落入中高速区间，二是经济结构出现明显变化，三是增长动力和机制发生改变",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=6&rangeStart=6500&rangeEnd=6554",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6&rangeStart=6500&rangeEnd=6554"
+    },
+    {
+      "bookmarkId": "3300043898_6_8049-8084",
+      "chapterUid": 6,
+      "range": "8049-8084",
+      "markText": "通过棚改，全国房地产库存从2016年持续下滑，一直到2018年降至低位",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=6&rangeStart=8049&rangeEnd=8084",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6&rangeStart=8049&rangeEnd=8084"
+    },
+    {
+      "bookmarkId": "3300043898_6_16712-16756",
+      "chapterUid": 6,
+      "range": "16712-16756",
+      "markText": "既要重启逆周期调控，对冲经济下行，又不能过度消耗政策空间，要为中长期的经济增长保留空间。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=6&rangeStart=16712&rangeEnd=16756",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6&rangeStart=16712&rangeEnd=16756"
+    },
+    {
+      "bookmarkId": "3300043898_9_2154-2203",
+      "chapterUid": 9,
+      "range": "2154-2203",
+      "markText": "维克塞尔认为，当货币数量增加，货币利率低于自然利率时，企业家由于有利可图，就会扩大投资、增加产出。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=9&rangeStart=2154&rangeEnd=2203",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=9&rangeStart=2154&rangeEnd=2203"
+    },
+    {
+      "bookmarkId": "3300043898_14_14604-14681",
+      "chapterUid": 14,
+      "range": "14604-14681",
+      "markText": "美国政客操纵选区划分的方式有两种，将支持对手方的绝大多数领域集中于一个选区并战略性放弃该选区，或者尽可能将对方阵营支持者划分至多个选区，以达到稀释的作用。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=14&rangeStart=14604&rangeEnd=14681",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=14&rangeStart=14604&rangeEnd=14681"
+    },
+    {
+      "bookmarkId": "3300043898_6_6718-6756",
+      "chapterUid": 6,
+      "range": "6718-6756",
+      "markText": "然而，考虑到潜在经济增速已经触顶回落，以需求扩张来吸收过剩产能的空间就变小了",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=6&rangeStart=6718&rangeEnd=6756",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6&rangeStart=6718&rangeEnd=6756"
+    },
+    {
+      "bookmarkId": "3300043898_6_9371-9417",
+      "chapterUid": 6,
+      "range": "9371-9417",
+      "markText": "决策层就多次强调要形成强大国内市场，提升国内市场运行效率，对内促进内循环，对外加强联通开放。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=6&rangeStart=9371&rangeEnd=9417",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6&rangeStart=9371&rangeEnd=9417"
+    },
+    {
+      "bookmarkId": "3300043898_9_14695-14755",
+      "chapterUid": 9,
+      "range": "14695-14755",
+      "markText": "中国人民银行实际上可以通过改变法定存款准备金率，来调节商业银行体系的超额存款准备金水平，这样就是通常所说的升准或者降准。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=9&rangeStart=14695&rangeEnd=14755",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=9&rangeStart=14695&rangeEnd=14755"
+    },
+    {
+      "bookmarkId": "3300043898_14_26217-26245",
+      "chapterUid": 14,
+      "range": "26217-26245",
+      "markText": "全球贸易链只能解决商品的高通胀，却解决不了服务业的高通胀",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=14&rangeStart=26217&rangeEnd=26245",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=14&rangeStart=26217&rangeEnd=26245"
+    },
+    {
+      "bookmarkId": "3300043898_6_9988-10061",
+      "chapterUid": 6,
+      "range": "9988-10061",
+      "markText": "在工业化和城镇化发展的前期，政府需要初始启动资金，建设包括交通运输、能源、医院等一系列基础设施。而具有抵押属性的土地，就是金融系统里天然的抵押物。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=6&rangeStart=9988&rangeEnd=10061",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6&rangeStart=9988&rangeEnd=10061"
+    },
+    {
+      "bookmarkId": "3300043898_14_26829-26921",
+      "chapterUid": 14,
+      "range": "26829-26921",
+      "markText": "这样的机制也存在弊端，一方面，超发的货币不断流入资本市场里，资本价格持续水涨船高，加速了美国国内的贫富差距；另一方面，超发的美元也持续削弱美元购买力，冲击美元信用体系（见图9-11）。",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=14&rangeStart=26829&rangeEnd=26921",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=14&rangeStart=26829&rangeEnd=26921"
+    },
+    {
+      "bookmarkId": "3300043898_6_587-834",
+      "chapterUid": 6,
+      "range": "587-834",
+      "markText": "2010年之前，我国经济的潜在增速持续上升，需求端快速扩张，无论是内需端的基建、住房、消费需求，还是中国加入WTO之后来自海外的强劲需求，均在快速释放",
+      "totalCount": 44,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=6&rangeStart=587&rangeEnd=834",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=6&rangeStart=587&rangeEnd=834"
+    },
+    {
+      "bookmarkId": "3300043898_8_10354-10425",
+      "chapterUid": 8,
+      "range": "10354-10425",
+      "markText": "2018年，我国出台了企业职工基本养老保险基金中央调剂制度，将收支状况较好省份的基金结余按一定比例调剂至缺口省份，确保各地养老金按时足额发放。",
+      "totalCount": 42,
+      "appLink": "weread://bestbookmark?bookId=3300043898&chapterUid=8&rangeStart=10354&rangeEnd=10425",
+      "webLink": "https://weread.qq.com/web/reader/ae032620813ab77a5g018f22?chapterUid=8&rangeStart=10354&rangeEnd=10425"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

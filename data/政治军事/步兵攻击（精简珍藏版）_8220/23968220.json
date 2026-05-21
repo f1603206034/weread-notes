@@ -1,0 +1,899 @@
+{
+  "meta": {
+    "bookId": "23968220",
+    "title": "步兵攻击（精简珍藏版）",
+    "author": "埃尔温·隆美尔",
+    "translator": "王湘穗",
+    "cover": "https://cdn.weread.qq.com/weread/cover/34/YueWen_23968220/t6_YueWen_23968220.jpg",
+    "intro": "《步兵攻击》是一本经典军事类战术学著作。由二战时德国著名将领隆美尔根据自己在一战中的亲身经历写成，对参加的每一场战斗都进行了细致入微的描述。堪称军事理论的经典之作。而《大纵深战役理论：精简珍藏版》则是在《大纵深战役理论》的基础上进行的精简。旨在让读者在碎片化阅读时代，能够用较短的时间汲取外国经典军事名著的精髓。",
+    "category": "政治军事-军事",
+    "publisher": "长江文艺出版社",
+    "publishTime": "2018-11-01 00:00:00",
+    "isbn": "9787535499547",
+    "wordCount": 0,
+    "newRating": 810,
+    "newRatingCount": 376,
+    "newRatingDetail": {
+      "good": 306,
+      "fair": 61,
+      "poor": 9,
+      "recent": 0,
+      "deepV": 43,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=23968220",
+    "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183",
+    "lastSync": "2026-05-21T11:47:42Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 149,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 241,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "总序 思想不朽 经典长青",
+      "level": 1,
+      "wordCount": 1523,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 219,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第一章 运动战——比利时和法国北部（1914年）",
+      "level": 1,
+      "wordCount": 859,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "出征",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23968220&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "侦察隆格维周边以及为初次战斗做准备",
+      "level": 2,
+      "wordCount": 1375,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "在布莱德的行动",
+      "level": 2,
+      "wordCount": 2318,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "默兹河畔——在蒙特与杜尔贡树林的行动",
+      "level": 2,
+      "wordCount": 2976,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "在格斯内的行动",
+      "level": 2,
+      "wordCount": 764,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "普雷兹战斗",
+      "level": 2,
+      "wordCount": 723,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "进攻德福依树林",
+      "level": 2,
+      "wordCount": 1696,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "在德福依树林中的战斗",
+      "level": 2,
+      "wordCount": 1730,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "1914年9月9日至10日的夜袭",
+      "level": 2,
+      "wordCount": 1430,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "途经阿戈讷撤退",
+      "level": 2,
+      "wordCount": 826,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "在蒙特巴兰维尔附近的行动",
+      "level": 2,
+      "wordCount": 1532,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "罗马公路沿线的林间战斗",
+      "level": 2,
+      "wordCount": 1498,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第二章 阿尔贡战役（1915年）",
+      "level": 1,
+      "wordCount": 2974,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1915年1月29日的战斗",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23968220&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "逼近中枢阵地",
+      "level": 2,
+      "wordCount": 2545,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "1915年9月8日的进攻",
+      "level": 2,
+      "wordCount": 1540,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第三章 孚日高地的阵地战（1916年）罗马尼亚的运动战（1916—1917年）",
+      "level": 1,
+      "wordCount": 1866,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "突袭“松树瘤”阵地",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23968220&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "占领1794高地",
+      "level": 2,
+      "wordCount": 647,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "强攻勒斯路易",
+      "level": 2,
+      "wordCount": 806,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "在库佩鲁—瓦拉利周边的战斗",
+      "level": 2,
+      "wordCount": 2101,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "马古拉奥多贝什蒂和1001高地",
+      "level": 2,
+      "wordCount": 2084,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "加杰什蒂之战——靠近维德拉",
+      "level": 2,
+      "wordCount": 3278,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第四章 喀尔巴阡山东南部的战斗（1917年）",
+      "level": 1,
+      "wordCount": 538,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "向喀尔巴阡山前线进军",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23968220&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "1917年8月9日的攻击",
+      "level": 2,
+      "wordCount": 2001,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "1917年8月10日的进攻",
+      "level": 2,
+      "wordCount": 2625,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "1917年8月11日对科什纳山的攻坚战",
+      "level": 2,
+      "wordCount": 3218,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "1917年8月12日的战斗",
+      "level": 2,
+      "wordCount": 867,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "1917年8月13日至18日的防御战",
+      "level": 2,
+      "wordCount": 3742,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "1917年8月19日对科什纳山的再次攻击",
+      "level": 2,
+      "wordCount": 2395,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "重新转入防御",
+      "level": 2,
+      "wordCount": 867,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第五章 托勒敏攻势（1917年）",
+      "level": 1,
+      "wordCount": 1158,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第12次伊松佐战役的部署及准备",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23968220&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "第一天进攻：哈夫尼克和1114高地",
+      "level": 2,
+      "wordCount": 3089,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "第二天进攻：突破克罗法特阵地",
+      "level": 2,
+      "wordCount": 2399,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "进攻库克山，封堵路易科—萨佛纳山谷，打通路易科通道",
+      "level": 2,
+      "wordCount": 3118,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "强攻克拉格恩扎山",
+      "level": 2,
+      "wordCount": 1941,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "夺取1192高地与莫兹里峰，进攻马塔尤尔山",
+      "level": 2,
+      "wordCount": 2934,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "第六章 越过塔利亚门托河和皮亚韦河的追击（1917—1918年）",
+      "level": 1,
+      "wordCount": 1431,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "马瑟里斯—卡姆帕格里欧—托雷河—塔利亚门托河—克劳塔纳隘道",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23968220&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "进攻奇莫拉伊斯以西的意军阵地",
+      "level": 2,
+      "wordCount": 1775,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "向埃尔托和瓦伊昂山谷的追击",
+      "level": 2,
+      "wordCount": 934,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "隆加罗内的作战",
+      "level": 2,
+      "wordCount": 4663,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "格拉帕山区的战斗",
+      "level": 2,
+      "wordCount": 1634,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "主编简介",
+      "level": 1,
+      "wordCount": 192,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "赞誉",
+      "level": 1,
+      "wordCount": 261,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23968220&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=47"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 18,
+      "chapterTitle": "第二章 阿尔贡战役（1915年）",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "23968220_18_940-1036",
+          "range": "940-1036",
+          "rangeStart": 940,
+          "rangeEnd": 1036,
+          "markText": "为了赢得士兵的信任，指挥官必须严格要求自己，小心谨慎，懂得照顾士兵，愿意和士兵同甘共苦；最重要的是事事做表率，为士兵树立榜样。一旦指挥官获得了士兵完全的信任，士兵们就会跟他奋不顾身地冲锋陷阵。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1763024882,
+          "createTimeFormatted": "2025-11-13 17:08:02",
+          "chapterUid": 18,
+          "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=18&rangeStart=940&rangeEnd=1036",
+          "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=18&rangeStart=940&rangeEnd=1036"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "23968220_18_940-1036",
+      "chapterUid": 18,
+      "range": "940-1036",
+      "markText": "为了赢得士兵的信任，指挥官必须严格要求自己，小心谨慎，懂得照顾士兵，愿意和士兵同甘共苦；最重要的是事事做表率，为士兵树立榜样。一旦指挥官获得了士兵完全的信任，士兵们就会跟他奋不顾身地冲锋陷阵。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=18&rangeStart=940&rangeEnd=1036",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=18&rangeStart=940&rangeEnd=1036"
+    },
+    {
+      "bookmarkId": "23968220_17_2327-2353",
+      "chapterUid": 17,
+      "range": "2327-2353",
+      "markText": "在近距离白刃战中，胜利永远属于弹夹里多一颗子弹的人。",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=17&rangeStart=2327&rangeEnd=2353",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=17&rangeStart=2327&rangeEnd=2353"
+    },
+    {
+      "bookmarkId": "23968220_9_3446-3488",
+      "chapterUid": 9,
+      "range": "3446-3488",
+      "markText": "要在敌人轰炸之前就挖战壕，宁可备而不用，也不能用而不备，平时多流汗，战时才能少流血。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=9&rangeStart=3446&rangeEnd=3488",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=9&rangeStart=3446&rangeEnd=3488"
+    },
+    {
+      "bookmarkId": "23968220_9_3681-3727",
+      "chapterUid": 9,
+      "range": "3681-3727",
+      "markText": "自己的炮火造成自己不必要的伤亡，所以炮兵和步兵之间要保持联络，炮兵要不间断地观察战场的情况。",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=9&rangeStart=3681&rangeEnd=3727",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=9&rangeStart=3681&rangeEnd=3727"
+    },
+    {
+      "bookmarkId": "23968220_33_2952-3042",
+      "chapterUid": 33,
+      "range": "2952-3042",
+      "markText": "先头部队应该在最短时间内突进最远的距离，而且在突破过程中不能分散精力，这一点至关重要。有了这个前提，我们在进攻第二线的时候就可以将各支部队集中在一起，等预备队抵达后形成最大的合力。",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=33&rangeStart=2952&rangeEnd=3042",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=33&rangeStart=2952&rangeEnd=3042"
+    },
+    {
+      "bookmarkId": "23968220_9_4022-4082",
+      "chapterUid": 9,
+      "range": "4022-4082",
+      "markText": "还有一点需要注意，那就是先头部队应该尽可能多地部署一些机枪火力。因为不论在遭遇战还是在进攻战中，机枪都是绝对不可或缺的。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=9&rangeStart=4022&rangeEnd=4082",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=9&rangeStart=4022&rangeEnd=4082"
+    },
+    {
+      "bookmarkId": "23968220_4_1175-1206",
+      "chapterUid": 4,
+      "range": "1175-1206",
+      "markText": "打仗之法，并不要复杂的调动，最简单的就是最好的，要以常识为根本",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=4&rangeStart=1175&rangeEnd=1206",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=4&rangeStart=1175&rangeEnd=1206"
+    },
+    {
+      "bookmarkId": "23968220_42_2482-2525",
+      "chapterUid": 42,
+      "range": "2482-2525",
+      "markText": "对敌军造成的心理震慑远远大于实际上的伤亡情况，少数逃跑的守军很快造成敌军大范围的恐慌。",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=42&rangeStart=2482&rangeEnd=2525",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=42&rangeStart=2482&rangeEnd=2525"
+    },
+    {
+      "bookmarkId": "23968220_8_3136-3188",
+      "chapterUid": 8,
+      "range": "3136-3188",
+      "markText": "在村庄里发动攻击，往往会受到重大伤亡，所以要尽量避免。最好用火力把敌人牵制在城镇村庄之外，然后展开攻击。",
+      "totalCount": 117,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=8&rangeStart=3136&rangeEnd=3188",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=8&rangeStart=3136&rangeEnd=3188"
+    },
+    {
+      "bookmarkId": "23968220_12_2137-2166",
+      "chapterUid": 12,
+      "range": "2137-2166",
+      "markText": "指挥所的选址应该考虑隐蔽性，绝不能挑选那些引人注目的山头。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=12&rangeStart=2137&rangeEnd=2166",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=12&rangeStart=2137&rangeEnd=2166"
+    },
+    {
+      "bookmarkId": "23968220_12_2489-2524",
+      "chapterUid": 12,
+      "range": "2489-2524",
+      "markText": "此时指挥官必须学会控制局面，必要时不惜使用非常手段，以维持战局的稳定。",
+      "totalCount": 105,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=12&rangeStart=2489&rangeEnd=2524",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=12&rangeStart=2489&rangeEnd=2524"
+    },
+    {
+      "bookmarkId": "23968220_20_1835-1913",
+      "chapterUid": 20,
+      "range": "1835-1913",
+      "markText": "只要炮击一结束，3个突击队就开始冲锋，不开一枪穿过附近的法军阵地，然后占领既定目标。为了保证进攻速度，消灭残敌和收容俘虏的工作则交给了后续部队及预备队承担。",
+      "totalCount": 105,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=20&rangeStart=1835&rangeEnd=1913",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=20&rangeStart=1835&rangeEnd=1913"
+    },
+    {
+      "bookmarkId": "23968220_7_2017-2067",
+      "chapterUid": 7,
+      "range": "2017-2067",
+      "markText": "和平时期要注意军事地形学方面的学习，强化按方位角行进的技巧，掌握夜间使用夜光指南针保持方向感的能力，",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=7&rangeStart=2017&rangeEnd=2067",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=7&rangeStart=2017&rangeEnd=2067"
+    },
+    {
+      "bookmarkId": "23968220_9_2938-2958",
+      "chapterUid": 9,
+      "range": "2938-2958",
+      "markText": "我们不分敌我，竭尽所能地为他们提供帮助。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=9&rangeStart=2938&rangeEnd=2958",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=9&rangeStart=2938&rangeEnd=2958"
+    },
+    {
+      "bookmarkId": "23968220_29_679-734",
+      "chapterUid": 29,
+      "range": "679-734",
+      "markText": "营长把第1连、第3连、第6连，重机枪第2连、第3连的指挥权交给了我，到这时，我指挥的是一支数量足够庞大的部队。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=29&rangeStart=679&rangeEnd=734",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=29&rangeStart=679&rangeEnd=734"
+    },
+    {
+      "bookmarkId": "23968220_45_2206-2279",
+      "chapterUid": 45,
+      "range": "2206-2279",
+      "markText": "在战争的最后一年里，我怀着沉重的心情关注着符腾堡山地营所参与的各场恶战。在经历这些战役后，山地营已经伤痕累累，最终只有很少一部分人活着回到了祖国。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=45&rangeStart=2206&rangeEnd=2279",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=45&rangeStart=2206&rangeEnd=2279"
+    },
+    {
+      "bookmarkId": "23968220_14_1462-1494",
+      "chapterUid": 14,
+      "range": "1462-1494",
+      "markText": "法军步兵依然没有利用这个机会进一步行动，我们得以避免更大的损失。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=14&rangeStart=1462&rangeEnd=1494",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=14&rangeStart=1462&rangeEnd=1494"
+    },
+    {
+      "bookmarkId": "23968220_39_1990-2044",
+      "chapterUid": 39,
+      "range": "1990-2044",
+      "markText": "就这样，一个意军团的37个军官和1600个士兵投降了，我们甚至没有足够的人手去把他们携带的装备和武器解除掉。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=39&rangeStart=1990&rangeEnd=2044",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=39&rangeStart=1990&rangeEnd=2044"
+    },
+    {
+      "bookmarkId": "23968220_10_912-938",
+      "chapterUid": 10,
+      "range": "912-938",
+      "markText": "一位军官接管了由我暂时指挥的部队，让我感到有些失落。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=10&rangeStart=912&rangeEnd=938",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=10&rangeStart=912&rangeEnd=938"
+    },
+    {
+      "bookmarkId": "23968220_12_1156-1190",
+      "chapterUid": 12,
+      "range": "1156-1190",
+      "markText": "机枪连的射手慌忙向法军开火，可是火力打在了处于第一线的自己人的身上。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=23968220&chapterUid=12&rangeStart=1156&rangeEnd=1190",
+      "webLink": "https://weread.qq.com/web/reader/3c5325e0716db9dc3c5c183?chapterUid=12&rangeStart=1156&rangeEnd=1190"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 17,
+    "chapterOffset": 1586,
+    "progress": 0,
+    "updateTime": 1763024921,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

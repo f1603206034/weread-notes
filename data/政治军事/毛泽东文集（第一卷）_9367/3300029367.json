@@ -1,0 +1,1318 @@
+{
+  "meta": {
+    "bookId": "3300029367",
+    "title": "毛泽东文集（第一卷）",
+    "author": "中共中央文献研究室编",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/61/cpPlatform_9xeGyeAMdg6mJk2UhCk7Y5/t6_cpPlatform_9xeGyeAMdg6mJk2UhCk7Y5.jpg",
+    "intro": "毛泽东是伟大的马克思主义者，无产阶级革命家、战略家和理论家。他一生中写下大量文稿，作过许多讲话和谈话。这是一笔极为丰富和珍贵的精神财富。已经编入《毛泽东选集》一至四卷的，是毛泽东在新中国建立前的主要著作。此外，他还有大量的文稿和讲话谈话记录稿，包括建国前和建国后的，其中有相当部分内容重要或比较重要，对于深入地学习和研究毛泽东思想具有十分重要的价值，编入《毛泽东文集》出版。",
+    "category": "政治军事-政治",
+    "publisher": "人民出版社",
+    "publishTime": "1993-12-01 00:00:00",
+    "isbn": "7010018332",
+    "wordCount": 0,
+    "newRating": 949,
+    "newRatingCount": 75,
+    "newRatingDetail": {
+      "good": 71,
+      "fair": 0,
+      "poor": 4,
+      "recent": 1,
+      "deepV": 25,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300029367",
+    "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1",
+    "lastSync": "2026-05-21T11:56:36Z",
+    "readingProgress": "31%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "f5b0fff3bd13ac7087bdb8ac58284bbd32043427a9b154b8f4d36eb5f65df7a0"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 130,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "出版说明",
+      "level": 1,
+      "wordCount": 529,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "在新民学会长沙会员大会上的发言",
+      "level": 1,
+      "wordCount": 1805,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "给蔡和森的信",
+      "level": 1,
+      "wordCount": 687,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "所希望于劳工会的",
+      "level": 1,
+      "wordCount": 761,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "更宜注意的问题",
+      "level": 1,
+      "wordCount": 1126,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "外力、军阀与革命",
+      "level": 1,
+      "wordCount": 2808,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "《广东省党部代表大会会场日刊》发刊词",
+      "level": 1,
+      "wordCount": 1763,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "答少年中国学会改组委员会问",
+      "level": 1,
+      "wordCount": 897,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "《政治周报》发刊理由",
+      "level": 1,
+      "wordCount": 1757,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "国民党右派分离的原因及其对于革命前途的影响",
+      "level": 1,
+      "wordCount": 5307,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "纪念巴黎公社的重要意义",
+      "level": 1,
+      "wordCount": 2396,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "国民革命与农民运动 ——《农民问题丛刊》序",
+      "level": 1,
+      "wordCount": 2940,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "在土地委员会第一次扩大会议上的发言",
+      "level": 1,
+      "wordCount": 1415,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "在中央紧急会议上的发言",
+      "level": 1,
+      "wordCount": 1609,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "土地法",
+      "level": 1,
+      "wordCount": 1323,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "红军第四军司令部布告",
+      "level": 1,
+      "wordCount": 669,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "红军第四军前委给中央的信",
+      "level": 1,
+      "wordCount": 6620,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "给林彪的信",
+      "level": 1,
+      "wordCount": 8525,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "中国共产党红军第四军第九次代表大会决议案",
+      "level": 1,
+      "wordCount": 19747,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关于纠正党内的错误思想",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "党的组织问题",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "党内教育问题",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "红军宣传工作问题",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        },
+        {
+          "title": "士兵政治训练问题",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "废止肉刑问题",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        },
+        {
+          "title": "优待伤病兵问题",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "红军军事系统与政治系统关系问题",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "寻乌调查",
+      "level": 1,
+      "wordCount": 74839,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 寻乌的政治区划",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "第二章 寻乌的交通",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        },
+        {
+          "title": "第三章 寻乌的商业",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        },
+        {
+          "title": "第四章 寻乌的旧有土地关系",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        },
+        {
+          "title": "第五章 寻乌的土地斗争",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "《东塘等处调查》前言",
+      "level": 1,
+      "wordCount": 370,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "分青和出租问题",
+      "level": 1,
+      "wordCount": 3448,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "《兴国调查》前言",
+      "level": 1,
+      "wordCount": 919,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "关于加强春耕工作的意见",
+      "level": 1,
+      "wordCount": 1395,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "普遍地举办《时事简报》",
+      "level": 1,
+      "wordCount": 3909,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 总政治部的通令",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        },
+        {
+          "title": "二 怎样办《时事简报》",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "总政治部关于调查人口和土地状况的通知",
+      "level": 1,
+      "wordCount": 983,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "查田运动的群众工作",
+      "level": 1,
+      "wordCount": 3502,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "长冈乡调查",
+      "level": 1,
+      "wordCount": 20406,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "才溪乡调查",
+      "level": 1,
+      "wordCount": 10352,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "乡苏怎样工作？",
+      "level": 1,
+      "wordCount": 9138,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "中华苏维埃共和国中央政府、中国工农红军革命军事委员会抗日救国宣言",
+      "level": 1,
+      "wordCount": 1117,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "直罗战役同目前的形势与任务",
+      "level": 1,
+      "wordCount": 4952,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "关于转变对富农的策略等问题给张闻天的信",
+      "level": 1,
+      "wordCount": 1016,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "中华苏维埃共和国中央执行委员会关于改变对富农政策的命令",
+      "level": 1,
+      "wordCount": 703,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "关于战略方针和作战指挥的基本原则",
+      "level": 1,
+      "wordCount": 3694,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "甲 战略方针",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        },
+        {
+          "title": "乙 作战指挥上的基本原则",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "中国人民红军抗日先锋军布告",
+      "level": 1,
+      "wordCount": 718,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "停战议和一致抗日通电",
+      "level": 1,
+      "wordCount": 1058,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "给阎锡山的信",
+      "level": 1,
+      "wordCount": 632,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "和美国记者斯诺的谈话",
+      "level": 1,
+      "wordCount": 13252,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "外交问题",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        },
+        {
+          "title": "论反对日本帝国主义",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        },
+        {
+          "title": "论统一战线",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "给高桂滋的信",
+      "level": 1,
+      "wordCount": 1269,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "给杨虎城的信",
+      "level": 1,
+      "wordCount": 641,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "给宋哲元的信",
+      "level": 1,
+      "wordCount": 1038,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "给宋子文的信",
+      "level": 1,
+      "wordCount": 449,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "给傅作义的信",
+      "level": 1,
+      "wordCount": 737,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "中国共产党致中国国民党书",
+      "level": 1,
+      "wordCount": 6731,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "给王以哲的信",
+      "level": 1,
+      "wordCount": 1118,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "抗日反蒋不能并提",
+      "level": 1,
+      "wordCount": 1472,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "给宋庆龄的信",
+      "level": 1,
+      "wordCount": 777,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "给蔡元培的信",
+      "level": 1,
+      "wordCount": 1660,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "国共两党抗日救国协定草案",
+      "level": 1,
+      "wordCount": 1503,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "给张学良的信",
+      "level": 1,
+      "wordCount": 577,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "为徐向前起草的致胡宗南信",
+      "level": 1,
+      "wordCount": 672,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "给叶剑英、刘鼎的信",
+      "level": 1,
+      "wordCount": 913,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "给傅作义的信",
+      "level": 1,
+      "wordCount": 770,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "致蒋介石及国民革命军西北各将领书",
+      "level": 1,
+      "wordCount": 2028,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "在中国文艺协会成立大会上的讲话",
+      "level": 1,
+      "wordCount": 726,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "给蒋介石的信",
+      "level": 1,
+      "wordCount": 1556,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "给冯玉祥的信",
+      "level": 1,
+      "wordCount": 831,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "关于西安事变致国民党、国民政府电",
+      "level": 1,
+      "wordCount": 1476,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "实现国内和平一致抗日的五项条件",
+      "level": 1,
+      "wordCount": 470,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "给中华民族革命同盟的信",
+      "level": 1,
+      "wordCount": 1034,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "给阎锡山的信",
+      "level": 1,
+      "wordCount": 1110,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "为徐特立六十岁生日写的贺信",
+      "level": 1,
+      "wordCount": 752,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "中日问题与西安事变 ——和史沫特莱的谈话",
+      "level": 1,
+      "wordCount": 9635,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "国内和平实现后的形势和任务",
+      "level": 1,
+      "wordCount": 517,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "抗日民主与北方青年",
+      "level": 1,
+      "wordCount": 4641,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "关于十五年来党的路线和传统问题",
+      "level": 1,
+      "wordCount": 3896,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关于党的路线",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        },
+        {
+          "title": "关于党的传统",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "给何香凝的信",
+      "level": 1,
+      "wordCount": 698,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300029367&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=70"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 22,
+      "chapterTitle": "寻乌调查",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300029367_22_404-660",
+          "range": "404-660",
+          "rangeStart": 404,
+          "rangeEnd": 660,
+          "markText": "寻乌调查\n（一九三○年五月）\n我做的调查以这次为最大规模。我过去做过湘潭、湘乡、衡山、醴陵、长沙、永新、宁冈七个有系统的调查，湖南那五个是大革命时代（一九二七年一月）做的，永新、宁冈两个是井冈山时代（一九二七年十一月）[1]做的。湖南五个放在我的爱人杨开慧手里，她被杀了，这五个调查大概是损失了。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1723447198,
+          "createTimeFormatted": "2024-08-12 15:19:58",
+          "chapterUid": 22,
+          "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=22&rangeStart=404&rangeEnd=660",
+          "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=22&rangeStart=404&rangeEnd=660"
+        }
+      ]
+    },
+    {
+      "chapterUid": 19,
+      "chapterTitle": "红军第四军前委给中央的信",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300029367_19_6756-6961",
+          "range": "6756-6961",
+          "rangeStart": 6756,
+          "rangeEnd": 6961,
+          "markText": "从去年八月起共有三个报告给中央。一个是去年八月毛泽东在边界失败时写的一封长信，讨论割据问题及湖南省委的政策，由湖南省委转中央，原稿已失。一个是去年十一月接到中央六月来信红军须重回湘赣边界时前委做的一个报告[23]，历史地叙述湘赣边界斗争的经过及割据问题政策计划等，由湘赣二省委付上，此信原稿尚存，特重写付上。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1719470152,
+          "createTimeFormatted": "2024-06-27 14:35:52",
+          "chapterUid": 19,
+          "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=19&rangeStart=6756&rangeEnd=6961",
+          "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=19&rangeStart=6756&rangeEnd=6961"
+        }
+      ]
+    },
+    {
+      "chapterUid": 16,
+      "chapterTitle": "在中央紧急会议上的发言",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7TywIaktb",
+          "range": "524-533",
+          "chapterName": "",
+          "content": "为了总结大革命失败的经验教训，纠正陈独秀的右倾投降主义错误，确定党在新时期的斗争方针和任务，在共产国际的帮助下，１９２７年８月７日，中共中央在汉口原俄租界三教街４１号（现为鄱阳街１３９号）召开了中央紧急会议（因出席的中央委员不到半数，既不是中央全会，也不是中央政治局会议，故称为中央紧急会议），即“八七会议”。",
+          "abstract": "一九二七年八月七日",
+          "star": -1,
+          "createTime": 1724030719,
+          "createTimeFormatted": "2024-08-19 09:25:19",
+          "isFinish": false,
+          "chapterUid": 16
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300029367_8_2507-2578",
+      "chapterUid": 8,
+      "range": "2507-2578",
+      "markText": "我们只知道现在是混乱时代，断不是和平统一时代，政治是只有更反动更混乱的；但这是和平统一的来源，是革命的生母，是民主独立的圣药，大家不可不知道。",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=8&rangeStart=2507&rangeEnd=2578",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=8&rangeStart=2507&rangeEnd=2578"
+    },
+    {
+      "bookmarkId": "3300029367_4_1738-1780",
+      "chapterUid": 4,
+      "range": "1738-1780",
+      "markText": "激烈方法的共产主义，即所谓劳农主义，用阶级专政的方法，是可以预计效果的，故最宜采用。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=4&rangeStart=1738&rangeEnd=1780",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=4&rangeStart=1738&rangeEnd=1780"
+    },
+    {
+      "bookmarkId": "3300029367_13_1589-1640",
+      "chapterUid": 13,
+      "range": "1589-1640",
+      "markText": "一般国家主义派，盛倡其“为祖国而牺牲，乃无上光荣”的说法，这是资产阶级欺人之话，我们万不要受他们的愚弄",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=13&rangeStart=1589&rangeEnd=1640",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=13&rangeStart=1589&rangeEnd=1640"
+    },
+    {
+      "bookmarkId": "3300029367_4_1678-1701",
+      "chapterUid": 4,
+      "range": "1678-1701",
+      "markText": "无政府主义否认权力，这种主义恐怕永世都做不到。",
+      "totalCount": 105,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=4&rangeStart=1678&rangeEnd=1701",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=4&rangeStart=1678&rangeEnd=1701"
+    },
+    {
+      "bookmarkId": "3300029367_6_758-848",
+      "chapterUid": 6,
+      "range": "758-848",
+      "markText": "（一）劳动组合的目的，不仅在团结劳动者以罢工的手段取得优益的工资和缩短工作时间，尤在养成阶级的自觉，以全阶级的大同团结，谋全阶级的根本利益。这是宗旨所在，希望劳工会诸君特别注意的。",
+      "totalCount": 98,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=6&rangeStart=758&rangeEnd=848",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=6&rangeStart=758&rangeEnd=848"
+    },
+    {
+      "bookmarkId": "3300029367_7_989-1054",
+      "chapterUid": 7,
+      "range": "989-1054",
+      "markText": "一个人在“老”“少”两段不能做工的时候应该都有一种取得保存他生命的食物的权利，这就是生存权。",
+      "totalCount": 91,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=7&rangeStart=989&rangeEnd=1054",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=7&rangeStart=989&rangeEnd=1054"
+    },
+    {
+      "bookmarkId": "3300029367_6_591-628",
+      "chapterUid": 6,
+      "range": "591-628",
+      "markText": "劳工神圣，一切东西都是劳工做出来的，劳工会是劳工的团结体，谁也应该同情的。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=6&rangeStart=591&rangeEnd=628",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=6&rangeStart=591&rangeEnd=628"
+    },
+    {
+      "bookmarkId": "3300029367_11_2059-2115",
+      "chapterUid": 11,
+      "range": "2059-2115",
+      "markText": "我们反攻敌人的方法，并不多用辩论，只是忠实地报告我们革命工作的事实。敌人说：“广东共产”。我们说：“请看事实”。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=11&rangeStart=2059&rangeEnd=2115",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=11&rangeStart=2059&rangeEnd=2115"
+    },
+    {
+      "bookmarkId": "3300029367_27_5261-5305",
+      "chapterUid": 27,
+      "range": "5261-5305",
+      "markText": "《时事简报》是极大黑墨字，稀松七八条，看上去明明朗朗，看完了爽爽快快，是真正群众的读物。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=27&rangeStart=5261&rangeEnd=5305",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=27&rangeStart=5261&rangeEnd=5305"
+    },
+    {
+      "bookmarkId": "3300029367_12_881-1000",
+      "chapterUid": 12,
+      "range": "881-1000",
+      "markText": "其所谓自由、平等、博爱乃当时资产阶级用以笼络欺骗小资产、半无产、无产阶级使为己用的一种策略；其结果是达到了他们的目的建设了国家主义的国家；其终极是发展了全世界的殖民地半殖民地，造成了国际资本帝国主义。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=12&rangeStart=881&rangeEnd=1000",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=12&rangeStart=881&rangeEnd=1000"
+    },
+    {
+      "bookmarkId": "3300029367_13_2405-2420",
+      "chapterUid": 13,
+      "range": "2405-2420",
+      "markText": "我们对敌人仁慈，便是对同志残忍",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=13&rangeStart=2405&rangeEnd=2420",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=13&rangeStart=2405&rangeEnd=2420"
+    },
+    {
+      "bookmarkId": "3300029367_7_891-956",
+      "chapterUid": 7,
+      "range": "891-956",
+      "markText": "在世上卖过力的劳工，当他到了六十岁以上力卖尽了再不能卖力的时候，依照秋天的草木也可以得点雨露尽其天年的例，也应该使这些劳工尽其天年",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=7&rangeStart=891&rangeEnd=956",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=7&rangeStart=891&rangeEnd=956"
+    },
+    {
+      "bookmarkId": "3300029367_13_1712-1733",
+      "chapterUid": 13,
+      "range": "1712-1733",
+      "markText": "马克思说：“人类的历史，是一部阶级斗争史。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=13&rangeStart=1712&rangeEnd=1733",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=13&rangeStart=1712&rangeEnd=1733"
+    },
+    {
+      "bookmarkId": "3300029367_7_1242-1267",
+      "chapterUid": 7,
+      "range": "1242-1267",
+      "markText": "工人做的东西应该完全归工人自己，这就是劳动全收权。",
+      "totalCount": 78,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=7&rangeStart=1242&rangeEnd=1267",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=7&rangeStart=1242&rangeEnd=1267"
+    },
+    {
+      "bookmarkId": "3300029367_7_1496-1579",
+      "chapterUid": 7,
+      "range": "1496-1579",
+      "markText": "“五一”这个纪念是八时间工制运动的纪念。这种运动的目的在缩短工作时间以求娱乐教育，这是“能生存”而且“得了业”的人的要求，能生存而且得了业的人自然应该进而要求八时间制",
+      "totalCount": 78,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=7&rangeStart=1496&rangeEnd=1579",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=7&rangeStart=1496&rangeEnd=1579"
+    },
+    {
+      "bookmarkId": "3300029367_4_825-874",
+      "chapterUid": 4,
+      "range": "825-874",
+      "markText": "如用“改造中国与世界”。提出“世界”，所以明吾侪的主张是国际的；提出“中国”，所以明吾侪的下手处；",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=4&rangeStart=825&rangeEnd=874",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=4&rangeStart=825&rangeEnd=874"
+    },
+    {
+      "bookmarkId": "3300029367_13_1961-2018",
+      "chapterUid": 13,
+      "range": "1961-2018",
+      "markText": "汉高祖是流氓，也是无产阶级推倒贵族阶级的革命，不过在农业社会里，他们革命成功后，又做起皇帝，自己又变成贵族阶级了。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=13&rangeStart=1961&rangeEnd=2018",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=13&rangeStart=1961&rangeEnd=2018"
+    },
+    {
+      "bookmarkId": "3300029367_3_733-762",
+      "chapterUid": 3,
+      "range": "733-762",
+      "markText": "其中有少量文稿，带有个别不正确的论断，因内容重要也酌情编入",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=3&rangeStart=733&rangeEnd=762",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=3&rangeStart=733&rangeEnd=762"
+    },
+    {
+      "bookmarkId": "3300029367_6_1218-1418",
+      "chapterUid": 6,
+      "range": "1218-1418",
+      "markText": "不劳动的不得食！ 劳动者获得罢工权利！ 劳工神圣！ 各尽所能，各取所值！ 全世界都是劳动者的！ 全世界劳动者团结起来！！",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=6&rangeStart=1218&rangeEnd=1418",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=6&rangeStart=1218&rangeEnd=1418"
+    },
+    {
+      "bookmarkId": "3300029367_7_584-630",
+      "chapterUid": 7,
+      "range": "584-630",
+      "markText": "大家注意，就请注意到劳工的三件事：一、劳工的生存权，二、劳工的劳动权，三、劳工的劳动全收权。",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300029367&chapterUid=7&rangeStart=584&rangeEnd=630",
+      "webLink": "https://weread.qq.com/web/reader/037322a0813ab71f8g017df1?chapterUid=7&rangeStart=584&rangeEnd=630"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 22,
+    "chapterOffset": 5539,
+    "progress": 31,
+    "updateTime": 1754067533,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

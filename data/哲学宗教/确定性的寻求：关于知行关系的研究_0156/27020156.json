@@ -1,0 +1,483 @@
+{
+  "meta": {
+    "bookId": "27020156",
+    "title": "确定性的寻求：关于知行关系的研究",
+    "author": "约翰·杜威",
+    "translator": "傅统先",
+    "cover": "https://cdn.weread.qq.com/weread/cover/29/YueWen_27020156/t6_YueWen_27020156.jpg",
+    "intro": "杜威讨论了作为架通认识与评价这两个领域的中介环节的重要意义。杜威研究知与行的关系，强调知识具有实践的意义，指出理论与实践之间有着内在的联系，这种内在联系使得知识成为实现人类目的的工具和手段。书中叙述了传统的区分知识与行动的方法对哲学概念的影响，说明了在自然科学结论和价值观念之间进行协调的问题如何支配着各派哲学，阐明了科学本身就是一种有目的的实践行动的方式，知识的确定是一个不断追求的过程。",
+    "category": "哲学宗教-哲学著作",
+    "publisher": "华东师范大学出版社",
+    "publishTime": "2019-08-01 00:00:00",
+    "isbn": "9787567590915",
+    "wordCount": 0,
+    "newRating": 740,
+    "newRatingCount": 140,
+    "newRatingDetail": {
+      "good": 99,
+      "fair": 25,
+      "poor": 16,
+      "recent": 2,
+      "deepV": 40,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=27020156",
+    "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af",
+    "lastSync": "2026-05-21T11:47:14Z",
+    "readingProgress": "3%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 3,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 150,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "主编序",
+      "level": 1,
+      "wordCount": 788,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一章 逃避危险",
+      "level": 1,
+      "wordCount": 13345,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第二章 哲学对于常住性的寻求",
+      "level": 1,
+      "wordCount": 13487,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第三章 权威的冲突",
+      "level": 1,
+      "wordCount": 14669,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第四章 承受的技艺与控制的技艺",
+      "level": 1,
+      "wordCount": 21163,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第五章 观念在工作中",
+      "level": 1,
+      "wordCount": 19034,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第六章 观念的作用",
+      "level": 1,
+      "wordCount": 17735,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第七章 理智权威的所在",
+      "level": 1,
+      "wordCount": 15352,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第八章 智慧的自然化",
+      "level": 1,
+      "wordCount": 17027,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第九章 方法至上",
+      "level": 1,
+      "wordCount": 18906,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第十章 善的构成",
+      "level": 1,
+      "wordCount": 20016,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第十一章 哥白尼式的革命",
+      "level": 1,
+      "wordCount": 16908,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "校后记",
+      "level": 1,
+      "wordCount": 1570,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=27020156&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=15"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 7,
+      "chapterTitle": "第四章 承受的技艺与控制的技艺",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "27020156_7_4150-4218",
+          "range": "4150-4218",
+          "rangeStart": 4150,
+          "rangeEnd": 4218,
+          "markText": "这些事实也说明了为什么那种仅仅反映和报道现存情境之主要因素，把它们当作最后的因素而忽视了它们未来变化的哲学是一种令人讨厌的唯物主义的哲学",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1764820410,
+          "createTimeFormatted": "2025-12-04 11:53:30",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=7&rangeStart=4150&rangeEnd=4218",
+          "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=7&rangeStart=4150&rangeEnd=4218"
+        }
+      ]
+    },
+    {
+      "chapterUid": 4,
+      "chapterTitle": "第一章 逃避危险",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "27020156_4_3432-3462",
+          "range": "3432-3462",
+          "rangeStart": 3432,
+          "rangeEnd": 3462,
+          "markText": "人们之所以喜爱认知甚于喜爱动作，“安全第一”起了巨大的作用。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1764820387,
+          "createTimeFormatted": "2025-12-04 11:53:07",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=3432&rangeEnd=3462",
+          "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=3432&rangeEnd=3462"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "27020156_4_595-665",
+          "range": "595-665",
+          "rangeStart": 595,
+          "rangeEnd": 665,
+          "markText": "人若不能征服命运，他就只能心甘情愿地与命运联合起来；人即使在极端悲苦中，若能顺从于这些支配命运的力量，他就能避免失败，并可在毁灭中获得胜利。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1764820370,
+          "createTimeFormatted": "2025-12-04 11:52:50",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=595&rangeEnd=665",
+          "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=595&rangeEnd=665"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "27020156_4_595-665",
+      "chapterUid": 4,
+      "range": "595-665",
+      "markText": "人若不能征服命运，他就只能心甘情愿地与命运联合起来；人即使在极端悲苦中，若能顺从于这些支配命运的力量，他就能避免失败，并可在毁灭中获得胜利。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=595&rangeEnd=665",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=595&rangeEnd=665"
+    },
+    {
+      "bookmarkId": "27020156_4_3432-3462",
+      "chapterUid": 4,
+      "range": "3432-3462",
+      "markText": "人们之所以喜爱认知甚于喜爱动作，“安全第一”起了巨大的作用。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=3432&rangeEnd=3462",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=3432&rangeEnd=3462"
+    },
+    {
+      "bookmarkId": "27020156_7_4150-4218",
+      "chapterUid": 7,
+      "range": "4150-4218",
+      "markText": "这些事实也说明了为什么那种仅仅反映和报道现存情境之主要因素，把它们当作最后的因素而忽视了它们未来变化的哲学是一种令人讨厌的唯物主义的哲学",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=7&rangeStart=4150&rangeEnd=4218",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=7&rangeStart=4150&rangeEnd=4218"
+    },
+    {
+      "bookmarkId": "27020156_4_694-753",
+      "chapterUid": 4,
+      "range": "694-753",
+      "markText": "另一种途径就是发明许多技艺（arts），通过它们来利用自然的力量；人就从威胁着他的那些条件和力量本身中构成了一座堡垒。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=694&rangeEnd=753",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=694&rangeEnd=753"
+    },
+    {
+      "bookmarkId": "27020156_4_952-1015",
+      "chapterUid": 4,
+      "range": "952-1015",
+      "markText": "一直很少有人预示过，人类可以借助于技艺来控制自然的力量与法则，以建立一个秩序、正义和美丽的王国，而且也很少有人注意到这样的人。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=952&rangeEnd=1015",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=952&rangeEnd=1015"
+    },
+    {
+      "bookmarkId": "27020156_6_8980-9071",
+      "chapterUid": 6,
+      "range": "8980-9071",
+      "markText": "笛卡尔企图在能知的心灵内部去寻求绝对确定性的所在；他一方面排除了古代人试想在外在世界上去发现这种绝对确定性的企图，另一方面排除了中世纪人试想在外在的天启中去寻求这种绝对确定性的企图。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=6&rangeStart=8980&rangeEnd=9071",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=6&rangeStart=8980&rangeEnd=9071"
+    },
+    {
+      "bookmarkId": "27020156_4_3931-4084",
+      "chapterUid": 4,
+      "range": "3931-4084",
+      "markText": "因为人们所不喜欢的不是不确定性的本身，而是由于不确定性使我们有陷入恶果的危险。",
+      "totalCount": 105,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=3931&rangeEnd=4084",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=3931&rangeEnd=4084"
+    },
+    {
+      "bookmarkId": "27020156_4_1167-1202",
+      "chapterUid": 4,
+      "range": "1167-1202",
+      "markText": "哲学家们推崇过改变个人观念的方法，而宗教导师们则推崇改变内心感情的方法",
+      "totalCount": 104,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=1167&rangeEnd=1202",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=1167&rangeEnd=1202"
+    },
+    {
+      "bookmarkId": "27020156_4_2968-3014",
+      "chapterUid": 4,
+      "range": "2968-3014",
+      "markText": "人之不能自信，使得他欲求解脱和超脱自我；而他以为在纯粹的知识中，他能达到这个超越自我的境界。",
+      "totalCount": 100,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=2968&rangeEnd=3014",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=2968&rangeEnd=3014"
+    },
+    {
+      "bookmarkId": "27020156_6_3722-3814",
+      "chapterUid": 6,
+      "range": "3722-3814",
+      "markText": "他更加完全地表现出他对希伯来传统的本质要素的忠心诚意（相信最后的和自足的实有乃是一切人类思想和行动的标准），并且保持着希腊的认识论，崇尚理性优越于经验，而同时又热烈地坚持新科学的自然观",
+      "totalCount": 98,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=6&rangeStart=3722&rangeEnd=3814",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=6&rangeStart=3722&rangeEnd=3814"
+    },
+    {
+      "bookmarkId": "27020156_4_2612-2654",
+      "chapterUid": 4,
+      "range": "2612-2654",
+      "markText": "人们把纯理智和理智活动提升到实际事务之上，这是与他们寻求绝对不变的确定性根本联系着的",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=2612&rangeEnd=2654",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=2612&rangeEnd=2654"
+    },
+    {
+      "bookmarkId": "27020156_4_10007-10086",
+      "chapterUid": 4,
+      "range": "10007-10086",
+      "markText": "哲学把这种主张理性化了。它不再借助于仪礼和祭祀来求得解脱，而是通过理性求得解脱。这种解脱是一种理智上的、理论上的事情，构成它的那种知识是离开实践活动而获得的。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=10007&rangeEnd=10086",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=10007&rangeEnd=10086"
+    },
+    {
+      "bookmarkId": "27020156_5_630-676",
+      "chapterUid": 5,
+      "range": "630-676",
+      "markText": "由于缺乏知识，或不能完全保证，我们才有信仰。",
+      "totalCount": 88,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=5&rangeStart=630&rangeEnd=676",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=5&rangeStart=630&rangeEnd=676"
+    },
+    {
+      "bookmarkId": "27020156_4_2736-2758",
+      "chapterUid": 4,
+      "range": "2736-2758",
+      "markText": "通过思维，人们却似乎可以逃避不确定性的危险。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=2736&rangeEnd=2758",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=2736&rangeEnd=2758"
+    },
+    {
+      "bookmarkId": "27020156_4_13287-13309",
+      "chapterUid": 4,
+      "range": "13287-13309",
+      "markText": "确定性的寻求已经支配着我们的根本的形而上学。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=13287&rangeEnd=13309",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=13287&rangeEnd=13309"
+    },
+    {
+      "bookmarkId": "27020156_11_12682-12720",
+      "chapterUid": 11,
+      "range": "12682-12720",
+      "markText": "这种主张肯定是现象必须遵守普遍法则的这种见解的产物，而后者又是牛顿哲学的遗传",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=11&rangeStart=12682&rangeEnd=12720",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=11&rangeStart=12682&rangeEnd=12720"
+    },
+    {
+      "bookmarkId": "27020156_4_3082-3154",
+      "chapterUid": 4,
+      "range": "3082-3154",
+      "markText": "事之成败决定于命运，而不决定于我们自己的意旨和行动。希望未能得到满足的悲哀、目的和理想惨遭失败的悲剧，以及意外变故的灾害，都是人世间所常见之事。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=3082&rangeEnd=3154",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=3082&rangeEnd=3154"
+    },
+    {
+      "bookmarkId": "27020156_11_10961-11031",
+      "chapterUid": 11,
+      "range": "10961-11031",
+      "markText": "如果人们过去总是把城市和河流的联系视为受自然所固定的天然联系，而不视为人类艺术的产物，则一经发现相反的情况就更有可能使我们经验到这是一次解放",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=11&rangeStart=10961&rangeEnd=11031",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=11&rangeStart=10961&rangeEnd=11031"
+    },
+    {
+      "bookmarkId": "27020156_4_11398-11445",
+      "chapterUid": 4,
+      "range": "11398-11445",
+      "markText": "凡变化着的东西都只是偶然发生的事情，而绝非真有",
+      "totalCount": 78,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=11398&rangeEnd=11445",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=11398&rangeEnd=11445"
+    },
+    {
+      "bookmarkId": "27020156_4_456-520",
+      "chapterUid": 4,
+      "range": "456-520",
+      "markText": "人寻求安全有两种途径。一种途径是在开始时试图同他四周决定着他的命运的各种力量进行和解，这种和解的方式有祈祷、献祭、礼仪和巫祀等。",
+      "totalCount": 77,
+      "appLink": "weread://bestbookmark?bookId=27020156&chapterUid=4&rangeStart=456&rangeEnd=520",
+      "webLink": "https://weread.qq.com/web/reader/3c532e70719c4b7c3c571af?chapterUid=4&rangeStart=456&rangeEnd=520"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 4,
+    "chapterOffset": 2433,
+    "progress": 3,
+    "updateTime": 1764821130,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

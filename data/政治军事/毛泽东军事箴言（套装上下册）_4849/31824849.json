@@ -1,0 +1,914 @@
+{
+  "meta": {
+    "bookId": "31824849",
+    "title": "毛泽东军事箴言（套装上下册）",
+    "author": "中共中央文献研究室第一编研部编",
+    "translator": "",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/849/31824849/t6_31824849.jpg",
+    "intro": "由中共中央文献研究室编研部组织编撰、辽宁人民出版社出版的这套书，既是一部厚重的军事历史文化著作，也是一部比较权威的军事思想的通俗解读著作。书中大量的军事论述中精选40多句有代表性、震撼人心、有现实意义的箴言，如“我们的原则是党指挥枪”“军民团结如一人，试看天下谁能敌”“兵民是胜利之本”“全心全意为人民服务是人民军队的*宗旨”“加强纪律性，革命无不胜”“政治工作是革命军队的生命线”“对待战争一是反对二是不怕”“你打你的，我打我的”“不打无准备之仗，不打无把握之仗”“人是第一，武器第二”等，一一阐释其深刻内涵，介绍其来龙去脉，讲述其背后精彩的故事。从这些人们所熟知的箴言中，挖掘出新的史料、细节和故事，还原其产生的时代背景，并在新的历史条件下进一步认识它们的意义和价值。这些“箴言”涉及人民军队创建与发展的方面面，比较全面地展示了*军事思想的博大精深和永恒生命力。",
+    "category": "政治军事-军事",
+    "publisher": "辽宁人民出版社",
+    "publishTime": "2017-08-01 00:00:00",
+    "isbn": "9787205090548",
+    "wordCount": 0,
+    "newRating": 868,
+    "newRatingCount": 306,
+    "newRatingDetail": {
+      "good": 268,
+      "fair": 21,
+      "poor": 17,
+      "recent": 1,
+      "deepV": 23,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=31824849",
+    "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a",
+    "lastSync": "2026-05-21T11:56:30Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 134,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 4087,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "讲军队根本",
+      "level": 1,
+      "wordCount": 8402,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“我们的原则是党指挥枪”",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "“支部建在连上”",
+      "level": 2,
+      "wordCount": 6224,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "“政治工作是革命军队的生命线”",
+      "level": 2,
+      "wordCount": 8328,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "讲军队任务",
+      "level": 1,
+      "wordCount": 6730,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“枪杆子里面出政权”",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "军队“决不是单纯地打仗的”",
+      "level": 2,
+      "wordCount": 5662,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "“人民解放军永远是一个战斗队”",
+      "level": 2,
+      "wordCount": 6379,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "讲军队纪律",
+      "level": 1,
+      "wordCount": 7791,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“三大纪律八项注意”",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "“加强纪律性，革命无不胜”",
+      "level": 2,
+      "wordCount": 7828,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "讲军队作风",
+      "level": 1,
+      "wordCount": 7656,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“坚定正确的政治方向，艰苦奋斗的工作作风，灵活机动的战略战术”",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "“团结，紧张，严肃，活泼”",
+      "level": 2,
+      "wordCount": 9622,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "“艰苦奋斗是我们的政治本色”",
+      "level": 2,
+      "wordCount": 7020,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "讲军队素质",
+      "level": 1,
+      "wordCount": 8057,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“没有文化的军队是愚蠢的军队”",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "讲怎么打仗",
+      "level": 1,
+      "wordCount": 8303,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“打得赢就打，打不赢就走”",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "“你打你的，我打我的”",
+      "level": 2,
+      "wordCount": 7729,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "“不打无准备之仗，不打无把握之仗”",
+      "level": 2,
+      "wordCount": 9253,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "“部队要练夜战、近战”",
+      "level": 2,
+      "wordCount": 7632,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "讲战略战术",
+      "level": 1,
+      "wordCount": 6553,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“敌进我退，敌驻我扰，敌疲我打，敌退我追”",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "“大步进退，诱敌深入，集中兵力，各个击破”",
+      "level": 2,
+      "wordCount": 7005,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "“只有积极防御才是真防御”",
+      "level": 2,
+      "wordCount": 5381,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "“十大军事原则也要补充和发展”",
+      "level": 2,
+      "wordCount": 9320,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "“一切反动派都是纸老虎”",
+      "level": 2,
+      "wordCount": 8137,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "“在战略上要藐视敌人，在战术上要重视敌人”",
+      "level": 2,
+      "wordCount": 8174,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "讲对待俘虏",
+      "level": 1,
+      "wordCount": 6819,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“优待俘虏兵，是对敌军宣传的极有效办法”",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "讲反帝反霸反侵略",
+      "level": 1,
+      "wordCount": 8281,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "持久抗战“日本必败，中国必胜”",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "“抗美援朝战争是个大学校”",
+      "level": 2,
+      "wordCount": 9245,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "讲战争准备",
+      "level": 1,
+      "wordCount": 7965,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“准备好了敌人可能不来，准备不好敌人就可能来”",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "“深挖洞，广积粮，不称霸”",
+      "level": 2,
+      "wordCount": 6572,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "“备战、备荒、为人民”",
+      "level": 2,
+      "wordCount": 7599,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "讲辩证战争观",
+      "level": 1,
+      "wordCount": 6508,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“战争与和平是互相转化的”",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "“战争一刻也离不了政治”",
+      "level": 2,
+      "wordCount": 5670,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "对待战争“第一条反对，第二条不怕”",
+      "level": 2,
+      "wordCount": 7918,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "讲人与武器的关系",
+      "level": 1,
+      "wordCount": 7993,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“人是第一，武器是第二”",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "“搞一点原子弹、氢弹、洲际导弹”",
+      "level": 2,
+      "wordCount": 6980,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "讲军队现代化",
+      "level": 1,
+      "wordCount": 7466,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“要有强大的陆、海、空军”",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "“只有经济建设发展得更快了，国防建设才能够有更大的进步”",
+      "level": 2,
+      "wordCount": 7481,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "讲军队宗旨和军民关系",
+      "level": 1,
+      "wordCount": 5701,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“全心全意为人民服务是人民军队的唯一宗旨”",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "“官兵一致，军民一致”",
+      "level": 2,
+      "wordCount": 6792,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "“没有一个人民的军队，便没有人民的一切”",
+      "level": 2,
+      "wordCount": 6956,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "讲取胜之道",
+      "level": 1,
+      "wordCount": 8400,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“兵民是胜利之本”",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31824849&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "“军民团结如一人，试看天下谁能敌”",
+      "level": 2,
+      "wordCount": 7420,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "后记",
+      "level": 1,
+      "wordCount": 926,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31824849&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=44"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 23,
+      "chapterTitle": "“十大军事原则也要补充和发展”",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "31824849_23_879-1182",
+          "range": "879-1182",
+          "rangeStart": 879,
+          "rangeEnd": 1182,
+          "markText": "第一条讲先打哪里：“先打分散和孤立之敌”；第二条讲先取哪里：“先取小城市、中等城市和广大乡村”；第三条讲作战目标：“以歼灭敌人有生力量为主要目标”；第四条讲如何使用兵力：“每战集中绝对优势兵力四面包围敌人”；第五条讲取胜的把握：“不打无准备之仗”；第六条讲战斗作风：“发扬勇敢战斗、不怕牺牲、不怕疲劳和连续作战的作风”；第七条讲运用好两种战斗形式：“力求在运动中歼灭敌人”，“同时，注重阵地攻击战术”；第八条讲攻城时机：“在攻城问题上，一切敌人守备薄弱的据点和城市，坚决夺取之”；第九条讲人力物力哪里来：“我军人力物力的来源，主要在前线”；第十条讲如何休整：“善于利用两个战役之间的间隙，休息和整训部队”。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1724490245,
+          "createTimeFormatted": "2024-08-24 17:04:05",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=23&rangeStart=879&rangeEnd=1182",
+          "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=23&rangeStart=879&rangeEnd=1182"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "31824849_6_3122-3157",
+      "chapterUid": 6,
+      "range": "3122-3157",
+      "markText": "“红军废除了雇佣制，使士兵感觉不是为他人打仗，而是为自己为人民打仗。”",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=6&rangeStart=3122&rangeEnd=3157",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=6&rangeStart=3122&rangeEnd=3157"
+    },
+    {
+      "bookmarkId": "31824849_4_3133-3219",
+      "chapterUid": 4,
+      "range": "3133-3219",
+      "markText": "党的组织，现分连支部、营委、团委、军委四级。连有支部，班有小组。红军所以艰难奋战而不溃散，‘支部建在连上’是一个重要原因。”党的组织和党的领导体制，决定了这支军队的生命力。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=4&rangeStart=3133&rangeEnd=3219",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=4&rangeStart=3133&rangeEnd=3219"
+    },
+    {
+      "bookmarkId": "31824849_4_3513-3606",
+      "chapterUid": 4,
+      "range": "3513-3606",
+      "markText": "毛泽东发现这种苗头以后，果断地指出：这是一种“单纯军事观点”，“这种思想如果发展下去，便有走到脱离群众、以军队控制政权、离开无产阶级领导的危险，如像国民党军队所走的军阀主义的道路一样”。",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=4&rangeStart=3513&rangeEnd=3606",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=4&rangeStart=3513&rangeEnd=3606"
+    },
+    {
+      "bookmarkId": "31824849_4_1088-1117",
+      "chapterUid": 4,
+      "range": "1088-1117",
+      "markText": "革命数十年尚未成功的一个重要原因就是没有一支真正的革命军。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=4&rangeStart=1088&rangeEnd=1117",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=4&rangeStart=1088&rangeEnd=1117"
+    },
+    {
+      "bookmarkId": "31824849_16_1931-2026",
+      "chapterUid": 16,
+      "range": "1931-2026",
+      "markText": "没有学过军事的毛泽东就这样被迫在战争中学习战争，在战争中总结战争，在战争中掌握战争，他把马列主义普遍真理与中国具体革命实践相结合，在军事斗争实践中不断总结经验，并把这些经验上升为正确的理论。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=16&rangeStart=1931&rangeEnd=2026",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=16&rangeStart=1931&rangeEnd=2026"
+    },
+    {
+      "bookmarkId": "31824849_3_2133-2170",
+      "chapterUid": 3,
+      "range": "2133-2170",
+      "markText": "因此我军在战略上要取“以一当十”之气势，而在战术上要懂“以十当一”之道理。",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=3&rangeStart=2133&rangeEnd=2170",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=3&rangeStart=2133&rangeEnd=2170"
+    },
+    {
+      "bookmarkId": "31824849_3_4816-4848",
+      "chapterUid": 3,
+      "range": "4816-4848",
+      "markText": "历史经过长久沉淀，才显露出厚重；思想经过岁月风尘，才砥砺出力量。",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=3&rangeStart=4816&rangeEnd=4848",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=3&rangeStart=4816&rangeEnd=4848"
+    },
+    {
+      "bookmarkId": "31824849_17_4385-4423",
+      "chapterUid": 17,
+      "range": "4385-4423",
+      "markText": "“你打你的，我打我的”这一战略思想，究其本质是在谈如何夺取战争主动权的问题。",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=17&rangeStart=4385&rangeEnd=4423",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=17&rangeStart=4385&rangeEnd=4423"
+    },
+    {
+      "bookmarkId": "31824849_17_7409-7469",
+      "chapterUid": 17,
+      "range": "7409-7469",
+      "markText": "在你们准备攻击长春期间，我们即告知你们，不要将南进作战的困难条件说得太多太死，以致在精神上将自己限制起来，失去主动性。”",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=17&rangeStart=7409&rangeEnd=7469",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=17&rangeStart=7409&rangeEnd=7469"
+    },
+    {
+      "bookmarkId": "31824849_3_1514-1541",
+      "chapterUid": 3,
+      "range": "1514-1541",
+      "markText": "“先打弱的，后打强的，你打你的，我打我的（各打各的）”",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=3&rangeStart=1514&rangeEnd=1541",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=3&rangeStart=1514&rangeEnd=1541"
+    },
+    {
+      "bookmarkId": "31824849_18_425-472",
+      "chapterUid": 18,
+      "range": "425-472",
+      "markText": "必须注意不打无准备之仗，不打无把握之仗，每战都应力求有准备，力求在敌我条件对比上有胜利之把握。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=18&rangeStart=425&rangeEnd=472",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=18&rangeStart=425&rangeEnd=472"
+    },
+    {
+      "bookmarkId": "31824849_3_409-498",
+      "chapterUid": 3,
+      "range": "409-498",
+      "markText": "举世公认，毛泽东是伟大的马克思主义者，伟大的无产阶级革命家、战略家、理论家，是中国共产党、中国人民解放军和中华人民共和国的主要缔造者，中国各族人民的领袖，毛泽东思想的主要创立者。",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=3&rangeStart=409&rangeEnd=498",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=3&rangeStart=409&rangeEnd=498"
+    },
+    {
+      "bookmarkId": "31824849_3_997-1054",
+      "chapterUid": 3,
+      "range": "997-1054",
+      "markText": "“我们的原则是党指挥枪，而决不容许枪指挥党”——这句箴言，讲的是司令部与党委的关系、“个人领导与党的领导”的关系。",
+      "totalCount": 132,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=3&rangeStart=997&rangeEnd=1054",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=3&rangeStart=997&rangeEnd=1054"
+    },
+    {
+      "bookmarkId": "31824849_29_10765-10815",
+      "chapterUid": 29,
+      "range": "10765-10815",
+      "markText": "历史的演进充分说明，能战方能止战，要想消灭战争，必须拿起武器。战或不战，看似操之于人，实则操之在己。",
+      "totalCount": 132,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=29&rangeStart=10765&rangeEnd=10815",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=29&rangeStart=10765&rangeEnd=10815"
+    },
+    {
+      "bookmarkId": "31824849_16_6254-6346",
+      "chapterUid": 16,
+      "range": "6254-6346",
+      "markText": "蒋蔡比较是强有力的，在历史上未曾打过败仗，曾经在湘南把张发奎打得落花流水，我们现在主要的是择敌人弱点打破，打蒋蔡没有绝对胜利的把握，我们应打王金钰这路，因为这路敌人既弱且地势群众都好。",
+      "totalCount": 130,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=16&rangeStart=6254&rangeEnd=6346",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=16&rangeStart=6254&rangeEnd=6346"
+    },
+    {
+      "bookmarkId": "31824849_4_1753-1842",
+      "chapterUid": 4,
+      "range": "1753-1842",
+      "markText": "铁军到底“铁”在哪里？就是因为它是共产党人直接领导的军队，冲在最前面的大多也是共产党员。它一改中国旧式军队的习气，有着严密的组织纪律、大无畏的革命精神以及视沿途群众为父母的作风。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=4&rangeStart=1753&rangeEnd=1842",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=4&rangeStart=1753&rangeEnd=1842"
+    },
+    {
+      "bookmarkId": "31824849_4_5654-5717",
+      "chapterUid": 4,
+      "range": "5654-5717",
+      "markText": "强调“坚持统一战线和坚持党的独立性”，要求在坚持抗日民族统一战线的方针下既要团结又要斗争，批评了统一战线问题上的迁就主义错误。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=4&rangeStart=5654&rangeEnd=5717",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=4&rangeStart=5654&rangeEnd=5717"
+    },
+    {
+      "bookmarkId": "31824849_6_6521-6564",
+      "chapterUid": 6,
+      "range": "6521-6564",
+      "markText": "国民党军队里也有政工人员，也搞政治宣传，可是国共两军在遵守军纪方面却形成了巨大的反差。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=6&rangeStart=6521&rangeEnd=6564",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=6&rangeStart=6521&rangeEnd=6564"
+    },
+    {
+      "bookmarkId": "31824849_32_8239-8281",
+      "chapterUid": 32,
+      "range": "8239-8281",
+      "markText": "“能战方能止战，准备打才可能不必打，越不能打越可能挨打，这就是战争与和平的辩证法。”",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=32&rangeStart=8239&rangeEnd=8281",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=32&rangeStart=8239&rangeEnd=8281"
+    },
+    {
+      "bookmarkId": "31824849_6_10961-11069",
+      "chapterUid": 6,
+      "range": "10961-11069",
+      "markText": "革命单搞军事不行。 单有军队，单会打仗是不行的。 只有会做政治工作的人才会打仗，不懂政治的人就不会打仗。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=31824849&chapterUid=6&rangeStart=10961&rangeEnd=11069",
+      "webLink": "https://weread.qq.com/web/reader/16a3268071e59bd116afa0a?chapterUid=6&rangeStart=10961&rangeEnd=11069"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 39,
+    "chapterOffset": 6475,
+    "progress": 0,
+    "updateTime": 1738406961,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "bookId": "3300037423",
+    "title": "传习录（中华经典名著全本全注全译丛书）",
+    "author": "陆永胜译注",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/59/cpPlatform_caHecw8nMehbUyz4WgCZe5/t6_cpPlatform_caHecw8nMehbUyz4WgCZe5.jpg",
+    "intro": "《传习录》上中下三卷，是我国明代著名政治家、思想家、教育家王守仁（王阳明）的一部语录问答体著作，篇幅不大，却比较集中地体现了王氏的心学思想全貌，涉及心性之辨，心物关系，致良知说，知行合一，本体与功夫论等王学思想中广为人知的主题，问世以来大受欢迎，影响巨大。本次出版对原书中涉及的哲学概念、人物、典故等均进行了详细注释并作了适当的串讲，对文言原文全文进行白话翻译，有助于普通读者了解其精髓。",
+    "category": "文学-古典文学",
+    "publisher": "中华书局有限公司",
+    "publishTime": "2017-07-12 00:00:00",
+    "isbn": "9787101154320",
+    "wordCount": 0,
+    "newRating": 883,
+    "newRatingCount": 92,
+    "newRatingDetail": {
+      "good": 79,
+      "fair": 9,
+      "poor": 4,
+      "recent": 3,
+      "deepV": 38,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300037423",
+    "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab",
+    "lastSync": "2026-05-21T11:53:58Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 5,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 144,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 11889,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "传习录序",
+      "level": 1,
+      "wordCount": 2395,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "传习录上",
+      "level": 1,
+      "wordCount": 31652,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "徐爱录 凡十四则",
+          "anchor": "par2_2_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "陆澄录 凡七十三则",
+      "level": 2,
+      "wordCount": 47238,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "薛侃录 凡三十五则",
+      "level": 2,
+      "wordCount": 33040,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "传习录中",
+      "level": 1,
+      "wordCount": 2366,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "钱德洪序",
+          "anchor": "par3_3_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "答顾东桥书 凡十二则",
+      "level": 2,
+      "wordCount": 36508,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "答周道通书 凡七则",
+      "level": 2,
+      "wordCount": 9123,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "答陆原静书 凡四则",
+      "level": 2,
+      "wordCount": 21173,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "答欧阳崇一 凡四则",
+      "level": 2,
+      "wordCount": 8028,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "答罗整庵少宰书 凡四则",
+      "level": 2,
+      "wordCount": 8847,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "答聂文蔚 凡七则",
+      "level": 2,
+      "wordCount": 8182,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "答聂文蔚二 凡九则",
+      "level": 2,
+      "wordCount": 10341,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "训蒙大意示教读刘伯颂等",
+      "level": 2,
+      "wordCount": 2094,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "教约",
+      "level": 2,
+      "wordCount": 1916,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "传习录下",
+      "level": 1,
+      "wordCount": 13314,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "陈九川录 凡十四则",
+          "anchor": "par4_4_14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "黄直录 凡十二则",
+      "level": 2,
+      "wordCount": 8285,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "黄修易录 凡十一则",
+      "level": 2,
+      "wordCount": 6860,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "黄省曾录 凡十一则",
+      "level": 2,
+      "wordCount": 5821,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "钱德洪录 凡四十八则",
+      "level": 2,
+      "wordCount": 34559,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "黄以方录 凡二十五则",
+      "level": 2,
+      "wordCount": 17399,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "钱德洪跋",
+      "level": 2,
+      "wordCount": 2028,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "传习录附录",
+      "level": 1,
+      "wordCount": 17463,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "中华经典名著全本全注全译丛书（已出书目）",
+      "level": 1,
+      "wordCount": 732,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300037423&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=26"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 5,
+      "chapterTitle": "传习录上",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300037423_5_24861-24893",
+          "range": "24861-24893",
+          "rangeStart": 24861,
+          "rangeEnd": 24893,
+          "markText": "身之主宰便是心，心之所发便是意，意之本体便是知，意之所在便是物。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1734077543,
+          "createTimeFormatted": "2024-12-13 16:12:23",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=5&rangeStart=24861&rangeEnd=24893",
+          "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=5&rangeStart=24861&rangeEnd=24893"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300037423_6_3657-3687",
+      "chapterUid": 6,
+      "range": "3657-3687",
+      "markText": "“日间工夫，觉纷扰则静坐，觉懒看书则且看书，是亦因病而药。”",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=6&rangeStart=3657&rangeEnd=3687",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=6&rangeStart=3657&rangeEnd=3687"
+    },
+    {
+      "bookmarkId": "3300037423_5_16320-16338",
+      "chapterUid": 5,
+      "range": "16320-16338",
+      "markText": "未有知而不行者，知而不行，只是未知。",
+      "totalCount": 140,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=5&rangeStart=16320&rangeEnd=16338",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=5&rangeStart=16320&rangeEnd=16338"
+    },
+    {
+      "bookmarkId": "3300037423_3_9897-9959",
+      "chapterUid": 3,
+      "range": "9897-9959",
+      "markText": "强调了真知必然要行，表现在两个方面：一是真知具有推动行的内在驱动力，且以行为直接目的；二是“行”是检验“知”是否为真的标准。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=3&rangeStart=9897&rangeEnd=9959",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=3&rangeStart=9897&rangeEnd=9959"
+    },
+    {
+      "bookmarkId": "3300037423_5_10759-10865",
+      "chapterUid": 5,
+      "range": "10759-10865",
+      "markText": "爱问：“至善只求诸心，恐于天下事理有不能尽。” 先生曰：“心即理也。天下又有心外之事、心外之理乎①？”",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=5&rangeStart=10759&rangeEnd=10865",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=5&rangeStart=10759&rangeEnd=10865"
+    },
+    {
+      "bookmarkId": "3300037423_5_18320-18331",
+      "chapterUid": 5,
+      "range": "18320-18331",
+      "markText": "知是行之始，行是知之成",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=5&rangeStart=18320&rangeEnd=18331",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=5&rangeStart=18320&rangeEnd=18331"
+    },
+    {
+      "bookmarkId": "3300037423_7_7920-7970",
+      "chapterUid": 7,
+      "range": "7920-7970",
+      "markText": "先生又曰：“吾辈用功，只求日减，不求日增。减得一分人欲，便是复得一分天理，何等轻快脱洒，何等简易！”",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=7&rangeStart=7920&rangeEnd=7970",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=7&rangeStart=7920&rangeEnd=7970"
+    },
+    {
+      "bookmarkId": "3300037423_3_1246-1302",
+      "chapterUid": 3,
+      "range": "1246-1302",
+      "markText": "王阳明心学形成于明代中叶，作为时代的产物，它直指当时社会物欲横流，道德沦丧，“知而不行”“知行不一”的颓败气息。",
+      "totalCount": 100,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=3&rangeStart=1246&rangeEnd=1302",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=3&rangeStart=1246&rangeEnd=1302"
+    },
+    {
+      "bookmarkId": "3300037423_6_8970-9021",
+      "chapterUid": 6,
+      "range": "8970-9021",
+      "markText": "“义理无定在，无穷尽。吾与子言，不可以少有所得，而遂谓止此也。再言之十年、二十年、五十年，未有止也。”",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=6&rangeStart=8970&rangeEnd=9021",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=6&rangeStart=8970&rangeEnd=9021"
+    },
+    {
+      "bookmarkId": "3300037423_5_4026-4061",
+      "chapterUid": 5,
+      "range": "4026-4061",
+      "markText": "见其牝牡骊黄而弃其所谓千里者⑥",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=5&rangeStart=4026&rangeEnd=4061",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=5&rangeStart=4026&rangeEnd=4061"
+    },
+    {
+      "bookmarkId": "3300037423_5_18378-18503",
+      "chapterUid": 5,
+      "range": "18378-18503",
+      "markText": "只为世间有一种人，懵懵懂懂的，任意去做，全不解思惟省察，也只是个冥行妄作①，所以必说个知，方才行得是；又有一种人，茫茫荡荡，悬空去思索，全不肯着实躬行，也只是个揣摸影响，所以必说一个行，方才知得真",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=5&rangeStart=18378&rangeEnd=18503",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=5&rangeStart=18378&rangeEnd=18503"
+    },
+    {
+      "bookmarkId": "3300037423_6_24214-24288",
+      "chapterUid": 6,
+      "range": "24214-24288",
+      "markText": "省察是有事时存养①，存养是无事时省察②。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=6&rangeStart=24214&rangeEnd=24288",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=6&rangeStart=24214&rangeEnd=24288"
+    },
+    {
+      "bookmarkId": "3300037423_5_15411-15468",
+      "chapterUid": 5,
+      "range": "15411-15468",
+      "markText": "如果只是在那些礼仪细节上追求切当就是至善，那么现在的戏子表演的许多冬温夏凊、奉养的礼仪切当，也可以称之为至善了？”",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=5&rangeStart=15411&rangeEnd=15468",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=5&rangeStart=15411&rangeEnd=15468"
+    },
+    {
+      "bookmarkId": "3300037423_3_11782-11823",
+      "chapterUid": 3,
+      "range": "11782-11823",
+      "markText": "“致良知”本质上是一种按照良知格物以恢复本心的修养方法，而不是读书扩充知识的方法。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=3&rangeStart=11782&rangeEnd=11823",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=3&rangeStart=11782&rangeEnd=11823"
+    },
+    {
+      "bookmarkId": "3300037423_4_909-948",
+      "chapterUid": 4,
+      "range": "909-948",
+      "markText": "对于阳明语录的学习要体之于身，默识于心，以求自得，重在身心之学，力戒口耳之学。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=4&rangeStart=909&rangeEnd=948",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=4&rangeStart=909&rangeEnd=948"
+    },
+    {
+      "bookmarkId": "3300037423_4_1038-1123",
+      "chapterUid": 4,
+      "range": "1038-1123",
+      "markText": "：“圣人教人，如医用药，皆因病立方，酌其虚实温凉阴阳内外而时时加减之。要在去病，初无定说，若拘执一方，鲜不杀人矣①。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=4&rangeStart=1038&rangeEnd=1123",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=4&rangeStart=1038&rangeEnd=1123"
+    },
+    {
+      "bookmarkId": "3300037423_5_24861-24893",
+      "chapterUid": 5,
+      "range": "24861-24893",
+      "markText": "身之主宰便是心，心之所发便是意，意之本体便是知，意之所在便是物。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=5&rangeStart=24861&rangeEnd=24893",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=5&rangeStart=24861&rangeEnd=24893"
+    },
+    {
+      "bookmarkId": "3300037423_6_73735-73766",
+      "chapterUid": 6,
+      "range": "73735-73766",
+      "markText": "“只存得此心常见在，便是学。过去未来事，思之何益？徒放心耳！”",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=6&rangeStart=73735&rangeEnd=73766",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=6&rangeStart=73735&rangeEnd=73766"
+    },
+    {
+      "bookmarkId": "3300037423_6_10130-10183",
+      "chapterUid": 6,
+      "range": "10130-10183",
+      "markText": "人须在事上磨，方立得住，方能‘静亦定，动亦定’②。”",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=6&rangeStart=10130&rangeEnd=10183",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=6&rangeStart=10130&rangeEnd=10183"
+    },
+    {
+      "bookmarkId": "3300037423_6_46140-46239",
+      "chapterUid": 6,
+      "range": "46140-46239",
+      "markText": "先生曰：“中只是天理，只是易。随时变易，如何执得？须是因时制宜，难预先定一个规矩在。如后世儒者要将道理一一说得无罅漏②，立定个格式，此正是执一。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=6&rangeStart=46140&rangeEnd=46239",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=6&rangeStart=46140&rangeEnd=46239"
+    },
+    {
+      "bookmarkId": "3300037423_11_1206-1222",
+      "chapterUid": 11,
+      "range": "1206-1222",
+      "markText": "是有意于求宁静，是以愈不宁静耳。",
+      "totalCount": 78,
+      "appLink": "weread://bestbookmark?bookId=3300037423&chapterUid=11&rangeStart=1206&rangeEnd=1222",
+      "webLink": "https://weread.qq.com/web/reader/a2d32fa0813ab751eg0133ab?chapterUid=11&rangeStart=1206&rangeEnd=1222"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

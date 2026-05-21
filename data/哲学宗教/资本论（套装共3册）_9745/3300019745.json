@@ -1,0 +1,1967 @@
+{
+  "meta": {
+    "bookId": "3300019745",
+    "title": "资本论（套装共3册）",
+    "author": "马克思",
+    "translator": "郭大力，王亚南",
+    "cover": "https://cdn.weread.qq.com/weread/cover/45/3300019745/t6_3300019745.jpg",
+    "intro": "《资本论1-3(套装共3卷)》是马克思倾其毕生心血写成的一部科学著作。它被奉为工人阶级革命的“圣经”，是一部融哲学、政治经济学、科学社会主义为一体，博大精深的马克思主义百科全书，是人类思想史上不配的理论丰碑。它揭示了现代社会的经济运动规律，对于我们认识资本主义经济和研究社会主义经济提供了基本原理。",
+    "category": "哲学宗教-马克思哲学",
+    "publisher": "译林出版社",
+    "publishTime": "2013-04-01 00:00:00",
+    "isbn": "9787544735933",
+    "wordCount": 0,
+    "newRating": 784,
+    "newRatingCount": 131,
+    "newRatingDetail": {
+      "good": 100,
+      "fair": 9,
+      "poor": 22,
+      "recent": 5,
+      "deepV": 20,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300019745",
+    "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f",
+    "lastSync": "2026-05-21T11:50:25Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 160,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "资本论（上）",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "原著者初版序",
+      "level": 2,
+      "wordCount": 2645,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "原著者第二版跋",
+      "level": 2,
+      "wordCount": 6247,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "法文译本之序与跋",
+      "level": 2,
+      "wordCount": 351,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "致读者",
+      "level": 2,
+      "wordCount": 371,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "编者第三版序",
+      "level": 2,
+      "wordCount": 1723,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "英译本第一卷编者序",
+      "level": 2,
+      "wordCount": 3034,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "编者第四版序",
+      "level": 2,
+      "wordCount": 3839,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第一卷 资本的生产过程",
+      "level": 2,
+      "wordCount": 31797,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一篇 商品与货币",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "第一章 商品",
+          "anchor": "bw2",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第二章 交换过程",
+      "level": 4,
+      "wordCount": 4966,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第三章 货币或商品流通",
+      "level": 4,
+      "wordCount": 29741,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第二篇 货币的资本化",
+      "level": 3,
+      "wordCount": 18326,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第四章 货币的资本化",
+          "anchor": "bw6",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第三篇 绝对剩余价值的生产",
+      "level": 3,
+      "wordCount": 13392,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第五章 劳动过程与价值增殖过程",
+          "anchor": "bw8",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第六章 不变资本与可变资本",
+      "level": 4,
+      "wordCount": 7146,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第七章 剩余价值率",
+      "level": 4,
+      "wordCount": 11410,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第八章 劳动日",
+      "level": 4,
+      "wordCount": 41458,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第九章 剩余价值率与剩余价值量",
+      "level": 4,
+      "wordCount": 6324,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第四篇 相对剩余价值的生产",
+      "level": 3,
+      "wordCount": 5841,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十章 相对剩余价值的概念",
+          "anchor": "bw14",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第十一章 合作",
+      "level": 4,
+      "wordCount": 8455,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第十二章 分工与制造业",
+      "level": 4,
+      "wordCount": 18440,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第十三章 机械与大工业",
+      "level": 4,
+      "wordCount": 78611,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第五篇 绝对剩余价值与相对剩余价值的生产",
+      "level": 3,
+      "wordCount": 7033,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十四章 绝对剩余价值与相对剩余价值",
+          "anchor": "bw19",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第十五章 劳动力价格和剩余价值上的量的变化",
+      "level": 4,
+      "wordCount": 6927,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第十六章 剩余价值率的种种公式",
+      "level": 4,
+      "wordCount": 1714,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第六篇 工资",
+      "level": 3,
+      "wordCount": 4843,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十七章 劳动力价值（或价格）的工资化",
+          "anchor": "bw23",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第十八章 计时工资",
+      "level": 4,
+      "wordCount": 4719,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第十九章 计件工资",
+      "level": 4,
+      "wordCount": 5044,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第二十章 工资之国民的差异",
+      "level": 4,
+      "wordCount": 2985,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "第七篇 资本的蓄积过程",
+      "level": 3,
+      "wordCount": 1019,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "导论",
+          "anchor": "bw28",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第二十一章 单纯再生产",
+      "level": 4,
+      "wordCount": 8424,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第二十二章 剩余价值的资本化",
+      "level": 4,
+      "wordCount": 20332,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第二十三章 资本主义蓄积的一般法则",
+      "level": 4,
+      "wordCount": 62360,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第二十四章 所谓原始蓄积",
+      "level": 4,
+      "wordCount": 29842,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "第二十五章 近世殖民学说",
+      "level": 4,
+      "wordCount": 6222,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "资本论第一卷补遗（马克思未发表遗稿）",
+      "level": 3,
+      "wordCount": 19131,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资本生产物的商品",
+          "anchor": "bw35",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "附录",
+      "level": 3,
+      "wordCount": 9996,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《资本论》通信十篇",
+          "anchor": "bw36",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "《资本论》述评",
+      "level": 4,
+      "wordCount": 5156,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "评瓦格讷《经济学教程》",
+      "level": 4,
+      "wordCount": 8984,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "资本论（中）",
+      "level": 1,
+      "wordCount": 4,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "编者序",
+      "level": 2,
+      "wordCount": 14634,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "第二卷 资本的流通过程",
+      "level": 2,
+      "wordCount": 27057,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一篇 资本的形态变化及其循环",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "第一章 货币资本的循环",
+          "anchor": "bw2",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "第二章 生产资本的循环",
+      "level": 4,
+      "wordCount": 17415,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "第三章 商品资本的循环",
+      "level": 4,
+      "wordCount": 9937,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "第四章 循环过程的三个公式",
+      "level": 4,
+      "wordCount": 15403,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "第五章 流通时间",
+      "level": 4,
+      "wordCount": 5649,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "第六章 流通上的诸种费用",
+      "level": 4,
+      "wordCount": 16059,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二篇 资本之周转",
+          "anchor": "bw24",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "第七章 周转期间与周转次数",
+      "level": 4,
+      "wordCount": 2762,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "第八章 固定资本与流动资本",
+      "level": 4,
+      "wordCount": 19500,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "第九章 垫支资本的总周转：周转的循环",
+      "level": 4,
+      "wordCount": 4144,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "第十章 关于固定资本和流动资本的学说——重农主义派与亚当·斯密",
+      "level": 4,
+      "wordCount": 19134,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "第十一章 关于固定资本和流动资本的学说——里嘉图",
+      "level": 4,
+      "wordCount": 9299,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "第十二章 劳动期间",
+      "level": 4,
+      "wordCount": 7508,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "第十三章 生产时间",
+      "level": 4,
+      "wordCount": 7562,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "第十四章 流通时间",
+      "level": 4,
+      "wordCount": 6001,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "第十五章 周转时间在资本垫支量上的影响",
+      "level": 4,
+      "wordCount": 23969,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "第十六章 可变资本的周转",
+      "level": 4,
+      "wordCount": 17679,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "第十七章 剩余价值的流通",
+      "level": 4,
+      "wordCount": 23434,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第三篇 社会总资本的再生产与流通",
+          "anchor": "bw48",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "第十八章 绪论",
+      "level": 4,
+      "wordCount": 5844,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "第十九章 前人对于这个问题的说明",
+      "level": 4,
+      "wordCount": 24202,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "第二十章 单纯再生产",
+      "level": 4,
+      "wordCount": 74577,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "第二十一章 蓄积与扩大的再生产",
+      "level": 4,
+      "wordCount": 25492,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "附录",
+      "level": 3,
+      "wordCount": 5501,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《资本论》通信五篇",
+          "anchor": "bw86",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "资本论（下）",
+      "level": 1,
+      "wordCount": 4,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "编者序",
+      "level": 2,
+      "wordCount": 14729,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "第一篇 剩余价值之化为利润及剩余价值率之化为利润率",
+      "level": 2,
+      "wordCount": 10009,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 成本价格与利润",
+          "anchor": "bw1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "第二章 利润率",
+      "level": 3,
+      "wordCount": 5669,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "第三章 利润率与剩余价值率的比例",
+      "level": 3,
+      "wordCount": 13786,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "第四章 周转速度对于利润率的影响",
+      "level": 3,
+      "wordCount": 4613,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "第五章 不变资本使用上的经济",
+      "level": 3,
+      "wordCount": 19716,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "title": "第六章 价格变动的影响",
+      "level": 3,
+      "wordCount": 23730,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "title": "第七章 补论",
+      "level": 3,
+      "wordCount": 2304,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 74,
+      "title": "第二篇 利润之平均利润化",
+      "level": 2,
+      "wordCount": 8525,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第八章 不同的生产部门之不同的资本构成及由此引起的利润率上的差异",
+          "anchor": "bw1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=74"
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 75,
+      "title": "第九章 一般利润率（平均利润率）的形成及商品价值之生产价格化",
+      "level": 3,
+      "wordCount": 12420,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=75",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=75"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 76,
+      "title": "第十章 竞争及一般利润率的均衡化。市场价格及市场价值。剩余利润",
+      "level": 3,
+      "wordCount": 18548,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 77,
+      "title": "第十一章 工资的一般变动所及于生产价格的影响",
+      "level": 3,
+      "wordCount": 3173,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 78,
+      "title": "第十二章 补论",
+      "level": 3,
+      "wordCount": 4289,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 79,
+      "title": "第三篇 利润率下落倾向的法则",
+      "level": 2,
+      "wordCount": 15645,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十三章 其法则",
+          "anchor": "bw1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=79"
+    },
+    {
+      "chapterUid": 80,
+      "chapterIdx": 80,
+      "title": "第十四章 抵消的原因",
+      "level": 3,
+      "wordCount": 6480,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=80",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=80"
+    },
+    {
+      "chapterUid": 81,
+      "chapterIdx": 81,
+      "title": "第十五章 这个法则的内部矛盾的展开",
+      "level": 3,
+      "wordCount": 19337,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=81",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=81"
+    },
+    {
+      "chapterUid": 82,
+      "chapterIdx": 82,
+      "title": "第四篇 商品资本和货币资本转化为商品经营资本和货币经营资本（商人资本）",
+      "level": 2,
+      "wordCount": 9911,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十六章 商品经营资本",
+          "anchor": "bw1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=82",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=82"
+    },
+    {
+      "chapterUid": 83,
+      "chapterIdx": 83,
+      "title": "第十七章 商业利润",
+      "level": 3,
+      "wordCount": 16249,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=83",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=83"
+    },
+    {
+      "chapterUid": 84,
+      "chapterIdx": 84,
+      "title": "第十八章 商人资本的周转：价格",
+      "level": 3,
+      "wordCount": 8912,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=84",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=84"
+    },
+    {
+      "chapterUid": 85,
+      "chapterIdx": 85,
+      "title": "第十九章 货币经营资本",
+      "level": 3,
+      "wordCount": 4934,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=85",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=85"
+    },
+    {
+      "chapterUid": 86,
+      "chapterIdx": 86,
+      "title": "第二十章 商人资本的历史考察",
+      "level": 3,
+      "wordCount": 9419,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=86",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=86"
+    },
+    {
+      "chapterUid": 87,
+      "chapterIdx": 87,
+      "title": "第五篇 利润之分为利息与企业利益。生息资本",
+      "level": 2,
+      "wordCount": 14885,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二十一章 生息资本",
+          "anchor": "bw1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=87",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=87"
+    },
+    {
+      "chapterUid": 88,
+      "chapterIdx": 88,
+      "title": "第二十二章 利润的分割。利息率。“自然的利息率”",
+      "level": 3,
+      "wordCount": 7437,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=88",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=88"
+    },
+    {
+      "chapterUid": 89,
+      "chapterIdx": 89,
+      "title": "第二十三章 利息与企业利益",
+      "level": 3,
+      "wordCount": 15362,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=89",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=89"
+    },
+    {
+      "chapterUid": 90,
+      "chapterIdx": 90,
+      "title": "第二十四章 资本关系在生息资本形态上的外表化",
+      "level": 3,
+      "wordCount": 6403,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=90",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=90"
+    },
+    {
+      "chapterUid": 91,
+      "chapterIdx": 91,
+      "title": "第二十五章 信用和虚拟资本",
+      "level": 3,
+      "wordCount": 14055,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=91",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=91"
+    },
+    {
+      "chapterUid": 92,
+      "chapterIdx": 92,
+      "title": "第二十六章 货币资本之蓄积及其对于利息率的影响",
+      "level": 3,
+      "wordCount": 17249,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=92",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=92"
+    },
+    {
+      "chapterUid": 93,
+      "chapterIdx": 93,
+      "title": "第二十七章 信用在资本主义生产上的作用",
+      "level": 3,
+      "wordCount": 4889,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=93",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=93"
+    },
+    {
+      "chapterUid": 94,
+      "chapterIdx": 94,
+      "title": "第二十八章 流通手段与资本：杜克和富拉吞的见解",
+      "level": 3,
+      "wordCount": 13443,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=94",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=94"
+    },
+    {
+      "chapterUid": 95,
+      "chapterIdx": 95,
+      "title": "第五篇 利润之分为利息与企业利益。生息资本（续）",
+      "level": 2,
+      "wordCount": 8697,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二十九章 银行资本的构成部分",
+          "anchor": "bw1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=95",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=95"
+    },
+    {
+      "chapterUid": 96,
+      "chapterIdx": 96,
+      "title": "第三十章 货币资本与现实资本Ⅰ",
+      "level": 3,
+      "wordCount": 13405,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=96",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=96"
+    },
+    {
+      "chapterUid": 97,
+      "chapterIdx": 97,
+      "title": "第三十一章 货币资本与现实资本Ⅱ（续）",
+      "level": 3,
+      "wordCount": 8118,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=97",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=97"
+    },
+    {
+      "chapterUid": 98,
+      "chapterIdx": 98,
+      "title": "第三十二章 货币资本与现实资本Ⅲ（完）",
+      "level": 3,
+      "wordCount": 10991,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=98",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=98"
+    },
+    {
+      "chapterUid": 99,
+      "chapterIdx": 99,
+      "title": "第三十三章 信用制度下的流通手段",
+      "level": 3,
+      "wordCount": 21025,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=99",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=99"
+    },
+    {
+      "chapterUid": 100,
+      "chapterIdx": 100,
+      "title": "第三十四章 通货原理及英吉利1844年以来的银行立法",
+      "level": 3,
+      "wordCount": 14240,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=100",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=100"
+    },
+    {
+      "chapterUid": 101,
+      "chapterIdx": 101,
+      "title": "第三十五章 贵金属与汇兑行市",
+      "level": 3,
+      "wordCount": 21154,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=101",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=101"
+    },
+    {
+      "chapterUid": 102,
+      "chapterIdx": 102,
+      "title": "第三十六章 前资本主义的状态",
+      "level": 3,
+      "wordCount": 15805,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=102",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=102"
+    },
+    {
+      "chapterUid": 103,
+      "chapterIdx": 103,
+      "title": "第六篇 剩余利润之地租化",
+      "level": 2,
+      "wordCount": 18899,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第三十七章 绪论",
+          "anchor": "bw1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=103",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=103"
+    },
+    {
+      "chapterUid": 104,
+      "chapterIdx": 104,
+      "title": "第三十八章 对差地租——总论",
+      "level": 3,
+      "wordCount": 6337,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=104",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=104"
+    },
+    {
+      "chapterUid": 105,
+      "chapterIdx": 105,
+      "title": "第三十九章 对差地租的第一形态（对差地租Ⅰ）",
+      "level": 3,
+      "wordCount": 16487,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=105",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=105"
+    },
+    {
+      "chapterUid": 106,
+      "chapterIdx": 106,
+      "title": "第四十章 对差地租的第二形态（对差地租Ⅱ）",
+      "level": 3,
+      "wordCount": 8643,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=106",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=106"
+    },
+    {
+      "chapterUid": 107,
+      "chapterIdx": 107,
+      "title": "第四十一章 对差地租Ⅱ（第一场合：生产价格不变）",
+      "level": 3,
+      "wordCount": 5115,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=107",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=107"
+    },
+    {
+      "chapterUid": 108,
+      "chapterIdx": 108,
+      "title": "第四十二章 对差地租Ⅱ（第二场合：生产价格下落）",
+      "level": 3,
+      "wordCount": 9704,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=108",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=108"
+    },
+    {
+      "chapterUid": 109,
+      "chapterIdx": 109,
+      "title": "第四十三章 对差地租Ⅱ（第三场合：生产价格增高）",
+      "level": 3,
+      "wordCount": 13911,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=109",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=109"
+    },
+    {
+      "chapterUid": 110,
+      "chapterIdx": 110,
+      "title": "第四十四章 最劣等耕地的对差地租",
+      "level": 3,
+      "wordCount": 6572,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=110",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=110"
+    },
+    {
+      "chapterUid": 111,
+      "chapterIdx": 111,
+      "title": "第四十五章 绝对地租",
+      "level": 3,
+      "wordCount": 19366,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=111",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=111"
+    },
+    {
+      "chapterUid": 112,
+      "chapterIdx": 112,
+      "title": "第四十六章 建筑地的地租。矿山地租。土地价格",
+      "level": 3,
+      "wordCount": 6162,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=112",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=112"
+    },
+    {
+      "chapterUid": 113,
+      "chapterIdx": 113,
+      "title": "第四十七章 资本主义地租的发生",
+      "level": 3,
+      "wordCount": 24807,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=113",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=113"
+    },
+    {
+      "chapterUid": 114,
+      "chapterIdx": 114,
+      "title": "第七篇 所得及其源泉",
+      "level": 2,
+      "wordCount": 14088,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第四十八章 三位一体公式",
+          "anchor": "bw1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=114",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=114"
+    },
+    {
+      "chapterUid": 115,
+      "chapterIdx": 115,
+      "title": "第四十九章 生产过程的分析",
+      "level": 3,
+      "wordCount": 13881,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=115",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=115"
+    },
+    {
+      "chapterUid": 116,
+      "chapterIdx": 116,
+      "title": "第五十章 竞争的外观",
+      "level": 3,
+      "wordCount": 18497,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=116",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=116"
+    },
+    {
+      "chapterUid": 117,
+      "chapterIdx": 117,
+      "title": "第五十一章 分配关系与生产关系",
+      "level": 3,
+      "wordCount": 5207,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=117",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=117"
+    },
+    {
+      "chapterUid": 118,
+      "chapterIdx": 118,
+      "title": "第五十二章 诸阶级",
+      "level": 3,
+      "wordCount": 812,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=118",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=118"
+    },
+    {
+      "chapterUid": 119,
+      "chapterIdx": 119,
+      "title": "资本论第三卷补恩格斯遗稿",
+      "level": 2,
+      "wordCount": 14951,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=119",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=119"
+    },
+    {
+      "chapterUid": 120,
+      "chapterIdx": 120,
+      "title": "附录",
+      "level": 2,
+      "wordCount": 12631,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《资本论》通信十篇",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=120",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=120"
+    },
+    {
+      "chapterUid": 121,
+      "chapterIdx": 121,
+      "title": "译者跋",
+      "level": 2,
+      "wordCount": 3020,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019745&chapterUid=121",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=121"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "原著者初版序",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300019745_4_2761-2841",
+          "range": "2761-2841",
+          "rangeStart": 2761,
+          "rangeEnd": 2841,
+          "markText": "本书的最终目的，是揭露近代社会的经济的运动法则，但一个社会即使已经发现了自身的运动法则，也不能跳过，或以法令废止自然的发展阶段。它只能把生育时的痛苦减短或缓和。",
+          "colorStyle": 5,
+          "colorLabel": "",
+          "createTime": 1749086066,
+          "createTimeFormatted": "2025-06-05 09:14:26",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=4&rangeStart=2761&rangeEnd=2841",
+          "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=4&rangeStart=2761&rangeEnd=2841"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300019745_4_2761-2841",
+      "chapterUid": 4,
+      "range": "2761-2841",
+      "markText": "本书的最终目的，是揭露近代社会的经济的运动法则，但一个社会即使已经发现了自身的运动法则，也不能跳过，或以法令废止自然的发展阶段。它只能把生育时的痛苦减短或缓和。",
+      "totalCount": 486,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=4&rangeStart=2761&rangeEnd=2841",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=4&rangeStart=2761&rangeEnd=2841"
+    },
+    {
+      "bookmarkId": "3300019745_4_3955-3972",
+      "chapterUid": 4,
+      "range": "3955-3972",
+      "markText": "“走自己的路，不要管别人说的话。”",
+      "totalCount": 357,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=4&rangeStart=3955&rangeEnd=3972",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=4&rangeStart=3955&rangeEnd=3972"
+    },
+    {
+      "bookmarkId": "3300019745_4_3186-3255",
+      "chapterUid": 4,
+      "range": "3186-3255",
+      "markText": "例如对英国教会，你在三十九个信条中攻击了他三十八条倒不要紧，他也许还会原谅你；但若你在他的收入中，夺去了他的三十九分之一，他一定恨你入骨。",
+      "totalCount": 342,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=4&rangeStart=3186&rangeEnd=3255",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=4&rangeStart=3186&rangeEnd=3255"
+    },
+    {
+      "bookmarkId": "3300019745_4_2976-3050",
+      "chapterUid": 4,
+      "range": "2976-3050",
+      "markText": "无论个人在主观方面可以怎样超出周围的种种事情，他在社会方面总归是周围种种事情的产物。从我的立场看，他对于这种种事情的发生，是和别的人一样不负责任的。",
+      "totalCount": 320,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=4&rangeStart=2976&rangeEnd=3050",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=4&rangeStart=2976&rangeEnd=3050"
+    },
+    {
+      "bookmarkId": "3300019745_4_1777-1811",
+      "chapterUid": 4,
+      "range": "1777-1811",
+      "markText": "产业更发达的国家，不过是对产业更不发达的国家，预示了它们将来的景象。",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=4&rangeStart=1777&rangeEnd=1811",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=4&rangeStart=1777&rangeEnd=1811"
+    },
+    {
+      "bookmarkId": "3300019745_11_8490-8524",
+      "chapterUid": 11,
+      "range": "8490-8524",
+      "markText": "社会分工是商品生产的存在条件，不过，商品生产不是社会分工的存在条件。",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=11&rangeStart=8490&rangeEnd=8524",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=11&rangeStart=8490&rangeEnd=8524"
+    },
+    {
+      "bookmarkId": "3300019745_11_7551-7611",
+      "chapterUid": 11,
+      "range": "7551-7611",
+      "markText": "最后，任一物，若不是有用物，必不能有价值。如果它是无用的，则其中所含的劳动也是无用的。这种劳动不算作劳动，故不形成价值。",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=11&rangeStart=7551&rangeEnd=7611",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=11&rangeStart=7551&rangeEnd=7611"
+    },
+    {
+      "bookmarkId": "3300019745_11_3426-3468",
+      "chapterUid": 11,
+      "range": "3426-3468",
+      "markText": "同样，诸商品的交换价值，也定然可以还原为一种共通物，它们各代表这共通物的多量或少量。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=11&rangeStart=3426&rangeEnd=3468",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=11&rangeStart=3426&rangeEnd=3468"
+    },
+    {
+      "bookmarkId": "3300019745_11_829-880",
+      "chapterUid": 11,
+      "range": "829-880",
+      "markText": "一个商品，首先就是我们外界的一个对象，它有许多性质（Eigenschaft），可以满足人类的某种欲望。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=11&rangeStart=829&rangeEnd=880",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=11&rangeStart=829&rangeEnd=880"
+    },
+    {
+      "bookmarkId": "3300019745_11_7029-7073",
+      "chapterUid": 11,
+      "range": "7029-7073",
+      "markText": "商品的价值量与实现在商品体內的劳动的量成正比例，与实现在商品体内的劳动的生产力成反比例。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=11&rangeStart=7029&rangeEnd=7073",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=11&rangeStart=7029&rangeEnd=7073"
+    },
+    {
+      "bookmarkId": "3300019745_4_2321-2459",
+      "chapterUid": 4,
+      "range": "2321-2459",
+      "markText": "波西亚斯（Perseus）戴起一顶隐身的帽子，叫被追逐的魔鬼看不见自己。我们德国人却用隐身的帽子紧遮着耳目，说没有魔鬼。",
+      "totalCount": 200,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=4&rangeStart=2321&rangeEnd=2459",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=4&rangeStart=2321&rangeEnd=2459"
+    },
+    {
+      "bookmarkId": "3300019745_4_2025-2050",
+      "chapterUid": 4,
+      "range": "2025-2050",
+      "markText": "我们不仅吃生者的亏，且吃死者的亏。死者叫生者烦恼。",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=4&rangeStart=2025&rangeEnd=2050",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=4&rangeStart=2025&rangeEnd=2050"
+    },
+    {
+      "bookmarkId": "3300019745_4_1102-1130",
+      "chapterUid": 4,
+      "range": "1102-1130",
+      "markText": "以货币形态为其完成形态的价值形态，是极无内容、极单纯的。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=4&rangeStart=1102&rangeEnd=1130",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=4&rangeStart=1102&rangeEnd=1130"
+    },
+    {
+      "bookmarkId": "3300019745_4_714-742",
+      "chapterUid": 4,
+      "range": "714-742",
+      "markText": "一切事在开头总是困难的。这一句话，可以在一切科学上适用。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=4&rangeStart=714&rangeEnd=742",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=4&rangeStart=714&rangeEnd=742"
+    },
+    {
+      "bookmarkId": "3300019745_4_2644-2706",
+      "chapterUid": 4,
+      "range": "2644-2706",
+      "markText": "所以，英国现在的支配阶级，即使没有高尚的动机，也不得不为自身利害打算，而将一切可以由法律废止的、干涉劳动阶级发展的障碍除去。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=4&rangeStart=2644&rangeEnd=2706",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=4&rangeStart=2644&rangeEnd=2706"
+    },
+    {
+      "bookmarkId": "3300019745_11_9758-9836",
+      "chapterUid": 11,
+      "range": "9758-9836",
+      "markText": "所以，劳动不是它所生产的使用价值的唯一源泉，换言之，不是物质财富的唯一源泉。威廉·配第（William Petty）说得好，劳动是物质财富之父，土地是其母。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=11&rangeStart=9758&rangeEnd=9836",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=11&rangeStart=9758&rangeEnd=9836"
+    },
+    {
+      "bookmarkId": "3300019745_11_12364-12444",
+      "chapterUid": 11,
+      "range": "12364-12444",
+      "markText": "生产力无论怎样变化，同一劳动在同一时间内所提供的价值量，是不变的。但同一劳动在同一时间内所提供的使用价值量却将因而不等；生产力增大，则增加；生产力减少，则减少。",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=11&rangeStart=12364&rangeEnd=12444",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=11&rangeStart=12364&rangeEnd=12444"
+    },
+    {
+      "bookmarkId": "3300019745_11_9059-9159",
+      "chapterUid": 11,
+      "range": "9059-9159",
+      "markText": "所以，当作使用价值的形成者，当作有用劳动，劳动在任一社会形态中皆是人类的生存条件；这是一个永久的、自然的必然（Naturnotwendigkeit），没有它，人与自然间将无物质的交换，也就无人类生活。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=11&rangeStart=9059&rangeEnd=9159",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=11&rangeStart=9059&rangeEnd=9159"
+    },
+    {
+      "bookmarkId": "3300019745_11_1953-1984",
+      "chapterUid": 11,
+      "range": "1953-1984",
+      "markText": "商品体的这种资格，是和人类占有其效用时所必需的劳动量无关系的。",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=11&rangeStart=1953&rangeEnd=1984",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=11&rangeStart=1953&rangeEnd=1984"
+    },
+    {
+      "bookmarkId": "3300019745_11_3859-3903",
+      "chapterUid": 11,
+      "range": "3859-3903",
+      "markText": "当作使用价值，各种商品是异质的；但当作交换价值，它们只是异量，不包含一个使用价值的原子。",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=3300019745&chapterUid=11&rangeStart=3859&rangeEnd=3903",
+      "webLink": "https://weread.qq.com/web/reader/c5632620813ab6e36g01537f?chapterUid=11&rangeStart=3859&rangeEnd=3903"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 5,
+    "chapterOffset": 3135,
+    "progress": 0,
+    "updateTime": 1749178882,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

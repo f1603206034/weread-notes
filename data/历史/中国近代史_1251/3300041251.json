@@ -1,0 +1,624 @@
+{
+  "meta": {
+    "bookId": "3300041251",
+    "title": "中国近代史",
+    "author": "蒋廷黻",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/69/cpPlatform_6jyro5F6q6BhnmH7usavhK/t6_cpPlatform_6jyro5F6q6BhnmH7usavhK.jpg",
+    "intro": "本书是著名历史学家蒋廷黻写给普通读者的中国近代史，以极简的文字讲透了中国鸦片战争后近百年间历史的演变、文明的冲撞、重大历史事件和关键人物，波澜壮阔、通透全面，却又简洁流畅、不偏不倚，学术价值极高。\r\n从鸦片战争到辛亥革命，从洋务运动到百日维新，从林则徐到李鸿章，从洪秀全到孙中山，本书将鸦片战争后近百年间的历史演变和人物故事娓娓道来。书中构建的史学框架和断代史体系，曾引领了近代史研究的风潮，为后来的研究者所推崇，被称为近代中国史研究的开山之作。",
+    "category": "历史-中国近现代",
+    "publisher": "贵州人民出版社",
+    "publishTime": "2022-11-01 00:00:00",
+    "isbn": "9787221172693",
+    "wordCount": 0,
+    "newRating": 794,
+    "newRatingCount": 333,
+    "newRatingDetail": {
+      "good": 264,
+      "fair": 51,
+      "poor": 18,
+      "recent": 2,
+      "deepV": 106,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300041251",
+    "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3",
+    "lastSync": "2026-05-21T11:55:51Z",
+    "readingProgress": "4%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 142,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "编者的话",
+      "level": 1,
+      "wordCount": 294,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "小序",
+      "level": 1,
+      "wordCount": 207,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "总论",
+      "level": 1,
+      "wordCount": 2065,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第一章 剿夷与抚夷",
+      "level": 1,
+      "wordCount": 14245,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 英国请中国订立邦交",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "第二节 英国人做鸦片买卖",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "第三节 东西对打",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "第四节 民族丧失二十年的光阴",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        },
+        {
+          "title": "第五节 不平等条约开始",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "第六节 剿夷派又抬头",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        },
+        {
+          "title": "第七节 剿夷派崩溃",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二章 洪秀全与曾国藩",
+      "level": 1,
+      "wordCount": 7996,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 旧社会走循环套",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "第二节 洪秀全企图建新朝",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "第三节 曾国藩刷新旧社会",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        },
+        {
+          "title": "第四节 洪秀全失败",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第三章 自强及其失败",
+      "level": 1,
+      "wordCount": 17181,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 内外合作以求自强",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        },
+        {
+          "title": "第二节 步步向前进",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        },
+        {
+          "title": "第三节 前进遇着阻碍",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        },
+        {
+          "title": "第四节 士大夫轻举妄动",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        },
+        {
+          "title": "第五节 中日初次决战",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第四章 瓜分及民族之复兴",
+      "level": 1,
+      "wordCount": 15782,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 李鸿章引狼入室",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        },
+        {
+          "title": "第二节 康有为辅助光绪变法",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        },
+        {
+          "title": "第三节 顽固势力总动员",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        },
+        {
+          "title": "第四节 孙总理提民族复兴方案",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        },
+        {
+          "title": "第五节 民族扫除复兴的障碍",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        },
+        {
+          "title": "第六节 军阀割据十五年",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        },
+        {
+          "title": "第七节 贯彻总理的遗教",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "附录",
+      "level": 1,
+      "wordCount": 26623,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "中国与近代世界的大变局",
+          "anchor": "sigil_toc_id_24",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "中国近代化的问题",
+      "level": 1,
+      "wordCount": 2945,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "我们现在还有什么话可说？",
+      "level": 1,
+      "wordCount": 1138,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "东西两大冲突将化为一吗？",
+      "level": 1,
+      "wordCount": 1555,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "美国外交目前的困难",
+      "level": 1,
+      "wordCount": 3377,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "最近三百年东北外患史",
+      "level": 1,
+      "wordCount": 36414,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "琦善与鸦片战争",
+      "level": 1,
+      "wordCount": 14934,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "百年的外交",
+      "level": 1,
+      "wordCount": 6670,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "再论近百年的外交",
+      "level": 1,
+      "wordCount": 3518,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "李鸿章——三十年后的评论",
+      "level": 1,
+      "wordCount": 6773,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300041251&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=19"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "第一章 剿夷与抚夷",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300041251_6_3259-3305",
+          "range": "3259-3305",
+          "rangeStart": 3259,
+          "rangeEnd": 3305,
+          "markText": "中西的关系是特别的。在鸦片战争以前，我们不肯给外国平等待遇；在以后，他们不肯给我们平等待遇。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1726014011,
+          "createTimeFormatted": "2024-09-11 08:20:11",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=6&rangeStart=3259&rangeEnd=3305",
+          "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=6&rangeStart=3259&rangeEnd=3305"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300041251_6_3259-3305",
+      "chapterUid": 6,
+      "range": "3259-3305",
+      "markText": "中西的关系是特别的。在鸦片战争以前，我们不肯给外国平等待遇；在以后，他们不肯给我们平等待遇。",
+      "totalCount": 720,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=6&rangeStart=3259&rangeEnd=3305",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=6&rangeStart=3259&rangeEnd=3305"
+    },
+    {
+      "bookmarkId": "3300041251_8_8228-8257",
+      "chapterUid": 8,
+      "range": "8228-8257",
+      "markText": "严格说来，民众的迷信是我民族近代接受西洋文化的大阻碍之一。",
+      "totalCount": 375,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=8&rangeStart=8228&rangeEnd=8257",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=8&rangeStart=8228&rangeEnd=8257"
+    },
+    {
+      "bookmarkId": "3300041251_6_14029-14052",
+      "chapterUid": 6,
+      "range": "14029-14052",
+      "markText": "他病太重，以后不久就死了，他的名誉借此保存了。",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=6&rangeStart=14029&rangeEnd=14052",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=6&rangeStart=14029&rangeEnd=14052"
+    },
+    {
+      "bookmarkId": "3300041251_17_2102-2136",
+      "chapterUid": 17,
+      "range": "2102-2136",
+      "markText": "可惜在我们这个社会里，糊涂的见解用激昂的文辞发表出来，有误国的能力。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=17&rangeStart=2102&rangeEnd=2136",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=17&rangeStart=2102&rangeEnd=2136"
+    },
+    {
+      "bookmarkId": "3300041251_6_11541-11581",
+      "chapterUid": 6,
+      "range": "11541-11581",
+      "markText": "不平等条约的根源一部分由于我们的无知，一部分由于我们的法制未达到近代文明的水准。",
+      "totalCount": 247,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=6&rangeStart=11541&rangeEnd=11581",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=6&rangeStart=11541&rangeEnd=11581"
+    },
+    {
+      "bookmarkId": "3300041251_6_8578-8633",
+      "chapterUid": 6,
+      "range": "8578-8633",
+      "markText": "从民族的历史看，鸦片战争的军事失败还不是民族致命伤。失败以后还不明了失败的理由，力图改革，那才是民族的致命伤。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=6&rangeStart=8578&rangeEnd=8633",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=6&rangeStart=8578&rangeEnd=8633"
+    },
+    {
+      "bookmarkId": "3300041251_7_9412-9442",
+      "chapterUid": 7,
+      "range": "9412-9442",
+      "markText": "追究其祸根，我们不能不归咎于湘军。于此也可看出旧法子的毛病。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=7&rangeStart=9412&rangeEnd=9442",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=7&rangeStart=9412&rangeEnd=9442"
+    },
+    {
+      "bookmarkId": "3300041251_6_10656-10694",
+      "chapterUid": 6,
+      "range": "10656-10694",
+      "markText": "英国人初提香港的时候，北京还不知道香港在哪里。时人反对割地，不是反对割香港。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=6&rangeStart=10656&rangeEnd=10694",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=6&rangeStart=10656&rangeEnd=10694"
+    },
+    {
+      "bookmarkId": "3300041251_6_9883-9952",
+      "chapterUid": 6,
+      "range": "9883-9952",
+      "markText": "难怪他后来虽又做陕甘总督和云贵总督，他总不肯公开提倡改革。他让主持清议的士大夫睡在梦中，他让国家日趋衰弱，而不肯牺牲自己的名誉去与时人奋斗",
+      "totalCount": 200,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=6&rangeStart=9883&rangeEnd=9952",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=6&rangeStart=9883&rangeEnd=9952"
+    },
+    {
+      "bookmarkId": "3300041251_6_14790-14807",
+      "chapterUid": 6,
+      "range": "14790-14807",
+      "markText": "士大夫阶级所依赖的民心竟毫无力量。",
+      "totalCount": 195,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=6&rangeStart=14790&rangeEnd=14807",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=6&rangeStart=14790&rangeEnd=14807"
+    },
+    {
+      "bookmarkId": "3300041251_6_4916-4982",
+      "chapterUid": 6,
+      "range": "4916-4982",
+      "markText": "在他们的私函中，他们承认禁烟的困难，但是在他们的奏章中，他们总是逢迎上峰的意旨，唱高调。这种不诚实的行为是我国士大夫阶级大毛病之一。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=6&rangeStart=4916&rangeEnd=4982",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=6&rangeStart=4916&rangeEnd=4982"
+    },
+    {
+      "bookmarkId": "3300041251_11_1790-1815",
+      "chapterUid": 11,
+      "range": "1790-1815",
+      "markText": "无论在哪一国，群众都是守旧的。创造是少数人的事业。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=11&rangeStart=1790&rangeEnd=1815",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=11&rangeStart=1790&rangeEnd=1815"
+    },
+    {
+      "bookmarkId": "3300041251_8_11706-11736",
+      "chapterUid": 8,
+      "range": "11706-11736",
+      "markText": "左宗棠的运气真好，因为新疆发生了内讧，并没有遇着坚强的抵抗。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=8&rangeStart=11706&rangeEnd=11736",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=8&rangeStart=11706&rangeEnd=11736"
+    },
+    {
+      "bookmarkId": "3300041251_7_2002-2062",
+      "chapterUid": 7,
+      "range": "2002-2062",
+      "markText": "所以每个朝代到了天下太平已久，人口增加很多，民生痛苦的时候，官吏加多，每个官吏的贪污更加厉害，人民所受的压榨也更加严重。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=7&rangeStart=2002&rangeEnd=2062",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=7&rangeStart=2002&rangeEnd=2062"
+    },
+    {
+      "bookmarkId": "3300041251_8_4289-4383",
+      "chapterUid": 8,
+      "range": "4289-4383",
+      "markText": "但是他们在这条路上前进一步以后，就发现必须再进一步；再进一步以后，又必须更进一步。其实必须走到尽头，然后才能生效。近代化的国防不但需要近代化的交通、教育、经济，并且需要近代化的政治和国民。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=8&rangeStart=4289&rangeEnd=4383",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=8&rangeStart=4289&rangeEnd=4383"
+    },
+    {
+      "bookmarkId": "3300041251_8_9339-9419",
+      "chapterUid": 8,
+      "range": "9339-9419",
+      "markText": "所以我们对于外国的资本应采的态度如同对水一样，有的时候，有的地方，在某种条件之下，我们应该掘井取水，或开河引水；在别的时候、地方和条件之下，我们则必须筑堤防水。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=8&rangeStart=9339&rangeEnd=9419",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=8&rangeStart=9339&rangeEnd=9419"
+    },
+    {
+      "bookmarkId": "3300041251_6_4091-4136",
+      "chapterUid": 6,
+      "range": "4091-4136",
+      "markText": "他们主张一面加重关税，一面提倡种植，拿国货来抵外货，久而久之，外商无利可图，就不运鸦片了。",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=6&rangeStart=4091&rangeEnd=4136",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=6&rangeStart=4091&rangeEnd=4136"
+    },
+    {
+      "bookmarkId": "3300041251_6_11019-11062",
+      "chapterUid": 6,
+      "range": "11019-11062",
+      "markText": "道光年间的中国人，完全不懂国际公法和国际形势，所以他们争所不当争，放弃所不应当放弃的。",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=6&rangeStart=11019&rangeEnd=11062",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=6&rangeStart=11019&rangeEnd=11062"
+    },
+    {
+      "bookmarkId": "3300041251_8_6653-6681",
+      "chapterUid": 8,
+      "range": "6653-6681",
+      "markText": "窃闻立国之道，尚礼义不尚权谋；根本之图，在人心不在技艺。",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=8&rangeStart=6653&rangeEnd=6681",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=8&rangeStart=6653&rangeEnd=6681"
+    },
+    {
+      "bookmarkId": "3300041251_8_673-769",
+      "chapterUid": 8,
+      "range": "673-769",
+      "markText": "英、法的军队虽然占了北京，并且实力充足，能为所欲为，但《北京条约》订了以后，英、法居然依据条约撤退军队，交还首都。时人认为这是了不得的事情，足证西洋人也守信义，所以对付外国人并不是全无办法的。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=3300041251&chapterUid=8&rangeStart=673&rangeEnd=769",
+      "webLink": "https://weread.qq.com/web/reader/c81329b0813ab769dg0111c3?chapterUid=8&rangeStart=673&rangeEnd=769"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 6,
+    "chapterOffset": 5323,
+    "progress": 4,
+    "updateTime": 1726017986,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

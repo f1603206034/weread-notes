@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "bookId": "3300129156",
+    "title": "皇明祖训",
+    "author": "朱元璋 撰",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/77/cpplatform_iwg3hkxfyjdfh5pmscdmnk/t6_cpplatform_iwg3hkxfyjdfh5pmscdmnk1735896413.jpg",
+    "intro": "明朝定国不久，朱元璋便主持编撰了《皇明祖训》，对后世子孙进行教导和训诫，它也成为明代皇帝的启蒙书。全书一共十三章，涵盖了政治、礼仪、法律等多个方面，其中朱元璋提出了禁用酷刑、禁立丞相等制度和设立原因，也强调了节俭、慎思、敬天法祖等原则。《皇明祖训》既是家法，也为明朝近三百年的统治定下了框架和基调，同时，也体现了朱元璋的主要政治和伦理理念。",
+    "category": "历史-历史典籍",
+    "publisher": "",
+    "publishTime": "2024-12-01 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 802,
+    "newRatingCount": 118,
+    "newRatingDetail": {
+      "good": 93,
+      "fair": 21,
+      "poor": 4,
+      "recent": 4,
+      "deepV": 50,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300129156",
+    "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8",
+    "lastSync": "2026-05-21T11:51:07Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 86,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "皇明祖训序",
+      "level": 1,
+      "wordCount": 494,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "祖训首章",
+      "level": 1,
+      "wordCount": 2027,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "持守",
+      "level": 1,
+      "wordCount": 222,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "严祭祀",
+      "level": 1,
+      "wordCount": 383,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "谨出入",
+      "level": 1,
+      "wordCount": 243,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "慎国政",
+      "level": 1,
+      "wordCount": 274,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "礼仪",
+      "level": 1,
+      "wordCount": 2325,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "法律",
+      "level": 1,
+      "wordCount": 1284,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "内令",
+      "level": 1,
+      "wordCount": 320,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "内官",
+      "level": 1,
+      "wordCount": 149,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "各监官职名",
+      "level": 2,
+      "wordCount": 398,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "奉天等门官职名",
+      "level": 2,
+      "wordCount": 34,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "各司官职名",
+      "level": 2,
+      "wordCount": 73,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "各局库官职名",
+      "level": 2,
+      "wordCount": 265,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "东宫官",
+      "level": 2,
+      "wordCount": 199,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "王府官",
+      "level": 2,
+      "wordCount": 180,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "公主府",
+      "level": 2,
+      "wordCount": 21,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "职制",
+      "level": 1,
+      "wordCount": 829,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "凡封爵",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "凡王府官",
+      "level": 2,
+      "wordCount": 249,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "凡指挥使司",
+      "level": 2,
+      "wordCount": 111,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "兵卫",
+      "level": 1,
+      "wordCount": 440,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "亲王仪仗",
+      "level": 2,
+      "wordCount": 320,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "营缮",
+      "level": 1,
+      "wordCount": 257,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "供用",
+      "level": 1,
+      "wordCount": 708,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300129156&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=26"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 10,
+      "chapterTitle": "法律",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300129156_10_1752-1803",
+          "range": "1752-1803",
+          "rangeStart": 1752,
+          "rangeEnd": 1803,
+          "markText": "如朝无正臣，内有奸恶，则亲王训兵待命，天子密诏诸王，统领镇兵讨平之。既平之后，收兵于营，王朝天子而还。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1746059749,
+          "createTimeFormatted": "2025-05-01 08:35:49",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=10&rangeStart=1752&rangeEnd=1803",
+          "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=10&rangeStart=1752&rangeEnd=1803"
+        }
+      ]
+    },
+    {
+      "chapterUid": 3,
+      "chapterTitle": "皇明祖训序",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300129156_3_564-573",
+          "range": "564-573",
+          "rangeStart": 564,
+          "rangeEnd": 573,
+          "markText": "人之情伪，亦颇知之",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1746059733,
+          "createTimeFormatted": "2025-05-01 08:35:33",
+          "chapterUid": 3,
+          "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=3&rangeStart=564&rangeEnd=573",
+          "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=3&rangeStart=564&rangeEnd=573"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300129156_3_836-842",
+      "chapterUid": 3,
+      "range": "836-842",
+      "markText": "一字不可改易",
+      "totalCount": 450,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=3&rangeStart=836&rangeEnd=842",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=3&rangeStart=836&rangeEnd=842"
+    },
+    {
+      "bookmarkId": "3300129156_4_810-887",
+      "chapterUid": 4,
+      "range": "810-887",
+      "markText": "皇亲国戚有犯，在嗣君自决。除谋逆不赦外，其余所犯，轻者与在京诸亲会议，重者与在外诸王及在京诸亲会议，皆取自上裁。其所犯之家，止许法司举奏，并不许擅自拿问。",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=810&rangeEnd=887",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=810&rangeEnd=887"
+    },
+    {
+      "bookmarkId": "3300129156_4_2906-2977",
+      "chapterUid": 4,
+      "range": "2906-2977",
+      "markText": "凡警备常用器械、衣甲，不离左右；更选良马数匹，调教能行速走者，常于宫门喂养。及四城门，令内使带鞍辔各置一匹，在其所在，一体上古帝王诸侯防御也。",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=2906&rangeEnd=2977",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=2906&rangeEnd=2977"
+    },
+    {
+      "bookmarkId": "3300129156_4_420-463",
+      "chapterUid": 4,
+      "range": "420-463",
+      "markText": "其中奸顽刁诈之徒，情犯深重、灼然无疑者，特令法外加刑，意在使人知所警惧，不敢轻易犯法。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=420&rangeEnd=463",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=420&rangeEnd=463"
+    },
+    {
+      "bookmarkId": "3300129156_4_3071-3101",
+      "chapterUid": 4,
+      "range": "3071-3101",
+      "markText": "凡帝王居宫，要早起睡迟，酒要少饮，饭要依时进，午后不许太饱。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=3071&rangeEnd=3101",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=3071&rangeEnd=3101"
+    },
+    {
+      "bookmarkId": "3300129156_10_1752-1803",
+      "chapterUid": 10,
+      "range": "1752-1803",
+      "markText": "如朝无正臣，内有奸恶，则亲王训兵待命，天子密诏诸王，统领镇兵讨平之。既平之后，收兵于营，王朝天子而还。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=10&rangeStart=1752&rangeEnd=1803",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=10&rangeStart=1752&rangeEnd=1803"
+    },
+    {
+      "bookmarkId": "3300129156_4_3524-3550",
+      "chapterUid": 4,
+      "range": "3524-3550",
+      "markText": "凡古王侯，妄窥大位者，无不自取灭亡，或连及朝廷俱废。",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=3524&rangeEnd=3550",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=3524&rangeEnd=3550"
+    },
+    {
+      "bookmarkId": "3300129156_4_486-551",
+      "chapterUid": 4,
+      "range": "486-551",
+      "markText": "以后子孙做皇帝时，止守律与大诰，并不许用黥刺、腓、劓、阉割之刑。云何？盖嗣君宫内生长，人情善恶，未能周知；恐一时所施不当，误伤善良",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=486&rangeEnd=551",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=486&rangeEnd=551"
+    },
+    {
+      "bookmarkId": "3300129156_9_2584-2671",
+      "chapterUid": 9,
+      "range": "2584-2671",
+      "markText": "凡东宫、亲王位下、各拟名二十字。日后生子及孙，即以上闻，付宗人府。所立双名，每一世取一字以为上字；其下一字，临时随意选择，以为双名，编入玉牒。至二十世后，照例续添，永为定式。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=9&rangeStart=2584&rangeEnd=2671",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=9&rangeStart=2584&rangeEnd=2671"
+    },
+    {
+      "bookmarkId": "3300129156_4_733-779",
+      "chapterUid": 4,
+      "range": "733-779",
+      "markText": "以后子孙做皇帝时，并不许立丞相。臣下敢有奏请设立者，文武群臣即时劾奏，将犯人凌迟，全家处死。",
+      "totalCount": 140,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=733&rangeEnd=779",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=733&rangeEnd=779"
+    },
+    {
+      "bookmarkId": "3300129156_4_2772-2836",
+      "chapterUid": 4,
+      "range": "2772-2836",
+      "markText": "虽亲信如骨肉，朝夕相见，犹当警备于心，宁有备而无用。如欲回避左右，与亲信人密谋国事，其常随内官及带刀人员止可离十丈地，不可太远。",
+      "totalCount": 140,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=2772&rangeEnd=2836",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=2772&rangeEnd=2836"
+    },
+    {
+      "bookmarkId": "3300129156_4_676-711",
+      "chapterUid": 4,
+      "range": "676-711",
+      "markText": "我朝罢丞相，设五府、六部、都察院、通政司、大理寺等衙门，分理天下庶务，",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=676&rangeEnd=711",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=676&rangeEnd=711"
+    },
+    {
+      "bookmarkId": "3300129156_4_1568-1594",
+      "chapterUid": 4,
+      "range": "1568-1594",
+      "markText": "日本国（虽朝实诈，暗通奸臣胡惟庸，谋为不轨，故绝之）",
+      "totalCount": 130,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=1568&rangeEnd=1594",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=1568&rangeEnd=1594"
+    },
+    {
+      "bookmarkId": "3300129156_4_2502-2532",
+      "chapterUid": 4,
+      "range": "2502-2532",
+      "markText": "如风雨不时，则民不聊生，盗贼窃发，豪杰或乘隙而起，国势危矣。",
+      "totalCount": 130,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=2502&rangeEnd=2532",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=2502&rangeEnd=2532"
+    },
+    {
+      "bookmarkId": "3300129156_3_433-487",
+      "chapterUid": 3,
+      "range": "433-487",
+      "markText": "盖其创业之初，备尝艰苦，阅人既多，历事亦熟。比之生长深宫之主，未谙世故；及僻处山林之士，自矜己长者，甚相远矣",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=3&rangeStart=433&rangeEnd=487",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=3&rangeStart=433&rangeEnd=487"
+    },
+    {
+      "bookmarkId": "3300129156_3_605-651",
+      "chapterUid": 3,
+      "range": "605-651",
+      "markText": "且群雄之强盛诡诈，至难服也，而朕已服之；民经世乱，欲度兵荒，务习奸猾，至难齐也，而朕已齐之。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=3&rangeStart=605&rangeEnd=651",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=3&rangeStart=605&rangeEnd=651"
+    },
+    {
+      "bookmarkId": "3300129156_4_2364-2422",
+      "chapterUid": 4,
+      "range": "2364-2422",
+      "markText": "帝王得国之初，天必授于有德者。若守成之君常存敬畏，以祖宗忧天下为心，则能永受天之眷顾；若生怠慢，祸必加焉。可不畏哉！",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=2364&rangeEnd=2422",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=2364&rangeEnd=2422"
+    },
+    {
+      "bookmarkId": "3300129156_4_3668-3706",
+      "chapterUid": 4,
+      "range": "3668-3706",
+      "markText": "凡王所守者祖法。如朝廷之命合于道理，则惟命是听；不合道理，见法律篇第十二条。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=3668&rangeEnd=3706",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=3668&rangeEnd=3706"
+    },
+    {
+      "bookmarkId": "3300129156_5_563-590",
+      "chapterUid": 5,
+      "range": "563-590",
+      "markText": "晚朝毕而入，清晨星存而出，除有疾外，平康之时，不敢怠惰",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=5&rangeStart=563&rangeEnd=590",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=5&rangeStart=563&rangeEnd=590"
+    },
+    {
+      "bookmarkId": "3300129156_4_2628-2656",
+      "chapterUid": 4,
+      "range": "2628-2656",
+      "markText": "不为常例，然优免在心，临期便决，勿使小人先知，要名于外。",
+      "totalCount": 121,
+      "appLink": "weread://bestbookmark?bookId=3300129156&chapterUid=4&rangeStart=2628&rangeEnd=2656",
+      "webLink": "https://weread.qq.com/web/reader/30132c10813ab98f3g016dc8?chapterUid=4&rangeStart=2628&rangeEnd=2656"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

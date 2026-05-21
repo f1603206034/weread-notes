@@ -1,0 +1,694 @@
+{
+  "meta": {
+    "bookId": "815530",
+    "title": "硬派健身",
+    "author": "斌卡",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/78/YueWen_815530/t6_YueWen_815530.jpg",
+    "intro": "十年前，我开始了自己的健身训练。然而，我却走了不少弯路，听信了不少错误的传言。十年间，我发现这世界有太多的人云亦云，太多的误人子弟，太多的急功近利，太多的寡廉鲜耻。十年后，此时、此地，我愿《硬派健身》，成为你的第一本健身书。",
+    "category": "生活百科-体育",
+    "publisher": "湖南文艺出版社",
+    "publishTime": "2015-06-01 00:00:00",
+    "isbn": "9787540471309",
+    "wordCount": 0,
+    "newRating": 729,
+    "newRatingCount": 7109,
+    "newRatingDetail": {
+      "good": 5129,
+      "fair": 1846,
+      "poor": 134,
+      "recent": 6,
+      "deepV": 267,
+      "myRating": "",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=815530",
+    "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573",
+    "lastSync": "2026-05-21T11:58:36Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "2024-05-30",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=815530&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=1"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 114,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=815530&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 3,
+      "title": "引言",
+      "level": 1,
+      "wordCount": 105,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=815530&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 4,
+      "title": "Introduction 当我们在聊健身的时候我们在聊些什么？",
+      "level": 1,
+      "wordCount": 1692,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=815530&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 5,
+      "title": "Chapter 1 什么样的身材才是好身材？",
+      "level": 1,
+      "wordCount": 21,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=815530&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 6,
+      "title": "一 那些让你看起来更棒的部位",
+      "level": 2,
+      "wordCount": 4169,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 那些让你看起来更棒的部位",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "二 体重能代表什么？",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=815530&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 7,
+      "title": "Chapter 2 你为什么会减肥失败？",
+      "level": 1,
+      "wordCount": 19,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=815530&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 8,
+      "title": "一 节食失败的原因",
+      "level": 2,
+      "wordCount": 10881,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 节食失败的原因",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "1 节食会让人变蠢——你知道你的大脑会被吃掉吗？",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        },
+        {
+          "title": "2 节食会反弹——减肥2斤长回10斤，这就是节食的下场",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        },
+        {
+          "title": "3 节食导致暴食——管不住自己的嘴巴，都是因为你节食！",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        },
+        {
+          "title": "二 运动失败的原因——你太容易听信他人了！",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "1 常识破坏1：只有40分钟以上的有氧运动才减肥？——大错特错！",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        },
+        {
+          "title": "2 常识破坏2：长时间的有氧运动是最好的减肥运动？——没错，但不一定对你有用！",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "3 常识破坏3：支出脂肪就等于体脂降低？——话虽如此，但减肥不是数学",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        },
+        {
+          "title": "4 常识破坏4：超重者应该多做有氧运动？——但你也得跑得起来啊！",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=815530&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 9,
+      "title": "Chapter 3 什么样的有氧运动最减脂？",
+      "level": 1,
+      "wordCount": 21,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=815530&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 10,
+      "title": "一 什么是HIIT?——精明减肥者的选择",
+      "level": 2,
+      "wordCount": 14885,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 为什么要采取高强度间歇式的方式？——风靡全球的HIIT是怎么减肥的？",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        },
+        {
+          "title": "1 变化的高强度——持久减脂，刺激生长激素分泌",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        },
+        {
+          "title": "2 间歇运动——强效减脂，促进脂肪代谢",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "3 HIIT——更好的有氧运动",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        },
+        {
+          "title": "三 HIIT训练的重点——怎么做HIIT效果才最好？",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        },
+        {
+          "title": "四 简易HIIT训练计划",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        },
+        {
+          "title": "1 体重向下、楼层向上的高效减脂运动——爬楼梯",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        },
+        {
+          "title": "2 HIIT针对室内的懒人操",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=815530&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 11,
+      "title": "Chapter 4 塑形的抗阻训练——雕塑身体细节，从抗阻做起",
+      "level": 1,
+      "wordCount": 30,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=815530&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 12,
+      "title": "一 胸大显腰细——对抗地心引力的关键",
+      "level": 2,
+      "wordCount": 33908,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 臀翘显腿长——完美曲线的黄金分割点",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        },
+        {
+          "title": "三 私藏的性感腹肌——身体视觉上最亮丽的风景线",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        },
+        {
+          "title": "四 挺拔而有气质的肩膀——成为衣架的关键",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        },
+        {
+          "title": "1 肩部肌肉的构成",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "2 如何加强肩关节的稳定性",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "五 纤细修长vs性感而有力量的胳膊——拜拜了，拜拜肉",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        },
+        {
+          "title": "六 匀称而性感的小腿——比腰围更显瘦的利器",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=815530&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 13,
+      "title": "Chapter 5 健身十问",
+      "level": 1,
+      "wordCount": 13,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=815530&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 14,
+      "title": "一 健身后肌肉酸痛怎么办？",
+      "level": 2,
+      "wordCount": 17600,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 上完班后很累，应该运动吗？",
+          "anchor": "sigil_toc_id_27",
+          "level": 2
+        },
+        {
+          "title": "三 空腹训练是更减脂还是对身体有害？",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        },
+        {
+          "title": "四 无器械健身真的更好吗？",
+          "anchor": "sigil_toc_id_29",
+          "level": 2
+        },
+        {
+          "title": "五 骑车与跑步、跑步与快走，哪个更减肥？",
+          "anchor": "sigil_toc_id_30",
+          "level": 2
+        },
+        {
+          "title": "六 关节有异响，还能运动吗？",
+          "anchor": "sigil_toc_id_31",
+          "level": 2
+        },
+        {
+          "title": "七 害怕关节疼，能做抗阻训练吗？",
+          "anchor": "sigil_toc_id_32",
+          "level": 2
+        },
+        {
+          "title": "八 拉伸能让我避免受伤，还是更容易受伤？",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        },
+        {
+          "title": "九 增肌与减脂可以同时进行吗？",
+          "anchor": "sigil_toc_id_34",
+          "level": 2
+        },
+        {
+          "title": "十 如何选择健身房？",
+          "anchor": "sigil_toc_id_35",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=815530&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 15,
+      "title": "Chapter 6 当我们健身时，我们吃什么？",
+      "level": 1,
+      "wordCount": 22,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=815530&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 16,
+      "title": "一 健身时到底该怎么吃，才能增肌又减脂？",
+      "level": 2,
+      "wordCount": 15061,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1 卡路里篇",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        },
+        {
+          "title": "2 健身饮食——蛋白质篇",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        },
+        {
+          "title": "3 碳水化合物——最重要的营养，让肉长在该长的地方",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "4 脂肪——关键在于时间",
+          "anchor": "sigil_toc_id_39",
+          "level": 3
+        },
+        {
+          "title": "二 运动对食欲的影响",
+          "anchor": "sigil_toc_id_40",
+          "level": 2
+        },
+        {
+          "title": "三 为什么健身者只吃牛肉、鸡肉而不吃瘦猪肉？",
+          "anchor": "sigil_toc_id_41",
+          "level": 2
+        },
+        {
+          "title": "1 健身文化",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        },
+        {
+          "title": "2 烹饪方式",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=815530&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 17,
+      "title": "Chapter 7 每日训练计划",
+      "level": 1,
+      "wordCount": 5261,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=815530&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=32"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 19,
+      "chapterTitle": "Introduction 当我们在聊健身的时候我们在聊些什么？",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "815530_19_2496-2554",
+          "range": "2496-2554",
+          "rangeStart": 2496,
+          "rangeEnd": 2554,
+          "markText": "身材不是你健身的目的，快乐也不是健身的目的，甚至健身都不是你的目的。你的目的，是发现你自己，困缚于日常生活中的自己。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1717028911,
+          "createTimeFormatted": "2024-05-30 08:28:31",
+          "chapterUid": 19,
+          "appLink": "weread://bestbookmark?bookId=815530&chapterUid=19&rangeStart=2496&rangeEnd=2554",
+          "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=19&rangeStart=2496&rangeEnd=2554"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "815530_19_2496-2554",
+      "chapterUid": 19,
+      "range": "2496-2554",
+      "markText": "身材不是你健身的目的，快乐也不是健身的目的，甚至健身都不是你的目的。你的目的，是发现你自己，困缚于日常生活中的自己。",
+      "totalCount": 5401,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=19&rangeStart=2496&rangeEnd=2554",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=19&rangeStart=2496&rangeEnd=2554"
+    },
+    {
+      "bookmarkId": "815530_21_3746-3798",
+      "chapterUid": 21,
+      "range": "3746-3798",
+      "markText": "改变所有人第一眼就能看到的部位，塑造一种直观上整体完美的体形，而不是改变那些只有你自己才在乎的微小细节。",
+      "totalCount": 2040,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=21&rangeStart=3746&rangeEnd=3798",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=21&rangeStart=3746&rangeEnd=3798"
+    },
+    {
+      "bookmarkId": "815530_23_15417-15449",
+      "chapterUid": 23,
+      "range": "15417-15449",
+      "markText": "通过长时间的有氧运动来减重，对于体重正常的人来说，效果是很差的。",
+      "totalCount": 1870,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=23&rangeStart=15417&rangeEnd=15449",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=23&rangeStart=15417&rangeEnd=15449"
+    },
+    {
+      "bookmarkId": "815530_21_4612-4682",
+      "chapterUid": 21,
+      "range": "4612-4682",
+      "markText": "每天做一次大肌群训练（胸、背、臀、腿）6～10组，搭配核心肌群训练（腹部、下背部）1～3组，最后做HIIT（高强度间歇训练）15到30分钟。",
+      "totalCount": 1368,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=21&rangeStart=4612&rangeEnd=4682",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=21&rangeStart=4612&rangeEnd=4682"
+    },
+    {
+      "bookmarkId": "815530_23_1622-1681",
+      "chapterUid": 23,
+      "range": "1622-1681",
+      "markText": "错误的减肥方式给你的身体带来的伤害远比你想象中要大，不仅会让你变成一个不健康的胖子，而且有可能让你变成一个愚蠢的胖子。",
+      "totalCount": 1116,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=23&rangeStart=1622&rangeEnd=1681",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=23&rangeStart=1622&rangeEnd=1681"
+    },
+    {
+      "bookmarkId": "815530_23_1717-1787",
+      "chapterUid": 23,
+      "range": "1717-1787",
+      "markText": "想要赢球就要了解足球；想要赚钱就要懂得钱；想要幸福的人生，至少得明白你在追求的幸福是什么。而想要健康的身体，自然得知道你的身体是怎么运行的。",
+      "totalCount": 1056,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=23&rangeStart=1717&rangeEnd=1787",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=23&rangeStart=1717&rangeEnd=1787"
+    },
+    {
+      "bookmarkId": "815530_23_11646-11663",
+      "chapterUid": 23,
+      "range": "11646-11663",
+      "markText": "饮食本身并不是一种罪过，贪食才是。",
+      "totalCount": 1003,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=23&rangeStart=11646&rangeEnd=11663",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=23&rangeStart=11646&rangeEnd=11663"
+    },
+    {
+      "bookmarkId": "815530_23_1926-1945",
+      "chapterUid": 23,
+      "range": "1926-1945",
+      "markText": "想要改变自己，先要尊重自己、了解自己。",
+      "totalCount": 969,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=23&rangeStart=1926&rangeEnd=1945",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=23&rangeStart=1926&rangeEnd=1945"
+    },
+    {
+      "bookmarkId": "815530_23_13341-13398",
+      "chapterUid": 23,
+      "range": "13341-13398",
+      "markText": "令人震惊的是，即使从长远的时间范畴看，有氧运动所消耗的总脂肪和热量，也是低于高强度的无氧抗阻训练和HIIT训练的。",
+      "totalCount": 945,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=23&rangeStart=13341&rangeEnd=13398",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=23&rangeStart=13341&rangeEnd=13398"
+    },
+    {
+      "bookmarkId": "815530_23_1280-1351",
+      "chapterUid": 23,
+      "range": "1280-1351",
+      "markText": "人生也好，足球也好，时刻都处于复杂的平衡之中，每项因素的波动和改变，都会引起一系列的变化。单纯的加减法，绝对没有办法让我们百分之百地赢得成功。",
+      "totalCount": 897,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=23&rangeStart=1280&rangeEnd=1351",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=23&rangeStart=1280&rangeEnd=1351"
+    },
+    {
+      "bookmarkId": "815530_21_6883-6940",
+      "chapterUid": 21,
+      "range": "6883-6940",
+      "markText": "肌肉是能耗大户。一般静止状态下，1公斤肌肉24小时大概可以消耗15千卡的能量，而1公斤脂肪24小时只能消耗4千卡。",
+      "totalCount": 880,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=21&rangeStart=6883&rangeEnd=6940",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=21&rangeStart=6883&rangeEnd=6940"
+    },
+    {
+      "bookmarkId": "815530_19_2886-2942",
+      "chapterUid": 19,
+      "range": "2886-2942",
+      "markText": "健身的确有这么神奇的魅力，它的的确确能让你变得更快乐、更漂亮、更有魅力，以及更坚强、更有耐性，并拥有更好的人生。",
+      "totalCount": 816,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=19&rangeStart=2886&rangeEnd=2942",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=19&rangeStart=2886&rangeEnd=2942"
+    },
+    {
+      "bookmarkId": "815530_27_43849-43939",
+      "chapterUid": 27,
+      "range": "43849-43939",
+      "markText": "所以，在做平板支撑的时候，如果你没有特别鲜明的目的，只需撑住，顺其自然。撑不住的时候，左晃晃、右晃晃、前晃晃、后晃晃、弓下背等等，都不要紧，所有的核心肌群都还是会得到很好的锻炼的。",
+      "totalCount": 784,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=27&rangeStart=43849&rangeEnd=43939",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=27&rangeStart=43849&rangeEnd=43939"
+    },
+    {
+      "bookmarkId": "815530_25_4938-4945",
+      "chapterUid": 25,
+      "range": "4938-4945",
+      "markText": "脂肪转化成肌肉",
+      "totalCount": 736,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=25&rangeStart=4938&rangeEnd=4945",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=25&rangeStart=4938&rangeEnd=4945"
+    },
+    {
+      "bookmarkId": "815530_23_5137-5156",
+      "chapterUid": 23,
+      "range": "5137-5156",
+      "markText": "我们的身体中，流淌着狂吃到死的血液……",
+      "totalCount": 710,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=23&rangeStart=5137&rangeEnd=5156",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=23&rangeStart=5137&rangeEnd=5156"
+    },
+    {
+      "bookmarkId": "815530_25_490-584",
+      "chapterUid": 25,
+      "range": "490-584",
+      "markText": "HIIT就是一种高强度运动与低强度运动间歇交替的训练方式，只要运动中的强度是高低交替的，都可以视作广义上的HIIT。比如你快跑一会儿，慢跑一会儿，或者骑车冲刺与慢行交替，都是HIIT训练。",
+      "totalCount": 700,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=25&rangeStart=490&rangeEnd=584",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=25&rangeStart=490&rangeEnd=584"
+    },
+    {
+      "bookmarkId": "815530_32_4115-4169",
+      "chapterUid": 32,
+      "range": "4115-4169",
+      "markText": "为了让自己的身体在每次健身训练后都能有更好的恢复和生长，最好能让两次大肌群训练间隔72小时左右，也就是3天。",
+      "totalCount": 697,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=32&rangeStart=4115&rangeEnd=4169",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=32&rangeStart=4115&rangeEnd=4169"
+    },
+    {
+      "bookmarkId": "815530_29_22327-22399",
+      "chapterUid": 29,
+      "range": "22327-22399",
+      "markText": "大多数运动理论和实验都证明，无论健康养生、瘦身减脂，还是强健体魄、增肌塑形，训练前最好不要做拉伸训练。训练前拉伸，会让人更慢、更弱、更容易受伤。",
+      "totalCount": 688,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=29&rangeStart=22327&rangeEnd=22399",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=29&rangeStart=22327&rangeEnd=22399"
+    },
+    {
+      "bookmarkId": "815530_23_3560-3605",
+      "chapterUid": 23,
+      "range": "3560-3605",
+      "markText": "在595名11岁到18岁的年轻女性研究对象中，节食大大降低了用此方法减肥的年轻女性的智商。",
+      "totalCount": 660,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=23&rangeStart=3560&rangeEnd=3605",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=23&rangeStart=3560&rangeEnd=3605"
+    },
+    {
+      "bookmarkId": "815530_21_1298-1323",
+      "chapterUid": 21,
+      "range": "1298-1323",
+      "markText": "你想要的也不只是瘦而已，而是在瘦的同时，还能有型。",
+      "totalCount": 636,
+      "appLink": "weread://bestbookmark?bookId=815530&chapterUid=21&rangeStart=1298&rangeEnd=1323",
+      "webLink": "https://weread.qq.com/web/reader/c0432af05c71aac049f7573?chapterUid=21&rangeStart=1298&rangeEnd=1323"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 19,
+    "chapterOffset": 2449,
+    "progress": 0,
+    "updateTime": 1717029837,
+    "recordReadingTime": 0,
+    "finishTime": 1717029832
+  }
+}

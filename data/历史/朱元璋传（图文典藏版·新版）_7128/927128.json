@@ -1,0 +1,730 @@
+{
+  "meta": {
+    "bookId": "927128",
+    "title": "朱元璋传（图文典藏版·新版）",
+    "author": "吴晗",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/1/YueWen_927128/t6_YueWen_927128.jpg",
+    "intro": "本书由吴晗先生在1948年写定。当时作者思想自由，文思活泼，语言生动，正当盛年。在他笔下，一个历经艰辛磨难、乞讨度日的小流氓，一个英勇睿智、气度恢宏的统帅，一个勤政爱民、夙兴夜寐又猜忌心极重、杀戮成性的帝王，这些复杂矛盾的形象活灵活现，共同构成了朱元璋的多面人生。",
+    "category": "历史-中国古代",
+    "publisher": "湖南人民出版社",
+    "publishTime": "2018-02-01 00:00:00",
+    "isbn": "9787556118946",
+    "wordCount": 0,
+    "newRating": 644,
+    "newRatingCount": 615,
+    "newRatingDetail": {
+      "good": 387,
+      "fair": 206,
+      "poor": 22,
+      "recent": 0,
+      "deepV": 19,
+      "myRating": "",
+      "title": "褒贬不一"
+    },
+    "appLink": "weread://reading?bId=927128",
+    "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777",
+    "lastSync": "2026-05-21T11:59:06Z",
+    "readingProgress": "100%",
+    "readingTime": "0分钟",
+    "finishedDate": "2024-05-02",
+    "noteCount": 5,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 133,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "为《朱元璋传》重版序言",
+      "level": 1,
+      "wordCount": 3731,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一章 小流氓",
+      "level": 1,
+      "wordCount": 5163,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一．小沙弥",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=927128&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "二．游方僧",
+      "level": 2,
+      "wordCount": 5804,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "三．逼上梁山",
+      "level": 2,
+      "wordCount": 8822,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二章 红军大帅",
+      "level": 1,
+      "wordCount": 2426,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一．小亲兵",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=927128&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "二．小军官",
+      "level": 2,
+      "wordCount": 7806,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "三．大元帅、大丞相",
+      "level": 2,
+      "wordCount": 7605,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第三章 从吴国公到吴王",
+      "level": 1,
+      "wordCount": 7334,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一．鄱阳湖决战",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=927128&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "二．取东吴",
+      "level": 2,
+      "wordCount": 5398,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "三．南征北伐",
+      "level": 2,
+      "wordCount": 9361,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第四章 大皇帝的统治术",
+      "level": 1,
+      "wordCount": 4103,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一．大明帝国和明教",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=927128&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "二．农民被出卖了！",
+      "level": 2,
+      "wordCount": 5180,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "三．新官僚养成所",
+      "level": 2,
+      "wordCount": 6839,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "四．皇权的轮子——军队",
+      "level": 2,
+      "wordCount": 3523,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "五．皇权的轮子——新官僚机构",
+      "level": 2,
+      "wordCount": 4258,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "六．建都和国防",
+      "level": 2,
+      "wordCount": 3543,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "七．大一统和分化政策",
+      "level": 2,
+      "wordCount": 4524,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第五章 恐怖政治",
+      "level": 1,
+      "wordCount": 9058,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一．大屠杀",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=927128&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "二．文字狱",
+      "level": 2,
+      "wordCount": 6273,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "三．特务网",
+      "level": 2,
+      "wordCount": 4357,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "四．皇权的极峰",
+      "level": 2,
+      "wordCount": 8100,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第六章 家庭生活",
+      "level": 1,
+      "wordCount": 3081,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一．马皇后",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=927128&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "二．皇子皇孙",
+      "level": 2,
+      "wordCount": 3977,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "三．教养和性格",
+      "level": 2,
+      "wordCount": 5400,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "四．晚年的悲哀",
+      "level": 2,
+      "wordCount": 3458,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "附录 朱元璋年表",
+      "level": 1,
+      "wordCount": 38,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927128&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=28"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 27,
+      "chapterTitle": "四．晚年的悲哀",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "927128_27_949-1010",
+          "range": "949-1010",
+          "rangeStart": 949,
+          "rangeEnd": 1010,
+          "markText": "尽量避免两线作战，机动地争取主动，敏捷地利用对方弱点，转变形势，集中兵力使敌人处在被动地位，知己知彼，在战略上是完全成功的",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1714656727,
+          "createTimeFormatted": "2024-05-02 21:32:07",
+          "chapterUid": 27,
+          "appLink": "weread://bestbookmark?bookId=927128&chapterUid=27&rangeStart=949&rangeEnd=1010",
+          "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=27&rangeStart=949&rangeEnd=1010"
+        }
+      ]
+    },
+    {
+      "chapterUid": 12,
+      "chapterTitle": "三．南征北伐",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "927128_12_1361-1412",
+          "range": "1361-1412",
+          "rangeStart": 1361,
+          "rangeEnd": 1412,
+          "markText": "红军起事后，元朝正规军队完全无用。真正肯打仗的是义军，是由地主巨绅所组织的保卫私家财产生命的地方民兵。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1714646435,
+          "createTimeFormatted": "2024-05-02 18:40:35",
+          "chapterUid": 12,
+          "appLink": "weread://bestbookmark?bookId=927128&chapterUid=12&rangeStart=1361&rangeEnd=1412",
+          "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=12&rangeStart=1361&rangeEnd=1412"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "927128_12_5617-5705",
+          "range": "5617-5705",
+          "rangeStart": 5617,
+          "rangeEnd": 5705,
+          "markText": "不如用斫树的法子，先去枝叶，再挖老根，先取山东，撤掉大都的屏风，回师下河南，断掉它的羽翼，进据潼关，占领了它的门户，军事要点都拿到手了，再进围大都，那时势孤援绝，自然不战可取了",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1714646433,
+          "createTimeFormatted": "2024-05-02 18:40:33",
+          "chapterUid": 12,
+          "appLink": "weread://bestbookmark?bookId=927128&chapterUid=12&rangeStart=5617&rangeEnd=5705",
+          "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=12&rangeStart=5617&rangeEnd=5705"
+        }
+      ]
+    },
+    {
+      "chapterUid": 9,
+      "chapterTitle": "三．大元帅、大丞相",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "927128_9_7502-7531",
+          "range": "7502-7531",
+          "rangeStart": 7502,
+          "rangeEnd": 7531,
+          "markText": "徽州的老儒朱升，告诉元璋三句话：“高筑墙，广积粮，缓称王。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1714646434,
+          "createTimeFormatted": "2024-05-02 18:40:34",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=927128&chapterUid=9&rangeStart=7502&rangeEnd=7531",
+          "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=9&rangeStart=7502&rangeEnd=7531"
+        }
+      ]
+    },
+    {
+      "chapterUid": 10,
+      "chapterTitle": "第三章 从吴国公到吴王",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "927128_10_6234-6540",
+          "range": "6234-6540",
+          "rangeStart": 6234,
+          "rangeEnd": 6540,
+          "markText": "愚闻取天下者必有一定之规模，韩信初见高祖，画楚、汉成败；孔明卧草庐，与先主论三分形势者是也。今之规模，宜北绝李察罕，南并张九四（士诚），抚温、台，取闽、越，定都建康，拓地江、广，进则越两淮以北征，退则画长江而自守。夫金陵古称龙蟠虎踞，帝王之都，借其兵力资财，以攻则克，以守则固，百察罕能如吾何哉！江之所备，莫急上流，今义师已克江州，足蔽全吴，况自滁、和至广陵（今江苏扬州），皆吾所有，非直守江，兼可守淮矣。张氏倾覆，可坐而待，淮东诸郡，亦将来归。北略中原，李氏可并也。今闻察罕妄自尊大，致书明公，如曹操之招孙权，窃以元运将终，人心不属，而察罕欲效操所为，事势不侔。宜如鲁肃计，鼎足江东，以观天下之衅。此其大纲也。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1714646434,
+          "createTimeFormatted": "2024-05-02 18:40:34",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=927128&chapterUid=10&rangeStart=6234&rangeEnd=6540",
+          "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=10&rangeStart=6234&rangeEnd=6540"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "927128_4_547-564",
+      "chapterUid": 4,
+      "range": "547-564",
+      "markText": "由此他变得阴狠、冷峻、沉稳、坚忍。",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=4&rangeStart=547&rangeEnd=564",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=4&rangeStart=547&rangeEnd=564"
+    },
+    {
+      "bookmarkId": "927128_5_10110-10125",
+      "chapterUid": 5,
+      "range": "10110-10125",
+      "markText": "跌倒了，舐舐血，爬起来，再干。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=5&rangeStart=10110&rangeEnd=10125",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=5&rangeStart=10110&rangeEnd=10125"
+    },
+    {
+      "bookmarkId": "927128_3_2303-2344",
+      "chapterUid": 3,
+      "range": "2303-2344",
+      "markText": "：“朱元璋是农民起义领袖，是应该肯定的，应该写的（得）好点，不要写的（得）那么坏。",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=3&rangeStart=2303&rangeEnd=2344",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=3&rangeStart=2303&rangeEnd=2344"
+    },
+    {
+      "bookmarkId": "927128_23_6252-6307",
+      "chapterUid": 23,
+      "range": "6252-6307",
+      "markText": "自己决不守法，在法律之上，在法律之外，却强迫全国人守他的法，一点不许有差池，这正是暴君、独夫、民贼的典型人物。",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=23&rangeStart=6252&rangeEnd=6307",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=23&rangeStart=6252&rangeEnd=6307"
+    },
+    {
+      "bookmarkId": "927128_17_853-903",
+      "chapterUid": 17,
+      "range": "853-903",
+      "markText": "官僚政治特征之一是做官不做事，重床叠屋，衙门愈多，事情愈办不好，拿薪水的官僚愈多，负责做事的人愈少。",
+      "totalCount": 135,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=17&rangeStart=853&rangeEnd=903",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=17&rangeStart=853&rangeEnd=903"
+    },
+    {
+      "bookmarkId": "927128_9_4348-4382",
+      "chapterUid": 9,
+      "range": "4348-4382",
+      "markText": "元璋这年才二十九岁，已经是独当一面的地方长官，指挥十万大军的统帅了。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=9&rangeStart=4348&rangeEnd=4382",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=9&rangeStart=4348&rangeEnd=4382"
+    },
+    {
+      "bookmarkId": "927128_3_4982-5013",
+      "chapterUid": 3,
+      "range": "4982-5013",
+      "markText": "欲洞察真相求取真知，坚守“独立之精神，自由之思想”是第一要务。",
+      "totalCount": 117,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=3&rangeStart=4982&rangeEnd=5013",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=3&rangeStart=4982&rangeEnd=5013"
+    },
+    {
+      "bookmarkId": "927128_9_2092-2176",
+      "chapterUid": 9,
+      "range": "2092-2176",
+      "markText": "从和州渡江是巢湖水军的功劳，元璋在船上摆酒庆功，把李扒头灌醉，捆住手脚，丢在江里。双刀赵不服，逃归徐真逸。扒头部下诸将，无主将，也无船只，只好投降，元璋从此又有了水军。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=9&rangeStart=2092&rangeEnd=2176",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=9&rangeStart=2092&rangeEnd=2176"
+    },
+    {
+      "bookmarkId": "927128_9_7502-7624",
+      "chapterUid": 9,
+      "range": "7502-7624",
+      "markText": "徽州的老儒朱升，告诉元璋三句话：“高筑墙，广积粮，缓称王。”对元璋后来的事业极有影响。",
+      "totalCount": 110,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=9&rangeStart=7502&rangeEnd=7624",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=9&rangeStart=7502&rangeEnd=7624"
+    },
+    {
+      "bookmarkId": "927128_5_9213-9247",
+      "chapterUid": 5,
+      "range": "9213-9247",
+      "markText": "“明王”和“弥勒”这两个名词，在中国历史上，可以读作衡量政治的尺度。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=5&rangeStart=9213&rangeEnd=9247",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=5&rangeStart=9213&rangeEnd=9247"
+    },
+    {
+      "bookmarkId": "927128_25_3954-4028",
+      "chapterUid": 25,
+      "range": "3954-4028",
+      "markText": "一是仁，能仁才不会失于疏暴；一是明，能明才不会惑于邪佞；一是勤，勤勤恳恳，才不会溺于安逸；一是断，有决断，便不致牵于文法。这四个字的运用，决于一心。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=25&rangeStart=3954&rangeEnd=4028",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=25&rangeStart=3954&rangeEnd=4028"
+    },
+    {
+      "bookmarkId": "927128_5_3712-3786",
+      "chapterUid": 5,
+      "range": "3712-3786",
+      "markText": "软化硬讨，受尽了人生的辛苦，走遍了淮西一带名都大邑，熟识了每一条河流，每一个山脉的地理，尤其是人情、物产、风俗，积累了丰富的经验，锻炼了坚强的体力。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=5&rangeStart=3712&rangeEnd=3786",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=5&rangeStart=3712&rangeEnd=3786"
+    },
+    {
+      "bookmarkId": "927128_6_2900-2926",
+      "chapterUid": 6,
+      "range": "2900-2926",
+      "markText": "怕人民有组织，怕人民有团结，一句话，害怕人民有力量。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=6&rangeStart=2900&rangeEnd=2926",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=6&rangeStart=2900&rangeEnd=2926"
+    },
+    {
+      "bookmarkId": "927128_9_11148-11188",
+      "chapterUid": 9,
+      "range": "11148-11188",
+      "markText": "有知识的和有武力的结合起来统治不识字的和种田地的人，来保持豪绅巨室们的既得利益。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=9&rangeStart=11148&rangeEnd=11188",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=9&rangeStart=11148&rangeEnd=11188"
+    },
+    {
+      "bookmarkId": "927128_12_4371-4422",
+      "chapterUid": 12,
+      "range": "4371-4422",
+      "markText": "元璋发明一种刑罚叫铜马，就是古代炮烙之刑，拿友定来试验，伏上一会儿全身都化成灰。友定的儿子也同时被杀。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=12&rangeStart=4371&rangeEnd=4422",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=12&rangeStart=4371&rangeEnd=4422"
+    },
+    {
+      "bookmarkId": "927128_12_9563-9656",
+      "chapterUid": 12,
+      "range": "9563-9656",
+      "markText": "前一年讨张士诚的檄文，只是消极地踢开红军，空洞地骂元政府。到这时候，才鲜明地、具体地、积极地提出民族革命的口号和保持传统文化的政纲。这是元璋幕府里儒生群的再次胜利，也是朱元璋的再次转变。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=12&rangeStart=9563&rangeEnd=9656",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=12&rangeStart=9563&rangeEnd=9656"
+    },
+    {
+      "bookmarkId": "927128_3_3713-3774",
+      "chapterUid": 3,
+      "range": "3713-3774",
+      "markText": "中国士大夫总摆脱不了事功的传统，治学中偏好帝王之学，希望辅佐明主并有所建树，其实这是一门如履薄冰的学问，君心依然深不可测。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=3&rangeStart=3713&rangeEnd=3774",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=3&rangeStart=3713&rangeEnd=3774"
+    },
+    {
+      "bookmarkId": "927128_12_6654-6686",
+      "chapterUid": 12,
+      "range": "6654-6686",
+      "markText": "元璋是懂得宣传的好处的，文字上、口头上的好话有时比刀枪还有力量。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=12&rangeStart=6654&rangeEnd=6686",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=12&rangeStart=6654&rangeEnd=6686"
+    },
+    {
+      "bookmarkId": "927128_4_3823-3870",
+      "chapterUid": 4,
+      "range": "3823-3870",
+      "markText": "一面烤，一面吃，个个眉飞色舞，兴高采烈，不一会儿，一头小牛娃只剩一张皮、一堆骨头和一根尾巴了。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=4&rangeStart=3823&rangeEnd=3870",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=4&rangeStart=3823&rangeEnd=3870"
+    },
+    {
+      "bookmarkId": "927128_15_3931-4020",
+      "chapterUid": 15,
+      "range": "3931-4020",
+      "markText": "至于《孟子》就不同了，洪武三年，他开始读这本书，读到好些对君上不客气的地方，大发脾气，对人说：“这老头要是活到今天，非严办不可！”下令国子监撤去孔庙中的孟子牌位，把孟子逐出孔庙。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=927128&chapterUid=15&rangeStart=3931&rangeEnd=4020",
+      "webLink": "https://weread.qq.com/web/reader/b9032ea05e2598b900f7777?chapterUid=15&rangeStart=3931&rangeEnd=4020"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 10,
+    "chapterOffset": 2580,
+    "progress": 100,
+    "updateTime": 1714662320,
+    "recordReadingTime": 0,
+    "finishTime": 1714656987
+  }
+}

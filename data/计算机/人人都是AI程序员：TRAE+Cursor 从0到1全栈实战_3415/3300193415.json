@@ -1,0 +1,2251 @@
+{
+  "meta": {
+    "bookId": "3300193415",
+    "title": "人人都是AI程序员：TRAE+Cursor 从0到1全栈实战",
+    "author": "吴振耀   张斌",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/68/cpplatform_q4tjkt1rpnnpsllwugw6ng/t6_cpplatform_q4tjkt1rpnnpsllwugw6ng1769166307.jpg",
+    "intro": "本书以Vibe Coding（氛围编程）这一理念为核心，系统阐述如何与AI进行高效协作，将脑海中闪光的想法转化为真实、可运行的数字产品。本书不仅涵盖从零开始建立数字产品实践自信的科学学习方法，更创新性地提出一套名为“节俭全栈”的低成本实践方案，手把手引导读者使用Figma、Vercel、Supabase等免费或极低成本的专业级工具，亲手构建并成功发布自己的第一款全栈应用。 本书内容深入浅出，构建了从“心法”到“实操”的完整体系：从“独立开发者的哲学”等认知层面筑牢基础，再到提示工程、UI设计、前后端开发、数据库管理、支付集成等具体实操环节提供详尽的实战指引，旨在拆掉阻碍创造者前行的“技术之墙”，让每一个好想法都能在AI时代顺利变为现实。 本书适合怀揣产品想法却缺乏技术背景的准创业者与产品经理、希望借AI工具提升效率的独立开发者和设计师、对AI驱动应用开发及创作者经济感兴趣的技术爱好者，以及渴望将创意转化为数字产品的所有梦想家和行动派阅读。",
+    "category": "计算机-编程设计",
+    "publisher": "人民邮电出版社有限公司",
+    "publishTime": "2026-01-01 00:00:00",
+    "isbn": "9787115687500",
+    "wordCount": 0,
+    "newRating": 771,
+    "newRatingCount": 63,
+    "newRatingDetail": {
+      "good": 23,
+      "fair": 27,
+      "poor": 13,
+      "recent": 7,
+      "deepV": 23,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300193415",
+    "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1",
+    "lastSync": "2026-05-21T11:45:59Z",
+    "readingProgress": "99%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 72,
+    "reviewCount": 13,
+    "bookmarkCount": 0,
+    "contentHash": "2a8282ec22903d34f9224f8da879297486e2e904c18cc0fc24b2150f7d4f2b5b"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=1"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 606,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 3,
+      "title": "推荐序1",
+      "level": 1,
+      "wordCount": 826,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "推荐序1",
+          "anchor": "heading2_0",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 4,
+      "title": "推荐序2",
+      "level": 1,
+      "wordCount": 1593,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "推荐序2",
+          "anchor": "heading2_0",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 5,
+      "title": "推荐序3",
+      "level": 1,
+      "wordCount": 1593,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "推荐序3",
+          "anchor": "heading2_0",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 6,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 568,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "作者简介",
+          "anchor": "heading2_0",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 7,
+      "title": "前  言",
+      "level": 1,
+      "wordCount": 2280,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "前  言",
+          "anchor": "heading2_0",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 8,
+      "title": "资源与支持",
+      "level": 1,
+      "wordCount": 796,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资源与支持",
+          "anchor": "heading2_0",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 9,
+      "title": "第1章 心态与理念——成为AI时代的创造者",
+      "level": 1,
+      "wordCount": 317,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 10,
+      "title": "1.1 一种全新的创造方式：从零到创作者",
+      "level": 2,
+      "wordCount": 7968,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.1 一种全新的创造方式：从零到创作者",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 11,
+      "title": "1.2 独立开发者的思维工具箱",
+      "level": 2,
+      "wordCount": 9143,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.2 独立开发者的思维工具箱",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 12,
+      "title": "1.3 你的AI副驾驶：掌握提示的艺术",
+      "level": 2,
+      "wordCount": 6461,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.3 你的AI副驾驶：掌握提示的艺术",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 13,
+      "title": "第2章 前端设计与AI实现——从想法到精美界面",
+      "level": 1,
+      "wordCount": 292,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 14,
+      "title": "2.1 你的完美起点：用Trickle一站式构建应用",
+      "level": 2,
+      "wordCount": 6013,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1 你的完美起点：用Trickle一站式构建应用",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 15,
+      "title": "2.2 v0.dev大师课：从灵感到像素级完美UI",
+      "level": 2,
+      "wordCount": 7987,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.2 v0.dev大师课：从灵感到像素级完美UI",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 16,
+      "title": "2.3 精通Figma——从第一块画布到开发者交付",
+      "level": 2,
+      "wordCount": 13009,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.3 精通Figma——从第一块画布到开发者交付",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 17,
+      "title": "2.4 你的AI工作台：从TRAE SOLO模式入门",
+      "level": 2,
+      "wordCount": 6227,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.4 你的AI工作台：从TRAE SOLO模式入门",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 18,
+      "title": "第3章 基础设施搭建——你的“节俭全栈”工具箱",
+      "level": 1,
+      "wordCount": 319,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 19,
+      "title": "3.1 节俭全栈：你的低成本启动平台",
+      "level": 2,
+      "wordCount": 14213,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.1 节俭全栈：你的低成本启动平台",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 20,
+      "title": "3.2 拥有你的数字身份：购买与配置域名",
+      "level": 2,
+      "wordCount": 8245,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.2 拥有你的数字身份：购买与配置域名",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 21,
+      "title": "3.3 Supabase深度实战：构建你的数字总部",
+      "level": 2,
+      "wordCount": 10981,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.3 Supabase深度实战：构建你的数字总部",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 22,
+      "title": "第4章 后端开发与高级集成——驱动应用的强大引擎",
+      "level": 1,
+      "wordCount": 382,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 23,
+      "title": "4.1 AI 后端工程师：TRAE SOLO深度实战",
+      "level": 2,
+      "wordCount": 10181,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.1 AI 后端工程师：TRAE SOLO深度实战",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 24,
+      "title": "4.2 AI结对程序员：使用Cursor实现精细化后端开发",
+      "level": 2,
+      "wordCount": 15689,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.2 AI结对程序员：使用Cursor实现精细化后端开发",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 25,
+      "title": "4.3 高级集成：MCP实战与深度应用",
+      "level": 2,
+      "wordCount": 13594,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.3 高级集成：MCP实战与深度应用",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 26,
+      "title": "第5章 项目实战1：从0到1构建习惯追踪器",
+      "level": 1,
+      "wordCount": 380,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 27,
+      "title": "5.1 蓝图：运用AI规划产品",
+      "level": 2,
+      "wordCount": 6456,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1 蓝图：运用AI规划产品",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 28,
+      "title": "5.2 从想法到产品：全栈深度实战",
+      "level": 2,
+      "wordCount": 15737,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.2 从想法到产品：全栈深度实战",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 29,
+      "title": "第6章 项目实战2：构建商业级AI图像生成平台",
+      "level": 1,
+      "wordCount": 350,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 30,
+      "title": "6.1 项目规划：构建商业级图像生成平台",
+      "level": 2,
+      "wordCount": 2917,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.1 项目规划：构建商业级图像生成平台",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 31,
+      "title": "6.2 十分钟实战：项目架构设计与技术选型",
+      "level": 2,
+      "wordCount": 2681,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.2 十分钟实战：项目架构设计与技术选型",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 32,
+      "title": "6.3 十分钟实战：使用v0.dev快速生成UI界面",
+      "level": 2,
+      "wordCount": 1554,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.3 十分钟实战：使用v0.dev快速生成UI界面",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 33,
+      "title": "6.4 十分钟实战：使用Supabase构建后端基础设施",
+      "level": 2,
+      "wordCount": 14183,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.4 十分钟实战：使用Supabase构建后端基础设施",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 34,
+      "title": "6.5 十分钟实战：集成Replicate API实现核心AI功能",
+      "level": 2,
+      "wordCount": 1797,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.5 十分钟实战：集成Replicate API实现核心AI功能",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 35,
+      "title": "6.6 十分钟实战：实现用户积分与使用限制系统",
+      "level": 2,
+      "wordCount": 8156,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.6 十分钟实战：实现用户积分与使用限制系统",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 36,
+      "title": "6.7 十分钟实战：集成Stripe实现完整的付费流程",
+      "level": 2,
+      "wordCount": 1878,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.7 十分钟实战：集成Stripe实现完整的付费流程",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 37,
+      "title": "6.8 十分钟实战：使用Resend构建邮件营销系统",
+      "level": 2,
+      "wordCount": 984,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.8 十分钟实战：使用Resend构建邮件营销系统",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 38,
+      "title": "6.9 十分钟实战：用Vercel部署并配置生产环境",
+      "level": 2,
+      "wordCount": 932,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.9 十分钟实战：用Vercel部署并配置生产环境",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 39,
+      "title": "6.10 小结",
+      "level": 2,
+      "wordCount": 196,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.10 小结",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300193415&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=73"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 66,
+      "chapterTitle": "6.3 十分钟实战：使用v0.dev快速生成UI界面",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_28_613-703",
+          "range": "613-703",
+          "rangeStart": 613,
+          "rangeEnd": 703,
+          "markText": "v0.dev是Vercel推出的一款生成式UI工具，能将自然语言描述、线框图甚至设计稿，直接转换为生产级、可维护的React和Tailwind CSS代码，与我们的技术栈完美契合。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770606796,
+          "createTimeFormatted": "2026-02-09 11:13:16",
+          "chapterUid": 66,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=66&rangeStart=613&rangeEnd=703",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=66&rangeStart=613&rangeEnd=703"
+        }
+      ]
+    },
+    {
+      "chapterUid": 65,
+      "chapterTitle": "6.2 十分钟实战：项目架构设计与技术选型",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_27_2327-2390",
+          "range": "2177-2240",
+          "rangeStart": 2177,
+          "rangeEnd": 2240,
+          "markText": "@Web命令用于指示Cursor启用网络搜索功能，获取与需求相关的最新信息并融入上下文，让生成的回答或代码更准确，更具时效性。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770606783,
+          "createTimeFormatted": "2026-02-09 11:13:03",
+          "chapterUid": 65,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=65&rangeStart=2177&rangeEnd=2240",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=65&rangeStart=2177&rangeEnd=2240"
+        }
+      ]
+    },
+    {
+      "chapterUid": 61,
+      "chapterTitle": "5.1 蓝图：运用AI规划产品",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_24_7538-9172",
+          "range": "7569-9051",
+          "rangeStart": 7569,
+          "rangeEnd": 9051,
+          "markText": "请帮我为一款习惯追踪器App创建3个不同的用户画像，使用以下模板，并为每个画像生成贴近现实的细节。画像模板：• 姓名与照片描述• 个人简介与背景故事• 基本信息：年龄、职业、地点、生活状态• 目标：他们使用该App时最想达成的1-2个核心目标• 痛点与挫败：没有该App时，他们在养成习惯时遇到的主要困难是什么• 动机：什么能激励他们坚持下去• 一句引言：能代表他们心声的一句话请基于以下3个用户类型进行创建：• 压力很大的在校大学生；• 工作繁忙的年轻职场人；• 对数据有要求的健身爱好者。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770542120,
+          "createTimeFormatted": "2026-02-08 17:15:20",
+          "chapterUid": 61,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=61&rangeStart=7569&rangeEnd=9051",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=61&rangeStart=7569&rangeEnd=9051"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_24_1875-2378",
+          "range": "1875-2378",
+          "rangeStart": 1875,
+          "rangeEnd": 2378,
+          "markText": "请扮演一位经验丰富的产品经理。我正在构思一款新的“习惯追踪器”App，请为我进行全面的头脑风暴，生成一份功能列表。请将功能分为两类。• 核心功能：这些是构建最小可行产品（MVP）所必需的基础功能。• 创新/高级功能：这些是未来可以让产品脱颖而出、提升用户参与度的功能。对于每个功能，请用一句话简要描述它的作用。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770541990,
+          "createTimeFormatted": "2026-02-08 17:13:10",
+          "chapterUid": 61,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=61&rangeStart=1875&rangeEnd=2378",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=61&rangeStart=1875&rangeEnd=2378"
+        }
+      ]
+    },
+    {
+      "chapterUid": 58,
+      "chapterTitle": "4.2 AI结对程序员：使用Cursor实现精细化后端开发",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_21_33852-35382",
+          "range": "33355-34157",
+          "rangeStart": 33355,
+          "rangeEnd": 34157,
+          "markText": "使用@codebase对整个项目进行大规模重构，将核心业务概念从Post（文章）完全变更为Product（产品）。请执行以下所有操作。1. 数据库迁移：生成SQL脚本，将posts表重命名为products。2. API路由重命名：将app/api/posts文件夹重命名为app/api/products。3. 代码逻辑更新：在新的app/api/products/route.ts文件中，将Supabase操作的目标表从posts修改为products。4. 变量与命名规范：在项目所有受影响的文件中，将所有包含post或posts的变量名、函数参数和类型定义，智能地重命名为product或products。例如，const { data:posts, error }重命名为const { data: products, error }。在执行任何修改之前，请先提供一个详细的行动计划，列出将要修改的所有文件，并展示每个文件的具体代码差异（diff）。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1770534798,
+          "createTimeFormatted": "2026-02-08 15:13:18",
+          "chapterUid": 58,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=58&rangeStart=33355&rangeEnd=34157",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=58&rangeStart=33355&rangeEnd=34157"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_21_32441-32454",
+          "range": "31944-31957",
+          "rangeStart": 31944,
+          "rangeEnd": 31957,
+          "markText": "优势3：人机协作的深度调试",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1770534776,
+          "createTimeFormatted": "2026-02-08 15:12:56",
+          "chapterUid": 58,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=58&rangeStart=31944&rangeEnd=31957",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=58&rangeStart=31944&rangeEnd=31957"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_21_31041-31056",
+          "range": "30620-30635",
+          "rangeStart": 30620,
+          "rangeEnd": 30635,
+          "markText": "优势1：精准的代码库上下文理解",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1770534771,
+          "createTimeFormatted": "2026-02-08 15:12:51",
+          "chapterUid": 58,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=58&rangeStart=30620&rangeEnd=30635",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=58&rangeStart=30620&rangeEnd=30635"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_21_31336-31352",
+          "range": "30915-30931",
+          "rangeStart": 30915,
+          "rangeEnd": 30931,
+          "markText": "优势2：大规模、跨文件的代码重构",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1770534767,
+          "createTimeFormatted": "2026-02-08 15:12:47",
+          "chapterUid": 58,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=58&rangeStart=30915&rangeEnd=30931",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=58&rangeStart=30915&rangeEnd=30931"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_21_31082-31160",
+          "range": "30661-30739",
+          "rangeStart": 30661,
+          "rangeEnd": 30739,
+          "markText": "Cursor会为整个项目建立“语义索引”​，能理解代码的“意义”和“关系”​（而非孤立的文本）​。即便函数、组件分布在不同的文件，它也能清晰掌握其调用和依赖关系。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1770534599,
+          "createTimeFormatted": "2026-02-08 15:09:59",
+          "chapterUid": 58,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=58&rangeStart=30661&rangeEnd=30739",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=58&rangeStart=30661&rangeEnd=30739"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_21_15512-15649",
+          "range": "15295-15432",
+          "rangeStart": 15295,
+          "rangeEnd": 15432,
+          "markText": "在小型项目中，AI可以轻松理解整个代码库的结构，但当项目包含数十个文件、数千行代码时，需要对AI进行明确的指引。这就像在大型图书馆中寻找特定信息，得告诉管理员是查阅某本特定的图书，还是了解整个图书馆的分类体系，而@file和@codebase正是实现这种精准指引的核心指令。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1770528537,
+          "createTimeFormatted": "2026-02-08 13:28:57",
+          "chapterUid": 58,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=58&rangeStart=15295&rangeEnd=15432",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=58&rangeStart=15295&rangeEnd=15432"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_21_12817-12956",
+          "range": "12590-12653",
+          "rangeStart": 12590,
+          "rangeEnd": 12653,
+          "markText": "我想创建一个全新的Next.js项目，请告诉我初始化项目的标准终端命令。需要使用TypeScript，并接受所有默认推荐配置。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1770526616,
+          "createTimeFormatted": "2026-02-08 12:56:56",
+          "chapterUid": 58,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=58&rangeStart=12590&rangeEnd=12653",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=58&rangeStart=12590&rangeEnd=12653"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_21_3288-3353",
+          "range": "3182-3247",
+          "rangeStart": 3182,
+          "rangeEnd": 3247,
+          "markText": "•场景3：深度协作式调试",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770203294,
+          "createTimeFormatted": "2026-02-04 19:08:14",
+          "chapterUid": 58,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=58&rangeStart=3182&rangeEnd=3247",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=58&rangeStart=3182&rangeEnd=3247"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_21_2846-3022",
+          "range": "2846-2916",
+          "rangeStart": 2846,
+          "rangeEnd": 2916,
+          "markText": "•场景2：大规模、跨文件的代码重构",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770203275,
+          "createTimeFormatted": "2026-02-04 19:07:55",
+          "chapterUid": 58,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=58&rangeStart=2846&rangeEnd=2916",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=58&rangeStart=2846&rangeEnd=2916"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_21_2549-2615",
+          "range": "2549-2615",
+          "rangeStart": 2549,
+          "rangeEnd": 2615,
+          "markText": "•场景1：核心业务逻辑实现",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770203271,
+          "createTimeFormatted": "2026-02-04 19:07:51",
+          "chapterUid": 58,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=58&rangeStart=2549&rangeEnd=2615",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=58&rangeStart=2549&rangeEnd=2615"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_21_1898-2000",
+          "range": "1898-2000",
+          "rangeStart": 1898,
+          "rangeEnd": 2000,
+          "markText": "使用Cursor的场景：当你已有代码基础（无论是SOLO生成的还是自己编写的），需要开展具体的实现工作时，建议使用Cursor。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770203235,
+          "createTimeFormatted": "2026-02-04 19:07:15",
+          "chapterUid": 58,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=58&rangeStart=1898&rangeEnd=2000",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=58&rangeStart=1898&rangeEnd=2000"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_21_1615-1695",
+          "range": "1615-1695",
+          "rangeStart": 1615,
+          "rangeEnd": 1695,
+          "markText": "使用SOLO的场景：当你只有一个模糊的想法，甚至尚未明确具体功能时，可使用SOLO。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770203229,
+          "createTimeFormatted": "2026-02-04 19:07:09",
+          "chapterUid": 58,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=58&rangeStart=1615&rangeEnd=1695",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=58&rangeStart=1615&rangeEnd=1695"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86LbqlWTf",
+          "range": "19733-19999",
+          "chapterName": "4.2 AI结对程序员：使用Cursor实现精细化后端开发",
+          "content": "// 从 supabase-js SDK 中导入创建客户端的核心函数\nimport { createClient } from \"@supabase/supabase-js\";\n\n// 从环境变量中读取 Supabase 项目的 URL（非空断言! 确保变量存在）\nconst supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;\n// 从环境变量中读取 Supabase 的匿名密钥（前端可暴露的公钥）\nconst supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!;\n\n// 创建并导出 Supabase 客户端实例，供整个项目复用\nexport const supabase = createClient(supabaseUrl, supabaseAnonKey);",
+          "abstract": "TypeScript import { createClient } from \"@supabase/supabase-js\"; const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!; const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!; export const supabase = createClient(supabaseUrl, supabaseAnonKey);",
+          "star": -1,
+          "createTime": 1770530611,
+          "createTimeFormatted": "2026-02-08 14:03:31",
+          "isFinish": false,
+          "chapterUid": 58
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86La4Nggl",
+          "range": "17663-17811",
+          "chapterName": "4.2 AI结对程序员：使用Cursor实现精细化后端开发",
+          "content": "-- 创建 posts 表（如果表已存在会报错，可改用 CREATE TABLE IF NOT EXISTS posts）\nCREATE TABLE posts (\n  -- 主键 ID，bigint 类型（大整数），自动生成且永远自增（PostgreSQL 10+ 推荐用法）\n  id bigint PRIMARY KEY GENERATED ALWAYS AS IDENTITY,\n  -- 标题，text 类型（无长度限制），NOT NULL 表示不能为空\n  title text NOT NULL,\n  -- 内容，text 类型，可空（未写 NOT NULL）\n  content text,\n  -- 创建时间，timestamptz 类型（带时区的时间戳），默认值为当前时间（now()）\n  created_at timestamptz DEFAULT now()\n);\n",
+          "abstract": "SQL CREATE TABLE posts ( id bigint PRIMARY KEY GENERATED ALWAYS AS IDENTITY, title text NOT NULL, content text, created_at timestamptz DEFAULT now()",
+          "star": -1,
+          "createTime": 1770529376,
+          "createTimeFormatted": "2026-02-08 13:42:56",
+          "isFinish": false,
+          "chapterUid": 58
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86L7Oxo9B",
+          "range": "14609-14783",
+          "chapterName": "4.2 AI结对程序员：使用Cursor实现精细化后端开发",
+          "content": "// 从 next/server 模块中导入 NextResponse 类，用于构建 API 响应\nimport { NextResponse } from \"next/server\";\n\n/**\n * 处理 GET 请求的异步函数\n * @param request - 请求对象，包含请求的所有信息（如 URL、headers、方法等）\n * @returns JSON 格式的响应\n */\nexport async function GET(request: Request) {\n  // 使用 NextResponse.json 方法创建 JSON 响应\n  return NextResponse.json({ message: \"Hello from our API!\" });\n}",
+          "abstract": "TypeScript import { NextResponse } from \"next/server\"; export async function GET(request: Request) { return NextResponse.json({ message: \"Hello from our API!\" }); }",
+          "star": -1,
+          "createTime": 1770527303,
+          "createTimeFormatted": "2026-02-08 13:08:23",
+          "isFinish": false,
+          "chapterUid": 58
+        }
+      ]
+    },
+    {
+      "chapterUid": 59,
+      "chapterTitle": "4.3 高级集成：MCP实战与深度应用",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_22_32347-33581",
+          "range": "31204-32362",
+          "rangeStart": 31204,
+          "rangeEnd": 32362,
+          "markText": "•保护凭证：API密钥和PAT是访问数字服务的关键凭证，绝对不要将它们分享给任何人或上传到公共网络空间。建议使用环境变量存储这些凭证，而非直接写入配置文件，从根源上降低泄露风险。•最小权限原则：创建令牌或密钥时，仅授予其完成任务所需的最小权限，避免权限过度扩大。这是安全防护的基础原则，能有效限制潜在安全事故的影响范围。•信任来源：仅从官方发布渠道或高度信任的社区来源安装MCP服务器。对来源不明的服务器保持高度警惕，以防恶意服务器窃取你的数据或执行恶意操作（如工具投毒[tool-poisoning]），安装前务必验证来源的可靠性。•审查与确认：在刚开始使用时，不要盲目批准所有的工具调用请求。仔细阅读批准提示，明确它要执行的命令及其影响范围。只有在完全理解并信任某个工具的自动化流程后，才考虑为其开启“自动运行”功能。•保持整洁：定期清理mcp.json文件，移除不再使用的服务器配置，减少潜在的安全风险和配置复杂度。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1770473440,
+          "createTimeFormatted": "2026-02-07 22:10:40",
+          "chapterUid": 59,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=59&rangeStart=31204&rangeEnd=32362",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=59&rangeStart=31204&rangeEnd=32362"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_22_29805-29868",
+          "range": "28281-28344",
+          "rangeStart": 28281,
+          "rangeEnd": 28344,
+          "markText": "为特定项目构建复杂工作流时，最佳实践是使用项目级mcp.json文件，确保只加载当前项目所需的服务器，让AI环境保持轻便高效。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1770472273,
+          "createTimeFormatted": "2026-02-07 21:51:13",
+          "chapterUid": 59,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=59&rangeStart=28281&rangeEnd=28344",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=59&rangeStart=28281&rangeEnd=28344"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86K9NhNCh",
+          "range": "30271-30599",
+          "chapterName": "4.3 高级集成：MCP实战与深度应用",
+          "content": "{\n  \"mcpServers\": {  // MCP 服务器配置根节点\n    \"browsermcp\": {  // 浏览器 MCP 服务\n      \"command\": \"npx\",   // 执行命令：npx 运行 Node.js 包\n      \"args\": [\n        \"-y\",            // ❗ 补充：自动确认交互提示，避免首次启动卡住\n        \"@browsermcp/mcp@latest\"  // 最新版浏览器 MCP 包\n      ]\n    },\n    \"filesystem\": {  // 文件系统 MCP 服务\n      \"command\": \"npx\",   // 执行命令：npx 运行 Node.js 包\n      \"args\": [\n        \"-y\",             // 自动确认交互提示，必加\n        \"@modelcontextprotocol/server-filesystem\",  // 官方文件系统 MCP 包\n        \"/Users/username/Desktop\"  // ❗ 需替换：你的实际桌面目录路径\n      ]\n    }\n  }\n}",
+          "abstract": "JSON { \"mcpServers\": { \"browsermcp\": { \"command\": \"npx\", \"args\":[\"@browsermcp/mcp@latest\"] }, \"filesystem\": { \"command\": \"npx\", \"args\": [ \"-y\",\"@modelcontextprotocol/server-filesystem\", \"/Users/username/Desktop\" ] } } }",
+          "star": -1,
+          "createTime": 1770472316,
+          "createTimeFormatted": "2026-02-07 21:51:56",
+          "isFinish": false,
+          "chapterUid": 59
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86K8SRz5M",
+          "range": "27639-27868",
+          "chapterName": "4.3 高级集成：MCP实战与深度应用",
+          "content": "{\n  \"mcpServers\": {\n    \"context7\": {\n      \"url\": \"https://mcp.context7.com/mcp\",\n      \"headers\": {\n        \"CONTEXT7_API_KEY\": \"sk-xxxxxx-xxxxxx-xxxxxx-xxxxxx\"  // 替换为你的真实密钥\n      }\n    }\n  }\n}",
+          "abstract": "JSON { \"mcpServers\": { \"context7\": { \"url\": \"[https://mcp.context7.com/mcp](https://mcp.context7.com/mcp)\", \"headers\": { \"CONTEXT7_API_KEY\": \"your-context7-api-key\" } } } }",
+          "star": -1,
+          "createTime": 1770471483,
+          "createTimeFormatted": "2026-02-07 21:38:03",
+          "isFinish": false,
+          "chapterUid": 59
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86K7UdGY6",
+          "range": "25994-26302",
+          "chapterName": "4.3 高级集成：MCP实战与深度应用",
+          "content": "{\n  \"mcpServers\": {  // MCP 服务器配置根节点\n    \"supabase\": {  // 自定义服务名称（语义化，指向 Supabase 数据库）\n      \"command\": \"npx\",   // 执行命令：使用 Node.js 的 npx 工具运行包\n      \"args\": [           // 传给 npx 的参数列表\n        \"-y\",             // 自动确认所有交互提示（安装依赖、权限等），避免启动中断\n        \"@supabase/mcp-server-supabase@latest\",  // Supabase 官方 MCP 包（指定最新版）\n        \"--read-only\",    // 核心参数：限制 MCP 仅能读取 Supabase 数据，禁止写入/修改（安全）\n        \"--project-ref=your-project-ref\"  // ❗ 修正：补充项目标识（必填，原配置为空）\n      ],\n      \"env\": {  // 环境变量（鉴权核心）\n        \"SUPABASE_ACCESS_TOKEN\": \"your-supabase-pat\"  // Supabase 个人访问令牌（必填，需替换为真实值）\n      }\n    }\n  }\n}",
+          "abstract": "JSON { \"mcpServers\": { \"supabase\": { \"command\": \"npx\", \"args\": [ \"-y\",\"@supabase/mcp-server-supabase@latest\", \"--read-only\", \"--project-ref=\" ], \"env\":{ \"SUPABASE_ACCESS_TOKEN\": \"your-supabase-pat\" } } } }",
+          "star": -1,
+          "createTime": 1770470587,
+          "createTimeFormatted": "2026-02-07 21:23:07",
+          "isFinish": false,
+          "chapterUid": 59
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86K7a8r3o",
+          "range": "24180-24325",
+          "chapterName": "4.3 高级集成：MCP实战与深度应用",
+          "content": "{\n  \"mcpServers\": {  // MCP 服务器配置根节点\n    \"browsermcp\": {  // 自定义的服务名称（语义化，明确是浏览器 MCP 服务）\n      \"command\": \"npx\",   // 执行命令：使用 Node.js 的 npx 工具运行包\n      \"args\": [           // 传给 npx 的参数列表\n        \"@browsermcp/mcp@latest\"  // 要运行的包名+版本：最新版的 browsermcp MCP 包\n      ]\n    }\n  }\n}",
+          "abstract": "JSON { \"mcpServers\": { \"browsermcp\": { \"command\": \"npx\", \"args\":[\"@browsermcp/mcp@latest\"] } } }",
+          "star": -1,
+          "createTime": 1770469905,
+          "createTimeFormatted": "2026-02-07 21:11:45",
+          "isFinish": false,
+          "chapterUid": 59
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86K63m9ay",
+          "range": "19078-19286",
+          "chapterName": "4.3 高级集成：MCP实战与深度应用",
+          "content": "{\n  \"mcpServers\": {  // MCP 服务器配置根节点\n    \"@21st-dev/magic\": {  // 自定义的服务名称（直接用包名作为标识，语义清晰）\n      \"command\": \"npx\",   // 执行命令：使用 Node.js 的 npx 工具运行包\n      \"args\": [           // 传给 npx 的参数列表\n        \"-y\",             // 自动确认所有交互式提示（如安装、权限），避免运行中断\n        \"@21st-dev/magic@latest\",  // 要运行的包名+版本：指定最新版的 magic MCP 包\n        \"API_KEY=\\\"your-api-key\\\"\" // 尝试传入 API 密钥参数（⚠️ 格式需注意，下文会说明）\n      ]\n    }\n  }\n}",
+          "abstract": "JSON { \"mcpServers\": { \"@21st-dev/magic\": { \"command\": \"npx\", \"args\": [\"-y\",\"@21st-dev/magic@latest\", \"API_KEY=\\\"your-api-key\\\"\"] } } }",
+          "star": -1,
+          "createTime": 1770468890,
+          "createTimeFormatted": "2026-02-07 20:54:50",
+          "isFinish": false,
+          "chapterUid": 59
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86K54Izq2",
+          "range": "17784-17980",
+          "chapterName": "4.3 高级集成：MCP实战与深度应用",
+          "content": "{\n  \"mcpServers\": {  // MCP 所有服务器配置的根节点（固定）\n    \"Playwright\": {  // 自定义的 Playwright 服务名称（可修改，建议保持语义化）\n      \"command\": \"npx\",  // 执行命令：使用 Node.js 的 npx 工具，无需全局安装包即可运行\n      \"args\": [          // 传给 npx 的参数列表\n        \"-y\",            // 自动确认所有交互式提示（如安装依赖、权限确认），避免运行中断\n        \"@executeautomation/playwright-mcp-server\"  // 核心包名：Playwright 专属的 MCP 服务器包\n      ],\n      \"env\": {}  // 环境变量配置项（当前为空，可按需添加 Playwright 运行所需的环境变量）\n    }\n  }\n}",
+          "abstract": "JSON { \"mcpServers\": { \"Playwright\": { \"command\": \"npx\", \"args\": [\"-y\",\"@executeautomation/playwright-mcp-server\"], \"env\": {} } } }",
+          "star": -1,
+          "createTime": 1770467994,
+          "createTimeFormatted": "2026-02-07 20:39:54",
+          "isFinish": false,
+          "chapterUid": 59
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86K2W9W7E",
+          "range": "11597-11800",
+          "chapterName": "4.3 高级集成：MCP实战与深度应用",
+          "content": "{\n  \"mcpServers\": {  // MCP 所有服务器配置的根节点（固定不变）\n    \"server-name\": {  // 自定义的服务器名称（可替换，比如之前的 GitHub/time）\n      \"command\": \"executable\",  // 要执行的核心程序/命令（比如 npx/python/bash 等）\n      \"args\": [\"arg1\",\"arg2\"],  // 传给 command 的参数列表（按需添加/删减）\n      \"env\": {  // 运行命令时需要的环境变量（可选，无则可删除该字段）\n        \"VAR\": \"value\"  // 环境变量名和值（可添加多个，如 \"KEY1\":\"val1\", \"KEY2\":\"val2\"）\n      }\n    }\n  }\n}",
+          "abstract": "JSON { \"mcpServers\": { \"server-name\": { \"command\": \"executable\", \"args\": [\"arg1\",\"arg2\"], \"env\": { \"VAR\": \"value\" } } } }",
+          "star": -1,
+          "createTime": 1770466035,
+          "createTimeFormatted": "2026-02-07 20:07:15",
+          "isFinish": false,
+          "chapterUid": 59
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86K2OBH1m",
+          "range": "6493-6639",
+          "chapterName": "4.3 高级集成：MCP实战与深度应用",
+          "content": "{\n  \"mcpServers\": {  // MCP 服务器配置的总入口\n    \"time\": {       // 名为 \"time\" 的时间服务配置项\n      \"command\": \"npx\",  // 执行命令：使用 Node.js 的 npx 工具（无需全局安装包即可运行）\n      \"args\": [          // 命令参数列表\n        \"-y\",            // npx 参数：自动回答所有交互式提示为 \"yes\"，避免运行时卡住\n        \"mcp-server-time\" // 要运行的包名：MCP 官方的时间服务包\n      ]\n    }\n  }\n}",
+          "abstract": "JSON { \"mcpServers\": { \"time\": { \"command\": \"npx\", \"args\": [\"-y\", \"mcp-server-time\"]} } }",
+          "star": -1,
+          "createTime": 1770465923,
+          "createTimeFormatted": "2026-02-07 20:05:23",
+          "isFinish": false,
+          "chapterUid": 59
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86K2GPXQ4",
+          "range": "14033-14288",
+          "chapterName": "4.3 高级集成：MCP实战与深度应用",
+          "content": "{\n  \"mcpServers\": {  // MCP 服务器配置的根节点\n    \"GitHub\": {     // 针对 GitHub 的 MCP 服务器配置\n      \"command\": \"npx\",  // 要执行的基础命令\n      \"args\": [          // 命令的参数列表\n        \"-y\",            // npx 的参数，自动确认所有提示\n        \"@modelcontextprotocol/server-github\"  // 要运行的 GitHub MCP 服务器包\n      ],\n      \"env\": {  // 运行命令时需要的环境变量\n        \"GITHUB_PERSONAL_ACCESS_TOKEN\": \"your_github_pat\"  // GitHub 个人访问令牌（需要替换为真实值）\n      }\n    }\n  }\n}",
+          "abstract": "JSON { \"mcpServers\": { \"GitHub\": { \"command\": \"npx\", \"args\": [\"-y\",\"@modelcontextprotocol/server-github\"], \"env\": {\"GITHUB_PERSONAL_ACCESS_TOKEN\": \"your_github_pat\" } } } }",
+          "star": -1,
+          "createTime": 1770465809,
+          "createTimeFormatted": "2026-02-07 20:03:29",
+          "isFinish": false,
+          "chapterUid": 59
+        }
+      ]
+    },
+    {
+      "chapterUid": 57,
+      "chapterTitle": "4.1 AI 后端工程师：TRAE SOLO深度实战",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_13436-13541",
+          "range": "14066-14085",
+          "rangeStart": 14066,
+          "rangeEnd": 14085,
+          "markText": "表4-1 个人博客系统（示例）数据模型",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1770380040,
+          "createTimeFormatted": "2026-02-06 20:14:00",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=14066&rangeEnd=14085",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=14066&rangeEnd=14085"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_22441-23529",
+          "range": "22530-23466",
+          "rangeStart": 22530,
+          "rangeEnd": 23466,
+          "markText": "首先，我们需要明确最终目标。一个基础且功能完备的个人博客系统，需要包含以下核心模块和技术要求。•用户模块：支持用户通过邮箱和密码注册、登录和退出；能区分普通用户与管理员等不同角色。•文章模块：登录用户可以创建、编辑和删除自己的文章；任何人都可以查看文章列表和详情。•评论模块：登录用户可以发表评论；文章作者或管理员可以删除评论；任何人都可以查看评论。•技术架构：后端采用Node.js和Express框架，提供RESTful API；数据库使用Supabase负责数据存储和用户认证；前端生成一个简约的单页应用（SPA），与后端API交互；将整个应用部署到Vercel平台。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770202629,
+          "createTimeFormatted": "2026-02-04 18:57:09",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=22530&rangeEnd=23466",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=22530&rangeEnd=23466"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_20165-20224",
+          "range": "20305-20382",
+          "rangeStart": 20305,
+          "rangeEnd": 20382,
+          "markText": "用户故事通常遵循“作为一个<角色>，我想要<行为>，以便<收益>”的格式，这能帮助AI精准理解需求。来看这样一个示例：",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770202509,
+          "createTimeFormatted": "2026-02-04 18:55:09",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=20305&rangeEnd=20382",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=20305&rangeEnd=20382"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_16721-17159",
+          "range": "17831-18277",
+          "rangeStart": 17831,
+          "rangeEnd": 18277,
+          "markText": "为我们的博客系统创建一个完整的用户认证功能。要求用户能通过邮箱和密码进行注册和登录。认证方式使用JWT，用户信息存储在Supabase的users表中。确保密码在存储前使用bcrypt进行安全的加盐哈希处理。该指令清晰定义了“做什么”（用户认证）、“怎么做”（JWT和Supabase）以及关键的“安全要求”（加盐哈希处理）。之后，SOLO会自动完成以下工作。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770202435,
+          "createTimeFormatted": "2026-02-04 18:53:55",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=17831&rangeEnd=18277",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=17831&rangeEnd=18277"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_16121-16258",
+          "range": "17129-17266",
+          "rangeStart": 17129,
+          "rangeEnd": 17266,
+          "markText": "•OAuth（开放授权）：允许用户使用第三方服务（如微信、百度、抖音）的账户来登录你的应用。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770202332,
+          "createTimeFormatted": "2026-02-04 18:52:12",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=17129&rangeEnd=17266",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=17129&rangeEnd=17266"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_15714-15835",
+          "range": "16798-16919",
+          "rangeStart": 16798,
+          "rangeEnd": 16919,
+          "markText": "•JWT（JSON Web Token）：一种更现代的方式。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770202323,
+          "createTimeFormatted": "2026-02-04 18:52:03",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=16798&rangeEnd=16919",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=16798&rangeEnd=16919"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_15394-15505",
+          "range": "16478-16589",
+          "rangeStart": 16478,
+          "rangeEnd": 16589,
+          "markText": "•Session（会话）：最传统的方式。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770202315,
+          "createTimeFormatted": "2026-02-04 18:51:55",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=16478&rangeEnd=16589",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=16478&rangeEnd=16589"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_12392-13245",
+          "range": "13352-13886",
+          "rangeStart": 13352,
+          "rangeEnd": 13886,
+          "markText": "以博客系统为例，合理的数据模型需要规划存放用户信息的“用户表”、存放文章的“文章表”、存放评论的“评论表”，同时还需明确数据之间的关系类型。•一对多（One-to-Many）：一个用户（User）可以发表多篇文章（Post）。这是最常见的关系类型。•多对多（Many-to-Many）：一篇文章可以有关联多个“标签”（Tag），同一个标签也可以用于多篇文章。这种关系通常需要用“连接表”（Junction Table）来实现。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770202052,
+          "createTimeFormatted": "2026-02-04 18:47:32",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=13352&rangeEnd=13886",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=13352&rangeEnd=13886"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_9722-10646",
+          "range": "10834-11682",
+          "rangeStart": 10834,
+          "rangeEnd": 11682,
+          "markText": "一份优秀的TDD，其核心价值在于：•统一共识——确保团队成员对系统架构、技术选型、API契约和数据流有统一、精确的理解；•预见风险——在设计阶段提前思考并解决可能遇到的技术难题、性能瓶颈和安全漏洞，远比在开发完成后修复更高效；•指导开发——为开发者提供清晰的行动指南，明确模块实现方式以及模块间的交互逻辑；•方便维护——作为项目档案，帮助新成员或未来的维护者快速熟悉系统，避免在修改时引入严重错误。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770201922,
+          "createTimeFormatted": "2026-02-04 18:45:22",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=10834&rangeEnd=11682",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=10834&rangeEnd=11682"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_9447-9513",
+          "range": "10559-10625",
+          "rangeStart": 10559,
+          "rangeEnd": 10625,
+          "markText": "如果说PRD定义了“做什么”，那么技术设计文档（Technical Design Document，TDD）则精确解答了“如何做”。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770201898,
+          "createTimeFormatted": "2026-02-04 18:44:58",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=10559&rangeEnd=10625",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=10559&rangeEnd=10625"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_7042-7132",
+          "range": "7004-7094",
+          "rangeStart": 7004,
+          "rangeEnd": 7094,
+          "markText": "在了解数据库操作前，先明确一个核心概念：无论使用何种工具，数据库的基础操作都可概括为CRUD，即创建（Create）、读取（Read）、更新（Update）和删除（Delete）。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770201849,
+          "createTimeFormatted": "2026-02-04 18:44:09",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=7004&rangeEnd=7094",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=7004&rangeEnd=7094"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_6896-6903",
+          "range": "6858-6865",
+          "rangeStart": 6858,
+          "rangeEnd": 6865,
+          "markText": "OAuth协议",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770201807,
+          "createTimeFormatted": "2026-02-04 18:43:27",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=6858&rangeEnd=6865",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=6858&rangeEnd=6865"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_3552-4332",
+          "range": "3552-4294",
+          "rangeStart": 3552,
+          "rangeEnd": 4294,
+          "markText": "•编程语言：如Java、Python或Node.js。•框架：标准化的开发工具和流程，如Spring（Java）或Django（Python）。•数据库：用于存储和管理数据的系统，如关系型数据库PostgreSQL或文档型数据库MongoDB。•Web服务器：负责接收和处理网络请求的软件，如Nginx或Apache。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770201601,
+          "createTimeFormatted": "2026-02-04 18:40:01",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=3552&rangeEnd=4294",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=3552&rangeEnd=4294"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_1807-2682",
+          "range": "1807-2682",
+          "rangeStart": 1807,
+          "rangeEnd": 2682,
+          "markText": "它必须清晰地定义如下内容。•功能模块：系统需要哪些核心功能（例如，用户管理、文章发布、评论系统）。•用户角色与权限：有哪些类型的用户（例如，访客、注册用户、管理员），他们各自拥有哪些操作权限。•数据实体与关系：系统需要处理哪些核心数据（例如，用户、文章、评论），它们之间存在何种关系（例如，一个用户可以有多篇文章，一篇文章可以有多条评论）。•业务规则：系统需要遵循哪些特定的逻辑规则（例如，用户每天最多只能发布5篇文章，评论内容不能超过500个字符）。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770201482,
+          "createTimeFormatted": "2026-02-04 18:38:02",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=1807&rangeEnd=2682",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=1807&rangeEnd=2682"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_20_18637-20097",
+          "range": "19527-20237",
+          "rangeStart": 19527,
+          "rangeEnd": 20237,
+          "markText": "•GET /api/v1/posts：获取所有文章列表。•POST /api/v1/posts：创建一篇新文章。•PUT /api/v1/posts/{id}：修改指定ID的文章。•DELETE /api/v1/posts/{id}：删除指定ID的文章。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770190336,
+          "createTimeFormatted": "2026-02-04 15:32:16",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=19527&rangeEnd=20237",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=19527&rangeEnd=20237"
+        }
+      ]
+    },
+    {
+      "chapterUid": 55,
+      "chapterTitle": "3.3 Supabase深度实战：构建你的数字总部",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_18_9487-9528",
+          "range": "9101-9142",
+          "rangeStart": 9101,
+          "rangeEnd": 9142,
+          "markText": "Supabase采取了一种更为优雅和坚固的架构理念：万物基于PostgreSQL。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770186029,
+          "createTimeFormatted": "2026-02-04 14:20:29",
+          "chapterUid": 55,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=55&rangeStart=9101&rangeEnd=9142",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=55&rangeStart=9101&rangeEnd=9142"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_18_5062-5136",
+          "range": "4758-4832",
+          "rangeStart": 4758,
+          "rangeEnd": 4832,
+          "markText": "总部比喻：API是总部的内外通信系统，如同“内部电话”和“邮件收发室”。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184778,
+          "createTimeFormatted": "2026-02-04 13:59:38",
+          "chapterUid": 55,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=55&rangeStart=4758&rangeEnd=4832",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=55&rangeStart=4758&rangeEnd=4832"
+        }
+      ]
+    },
+    {
+      "chapterUid": 54,
+      "chapterTitle": "3.2 拥有你的数字身份：购买与配置域名",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_17_9673-9776",
+          "range": "9035-9138",
+          "rangeStart": 9035,
+          "rangeEnd": 9138,
+          "markText": "当注册域名时，个人信息（如姓名、地址、邮箱）会默认公开存储在WHOIS数据库中，容易导致垃圾邮件侵扰、恶意骚扰等问题。多数注册商会提供WHOIS隐私保护服务，用自身的联系方式替代用户真实信息，具体分为两种。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184505,
+          "createTimeFormatted": "2026-02-04 13:55:05",
+          "chapterUid": 54,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=9035&rangeEnd=9138",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=9035&rangeEnd=9138"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_17_9641-9647",
+          "range": "9003-9009",
+          "rangeStart": 9003,
+          "rangeEnd": 9009,
+          "markText": "3.隐私保护",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184481,
+          "createTimeFormatted": "2026-02-04 13:54:41",
+          "chapterUid": 54,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=9003&rangeEnd=9009",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=9003&rangeEnd=9009"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_17_9452-9461",
+          "range": "8814-8823",
+          "rangeStart": 8814,
+          "rangeEnd": 8823,
+          "markText": "2.透明的价格结构",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184477,
+          "createTimeFormatted": "2026-02-04 13:54:37",
+          "chapterUid": 54,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=8814&rangeEnd=8823",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=8814&rangeEnd=8823"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_17_9291-9298",
+          "range": "8653-8660",
+          "rangeStart": 8653,
+          "rangeEnd": 8660,
+          "markText": "1.信誉与资质",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184474,
+          "createTimeFormatted": "2026-02-04 13:54:34",
+          "chapterUid": 54,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=8653&rangeEnd=8660",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=8653&rangeEnd=8660"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_17_7788-7799",
+          "range": "7150-7161",
+          "rangeStart": 7150,
+          "rangeEnd": 7161,
+          "markText": "7.充分调研，果断注册",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184446,
+          "createTimeFormatted": "2026-02-04 13:54:06",
+          "chapterUid": 54,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=7150&rangeEnd=7161",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=7150&rangeEnd=7161"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_17_7572-7584",
+          "range": "6934-6946",
+          "rangeStart": 6934,
+          "rangeEnd": 6946,
+          "markText": "6.兼顾长期发展与灵活性",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184443,
+          "createTimeFormatted": "2026-02-04 13:54:03",
+          "chapterUid": 54,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=6934&rangeEnd=6946",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=6934&rangeEnd=6946"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_17_7326-7334",
+          "range": "6688-6696",
+          "rangeStart": 6688,
+          "rangeEnd": 6696,
+          "markText": "5.选对顶级域名",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184440,
+          "createTimeFormatted": "2026-02-04 13:54:00",
+          "chapterUid": 54,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=6688&rangeEnd=6696",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=6688&rangeEnd=6696"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_17_7073-7082",
+          "range": "6435-6444",
+          "rangeStart": 6435,
+          "rangeEnd": 6444,
+          "markText": "4.合理嵌入关键词",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184437,
+          "createTimeFormatted": "2026-02-04 13:53:57",
+          "chapterUid": 54,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=6435&rangeEnd=6444",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=6435&rangeEnd=6444"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_17_6849-6864",
+          "range": "6211-6226",
+          "rangeStart": 6211,
+          "rangeEnd": 6226,
+          "markText": "3.避免数字、连字符，严禁空格",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184432,
+          "createTimeFormatted": "2026-02-04 13:53:52",
+          "chapterUid": 54,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=6211&rangeEnd=6226",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=6211&rangeEnd=6226"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_17_6642-6655",
+          "range": "6004-6017",
+          "rangeStart": 6004,
+          "rangeEnd": 6017,
+          "markText": "2.突出品牌化，保证独特性",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184426,
+          "createTimeFormatted": "2026-02-04 13:53:46",
+          "chapterUid": 54,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=6004&rangeEnd=6017",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=6004&rangeEnd=6017"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_17_6392-6405",
+          "range": "5754-5767",
+          "rangeStart": 5754,
+          "rangeEnd": 5767,
+          "markText": "1.简短、易记、易拼且顺口",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184422,
+          "createTimeFormatted": "2026-02-04 13:53:42",
+          "chapterUid": 54,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=5754&rangeEnd=5767",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=5754&rangeEnd=5767"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_17_3761-3926",
+          "range": "3161-3326",
+          "rangeStart": 3161,
+          "rangeEnd": 3326,
+          "markText": "需要注意的是，域名不等于URL（统一资源定位符）。域名是网站的“主地址”（如google.com），而URL则是具体页面或资源的“详细地址”，包含协议（如https://）、域名和具体的路径（如https://www.godaddy.com/help/set-up-my-domain-40634）。因此，域名是URL的组成部分。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184375,
+          "createTimeFormatted": "2026-02-04 13:52:55",
+          "chapterUid": 54,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=3161&rangeEnd=3326",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=3161&rangeEnd=3326"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_17_1918-3731",
+          "range": "1918-3131",
+          "rangeStart": 1918,
+          "rangeEnd": 3131,
+          "markText": "第二级域名（SLD）：这是域名中用户可以自定义的部分，通常出现在www.之后。比如godaddy.com中的godaddy就是第二级域名。第二级域名是展现品牌个性与创意的关键。•顶级域名（TLD）：域名的最后一部分，即后缀，相当于地址中的“类别”或“国家/地区”标识。顶级域名主要分为3类。▪通用顶级域名（gTLD）：最常见的类型，.com（多用于商业网站）、.org（多用于非营利组织）和.net（多用于网络服务提供商）均在此列。其中，.com是最广为人知且最受信任的顶级域名。▪国家/地区代码顶级域名（ccTLD）：代表特定的国家或地区，如.us（美国）、.uk（英国）和.cn（中国）。如果业务的目标受众集中在特定的地理区域，选择对应的国家/地区代码顶级域名会更有优势。▪新通用顶级域名（new gTLD）：近年来涌现的创意后缀，如.photography、.media、.shop、.ai、.store和.app等。这些新颖的后缀能够让域名更具特色，还能直观体现网站的业务类型。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770184351,
+          "createTimeFormatted": "2026-02-04 13:52:31",
+          "chapterUid": 54,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=1918&rangeEnd=3131",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=1918&rangeEnd=3131"
+        }
+      ]
+    },
+    {
+      "chapterUid": 53,
+      "chapterTitle": "3.1 节俭全栈：你的低成本启动平台",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_16_30416-30789",
+          "range": "28176-28337",
+          "rangeStart": 28176,
+          "rangeEnd": 28337,
+          "markText": "•使用Stripe Checkout或Stripe Elements：这是保障安全的黄金法则。永远不要让信用卡卡号等敏感信息接触自己的服务器",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770183573,
+          "createTimeFormatted": "2026-02-04 13:39:33",
+          "chapterUid": 53,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=53&rangeStart=28176&rangeEnd=28337",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=53&rangeStart=28176&rangeEnd=28337"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_16_26059-26131",
+          "range": "24100-24172",
+          "rangeStart": 24100,
+          "rangeEnd": 24172,
+          "markText": "随着应用逐渐成型，部分内容（如博客文章、营销文案等）需要频繁更新。如果不想因修改一个错别字就重新部署整个应用，就需要一款内容管理系统（CMS）。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770183174,
+          "createTimeFormatted": "2026-02-04 13:32:54",
+          "chapterUid": 53,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=53&rangeStart=24100&rangeEnd=24172",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=53&rangeStart=24100&rangeEnd=24172"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_16_9872-9939",
+          "range": "9630-9697",
+          "rangeStart": 9630,
+          "rangeEnd": 9697,
+          "markText": "需要提醒的是，如果免费项目连续一周没有任何API请求，则会被暂停，此时只需登录后台点击恢复即可——这是初期项目上线时需要注意的关键点。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770182827,
+          "createTimeFormatted": "2026-02-04 13:27:07",
+          "chapterUid": 53,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=53&rangeStart=9630&rangeEnd=9697",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=53&rangeStart=9630&rangeEnd=9697"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_16_3462-3477",
+          "range": "3919-3934",
+          "rangeStart": 3919,
+          "rangeEnd": 3934,
+          "markText": "边缘网络是一种先进的服务器架构",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770177950,
+          "createTimeFormatted": "2026-02-04 12:05:50",
+          "chapterUid": 53,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=53&rangeStart=3919&rangeEnd=3934",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=53&rangeStart=3919&rangeEnd=3934"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_16_2285-2363",
+          "range": "2285-2363",
+          "rangeStart": 2285,
+          "rangeEnd": 2363,
+          "markText": "我们将其划分为三大类：核心基础设施（支撑应用运行的核心骨架）、核心外围服务（完善应用功能的关键模块）、生产力与设计工具（提升开发效率与产品质量的辅助工具）。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770177896,
+          "createTimeFormatted": "2026-02-04 12:04:56",
+          "chapterUid": 53,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=53&rangeStart=2285&rangeEnd=2363",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=53&rangeStart=2285&rangeEnd=2363"
+        }
+      ]
+    },
+    {
+      "chapterUid": 48,
+      "chapterTitle": "2.1 你的完美起点：用Trickle一站式构建应用",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_14_1023-1162",
+          "range": "1023-1162",
+          "rangeStart": 1023,
+          "rangeEnd": 1162,
+          "markText": "在应用开发领域，一款完整的应用通常需要多个核心部分协同工作：负责展示内容的“前端”（网站的外观）、负责处理逻辑与存储数据的“后端”和“数据库”（网站的大脑和记忆），以及让全世界都能访问的“服务器”和“托管服务”。对初学者来说，仅仅是理解这些概念、选择合适的工具，就足以让人头疼。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770177313,
+          "createTimeFormatted": "2026-02-04 11:55:13",
+          "chapterUid": 48,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=48&rangeStart=1023&rangeEnd=1162",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=48&rangeStart=1023&rangeEnd=1162"
+        }
+      ]
+    },
+    {
+      "chapterUid": 46,
+      "chapterTitle": "1.3 你的AI副驾驶：掌握提示的艺术",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_12_14747-15826",
+          "range": "14750-15753",
+          "rangeStart": 14750,
+          "rangeEnd": 15753,
+          "markText": "你是一位精通现代网页设计的前端开发专家。（P：角色）你的任务是为我创建一个单页面的个人作品集网页，需要包含完整的HTML和CSS代码。（R：请求）请在HTML和CSS代码关键部分添加中文注释，最终直接生成一个HTML格式文件。（O：输出）网页的整体风格要求简洁、专业、现代。（M：语气/风格）这个网页的目的是展示我作为一名摄影师的作品，目标是吸引潜在客户。（P：目的）请参考以下结构和内容来生成网页：（T：模板/示例）1. **导航栏**：包含“首页”“关于我”“作品集”和“联系方式”4个链接。2. **个人简介区**：标题是“关于我”，下面有一小段文字：“王小明，一位热衷于用镜头捕捉光影故事的城市风光摄影师。”3. **作品展示区**：标题是“我的作品集”，下面用3个卡片（card）横向排列，每个卡片里有一张占位图片和图片标题，标题分别是“都市霓虹”“静谧清晨”和“街头掠影”。4. **联系方式区**：标题是“联系我”，下面写上“邮箱：example@email.com”。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770124741,
+          "createTimeFormatted": "2026-02-03 21:19:01",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=14750&rangeEnd=15753",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=14750&rangeEnd=15753"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_12_12427-12452",
+          "range": "12203-12228",
+          "rangeStart": 12203,
+          "rangeEnd": 12228,
+          "markText": "了训练数据中与“高价值、高质量”任务相关的模式）。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770124696,
+          "createTimeFormatted": "2026-02-03 21:18:16",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=12203&rangeEnd=12228",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=12203&rangeEnd=12228"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_12_12053-12198",
+          "range": "11829-11974",
+          "rangeStart": 11829,
+          "rangeEnd": 11974,
+          "markText": "•赋予情感价值：在指令中加入“这对我未来的职业生涯至关重要”，有时能让AI更加“专注”，产出更高质量的内容。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770124688,
+          "createTimeFormatted": "2026-02-03 21:18:08",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=11829&rangeEnd=11974",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=11829&rangeEnd=11974"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_12_10423-10472",
+          "range": "10199-10248",
+          "rangeStart": 10199,
+          "rangeEnd": 10248,
+          "markText": "研究表明，在指令中加入“深呼吸，然后一步一步地解决这个问题”这类引导语，可以显著提高AI的准确性。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770124665,
+          "createTimeFormatted": "2026-02-03 21:17:45",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=10199&rangeEnd=10248",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=10199&rangeEnd=10248"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_12_9247-10133",
+          "range": "9023-9909",
+          "rangeStart": 9023,
+          "rangeEnd": 9909,
+          "markText": "•用于头脑风暴：“请为‘可持续旅行’主题生成10个博客文章标题，请以编号列表的形式输出。”•用于对比分析：“请为初学者比较学习Python和JavaScript的优缺点，用Markdown表格来呈现答案。表格应包含‘特性’、‘Python优缺点’和‘JavaScript优缺点’这三列。”•用于信息提取：“请从以下文本中提取关键人物、公司和日期，将输出格式化为JSON对象，包含people、companies和dates三个键。”（即使你不了解JSON，也可以通过这个例子感受到AI处理结构化数据的强大能力）。•用于代码生成：“请编写一个计算复利的Python函数，在代码中加入注释，解释每一步的作用。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770124635,
+          "createTimeFormatted": "2026-02-03 21:17:15",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=9023&rangeEnd=9909",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=9023&rangeEnd=9909"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_12_6330-6346",
+          "range": "6178-6194",
+          "rangeStart": 6178,
+          "rangeEnd": 6194,
+          "markText": "给AI看一个或多个你想要的示例。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770124562,
+          "createTimeFormatted": "2026-02-03 21:16:02",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=6178&rangeEnd=6194",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=6178&rangeEnd=6194"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_12_6893-6898",
+          "range": "6741-6746",
+          "rangeStart": 6741,
+          "rangeEnd": 6746,
+          "markText": "使用分隔符",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770124542,
+          "createTimeFormatted": "2026-02-03 21:15:42",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=6741&rangeEnd=6746",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=6741&rangeEnd=6746"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_12_7785-7803",
+          "range": "7633-7651",
+          "rangeStart": 7633,
+          "rangeEnd": 7651,
+          "markText": "从“提供示例”到“教会AI自我举例”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770124531,
+          "createTimeFormatted": "2026-02-03 21:15:31",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=7633&rangeEnd=7651",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=7633&rangeEnd=7651"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_12_8590-8645",
+          "range": "8366-8421",
+          "rangeStart": 8366,
+          "rangeEnd": 8421,
+          "markText": "在你回答我的问题之前，请先用一个更简单的、类似的问题举例，并解释它的解法。然后，运用同样的逻辑来解决我的问题。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770124496,
+          "createTimeFormatted": "2026-02-03 21:14:56",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=8366&rangeEnd=8421",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=8366&rangeEnd=8421"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_12_3501-5403",
+          "range": "3501-5251",
+          "rangeStart": 3501,
+          "rangeEnd": 5251,
+          "markText": "•P（Persona，角色）：为AI分配具体角色。这是最简单有效的技巧，能立刻为AI设定语境、知识背景和说话风格。研究显示，仅仅为AI分配角色就能显著提升回答质量。▪平庸指令：“解释一下区块链。”▪导演级指令：“你是一位高中信息技术老师（角色），请用16岁学生能听懂的比喻来解释区块链。”•R（Request，请求）：用清晰的动词开始你的指令，不要含糊其辞。比如“撰写一份……”、“总结以下……”、“翻译这段……”、“头脑风暴5个……”、“批判性地评估……”、“重写……”等。•O（Output，输出）：明确想要的输出形式（黄金法则3中将详细展开）。•M（Mood，语气/风格）：定义你想要的语调和情感色彩。比如“用风趣幽默的语气……”、“用正式、学术的风格……”、“保持鼓励和友好的态度”等。•P（Purpose，目的）：解释你“为什么”需要这个东西，它的受众是谁，目标是什么？研究表明，在指令中明确目标受众可以有效提升生成效果。比如，“这份文案的目标是吸引新客户点击购买”、“这份报告的读者是持怀疑态度的老板，需要多用数据支撑”。•T（Template，模板/示例）：提供一个示例让AI模仿（黄金法则2中将详细展开）。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770124410,
+          "createTimeFormatted": "2026-02-03 21:13:30",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=3501&rangeEnd=5251",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=3501&rangeEnd=5251"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_12_16388-16459",
+          "range": "16315-16386",
+          "rangeStart": 16315,
+          "rangeEnd": 16386,
+          "markText": "市面上那些眼花缭乱的“神级”提示词教程，无论如何包装，内核都离不开我们刚刚讨论的几个基本元素：角色、请求、输出、语气/风格、目的、模板/示例。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770124366,
+          "createTimeFormatted": "2026-02-03 21:12:46",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=16315&rangeEnd=16386",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=16315&rangeEnd=16386"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_12_5433-5467",
+          "range": "5281-5315",
+          "rangeStart": 5281,
+          "rangeEnd": 5315,
+          "markText": "除了这个框架，还有一个关键原则：多说“做什么”，少说“不要做什么”。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770124020,
+          "createTimeFormatted": "2026-02-03 21:07:00",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=5281&rangeEnd=5315",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=5281&rangeEnd=5315"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_12_2380-3080",
+          "range": "2380-3080",
+          "rangeStart": 2380,
+          "rangeEnd": 3080,
+          "markText": "•黄金法则1（扮演导演）：过滤掉不相关的角色和问题。•黄金法则2（提供地图）：为AI的创作提供清晰的路线和参照。•黄金法则3（设计蓝图）：确保成品符合你想要的结构和样式。•黄金法则4（开启聊天）：能让你在过程中不断修正航向，直至完美。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770123961,
+          "createTimeFormatted": "2026-02-03 21:06:01",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=2380&rangeEnd=3080",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=2380&rangeEnd=3080"
+        }
+      ]
+    },
+    {
+      "chapterUid": 45,
+      "chapterTitle": "1.2 独立开发者的思维工具箱",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_11_21057-22089",
+          "range": "20782-21814",
+          "rangeStart": 20782,
+          "rangeEnd": 21814,
+          "markText": "从小处着手（原则1），是因为需要先在一个小而可控的问题上测试AI的输出质量，而不是让它直接生成庞大且充满未知错误的应用。•规划你的构建（原则2），是因为你需要一张清晰的“蓝图”（PRD），给AI提供精准的指令，并以此为标准判断它的产出是否符合预期。•迭代，而非堆砌（原则3），是因为你需要小批量审查AI的工作成果，绝不能等到它生成了整个应用后，才发现它从第一步就误解了你的意图。•测试一切（原则4），是因为永远不能盲目信任AI的输出。你必须扮演多疑的侦探，验证它的每一个“陈述”，戳穿它的每一个“幻觉”。•使用版本控制（原则5），是因为AI可能在某次“灵感迸发”时，生成一段彻底毁掉项目的代码。你需要一个能一键“读档”的“游戏存档点”，让你能瞬间回到它“犯错”之前的稳定版本。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770123923,
+          "createTimeFormatted": "2026-02-03 21:05:23",
+          "chapterUid": 45,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=45&rangeStart=20782&rangeEnd=21814",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=45&rangeStart=20782&rangeEnd=21814"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_11_20504-20538",
+          "range": "20229-20263",
+          "rangeStart": 20229,
+          "rangeEnd": 20263,
+          "markText": "启示4：你的AI并非客观中立，它会继承并放大其训练数据中存在的偏见。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770123894,
+          "createTimeFormatted": "2026-02-03 21:04:54",
+          "chapterUid": 45,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=45&rangeStart=20229&rangeEnd=20263",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=45&rangeStart=20229&rangeEnd=20263"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_11_20166-20197",
+          "range": "19929-19960",
+          "rangeStart": 19929,
+          "rangeEnd": 19960,
+          "markText": "启示3：你的AI生成的建议，可能语法完美，但内容却危险且离谱。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770123890,
+          "createTimeFormatted": "2026-02-03 21:04:50",
+          "chapterUid": 45,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=45&rangeStart=19929&rangeEnd=19960",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=45&rangeStart=19929&rangeEnd=19960"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_11_19813-19839",
+          "range": "19652-19678",
+          "rangeStart": 19652,
+          "rangeEnd": 19678,
+          "markText": "启示2：你的AI会以绝对的自信，陈述完全虚假的事实。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770123883,
+          "createTimeFormatted": "2026-02-03 21:04:43",
+          "chapterUid": 45,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=45&rangeStart=19652&rangeEnd=19678",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=45&rangeStart=19652&rangeEnd=19678"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300193415_11_19507-19530",
+          "range": "19346-19369",
+          "rangeStart": 19346,
+          "rangeEnd": 19369,
+          "markText": "启示1：你的AI可能完全不理解商业逻辑和常识。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770123881,
+          "createTimeFormatted": "2026-02-03 21:04:41",
+          "chapterUid": 45,
+          "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=45&rangeStart=19346&rangeEnd=19369",
+          "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=45&rangeStart=19346&rangeEnd=19369"
+        }
+      ]
+    },
+    {
+      "chapterUid": 69,
+      "chapterTitle": "6.6 十分钟实战：实现用户积分与使用限制系统",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_86DYgfrNM",
+          "range": "4591-4595",
+          "chapterName": "6.6 十分钟实战：实现用户积分与使用限制系统",
+          "content": "xiāo fèi hán shù\n\n即“消费倾向”。消费倾向：亦称“消费函数”。英国凯恩斯经济学中的概念。指收入和消费之间的函数关系。有平均消费倾向和边际消费倾向之分。前者指任一收入水平上消费支出量对收入量之比率。若收入为5000元，消费为4000元，则平均消费倾向为0.8或80%。后者指消费增加量与收入增加量之比率。若收入从5000元增至6000元，消费从4000元增至4500元，则边际消费倾向为0.75或75%。凯恩斯认为，消费随收入的增加而增加，但消费的增加量小于收入的增加量，这是一个“基本心理规律”，它导致消费需求的不足，是产生危机和失业的原因之一。",
+          "abstract": "消费函数",
+          "star": -1,
+          "createTime": 1770120950,
+          "createTimeFormatted": "2026-02-03 20:15:50",
+          "isFinish": false,
+          "chapterUid": 69
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300193415_50_22492-22559",
+      "chapterUid": 50,
+      "range": "22492-22559",
+      "markText": "再次点击Properties区域的“+”号，选择“变体”（Variant），将第一个变体属性命名为Style，其值设为Primary。",
+      "totalCount": 1405,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=50&rangeStart=22492&rangeEnd=22559",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=50&rangeStart=22492&rangeEnd=22559"
+    },
+    {
+      "bookmarkId": "3300193415_57_15456-15500",
+      "chapterUid": 57,
+      "range": "15456-15500",
+      "markText": "当你提出新需求时，它会先更新TDD中的数据模型和API定义，再根据更新后的文档修改代码。",
+      "totalCount": 1400,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=15456&rangeEnd=15500",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=15456&rangeEnd=15500"
+    },
+    {
+      "bookmarkId": "3300193415_57_26943-27006",
+      "chapterUid": 57,
+      "range": "26943-27006",
+      "markText": "由于它保留了整个项目的上下文，所以知道如何安全地修改文件和数据库结构，以及如何调整前后端交互，从而高效、安全地为产品新增功能。",
+      "totalCount": 1398,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=26943&rangeEnd=27006",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=26943&rangeEnd=27006"
+    },
+    {
+      "bookmarkId": "3300193415_46_1431-1498",
+      "chapterUid": 46,
+      "range": "1431-1498",
+      "markText": "要掌握这门技能，首先需要一个关键的心态转变：与AI的互动不是单向命令，而是一场双向对话。",
+      "totalCount": 1393,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=46&rangeStart=1431&rangeEnd=1498",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=46&rangeStart=1431&rangeEnd=1498"
+    },
+    {
+      "bookmarkId": "3300193415_48_11701-11760",
+      "chapterUid": 48,
+      "range": "11701-11760",
+      "markText": "对初学者而言，最大的敌人往往不是技术本身，而是面对未知时的恐惧和不自信。",
+      "totalCount": 1386,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=48&rangeStart=11701&rangeEnd=11760",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=48&rangeStart=11701&rangeEnd=11760"
+    },
+    {
+      "bookmarkId": "3300193415_61_1083-1135",
+      "chapterUid": 61,
+      "range": "1083-1135",
+      "markText": "它会协助你进行头脑风暴、梳理思绪、挑战既有假设，最终将那个闪光的想法，转化为一份清晰、可执行的产品蓝图。",
+      "totalCount": 1376,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=61&rangeStart=1083&rangeEnd=1135",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=61&rangeStart=1083&rangeEnd=1135"
+    },
+    {
+      "bookmarkId": "3300193415_67_1745-1785",
+      "chapterUid": 67,
+      "range": "1745-1785",
+      "markText": "我们添加的策略为“用户只能查看和操作user_id与自身认证uid匹配的记录”。",
+      "totalCount": 1376,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=67&rangeStart=1745&rangeEnd=1785",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=67&rangeStart=1745&rangeEnd=1785"
+    },
+    {
+      "bookmarkId": "3300193415_55_19186-19280",
+      "chapterUid": 55,
+      "range": "19186-19280",
+      "markText": "更强大的是，Supabase Storage自带CDN（内容分发网络）增值服务——文件上传后，Supabase会自动通过CDN将文件副本缓存到全球边缘节点服务器，大幅提升了文件的加载速度。",
+      "totalCount": 1371,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=55&rangeStart=19186&rangeEnd=19280",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=55&rangeStart=19186&rangeEnd=19280"
+    },
+    {
+      "bookmarkId": "3300193415_55_5596-5812",
+      "chapterUid": 55,
+      "range": "5596-5812",
+      "markText": "•技术内涵：Supabase的实时引擎依托PostgreSQL的日志监听功能，紧密监控数据库的各类变动。",
+      "totalCount": 1367,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=55&rangeStart=5596&rangeEnd=5812",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=55&rangeStart=5596&rangeEnd=5812"
+    },
+    {
+      "bookmarkId": "3300193415_62_45590-45799",
+      "chapterUid": 62,
+      "range": "45590-45799",
+      "markText": "•团队协作阶段：需要考虑引入专业的CMS（如Keystatic）或自建功能完善的管理后台。",
+      "totalCount": 1364,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=62&rangeStart=45590&rangeEnd=45799",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=62&rangeStart=45590&rangeEnd=45799"
+    },
+    {
+      "bookmarkId": "3300193415_50_29866-29900",
+      "chapterUid": 50,
+      "range": "29866-29900",
+      "markText": "在现代的前端开发中，设计到代码的自动化转换已成为效率提升的重要手段。",
+      "totalCount": 1362,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=50&rangeStart=29866&rangeEnd=29900",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=50&rangeStart=29866&rangeEnd=29900"
+    },
+    {
+      "bookmarkId": "3300193415_62_38399-38587",
+      "chapterUid": 62,
+      "range": "38399-38587",
+      "markText": "•国际化支持难：难以高效实现多语言切换，以适配不同地区的用户。",
+      "totalCount": 1359,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=62&rangeStart=38399&rangeEnd=38587",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=62&rangeStart=38399&rangeEnd=38587"
+    },
+    {
+      "bookmarkId": "3300193415_57_10811-11051",
+      "chapterUid": 57,
+      "range": "10811-11051",
+      "markText": "一份优秀的TDD，其核心价值在于：•统一共识——确保团队成员对系统架构、技术选型、API契约和数据流有统一、精确的理解；",
+      "totalCount": 1350,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=57&rangeStart=10811&rangeEnd=11051",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=57&rangeStart=10811&rangeEnd=11051"
+    },
+    {
+      "bookmarkId": "3300193415_59_1229-1274",
+      "chapterUid": 59,
+      "range": "1229-1274",
+      "markText": "若换另外一款AI模型（如ChatGPT）连接GitHub，可能需要再编写一个全新的连接器。",
+      "totalCount": 1340,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=59&rangeStart=1229&rangeEnd=1274",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=59&rangeStart=1229&rangeEnd=1274"
+    },
+    {
+      "bookmarkId": "3300193415_54_4027-4242",
+      "chapterUid": 54,
+      "range": "4027-4242",
+      "markText": "•掌控在线身份：拥有自己的域名，意味着能完全掌控网站的外观、内容和呈现方式，不受第三方平台规则的束缚。",
+      "totalCount": 1336,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=54&rangeStart=4027&rangeEnd=4242",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=54&rangeStart=4027&rangeEnd=4242"
+    },
+    {
+      "bookmarkId": "3300193415_59_30481-30559",
+      "chapterUid": 59,
+      "range": "30481-30559",
+      "markText": "在使用MCP服务器时，可能会遇到连接问题（如连接频繁断开、连接建立失败）、性能问题（如响应缓慢、处理能力不足）、数据处理异常（如格式错误、处理失败）等情况。",
+      "totalCount": 1336,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=59&rangeStart=30481&rangeEnd=30559",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=59&rangeStart=30481&rangeEnd=30559"
+    },
+    {
+      "bookmarkId": "3300193415_68_3159-3394",
+      "chapterUid": 68,
+      "range": "3159-3394",
+      "markText": "•更新数据库与文件转存：如果成功，将图片从Replicate下载并上传到SupabaseStorage，在user_images表中创建记录；",
+      "totalCount": 1336,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=68&rangeStart=3159&rangeEnd=3394",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=68&rangeStart=3159&rangeEnd=3394"
+    },
+    {
+      "bookmarkId": "3300193415_62_19902-20119",
+      "chapterUid": 62,
+      "range": "19902-20119",
+      "markText": "•自动邮件验证机制：运行应用（npm run dev）并注册新账户，注册完成后邮箱会收到来自Supabase的验证邮件。",
+      "totalCount": 1331,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=62&rangeStart=19902&rangeEnd=20119",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=62&rangeStart=19902&rangeEnd=20119"
+    },
+    {
+      "bookmarkId": "3300193415_50_26464-26670",
+      "chapterUid": 50,
+      "range": "26464-26670",
+      "markText": "•用变量制作有“状态”的原型：借助变量，可以创建出拥有“记忆”和“状态”的真实原型。",
+      "totalCount": 1326,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=50&rangeStart=26464&rangeEnd=26670",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=50&rangeStart=26464&rangeEnd=26670"
+    },
+    {
+      "bookmarkId": "3300193415_59_31890-32085",
+      "chapterUid": 59,
+      "range": "31890-32085",
+      "markText": "•审查与确认：在刚开始使用时，不要盲目批准所有的工具调用请求。",
+      "totalCount": 1319,
+      "appLink": "weread://bestbookmark?bookId=3300193415&chapterUid=59&rangeStart=31890&rangeEnd=32085",
+      "webLink": "https://weread.qq.com/web/reader/02b32520813abb20dg015ee1?chapterUid=59&rangeStart=31890&rangeEnd=32085"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 44,
+    "chapterOffset": 4160,
+    "progress": 99,
+    "updateTime": 1777627450,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

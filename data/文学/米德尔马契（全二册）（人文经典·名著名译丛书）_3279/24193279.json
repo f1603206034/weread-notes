@@ -1,0 +1,1010 @@
+{
+  "meta": {
+    "bookId": "24193279",
+    "title": "米德尔马契（全二册）（人文经典·名著名译丛书）",
+    "author": "乔治·爱略特",
+    "translator": "项星耀",
+    "cover": "https://cdn.weread.qq.com/weread/cover/23/yuewen_24193279/t6_yuewen_241932791695873900.jpg",
+    "intro": "《米德尔马契》一书有两条主线。其一是理想主义少女多萝西娅的灾难性婚姻与理想的破灭，其二是青年医生利德盖特可悲的婚姻与事业的失败。作者运用对比、对称、平行和重复等手法，把这两条主线巧妙地交织在一起，把众多人物写了进去，成功地表现了“社会挫败人”这样一个幻灭主题。",
+    "category": "文学-外国文学",
+    "publisher": "人民文学出版社",
+    "publishTime": "2018-10-09 00:00:00",
+    "isbn": "9787020124947",
+    "wordCount": 0,
+    "newRating": 877,
+    "newRatingCount": 769,
+    "newRatingDetail": {
+      "good": 683,
+      "fair": 68,
+      "poor": 18,
+      "recent": 19,
+      "deepV": 244,
+      "myRating": "good",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=24193279",
+    "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b",
+    "lastSync": "2026-05-21T11:46:38Z",
+    "readingProgress": "4%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 5,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "8fb676373c1929d87612613b134fa7c203007d36bf0c7f7f73010669a4a6c476"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24193279&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=1"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 133,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24193279&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 3,
+      "title": "米德尔马契：全2册 上",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24193279&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 4,
+      "title": "作者简介",
+      "level": 2,
+      "wordCount": 347,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24193279&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 5,
+      "title": "出版说明",
+      "level": 2,
+      "wordCount": 319,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24193279&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 6,
+      "title": "前言",
+      "level": 2,
+      "wordCount": 2968,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24193279&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 7,
+      "title": "序言",
+      "level": 2,
+      "wordCount": 1068,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24193279&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 8,
+      "title": "第一卷 布鲁克小姐",
+      "level": 2,
+      "wordCount": 84593,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章",
+          "anchor": "c001",
+          "level": 3
+        },
+        {
+          "title": "第二章",
+          "anchor": "c002",
+          "level": 3
+        },
+        {
+          "title": "第三章",
+          "anchor": "c003",
+          "level": 3
+        },
+        {
+          "title": "第四章",
+          "anchor": "c004",
+          "level": 3
+        },
+        {
+          "title": "第五章",
+          "anchor": "c005",
+          "level": 3
+        },
+        {
+          "title": "第六章",
+          "anchor": "c006",
+          "level": 3
+        },
+        {
+          "title": "第七章",
+          "anchor": "c007",
+          "level": 3
+        },
+        {
+          "title": "第八章",
+          "anchor": "c008",
+          "level": 3
+        },
+        {
+          "title": "第九章",
+          "anchor": "c009",
+          "level": 3
+        },
+        {
+          "title": "第十章",
+          "anchor": "c010",
+          "level": 3
+        },
+        {
+          "title": "第十一章",
+          "anchor": "c011",
+          "level": 3
+        },
+        {
+          "title": "第十二章",
+          "anchor": "c012",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=24193279&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 9,
+      "title": "第二卷 老年和青年",
+      "level": 2,
+      "wordCount": 76729,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十三章",
+          "anchor": "c013",
+          "level": 3
+        },
+        {
+          "title": "第十四章",
+          "anchor": "c014",
+          "level": 3
+        },
+        {
+          "title": "第十五章",
+          "anchor": "c015",
+          "level": 3
+        },
+        {
+          "title": "第十六章",
+          "anchor": "c016",
+          "level": 3
+        },
+        {
+          "title": "第十七章",
+          "anchor": "c017",
+          "level": 3
+        },
+        {
+          "title": "第十八章",
+          "anchor": "c018",
+          "level": 3
+        },
+        {
+          "title": "第十九章",
+          "anchor": "c019",
+          "level": 3
+        },
+        {
+          "title": "第二十章",
+          "anchor": "c020",
+          "level": 3
+        },
+        {
+          "title": "第二十一章",
+          "anchor": "c021",
+          "level": 3
+        },
+        {
+          "title": "第二十二章",
+          "anchor": "c022",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=24193279&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 10,
+      "title": "第三卷 期待中的死亡",
+      "level": 2,
+      "wordCount": 66625,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二十三章",
+          "anchor": "c023",
+          "level": 3
+        },
+        {
+          "title": "第二十四章",
+          "anchor": "c024",
+          "level": 3
+        },
+        {
+          "title": "第二十五章",
+          "anchor": "c025",
+          "level": 3
+        },
+        {
+          "title": "第二十六章",
+          "anchor": "c026",
+          "level": 3
+        },
+        {
+          "title": "第二十七章",
+          "anchor": "c027",
+          "level": 3
+        },
+        {
+          "title": "第二十八章",
+          "anchor": "c028",
+          "level": 3
+        },
+        {
+          "title": "第二十九章",
+          "anchor": "c029",
+          "level": 3
+        },
+        {
+          "title": "第三十章",
+          "anchor": "c030",
+          "level": 3
+        },
+        {
+          "title": "第三十一章",
+          "anchor": "c031",
+          "level": 3
+        },
+        {
+          "title": "第三十二章",
+          "anchor": "c032",
+          "level": 3
+        },
+        {
+          "title": "第三十三章",
+          "anchor": "c033",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=24193279&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 11,
+      "title": "第四卷 三个爱情问题",
+      "level": 2,
+      "wordCount": 79018,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第三十四章",
+          "anchor": "c034",
+          "level": 3
+        },
+        {
+          "title": "第三十五章",
+          "anchor": "c035",
+          "level": 3
+        },
+        {
+          "title": "第三十六章",
+          "anchor": "c036",
+          "level": 3
+        },
+        {
+          "title": "第三十七章",
+          "anchor": "c037",
+          "level": 3
+        },
+        {
+          "title": "第三十八章",
+          "anchor": "c038",
+          "level": 3
+        },
+        {
+          "title": "第三十九章",
+          "anchor": "c039",
+          "level": 3
+        },
+        {
+          "title": "第四十章",
+          "anchor": "c040",
+          "level": 3
+        },
+        {
+          "title": "第四十一章",
+          "anchor": "c041",
+          "level": 3
+        },
+        {
+          "title": "第四十二章",
+          "anchor": "c042",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=24193279&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 12,
+      "title": "米德尔马契：全2册 下",
+      "level": 1,
+      "wordCount": 3,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24193279&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 13,
+      "title": "第五卷 死者之手",
+      "level": 2,
+      "wordCount": 73964,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第四十三章",
+          "anchor": "c001",
+          "level": 3
+        },
+        {
+          "title": "第四十四章",
+          "anchor": "c002",
+          "level": 3
+        },
+        {
+          "title": "第四十五章",
+          "anchor": "c003",
+          "level": 3
+        },
+        {
+          "title": "第四十六章",
+          "anchor": "c004",
+          "level": 3
+        },
+        {
+          "title": "第四十七章",
+          "anchor": "c005",
+          "level": 3
+        },
+        {
+          "title": "第四十八章",
+          "anchor": "c006",
+          "level": 3
+        },
+        {
+          "title": "第四十九章",
+          "anchor": "c007",
+          "level": 3
+        },
+        {
+          "title": "第五十章",
+          "anchor": "c008",
+          "level": 3
+        },
+        {
+          "title": "第五十一章",
+          "anchor": "c009",
+          "level": 3
+        },
+        {
+          "title": "第五十二章",
+          "anchor": "c010",
+          "level": 3
+        },
+        {
+          "title": "第五十三章",
+          "anchor": "c011",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=24193279&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 14,
+      "title": "第六卷 孀妇和妻子",
+      "level": 2,
+      "wordCount": 74931,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第五十四章",
+          "anchor": "c012",
+          "level": 3
+        },
+        {
+          "title": "第五十五章",
+          "anchor": "c013",
+          "level": 3
+        },
+        {
+          "title": "第五十六章",
+          "anchor": "c014",
+          "level": 3
+        },
+        {
+          "title": "第五十七章",
+          "anchor": "c015",
+          "level": 3
+        },
+        {
+          "title": "第五十八章",
+          "anchor": "c016",
+          "level": 3
+        },
+        {
+          "title": "第五十九章",
+          "anchor": "c017",
+          "level": 3
+        },
+        {
+          "title": "第六十章",
+          "anchor": "c018",
+          "level": 3
+        },
+        {
+          "title": "第六十一章",
+          "anchor": "c019",
+          "level": 3
+        },
+        {
+          "title": "第六十二章",
+          "anchor": "c020",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=24193279&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 15,
+      "title": "第七卷 两种诱惑",
+      "level": 2,
+      "wordCount": 66723,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第六十三章",
+          "anchor": "c021",
+          "level": 3
+        },
+        {
+          "title": "第六十四章",
+          "anchor": "c022",
+          "level": 3
+        },
+        {
+          "title": "第六十五章",
+          "anchor": "c023",
+          "level": 3
+        },
+        {
+          "title": "第六十六章",
+          "anchor": "c024",
+          "level": 3
+        },
+        {
+          "title": "第六十七章",
+          "anchor": "c025",
+          "level": 3
+        },
+        {
+          "title": "第六十八章",
+          "anchor": "c026",
+          "level": 3
+        },
+        {
+          "title": "第六十九章",
+          "anchor": "c027",
+          "level": 3
+        },
+        {
+          "title": "第七十章",
+          "anchor": "c028",
+          "level": 3
+        },
+        {
+          "title": "第七十一章",
+          "anchor": "c029",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=24193279&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 16,
+      "title": "第八卷 日落和日出",
+      "level": 2,
+      "wordCount": 68415,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第七十二章",
+          "anchor": "c030",
+          "level": 3
+        },
+        {
+          "title": "第七十三章",
+          "anchor": "c031",
+          "level": 3
+        },
+        {
+          "title": "第七十四章",
+          "anchor": "c032",
+          "level": 3
+        },
+        {
+          "title": "第七十五章",
+          "anchor": "c033",
+          "level": 3
+        },
+        {
+          "title": "第七十六章",
+          "anchor": "c034",
+          "level": 3
+        },
+        {
+          "title": "第七十七章",
+          "anchor": "c035",
+          "level": 3
+        },
+        {
+          "title": "第七十八章",
+          "anchor": "c036",
+          "level": 3
+        },
+        {
+          "title": "第七十九章",
+          "anchor": "c037",
+          "level": 3
+        },
+        {
+          "title": "第八十章",
+          "anchor": "c038",
+          "level": 3
+        },
+        {
+          "title": "第八十一章",
+          "anchor": "c039",
+          "level": 3
+        },
+        {
+          "title": "第八十二章",
+          "anchor": "c040",
+          "level": 3
+        },
+        {
+          "title": "第八十三章",
+          "anchor": "c041",
+          "level": 3
+        },
+        {
+          "title": "第八十四章",
+          "anchor": "c042",
+          "level": 3
+        },
+        {
+          "title": "第八十五章",
+          "anchor": "c043",
+          "level": 3
+        },
+        {
+          "title": "第八十六章",
+          "anchor": "c044",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=24193279&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 17,
+      "title": "尾声",
+      "level": 2,
+      "wordCount": 5199,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24193279&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 18,
+      "title": "“名著名译丛书”书目",
+      "level": 2,
+      "wordCount": 1897,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24193279&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=33"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 23,
+      "chapterTitle": "第一卷 布鲁克小姐",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "24193279_23_4478-4945",
+          "range": "4478-4945",
+          "rangeStart": 4478,
+          "rangeEnd": 4945,
+          "markText": "她觉得可惜她生不逢辰，否则她一定要嫁给贤明的胡克[插图]，免得他在婚姻问题上铸成大错；或者嫁给双目失明的约翰·弥尔顿[插图]，或者任何一个伟人，因为忍受他们的怪癖是一种可歌可泣的虔敬行为。但是一个和颜悦色、风度翩翩的从男爵，对她讲的每一句话，哪怕她自己也有些不以为然的时候，他仍唯唯诺诺，连声称“是”——这样一个人，怎么能成为她理想的爱人呢？真正幸福的婚姻，必须是你的丈夫带有一些父亲的性质，可以指导你的一切，必要的时候，甚至可以教你希伯来文。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1745057001,
+          "createTimeFormatted": "2025-04-19 18:03:21",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=4478&rangeEnd=4945",
+          "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=4478&rangeEnd=4945"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "24193279_23_2543-2588",
+          "range": "2543-2588",
+          "rangeStart": 2543,
+          "rangeEnd": 2588,
+          "markText": "有的人一生懵懵懂懂对自己的利益从不计较，可是偏偏把鼻烟匣当作宝贝，随时提防，生怕别人染指。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1745051256,
+          "createTimeFormatted": "2025-04-19 16:27:36",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=2543&rangeEnd=2588",
+          "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=2543&rangeEnd=2588"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "24193279_23_46462-46520",
+          "range": "46462-46520",
+          "rangeStart": 46462,
+          "rangeEnd": 46520,
+          "markText": "女性的巨大魅力，在于她们具有强烈的自我牺牲的精神力量，正因为这样，我们觉得她们可以做我们的伴侣，使生活变得更加完美。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745049967,
+          "createTimeFormatted": "2025-04-19 16:06:07",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=46462&rangeEnd=46520",
+          "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=46462&rangeEnd=46520"
+        }
+      ]
+    },
+    {
+      "chapterUid": 22,
+      "chapterTitle": "序言",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "24193279_22_1484-1800",
+          "range": "1484-1800",
+          "rangeStart": 1484,
+          "rangeEnd": 1800,
+          "markText": "有人认为，这些生命之走上歧途，是女人的天性使然，因为上帝本来没有赋予她们合乎需要的明确观念。假定女人无一例外，都只有计算个位数的能力，她们的社会命运自然可以凭科学的精确性，给予统一的对待。可是她们尽管浅薄，实际仍然千差万别，与人们的想象大不一致，她们既不像女人的发型那么大同小异，也不像畅销的散文或韵文言情小说那样千篇一律。在污浊的池塘里一群小鸭中间，偶尔也会出现一只小天鹅，它在那里落落寡合，觉得自己这类蹼足动物，无论如何没法生活在那样的水流中。在女人中间，有时也会出现一个圣德雷莎，只是她的一生无所建树，她的善良心愿无从实现，她那博爱的心灵，那阵阵的叹息，也只得徒唤奈何，消耗在重重阻力中，而不是倾注在任何可以永垂青史的事业上。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1745051072,
+          "createTimeFormatted": "2025-04-19 16:24:32",
+          "chapterUid": 22,
+          "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=22&rangeStart=1484&rangeEnd=1800",
+          "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=22&rangeStart=1484&rangeEnd=1800"
+        }
+      ]
+    },
+    {
+      "chapterUid": 21,
+      "chapterTitle": "前言",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "24193279_21_1645-1655",
+          "range": "1645-1655",
+          "rangeStart": 1645,
+          "rangeEnd": 1655,
+          "markText": "社会世俗扼杀人类抱负",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1745050593,
+          "createTimeFormatted": "2025-04-19 16:16:33",
+          "chapterUid": 21,
+          "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=21&rangeStart=1645&rangeEnd=1655",
+          "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=21&rangeStart=1645&rangeEnd=1655"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [
+    {
+      "type": "review",
+      "reviewId": "32618646_85PnLTcs3",
+      "range": "",
+      "chapterName": "",
+      "content": "我们可以将《米德尔马契》（1871英国首次连载）的女主角多萝西娅·布鲁克与《包法利夫人》（1856法国巴黎首次连载）的主角爱玛·包法利联系起来。\n首先，这两本小说成书时间接近，相差不过 15 年左右。社会文化接近，一个是在英国，一个是在法国。19世纪的英法两国在文化、社会层面存在密切交流，贵族阶层的往来、思想的传播尤为频繁。\n其次，虽然两位女性的道德选择和最终命运截然不同，但困境相同，都反映了女性在特定社会环境下的理想与现实的毁灭性冲突。\n所以，这两部作品的女主角在某种程度上能够代表那个时代的女性，是她们的一个缩影。\n将这两位女性并列，我们能看到她们悲剧性的相似之处：\n1，对现实生活的高度不满: 两位女性都对身边平庸、沉闷的省外生活感到窒息。多萝西娅渴望的是智识和精神上的崇高事业，她认为婚姻是实现这一理想的阶梯。爱玛向往的则是浪漫小说中描绘的奢华、激情和上流社会生活。她们都无法忍受眼前的现实。\n2，通过婚姻寻求幻想的实现: 她们都将婚姻视为逃离现实、实现幻想的唯一途径。多萝西娅错误地将年迈的学者卡苏朋想象成学识渊博的伟人，以为嫁给他就能进入知识的圣殿。爱玛则将平庸的乡村医生夏尔·包法利视为通往巴黎式浪漫生活的跳板。\n3，婚姻理想的彻底破灭: 婚后的现实给了她们沉重的打击。多萝西娅发现丈夫心胸狭隘、学术研究毫无价值，她的精神世界陷入一片荒芜。爱玛则发现丈夫乏味无趣，婚姻生活充满了琐碎和失望，她梦想中的舞会、情诗和浪漫爱情都化为泡影。\n然而，她们悲剧的内核与走向却截然不同：\n1，理想的性质不同: 多萝西娅的理想是无私和精神性的，她渴望“为伟大的事业而活”，具有圣徒般的奉献精神。而爱玛的梦想是纯粹物质和感官的，充满了对虚荣、情欲和奢侈品的渴望。\n2，应对幻灭的方式不同: 当理想破灭时，多萝西娅虽然痛苦，但她选择了向内探索和道德的坚守。她经历了压抑，但最终通过自身的成长，理解了生活的真谛，并找到了与威尔·拉迪斯拉夫之间更为平等的爱情，虽然这意味着放弃财产，回归平凡。她的悲剧在于崇高理想在现实中无处安放，最终只能向现实妥协。 而爱玛则选择了向外放纵，她通过通奸和无度的消费来填补内心的空虚，最终在道德和经济上彻底毁灭，走向了自我毁灭的道路。她的悲剧是欲望的无限膨胀和最终破灭。\n所以，她们都体现了理想主义（无论崇高或世俗）在僵化社会现实面前的悲剧性。\n多萝西娅的悲剧是理想的“降格”，而爱玛的悲剧则是欲望的“毁灭”。\n或者说，多萝西娅是一个有着崇高灵魂的爱玛包法利，而爱玛包法利是一个没有道德束缚的多萝西娅。",
+      "abstract": "",
+      "star": 100,
+      "createTime": 1767247509,
+      "createTimeFormatted": "2026-01-01 14:05:09",
+      "isFinish": false,
+      "chapterUid": 0
+    }
+  ],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "24193279_23_4894-4945",
+      "chapterUid": 23,
+      "range": "4894-4945",
+      "markText": "真正幸福的婚姻，必须是你的丈夫带有一些父亲的性质，可以指导你的一切，必要的时候，甚至可以教你希伯来文。",
+      "totalCount": 1480,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=4894&rangeEnd=4945",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=4894&rangeEnd=4945"
+    },
+    {
+      "bookmarkId": "24193279_23_46462-46520",
+      "chapterUid": 23,
+      "range": "46462-46520",
+      "markText": "女性的巨大魅力，在于她们具有强烈的自我牺牲的精神力量，正因为这样，我们觉得她们可以做我们的伴侣，使生活变得更加完美。",
+      "totalCount": 1290,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=46462&rangeEnd=46520",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=46462&rangeEnd=46520"
+    },
+    {
+      "bookmarkId": "24193279_23_4478-4817",
+      "chapterUid": 23,
+      "range": "4478-4817",
+      "markText": "她觉得可惜她生不逢辰，否则她一定要嫁给贤明的胡克，免得他在婚姻问题上铸成大错；或者嫁给双目失明的约翰·弥尔顿，或者任何一个伟人，因为忍受他们的怪癖是一种可歌可泣的虔敬行为。",
+      "totalCount": 884,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=4478&rangeEnd=4817",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=4478&rangeEnd=4817"
+    },
+    {
+      "bookmarkId": "24193279_23_21146-21244",
+      "chapterUid": 23,
+      "range": "21146-21244",
+      "markText": "多萝西娅对自己说：“他跟我想到一块来了，但不如说，他是在考虑整个世界，我的思想却只是一面可怜的、不值分文的镜子。还有他的感觉，他的全部体验，那是多么辽阔的湖泊，我跟他相比，只能算一个小池塘罢了！”",
+      "totalCount": 704,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=21146&rangeEnd=21244",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=21146&rangeEnd=21244"
+    },
+    {
+      "bookmarkId": "24193279_23_99352-99397",
+      "chapterUid": 23,
+      "range": "99352-99397",
+      "markText": "“不是我把自己弄得讨厌，是你觉得我讨厌。讨厌这个词只是形容你的感觉，不是形容我的行为的。”",
+      "totalCount": 611,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=99352&rangeEnd=99397",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=99352&rangeEnd=99397"
+    },
+    {
+      "bookmarkId": "24193279_23_25237-25287",
+      "chapterUid": 23,
+      "range": "25237-25287",
+      "markText": "她所向往的是那种婚姻，它能够帮助她，让她摆脱年幼无知的困境，自觉自愿地接受指导，走上庄严崇高的道路。",
+      "totalCount": 561,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=25237&rangeEnd=25287",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=25237&rangeEnd=25287"
+    },
+    {
+      "bookmarkId": "24193279_23_37523-37549",
+      "chapterUid": 23,
+      "range": "37523-37549",
+      "markText": "我希望嫁的丈夫，是在见解和一切知识上都超过我的人。”",
+      "totalCount": 544,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=37523&rangeEnd=37549",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=37523&rangeEnd=37549"
+    },
+    {
+      "bookmarkId": "24193279_23_37677-37759",
+      "chapterUid": 23,
+      "range": "37677-37759",
+      "markText": "“我不能想象，没有一些主见，我怎么生活，只是我要求对我主张的一切，都有正确的理由。一个贤明的人能帮助我辨别是非，让我知道哪些见解理由最充分，我可以按照它们来生活。”",
+      "totalCount": 544,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=37677&rangeEnd=37759",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=37677&rangeEnd=37759"
+    },
+    {
+      "bookmarkId": "24193279_23_18332-18411",
+      "chapterUid": 23,
+      "range": "18332-18411",
+      "markText": "这个人是能够理解更崇高的内心生活的，跟这样的人才会有精神上的共鸣，不仅如此，他可以用最广博的知识照亮你的原则，他的学识几乎已足以保证，他的任何信念都是正确的！",
+      "totalCount": 504,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=18332&rangeEnd=18411",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=18332&rangeEnd=18411"
+    },
+    {
+      "bookmarkId": "24193279_23_3759-3803",
+      "chapterUid": 23,
+      "range": "3759-3803",
+      "markText": "正常的人总是别人怎样，他也怎样，这样，万一有个疯子跑到了大街上，人们才能识别，及早回避。",
+      "totalCount": 495,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=3759&rangeEnd=3803",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=3759&rangeEnd=3803"
+    },
+    {
+      "bookmarkId": "24193279_30_11310-11376",
+      "chapterUid": 30,
+      "range": "11310-11376",
+      "markText": "利德盖特的火气上升了，他可以容忍妇女的软弱，但不能容忍妇女教训他。水中女仙心灵浅薄也许还有可爱之处，如果她开始说教，那就一无可取了。",
+      "totalCount": 450,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=30&rangeStart=11310&rangeEnd=11376",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=30&rangeStart=11310&rangeEnd=11376"
+    },
+    {
+      "bookmarkId": "24193279_23_2039-2119",
+      "chapterUid": 23,
+      "range": "2039-2119",
+      "markText": "她醉心于偏激和伟大，任何事物，凡是她认为具备这些特点的，都是她奋力追求的目标。她可以为理想献身，但也可能突然改变态度，结果在她原来没有打算献身的地方献出了自己。",
+      "totalCount": 448,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=2039&rangeEnd=2119",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=2039&rangeEnd=2119"
+    },
+    {
+      "bookmarkId": "24193279_23_8199-8254",
+      "chapterUid": 23,
+      "range": "8199-8254",
+      "markText": "这种清教徒式的宽容，带有强烈的优越感，它跟清教徒的迫害几乎不相上下，使这位性情温和的妹妹的娇嫩皮肤有些受不了。",
+      "totalCount": 442,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=8199&rangeEnd=8254",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=8199&rangeEnd=8254"
+    },
+    {
+      "bookmarkId": "24193279_23_30501-30555",
+      "chapterUid": 23,
+      "range": "30501-30555",
+      "markText": "毫无疑问，那些缺少主见的男子，要是运气好，找到了合适的大姨子，便可以在女性的正确指导下，成为社会的有用人才！",
+      "totalCount": 405,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=30501&rangeEnd=30555",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=30501&rangeEnd=30555"
+    },
+    {
+      "bookmarkId": "24193279_22_1708-1800",
+      "chapterUid": 22,
+      "range": "1708-1800",
+      "markText": "在女人中间，有时也会出现一个圣德雷莎，只是她的一生无所建树，她的善良心愿无从实现，她那博爱的心灵，那阵阵的叹息，也只得徒唤奈何，消耗在重重阻力中，而不是倾注在任何可以永垂青史的事业上。",
+      "totalCount": 400,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=22&rangeStart=1708&rangeEnd=1800",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=22&rangeStart=1708&rangeEnd=1800"
+    },
+    {
+      "bookmarkId": "24193279_23_1012-1069",
+      "chapterUid": 23,
+      "range": "1012-1069",
+      "markText": "她同外省那些时髦女郎站在一起，给人的印象，仿佛当今报上的文章中出现了一句摘自《圣经》的名言，或者老一辈诗人的警句。",
+      "totalCount": 391,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=1012&rangeEnd=1069",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=1012&rangeEnd=1069"
+    },
+    {
+      "bookmarkId": "24193279_23_56037-56117",
+      "chapterUid": 23,
+      "range": "56037-56117",
+      "markText": "“这么一个老鳏夫干吗还要结婚？”詹姆士爵士说，“他的一只脚已跨进了坟墓。” “他大概还想把它缩回来吧。”",
+      "totalCount": 391,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=56037&rangeEnd=56117",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=56037&rangeEnd=56117"
+    },
+    {
+      "bookmarkId": "24193279_23_15627-15720",
+      "chapterUid": 23,
+      "range": "15627-15720",
+      "markText": "这种话像昆虫身上掉下来的破翅膀那样无足轻重，只是它和其他零星杂物一起堆在他心里，无意之间吹来一阵风，正好把它吹到了她的身上。",
+      "totalCount": 384,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=15627&rangeEnd=15720",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=15627&rangeEnd=15720"
+    },
+    {
+      "bookmarkId": "24193279_23_30682-30750",
+      "chapterUid": 23,
+      "range": "30682-30750",
+      "markText": "与此同时，她还在心里不断问自己，她是不是把那些可怜的图样看得太重要了，以致为它们沾沾自喜，而这种自我陶醉，实际正是无知和愚蠢的最坏表现。",
+      "totalCount": 375,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=30682&rangeEnd=30750",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=30682&rangeEnd=30750"
+    },
+    {
+      "bookmarkId": "24193279_23_70878-70904",
+      "chapterUid": 23,
+      "range": "70878-70904",
+      "markText": "一个女子婚前享有的支配权，是以她婚后的顺从作代价的。",
+      "totalCount": 364,
+      "appLink": "weread://bestbookmark?bookId=24193279&chapterUid=23&rangeStart=70878&rangeEnd=70904",
+      "webLink": "https://weread.qq.com/web/reader/25a32e10717128ff25a0e0b?chapterUid=23&rangeStart=70878&rangeEnd=70904"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 17,
+    "chapterOffset": 1543,
+    "progress": 4,
+    "updateTime": 1767330064,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

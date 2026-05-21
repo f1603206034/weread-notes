@@ -1,0 +1,630 @@
+{
+  "meta": {
+    "bookId": "3300104586",
+    "title": "在峡江的转弯处：陈行甲人生笔记",
+    "author": "陈行甲",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/81/cpplatform_8al4mxpuzvvbhtnckcc7gc/t6_cpplatform_8al4mxpuzvvbhtnckcc7gc1720420733.jpg",
+    "intro": "《在峡江的转弯处：陈行甲人生笔记》是陈行甲的自传体随笔，从童年岁月写起，写母亲，写爱人；写了从大学毕业到基层工作九年多的生活经历；回顾了作者在巴东任县委书记期间的工作和生活；讲述了作者转场公益几年来的经历和感受。从本书中，作者用鲜活的故事和大量的细节讲述了一个普通人的爱与成长，以及如何在世事变幻中守住内心和实践的知行合一。",
+    "category": "文学-散文杂著",
+    "publisher": "",
+    "publishTime": "2024-07-08 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 930,
+    "newRatingCount": 30242,
+    "newRatingDetail": {
+      "good": 29192,
+      "fair": 860,
+      "poor": 190,
+      "recent": 365,
+      "deepV": 10608,
+      "myRating": "",
+      "title": "神作"
+    },
+    "appLink": "weread://reading?bId=3300104586",
+    "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1",
+    "lastSync": "2026-05-21T11:53:24Z",
+    "readingProgress": "90%",
+    "readingTime": "0分钟",
+    "finishedDate": "2025-01-19",
+    "noteCount": 9,
+    "reviewCount": 2,
+    "bookmarkCount": 0,
+    "contentHash": "4c30c50a0f2fd95851cb30ca24b1ac885dac95cf78825627b21af7ea17cd8936"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=1"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 233,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 3,
+      "title": "写给微信读书的读者朋友",
+      "level": 1,
+      "wordCount": 341,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 4,
+      "title": "重印前言 当我谈写作时我谈些什么",
+      "level": 1,
+      "wordCount": 3151,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 5,
+      "title": "前言 我们那一代人都是草根",
+      "level": 1,
+      "wordCount": 1316,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 6,
+      "title": "序 我的“奇葩”同学陈行甲",
+      "level": 1,
+      "wordCount": 3628,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 7,
+      "title": "第一记 我和我的母亲",
+      "level": 1,
+      "wordCount": 14111,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 8,
+      "title": "第二记 关于我们的事，他们统统猜错",
+      "level": 1,
+      "wordCount": 26684,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 9,
+      "title": "第三记 如果有光，我就能看到你的眼睛",
+      "level": 1,
+      "wordCount": 12648,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 10,
+      "title": "第四记 人生的巴颜喀拉山",
+      "level": 1,
+      "wordCount": 8024,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 11,
+      "title": "第五记 密歇根湖上有一千种飞鸟",
+      "level": 1,
+      "wordCount": 19207,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 12,
+      "title": "第六记 在峡江的转弯处",
+      "level": 1,
+      "wordCount": 30671,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 13,
+      "title": "第七记 你好，我的下半场",
+      "level": 1,
+      "wordCount": 22670,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 14,
+      "title": "后记 50岁，密涅瓦的猫头鹰在黄昏前起飞",
+      "level": 1,
+      "wordCount": 1124,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 15,
+      "title": "跋 父亲的礼物",
+      "level": 1,
+      "wordCount": 1274,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 16,
+      "title": "附录 我所了解的陈行甲",
+      "level": 1,
+      "wordCount": 6742,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300104586&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=30"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 22,
+      "chapterTitle": "第二记 关于我们的事，他们统统猜错",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300104586_22_24511-25206",
+          "range": "24511-25206",
+          "rangeStart": 24511,
+          "rangeEnd": 25206,
+          "markText": "我们也有一些难以忘怀的苦涩。我们俩共同经历的人生至暗时刻是在2012年6月到7月。那是我跨地区调到巴东任县委书记的八个月后，当时工作中面对的混乱局面给了我巨大压力，以县长为代表的一部分本地重要官员表面上支持我的工作，其实在暗中使绊子，招数又阴损又高明，让我这个外来者有苦还难言，他们在州里的大领导后台盘根错节的势力，让他们有恃无恐。从2012年4月起，我开始连续失眠，但是白天的繁重工作必须要硬撑，夜晚睡觉只能靠安眠药维持。忌惮于县委书记的特殊身份，我在县内不敢声张，又怕远在几百公里之外的霞担心，也不敢跟她说。我逐渐变得着急，可是越急情况越是糟糕，关键是那时由于我对精神心理健康的无知让我讳疾忌医，总是自责自己为什么这么不坚强，这么不堪大任，对不起党组织和巴东百姓，于是咬着牙坚持强行硬撑。终于，挨到了2012年6月，我开始晚上吃了安眠药也难以入睡了，白天越发神情恍惚，自己都能感觉到精神越来越难以集中。饭量一天天减少，身体一天天消瘦，自己明显感觉到裤腰在变大，连鞋子都在变大，又不敢上体重秤，怕看那个数字。那一天我眼睁睁地在床上翻来覆去熬到天快亮了，慢慢迷糊了一会儿，我梦见自己被关在一个狭窄的四面像是毛玻璃的房子里，房子狭窄到几乎只能容纳一个人，这时我听见外面传来清晰的敲门的声音，接着是我去世多年的母亲的声音：“甲儿，出来；甲儿听话，出来……”母亲的声音清清楚楚的，喊的是我童年时的乳名。我一下子惊醒，浑身大汗淋漓，躺在床上几乎不能动弹。我摸到枕边的手机，拨通了霞的电话，跟霞说我病了。霞万分着急地问我怎么了，我几乎没有力气回答她，霞说行甲别怕，你现在放下手中的一切事情，马上回家。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1737238434,
+          "createTimeFormatted": "2025-01-19 06:13:54",
+          "chapterUid": 22,
+          "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=22&rangeStart=24511&rangeEnd=25206",
+          "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=22&rangeStart=24511&rangeEnd=25206"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300104586_22_28560-28953",
+          "range": "28560-28953",
+          "rangeStart": 28560,
+          "rangeEnd": 28953,
+          "markText": "2015年2月底的一天晚上，霞给我打电话，开始是问我最近几天的睡眠，又问最近的胃口，接着问最近几天在忙些什么，然后反复地跟着问一些我说到的细节。我听出了霞的欲言又止，就说霞你是不是有什么事要跟我说，霞开始说没有，一会儿又说有。霞一向说话做事果断，这是她生活中极少会出现的吞吞吐吐的状况。我追问到底有什么事要说，霞告诉我她当天下午第二次接到了威胁电话。对方电话里说你是陈书记的爱人吧，我们遇到点麻烦事，我们知道是陈书记要搞我们，我们知道你在哪里上班，你儿子在哪个高中上学，能不能麻烦你请陈书记遇事留一线呢。电话那头语气很客气，但是语义很重。霞说前不久第一次接到类似的威胁电话时她完全没放在心上，这第二次让她紧张起来，她开始担心我会不会有事。霞叮嘱我一定要注意安全，她说行甲我从来没有指望过你飞黄腾达，我只是要求你一定要活着回来。不要担心我和儿子，我和儿子都为你感到骄傲。你千万保重好自己。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1737238309,
+          "createTimeFormatted": "2025-01-19 06:11:49",
+          "chapterUid": 22,
+          "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=22&rangeStart=28560&rangeEnd=28953",
+          "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=22&rangeStart=28560&rangeEnd=28953"
+        }
+      ]
+    },
+    {
+      "chapterUid": 27,
+      "chapterTitle": "第七记 你好，我的下半场",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300104586_27_2581-2740",
+          "range": "2581-2740",
+          "rangeStart": 2581,
+          "rangeEnd": 2740,
+          "markText": "那么我们国家近些年那么多贫困人口的致贫原因是什么呢？根据国家卫健委（当时的卫计委）和扶贫办2016年6月发布的数据，中国贫困人口整体上最大的原因就是因病致贫，这个比例高达42%。在巴东县，根据精准识别贫困户过程中一家一户数出来的数据，这个比例是48.7%。对老百姓来说，大病的灾难性花费，已经是一个广泛而沉重的社会问题",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1737005617,
+          "createTimeFormatted": "2025-01-16 13:33:37",
+          "chapterUid": 27,
+          "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=27&rangeStart=2581&rangeEnd=2740",
+          "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=27&rangeStart=2581&rangeEnd=2740"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300104586_27_2581-2670",
+          "range": "2581-2670",
+          "rangeStart": 2581,
+          "rangeEnd": 2670,
+          "markText": "那么我们国家近些年那么多贫困人口的致贫原因是什么呢？根据国家卫健委（当时的卫计委）和扶贫办2016年6月发布的数据，中国贫困人口整体上最大的原因就是因病致贫，这个比例高达42%。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1737005580,
+          "createTimeFormatted": "2025-01-16 13:33:00",
+          "chapterUid": 27,
+          "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=27&rangeStart=2581&rangeEnd=2670",
+          "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=27&rangeStart=2581&rangeEnd=2670"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300104586_27_1039-1058",
+          "range": "1039-1058",
+          "rangeStart": 1039,
+          "rangeEnd": 1058,
+          "markText": "为众人抱薪者，不可使其英名消逝于风雪。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1734779034,
+          "createTimeFormatted": "2024-12-21 19:03:54",
+          "chapterUid": 27,
+          "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=27&rangeStart=1039&rangeEnd=1058",
+          "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=27&rangeStart=1039&rangeEnd=1058"
+        }
+      ]
+    },
+    {
+      "chapterUid": 26,
+      "chapterTitle": "第六记 在峡江的转弯处",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300104586_26_26058-26419",
+          "range": "26058-26419",
+          "rangeStart": 26058,
+          "rangeEnd": 26419,
+          "markText": "查办这个案子的过程中，我有压力，也有困惑。我收到过不少电话、短信以及传话，意思大概有三类，一是“遇事留一线”，“工程质量问题花点钱再把工程搞好不就完了吗”。二是“其实你住的地方我们知道，不要把这事闹得全县人民都知道吧”。三是办案过程中意外发现的“既然陈行甲想搞死我们，我们也要搞死他，搞不死也要搞臭他”，“我们到省纪委住着去告他”。这三层意思，我都不怕。虽然去年州委王书记在跟我做“落实两个责任”单独谈话时曾表扬我，说我身上充满正能量，当了三年多县委书记，极少接到关于我的举报。但是，我也不会爱惜眼下这身还算白净的羽毛。我不知道你们掌握了什么，我也不敢肯定我的言行没有瑕疵，但是我坚信我有一样东西你们不一定有，那就是“底线”！所以你们去“住到省纪委”告我的时候，可以告诉我一起去，我可以就你们举报我的每一件事情向组织说明。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1734777912,
+          "createTimeFormatted": "2024-12-21 18:45:12",
+          "chapterUid": 26,
+          "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=26&rangeStart=26058&rangeEnd=26419",
+          "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=26&rangeStart=26058&rangeEnd=26419"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300104586_26_8672-8849",
+          "range": "8672-8849",
+          "rangeStart": 8672,
+          "rangeEnd": 8849,
+          "markText": "等到党的十八大后反腐飓风刮到巴东前任县委书记身上时，才被省纪委四室发现，就在换届之前的2011年3月，她居然在离天安门直线距离只有十几分钟车程的北京东二环某小区一口气买了两套房，当时那个小区的房价已是一平方米6.8万元，没有贷款，一次全款付清。他们两口子都是普通公务员，这笔巨款是从哪里来的？用脚趾都想得到。要想富，动干部，这基层的潜规则明摆着是被她用了",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1734775052,
+          "createTimeFormatted": "2024-12-21 17:57:32",
+          "chapterUid": 26,
+          "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=26&rangeStart=8672&rangeEnd=8849",
+          "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=26&rangeStart=8672&rangeEnd=8849"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7Xj3sNMLK",
+          "range": "10476-10478",
+          "chapterName": "",
+          "content": "（961—1023）北宋政治家。字平仲，华州下邽（今陕西渭南北）人。公元994年为参知政事。1004年拜相，时值辽兵来攻，力主抵抗，促真宗亲征。不久被王钦若排挤罢相。1019年再起为相。1020年真宗病，刘皇后预朝政，密奏请以太子监国，事泄罢相，封莱国公。后受丁谓陷害，被贬至雷州（今属广东）。有《寇莱公集》。",
+          "abstract": "寇准",
+          "star": -1,
+          "createTime": 1737238379,
+          "createTimeFormatted": "2025-01-19 06:12:59",
+          "isFinish": false,
+          "chapterUid": 26
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7WBKS90jn",
+          "range": "19138-19142",
+          "chapterName": "",
+          "content": "chánɡ jiānɡ sān xiá\n简称“三峡”。瞿塘峡、巫峡和西陵峡的合称。在长江上游，重庆市的奉节、巫山和湖北省的巴东、秭归、宜昌五县市之间。西起重庆市奉节县白帝城，东至湖北省宜昌市南津关，长193千米（其中狭谷段合长90千米，宽谷段合长103千米）。谷宽250～350米，最狭处仅百米。由地盘上升河流深切而成。两岸悬崖绝壁，高差达500～1000米，水力资源丰富。是世界最大的峡谷之一。沿途名胜古迹有白帝城、巫山十二峰、三游洞等，为国家级风景名胜区。峡谷东口建有葛洲坝水利枢纽工程，三斗坪建有长江三峡水利枢纽工程。",
+          "abstract": "长江三峡",
+          "star": -1,
+          "createTime": 1734778937,
+          "createTimeFormatted": "2024-12-21 19:02:17",
+          "isFinish": false,
+          "chapterUid": 26
+        }
+      ]
+    },
+    {
+      "chapterUid": 21,
+      "chapterTitle": "第一记 我和我的母亲",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300104586_21_9844-9936",
+          "range": "9844-9936",
+          "rangeStart": 9844,
+          "rangeEnd": 9936,
+          "markText": "少不更事的我曾经问过母亲，他们总说借，总不还，为什么还要借给他们？还记得当时母亲拉下脸呵斥我：人不到活不下去的地步，怎么会借盐吃？我们不借给他们，他们就没地方借了，以后不准你说这种话！",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1734678985,
+          "createTimeFormatted": "2024-12-20 15:16:25",
+          "chapterUid": 21,
+          "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=21&rangeStart=9844&rangeEnd=9936",
+          "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=21&rangeStart=9844&rangeEnd=9936"
+        }
+      ]
+    },
+    {
+      "chapterUid": 29,
+      "chapterTitle": "跋 父亲的礼物",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300104586_29_1823-1948",
+          "range": "1823-1948",
+          "rangeStart": 1823,
+          "rangeEnd": 1948,
+          "markText": "我们不该忘记自己走过的路，同情过的人，呼唤过的正义，渴求过的尊重，是这些东西构成了我们深植于生活世界的共通意义的根基。是这根基，让我们即便在日后形形色色的世界里体会了失落，品尝了诱惑，经历了幻灭，领受了嘲讽，也不会轻易洗去自己那层名叫“共情”的底色。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1723094069,
+          "createTimeFormatted": "2024-08-08 13:14:29",
+          "chapterUid": 29,
+          "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=29&rangeStart=1823&rangeEnd=1948",
+          "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=29&rangeStart=1823&rangeEnd=1948"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300104586_25_3821-3878",
+      "chapterUid": 25,
+      "range": "3821-3878",
+      "markText": "如果我们在对我们不那么重要的方面让让步，然后力争在对自己的人生分量很重的选择支上胜出，我们的人生是否会精彩许多呢？",
+      "totalCount": 11355,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=25&rangeStart=3821&rangeEnd=3878",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=25&rangeStart=3821&rangeEnd=3878"
+    },
+    {
+      "bookmarkId": "3300104586_22_30629-30672",
+      "chapterUid": 22,
+      "range": "30629-30672",
+      "markText": "我说完后，霞沉吟了好久，说我这过去的一年，还有过去的十年，都只做了一件事情，就是爱你。",
+      "totalCount": 11100,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=22&rangeStart=30629&rangeEnd=30672",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=22&rangeStart=30629&rangeEnd=30672"
+    },
+    {
+      "bookmarkId": "3300104586_18_3691-3791",
+      "chapterUid": 18,
+      "range": "3691-3791",
+      "markText": "这本书的主人在他的每个人生阶段都充满不自信、惶恐和挣扎，同时也从未放弃爱和希望。无数次地在不自信中寻找爱和希望，在找到爱和希望后又会被另一个不自信包围。周而复始，循环向前。我相信这是每个人的人生缩影。",
+      "totalCount": 10854,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=18&rangeStart=3691&rangeEnd=3791",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=18&rangeStart=3691&rangeEnd=3791"
+    },
+    {
+      "bookmarkId": "3300104586_30_8392-8439",
+      "chapterUid": 30,
+      "range": "8392-8439",
+      "markText": "我也会做好自己的工作，过好自己的生活，我还会在肖家坪种很多的花，等待您和弟妹有时间来小住几天。",
+      "totalCount": 10080,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=30&rangeStart=8392&rangeEnd=8439",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=30&rangeStart=8392&rangeEnd=8439"
+    },
+    {
+      "bookmarkId": "3300104586_22_33441-33538",
+      "chapterUid": 22,
+      "range": "33441-33538",
+      "markText": "是的，我和霞的故事，就是传说，一个我在童年的山谷中不曾梦到过的传说，一个我在少年的求学路上不曾想到过的传说，一个我在青年的迷惘中不曾奢望过的传说，一个山村穷小子被命运眷顾将童话恩赐为现实的传说。",
+      "totalCount": 9660,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=22&rangeStart=33441&rangeEnd=33538",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=22&rangeStart=33441&rangeEnd=33538"
+    },
+    {
+      "bookmarkId": "3300104586_21_9844-9936",
+      "chapterUid": 21,
+      "range": "9844-9936",
+      "markText": "少不更事的我曾经问过母亲，他们总说借，总不还，为什么还要借给他们？还记得当时母亲拉下脸呵斥我：人不到活不下去的地步，怎么会借盐吃？我们不借给他们，他们就没地方借了，以后不准你说这种话！",
+      "totalCount": 9367,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=21&rangeStart=9844&rangeEnd=9936",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=21&rangeStart=9844&rangeEnd=9936"
+    },
+    {
+      "bookmarkId": "3300104586_21_10963-11018",
+      "chapterUid": 21,
+      "range": "10963-11018",
+      "markText": "后来，我也慢慢地学会了做这些事情，把门外的阶坎扫干净，给路过歇脚的人递水，不用母亲吩咐，我只要看到了就会去做。",
+      "totalCount": 8910,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=21&rangeStart=10963&rangeEnd=11018",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=21&rangeStart=10963&rangeEnd=11018"
+    },
+    {
+      "bookmarkId": "3300104586_30_7110-7179",
+      "chapterUid": 30,
+      "range": "7110-7179",
+      "markText": "我想说的是，人活到最后，要对天下人说一声谢谢。曾经那么为难他的人，作为一个人类的个体，不管怎样，都丰富了他对人类的认知，一切过往都是财富。",
+      "totalCount": 8857,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=30&rangeStart=7110&rangeEnd=7179",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=30&rangeStart=7110&rangeEnd=7179"
+    },
+    {
+      "bookmarkId": "3300104586_21_7021-7087",
+      "chapterUid": 21,
+      "range": "7021-7087",
+      "markText": "在我记忆中，母亲跟我说我是她的贵人，多数时间就是在小时候。慢慢地，我也开始相信，我就是那个通过算命先生的口让母亲留在了人世间的贵人。",
+      "totalCount": 8784,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=21&rangeStart=7021&rangeEnd=7087",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=21&rangeStart=7021&rangeEnd=7087"
+    },
+    {
+      "bookmarkId": "3300104586_26_29280-29352",
+      "chapterUid": 26,
+      "range": "29280-29352",
+      "markText": "做一个有信仰的人，我感觉活得才有力量；做一个干净的人，我感觉活得很轻松；做一个有爱的人，我感觉活得很幸福；做一个心存敬畏的人，我感觉活得才踏实。",
+      "totalCount": 8704,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=26&rangeStart=29280&rangeEnd=29352",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=26&rangeStart=29280&rangeEnd=29352"
+    },
+    {
+      "bookmarkId": "3300104586_24_7908-7961",
+      "chapterUid": 24,
+      "range": "7908-7961",
+      "markText": "生活有其自身的逻辑，那些不经意间播下的种子，那些没有企图的浇灌，说不准在什么时候会有一阵春风拂过就出土了。",
+      "totalCount": 8052,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=24&rangeStart=7908&rangeEnd=7961",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=24&rangeStart=7908&rangeEnd=7961"
+    },
+    {
+      "bookmarkId": "3300104586_28_1913-1924",
+      "chapterUid": 28,
+      "range": "1913-1924",
+      "markText": "我与我周旋久，宁做我。",
+      "totalCount": 7648,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=28&rangeStart=1913&rangeEnd=1924",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=28&rangeStart=1913&rangeEnd=1924"
+    },
+    {
+      "bookmarkId": "3300104586_22_12136-12203",
+      "chapterUid": 22,
+      "range": "12136-12203",
+      "markText": "霞热烈地回应了我，霞在信中流着泪答应了我的求爱，霞在信中拥抱了我。我们的第一次拥抱，是隔空在信中完成的。我和霞的爱情就这么正式开始了。",
+      "totalCount": 7578,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=22&rangeStart=12136&rangeEnd=12203",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=22&rangeStart=12136&rangeEnd=12203"
+    },
+    {
+      "bookmarkId": "3300104586_22_12887-12939",
+      "chapterUid": 22,
+      "range": "12887-12939",
+      "markText": "那时我青春年少，矫情起来觉得看到的诗都像是为我写的，听到的歌都像是唱给我的，淋到的雨都像是专门为我下的。",
+      "totalCount": 7518,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=22&rangeStart=12887&rangeEnd=12939",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=22&rangeStart=12887&rangeEnd=12939"
+    },
+    {
+      "bookmarkId": "3300104586_22_18472-18554",
+      "chapterUid": 22,
+      "range": "18472-18554",
+      "markText": "后来霞告诉我，那天她是在街头用磁卡电话联系的我，因为她怕在办公室打电话被人听见。放下电话她骑着自行车狂奔回单位，一路上泪流满面，她觉得自己做了这一生中最重要的决定。",
+      "totalCount": 6798,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=22&rangeStart=18472&rangeEnd=18554",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=22&rangeStart=18472&rangeEnd=18554"
+    },
+    {
+      "bookmarkId": "3300104586_23_13570-13629",
+      "chapterUid": 23,
+      "range": "13570-13629",
+      "markText": "很多年后想起“陈叔叔一定会来的”这句话，还是会眼角湿润，向琼一家在贫苦岁月中对我的期待和念想，是我人生中莫大的正反馈。",
+      "totalCount": 6408,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=23&rangeStart=13570&rangeEnd=13629",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=23&rangeStart=13570&rangeEnd=13629"
+    },
+    {
+      "bookmarkId": "3300104586_24_1039-1092",
+      "chapterUid": 24,
+      "range": "1039-1092",
+      "markText": "生活有其自身的逻辑，那些不经意间播下的种子，那些没有企图的浇灌，说不准在什么时候会有一阵春风拂过就出土了。",
+      "totalCount": 6391,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=24&rangeStart=1039&rangeEnd=1092",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=24&rangeStart=1039&rangeEnd=1092"
+    },
+    {
+      "bookmarkId": "3300104586_27_15115-15156",
+      "chapterUid": 27,
+      "range": "15115-15156",
+      "markText": "噩耗是在2019年5月初传来的，朋友告诉我，小乐在4月17日走了，是在学校自杀的。",
+      "totalCount": 6273,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=27&rangeStart=15115&rangeEnd=15156",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=27&rangeStart=15115&rangeEnd=15156"
+    },
+    {
+      "bookmarkId": "3300104586_21_11386-11453",
+      "chapterUid": 21,
+      "range": "11386-11453",
+      "markText": "母亲的悲悯心似乎与生俱来，我长大后去到一些名山大川，看到寺庙里供着的菩萨的样子，总会想到母亲的模样。特别是母亲去世以后，我更是这样想。",
+      "totalCount": 6222,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=21&rangeStart=11386&rangeEnd=11453",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=21&rangeStart=11386&rangeEnd=11453"
+    },
+    {
+      "bookmarkId": "3300104586_28_1174-1234",
+      "chapterUid": 28,
+      "range": "1174-1234",
+      "markText": "当你不再和自己对话，不再不断地理解自己，不断地和自己周旋的时候，你就变成了一个被时间流驱使的人，真正意义上的你就没有了。",
+      "totalCount": 6174,
+      "appLink": "weread://bestbookmark?bookId=3300104586&chapterUid=28&rangeStart=1174&rangeEnd=1234",
+      "webLink": "https://weread.qq.com/web/reader/bca326a0813ab8f5ag016fc1?chapterUid=28&rangeStart=1174&rangeEnd=1234"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 22,
+    "chapterOffset": 22639,
+    "progress": 90,
+    "updateTime": 1741573133,
+    "recordReadingTime": 0,
+    "finishTime": 1737238476
+  }
+}

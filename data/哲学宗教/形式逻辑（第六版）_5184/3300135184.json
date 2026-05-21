@@ -1,0 +1,936 @@
+{
+  "meta": {
+    "bookId": "3300135184",
+    "title": "形式逻辑（第六版）",
+    "author": "华东师范大学哲学系逻辑学教研室",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/12/cpplatform_6gvlulisj8wahcy8bf5fjl/t6_cpplatform_6gvlulisj8wahcy8bf5fjl1740476340.jpg",
+    "intro": "本书原是上海市高等教育自学考试形式逻辑学科的专用教材，后也用于普通高校形式逻辑课程的教学。全书按形式逻辑的对象和意义、概念、命题及其推理、归纳推理、类比推理与假说、形式逻辑的基本规律、论证等内容分章，讲述简明精要，易于理解，每章还配有练习题和解题思路，既便于教师授课，更便于学生学习，是形式逻辑的经典教材。本次修订使个别概念的表述更加精当，修正了个别文字错误，并对版式进行了重新设计，使重点更加突出，更便于读者学习使用。",
+    "category": "哲学宗教-逻辑学",
+    "publisher": "华东师范大学出版社",
+    "publishTime": "2023-02-20 00:00:00",
+    "isbn": "9787576034752",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 17,
+    "newRatingDetail": {
+      "good": 12,
+      "fair": 2,
+      "poor": 3,
+      "recent": 0,
+      "deepV": 10,
+      "myRating": "",
+      "title": "评分不足"
+    },
+    "appLink": "weread://reading?bId=3300135184",
+    "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437",
+    "lastSync": "2026-05-21T11:52:31Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 136,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "第六版说明",
+      "level": 1,
+      "wordCount": 1805,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第五版说明",
+      "level": 1,
+      "wordCount": 442,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第四版说明",
+      "level": 1,
+      "wordCount": 287,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第三版说明",
+      "level": 1,
+      "wordCount": 452,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二版说明",
+      "level": 1,
+      "wordCount": 346,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第一章 形式逻辑的对象和意义",
+      "level": 1,
+      "wordCount": 512,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第一节 形式逻辑的对象和性质",
+      "level": 2,
+      "wordCount": 5838,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第二节 学习形式逻辑的意义和方法",
+      "level": 2,
+      "wordCount": 2280,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第二章 概念",
+      "level": 1,
+      "wordCount": 2397,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 概念的概述",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第二节 概念的内涵和外延",
+      "level": 2,
+      "wordCount": 1580,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第三节 概念的种类",
+      "level": 2,
+      "wordCount": 1372,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第四节 概念外延间的关系",
+      "level": 2,
+      "wordCount": 4803,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第五节 概念的限制和概括",
+      "level": 2,
+      "wordCount": 2237,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第六节 定义",
+      "level": 2,
+      "wordCount": 4079,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第七节 划分",
+      "level": 2,
+      "wordCount": 7793,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第三章 简单命题及其推理（上）",
+      "level": 1,
+      "wordCount": 5451,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 命题和推理的概述",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第二节 性质命题",
+      "level": 2,
+      "wordCount": 7147,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第三节 性质命题的直接推理",
+      "level": 2,
+      "wordCount": 7730,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第四章 简单命题及其推理（下）",
+      "level": 1,
+      "wordCount": 9849,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 三段论",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第二节 关系命题及其推理",
+      "level": 2,
+      "wordCount": 8892,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第五章 复合命题及其推理（上）",
+      "level": 1,
+      "wordCount": 2151,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 联言命题及其推理",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第二节 选言命题及其推理",
+      "level": 2,
+      "wordCount": 2193,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第三节 假言命题及其推理",
+      "level": 2,
+      "wordCount": 7394,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第六章 复合命题及其推理（下）",
+      "level": 1,
+      "wordCount": 3342,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 负命题及其推理",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第二节 二难推理",
+      "level": 2,
+      "wordCount": 1934,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第三节 复合命题的判定方法——真值表方法",
+      "level": 2,
+      "wordCount": 5898,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第七章 模态命题及其推理",
+      "level": 1,
+      "wordCount": 1638,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 模态命题",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第二节 模态推理",
+      "level": 2,
+      "wordCount": 2238,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "第三节 规范命题",
+      "level": 2,
+      "wordCount": 2371,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第四节 规范推理",
+      "level": 2,
+      "wordCount": 2376,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第八章 归纳推理",
+      "level": 1,
+      "wordCount": 2051,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 归纳推理的概述",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第二节 观察、实验和一些整理经验材料的方法",
+      "level": 2,
+      "wordCount": 2466,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第三节 完全归纳推理和不完全归纳推理",
+      "level": 2,
+      "wordCount": 2792,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "第四节 探求因果联系的逻辑方法",
+      "level": 2,
+      "wordCount": 7558,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "第九章 类比推理与假说",
+      "level": 1,
+      "wordCount": 1883,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 类比推理",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "第二节 假说",
+      "level": 2,
+      "wordCount": 4697,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "第十章 形式逻辑的基本规律",
+      "level": 1,
+      "wordCount": 871,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 形式逻辑基本规律概述",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "第二节 同一律",
+      "level": 2,
+      "wordCount": 2591,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "第三节 矛盾律",
+      "level": 2,
+      "wordCount": 1877,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "第四节 排中律",
+      "level": 2,
+      "wordCount": 5665,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "第十一章 论证",
+      "level": 1,
+      "wordCount": 3146,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 论证的概述",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "第二节 论证的逻辑原则——充足理由原则",
+      "level": 2,
+      "wordCount": 1593,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "第三节 论证的种类",
+      "level": 2,
+      "wordCount": 3850,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "第四节 论证的规则",
+      "level": 2,
+      "wordCount": 3361,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "第五节 反驳",
+      "level": 2,
+      "wordCount": 1953,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "第六节 谬误",
+      "level": 2,
+      "wordCount": 7951,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135184&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=48"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 9,
+      "chapterTitle": "第一节 形式逻辑的对象和性质",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300135184_9_487-565",
+          "range": "487-565",
+          "rangeStart": 487,
+          "rangeEnd": 565,
+          "markText": "形式逻辑有传统与现代（即数理逻辑）之分。我们这里所说的形式逻辑主要指前者，即指一门以系统介绍传统逻辑的基本知识为主的逻辑科学，也就是现在人们常说的普通逻辑。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1740483497,
+          "createTimeFormatted": "2025-02-25 19:38:17",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=9&rangeStart=487&rangeEnd=565",
+          "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=9&rangeStart=487&rangeEnd=565"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300135184_36_4663-4720",
+      "chapterUid": 36,
+      "range": "4663-4720",
+      "markText": "求同求异并用法是这样一种方法，考察两组事例，一组是由被研究现象出现的若干场合组成的，称之为正事例组；",
+      "totalCount": 1238,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=36&rangeStart=4663&rangeEnd=4720",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=36&rangeStart=4663&rangeEnd=4720"
+    },
+    {
+      "bookmarkId": "3300135184_24_821-877",
+      "chapterUid": 24,
+      "range": "821-877",
+      "markText": "如前两例中，“一个物体是固体”、“一个物体是液体”、“一个物体是气体”这三个命题就是前一个选言命题的三个选言肢；",
+      "totalCount": 1236,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=24&rangeStart=821&rangeEnd=877",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=24&rangeStart=821&rangeEnd=877"
+    },
+    {
+      "bookmarkId": "3300135184_40_806-856",
+      "chapterUid": 40,
+      "range": "806-856",
+      "markText": "任一判断或命题都有其确定的判断或命题内容，是这个判断或命题就是这个判断或命题，而不是别的判断或命题。",
+      "totalCount": 1233,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=40&rangeStart=806&rangeEnd=856",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=40&rangeStart=806&rangeEnd=856"
+    },
+    {
+      "bookmarkId": "3300135184_42_1796-1836",
+      "chapterUid": 42,
+      "range": "1796-1836",
+      "markText": "因为在一定的论域内，真理总是属于两个互相矛盾的思想中的一个，而不可能属于第三者。",
+      "totalCount": 1223,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=42&rangeStart=1796&rangeEnd=1836",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=42&rangeStart=1796&rangeEnd=1836"
+    },
+    {
+      "bookmarkId": "3300135184_12_1777-1832",
+      "chapterUid": 12,
+      "range": "1777-1832",
+      "markText": "因此我们说，“商品”概念的内涵要比“劳动产品”概念的内涵多，而“劳动产品”概念的内涵要比“商品”概念的内涵少。",
+      "totalCount": 1219,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=12&rangeStart=1777&rangeEnd=1832",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=12&rangeStart=1777&rangeEnd=1832"
+    },
+    {
+      "bookmarkId": "3300135184_20_477-498",
+      "chapterUid": 20,
+      "range": "477-498",
+      "markText": "比如：①迷信不是科学，所以，科学不是迷信；",
+      "totalCount": 1205,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=20&rangeStart=477&rangeEnd=498",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=20&rangeStart=477&rangeEnd=498"
+    },
+    {
+      "bookmarkId": "3300135184_16_4938-4980",
+      "chapterUid": 16,
+      "range": "4938-4980",
+      "markText": "若定义项直接或间接包括被定义项，则定义项本身就不明确，因而被定义项也就无法得到明确。",
+      "totalCount": 1188,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=16&rangeStart=4938&rangeEnd=4980",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=16&rangeStart=4938&rangeEnd=4980"
+    },
+    {
+      "bookmarkId": "3300135184_16_5608-5669",
+      "chapterUid": 16,
+      "range": "5608-5669",
+      "markText": "给概念下定义就是为了要明确揭示概念的内涵，因此，必须正面揭示它是什么，它具有什么性质，因而作为定义的命题必须是肯定的命题。",
+      "totalCount": 1184,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=16&rangeStart=5608&rangeEnd=5669",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=16&rangeStart=5608&rangeEnd=5669"
+    },
+    {
+      "bookmarkId": "3300135184_36_6268-6339",
+      "chapterUid": 36,
+      "range": "6268-6339",
+      "markText": "共变法是指：在其他条件不变的情况下，如果一个现象发生变化，另一个现象就随之发生变化，那么，前一现象就是后一现象的原因或部分原因。",
+      "totalCount": 1182,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=36&rangeStart=6268&rangeEnd=6339",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=36&rangeStart=6268&rangeEnd=6339"
+    },
+    {
+      "bookmarkId": "3300135184_45_3464-3611",
+      "chapterUid": 45,
+      "range": "3464-3611",
+      "markText": "必须指出的是，由于归纳论证所使用的推理形式（即论证中的论证方式）是归纳推理（推广一点说，也可包括类比推理），而归纳推理一般说来是一种或然性推理，因此，在严格的论证中，用不完全归纳推理建构的论证一般只能起辅助作用，而不宜独立地加以使用，即应当尽可能同演绎论证相结合，以保证其论证的可靠性与说服力。",
+      "totalCount": 1176,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=45&rangeStart=3464&rangeEnd=3611",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=45&rangeStart=3464&rangeEnd=3611"
+    },
+    {
+      "bookmarkId": "3300135184_48_5570-5611",
+      "chapterUid": 48,
+      "range": "5570-5611",
+      "markText": "这是指在作出归纳概括的过程中抽象不合理，如抽样片面、样本不具代表性等而产生的谬误。",
+      "totalCount": 1161,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=48&rangeStart=5570&rangeEnd=5611",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=48&rangeStart=5570&rangeEnd=5611"
+    },
+    {
+      "bookmarkId": "3300135184_11_3029-3078",
+      "chapterUid": 11,
+      "range": "3029-3078",
+      "markText": "有时，即使某人对某概念是明确的，但是，由于运用语词不当，表达出来的思想仍然不明确，别人也无法理解。",
+      "totalCount": 1147,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=11&rangeStart=3029&rangeEnd=3078",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=11&rangeStart=3029&rangeEnd=3078"
+    },
+    {
+      "bookmarkId": "3300135184_43_3706-3764",
+      "chapterUid": 43,
+      "range": "3706-3764",
+      "markText": "比如前面对“华东师范大学是一所培养人民教师的学校”这一论题的论证过程中，我们就是采用了一个直言三段论作为论证方式的。",
+      "totalCount": 1145,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=43&rangeStart=3706&rangeEnd=3764",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=43&rangeStart=3706&rangeEnd=3764"
+    },
+    {
+      "bookmarkId": "3300135184_28_702-756",
+      "chapterUid": 28,
+      "range": "702-756",
+      "markText": "两个复合命题是等值的，当且仅当在任何相同的情况下（包含相同的肢命题并且这些肢命题同真同假），它们都同真同假。",
+      "totalCount": 1120,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=28&rangeStart=702&rangeEnd=756",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=28&rangeStart=702&rangeEnd=756"
+    },
+    {
+      "bookmarkId": "3300135184_20_1082-1121",
+      "chapterUid": 20,
+      "range": "1082-1121",
+      "markText": "例如把“所有新生事物都是有生命力的”改变成“所有新生事物都不是没有生命力的”。",
+      "totalCount": 1118,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=20&rangeStart=1082&rangeEnd=1121",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=20&rangeStart=1082&rangeEnd=1121"
+    },
+    {
+      "bookmarkId": "3300135184_41_705-750",
+      "chapterUid": 41,
+      "range": "705-750",
+      "markText": "因此，“并非（A而且非A）”是说：A和非A这两个命题不能同真，亦即其中必有一个命题是假的。",
+      "totalCount": 1078,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=41&rangeStart=705&rangeEnd=750",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=41&rangeStart=705&rangeEnd=750"
+    },
+    {
+      "bookmarkId": "3300135184_34_2921-2960",
+      "chapterUid": 34,
+      "range": "2921-2960",
+      "markText": "其次，要就对象的实质方面进行比较，不要因某种表面上的相同，而忽略实质上的差异；",
+      "totalCount": 1070,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=34&rangeStart=2921&rangeEnd=2960",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=34&rangeStart=2921&rangeEnd=2960"
+    },
+    {
+      "bookmarkId": "3300135184_48_4144-4201",
+      "chapterUid": 48,
+      "range": "4144-4201",
+      "markText": "这是指在论证中对论题不作具体的论证，而仅靠不加分析地摘引权威人士的言论，以之作为论证论题正确的充分论据的一种谬误。",
+      "totalCount": 1070,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=48&rangeStart=4144&rangeEnd=4201",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=48&rangeStart=4144&rangeEnd=4201"
+    },
+    {
+      "bookmarkId": "3300135184_11_2948-3007",
+      "chapterUid": 11,
+      "range": "2948-3007",
+      "markText": "因为，概念反映客观事物的特性和本质，如果不认识事物，不了解事物的特性和本质，当然也就谈不上形成有关该事物的明确概念了。",
+      "totalCount": 1054,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=11&rangeStart=2948&rangeEnd=3007",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=11&rangeStart=2948&rangeEnd=3007"
+    },
+    {
+      "bookmarkId": "3300135184_35_4714-4747",
+      "chapterUid": 35,
+      "range": "4714-4747",
+      "markText": "即使到现在，我们也还可以在一定场合里用这种方法来为工农业生产服务。",
+      "totalCount": 1054,
+      "appLink": "weread://bestbookmark?bookId=3300135184&chapterUid=35&rangeStart=4714&rangeEnd=4747",
+      "webLink": "https://weread.qq.com/web/reader/38e32ec0813ab9b4eg014437?chapterUid=35&rangeStart=4714&rangeEnd=4747"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

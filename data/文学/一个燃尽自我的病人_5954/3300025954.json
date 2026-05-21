@@ -1,0 +1,535 @@
+{
+  "meta": {
+    "bookId": "3300025954",
+    "title": "一个燃尽自我的病人",
+    "author": "格雷厄姆·格林 ",
+    "translator": "傅惟慈",
+    "cover": "https://cdn.weread.qq.com/weread/cover/98/cpPlatform_nd2oF6mx12fYAj22FkmEnQ/t6_cpPlatform_nd2oF6mx12fYAj22FkmEnQ.jpg",
+    "intro": "本书讲述的，不是一个遥远大陆的虚构故事，而是你我身边的真实日常。\r\n    我们都或多或少像主人公这样，歇斯底里地燃尽自我，然后不可抑制地陷入虚空。\r\n\r\n    建筑师奎里得了一种疾病——一种燃尽了生活热情的病。\r\n他肢体健康健全，精神残缺不全；一边疲惫地活着，一边无助地寻找出路。\r\n    他抛下城市的浮华与喧嚣，将自我放逐到非洲密林之中。\r\n面对破败和贫穷，他久违地感受到幸福与富足。\r\n    他以为自己即将痊愈，却没想到一切只是风暴来临前的先兆。",
+    "category": "文学-外国文学",
+    "publisher": "文汇出版社",
+    "publishTime": "2022-07-01 00:00:00",
+    "isbn": "9787549637867",
+    "wordCount": 0,
+    "newRating": 809,
+    "newRatingCount": 584,
+    "newRatingDetail": {
+      "good": 463,
+      "fair": 110,
+      "poor": 11,
+      "recent": 12,
+      "deepV": 147,
+      "myRating": "",
+      "title": "脍炙人口"
+    },
+    "appLink": "weread://reading?bId=3300025954",
+    "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412",
+    "lastSync": "2026-05-21T11:48:18Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=1"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 151,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 3,
+      "title": "致米歇尔·雷沙特医生的信",
+      "level": 1,
+      "wordCount": 890,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 4,
+      "title": "第一部",
+      "level": 1,
+      "wordCount": 5964,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 5,
+      "title": "第二章",
+      "level": 2,
+      "wordCount": 5074,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 6,
+      "title": "第二部",
+      "level": 1,
+      "wordCount": 7578,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 7,
+      "title": "第二章",
+      "level": 2,
+      "wordCount": 5538,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 8,
+      "title": "第三章",
+      "level": 2,
+      "wordCount": 7382,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 9,
+      "title": "第四章",
+      "level": 2,
+      "wordCount": 4902,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 10,
+      "title": "第三部",
+      "level": 1,
+      "wordCount": 6397,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 11,
+      "title": "第二章",
+      "level": 2,
+      "wordCount": 5688,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 12,
+      "title": "第四部",
+      "level": 1,
+      "wordCount": 10807,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 13,
+      "title": "第二章",
+      "level": 2,
+      "wordCount": 5088,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 14,
+      "title": "第三章",
+      "level": 2,
+      "wordCount": 13084,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 15,
+      "title": "第五部",
+      "level": 1,
+      "wordCount": 4945,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 16,
+      "title": "第二章",
+      "level": 2,
+      "wordCount": 6871,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 17,
+      "title": "第六部",
+      "level": 1,
+      "wordCount": 16364,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 18,
+      "title": "第二章",
+      "level": 2,
+      "wordCount": 9564,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 19,
+      "title": "第三章",
+      "level": 2,
+      "wordCount": 19894,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025954&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=20"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "第二章",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300025954_6_4398-4437",
+          "range": "4398-4437",
+          "rangeStart": 4398,
+          "rangeEnd": 4437,
+          "markText": "“一个人要是没有别的东西可以向人夸耀，”院长说，“就只有炫耀自己的精神苦闷了。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1760671052,
+          "createTimeFormatted": "2025-10-17 11:17:32",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=6&rangeStart=4398&rangeEnd=4437",
+          "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=6&rangeStart=4398&rangeEnd=4437"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300025954_5_495-510",
+      "chapterUid": 5,
+      "range": "495-510",
+      "markText": "我感到不舒适，所以我是存在的。",
+      "totalCount": 1134,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=5&rangeStart=495&rangeEnd=510",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=5&rangeStart=495&rangeEnd=510"
+    },
+    {
+      "bookmarkId": "3300025954_4_1980-2030",
+      "chapterUid": 4,
+      "range": "1980-2030",
+      "markText": "我还没死，但也不算是活的了。 ——但丁",
+      "totalCount": 1034,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=4&rangeStart=1980&rangeEnd=2030",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=4&rangeStart=1980&rangeEnd=2030"
+    },
+    {
+      "bookmarkId": "3300025954_6_4398-4437",
+      "chapterUid": 6,
+      "range": "4398-4437",
+      "markText": "“一个人要是没有别的东西可以向人夸耀，”院长说，“就只有炫耀自己的精神苦闷了。",
+      "totalCount": 616,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=6&rangeStart=4398&rangeEnd=4437",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=6&rangeStart=4398&rangeEnd=4437"
+    },
+    {
+      "bookmarkId": "3300025954_5_7422-7446",
+      "chapterUid": 5,
+      "range": "7422-7446",
+      "markText": "痛苦是一种只要你需要，随时就可以提供给你的东西。",
+      "totalCount": 384,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=5&rangeStart=7422&rangeEnd=7446",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=5&rangeStart=7422&rangeEnd=7446"
+    },
+    {
+      "bookmarkId": "3300025954_6_5136-5173",
+      "chapterUid": 6,
+      "range": "5136-5173",
+      "markText": "“人们对于《圣经》上的东西，只是挑选他们愿意相信的才记住，真是太遗憾了。”",
+      "totalCount": 330,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=6&rangeStart=5136&rangeEnd=5173",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=6&rangeStart=5136&rangeEnd=5173"
+    },
+    {
+      "bookmarkId": "3300025954_6_7089-7135",
+      "chapterUid": 6,
+      "range": "7089-7135",
+      "markText": "一个老处女，没有独自的精神世界，一心要做好事，要替别人服务。世界上为这种人安排的地方并不多。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=6&rangeStart=7089&rangeEnd=7135",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=6&rangeStart=7089&rangeEnd=7135"
+    },
+    {
+      "bookmarkId": "3300025954_7_3955-3964",
+      "chapterUid": 7,
+      "range": "3955-3964",
+      "markText": "我永远也不往回走了",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=7&rangeStart=3955&rangeEnd=3964",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=7&rangeStart=3955&rangeEnd=3964"
+    },
+    {
+      "bookmarkId": "3300025954_5_6472-6509",
+      "chapterUid": 5,
+      "range": "6472-6509",
+      "markText": "他被遗弃在自己的天地内。在他的领域，笑声好像是敌人的语言，他是无法听懂的。",
+      "totalCount": 264,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=5&rangeStart=6472&rangeEnd=6509",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=5&rangeStart=6472&rangeEnd=6509"
+    },
+    {
+      "bookmarkId": "3300025954_5_2055-2124",
+      "chapterUid": 5,
+      "range": "2055-2124",
+      "markText": "旅客即使把衣服全部脱光也热得无法入睡，而且他无论如何也拿不定主意，是应该开着门窗通进一点儿气流呢，还是应该把门窗关紧，不叫外边的热气进来。",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=5&rangeStart=2055&rangeEnd=2124",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=5&rangeStart=2055&rangeEnd=2124"
+    },
+    {
+      "bookmarkId": "3300025954_5_2868-2879",
+      "chapterUid": 5,
+      "range": "2868-2879",
+      "markText": "蚊子并不怜悯瘦人。’”",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=5&rangeStart=2868&rangeEnd=2879",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=5&rangeStart=2868&rangeEnd=2879"
+    },
+    {
+      "bookmarkId": "3300025954_5_4439-4482",
+      "chapterUid": 5,
+      "range": "4439-4482",
+      "markText": "这位神父有着嗜杀癖，不论看到什么野生动物都要开枪，倒仿佛只有人类才有权利不遭横杀似的。",
+      "totalCount": 247,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=5&rangeStart=4439&rangeEnd=4482",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=5&rangeStart=4439&rangeEnd=4482"
+    },
+    {
+      "bookmarkId": "3300025954_18_24104-24139",
+      "chapterUid": 18,
+      "range": "24104-24139",
+      "markText": "他想：国王死了，国王万岁。可能他在这里又找到了一个国度，也找到了生活。",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=18&rangeStart=24104&rangeEnd=24139",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=18&rangeStart=24104&rangeEnd=24139"
+    },
+    {
+      "bookmarkId": "3300025954_15_13440-13504",
+      "chapterUid": 15,
+      "range": "13440-13504",
+      "markText": "我认识到自己根本没有爱情只不过是个时间问题。我从来没有真正爱过人。我只是接受别人的爱。从这以后我对生活就开始感到无法忍受的厌腻。",
+      "totalCount": 238,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=15&rangeStart=13440&rangeEnd=13504",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=15&rangeStart=13440&rangeEnd=13504"
+    },
+    {
+      "bookmarkId": "3300025954_15_19710-19749",
+      "chapterUid": 15,
+      "range": "19710-19749",
+      "markText": "在人的一生中常常有一段时间，只要他有一点儿演戏的才能，就会连他自己也欺骗过去。",
+      "totalCount": 231,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=15&rangeStart=19710&rangeEnd=19749",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=15&rangeStart=19710&rangeEnd=19749"
+    },
+    {
+      "bookmarkId": "3300025954_8_2170-2196",
+      "chapterUid": 8,
+      "range": "2170-2196",
+      "markText": "莱克尔说他相信爱情就像有些人说他们相信神话故事似的。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=8&rangeStart=2170&rangeEnd=2196",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=8&rangeStart=2170&rangeEnd=2196"
+    },
+    {
+      "bookmarkId": "3300025954_17_10297-10324",
+      "chapterUid": 17,
+      "range": "10297-10324",
+      "markText": "“你这个人太谦虚了，这是你高贵的品质。”托马斯神父说。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=17&rangeStart=10297&rangeEnd=10324",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=17&rangeStart=10297&rangeEnd=10324"
+    },
+    {
+      "bookmarkId": "3300025954_5_831-874",
+      "chapterUid": 5,
+      "range": "831-874",
+      "markText": "如果没有变化就意味着宁静，他们这样像果仁似的被包裹在不舒适的硬壳中心，就确实在享受宁静",
+      "totalCount": 220,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=5&rangeStart=831&rangeEnd=874",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=5&rangeStart=831&rangeEnd=874"
+    },
+    {
+      "bookmarkId": "3300025954_5_6844-6879",
+      "chapterUid": 5,
+      "range": "6844-6879",
+      "markText": "“不需要，我什么都不要了。”他差一点儿就加上一句，“这正是我的苦恼。”",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=5&rangeStart=6844&rangeEnd=6879",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=5&rangeStart=6844&rangeEnd=6879"
+    },
+    {
+      "bookmarkId": "3300025954_20_12922-12982",
+      "chapterUid": 20,
+      "range": "12922-12982",
+      "markText": "“不完全是谎话。如果我不是老想着你，我的全身就要干瘪了，我也就不会怀孕了，对不对？所以从某种意义上讲，这孩子就是你的。”",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=20&rangeStart=12922&rangeEnd=12982",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=20&rangeStart=12922&rangeEnd=12982"
+    },
+    {
+      "bookmarkId": "3300025954_4_2084-2128",
+      "chapterUid": 4,
+      "range": "2084-2128",
+      "markText": "有人生来器官残缺、肢体畸形，或者后天不幸变为残疾，其自恋本性就走向反面，对自己心生厌恶。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=3300025954&chapterUid=4&rangeStart=2084&rangeEnd=2128",
+      "webLink": "https://weread.qq.com/web/reader/9c132ba0813ab70a3g014412?chapterUid=4&rangeStart=2084&rangeEnd=2128"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 3,
+    "chapterOffset": 425,
+    "progress": 0,
+    "updateTime": 1776594638,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

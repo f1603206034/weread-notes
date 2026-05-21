@@ -1,0 +1,1582 @@
+{
+  "meta": {
+    "bookId": "3300189472",
+    "title": "大模型技术30讲",
+    "author": "[美]塞巴斯蒂安·拉施卡",
+    "translator": "叶文滔",
+    "cover": "https://cdn.weread.qq.com/weread/cover/79/cpplatform_evqexqdwzyvucmshzx6qzs/t6_cpplatform_evqexqdwzyvucmshzx6qzs1767004485.jpg",
+    "intro": "本书采用独特的一问一答式风格，探讨了当今机器学习和人工智能领域中最重要的30 个问题，旨在帮助读者了解最新的技术进展。全书共分为五个部分：神经网络与深度学习、计算机视觉、自然语言处理、生产与部署、预测性能与模型评测。每一章都围绕一个问题展开，不仅针对问题做出了相应的解释，并配有若干图表，还给出了练习供读者检验自身是否已理解所学内容。 本书适合机器学习初学者以及相关从业者和研究人员阅读。",
+    "category": "计算机-人工智能",
+    "publisher": "人民邮电出版社有限公司",
+    "publishTime": "2025-02-01 00:00:00",
+    "isbn": "9787115659835",
+    "wordCount": 0,
+    "newRating": 805,
+    "newRatingCount": 62,
+    "newRatingDetail": {
+      "good": 34,
+      "fair": 16,
+      "poor": 12,
+      "recent": 5,
+      "deepV": 29,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300189472",
+    "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c",
+    "lastSync": "2026-05-21T11:46:45Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 1173,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "献词",
+      "level": 1,
+      "wordCount": 44,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "序言",
+      "level": 1,
+      "wordCount": 533,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 304,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 3950,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "读者对象",
+          "anchor": "nav_point_1",
+          "level": 2
+        },
+        {
+          "title": "你将从本书中获得什么",
+          "anchor": "nav_point_2",
+          "level": 2
+        },
+        {
+          "title": "如何阅读本书",
+          "anchor": "nav_point_3",
+          "level": 2
+        },
+        {
+          "title": "在线资源",
+          "anchor": "nav_point_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第一部分 神经网络与深度学习",
+      "level": 1,
+      "wordCount": 15,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第1章 嵌入、潜空间和表征",
+      "level": 2,
+      "wordCount": 1853,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.1 嵌入",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "1.2 潜空间",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "1.3 表征",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "1.4 练习",
+          "anchor": "nav_point_4",
+          "level": 3
+        },
+        {
+          "title": "1.5 参考文献",
+          "anchor": "nav_point_5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第2章 自监督学习",
+      "level": 2,
+      "wordCount": 3061,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1 自监督学习与迁移学习",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "2.2 使用无标签数据",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "2.3 自预测与对比自监督学习",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "2.4 练习",
+          "anchor": "nav_point_4",
+          "level": 3
+        },
+        {
+          "title": "2.5 参考文献",
+          "anchor": "nav_point_5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第3章 小样本学习",
+      "level": 2,
+      "wordCount": 1244,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.1 数据集与术语",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "3.2 练习",
+          "anchor": "nav_point_2",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第4章 彩票假设",
+      "level": 2,
+      "wordCount": 1949,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.1 彩票假设的训练流程",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "4.2 实际意义与局限性",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "4.3 练习",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "4.4 参考文献",
+          "anchor": "nav_point_4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第5章 利用数据来减少过拟合现象",
+      "level": 2,
+      "wordCount": 3045,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1 常用方法",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "5.2 其他方法",
+          "anchor": "nav_point_5",
+          "level": 3
+        },
+        {
+          "title": "5.3 练习",
+          "anchor": "nav_point_6",
+          "level": 3
+        },
+        {
+          "title": "5.4 参考文献",
+          "anchor": "nav_point_7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第6章 通过改进模型减少过拟合现象",
+      "level": 2,
+      "wordCount": 4830,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.1 常用方法",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "6.2 其他方法",
+          "anchor": "nav_point_5",
+          "level": 3
+        },
+        {
+          "title": "6.3 选择正则化技术",
+          "anchor": "nav_point_6",
+          "level": 3
+        },
+        {
+          "title": "6.4 练习",
+          "anchor": "nav_point_7",
+          "level": 3
+        },
+        {
+          "title": "6.5 参考文献",
+          "anchor": "nav_point_8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第7章 多GPU训练模式",
+      "level": 2,
+      "wordCount": 3655,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.1 训练模式",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "7.2 建议",
+          "anchor": "nav_point_7",
+          "level": 3
+        },
+        {
+          "title": "7.3 练习",
+          "anchor": "nav_point_8",
+          "level": 3
+        },
+        {
+          "title": "7.4 参考文献",
+          "anchor": "nav_point_9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第8章 Transformer架构的成功",
+      "level": 2,
+      "wordCount": 2958,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.1 注意力机制",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "8.2 通过自监督学习进行预训练",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "8.3 大规模参数",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "8.4 轻松并行化",
+          "anchor": "nav_point_4",
+          "level": 3
+        },
+        {
+          "title": "8.5 练习",
+          "anchor": "nav_point_5",
+          "level": 3
+        },
+        {
+          "title": "8.6 参考文献",
+          "anchor": "nav_point_6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第9章 生成式AI模型",
+      "level": 2,
+      "wordCount": 6108,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.1 生成式模型与判别式模型",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "9.2 深度生成式模型的类型",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "9.3 建议",
+          "anchor": "nav_point_10",
+          "level": 3
+        },
+        {
+          "title": "9.4 练习",
+          "anchor": "nav_point_11",
+          "level": 3
+        },
+        {
+          "title": "9.5 参考文献",
+          "anchor": "nav_point_12",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第10章 随机性的由来",
+      "level": 2,
+      "wordCount": 3783,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10.1 模型权重初始化",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "10.2 数据集采样与重排",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "10.3 非确定性算法",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "10.4 不同运行时的算法",
+          "anchor": "nav_point_4",
+          "level": 3
+        },
+        {
+          "title": "10.5 硬件与驱动程序",
+          "anchor": "nav_point_5",
+          "level": 3
+        },
+        {
+          "title": "10.6 随机性与生成式AI",
+          "anchor": "nav_point_6",
+          "level": 3
+        },
+        {
+          "title": "10.7 练习",
+          "anchor": "nav_point_7",
+          "level": 3
+        },
+        {
+          "title": "10.8 参考文献",
+          "anchor": "nav_point_8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第二部分 计算机视觉",
+      "level": 1,
+      "wordCount": 11,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第11章 计算参数量",
+      "level": 2,
+      "wordCount": 1989,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11.1 如何计算参数量",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "11.2 实际应用",
+          "anchor": "nav_point_4",
+          "level": 3
+        },
+        {
+          "title": "11.3 练习",
+          "anchor": "nav_point_5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第12章 全连接层和卷积层",
+      "level": 2,
+      "wordCount": 1265,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12.1 当卷积核与输入大小相同时",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "12.2 当卷积核大小为1时",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "12.3 建议",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "12.4 练习",
+          "anchor": "nav_point_4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第13章 ViT架构所需的大型训练集",
+      "level": 2,
+      "wordCount": 4269,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "13.1 CNN中的归纳偏置",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "13.2 ViT可以比CNN表现得更好",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "13.3 ViT中的归纳偏置",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "13.4 建议",
+          "anchor": "nav_point_4",
+          "level": 3
+        },
+        {
+          "title": "13.5 练习",
+          "anchor": "nav_point_5",
+          "level": 3
+        },
+        {
+          "title": "13.6 参考文献",
+          "anchor": "nav_point_6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第三部分 自然语言处理",
+      "level": 1,
+      "wordCount": 12,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第14章 分布假设",
+      "level": 2,
+      "wordCount": 2306,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14.1 Word2vec、BERT和GPT",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "14.2 假设成立吗",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "14.3 练习",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "14.4 参考文献",
+          "anchor": "nav_point_4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第15章 文本数据增强",
+      "level": 2,
+      "wordCount": 3146,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15.1 同义词替换",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "15.2 词语删除",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "15.3 词语位置交换",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "15.4 句子乱序",
+          "anchor": "nav_point_4",
+          "level": 3
+        },
+        {
+          "title": "15.5 噪声注入",
+          "anchor": "nav_point_5",
+          "level": 3
+        },
+        {
+          "title": "15.6 回译",
+          "anchor": "nav_point_6",
+          "level": 3
+        },
+        {
+          "title": "15.7 合成数据生成",
+          "anchor": "nav_point_7",
+          "level": 3
+        },
+        {
+          "title": "15.8 建议",
+          "anchor": "nav_point_8",
+          "level": 3
+        },
+        {
+          "title": "15.9 练习",
+          "anchor": "nav_point_9",
+          "level": 3
+        },
+        {
+          "title": "15.10 参考文献",
+          "anchor": "nav_point_10",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第16章 自注意力",
+      "level": 2,
+      "wordCount": 2408,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "16.1 RNN中的注意力",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "16.2 自注意力机制",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "16.3 练习",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "16.4 参考文献",
+          "anchor": "nav_point_4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第17章 编码器和解码器风格的Transformer 架构",
+      "level": 2,
+      "wordCount": 4586,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "17.1 原始的Transformer",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "17.2 编码器-解码器混合模型",
+          "anchor": "nav_point_4",
+          "level": 3
+        },
+        {
+          "title": "17.3 专业术语",
+          "anchor": "nav_point_5",
+          "level": 3
+        },
+        {
+          "title": "17.4 当代Transformer模型",
+          "anchor": "nav_point_6",
+          "level": 3
+        },
+        {
+          "title": "17.5 练习",
+          "anchor": "nav_point_7",
+          "level": 3
+        },
+        {
+          "title": "17.6 参考文献",
+          "anchor": "nav_point_8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第18章 使用和微调预训练Transformer",
+      "level": 2,
+      "wordCount": 7417,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "18.1 使用Transformer执行分类任务",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "18.2 上下文学习、索引和提示词调优",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "18.3 参数高效的微调方法",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "18.4 基于人类反馈的强化学习",
+          "anchor": "nav_point_4",
+          "level": 3
+        },
+        {
+          "title": "18.5 适配预训练语言模型",
+          "anchor": "nav_point_5",
+          "level": 3
+        },
+        {
+          "title": "18.6 练习",
+          "anchor": "nav_point_6",
+          "level": 3
+        },
+        {
+          "title": "18.7 参考文献",
+          "anchor": "nav_point_7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第19章 评测生成式大模型",
+      "level": 2,
+      "wordCount": 5722,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "19.1 大模型的评测指标",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "19.2 替代指标",
+          "anchor": "nav_point_6",
+          "level": 3
+        },
+        {
+          "title": "19.3 练习",
+          "anchor": "nav_point_7",
+          "level": 3
+        },
+        {
+          "title": "19.4 参考文献",
+          "anchor": "nav_point_8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第四部分 生产与部署",
+      "level": 1,
+      "wordCount": 11,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第20章 无状态训练与有状态训练",
+      "level": 2,
+      "wordCount": 1209,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "20.1 无状态（重）训练",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "20.2 有状态训练",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "20.3 练习",
+          "anchor": "nav_point_3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "第21章 以数据为中心的人工智能",
+      "level": 2,
+      "wordCount": 2092,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "21.1 以数据为中心的人工智能与以模型为中心的人工智能",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "21.2 建议",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "21.3 练习",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "21.4 参考文献",
+          "anchor": "nav_point_4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第22章 加速推理",
+      "level": 2,
+      "wordCount": 2762,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "22.1 并行化",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "22.2 向量化",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "22.3 循环分块",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "22.4 算子融合",
+          "anchor": "nav_point_4",
+          "level": 3
+        },
+        {
+          "title": "22.5 量化",
+          "anchor": "nav_point_5",
+          "level": 3
+        },
+        {
+          "title": "22.6 练习",
+          "anchor": "nav_point_6",
+          "level": 3
+        },
+        {
+          "title": "22.7 参考文献",
+          "anchor": "nav_point_7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第23章 数据分布偏移",
+      "level": 2,
+      "wordCount": 2703,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "23.1 协变量偏移",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "23.2 标签偏移",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "23.3 概念偏移",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "23.4 领域偏移",
+          "anchor": "nav_point_4",
+          "level": 3
+        },
+        {
+          "title": "23.5 数据分布偏移的类型",
+          "anchor": "nav_point_5",
+          "level": 3
+        },
+        {
+          "title": "23.6 练习",
+          "anchor": "nav_point_6",
+          "level": 3
+        },
+        {
+          "title": "23.7 参考文献",
+          "anchor": "nav_point_7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第五部分 预测性能与模型评测",
+      "level": 1,
+      "wordCount": 15,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第24章 泊松回归与序回归",
+      "level": 2,
+      "wordCount": 605,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "练习",
+          "anchor": "nav_point_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "第25章 置信区间",
+      "level": 2,
+      "wordCount": 4905,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "25.1 定义置信区间",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "25.2 方法",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "25.3 练习",
+          "anchor": "nav_point_7",
+          "level": 3
+        },
+        {
+          "title": "25.4 参考文献",
+          "anchor": "nav_point_8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "第26章 置信区间与共形预测",
+      "level": 2,
+      "wordCount": 3853,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "26.1 置信区间和预测区间",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "26.2 预测区间与共形预测",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "26.3 预测区域、预测区间与预测集合",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "26.4 计算共形预测",
+          "anchor": "nav_point_4",
+          "level": 3
+        },
+        {
+          "title": "26.5 共形预测示例",
+          "anchor": "nav_point_5",
+          "level": 3
+        },
+        {
+          "title": "26.6 共形预测的优点",
+          "anchor": "nav_point_6",
+          "level": 3
+        },
+        {
+          "title": "26.7 建议",
+          "anchor": "nav_point_7",
+          "level": 3
+        },
+        {
+          "title": "26.8 练习",
+          "anchor": "nav_point_8",
+          "level": 3
+        },
+        {
+          "title": "26.9 参考文献",
+          "anchor": "nav_point_9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "第27章 合适的模型度量",
+      "level": 2,
+      "wordCount": 1781,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "27.1 标准",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "27.2 均方误差",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "27.3 交叉熵损失",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "27.4 练习",
+          "anchor": "nav_point_4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "第28章 k折交叉验证中的k",
+      "level": 2,
+      "wordCount": 2189,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "28.1 选择值时的权衡考量",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "28.2 确定适当的值",
+          "anchor": "nav_point_2",
+          "level": 3
+        },
+        {
+          "title": "28.3 练习",
+          "anchor": "nav_point_3",
+          "level": 3
+        },
+        {
+          "title": "28.4 参考文献",
+          "anchor": "nav_point_4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "第29章 训练集和测试集的不一致性",
+      "level": 2,
+      "wordCount": 1207,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "练习",
+          "anchor": "nav_point_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "第30章 有限的有标签数据",
+      "level": 2,
+      "wordCount": 5197,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "30.1 利用有限的有标签数据提高模型性能",
+          "anchor": "nav_point_1",
+          "level": 3
+        },
+        {
+          "title": "30.2 建议",
+          "anchor": "nav_point_15",
+          "level": 3
+        },
+        {
+          "title": "30.3 练习",
+          "anchor": "nav_point_16",
+          "level": 3
+        },
+        {
+          "title": "30.4 参考文献",
+          "anchor": "nav_point_17",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "后记",
+      "level": 1,
+      "wordCount": 409,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "附录 练习答案",
+      "level": 1,
+      "wordCount": 12516,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300189472&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=43"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 9,
+      "chapterTitle": "第2章 自监督学习",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300189472_9_6113-6158",
+          "range": "6113-6158",
+          "rangeStart": 6113,
+          "rangeEnd": 6158,
+          "markText": "维度对比则更关注如何使训练样本组生成的嵌入向量中的一部分变量距离更近，剩余变量的距离更远。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1767016797,
+          "createTimeFormatted": "2025-12-29 21:59:57",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=9&rangeStart=6113&rangeEnd=6158",
+          "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=9&rangeStart=6113&rangeEnd=6158"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300189472_13_8064-8165",
+      "chapterUid": 13,
+      "range": "8064-8165",
+      "markText": "尽管这些技术最初并不是为了减少过拟合而设计的，但像批归一化(BatchNorm)和层归一化(LayerNorm)这样的层输入归一化技术都可以使训练过程更稳定，并且一般都会有正则化效果，有助于减少过拟合。",
+      "totalCount": 2339,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=13&rangeStart=8064&rangeEnd=8165",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=13&rangeStart=8064&rangeEnd=8165"
+    },
+    {
+      "bookmarkId": "3300189472_27_5764-5813",
+      "chapterUid": 27,
+      "range": "5764-5813",
+      "markText": "在图18-4中，索引模块将文档或网站解析为更小的数据块，嵌入化为向量，使之可以存储在向量数据库中。",
+      "totalCount": 2339,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=27&rangeStart=5764&rangeEnd=5813",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=27&rangeStart=5764&rangeEnd=5813"
+    },
+    {
+      "bookmarkId": "3300189472_24_2002-2106",
+      "chapterUid": 24,
+      "range": "2002-2106",
+      "markText": "词语位置交换，也称为词混排或词排列，是指通过改变或交换句子中词语的位置，生成句子的新变体。",
+      "totalCount": 2308,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=24&rangeStart=2002&rangeEnd=2106",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=24&rangeStart=2002&rangeEnd=2106"
+    },
+    {
+      "bookmarkId": "3300189472_33_4310-4365",
+      "chapterUid": 33,
+      "range": "4310-4365",
+      "markText": "通过根据新的标签分布调整损失函数中的权重，我们鼓励模型更加关注那些在新数据中变得更加常见（或不太常见）的类别。",
+      "totalCount": 2304,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=33&rangeStart=4310&rangeEnd=4365",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=33&rangeStart=4310&rangeEnd=4365"
+    },
+    {
+      "bookmarkId": "3300189472_27_13853-13915",
+      "chapterUid": 27,
+      "range": "13853-13915",
+      "markText": "这个额外的微调阶段的训练过程采用了一种被称为近端策略优化的强化学习风格。",
+      "totalCount": 2296,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=27&rangeStart=13853&rangeEnd=13915",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=27&rangeStart=13853&rangeEnd=13915"
+    },
+    {
+      "bookmarkId": "3300189472_13_2448-2510",
+      "chapterUid": 13,
+      "range": "2448-2510",
+      "markText": "在早停法中，我们会在训练时密切观察模型在验证集上的表现，一旦发现模型在验证集上的性能开始下降，立即停止训练，如图6-1所示。",
+      "totalCount": 2276,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=13&rangeStart=2448&rangeEnd=2510",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=13&rangeStart=2448&rangeEnd=2510"
+    },
+    {
+      "bookmarkId": "3300189472_26_1183-1218",
+      "chapterUid": 26,
+      "range": "1183-1218",
+      "markText": "在给每个嵌入的词添加位置编码向量后，这些嵌入向量会通过多头自注意力层。",
+      "totalCount": 2268,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=26&rangeStart=1183&rangeEnd=1218",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=26&rangeStart=1183&rangeEnd=1218"
+    },
+    {
+      "bookmarkId": "3300189472_21_4921-4976",
+      "chapterUid": 21,
+      "range": "4921-4976",
+      "markText": "在此过程中，每个块都能关注到其他所有块，从而使模型能够学习输入图像中相隔较远的块之间的关系，如图13-4所示。",
+      "totalCount": 2222,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=21&rangeStart=4921&rangeEnd=4976",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=21&rangeStart=4921&rangeEnd=4976"
+    },
+    {
+      "bookmarkId": "3300189472_39_2172-2433",
+      "chapterUid": 39,
+      "range": "2172-2433",
+      "markText": "Ron Kohavi的一项研究（见本章末尾的“参考文献”）发现，为经典机器学习算法（如决策树和朴素贝叶斯分类器）在少数小数据集上提供了良好的偏差和方差的权衡。",
+      "totalCount": 2222,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=39&rangeStart=2172&rangeEnd=2433",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=39&rangeStart=2172&rangeEnd=2433"
+    },
+    {
+      "bookmarkId": "3300189472_13_8519-8555",
+      "chapterUid": 13,
+      "range": "8519-8555",
+      "markText": "要获得最佳效果，我们应该把如何选择这些技术当作一个超参数优化问题来对待。",
+      "totalCount": 2210,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=13&rangeStart=8519&rangeEnd=8555",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=13&rangeStart=8519&rangeEnd=8555"
+    },
+    {
+      "bookmarkId": "3300189472_21_7107-7223",
+      "chapterUid": 21,
+      "range": "7107-7223",
+      "markText": "●关于EfficientNetV2 CNN架构的详细综述文章：Mingxing Tan和Quoc V. Le所著的“EfficientNetV2: Smaller Models and Faster Training”。",
+      "totalCount": 2194,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=21&rangeStart=7107&rangeEnd=7223",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=21&rangeStart=7107&rangeEnd=7223"
+    },
+    {
+      "bookmarkId": "3300189472_36_1631-1715",
+      "chapterUid": 36,
+      "range": "1631-1715",
+      "markText": "例如，如果我们取100个不同的数据样本，并按95%的置信区间为每个样本做计算，那么100个置信区间中大约有95个将包含真实的总体值（例如泛化准确度），如图25-1所示。",
+      "totalCount": 2194,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=36&rangeStart=1631&rangeEnd=1715",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=36&rangeStart=1631&rangeEnd=1715"
+    },
+    {
+      "bookmarkId": "3300189472_24_3718-3779",
+      "chapterUid": 24,
+      "range": "3718-3779",
+      "markText": "回译是实现文本多样性时应用最广泛的技术之一，其过程是先将原文翻译成一种或多种不同的语言，然后再翻译回原语言。",
+      "totalCount": 2096,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=24&rangeStart=3718&rangeEnd=3779",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=24&rangeStart=3718&rangeEnd=3779"
+    },
+    {
+      "bookmarkId": "3300189472_33_3349-3434",
+      "chapterUid": 33,
+      "range": "3349-3434",
+      "markText": "一旦检测到协变量偏移，一种常用的处理方法是重要性加权，该方法为训练样本分配不同的权重，在训练过程中强调或弱化某些实例。",
+      "totalCount": 2096,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=33&rangeStart=3349&rangeEnd=3434",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=33&rangeStart=3349&rangeEnd=3434"
+    },
+    {
+      "bookmarkId": "3300189472_27_13793-13853",
+      "chapterUid": 27,
+      "range": "13793-13853",
+      "markText": "奖励模型是通过监督学习来训练的，并且通常使用预训练大模型作为底座模型，然后通过额外的微调来使预训练大模型适应人类的喜好。",
+      "totalCount": 2038,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=27&rangeStart=13793&rangeEnd=13853",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=27&rangeStart=13793&rangeEnd=13853"
+    },
+    {
+      "bookmarkId": "3300189472_37_2358-2397",
+      "chapterUid": 37,
+      "range": "2358-2397",
+      "markText": "例如，一个模型可能预测一张图片描绘的要么是一只猫，要么是一只狗，要么是一只鸟。",
+      "totalCount": 2038,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=37&rangeStart=2358&rangeEnd=2397",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=37&rangeStart=2358&rangeEnd=2397"
+    },
+    {
+      "bookmarkId": "3300189472_37_3859-3910",
+      "chapterUid": 37,
+      "range": "3859-3910",
+      "markText": "在这里，对于给定实例的每个可能的分类标签（分类器的每个可能输出），我们检查其非一致性得分是否低于阈值。",
+      "totalCount": 2010,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=37&rangeStart=3859&rangeEnd=3910",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=37&rangeStart=3859&rangeEnd=3910"
+    },
+    {
+      "bookmarkId": "3300189472_24_4297-4352",
+      "chapterUid": 24,
+      "range": "4297-4352",
+      "markText": "合成数据生成是一个总称，用于描述那些人造数据的方法或技术，包括仿真数据和复制现实世界结构的数据。",
+      "totalCount": 1901,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=24&rangeStart=4297&rangeEnd=4352",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=24&rangeStart=4297&rangeEnd=4352"
+    },
+    {
+      "bookmarkId": "3300189472_21_4424-4531",
+      "chapterUid": 21,
+      "range": "4424-4531",
+      "markText": "语言Transformer模型中的首选方法是无监督预训练（如第2章讨论的自监督学习），而ViT通常使用大型的有标签数据集（如ImageNet提供了数百万张用于训练的有标签图像）进行预训练，并采用常规的监督学习方式。",
+      "totalCount": 1866,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=21&rangeStart=4424&rangeEnd=4531",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=21&rangeStart=4424&rangeEnd=4531"
+    },
+    {
+      "bookmarkId": "3300189472_15_3046-3102",
+      "chapterUid": 15,
+      "range": "3046-3102",
+      "markText": "但至关重要的是，模型规模与训练词元的数量需同步扩大，也就是说，每当模型大小翻倍，用于训练的词元数量也应增加一倍。",
+      "totalCount": 1854,
+      "appLink": "weread://bestbookmark?bookId=3300189472&chapterUid=15&rangeStart=3046&rangeEnd=3102",
+      "webLink": "https://weread.qq.com/web/reader/ebb32f60813abb083g012f6c?chapterUid=15&rangeStart=3046&rangeEnd=3102"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 21,
+    "chapterOffset": 3492,
+    "progress": 0,
+    "updateTime": 1767097391,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

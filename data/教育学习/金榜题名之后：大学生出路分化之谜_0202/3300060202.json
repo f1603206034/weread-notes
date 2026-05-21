@@ -1,0 +1,782 @@
+{
+  "meta": {
+    "bookId": "3300060202",
+    "title": "金榜题名之后：大学生出路分化之谜",
+    "author": "郑雅君",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/71/cpplatform_aftwrezfyfjnrtaahokipe/t6_cpplatform_aftwrezfyfjnrtaahokipe1685436175.jpg",
+    "intro": "重点大学寄托了万千家庭改变命运的梦想，如今一系列专项招生计划也为更多学子打开了机会之门。然而，金榜题名之后，学子是否如想象那般顺遂？不同社会经济背景的学生在毕业出路和职业前景上的差距是如何拉开的？通过对位于京沪的两所重点高校毕业班学生的深度访谈，本书揭示了大学生在上大学过程中遭遇的一种隐性的挑战：是否洞察大学场域的“游戏规则”，掌握其中“默认”为常规的一系列认知和实践模式。本书指出，家庭背景优势不仅带来了雄厚的物质支持，更意味一整套关于“上大学”的文化技艺的传承，这使得出身优渥的大学生得以在白热化的出路竞争中抢占先机，而家境平平者却更容易与机会失之交臂。本书也关注了意义感在出路获得中的重要作用，指出了在当前的制度背景下，内化主流价值信念、扩充“文化工具箱”有助于帮助大学生走出生涯目标迷失的困境，从而更高效地利用大学资源，获得生涯出彩机会。",
+    "category": "教育学习-教育",
+    "publisher": "上海三联书店",
+    "publishTime": "2023-01-30 00:00:00",
+    "isbn": "9787542677815",
+    "wordCount": 0,
+    "newRating": 883,
+    "newRatingCount": 6793,
+    "newRatingDetail": {
+      "good": 6103,
+      "fair": 541,
+      "poor": 149,
+      "recent": 15,
+      "deepV": 2319,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=3300060202",
+    "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d",
+    "lastSync": "2026-05-21T11:55:25Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "2024-09-24",
+    "noteCount": 14,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 122,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "献词",
+      "level": 1,
+      "wordCount": 38,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "序言",
+      "level": 1,
+      "wordCount": 3260,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 2758,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "导论",
+      "level": 1,
+      "wordCount": 11728,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第一章 迷宫",
+      "level": 1,
+      "wordCount": 10854,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "游戏规则",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "迷宫的出口",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=7"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 8,
+      "title": "第二章 视角",
+      "level": 1,
+      "wordCount": 16595,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "打开黑箱",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "研究方法",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 9,
+      "title": "第三章 家境",
+      "level": 1,
+      "wordCount": 25619,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "两种实践模式",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "模式的养成",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        },
+        {
+          "title": "选报专业",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "大学初体验",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=19"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第四章 努力",
+      "level": 1,
+      "wordCount": 33374,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "掌控目标",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "依赖直觉",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        },
+        {
+          "title": "转变者",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第五章 方向",
+      "level": 1,
+      "wordCount": 25278,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "意义感的来源",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        },
+        {
+          "title": "选择与被选择",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        },
+        {
+          "title": "优势的分化",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=11"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 12,
+      "title": "第六章 余论",
+      "level": 1,
+      "wordCount": 14142,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "当工具理性遇到价值信念",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        },
+        {
+          "title": "文化障碍的二重性",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        },
+        {
+          "title": "寒门学子能做什么？",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=17"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "附录一 个案描述",
+      "level": 1,
+      "wordCount": 45,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "附录二 被访者基本信息",
+      "level": 1,
+      "wordCount": 1311,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "附录三 访谈提纲",
+      "level": 1,
+      "wordCount": 734,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "后记",
+      "level": 1,
+      "wordCount": 3895,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300060202&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=16"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 18,
+      "chapterTitle": "第二章 视角",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_18_26647-27705",
+          "range": "26647-27452",
+          "rangeStart": 26647,
+          "rangeEnd": 27452,
+          "markText": "1)家庭社会经济地位(SES)属于低收入群体或较低阶层（例如父母职业为工人、体力劳动者或无业）[插图][插图];(2)来自农村的学生[插图][插图];(3)来自西部偏远地区的学生[插图];(4)第一代大学生，即父母双方均未受过高等教育的学生[插图]",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1727227635,
+          "createTimeFormatted": "2024-09-25 09:27:15",
+          "chapterUid": 18,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=18&rangeStart=26647&rangeEnd=27452",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=18&rangeStart=26647&rangeEnd=27452"
+        }
+      ]
+    },
+    {
+      "chapterUid": 17,
+      "chapterTitle": "第六章 余论",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_17_11412-11491",
+          "range": "11412-11491",
+          "rangeStart": 11412,
+          "rangeEnd": 11491,
+          "markText": "布迪厄在《继承人》一书中说：“处于最不利地位的阶级……对于实现命运的途径过于不觉悟，从而促进了自己命运的实现，因而学校教育系统的合法性权威可以加剧社会不平等”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1727188208,
+          "createTimeFormatted": "2024-09-24 22:30:08",
+          "chapterUid": 17,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=17&rangeStart=11412&rangeEnd=11491",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=17&rangeStart=11412&rangeEnd=11491"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_17_19805-20684",
+          "range": "19805-20239",
+          "rangeStart": 19805,
+          "rangeEnd": 20239,
+          "markText": "随着习性不断地调和自身与场域之间的矛盾，一方面需要维持与旧系统的连贯性，另一方面又需要发展新的倾向以适应新环境，于是产生了布迪厄所预言的“习性裂化”[插图]p.511。一方面，寒门学子已经脱离原来生长的环境，接触了许多新鲜的观念和事物，与原本熟悉的自我逐渐拉开了差距；另一方面，其在名校新获得的身份和自我认知又不断被原先的自我和社会关系所干扰，以至于自我认同时刻处于一种不稳定或撕裂状态，个体因自己的出身陷入自卑感与羞耻感当中，甚至将自我分裂成多个部分[插图][插图]",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1727188207,
+          "createTimeFormatted": "2024-09-24 22:30:07",
+          "chapterUid": 17,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=17&rangeStart=19805&rangeEnd=20239",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=17&rangeStart=19805&rangeEnd=20239"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_17_24752-24813",
+          "range": "24752-24813",
+          "rangeStart": 24752,
+          "rangeEnd": 24813,
+          "markText": "我愿意跨出自己的舒适区，去挑战我习以为常的观念和生活方式，接受（至少是有反思性地拒绝）那些总是不假思索就拒绝的观念和事物。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1727188200,
+          "createTimeFormatted": "2024-09-24 22:30:00",
+          "chapterUid": 17,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=17&rangeStart=24752&rangeEnd=24813",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=17&rangeStart=24752&rangeEnd=24813"
+        }
+      ]
+    },
+    {
+      "chapterUid": 10,
+      "chapterTitle": "第四章 努力",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_10_33117-33136",
+          "range": "33117-33136",
+          "rangeStart": 33117,
+          "rangeEnd": 33136,
+          "markText": "这种转变是从持续不断的社会性投入开始的",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1727188207,
+          "createTimeFormatted": "2024-09-24 22:30:07",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=10&rangeStart=33117&rangeEnd=33136",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=10&rangeStart=33117&rangeEnd=33136"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_10_1514-1591",
+          "range": "1514-1591",
+          "rangeStart": 1514,
+          "rangeEnd": 1591,
+          "markText": "在这个问题上，大学生发展研究已经达成了一个基本的共识：学生必须主动投入，积极投身学校的各类教育实践，提升学习成果，主动与老师和同学互动，才更有可能取得成功",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1727188202,
+          "createTimeFormatted": "2024-09-24 22:30:02",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=10&rangeStart=1514&rangeEnd=1591",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=10&rangeStart=1514&rangeEnd=1591"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_10_36241-36270",
+          "range": "36241-36270",
+          "rangeStart": 36241,
+          "rangeEnd": 36270,
+          "markText": "‘为天地立心，为生民立命，为往圣继绝学，为万世开太平’。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1727188202,
+          "createTimeFormatted": "2024-09-24 22:30:02",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=10&rangeStart=36241&rangeEnd=36270",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=10&rangeStart=36241&rangeEnd=36270"
+        }
+      ]
+    },
+    {
+      "chapterUid": 19,
+      "chapterTitle": "第三章 家境",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_19_6835-6890",
+          "range": "6835-6890",
+          "rangeStart": 6835,
+          "rangeEnd": 6890,
+          "markText": "布迪厄在《继承人》一书中说：“处于最不利地位的阶级……对于实现命运的途径过于不觉悟，从而促进了自己命运的实现”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1727188206,
+          "createTimeFormatted": "2024-09-24 22:30:06",
+          "chapterUid": 19,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=19&rangeStart=6835&rangeEnd=6890",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=19&rangeStart=6835&rangeEnd=6890"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_19_20470-20537",
+          "range": "20470-20537",
+          "rangeStart": 20470,
+          "rangeEnd": 20537,
+          "markText": "优势阶层的父母插手少，可谓是一种“无为而治”。不过，尽管他们不会直接发表意见，却会为孩子提供足够的信息和资源，支持孩子做出明智的决定。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1727188204,
+          "createTimeFormatted": "2024-09-24 22:30:04",
+          "chapterUid": 19,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=19&rangeStart=20470&rangeEnd=20537",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=19&rangeStart=20470&rangeEnd=20537"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_19_8962-9039",
+          "range": "8962-9039",
+          "rangeStart": 8962,
+          "rangeEnd": 9039,
+          "markText": "即布迪厄所谓的“习性滞后”(habitus hysteresis)。“习性滞后恐怕是机遇和在抓住机遇所需的倾向之间存在差距的根据之一；该差距致使机遇被错过",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1727188203,
+          "createTimeFormatted": "2024-09-24 22:30:03",
+          "chapterUid": 19,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=19&rangeStart=8962&rangeEnd=9039",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=19&rangeStart=8962&rangeEnd=9039"
+        }
+      ]
+    },
+    {
+      "chapterUid": 11,
+      "chapterTitle": "第五章 方向",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_11_7638-7692",
+          "range": "7638-7692",
+          "rangeStart": 7638,
+          "rangeEnd": 7692,
+          "markText": "正如鲍曼所言：“寻求自我认同、获得社会中的一席之地，过一种被视作有意义的生活，都需要每天在消费市场中实现。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1727188203,
+          "createTimeFormatted": "2024-09-24 22:30:03",
+          "chapterUid": 11,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=11&rangeStart=7638&rangeEnd=7692",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=11&rangeStart=7638&rangeEnd=7692"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_11_26601-26952",
+          "range": "26601-26952",
+          "rangeStart": 26601,
+          "rangeEnd": 26952,
+          "markText": "作为第一代大学生，“迷失无从者”严重缺乏对大学和职场内部常识和规则的知识，而这些往往被中产阶层及以上的学生认为是不言自明的[插图]。“根本不知道有哪些选择，比如说出国这些方面，我发现他们是很早就意识到或者已经知道这件事情，我是很晚才知道这个事情，但真正开始明白过来的时候就已经有些晚了”，来自河南的农村学生浩凡道出了不少被访者的同感。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1727188201,
+          "createTimeFormatted": "2024-09-24 22:30:01",
+          "chapterUid": 11,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=11&rangeStart=26601&rangeEnd=26952",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=11&rangeStart=26601&rangeEnd=26952"
+        }
+      ]
+    },
+    {
+      "chapterUid": 6,
+      "chapterTitle": "导论",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_6_20782-20899",
+          "range": "20782-20899",
+          "rangeStart": 20782,
+          "rangeEnd": 20899,
+          "markText": "被访者的切身经历表明，大学生的出路结果不总是出于有意识的选择。不少人的毕业出路更恰当地说是一种无意识、非理性的“被选择”，即在全无计划的情形下临时抓住一个恰好够得着的机会。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1726970471,
+          "createTimeFormatted": "2024-09-22 10:01:11",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=6&rangeStart=20782&rangeEnd=20899",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=6&rangeStart=20782&rangeEnd=20899"
+        }
+      ]
+    },
+    {
+      "chapterUid": 3,
+      "chapterTitle": "献词",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300060202_3_387-478",
+          "range": "387-478",
+          "rangeStart": 387,
+          "rangeEnd": 478,
+          "markText": "献给我的母亲，\n是她用尽全力将我举过头顶，\n才让我有机会去认识本书中的被访者。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1726875583,
+          "createTimeFormatted": "2024-09-21 07:39:43",
+          "chapterUid": 3,
+          "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=3&rangeStart=387&rangeEnd=478",
+          "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=3&rangeStart=387&rangeEnd=478"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300060202_6_20782-20899",
+      "chapterUid": 6,
+      "range": "20782-20899",
+      "markText": "被访者的切身经历表明，大学生的出路结果不总是出于有意识的选择。不少人的毕业出路更恰当地说是一种无意识、非理性的“被选择”，即在全无计划的情形下临时抓住一个恰好够得着的机会。",
+      "totalCount": 3968,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=6&rangeStart=20782&rangeEnd=20899",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=6&rangeStart=20782&rangeEnd=20899"
+    },
+    {
+      "bookmarkId": "3300060202_7_1802-1891",
+      "chapterUid": 7,
+      "range": "1802-1891",
+      "markText": "倘若大学生缺少关于大学和就业市场的了解，对自己未来的毕业出路没有做到独立规划、提前部署、有序准备，到了毕业之际，即便持有名校文凭，其价值也很可能会在兑换职业地位的环节中大打折扣。",
+      "totalCount": 3525,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=7&rangeStart=1802&rangeEnd=1891",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=7&rangeStart=1802&rangeEnd=1891"
+    },
+    {
+      "bookmarkId": "3300060202_6_3759-3852",
+      "chapterUid": 6,
+      "range": "3759-3852",
+      "markText": "一桩桩社会事实堆叠映衬，制造出了一种带有救赎意味的幻象——正如许多老师和家长告诉学生的那样——“考上大学之后就‘解放’了”。",
+      "totalCount": 3374,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=6&rangeStart=3759&rangeEnd=3852",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=6&rangeStart=3759&rangeEnd=3852"
+    },
+    {
+      "bookmarkId": "3300060202_6_16762-16823",
+      "chapterUid": 6,
+      "range": "16762-16823",
+      "markText": "大学对人的影响不仅仅在于带来社会地位和物质成功，更在于奠定成年以后的自我认同、长期生活目标、世界观和价值取向等深层精神特征",
+      "totalCount": 2856,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=6&rangeStart=16762&rangeEnd=16823",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=6&rangeStart=16762&rangeEnd=16823"
+    },
+    {
+      "bookmarkId": "3300060202_7_6531-6596",
+      "chapterUid": 7,
+      "range": "6531-6596",
+      "markText": "扩招的另一后果是，文凭在求职市场上代表能力的“信号”作用开始失真，大学生的就业结果越来越依赖家庭文化资本和个人化优势而非学业水准。",
+      "totalCount": 2412,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=7&rangeStart=6531&rangeEnd=6596",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=7&rangeStart=6531&rangeEnd=6596"
+    },
+    {
+      "bookmarkId": "3300060202_7_7109-7207",
+      "chapterUid": 7,
+      "range": "7109-7207",
+      "markText": "大学生要想将自己打造成能够在求职市场获得优势的候选人，必须有意地、持续地反思和管理自己的大学生活，将大学四年打造成一种致力于为简历加分的“履历经济学”(economy of experience)",
+      "totalCount": 2329,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=7&rangeStart=7109&rangeEnd=7207",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=7&rangeStart=7109&rangeEnd=7207"
+    },
+    {
+      "bookmarkId": "3300060202_10_3538-3589",
+      "chapterUid": 10,
+      "range": "3538-3589",
+      "markText": "不在意，却尽量不错过它所能带来的好处（至少不能让它成为一种阻碍），是多数目标掌控者对待学习成绩的态度。",
+      "totalCount": 2244,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=10&rangeStart=3538&rangeEnd=3589",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=10&rangeStart=3538&rangeEnd=3589"
+    },
+    {
+      "bookmarkId": "3300060202_7_12136-12220",
+      "chapterUid": 7,
+      "range": "12136-12220",
+      "markText": "换句话说，虽然大学生的毕业出路越发市场化了，大学的教育宗旨、校园生活以及校园里潜藏着的机会和资源，却从未经历过真正的市场化，而是鲜明地体现着中国特色社会主义的体制特征。",
+      "totalCount": 1989,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=7&rangeStart=12136&rangeEnd=12220",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=7&rangeStart=12136&rangeEnd=12220"
+    },
+    {
+      "bookmarkId": "3300060202_19_9688-9785",
+      "chapterUid": 19,
+      "range": "9688-9785",
+      "markText": "缺乏包含多样策略的文化工具箱使得他们往往奉行单一的行动风格——勤恳而单纯，对任何事情都一样认真。也正是这种老实持重的风格使他们难以意识到尽早树立目标的重要性，也更难树立起一个对自身有意义的目标。",
+      "totalCount": 1944,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=19&rangeStart=9688&rangeEnd=9785",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=19&rangeStart=9688&rangeEnd=9785"
+    },
+    {
+      "bookmarkId": "3300060202_6_12856-12906",
+      "chapterUid": 6,
+      "range": "12856-12906",
+      "markText": "毕竟，对普罗大众来说，倘若想试图做些什么来缓和社会不平等或者是少受其害，终究更需要靠自身的点滴行动。",
+      "totalCount": 1920,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=6&rangeStart=12856&rangeEnd=12906",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=6&rangeStart=12856&rangeEnd=12906"
+    },
+    {
+      "bookmarkId": "3300060202_6_455-496",
+      "chapterUid": 6,
+      "range": "455-496",
+      "markText": "学校只有使学生的前景尽可能免受其社会出身的制约，才算完成了它的使命。",
+      "totalCount": 1848,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=6&rangeStart=455&rangeEnd=496",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=6&rangeStart=455&rangeEnd=496"
+    },
+    {
+      "bookmarkId": "3300060202_10_28847-28888",
+      "chapterUid": 10,
+      "range": "28847-28888",
+      "markText": "有研究表明，来自弱势社会背景的学生在遇到挑战时更偏向独立解决而不是求助或与他人合作",
+      "totalCount": 1837,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=10&rangeStart=28847&rangeEnd=28888",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=10&rangeStart=28847&rangeEnd=28888"
+    },
+    {
+      "bookmarkId": "3300060202_6_3492-3587",
+      "chapterUid": 6,
+      "range": "3492-3587",
+      "markText": "所有这些振奋人心的事实，似乎足以令人确信：任何一个学生，不论其家庭经济背景如何，只要靠勤奋学习考上一所大学（特别是一所重点大学），他/她便可以挣脱原生家庭的限制、迈入阶层向上流动的光明未来。",
+      "totalCount": 1800,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=6&rangeStart=3492&rangeEnd=3587",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=6&rangeStart=3492&rangeEnd=3587"
+    },
+    {
+      "bookmarkId": "3300060202_4_2097-2139",
+      "chapterUid": 4,
+      "range": "2097-2139",
+      "markText": "如今社会浮躁，极端功利追逐之风蔓延。来读研究生的，已经很少见有真正是以学术为志业的。",
+      "totalCount": 1728,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=4&rangeStart=2097&rangeEnd=2139",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=4&rangeStart=2097&rangeEnd=2139"
+    },
+    {
+      "bookmarkId": "3300060202_6_6345-6363",
+      "chapterUid": 6,
+      "range": "6345-6363",
+      "markText": "“勿惋惜，勿嘲笑，勿憎恶，唯求理解”",
+      "totalCount": 1710,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=6&rangeStart=6345&rangeEnd=6363",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=6&rangeStart=6345&rangeEnd=6363"
+    },
+    {
+      "bookmarkId": "3300060202_19_14022-14082",
+      "chapterUid": 19,
+      "range": "14022-14082",
+      "markText": "在他的观念里，独立思考的批判性精神和全面发展的综合能力——也通常正是那些著名高中的人才培养目标——比识记能力要重要得多。",
+      "totalCount": 1638,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=19&rangeStart=14022&rangeEnd=14082",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=19&rangeStart=14022&rangeEnd=14082"
+    },
+    {
+      "bookmarkId": "3300060202_4_897-970",
+      "chapterUid": 4,
+      "range": "897-970",
+      "markText": "别看她不泼辣、不强势，但不管年级比她低还是比她高，不论是男同学还是女同学，还都买她的账。据我的观察，主要是她为人诚恳、友善，有困难有麻烦走在前面。",
+      "totalCount": 1584,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=4&rangeStart=897&rangeEnd=970",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=4&rangeStart=897&rangeEnd=970"
+    },
+    {
+      "bookmarkId": "3300060202_6_6813-6873",
+      "chapterUid": 6,
+      "range": "6813-6873",
+      "markText": "本书致力于探究一个显见却难解的迷思：为什么社会出身劣势的学生即使进入了最好的大学，却仍然在毕业出路与生涯前景上劣势明显？",
+      "totalCount": 1536,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=6&rangeStart=6813&rangeEnd=6873",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=6&rangeStart=6813&rangeEnd=6873"
+    },
+    {
+      "bookmarkId": "3300060202_10_34814-34909",
+      "chapterUid": 10,
+      "range": "34814-34909",
+      "markText": "我同意南方大学就应该是精英教育，因为你吸纳进来的这些人全都是国家的未来精英，如果你把这些人全部教成一个出去赚钱的工具，那这个国家难道还指望那些二本、三本的出来做那些赚不了钱但很重要的事吗？”",
+      "totalCount": 1530,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=10&rangeStart=34814&rangeEnd=34909",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=10&rangeStart=34814&rangeEnd=34909"
+    },
+    {
+      "bookmarkId": "3300060202_11_17385-17449",
+      "chapterUid": 11,
+      "range": "17385-17449",
+      "markText": "你不去经历，你就永远不知道自己想要的是什么。你去经历去尝试，会做错很多事情，但只有这样才能知道什么是自己想要的”。",
+      "totalCount": 1520,
+      "appLink": "weread://bestbookmark?bookId=3300060202&chapterUid=11&rangeStart=17385&rangeEnd=17449",
+      "webLink": "https://weread.qq.com/web/reader/f0032f50813ab7e04g012a8d?chapterUid=11&rangeStart=17385&rangeEnd=17449"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": -2147473635,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": 1773559105,
+    "recordReadingTime": 0,
+    "finishTime": 1727188455
+  }
+}

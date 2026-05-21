@@ -1,0 +1,1845 @@
+{
+  "meta": {
+    "bookId": "3300180825",
+    "title": "全栈项目开发全程实录——Spring Boot+Vue  Django+Vue  Node+Vue",
+    "author": "明日科技",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/92/cpplatform_tr6vpifwifyhtojxp5ro2x/t6_cpplatform_tr6vpifwifyhtojxp5ro2x1764587011.jpg",
+    "intro": "《全栈项目开发全程实录——Spring Boot+Vue Django+Vue Node+Vue》精选 7 个热门全栈项目，其中前端采用流行的 Vue.js、HTML5、CSS3、JavaScript 和 BootStrap 技术，而后端则采用 Python 的 Django Web 框架、Java 的 Spring Boot 框架和 Node.js 进行开发，实用性非常强。具体项目包含：电瓶车品牌信息管理系统、寻物启事网站、明日之星物业管理系统、吃了么外卖网、综艺之家、四季旅游信息网和电影易购 APP。本书从软件工程的角度出发，按照项目开发的顺序，系统、全面地讲解每一个项目的开发实现过程。在体例上，每章一个项目，统一采用“开发背景→系统设计→技术准备→数据库设计→各功能模块实现→项目运行→源码下载”的形式完整呈现项目，给读者明确的成就感，可以让读者快速积累实际项目开发经验与技巧，早日实现就业目标。",
+    "category": "计算机-计算机综合",
+    "publisher": "清华大学出版社",
+    "publishTime": "2025-08-01 00:00:00",
+    "isbn": "9787302697039",
+    "wordCount": 0,
+    "newRating": 762,
+    "newRatingCount": 27,
+    "newRatingDetail": {
+      "good": 15,
+      "fair": 8,
+      "poor": 4,
+      "recent": 0,
+      "deepV": 1,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300180825",
+    "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d",
+    "lastSync": "2026-05-21T11:46:06Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 606,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "内容简介",
+      "level": 1,
+      "wordCount": 576,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "如何使用本书开发资源库",
+      "level": 1,
+      "wordCount": 806,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "前言 Preface",
+      "level": 1,
+      "wordCount": 3307,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "本书内容",
+          "anchor": "pre3_3_1_1_1",
+          "level": 2
+        },
+        {
+          "title": "本书特点",
+          "anchor": "pre3_3_1_1_2",
+          "level": 2
+        },
+        {
+          "title": "读者对象",
+          "anchor": "pre3_3_1_1_3",
+          "level": 2
+        },
+        {
+          "title": "资源与服务",
+          "anchor": "pre3_3_1_1_4",
+          "level": 2
+        },
+        {
+          "title": "致读者",
+          "anchor": "pre3_3_1_1_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第1篇 Spring Boot+Vue.js方向",
+      "level": 1,
+      "wordCount": 305,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第1章 电瓶车品牌信息管理系统——Vue.js+Spring Boot+MySQL",
+      "level": 2,
+      "wordCount": 20098,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.1 开发背景",
+          "anchor": "isbn9787302697039_2_2_1_1",
+          "level": 3
+        },
+        {
+          "title": "1.2 系统设计",
+          "anchor": "isbn9787302697039_2_2_1_2",
+          "level": 3
+        },
+        {
+          "title": "1.2.1 开发环境",
+          "anchor": "isbn9787302697039_2_2_1_2_1",
+          "level": 4
+        },
+        {
+          "title": "1.2.2 业务流程",
+          "anchor": "isbn9787302697039_2_2_1_2_2",
+          "level": 4
+        },
+        {
+          "title": "1.2.3 功能结构",
+          "anchor": "isbn9787302697039_2_2_1_2_3",
+          "level": 4
+        },
+        {
+          "title": "1.3 前端技术准备",
+          "anchor": "isbn9787302697039_2_2_1_3",
+          "level": 3
+        },
+        {
+          "title": "1.3.1 应用程序实例及选项",
+          "anchor": "isbn9787302697039_2_2_1_3_4",
+          "level": 4
+        },
+        {
+          "title": "1.3.2 常用指令",
+          "anchor": "isbn9787302697039_2_2_1_3_5",
+          "level": 4
+        },
+        {
+          "title": "1.4 后端技术准备",
+          "anchor": "isbn9787302697039_2_2_1_4",
+          "level": 3
+        },
+        {
+          "title": "1.4.1 pom.xml文件",
+          "anchor": "isbn9787302697039_2_2_1_4_6",
+          "level": 4
+        },
+        {
+          "title": "1.4.2 配置文件的格式",
+          "anchor": "isbn9787302697039_2_2_1_4_7",
+          "level": 4
+        },
+        {
+          "title": "1.4.3 注解",
+          "anchor": "isbn9787302697039_2_2_1_4_8",
+          "level": 4
+        },
+        {
+          "title": "1.4.4 启动类",
+          "anchor": "isbn9787302697039_2_2_1_4_9",
+          "level": 4
+        },
+        {
+          "title": "1.4.5 处理HTTP请求",
+          "anchor": "isbn9787302697039_2_2_1_4_10",
+          "level": 4
+        },
+        {
+          "title": "1.4.6 Service层",
+          "anchor": "isbn9787302697039_2_2_1_4_11",
+          "level": 4
+        },
+        {
+          "title": "1.5 数据库设计",
+          "anchor": "isbn9787302697039_2_2_1_5",
+          "level": 3
+        },
+        {
+          "title": "1.6 后端依赖配置和公共模块设计",
+          "anchor": "isbn9787302697039_2_2_1_6",
+          "level": 3
+        },
+        {
+          "title": "1.6.1 添加依赖和配置信息",
+          "anchor": "isbn9787302697039_2_2_1_6_12",
+          "level": 4
+        },
+        {
+          "title": "1.6.2 工具类设计",
+          "anchor": "isbn9787302697039_2_2_1_6_13",
+          "level": 4
+        },
+        {
+          "title": "1.6.3 实体类设计",
+          "anchor": "isbn9787302697039_2_2_1_6_14",
+          "level": 4
+        },
+        {
+          "title": "1.6.4 DAO层设计",
+          "anchor": "isbn9787302697039_2_2_1_6_15",
+          "level": 4
+        },
+        {
+          "title": "1.7 分页插件模块设计",
+          "anchor": "isbn9787302697039_2_2_1_7",
+          "level": 3
+        },
+        {
+          "title": "1.7.1 前端设计",
+          "anchor": "isbn9787302697039_2_2_1_7_16",
+          "level": 4
+        },
+        {
+          "title": "1.7.2 后端设计",
+          "anchor": "isbn9787302697039_2_2_1_7_17",
+          "level": 4
+        },
+        {
+          "title": "1.8 查询电瓶车品牌信息模块设计",
+          "anchor": "isbn9787302697039_2_2_1_8",
+          "level": 3
+        },
+        {
+          "title": "1.8.1 前端设计",
+          "anchor": "isbn9787302697039_2_2_1_8_18",
+          "level": 4
+        },
+        {
+          "title": "1.8.2 后端设计",
+          "anchor": "isbn9787302697039_2_2_1_8_19",
+          "level": 4
+        },
+        {
+          "title": "1.9 新增电瓶车品牌信息模块设计",
+          "anchor": "isbn9787302697039_2_2_1_9",
+          "level": 3
+        },
+        {
+          "title": "1.9.1 前端设计",
+          "anchor": "isbn9787302697039_2_2_1_9_20",
+          "level": 4
+        },
+        {
+          "title": "1.9.2 后端设计",
+          "anchor": "isbn9787302697039_2_2_1_9_21",
+          "level": 4
+        },
+        {
+          "title": "1.10 删除电瓶车品牌信息模块设计",
+          "anchor": "isbn9787302697039_2_2_1_10",
+          "level": 3
+        },
+        {
+          "title": "1.10.1 前端设计",
+          "anchor": "isbn9787302697039_2_2_1_10_22",
+          "level": 4
+        },
+        {
+          "title": "1.10.2 后端设计",
+          "anchor": "isbn9787302697039_2_2_1_10_23",
+          "level": 4
+        },
+        {
+          "title": "1.11 项目运行",
+          "anchor": "isbn9787302697039_2_2_1_11",
+          "level": 3
+        },
+        {
+          "title": "1.12 源码下载",
+          "anchor": "isbn9787302697039_2_2_1_12",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第2章 寻物启事网站——Vue.js+Spring Boot+MySQL",
+      "level": 2,
+      "wordCount": 17323,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1 开发背景",
+          "anchor": "isbn9787302697039_2_3_1_1",
+          "level": 3
+        },
+        {
+          "title": "2.2 系统设计",
+          "anchor": "isbn9787302697039_2_3_1_2",
+          "level": 3
+        },
+        {
+          "title": "2.2.1 开发环境",
+          "anchor": "isbn9787302697039_2_3_1_2_1",
+          "level": 4
+        },
+        {
+          "title": "2.2.2 业务流程",
+          "anchor": "isbn9787302697039_2_3_1_2_2",
+          "level": 4
+        },
+        {
+          "title": "2.2.3 功能结构",
+          "anchor": "isbn9787302697039_2_3_1_2_3",
+          "level": 4
+        },
+        {
+          "title": "2.3 技术准备",
+          "anchor": "isbn9787302697039_2_3_1_3",
+          "level": 3
+        },
+        {
+          "title": "2.4 数据库设计",
+          "anchor": "isbn9787302697039_2_3_1_4",
+          "level": 3
+        },
+        {
+          "title": "2.4.1 数据库概述",
+          "anchor": "isbn9787302697039_2_3_1_4_4",
+          "level": 4
+        },
+        {
+          "title": "2.4.2 数据表设计",
+          "anchor": "isbn9787302697039_2_3_1_4_5",
+          "level": 4
+        },
+        {
+          "title": "2.5 后端依赖配置和公共模块设计",
+          "anchor": "isbn9787302697039_2_3_1_5",
+          "level": 3
+        },
+        {
+          "title": "2.5.1 添加依赖和配置信息",
+          "anchor": "isbn9787302697039_2_3_1_5_6",
+          "level": 4
+        },
+        {
+          "title": "2.5.2 实体类设计",
+          "anchor": "isbn9787302697039_2_3_1_5_7",
+          "level": 4
+        },
+        {
+          "title": "2.6 登录模块设计",
+          "anchor": "isbn9787302697039_2_3_1_6",
+          "level": 3
+        },
+        {
+          "title": "2.6.1 前端设计",
+          "anchor": "isbn9787302697039_2_3_1_6_8",
+          "level": 4
+        },
+        {
+          "title": "2.6.2 后端设计",
+          "anchor": "isbn9787302697039_2_3_1_6_9",
+          "level": 4
+        },
+        {
+          "title": "2.7 前端导航超链接设计",
+          "anchor": "isbn9787302697039_2_3_1_7",
+          "level": 3
+        },
+        {
+          "title": "2.7.1 首页头部导航超链接设计",
+          "anchor": "isbn9787302697039_2_3_1_7_10",
+          "level": 4
+        },
+        {
+          "title": "2.7.2 管理中心左侧导航超链接设计",
+          "anchor": "isbn9787302697039_2_3_1_7_11",
+          "level": 4
+        },
+        {
+          "title": "2.7.3 退出登录超链接设计",
+          "anchor": "isbn9787302697039_2_3_1_7_12",
+          "level": 4
+        },
+        {
+          "title": "2.8 查看失物信息模块设计",
+          "anchor": "isbn9787302697039_2_3_1_8",
+          "level": 3
+        },
+        {
+          "title": "2.8.1 前端设计",
+          "anchor": "isbn9787302697039_2_3_1_8_13",
+          "level": 4
+        },
+        {
+          "title": "2.8.2 后端设计",
+          "anchor": "isbn9787302697039_2_3_1_8_14",
+          "level": 4
+        },
+        {
+          "title": "2.9 发布寻物启事模块设计",
+          "anchor": "isbn9787302697039_2_3_1_9",
+          "level": 3
+        },
+        {
+          "title": "2.9.1 前端设计",
+          "anchor": "isbn9787302697039_2_3_1_9_15",
+          "level": 4
+        },
+        {
+          "title": "2.9.2 后端设计",
+          "anchor": "isbn9787302697039_2_3_1_9_16",
+          "level": 4
+        },
+        {
+          "title": "2.10 修改用户信息模块设计",
+          "anchor": "isbn9787302697039_2_3_1_10",
+          "level": 3
+        },
+        {
+          "title": "2.10.1 前端设计",
+          "anchor": "isbn9787302697039_2_3_1_10_17",
+          "level": 4
+        },
+        {
+          "title": "2.10.2 后端设计",
+          "anchor": "isbn9787302697039_2_3_1_10_18",
+          "level": 4
+        },
+        {
+          "title": "2.11 用户管理模块设计",
+          "anchor": "isbn9787302697039_2_3_1_11",
+          "level": 3
+        },
+        {
+          "title": "2.11.1 前端设计",
+          "anchor": "isbn9787302697039_2_3_1_11_19",
+          "level": 4
+        },
+        {
+          "title": "2.11.2 后端设计",
+          "anchor": "isbn9787302697039_2_3_1_11_20",
+          "level": 4
+        },
+        {
+          "title": "2.12 分类管理模块设计",
+          "anchor": "isbn9787302697039_2_3_1_12",
+          "level": 3
+        },
+        {
+          "title": "2.12.1 前端设计",
+          "anchor": "isbn9787302697039_2_3_1_12_21",
+          "level": 4
+        },
+        {
+          "title": "2.12.2 后端设计",
+          "anchor": "isbn9787302697039_2_3_1_12_22",
+          "level": 4
+        },
+        {
+          "title": "2.13 寻物启事审核模块设计",
+          "anchor": "isbn9787302697039_2_3_1_13",
+          "level": 3
+        },
+        {
+          "title": "2.13.1 前端设计",
+          "anchor": "isbn9787302697039_2_3_1_13_23",
+          "level": 4
+        },
+        {
+          "title": "2.13.2 后端设计",
+          "anchor": "isbn9787302697039_2_3_1_13_24",
+          "level": 4
+        },
+        {
+          "title": "2.14 项目运行",
+          "anchor": "isbn9787302697039_2_3_1_14",
+          "level": 3
+        },
+        {
+          "title": "2.15 源码下载",
+          "anchor": "isbn9787302697039_2_3_1_15",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第3章 明日之星物业管理系统——Vue.js+Spring Boot+MySQL",
+      "level": 2,
+      "wordCount": 20477,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.1 开发背景",
+          "anchor": "isbn9787302697039_2_4_1_1",
+          "level": 3
+        },
+        {
+          "title": "3.2 系统设计",
+          "anchor": "isbn9787302697039_2_4_1_2",
+          "level": 3
+        },
+        {
+          "title": "3.2.1 开发环境",
+          "anchor": "isbn9787302697039_2_4_1_2_1",
+          "level": 4
+        },
+        {
+          "title": "3.2.2 业务流程",
+          "anchor": "isbn9787302697039_2_4_1_2_2",
+          "level": 4
+        },
+        {
+          "title": "3.2.3 功能结构",
+          "anchor": "isbn9787302697039_2_4_1_2_3",
+          "level": 4
+        },
+        {
+          "title": "3.3 技术准备",
+          "anchor": "isbn9787302697039_2_4_1_3",
+          "level": 3
+        },
+        {
+          "title": "3.4 数据库设计",
+          "anchor": "isbn9787302697039_2_4_1_4",
+          "level": 3
+        },
+        {
+          "title": "3.4.1 数据库概述",
+          "anchor": "isbn9787302697039_2_4_1_4_4",
+          "level": 4
+        },
+        {
+          "title": "3.4.2 数据表设计",
+          "anchor": "isbn9787302697039_2_4_1_4_5",
+          "level": 4
+        },
+        {
+          "title": "3.5 后端依赖配置和公共模块设计",
+          "anchor": "isbn9787302697039_2_4_1_5",
+          "level": 3
+        },
+        {
+          "title": "3.5.1 添加依赖和配置信息",
+          "anchor": "isbn9787302697039_2_4_1_5_6",
+          "level": 4
+        },
+        {
+          "title": "3.5.2 实体类设计",
+          "anchor": "isbn9787302697039_2_4_1_5_7",
+          "level": 4
+        },
+        {
+          "title": "3.6 登录模块设计",
+          "anchor": "isbn9787302697039_2_4_1_6",
+          "level": 3
+        },
+        {
+          "title": "3.6.1 前端设计",
+          "anchor": "isbn9787302697039_2_4_1_6_8",
+          "level": 4
+        },
+        {
+          "title": "3.6.2 后端设计",
+          "anchor": "isbn9787302697039_2_4_1_6_9",
+          "level": 4
+        },
+        {
+          "title": "3.7 侧边栏设计",
+          "anchor": "isbn9787302697039_2_4_1_7",
+          "level": 3
+        },
+        {
+          "title": "3.8 缴纳费用模块设计",
+          "anchor": "isbn9787302697039_2_4_1_8",
+          "level": 3
+        },
+        {
+          "title": "3.8.1 前端设计",
+          "anchor": "isbn9787302697039_2_4_1_8_10",
+          "level": 4
+        },
+        {
+          "title": "3.8.2 后端设计",
+          "anchor": "isbn9787302697039_2_4_1_8_11",
+          "level": 4
+        },
+        {
+          "title": "3.9 申请报修模块设计",
+          "anchor": "isbn9787302697039_2_4_1_9",
+          "level": 3
+        },
+        {
+          "title": "3.9.1 前端设计",
+          "anchor": "isbn9787302697039_2_4_1_9_12",
+          "level": 4
+        },
+        {
+          "title": "3.9.2 后端设计",
+          "anchor": "isbn9787302697039_2_4_1_9_13",
+          "level": 4
+        },
+        {
+          "title": "3.10 报修管理（面向住户）模块设计",
+          "anchor": "isbn9787302697039_2_4_1_10",
+          "level": 3
+        },
+        {
+          "title": "3.10.1 前端设计",
+          "anchor": "isbn9787302697039_2_4_1_10_14",
+          "level": 4
+        },
+        {
+          "title": "3.10.2 后端设计",
+          "anchor": "isbn9787302697039_2_4_1_10_15",
+          "level": 4
+        },
+        {
+          "title": "3.11 发起投诉模块设计",
+          "anchor": "isbn9787302697039_2_4_1_11",
+          "level": 3
+        },
+        {
+          "title": "3.11.1 前端设计",
+          "anchor": "isbn9787302697039_2_4_1_11_16",
+          "level": 4
+        },
+        {
+          "title": "3.11.2 后端设计",
+          "anchor": "isbn9787302697039_2_4_1_11_17",
+          "level": 4
+        },
+        {
+          "title": "3.12 投诉管理（面向住户）模块设计",
+          "anchor": "isbn9787302697039_2_4_1_12",
+          "level": 3
+        },
+        {
+          "title": "3.12.1 前端设计",
+          "anchor": "isbn9787302697039_2_4_1_12_18",
+          "level": 4
+        },
+        {
+          "title": "3.12.2 后端设计",
+          "anchor": "isbn9787302697039_2_4_1_12_19",
+          "level": 4
+        },
+        {
+          "title": "3.13 报修管理（面向管理员）模块设计",
+          "anchor": "isbn9787302697039_2_4_1_13",
+          "level": 3
+        },
+        {
+          "title": "3.13.1 前端设计",
+          "anchor": "isbn9787302697039_2_4_1_13_20",
+          "level": 4
+        },
+        {
+          "title": "3.13.2 后端设计",
+          "anchor": "isbn9787302697039_2_4_1_13_21",
+          "level": 4
+        },
+        {
+          "title": "3.14 投诉管理（面向管理员）模块设计",
+          "anchor": "isbn9787302697039_2_4_1_14",
+          "level": 3
+        },
+        {
+          "title": "3.14.1 前端设计",
+          "anchor": "isbn9787302697039_2_4_1_14_22",
+          "level": 4
+        },
+        {
+          "title": "3.14.2 后端设计",
+          "anchor": "isbn9787302697039_2_4_1_14_23",
+          "level": 4
+        },
+        {
+          "title": "3.15 收费项目管理模块设计",
+          "anchor": "isbn9787302697039_2_4_1_15",
+          "level": 3
+        },
+        {
+          "title": "3.15.1 前端设计",
+          "anchor": "isbn9787302697039_2_4_1_15_24",
+          "level": 4
+        },
+        {
+          "title": "3.15.2 后端设计",
+          "anchor": "isbn9787302697039_2_4_1_15_25",
+          "level": 4
+        },
+        {
+          "title": "3.16 物业人员管理模块设计",
+          "anchor": "isbn9787302697039_2_4_1_16",
+          "level": 3
+        },
+        {
+          "title": "3.16.1 前端设计",
+          "anchor": "isbn9787302697039_2_4_1_16_26",
+          "level": 4
+        },
+        {
+          "title": "3.16.2 后端设计",
+          "anchor": "isbn9787302697039_2_4_1_16_27",
+          "level": 4
+        },
+        {
+          "title": "3.17 住户信息管理模块设计",
+          "anchor": "isbn9787302697039_2_4_1_17",
+          "level": 3
+        },
+        {
+          "title": "3.17.1 前端设计",
+          "anchor": "isbn9787302697039_2_4_1_17_28",
+          "level": 4
+        },
+        {
+          "title": "3.17.2 后端设计",
+          "anchor": "isbn9787302697039_2_4_1_17_29",
+          "level": 4
+        },
+        {
+          "title": "3.18 退出登录模块设计",
+          "anchor": "isbn9787302697039_2_4_1_18",
+          "level": 3
+        },
+        {
+          "title": "3.19 项目运行",
+          "anchor": "isbn9787302697039_2_4_1_19",
+          "level": 3
+        },
+        {
+          "title": "3.20 源码下载",
+          "anchor": "isbn9787302697039_2_4_1_20",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第2篇 Django+Vue.js方向",
+      "level": 1,
+      "wordCount": 201,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第4章 吃了么外卖网——Vue.js+Element UI+Django+django-redis+MySQL+Redis",
+      "level": 2,
+      "wordCount": 14879,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.1 开发背景",
+          "anchor": "isbn9787302697039_3_5_1_1",
+          "level": 3
+        },
+        {
+          "title": "4.2 系统设计",
+          "anchor": "isbn9787302697039_3_5_1_2",
+          "level": 3
+        },
+        {
+          "title": "4.2.1 开发环境",
+          "anchor": "isbn9787302697039_3_5_1_2_1",
+          "level": 4
+        },
+        {
+          "title": "4.2.2 业务流程",
+          "anchor": "isbn9787302697039_3_5_1_2_2",
+          "level": 4
+        },
+        {
+          "title": "4.2.3 功能结构",
+          "anchor": "isbn9787302697039_3_5_1_2_3",
+          "level": 4
+        },
+        {
+          "title": "4.3 前端技术准备",
+          "anchor": "isbn9787302697039_3_5_1_3",
+          "level": 3
+        },
+        {
+          "title": "4.3.1 Vue.js技术应用",
+          "anchor": "isbn9787302697039_3_5_1_3_4",
+          "level": 4
+        },
+        {
+          "title": "4.3.2 ElementUI库的使用",
+          "anchor": "isbn9787302697039_3_5_1_3_5",
+          "level": 4
+        },
+        {
+          "title": "4.4 后端技术准备",
+          "anchor": "isbn9787302697039_3_5_1_4",
+          "level": 3
+        },
+        {
+          "title": "4.4.1 Django框架的基本使用",
+          "anchor": "isbn9787302697039_3_5_1_4_6",
+          "level": 4
+        },
+        {
+          "title": "4.4.2 使用django-redis模块操作Redis数据库",
+          "anchor": "isbn9787302697039_3_5_1_4_7",
+          "level": 4
+        },
+        {
+          "title": "4.5 数据库设计",
+          "anchor": "isbn9787302697039_3_5_1_5",
+          "level": 3
+        },
+        {
+          "title": "4.5.1 数据库设计概要",
+          "anchor": "isbn9787302697039_3_5_1_5_8",
+          "level": 4
+        },
+        {
+          "title": "4.5.2 数据表结构",
+          "anchor": "isbn9787302697039_3_5_1_5_9",
+          "level": 4
+        },
+        {
+          "title": "4.5.3 数据表关系",
+          "anchor": "isbn9787302697039_3_5_1_5_10",
+          "level": 4
+        },
+        {
+          "title": "4.6 店铺模块设计",
+          "anchor": "isbn9787302697039_3_5_1_6",
+          "level": 3
+        },
+        {
+          "title": "4.6.1 店铺首页",
+          "anchor": "isbn9787302697039_3_5_1_6_11",
+          "level": 4
+        },
+        {
+          "title": "4.6.2 店铺详情页",
+          "anchor": "isbn9787302697039_3_5_1_6_12",
+          "level": 4
+        },
+        {
+          "title": "4.7 购物车模块设计",
+          "anchor": "isbn9787302697039_3_5_1_7",
+          "level": 3
+        },
+        {
+          "title": "4.7.1 添加至购物车",
+          "anchor": "isbn9787302697039_3_5_1_7_13",
+          "level": 4
+        },
+        {
+          "title": "4.7.2 订单确认",
+          "anchor": "isbn9787302697039_3_5_1_7_14",
+          "level": 4
+        },
+        {
+          "title": "4.8 订单模块设计",
+          "anchor": "isbn9787302697039_3_5_1_8",
+          "level": 3
+        },
+        {
+          "title": "4.8.1 订单生成",
+          "anchor": "isbn9787302697039_3_5_1_8_15",
+          "level": 4
+        },
+        {
+          "title": "4.8.2 订单追踪",
+          "anchor": "isbn9787302697039_3_5_1_8_16",
+          "level": 4
+        },
+        {
+          "title": "4.8.3 订单管理",
+          "anchor": "isbn9787302697039_3_5_1_8_17",
+          "level": 4
+        },
+        {
+          "title": "4.9 项目运行",
+          "anchor": "isbn9787302697039_3_5_1_9",
+          "level": 3
+        },
+        {
+          "title": "4.10 源码下载",
+          "anchor": "isbn9787302697039_3_5_1_10",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第5章 综艺之家——Bootstrap+Django-simpleui+Echarts+Django+Django-Spirit",
+      "level": 2,
+      "wordCount": 14199,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1 开发背景",
+          "anchor": "isbn9787302697039_3_6_1_1",
+          "level": 3
+        },
+        {
+          "title": "5.2 系统设计",
+          "anchor": "isbn9787302697039_3_6_1_2",
+          "level": 3
+        },
+        {
+          "title": "5.2.1 开发环境",
+          "anchor": "isbn9787302697039_3_6_1_2_1",
+          "level": 4
+        },
+        {
+          "title": "5.2.2 业务流程",
+          "anchor": "isbn9787302697039_3_6_1_2_2",
+          "level": 4
+        },
+        {
+          "title": "5.2.3 功能结构",
+          "anchor": "isbn9787302697039_3_6_1_2_3",
+          "level": 4
+        },
+        {
+          "title": "5.3 前端技术准备",
+          "anchor": "isbn9787302697039_3_6_1_3",
+          "level": 3
+        },
+        {
+          "title": "5.3.1 Bootstrap前端框架应用",
+          "anchor": "isbn9787302697039_3_6_1_3_4",
+          "level": 4
+        },
+        {
+          "title": "5.3.2 Django-simpleui的使用",
+          "anchor": "isbn9787302697039_3_6_1_3_5",
+          "level": 4
+        },
+        {
+          "title": "5.3.3 使用Echarts模块显示图表",
+          "anchor": "isbn9787302697039_3_6_1_3_6",
+          "level": 4
+        },
+        {
+          "title": "5.4 后端技术准备",
+          "anchor": "isbn9787302697039_3_6_1_4",
+          "level": 3
+        },
+        {
+          "title": "5.4.1 Django框架的模型与数据库",
+          "anchor": "isbn9787302697039_3_6_1_4_7",
+          "level": 4
+        },
+        {
+          "title": "5.4.2 Django-Spirit框架的使用",
+          "anchor": "isbn9787302697039_3_6_1_4_8",
+          "level": 4
+        },
+        {
+          "title": "5.5 数据库设计",
+          "anchor": "isbn9787302697039_3_6_1_5",
+          "level": 3
+        },
+        {
+          "title": "5.5.1 数据库设计概要",
+          "anchor": "isbn9787302697039_3_6_1_5_9",
+          "level": 4
+        },
+        {
+          "title": "5.5.2 数据表模型",
+          "anchor": "isbn9787302697039_3_6_1_5_10",
+          "level": 4
+        },
+        {
+          "title": "5.5.3 数据表关系",
+          "anchor": "isbn9787302697039_3_6_1_5_11",
+          "level": 4
+        },
+        {
+          "title": "5.6 前台首页设计",
+          "anchor": "isbn9787302697039_3_6_1_6",
+          "level": 3
+        },
+        {
+          "title": "5.6.1 后端设计",
+          "anchor": "isbn9787302697039_3_6_1_6_12",
+          "level": 4
+        },
+        {
+          "title": "5.6.2 前端设计",
+          "anchor": "isbn9787302697039_3_6_1_6_13",
+          "level": 4
+        },
+        {
+          "title": "5.7 综艺详情页设计",
+          "anchor": "isbn9787302697039_3_6_1_7",
+          "level": 3
+        },
+        {
+          "title": "5.7.1 后端设计",
+          "anchor": "isbn9787302697039_3_6_1_7_14",
+          "level": 4
+        },
+        {
+          "title": "5.7.2 前端设计",
+          "anchor": "isbn9787302697039_3_6_1_7_15",
+          "level": 4
+        },
+        {
+          "title": "5.8 搜索功能模块设计",
+          "anchor": "isbn9787302697039_3_6_1_8",
+          "level": 3
+        },
+        {
+          "title": "5.8.1 后端设计",
+          "anchor": "isbn9787302697039_3_6_1_8_16",
+          "level": 4
+        },
+        {
+          "title": "5.8.2 前端设计",
+          "anchor": "isbn9787302697039_3_6_1_8_17",
+          "level": 4
+        },
+        {
+          "title": "5.9 分类功能模块设计",
+          "anchor": "isbn9787302697039_3_6_1_9",
+          "level": 3
+        },
+        {
+          "title": "5.9.1 后端设计",
+          "anchor": "isbn9787302697039_3_6_1_9_18",
+          "level": 4
+        },
+        {
+          "title": "5.9.2 前端设计",
+          "anchor": "isbn9787302697039_3_6_1_9_19",
+          "level": 4
+        },
+        {
+          "title": "5.10 可视化图表模块设计",
+          "anchor": "isbn9787302697039_3_6_1_10",
+          "level": 3
+        },
+        {
+          "title": "5.10.1 后端设计",
+          "anchor": "isbn9787302697039_3_6_1_10_20",
+          "level": 4
+        },
+        {
+          "title": "5.10.2 前端设计",
+          "anchor": "isbn9787302697039_3_6_1_10_21",
+          "level": 4
+        },
+        {
+          "title": "5.11 论坛模块设计",
+          "anchor": "isbn9787302697039_3_6_1_11",
+          "level": 3
+        },
+        {
+          "title": "5.12 后台管理模块设计",
+          "anchor": "isbn9787302697039_3_6_1_12",
+          "level": 3
+        },
+        {
+          "title": "5.13 项目运行",
+          "anchor": "isbn9787302697039_3_6_1_13",
+          "level": 3
+        },
+        {
+          "title": "5.14 源码下载",
+          "anchor": "isbn9787302697039_3_6_1_14",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第3篇 Node.js+Vue.js方向",
+      "level": 1,
+      "wordCount": 184,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第6章 四季旅游信息网——Vue CLI+axios+ElementPlus+Node.js+Express框架+ MySQL",
+      "level": 2,
+      "wordCount": 19983,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.1 开发背景",
+          "anchor": "isbn9787302697039_4_7_1_1",
+          "level": 3
+        },
+        {
+          "title": "6.2 系统设计",
+          "anchor": "isbn9787302697039_4_7_1_2",
+          "level": 3
+        },
+        {
+          "title": "6.2.1 开发环境",
+          "anchor": "isbn9787302697039_4_7_1_2_1",
+          "level": 4
+        },
+        {
+          "title": "6.2.2 业务流程",
+          "anchor": "isbn9787302697039_4_7_1_2_2",
+          "level": 4
+        },
+        {
+          "title": "6.2.3 功能结构",
+          "anchor": "isbn9787302697039_4_7_1_2_3",
+          "level": 4
+        },
+        {
+          "title": "6.3 前端技术准备",
+          "anchor": "isbn9787302697039_4_7_1_3",
+          "level": 3
+        },
+        {
+          "title": "6.3.1 VueCLI",
+          "anchor": "isbn9787302697039_4_7_1_3_4",
+          "level": 4
+        },
+        {
+          "title": "6.3.2 axios",
+          "anchor": "isbn9787302697039_4_7_1_3_5",
+          "level": 4
+        },
+        {
+          "title": "6.3.3 ElementPlus",
+          "anchor": "isbn9787302697039_4_7_1_3_6",
+          "level": 4
+        },
+        {
+          "title": "6.4 后端技术准备",
+          "anchor": "isbn9787302697039_4_7_1_4",
+          "level": 3
+        },
+        {
+          "title": "6.4.1 Node.js",
+          "anchor": "isbn9787302697039_4_7_1_4_7",
+          "level": 4
+        },
+        {
+          "title": "6.4.2 Express框架",
+          "anchor": "isbn9787302697039_4_7_1_4_8",
+          "level": 4
+        },
+        {
+          "title": "6.5 搭建项目结构",
+          "anchor": "isbn9787302697039_4_7_1_5",
+          "level": 3
+        },
+        {
+          "title": "6.5.1 生成前端文件夹",
+          "anchor": "isbn9787302697039_4_7_1_5_9",
+          "level": 4
+        },
+        {
+          "title": "6.5.2 生成后端文件夹",
+          "anchor": "isbn9787302697039_4_7_1_5_10",
+          "level": 4
+        },
+        {
+          "title": "6.5.3 解决跨域问题",
+          "anchor": "isbn9787302697039_4_7_1_5_11",
+          "level": 4
+        },
+        {
+          "title": "6.6 数据库设计",
+          "anchor": "isbn9787302697039_4_7_1_6",
+          "level": 3
+        },
+        {
+          "title": "6.6.1 数据库概述",
+          "anchor": "isbn9787302697039_4_7_1_6_12",
+          "level": 4
+        },
+        {
+          "title": "6.6.2 数据表结构",
+          "anchor": "isbn9787302697039_4_7_1_6_13",
+          "level": 4
+        },
+        {
+          "title": "6.6.3 数据库连接文件",
+          "anchor": "isbn9787302697039_4_7_1_6_14",
+          "level": 4
+        },
+        {
+          "title": "6.7 公共组件设计",
+          "anchor": "isbn9787302697039_4_7_1_7",
+          "level": 3
+        },
+        {
+          "title": "6.7.1 页面头部组件设计",
+          "anchor": "isbn9787302697039_4_7_1_7_15",
+          "level": 4
+        },
+        {
+          "title": "6.7.2 页面底部组件设计",
+          "anchor": "isbn9787302697039_4_7_1_7_16",
+          "level": 4
+        },
+        {
+          "title": "6.8 首页设计",
+          "anchor": "isbn9787302697039_4_7_1_8",
+          "level": 3
+        },
+        {
+          "title": "6.9 热门景点页面设计",
+          "anchor": "isbn9787302697039_4_7_1_9",
+          "level": 3
+        },
+        {
+          "title": "6.9.1 景点列表组件设计",
+          "anchor": "isbn9787302697039_4_7_1_9_17",
+          "level": 4
+        },
+        {
+          "title": "6.9.2 景点列表项组件设计",
+          "anchor": "isbn9787302697039_4_7_1_9_18",
+          "level": 4
+        },
+        {
+          "title": "6.9.3 景点详情组件设计",
+          "anchor": "isbn9787302697039_4_7_1_9_19",
+          "level": 4
+        },
+        {
+          "title": "6.9.4 门票预订组件设计",
+          "anchor": "isbn9787302697039_4_7_1_9_20",
+          "level": 4
+        },
+        {
+          "title": "6.10 酒店住宿页面设计",
+          "anchor": "isbn9787302697039_4_7_1_10",
+          "level": 3
+        },
+        {
+          "title": "6.10.1 酒店列表组件设计",
+          "anchor": "isbn9787302697039_4_7_1_10_21",
+          "level": 4
+        },
+        {
+          "title": "6.10.2 酒店列表项组件设计",
+          "anchor": "isbn9787302697039_4_7_1_10_22",
+          "level": 4
+        },
+        {
+          "title": "6.10.3 酒店搜索结果组件设计",
+          "anchor": "isbn9787302697039_4_7_1_10_23",
+          "level": 4
+        },
+        {
+          "title": "6.10.4 酒店详情组件设计",
+          "anchor": "isbn9787302697039_4_7_1_10_24",
+          "level": 4
+        },
+        {
+          "title": "6.11 游客服务页面设计",
+          "anchor": "isbn9787302697039_4_7_1_11",
+          "level": 3
+        },
+        {
+          "title": "6.11.1 游客服务组件设计",
+          "anchor": "isbn9787302697039_4_7_1_11_25",
+          "level": 4
+        },
+        {
+          "title": "6.11.2 导游组件设计",
+          "anchor": "isbn9787302697039_4_7_1_11_26",
+          "level": 4
+        },
+        {
+          "title": "6.11.3 游客须知组件设计",
+          "anchor": "isbn9787302697039_4_7_1_11_27",
+          "level": 4
+        },
+        {
+          "title": "6.12 用户中心页面设计",
+          "anchor": "isbn9787302697039_4_7_1_12",
+          "level": 3
+        },
+        {
+          "title": "6.12.1 用户注册组件设计",
+          "anchor": "isbn9787302697039_4_7_1_12_28",
+          "level": 4
+        },
+        {
+          "title": "6.12.2 用户登录组件设计",
+          "anchor": "isbn9787302697039_4_7_1_12_29",
+          "level": 4
+        },
+        {
+          "title": "6.12.3 用户管理组件设计",
+          "anchor": "isbn9787302697039_4_7_1_12_30",
+          "level": 4
+        },
+        {
+          "title": "6.12.4 用户编辑组件设计",
+          "anchor": "isbn9787302697039_4_7_1_12_31",
+          "level": 4
+        },
+        {
+          "title": "6.12.5 用户订单组件设计",
+          "anchor": "isbn9787302697039_4_7_1_12_32",
+          "level": 4
+        },
+        {
+          "title": "6.13 项目运行",
+          "anchor": "isbn9787302697039_4_7_1_13",
+          "level": 3
+        },
+        {
+          "title": "6.14 源码下载",
+          "anchor": "isbn9787302697039_4_7_1_14",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第7章 电影易购APP——Vue CLI+axios+Vant+Swiper+Node.js+Express框架+ MySQL",
+      "level": 2,
+      "wordCount": 20580,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.1 开发背景",
+          "anchor": "isbn9787302697039_4_8_1_1",
+          "level": 3
+        },
+        {
+          "title": "7.2 系统设计",
+          "anchor": "isbn9787302697039_4_8_1_2",
+          "level": 3
+        },
+        {
+          "title": "7.2.1 开发环境",
+          "anchor": "isbn9787302697039_4_8_1_2_1",
+          "level": 4
+        },
+        {
+          "title": "7.2.2 业务流程",
+          "anchor": "isbn9787302697039_4_8_1_2_2",
+          "level": 4
+        },
+        {
+          "title": "7.2.3 功能结构",
+          "anchor": "isbn9787302697039_4_8_1_2_3",
+          "level": 4
+        },
+        {
+          "title": "7.3 技术准备",
+          "anchor": "isbn9787302697039_4_8_1_3",
+          "level": 3
+        },
+        {
+          "title": "7.3.1 Vant",
+          "anchor": "isbn9787302697039_4_8_1_3_4",
+          "level": 4
+        },
+        {
+          "title": "7.3.2 Swiper",
+          "anchor": "isbn9787302697039_4_8_1_3_5",
+          "level": 4
+        },
+        {
+          "title": "7.4 搭建项目结构",
+          "anchor": "isbn9787302697039_4_8_1_4",
+          "level": 3
+        },
+        {
+          "title": "7.4.1 生成前端文件夹",
+          "anchor": "isbn9787302697039_4_8_1_4_6",
+          "level": 4
+        },
+        {
+          "title": "7.4.2 生成后端文件夹",
+          "anchor": "isbn9787302697039_4_8_1_4_7",
+          "level": 4
+        },
+        {
+          "title": "7.4.3 解决跨域问题",
+          "anchor": "isbn9787302697039_4_8_1_4_8",
+          "level": 4
+        },
+        {
+          "title": "7.5 数据库设计",
+          "anchor": "isbn9787302697039_4_8_1_5",
+          "level": 3
+        },
+        {
+          "title": "7.5.1 数据库概述",
+          "anchor": "isbn9787302697039_4_8_1_5_9",
+          "level": 4
+        },
+        {
+          "title": "7.5.2 数据表结构",
+          "anchor": "isbn9787302697039_4_8_1_5_10",
+          "level": 4
+        },
+        {
+          "title": "7.5.3 数据库连接文件",
+          "anchor": "isbn9787302697039_4_8_1_5_11",
+          "level": 4
+        },
+        {
+          "title": "7.6 公共组件设计",
+          "anchor": "isbn9787302697039_4_8_1_6",
+          "level": 3
+        },
+        {
+          "title": "7.6.1 头部组件设计",
+          "anchor": "isbn9787302697039_4_8_1_6_12",
+          "level": 4
+        },
+        {
+          "title": "7.6.2 底部导航栏组件设计",
+          "anchor": "isbn9787302697039_4_8_1_6_13",
+          "level": 4
+        },
+        {
+          "title": "7.7 电影页面设计",
+          "anchor": "isbn9787302697039_4_8_1_7",
+          "level": 3
+        },
+        {
+          "title": "7.7.1 正在热映电影组件设计",
+          "anchor": "isbn9787302697039_4_8_1_7_14",
+          "level": 4
+        },
+        {
+          "title": "7.7.2 即将上映电影组件设计",
+          "anchor": "isbn9787302697039_4_8_1_7_15",
+          "level": 4
+        },
+        {
+          "title": "7.7.3 电影搜索组件设计",
+          "anchor": "isbn9787302697039_4_8_1_7_16",
+          "level": 4
+        },
+        {
+          "title": "7.7.4 电影页面组件设计",
+          "anchor": "isbn9787302697039_4_8_1_7_17",
+          "level": 4
+        },
+        {
+          "title": "7.8 选择城市页面设计",
+          "anchor": "isbn9787302697039_4_8_1_8",
+          "level": 3
+        },
+        {
+          "title": "7.9 影院页面设计",
+          "anchor": "isbn9787302697039_4_8_1_9",
+          "level": 3
+        },
+        {
+          "title": "7.9.1 影院列表组件设计",
+          "anchor": "isbn9787302697039_4_8_1_9_18",
+          "level": 4
+        },
+        {
+          "title": "7.9.2 影院页面组件设计",
+          "anchor": "isbn9787302697039_4_8_1_9_19",
+          "level": 4
+        },
+        {
+          "title": "7.10 “我的”页面设计",
+          "anchor": "isbn9787302697039_4_8_1_10",
+          "level": 3
+        },
+        {
+          "title": "7.10.1 用户登录组件设计",
+          "anchor": "isbn9787302697039_4_8_1_10_20",
+          "level": 4
+        },
+        {
+          "title": "7.10.2 用户注册组件设计",
+          "anchor": "isbn9787302697039_4_8_1_10_21",
+          "level": 4
+        },
+        {
+          "title": "7.10.3 用户中心组件设计",
+          "anchor": "isbn9787302697039_4_8_1_10_22",
+          "level": 4
+        },
+        {
+          "title": "7.10.4 “我的”页面组件设计",
+          "anchor": "isbn9787302697039_4_8_1_10_23",
+          "level": 4
+        },
+        {
+          "title": "7.11 实现购票流程相关页面设计",
+          "anchor": "isbn9787302697039_4_8_1_11",
+          "level": 3
+        },
+        {
+          "title": "7.11.1 购票选择影院页面",
+          "anchor": "isbn9787302697039_4_8_1_11_24",
+          "level": 4
+        },
+        {
+          "title": "7.11.2 影院详情页面",
+          "anchor": "isbn9787302697039_4_8_1_11_25",
+          "level": 4
+        },
+        {
+          "title": "7.11.3 选择座位页面",
+          "anchor": "isbn9787302697039_4_8_1_11_26",
+          "level": 4
+        },
+        {
+          "title": "7.11.4 支付页面",
+          "anchor": "isbn9787302697039_4_8_1_11_27",
+          "level": 4
+        },
+        {
+          "title": "7.11.5 订单列表页面",
+          "anchor": "isbn9787302697039_4_8_1_11_28",
+          "level": 4
+        },
+        {
+          "title": "7.12 想看的电影页面设计",
+          "anchor": "isbn9787302697039_4_8_1_12",
+          "level": 3
+        },
+        {
+          "title": "7.13 项目运行",
+          "anchor": "isbn9787302697039_4_8_1_13",
+          "level": 3
+        },
+        {
+          "title": "7.14 源码下载",
+          "anchor": "isbn9787302697039_4_8_1_14",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300180825&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=15"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 8,
+      "chapterTitle": "第2章 寻物启事网站——Vue.js+Spring Boot+MySQL",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300180825_8_22927-22967",
+          "range": "22927-22967",
+          "rangeStart": 22927,
+          "rangeEnd": 22967,
+          "markText": "不论是供学生访问的导航超链接，还是供管理员访问的导航超链接，都有退出登录超链接。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770123405,
+          "createTimeFormatted": "2026-02-03 20:56:45",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=8&rangeStart=22927&rangeEnd=22967",
+          "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=8&rangeStart=22927&rangeEnd=22967"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300180825_7_44470-44501",
+      "chapterUid": 7,
+      "range": "44470-44501",
+      "markText": "查询模块的后端设计主要包括查询模块的控制器类设计和服务类设计。",
+      "totalCount": 256,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=7&rangeStart=44470&rangeEnd=44501",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=7&rangeStart=44470&rangeEnd=44501"
+    },
+    {
+      "bookmarkId": "3300180825_7_1492-1526",
+      "chapterUid": 7,
+      "range": "1492-1526",
+      "markText": "小牛电动、九号等新兴品牌通过推出符合年轻人口味的产品来聚焦高端市场。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=7&rangeStart=1492&rangeEnd=1526",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=7&rangeStart=1492&rangeEnd=1526"
+    },
+    {
+      "bookmarkId": "3300180825_11_46669-46814",
+      "chapterUid": 11,
+      "range": "46669-46814",
+      "markText": "templates\\sj_order.html为订单管理模板页，该页面中主要展示商家的订单列表，展示时按照订单状态进行分类，如待审核、已审核、进行中、配送中、已完成和已取消，其中，每个订单列表都以表格形式显示订单的详细信息，包括下单时间、客户姓名、电话、地址、餐品、金额、备注和订单状态等；",
+      "totalCount": 253,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=11&rangeStart=46669&rangeEnd=46814",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=11&rangeStart=46669&rangeEnd=46814"
+    },
+    {
+      "bookmarkId": "3300180825_15_5961-6010",
+      "chapterUid": 15,
+      "range": "5961-6010",
+      "markText": "如果用户未注册，或已经注册但是未登录，则可以查看正在热映和即将上映的电影、搜索电影和查看影院列表。",
+      "totalCount": 253,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=15&rangeStart=5961&rangeEnd=6010",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=15&rangeStart=5961&rangeEnd=6010"
+    },
+    {
+      "bookmarkId": "3300180825_15_17300-17364",
+      "chapterUid": 15,
+      "range": "17300-17364",
+      "markText": "创建项目文件夹ticket，在命令行中切换到该文件夹，再使用Vue CLI创建前端项目文件夹，文件夹名称设置为frontend。",
+      "totalCount": 253,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=15&rangeStart=17300&rangeEnd=17364",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=15&rangeStart=17300&rangeEnd=17364"
+    },
+    {
+      "bookmarkId": "3300180825_15_19511-19566",
+      "chapterUid": 15,
+      "range": "19511-19566",
+      "markText": "在命令行中切换到ticket文件夹，使用express命令创建后端项目文件夹，文件夹名称设置为backend。",
+      "totalCount": 253,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=15&rangeStart=19511&rangeEnd=19566",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=15&rangeStart=19511&rangeEnd=19566"
+    },
+    {
+      "bookmarkId": "3300180825_14_9103-9150",
+      "chapterUid": 14,
+      "range": "9103-9150",
+      "markText": "门票预订：用户登录成功后，在某个景点详情页面单击“门票预订”按钮可以进入该景点的门票预订页面。",
+      "totalCount": 247,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=14&rangeStart=9103&rangeEnd=9150",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=14&rangeStart=9103&rangeEnd=9150"
+    },
+    {
+      "bookmarkId": "3300180825_7_13406-13442",
+      "chapterUid": 7,
+      "range": "13406-13442",
+      "markText": "v-if指令可以根据表达式的值来判断是否输出DOM元素及其包含的子元素。",
+      "totalCount": 245,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=7&rangeStart=13406&rangeEnd=13442",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=7&rangeStart=13406&rangeEnd=13442"
+    },
+    {
+      "bookmarkId": "3300180825_8_22927-22967",
+      "chapterUid": 8,
+      "range": "22927-22967",
+      "markText": "不论是供学生访问的导航超链接，还是供管理员访问的导航超链接，都有退出登录超链接。",
+      "totalCount": 245,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=8&rangeStart=22927&rangeEnd=22967",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=8&rangeStart=22927&rangeEnd=22967"
+    },
+    {
+      "bookmarkId": "3300180825_12_44650-44698",
+      "chapterUid": 12,
+      "range": "44650-44698",
+      "markText": "最后，再使用admin.site.regiter()方法将数据模型和定义的两个类注册到后台模块。",
+      "totalCount": 242,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=12&rangeStart=44650&rangeEnd=44698",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=12&rangeStart=44650&rangeEnd=44698"
+    },
+    {
+      "bookmarkId": "3300180825_15_6510-6551",
+      "chapterUid": 15,
+      "range": "6510-6551",
+      "markText": "展示正在热映电影：展示的电影信息包括电影图片、电影名称、观众评分和电影主演等信息。",
+      "totalCount": 241,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=15&rangeStart=6510&rangeEnd=6551",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=15&rangeStart=6510&rangeEnd=6551"
+    },
+    {
+      "bookmarkId": "3300180825_9_22523-22649",
+      "chapterUid": 9,
+      "range": "22523-22649",
+      "markText": "在SysLoginController类的login()方法和getKaptchaImage()方法中，分别调用了SysLoginService类的用于检查输入的验证码是否正确的checkCode()方法和login()方法，这两个方法的实现代码如下：",
+      "totalCount": 239,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=9&rangeStart=22523&rangeEnd=22649",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=9&rangeStart=22523&rangeEnd=22649"
+    },
+    {
+      "bookmarkId": "3300180825_12_8643-8690",
+      "chapterUid": 12,
+      "range": "8643-8690",
+      "markText": "论坛模块：用户可在独立的论坛版块发帖和回帖等，也可以通过论坛后台管理论坛中的版块、帖子等信息。",
+      "totalCount": 239,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=12&rangeStart=8643&rangeEnd=8690",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=12&rangeStart=8643&rangeEnd=8690"
+    },
+    {
+      "bookmarkId": "3300180825_11_32821-32893",
+      "chapterUid": 11,
+      "range": "32821-32893",
+      "markText": "在首页或者店铺的列表页中，如果单击某一店铺，会跳转到店铺的详情页面，此时只需要将店铺的ID信息传递给后台，通常发送的是GET请求，关键代码如下：",
+      "totalCount": 238,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=11&rangeStart=32821&rangeEnd=32893",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=11&rangeStart=32821&rangeEnd=32893"
+    },
+    {
+      "bookmarkId": "3300180825_11_36064-36199",
+      "chapterUid": 11,
+      "range": "36064-36199",
+      "markText": "店铺详情页面(templates\\wm_shop.html)已经将所有的商品信息查询出来，当在该页面中单击商品的“+”时，就会将1件商品添加至购物车中，多次单击“+”将会添加多个商品，并且购物车的相应商品中会显示“-”，也会显示商品数量、商品总价并判断是否符合配送价格；",
+      "totalCount": 237,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=11&rangeStart=36064&rangeEnd=36199",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=11&rangeStart=36064&rangeEnd=36199"
+    },
+    {
+      "bookmarkId": "3300180825_15_7536-7582",
+      "chapterUid": 15,
+      "range": "7536-7582",
+      "markText": "展示即将上映电影：展示的电影信息包括电影图片、电影名称、想看人数、电影类型和电影主演等信息。",
+      "totalCount": 236,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=15&rangeStart=7536&rangeEnd=7582",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=15&rangeStart=7536&rangeEnd=7582"
+    },
+    {
+      "bookmarkId": "3300180825_8_1413-1456",
+      "chapterUid": 8,
+      "range": "1413-1456",
+      "markText": "同时，拾得人即便有心归还物品，也常因不知如何联系失主而感到手足无措，无法顺利完成归还。",
+      "totalCount": 235,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=8&rangeStart=1413&rangeEnd=1456",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=8&rangeStart=1413&rangeEnd=1456"
+    },
+    {
+      "bookmarkId": "3300180825_9_36149-36275",
+      "chapterUid": 9,
+      "range": "36149-36275",
+      "markText": "在SysComplaintController类的addFacilities()方法中，有一个参数，即SysComplaint类的对象，它就是投诉管理类对象，其作用是把如图3.11和图3.12所示的投诉管理页面的所有数据封装起来，进而减少传输的数据量。",
+      "totalCount": 235,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=9&rangeStart=36149&rangeEnd=36275",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=9&rangeStart=36149&rangeEnd=36275"
+    },
+    {
+      "bookmarkId": "3300180825_7_6091-6136",
+      "chapterUid": 7,
+      "range": "6091-6136",
+      "markText": "查询电瓶车的品牌信息：查询数据库中所有电瓶车的品牌名称、品牌评分、好评率和品牌介绍等信息。",
+      "totalCount": 233,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=7&rangeStart=6091&rangeEnd=6136",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=7&rangeStart=6091&rangeEnd=6136"
+    },
+    {
+      "bookmarkId": "3300180825_9_22879-22962",
+      "chapterUid": 9,
+      "range": "22879-22962",
+      "markText": "在SysLoginService类的login()方法中，调用了SysUserService类的findUserAcl()方法，该方法用于获取包含用户身份的用户信息。",
+      "totalCount": 233,
+      "appLink": "weread://bestbookmark?bookId=3300180825&chapterUid=9&rangeStart=22879&rangeEnd=22962",
+      "webLink": "https://weread.qq.com/web/reader/5f332830813abad22g015e1d?chapterUid=9&rangeStart=22879&rangeEnd=22962"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 15,
+    "chapterOffset": 65812,
+    "progress": 0,
+    "updateTime": 1773836845,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

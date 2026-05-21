@@ -1,0 +1,499 @@
+{
+  "meta": {
+    "bookId": "3300014618",
+    "title": "张居正大传",
+    "author": "朱东润",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/18/3300014618/t6_3300014618.jpg",
+    "intro": "20世纪五大传记图文典藏版，读懂中国古代典型政治家的处世方法和成功之道！铁血首辅的显耀与悲凉，激励人心的精英成长故事，惊心动魄的时代变迁史诗。",
+    "category": "历史-中国古代",
+    "publisher": "湖南人民出版社",
+    "publishTime": "2022-03-01 00:00:00",
+    "isbn": "9787556118922",
+    "wordCount": 0,
+    "newRating": 838,
+    "newRatingCount": 466,
+    "newRatingDetail": {
+      "good": 396,
+      "fair": 49,
+      "poor": 21,
+      "recent": 1,
+      "deepV": 118,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300014618",
+    "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18",
+    "lastSync": "2026-05-21T11:55:59Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面页",
+      "level": 1,
+      "wordCount": 7,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=1"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 2,
+      "title": "版权页",
+      "level": 1,
+      "wordCount": 120,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 3,
+      "title": "序言",
+      "level": 1,
+      "wordCount": 10257,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 4,
+      "title": "隆庆、万历的十六年间内阁七卿年表",
+      "level": 1,
+      "wordCount": 63,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 5,
+      "title": "张氏世系表",
+      "level": 1,
+      "wordCount": 59,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=6"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 6,
+      "title": "第一章　『荆州张秀才』",
+      "level": 1,
+      "wordCount": 7383,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 7,
+      "title": "第二章　政治生活的开始",
+      "level": 1,
+      "wordCount": 15425,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 8,
+      "title": "第三章　休假三年",
+      "level": 1,
+      "wordCount": 7084,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 9,
+      "title": "第四章　再投入政治旋涡",
+      "level": 1,
+      "wordCount": 11591,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 10,
+      "title": "第五章　内阁中的混斗（上）",
+      "level": 1,
+      "wordCount": 21153,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 11,
+      "title": "第六章　内阁中的混斗（下）",
+      "level": 1,
+      "wordCount": 19643,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 12,
+      "title": "第七章　大政变",
+      "level": 1,
+      "wordCount": 19219,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 13,
+      "title": "第八章　初步的建设（上）",
+      "level": 1,
+      "wordCount": 20718,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 14,
+      "title": "第九章　初步的建设（下）",
+      "level": 1,
+      "wordCount": 20867,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 15,
+      "title": "第十章　第一次打击以后",
+      "level": 1,
+      "wordCount": 29991,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 16,
+      "title": "第十一章　从夺情到归葬",
+      "level": 1,
+      "wordCount": 30011,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 17,
+      "title": "第十二章　元老的成功",
+      "level": 1,
+      "wordCount": 38391,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 18,
+      "title": "第十三章　鞠躬尽瘁",
+      "level": 1,
+      "wordCount": 13820,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 19,
+      "title": "第十四章　尾声",
+      "level": 1,
+      "wordCount": 6897,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014618&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=21"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 12,
+      "chapterTitle": "第五章　内阁中的混斗（上）",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300014618_12_11772-11799",
+          "range": "11772-11799",
+          "rangeStart": 11772,
+          "rangeEnd": 11799,
+          "markText": "臣闻天下之事，虑之贵详，行之贵力，谋在于众，断在于独。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1725949674,
+          "createTimeFormatted": "2024-09-10 14:27:54",
+          "chapterUid": 12,
+          "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=12&rangeStart=11772&rangeEnd=11799",
+          "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=12&rangeStart=11772&rangeEnd=11799"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300014618_18_15534-15631",
+      "chapterUid": 18,
+      "range": "15534-15631",
+      "markText": "居正在疏中虽请神宗恢弘圣度，但是居正的度量委实亟待恢弘。假如他认识吴中行等只是“迂儒拘挛之见”，那么为什么不能救解于事后？为什么认为上疏救解，只是欺世盗名之事？居正只是心地窄隘，谈不上容人之量。",
+      "totalCount": 408,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=18&rangeStart=15534&rangeEnd=15631",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=18&rangeStart=15534&rangeEnd=15631"
+    },
+    {
+      "bookmarkId": "3300014618_16_547-637",
+      "chapterUid": 16,
+      "range": "547-637",
+      "markText": "居正曾经自称别无他长，但能耐烦。这是一句谦虚的话，但是耐烦确是能使他成功的品德。耐烦的人对于一切事务有布置，有步骤。他不会一暴十寒，然而也不求一劳永逸，只是一步一步，脚踏实地去干。",
+      "totalCount": 345,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=16&rangeStart=547&rangeEnd=637",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=16&rangeStart=547&rangeEnd=637"
+    },
+    {
+      "bookmarkId": "3300014618_9_15919-15953",
+      "chapterUid": 9,
+      "range": "15919-15953",
+      "markText": "在严嵩的眼中，居正只是一个应酬诗文的作家，这又证实严嵩不如徐阶敏感。",
+      "totalCount": 340,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=9&rangeStart=15919&rangeEnd=15953",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=9&rangeStart=15919&rangeEnd=15953"
+    },
+    {
+      "bookmarkId": "3300014618_9_1269-1320",
+      "chapterUid": 9,
+      "range": "1269-1320",
+      "markText": "他是洞内的虎豹，发怒的时候会从洞内跳出来，打死些獐猫鹿兔，打得厌倦了，便仍回洞内，度那优裕懒散的生活。",
+      "totalCount": 323,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=9&rangeStart=1269&rangeEnd=1320",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=9&rangeStart=1269&rangeEnd=1320"
+    },
+    {
+      "bookmarkId": "3300014618_9_6230-6302",
+      "chapterUid": 9,
+      "range": "6230-6302",
+      "markText": "在居正入翰林院的时候，多数进士正在讨论怎样做西汉的文章和盛唐的诗句，但是居正的注意力却集中到实用上面。居正的目光似已远远地看到二十年以后的将来。",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=9&rangeStart=6230&rangeEnd=6302",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=9&rangeStart=6230&rangeEnd=6302"
+    },
+    {
+      "bookmarkId": "3300014618_18_12624-12673",
+      "chapterUid": 18,
+      "range": "12624-12673",
+      "markText": "居正伏着叩头道：“大众要我去，偏是皇上不许我走，我有什么办法？只要有一柄刀子，让我把自己杀了吧！”",
+      "totalCount": 294,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=18&rangeStart=12624&rangeEnd=12673",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=18&rangeStart=12624&rangeEnd=12673"
+    },
+    {
+      "bookmarkId": "3300014618_13_23416-23500",
+      "chapterUid": 13,
+      "range": "23416-23500",
+      "markText": "就在内阁里面，少保握起双拳，准备给少师一顿毒打，少傅、建极殿大学士张居正看不下去了，正要替他们劝解，冷不防少保也给少傅迎头一顿痛骂。真热闹，堂堂的内阁变成全武行的战场。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=13&rangeStart=23416&rangeEnd=23500",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=13&rangeStart=23416&rangeEnd=23500"
+    },
+    {
+      "bookmarkId": "3300014618_21_7952-7998",
+      "chapterUid": 21,
+      "range": "7952-7998",
+      "markText": "国家到了艰难的时候，才想起往日的功臣。复官复荫，一切都是激励当时的臣工，但是事情已经太迟了。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=21&rangeStart=7952&rangeEnd=7998",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=21&rangeStart=7952&rangeEnd=7998"
+    },
+    {
+      "bookmarkId": "3300014618_12_23890-23942",
+      "chapterUid": 12,
+      "range": "23890-23942",
+      "markText": "在继光镇守蓟州十六年当中，虽然没有赫赫的战绩，但是整个北边从此安静，这是继光的大功，当然也是居正的大功。",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=12&rangeStart=23890&rangeEnd=23942",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=12&rangeStart=23890&rangeEnd=23942"
+    },
+    {
+      "bookmarkId": "3300014618_4_12466-12489",
+      "chapterUid": 4,
+      "range": "12466-12489",
+      "markText": "努力啊，我愿有更好的成就，报答一切友好的关切。",
+      "totalCount": 260,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=4&rangeStart=12466&rangeEnd=12489",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=4&rangeStart=12466&rangeEnd=12489"
+    },
+    {
+      "bookmarkId": "3300014618_9_5902-5971",
+      "chapterUid": 9,
+      "range": "5902-5971",
+      "markText": "从此河套永远受着鞑靼骑士的蹂躏，却葬送了一个内阁大学士，一个总督陕西三边军务。严嵩复为首辅，再在那半清客、半权臣的局面下维持十五年的政权。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=9&rangeStart=5902&rangeEnd=5971",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=9&rangeStart=5902&rangeEnd=5971"
+    },
+    {
+      "bookmarkId": "3300014618_21_6389-6427",
+      "chapterUid": 21,
+      "range": "6389-6427",
+      "markText": "有便，告知山西蒲州相公张凤盘，令张家事已完结矣，愿他辅佐圣明天子于亿万年也！",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=21&rangeStart=6389&rangeEnd=6427",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=21&rangeStart=6389&rangeEnd=6427"
+    },
+    {
+      "bookmarkId": "3300014618_21_6744-6790",
+      "chapterUid": 21,
+      "range": "6744-6790",
+      "markText": "经过多次拷问，敬修自缢身亡，懋修自杀未遂，居正十六年的政权，最后由敬修、懋修偿还这一笔血债。",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=21&rangeStart=6744&rangeEnd=6790",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=21&rangeStart=6744&rangeEnd=6790"
+    },
+    {
+      "bookmarkId": "3300014618_9_6668-6757",
+      "chapterUid": 9,
+      "range": "6668-6757",
+      "markText": "在不断的政治斗争中，居正在那里揣摩着：他知道在怎样的环境里，应当怎样维护自己。他也知道，在学习的期间，应当怎样地从容缓进。他和蜗牛一样，正在或左或右地伸出触角，寻觅政治上的支援。",
+      "totalCount": 250,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=9&rangeStart=6668&rangeEnd=6757",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=9&rangeStart=6668&rangeEnd=6757"
+    },
+    {
+      "bookmarkId": "3300014618_12_21419-21448",
+      "chapterUid": 12,
+      "range": "21419-21448",
+      "markText": "一切的计划都照准，一切困难都解决，在内阁中主持的全是居正。",
+      "totalCount": 247,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=12&rangeStart=21419&rangeEnd=21448",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=12&rangeStart=21419&rangeEnd=21448"
+    },
+    {
+      "bookmarkId": "3300014618_9_17131-17168",
+      "chapterUid": 9,
+      "range": "17131-17168",
+      "markText": "世宗任用严嵩，这是世宗的认识；继盛指摘严嵩的奸贼，便是指摘世宗的认识错误。",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=9&rangeStart=17131&rangeEnd=17168",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=9&rangeStart=17131&rangeEnd=17168"
+    },
+    {
+      "bookmarkId": "3300014618_18_35546-35618",
+      "chapterUid": 18,
+      "range": "35546-35618",
+      "markText": "如以臣为贤也，皇上以一身居于九重之上，视听翼为，不能独运，不委之于臣而谁委耶？先帝临终，亲执臣手，以皇上见托，今日之事，臣不以天下自任而谁任耶？",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=18&rangeStart=35546&rangeEnd=35618",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=18&rangeStart=35546&rangeEnd=35618"
+    },
+    {
+      "bookmarkId": "3300014618_9_8742-8795",
+      "chapterUid": 9,
+      "range": "8742-8795",
+      "markText": "蜗牛的触角伸出了，但是觉得空气不利，终于还是收回，居正只是再埋头于朝章国故的探索，对于时政在便不更置一辞。",
+      "totalCount": 231,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=9&rangeStart=8742&rangeEnd=8795",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=9&rangeStart=8742&rangeEnd=8795"
+    },
+    {
+      "bookmarkId": "3300014618_19_5190-5283",
+      "chapterUid": 19,
+      "range": "5190-5283",
+      "markText": "得失毁誉关头若打不破，天下事无一可为者。”［8］居正对于一般的毁誉根本不曾放在心上。",
+      "totalCount": 225,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=19&rangeStart=5190&rangeEnd=5283",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=19&rangeStart=5190&rangeEnd=5283"
+    },
+    {
+      "bookmarkId": "3300014618_17_3125-3165",
+      "chapterUid": 17,
+      "range": "3125-3165",
+      "markText": "由是畏居正者甚于畏陛下，感居正者甚于感陛下。威福自己，目无朝廷，祖宗之法若是乎？",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=3300014618&chapterUid=17&rangeStart=3125&rangeEnd=3165",
+      "webLink": "https://weread.qq.com/web/reader/5c9321e0813ab6c35g018a18?chapterUid=17&rangeStart=3125&rangeEnd=3165"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

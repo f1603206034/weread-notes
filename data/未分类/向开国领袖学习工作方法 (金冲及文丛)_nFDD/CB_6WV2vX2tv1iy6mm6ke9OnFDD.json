@@ -1,0 +1,865 @@
+{
+  "meta": {
+    "bookId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD",
+    "title": "向开国领袖学习工作方法 (金冲及文丛)",
+    "author": "金冲及",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_H097Xp7Z62SC6iS6gW9r1GJL_parsecover",
+    "intro": "",
+    "category": "",
+    "publisher": "生活·读书·新知三联书店",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD",
+    "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7",
+    "lastSync": "2026-05-21T11:59:37Z",
+    "readingProgress": "100%",
+    "readingTime": "0分钟",
+    "finishedDate": "2024-03-07",
+    "noteCount": 21,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "书名页",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "书名页",
+          "anchor": "chapter",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 223,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "作者简介",
+          "anchor": "chapter",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "版权页",
+      "level": 1,
+      "wordCount": 482,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "版权页",
+          "anchor": "chapter",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "前　言",
+      "level": 1,
+      "wordCount": 559,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "前　言",
+          "anchor": "chapter",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "目　录",
+      "level": 1,
+      "wordCount": 370,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "目　录",
+          "anchor": "ch4",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "毛泽东工作方法的几个特点",
+      "level": 1,
+      "wordCount": 6944,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "毛泽东工作方法的几个特点",
+          "anchor": "chapter",
+          "level": 1
+        },
+        {
+          "title": "高度的战略思维能力",
+          "anchor": "hh2-1",
+          "level": 2
+        },
+        {
+          "title": "集中力量，解决主要矛盾",
+          "anchor": "hh2-2",
+          "level": 2
+        },
+        {
+          "title": "抓而不紧，等于不抓",
+          "anchor": "hh2-3",
+          "level": 2
+        },
+        {
+          "title": "依靠群众，走群众路线",
+          "anchor": "hh2-4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "毛泽东在三大战略决战中",
+      "level": 1,
+      "wordCount": 9520,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "毛泽东在三大战略决战中",
+          "anchor": "chapter",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "毛泽东和周恩来",
+      "level": 1,
+      "wordCount": 10396,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "毛泽东和周恩来",
+          "anchor": "chapter",
+          "level": 1
+        },
+        {
+          "title": "毛泽东最离不开的是周恩来",
+          "anchor": "hh2-5",
+          "level": 2
+        },
+        {
+          "title": "他们的一致和不一致",
+          "anchor": "hh2-6",
+          "level": 2
+        },
+        {
+          "title": "性格、出身的差异……这不是主要的",
+          "anchor": "hh2-7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "周恩来的求真与反对极端主义",
+      "level": 1,
+      "wordCount": 3832,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "周恩来的求真与反对极端主义",
+          "anchor": "chapter",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "周恩来和五十年代的中国外交",
+      "level": 1,
+      "wordCount": 11114,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "周恩来和五十年代的中国外交",
+          "anchor": "chapter",
+          "level": 1
+        },
+        {
+          "title": "一、新中国外交格局的初步形成",
+          "anchor": "hh2-8",
+          "level": 2
+        },
+        {
+          "title": "二、用和平协商的方法来解决国际争端",
+          "anchor": "hh2-9",
+          "level": 2
+        },
+        {
+          "title": "三、团结亚非国家，打开外交新局面",
+          "anchor": "hh2-10",
+          "level": 2
+        },
+        {
+          "title": "四、结语",
+          "anchor": "hh2-11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "刘少奇是善于独立思考的战略家和理论家",
+      "level": 1,
+      "wordCount": 6672,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘少奇是善于独立思考的战略家和理论家",
+          "anchor": "chapter",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "朱德的历史贡献",
+      "level": 1,
+      "wordCount": 3546,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "朱德的历史贡献",
+          "anchor": "chapter",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "作为总设计师的邓小平",
+      "level": 1,
+      "wordCount": 6983,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "作为总设计师的邓小平",
+          "anchor": "chapter",
+          "level": 1
+        },
+        {
+          "title": "从端正思想路线抓起",
+          "anchor": "hh2-12",
+          "level": 2
+        },
+        {
+          "title": "高举中国特色社会主义旗帜",
+          "anchor": "hh2-13",
+          "level": 2
+        },
+        {
+          "title": "毫不动摇地以经济建设为中心",
+          "anchor": "hh2-14",
+          "level": 2
+        },
+        {
+          "title": "坚持改革开放",
+          "anchor": "hh2-15",
+          "level": 2
+        },
+        {
+          "title": "坚持四项基本原则",
+          "anchor": "hh2-16",
+          "level": 2
+        },
+        {
+          "title": "结语",
+          "anchor": "hh2-17",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "邓小平和20世纪的中国",
+      "level": 1,
+      "wordCount": 9561,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "邓小平和20世纪的中国",
+          "anchor": "chapter",
+          "level": 1
+        },
+        {
+          "title": "一、革命",
+          "anchor": "hh2-18",
+          "level": 2
+        },
+        {
+          "title": "二、建设",
+          "anchor": "hh2-19",
+          "level": 2
+        },
+        {
+          "title": "三、改革",
+          "anchor": "hh2-20",
+          "level": 2
+        },
+        {
+          "title": "四、展望",
+          "anchor": "hh2-21",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "再谈邓小平和20世纪的中国",
+      "level": 1,
+      "wordCount": 7568,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "再谈邓小平和20世纪的中国",
+          "anchor": "chapter",
+          "level": 1
+        },
+        {
+          "title": "时代的接力",
+          "anchor": "hh2-22",
+          "level": 2
+        },
+        {
+          "title": "邓小平的道路",
+          "anchor": "hh2-23",
+          "level": 2
+        },
+        {
+          "title": "治国之策",
+          "anchor": "hh2-24",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "陈云和学哲学",
+      "level": 1,
+      "wordCount": 6649,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "陈云和学哲学",
+          "anchor": "chapter",
+          "level": 1
+        },
+        {
+          "title": "为党和人民的事业而学哲学",
+          "anchor": "hh2-25",
+          "level": 2
+        },
+        {
+          "title": "实事求是的楷模",
+          "anchor": "hh2-26",
+          "level": 2
+        },
+        {
+          "title": "交换·比较·反复",
+          "anchor": "hh2-27",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "征引文献",
+      "level": 1,
+      "wordCount": 1186,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "征引文献",
+          "anchor": "chapter",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=17"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 15,
+      "chapterTitle": "再谈邓小平和20世纪的中国",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_15_9923-10023",
+          "range": "9923-10023",
+          "rangeStart": 9923,
+          "rangeEnd": 10023,
+          "markText": "周总理曾经问过一个邓小平的部下，你跟了小平那么多年印象最深的是什么？他回答说：果断。小平同志果断并不是说武断，他是从实际出发，一切强调实事求是，在一定时期里中央侧重强调某个方面，但是不能忽略另外一面。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709767338,
+          "createTimeFormatted": "2024-03-07 07:22:18",
+          "chapterUid": 15,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=15&rangeStart=9923&rangeEnd=10023",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=15&rangeStart=9923&rangeEnd=10023"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_15_10452-10515",
+          "range": "10452-10515",
+          "rangeStart": 10452,
+          "rangeEnd": 10515,
+          "markText": "引用小平同志的那句话，最能体现他的风格：“说话嘛，就是要明确，不能含含糊糊、吞吞吐吐，否则，解决不了问题，动作要快，不能拖。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709767337,
+          "createTimeFormatted": "2024-03-07 07:22:17",
+          "chapterUid": 15,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=15&rangeStart=10452&rangeEnd=10515",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=15&rangeStart=10452&rangeEnd=10515"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_15_3247-3326",
+          "range": "3247-3326",
+          "rangeStart": 3247,
+          "rangeEnd": 3326,
+          "markText": "社会主义初级阶段的基本国情没有变，人民日益增长的物质文化需要同落后的社会生产之间的矛盾这一社会主要矛盾没有变，我国是世界上最大的发展中国家的国际地位没有变。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709767336,
+          "createTimeFormatted": "2024-03-07 07:22:16",
+          "chapterUid": 15,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=15&rangeStart=3247&rangeEnd=3326",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=15&rangeStart=3247&rangeEnd=3326"
+        }
+      ]
+    },
+    {
+      "chapterUid": 11,
+      "chapterTitle": "刘少奇是善于独立思考的战略家和理论家",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_11_3334-3436",
+          "range": "3334-3436",
+          "rangeStart": 3334,
+          "rangeEnd": 3436,
+          "markText": "“人类社会的历史在客观上总是循着曲折的道路前进的。这是由于历史是在社会矛盾之斗争中发展的这种情形所决定的。虽然人们在主观上常常想推动历史依照客观上可能的直线道路前进，然而客观的历史行程总还是走着弯曲的道路",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709727042,
+          "createTimeFormatted": "2024-03-06 20:10:42",
+          "chapterUid": 11,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=11&rangeStart=3334&rangeEnd=3436",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=11&rangeStart=3334&rangeEnd=3436"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_11_6521-6541",
+          "range": "6521-6541",
+          "rangeStart": 6521,
+          "rangeEnd": 6541,
+          "markText": "研究刘少奇的革命活动，也需要把视野放宽。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709727041,
+          "createTimeFormatted": "2024-03-06 20:10:41",
+          "chapterUid": 11,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=11&rangeStart=6521&rangeEnd=6541",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=11&rangeStart=6521&rangeEnd=6541"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_11_6721-6739",
+          "range": "6721-6739",
+          "rangeStart": 6721,
+          "rangeEnd": 6739,
+          "markText": "研究和宣传少奇同志还要和现实相结合。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709727040,
+          "createTimeFormatted": "2024-03-06 20:10:40",
+          "chapterUid": 11,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=11&rangeStart=6721&rangeEnd=6739",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=11&rangeStart=6721&rangeEnd=6739"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_11_3112-3217",
+          "range": "3112-3217",
+          "rangeStart": 3112,
+          "rangeEnd": 3217,
+          "markText": "这个 绪论里有四点，其中第二点是讲卢沟桥事变以后中国的新形势、党的新任务与革命斗争的新形式；第三点是讲党应该采取哪种形式的抗日武装斗争和哪里是党的主要工作地区；第四点是讲党在抗日民族统一战线问题中行动路线的决定",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709727039,
+          "createTimeFormatted": "2024-03-06 20:10:39",
+          "chapterUid": 11,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=11&rangeStart=3112&rangeEnd=3217",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=11&rangeStart=3112&rangeEnd=3217"
+        }
+      ]
+    },
+    {
+      "chapterUid": 16,
+      "chapterTitle": "陈云和学哲学",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_16_6593-6754",
+          "range": "6593-6754",
+          "rangeStart": 6593,
+          "rangeEnd": 6754,
+          "markText": "从实际出发，说起来容易，做起来并不容易。客观事物是复杂的，常常包含相互矛盾的多个侧面，并且在不断发生变化，不是一眼都能看清楚的。人们对事物的认识，通常需要经过一个在实践中由浅入深、由表及里的过程。决不能把走马看花时获得的一点粗枝大叶的印象甚至一些道听途说的靠不住的话当作客观实际的全体，而且还自以为是，那样没有不跌跤子的。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709727039,
+          "createTimeFormatted": "2024-03-06 20:10:39",
+          "chapterUid": 16,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=16&rangeStart=6593&rangeEnd=6754",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=16&rangeStart=6593&rangeEnd=6754"
+        }
+      ]
+    },
+    {
+      "chapterUid": 8,
+      "chapterTitle": "毛泽东和周恩来",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_8_3773-3888",
+          "range": "3773-3888",
+          "rangeStart": 3773,
+          "rangeEnd": 3888,
+          "markText": "胡乔木同志讲到过，有一次他劝主席多到工厂去看看。主席说，我怎么去啊？我一去，人都围了上来，是我看工厂，还是工厂看我？在毛泽东晚年这种同实际越来越隔膜的状况下，周恩来在一些方针政策的制定方面对毛泽东所起的补充作用似乎比以往更多一些。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709724791,
+          "createTimeFormatted": "2024-03-06 19:33:11",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=8&rangeStart=3773&rangeEnd=3888",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=8&rangeStart=3773&rangeEnd=3888"
+        }
+      ]
+    },
+    {
+      "chapterUid": 6,
+      "chapterTitle": "毛泽东工作方法的几个特点",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_6_3931-3993",
+          "range": "3931-3993",
+          "rangeStart": 3931,
+          "rangeEnd": 3993,
+          "markText": "“研究任何过程，如果是存在着两个以上矛盾的复杂过程的话，就要用全力找出它的主要矛盾。捉住了这个主要矛盾，一切问题就迎刃而解了",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709724787,
+          "createTimeFormatted": "2024-03-06 19:33:07",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=6&rangeStart=3931&rangeEnd=3993",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=6&rangeStart=3931&rangeEnd=3993"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_6_1124-1176",
+          "range": "1124-1176",
+          "rangeStart": 1124,
+          "rangeEnd": 1176,
+          "markText": "“拿战略方针去指导战役战术方针，把今天联结到明天，把小的联结到大的，把局部联结到全体，反对走一步看一步。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709724781,
+          "createTimeFormatted": "2024-03-06 19:33:01",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=6&rangeStart=1124&rangeEnd=1176",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=6&rangeStart=1124&rangeEnd=1176"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_6_2707-2841",
+          "range": "2707-2841",
+          "rangeStart": 2707,
+          "rangeEnd": 2841,
+          "markText": "“坐在指挥台上，如果什么也看不见，就不能叫领导。坐在指挥台上，只看见地平线上已经出现的大量的普遍的东西，那是平平常常的，也不能算领导。只有当着还没有出现大量的明显的东西的时候，当桅杆顶刚刚露出的时候，就能看出这是要发展成为大量的普遍的东西，并能掌握住它，这才叫领导。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709724780,
+          "createTimeFormatted": "2024-03-06 19:33:00",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=6&rangeStart=2707&rangeEnd=2841",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=6&rangeStart=2707&rangeEnd=2841"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_6_1185-1315",
+          "range": "1185-1315",
+          "rangeStart": 1185,
+          "rangeEnd": 1315,
+          "markText": "人们观察和认识事物，通常只能从一个个局部开始，但决不能停留在这里。只有把各个局部综合起来进行分析，形成整体的观念，并且弄清那些局部在全局中所处的位置以及彼此间的联系，才能正确地指导工作。有些事从局部来看是有利的，但从全局来看是不利的，那就得坚决顶住，不能去做。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709724779,
+          "createTimeFormatted": "2024-03-06 19:32:59",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=6&rangeStart=1185&rangeEnd=1315",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=6&rangeStart=1185&rangeEnd=1315"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_6_670-816",
+          "range": "670-816",
+          "rangeStart": 670,
+          "rangeEnd": 816,
+          "markText": "我们不但要提出任务，而且要解决完成任务的方法问题。我们的任务是过河，但是没有桥或没有船就不能过。不解决桥或船的问题，过河就是一句空话。不解决方法问题，任务也只是瞎说一顿。”他的话讲得很重，却是千真万确的真理：即便提出的任务是正确的，道理讲得也很清楚，如果没有好的工作方法来实行它，也会变成空话",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709724773,
+          "createTimeFormatted": "2024-03-06 19:32:53",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=6&rangeStart=670&rangeEnd=816",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=6&rangeStart=670&rangeEnd=816"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_6_4591-4704",
+          "range": "4591-4704",
+          "rangeStart": 4591,
+          "rangeEnd": 4704,
+          "markText": "毛泽东同志谈战争问题时说道：“集中兵力 看来容易，实行颇难。人人皆知以多胜少是最好的办法，然而很多人不能做，相反地每每分散兵力，原因就在于指导者缺乏战略头脑，为复杂的环境所迷惑，因而被环境所支配，失掉自主能力，采取了应付主义。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709724773,
+          "createTimeFormatted": "2024-03-06 19:32:53",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=6&rangeStart=4591&rangeEnd=4704",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=6&rangeStart=4591&rangeEnd=4704"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_6_6804-6849",
+          "range": "6804-6849",
+          "rangeStart": 6804,
+          "rangeEnd": 6849,
+          "markText": "而只是冥思苦索地‘想办法’，‘打主意’。须知这是一定不能想出什么好办法，打出什么好主意的。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709724772,
+          "createTimeFormatted": "2024-03-06 19:32:52",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=6&rangeStart=6804&rangeEnd=6849",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=6&rangeStart=6804&rangeEnd=6849"
+        }
+      ]
+    },
+    {
+      "chapterUid": 9,
+      "chapterTitle": "周恩来的求真与反对极端主义",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_9_2860-2947",
+          "range": "2860-2947",
+          "rangeStart": 2860,
+          "rangeEnd": 2947,
+          "markText": "的环境总有局限性，要从多方面观察问题；一个人的认识总是有限的，要多听不同的意见，这样才利于综合。事物总是发展的，有进步和落后，有一般和特殊，有真和假，要进行比较，才能看透。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709724786,
+          "createTimeFormatted": "2024-03-06 19:33:06",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=9&rangeStart=2860&rangeEnd=2947",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=9&rangeStart=2860&rangeEnd=2947"
+        }
+      ]
+    },
+    {
+      "chapterUid": 7,
+      "chapterTitle": "毛泽东在三大战略决战中",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_7_1227-1415",
+          "range": "1227-1415",
+          "rangeStart": 1227,
+          "rangeEnd": 1415,
+          "markText": "毛泽东曾着重指出这一点：“我要优势和主动，敌人也要这个，从这点上看，战争就是两军指挥员以军力财力等项物质基础作地盘，互争优势和主动的主观能力的竞赛。竞赛结果，有胜有败，除了客观物质条件的比较外，胜者必由于主观指挥的正确，败者必由于主观指挥的错误。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709724780,
+          "createTimeFormatted": "2024-03-06 19:33:00",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=7&rangeStart=1227&rangeEnd=1415",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=7&rangeStart=1227&rangeEnd=1415"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_7_6678-6848",
+          "range": "6678-6848",
+          "rangeStart": 6678,
+          "rangeEnd": 6848,
+          "markText": "“学习战争全局的指导规律，是要用心去想一想才行的。”“指挥全局的人，最要紧的，是把自己的注意力摆在照顾战争的全局上面。主要地是依据情况，照顾部队和兵团的组成问题，照顾两个战役之间的关系问题，照顾各个作战阶段之间的关系问题，照顾我方全部活动和敌方全部活动之间的关系问题，这些都是最吃力的地方，如果丢了这个去忙一些次要的问题，那就难免要吃亏了。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709724779,
+          "createTimeFormatted": "2024-03-06 19:32:59",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=7&rangeStart=6678&rangeEnd=6848",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=7&rangeStart=6678&rangeEnd=6848"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_7_1980-2142",
+          "range": "1980-2142",
+          "rangeStart": 1980,
+          "rangeEnd": 2142,
+          "markText": "既然如此，为什么毛泽东会成长为一位出色的军事统帅？他的办法是“从战争中学习战争”。这有两层意思：一是要投身到战争实践中去，否则就谈不上从战争中学习战争；二是要在战争实践中用心去想，不断总结实践中成功的经验和失败的教训，用来校正自己的认识和行动，并且 把战争中遇到的重要问题提到较高的原则性上去思索和解决，这就是研究战略问题。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709724778,
+          "createTimeFormatted": "2024-03-06 19:32:58",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=7&rangeStart=1980&rangeEnd=2142",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=7&rangeStart=1980&rangeEnd=2142"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_6WV2vX2tv1iy6mm6ke9OnFDD_7_4111-4445",
+          "range": "4111-4445",
+          "rangeStart": 4111,
+          "rangeEnd": 4445,
+          "markText": "毛泽东历来强调：“一战而胜，再及其余，各个击破，全局因而转成了优势，转成了主动。”[8] 他写道：“第一个战斗，关系非常之大。第一个战斗的胜败给予极大的影响于全局，乃至一直影响到最后的一个战斗。”怎样打好“第一个战斗”？毛泽东归纳了三条原则：“第一，必须打胜。必须敌情、地形、人民等条件，都利于我，不利于敌，确有把握而后动手。否则宁可退让，持重待机。机会总是有的，不可率尔应战”；“第二，初战的计划必须是全战役计划的有机的序幕。没有好的全战役计划，绝不能有真正好的第 一仗”；“第三，还要想到下一战略阶段的文章。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1709724774,
+          "createTimeFormatted": "2024-03-06 19:32:54",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=CB_6WV2vX2tv1iy6mm6ke9OnFDD&chapterUid=7&rangeStart=4111&rangeEnd=4445",
+          "webLink": "https://weread.qq.com/web/reader/0d0420b3643425f365756327658327476316979366d6d366b65394f6e4644443d7?chapterUid=7&rangeStart=4111&rangeEnd=4445"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 17,
+    "chapterOffset": 1884,
+    "progress": 100,
+    "updateTime": 1776945347,
+    "recordReadingTime": 0,
+    "finishTime": 1709767484
+  }
+}

@@ -1,0 +1,4719 @@
+{
+  "meta": {
+    "bookId": "840684",
+    "title": "笑林广记（果麦经典）",
+    "author": "[清]游戏主人纂辑 粲然居士参订",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/6/YueWen_840684/t6_YueWen_840684.jpg",
+    "intro": "《笑林广记》内容多采自冯梦龙的《笑府》，是一部集大成的古代笑话集。全书分为12卷，每卷都有一个独特的主题，如贪吝、世讳、谬误、闺风等，现世事百态、刺人情冷暖、笑可笑之人。本书的整理者游戏主人，据传并非一人，而是清代的一批文人，他们借由改编、赏玩、补写各类笑话，“激乎其中，聊借玩世”。所以，尽管成书于清代文字狱最为严酷的乾隆年间，它依然保持了凌厉、尖锐的特色。此次出版的《笑林广记》，以清乾隆四十六年金阊书业堂梓行的《新镌笑林广记》为底，辅以乾隆五十六年三德堂刊本校对而成。",
+    "category": "文学-古典文学",
+    "publisher": "云南人民出版社",
+    "publishTime": "2016-09-01 00:00:00",
+    "isbn": "9787222150638",
+    "wordCount": 0,
+    "newRating": 690,
+    "newRatingCount": 463,
+    "newRatingDetail": {
+      "good": 302,
+      "fair": 135,
+      "poor": 26,
+      "recent": 3,
+      "deepV": 86,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=840684",
+    "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39",
+    "lastSync": "2026-05-21T11:57:14Z",
+    "readingProgress": "76%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 131,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "游戏主人",
+      "level": 1,
+      "wordCount": 196,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "序",
+      "level": 1,
+      "wordCount": 570,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "卷一 古艳部",
+      "level": 1,
+      "wordCount": 7,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "升官",
+      "level": 2,
+      "wordCount": 6036,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "比职",
+          "anchor": "bw2",
+          "level": 2
+        },
+        {
+          "title": "发利市",
+          "anchor": "bw3",
+          "level": 2
+        },
+        {
+          "title": "贪官",
+          "anchor": "bw4",
+          "level": 2
+        },
+        {
+          "title": "有理",
+          "anchor": "bw5",
+          "level": 2
+        },
+        {
+          "title": "取金",
+          "anchor": "bw6",
+          "level": 2
+        },
+        {
+          "title": "糊涂",
+          "anchor": "bw7",
+          "level": 2
+        },
+        {
+          "title": "不明",
+          "anchor": "bw8",
+          "level": 2
+        },
+        {
+          "title": "启奏",
+          "anchor": "bw9",
+          "level": 2
+        },
+        {
+          "title": "偷牛",
+          "anchor": "bw10",
+          "level": 2
+        },
+        {
+          "title": "避暑",
+          "anchor": "bw11",
+          "level": 2
+        },
+        {
+          "title": "石碑",
+          "anchor": "bw12",
+          "level": 2
+        },
+        {
+          "title": "强盗脚",
+          "anchor": "bw13",
+          "level": 2
+        },
+        {
+          "title": "属牛",
+          "anchor": "bw14",
+          "level": 2
+        },
+        {
+          "title": "同僚",
+          "anchor": "bw15",
+          "level": 2
+        },
+        {
+          "title": "家属",
+          "anchor": "bw16",
+          "level": 2
+        },
+        {
+          "title": "州同",
+          "anchor": "bw17",
+          "level": 2
+        },
+        {
+          "title": "衙官隐语",
+          "anchor": "bw18",
+          "level": 2
+        },
+        {
+          "title": "详梦",
+          "anchor": "bw19",
+          "level": 2
+        },
+        {
+          "title": "太监观风",
+          "anchor": "bw20",
+          "level": 2
+        },
+        {
+          "title": "常礼",
+          "anchor": "bw21",
+          "level": 2
+        },
+        {
+          "title": "念劾本",
+          "anchor": "bw22",
+          "level": 2
+        },
+        {
+          "title": "武弁夜巡",
+          "anchor": "bw23",
+          "level": 2
+        },
+        {
+          "title": "垛子助阵",
+          "anchor": "bw24",
+          "level": 2
+        },
+        {
+          "title": "进士第",
+          "anchor": "bw25",
+          "level": 2
+        },
+        {
+          "title": "及第",
+          "anchor": "bw26",
+          "level": 2
+        },
+        {
+          "title": "嘲武举诗",
+          "anchor": "bw27",
+          "level": 2
+        },
+        {
+          "title": "封君",
+          "anchor": "bw28",
+          "level": 2
+        },
+        {
+          "title": "老父",
+          "anchor": "bw29",
+          "level": 2
+        },
+        {
+          "title": "公子封君",
+          "anchor": "bw30",
+          "level": 2
+        },
+        {
+          "title": "送父上学",
+          "anchor": "bw31",
+          "level": 2
+        },
+        {
+          "title": "纳粟诗",
+          "anchor": "bw32",
+          "level": 2
+        },
+        {
+          "title": "考监",
+          "anchor": "bw33",
+          "level": 2
+        },
+        {
+          "title": "坐监",
+          "anchor": "bw34",
+          "level": 2
+        },
+        {
+          "title": "不往京",
+          "anchor": "bw35",
+          "level": 2
+        },
+        {
+          "title": "咬飞边",
+          "anchor": "bw36",
+          "level": 2
+        },
+        {
+          "title": "入场",
+          "anchor": "bw37",
+          "level": 2
+        },
+        {
+          "title": "书低",
+          "anchor": "bw38",
+          "level": 2
+        },
+        {
+          "title": "监生娘娘",
+          "anchor": "bw39",
+          "level": 2
+        },
+        {
+          "title": "监生自大",
+          "anchor": "bw40",
+          "level": 2
+        },
+        {
+          "title": "打丁",
+          "anchor": "bw41",
+          "level": 2
+        },
+        {
+          "title": "自不识",
+          "anchor": "bw42",
+          "level": 2
+        },
+        {
+          "title": "王监生",
+          "anchor": "bw43",
+          "level": 2
+        },
+        {
+          "title": "监生拜父",
+          "anchor": "bw44",
+          "level": 2
+        },
+        {
+          "title": "半字不值",
+          "anchor": "bw45",
+          "level": 2
+        },
+        {
+          "title": "借药撵",
+          "anchor": "bw46",
+          "level": 2
+        },
+        {
+          "title": "斋戒库",
+          "anchor": "bw47",
+          "level": 2
+        },
+        {
+          "title": "附例",
+          "anchor": "bw48",
+          "level": 2
+        },
+        {
+          "title": "酸臭",
+          "anchor": "bw49",
+          "level": 2
+        },
+        {
+          "title": "仿制字",
+          "anchor": "bw50",
+          "level": 2
+        },
+        {
+          "title": "春生帖",
+          "anchor": "bw51",
+          "level": 2
+        },
+        {
+          "title": "借牛",
+          "anchor": "bw52",
+          "level": 2
+        },
+        {
+          "title": "哭麟",
+          "anchor": "bw53",
+          "level": 2
+        },
+        {
+          "title": "江心赋",
+          "anchor": "bw54",
+          "level": 2
+        },
+        {
+          "title": "吃乳饼",
+          "anchor": "bw55",
+          "level": 2
+        },
+        {
+          "title": "薑字塔",
+          "anchor": "bw55a",
+          "level": 2
+        },
+        {
+          "title": "不愿富",
+          "anchor": "bw56",
+          "level": 2
+        },
+        {
+          "title": "医银入肚",
+          "anchor": "bw57",
+          "level": 2
+        },
+        {
+          "title": "田主见鸡",
+          "anchor": "bw58",
+          "level": 2
+        },
+        {
+          "title": "讲解",
+          "anchor": "bw59",
+          "level": 2
+        },
+        {
+          "title": "训子",
+          "anchor": "bw60",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=840684&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "卷二 腐流部",
+      "level": 1,
+      "wordCount": 7,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "辞朝",
+      "level": 2,
+      "wordCount": 8925,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "上任",
+          "anchor": "bw62",
+          "level": 2
+        },
+        {
+          "title": "争脏",
+          "anchor": "bw63",
+          "level": 2
+        },
+        {
+          "title": "厮打",
+          "anchor": "bw64",
+          "level": 2
+        },
+        {
+          "title": "钻刺",
+          "anchor": "bw65",
+          "level": 2
+        },
+        {
+          "title": "证孔子",
+          "anchor": "bw66",
+          "level": 2
+        },
+        {
+          "title": "放肆",
+          "anchor": "bw67",
+          "level": 2
+        },
+        {
+          "title": "贽礼",
+          "anchor": "bw68",
+          "level": 2
+        },
+        {
+          "title": "不养子",
+          "anchor": "bw69",
+          "level": 2
+        },
+        {
+          "title": "借粮",
+          "anchor": "bw70",
+          "level": 2
+        },
+        {
+          "title": "廪粮",
+          "anchor": "bw71",
+          "level": 2
+        },
+        {
+          "title": "脱科",
+          "anchor": "bw72",
+          "level": 2
+        },
+        {
+          "title": "黉门",
+          "anchor": "bw73",
+          "level": 2
+        },
+        {
+          "title": "野味",
+          "anchor": "bw74",
+          "level": 2
+        },
+        {
+          "title": "僧士诘辩",
+          "anchor": "bw75",
+          "level": 2
+        },
+        {
+          "title": "杨相公",
+          "anchor": "bw76",
+          "level": 2
+        },
+        {
+          "title": "头场",
+          "anchor": "bw77",
+          "level": 2
+        },
+        {
+          "title": "后场",
+          "anchor": "bw78",
+          "level": 2
+        },
+        {
+          "title": "识气",
+          "anchor": "bw79",
+          "level": 2
+        },
+        {
+          "title": "蛀帽",
+          "anchor": "bw80",
+          "level": 2
+        },
+        {
+          "title": "无一物",
+          "anchor": "bw81",
+          "level": 2
+        },
+        {
+          "title": "戴巾人",
+          "anchor": "bw82",
+          "level": 2
+        },
+        {
+          "title": "颂屁",
+          "anchor": "bw83",
+          "level": 2
+        },
+        {
+          "title": "穷秀才",
+          "anchor": "bw84",
+          "level": 2
+        },
+        {
+          "title": "出学门",
+          "anchor": "bw85",
+          "level": 2
+        },
+        {
+          "title": "抄祭文",
+          "anchor": "bw86",
+          "level": 2
+        },
+        {
+          "title": "行房",
+          "anchor": "bw87",
+          "level": 2
+        },
+        {
+          "title": "做不出",
+          "anchor": "bw88",
+          "level": 2
+        },
+        {
+          "title": "七等割屪",
+          "anchor": "bw89",
+          "level": 2
+        },
+        {
+          "title": "四等亲家",
+          "anchor": "bw90",
+          "level": 2
+        },
+        {
+          "title": "凑不起",
+          "anchor": "bw91",
+          "level": 2
+        },
+        {
+          "title": "腹内全无",
+          "anchor": "bw92",
+          "level": 2
+        },
+        {
+          "title": "不完卷",
+          "anchor": "bw93",
+          "level": 2
+        },
+        {
+          "title": "求签",
+          "anchor": "bw94",
+          "level": 2
+        },
+        {
+          "title": "狗坐馆",
+          "anchor": "bw95",
+          "level": 2
+        },
+        {
+          "title": "狗头师",
+          "anchor": "bw96",
+          "level": 2
+        },
+        {
+          "title": "谒孔庙",
+          "anchor": "bw97",
+          "level": 2
+        },
+        {
+          "title": "梦入泮",
+          "anchor": "bw98",
+          "level": 2
+        },
+        {
+          "title": "讲书",
+          "anchor": "bw99",
+          "level": 2
+        },
+        {
+          "title": "师赞徒",
+          "anchor": "bw100",
+          "level": 2
+        },
+        {
+          "title": "没坐性",
+          "anchor": "bw101",
+          "level": 2
+        },
+        {
+          "title": "请先生",
+          "anchor": "bw102",
+          "level": 2
+        },
+        {
+          "title": "骂先生",
+          "anchor": "bw103",
+          "level": 2
+        },
+        {
+          "title": "兄弟延师",
+          "anchor": "bw104",
+          "level": 2
+        },
+        {
+          "title": "读破句",
+          "anchor": "bw105",
+          "level": 2
+        },
+        {
+          "title": "赤壁赋",
+          "anchor": "bw106",
+          "level": 2
+        },
+        {
+          "title": "退束脩",
+          "anchor": "bw107",
+          "level": 2
+        },
+        {
+          "title": "於戏左读",
+          "anchor": "bw108",
+          "level": 2
+        },
+        {
+          "title": "教法",
+          "anchor": "bw109",
+          "level": 2
+        },
+        {
+          "title": "中酒",
+          "anchor": "bw110",
+          "level": 2
+        },
+        {
+          "title": "先生意气",
+          "anchor": "bw111",
+          "level": 2
+        },
+        {
+          "title": "梦周公",
+          "anchor": "bw112",
+          "level": 2
+        },
+        {
+          "title": "浇其妻妾",
+          "anchor": "bw113",
+          "level": 2
+        },
+        {
+          "title": "猫逐鼠",
+          "anchor": "bw114",
+          "level": 2
+        },
+        {
+          "title": "问馆",
+          "anchor": "bw115",
+          "level": 2
+        },
+        {
+          "title": "闲荡",
+          "anchor": "bw116",
+          "level": 2
+        },
+        {
+          "title": "改对",
+          "anchor": "bw117",
+          "level": 2
+        },
+        {
+          "title": "挞徒",
+          "anchor": "bw118",
+          "level": 2
+        },
+        {
+          "title": "蜈蚣咬",
+          "anchor": "bw119",
+          "level": 2
+        },
+        {
+          "title": "我不如",
+          "anchor": "bw120",
+          "level": 2
+        },
+        {
+          "title": "掘荷花",
+          "anchor": "bw121",
+          "level": 2
+        },
+        {
+          "title": "灒粪",
+          "anchor": "bw122",
+          "level": 2
+        },
+        {
+          "title": "咬饼",
+          "anchor": "bw123",
+          "level": 2
+        },
+        {
+          "title": "是我",
+          "anchor": "bw124",
+          "level": 2
+        },
+        {
+          "title": "叔叔",
+          "anchor": "bw125",
+          "level": 2
+        },
+        {
+          "title": "想船家",
+          "anchor": "bw126",
+          "level": 2
+        },
+        {
+          "title": "问藕",
+          "anchor": "bw127",
+          "level": 2
+        },
+        {
+          "title": "卵脬皮",
+          "anchor": "bw128",
+          "level": 2
+        },
+        {
+          "title": "屎在口头",
+          "anchor": "bw129",
+          "level": 2
+        },
+        {
+          "title": "村牛",
+          "anchor": "bw130",
+          "level": 2
+        },
+        {
+          "title": "瘟牛",
+          "anchor": "bw131",
+          "level": 2
+        },
+        {
+          "title": "善对",
+          "anchor": "bw132",
+          "level": 2
+        },
+        {
+          "title": "个人个妻",
+          "anchor": "bw133",
+          "level": 2
+        },
+        {
+          "title": "歪诗",
+          "anchor": "bw134",
+          "level": 2
+        },
+        {
+          "title": "歇后诗",
+          "anchor": "bw135",
+          "level": 2
+        },
+        {
+          "title": "咏钟诗",
+          "anchor": "bw136",
+          "level": 2
+        },
+        {
+          "title": "老童生",
+          "anchor": "bw137",
+          "level": 2
+        },
+        {
+          "title": "认拐杖",
+          "anchor": "bw138",
+          "level": 2
+        },
+        {
+          "title": "拔须",
+          "anchor": "bw139",
+          "level": 2
+        },
+        {
+          "title": "未冠",
+          "anchor": "bw140",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=840684&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "卷三 术业部",
+      "level": 1,
+      "wordCount": 7,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "医官",
+      "level": 2,
+      "wordCount": 7140,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "冥王访名医",
+          "anchor": "bw142",
+          "level": 2
+        },
+        {
+          "title": "抬柩",
+          "anchor": "bw143",
+          "level": 2
+        },
+        {
+          "title": "医人",
+          "anchor": "bw144",
+          "level": 2
+        },
+        {
+          "title": "好郎中",
+          "anchor": "bw145",
+          "level": 2
+        },
+        {
+          "title": "谢郎中",
+          "anchor": "bw146",
+          "level": 2
+        },
+        {
+          "title": "哭郎中",
+          "anchor": "bw147",
+          "level": 2
+        },
+        {
+          "title": "屪子郎中",
+          "anchor": "bw148",
+          "level": 2
+        },
+        {
+          "title": "迷妇药",
+          "anchor": "bw149",
+          "level": 2
+        },
+        {
+          "title": "跳蚤药",
+          "anchor": "bw150",
+          "level": 2
+        },
+        {
+          "title": "医乳",
+          "anchor": "bw151",
+          "level": 2
+        },
+        {
+          "title": "医屁",
+          "anchor": "bw152",
+          "level": 2
+        },
+        {
+          "title": "医按院",
+          "anchor": "bw153",
+          "level": 2
+        },
+        {
+          "title": "愿脚踢",
+          "anchor": "bw154",
+          "level": 2
+        },
+        {
+          "title": "锯箭竿",
+          "anchor": "bw155",
+          "level": 2
+        },
+        {
+          "title": "怨算命",
+          "anchor": "bw156",
+          "level": 2
+        },
+        {
+          "title": "包殡殓",
+          "anchor": "bw157",
+          "level": 2
+        },
+        {
+          "title": "屄打弹",
+          "anchor": "bw158",
+          "level": 2
+        },
+        {
+          "title": "屄样",
+          "anchor": "bw159",
+          "level": 2
+        },
+        {
+          "title": "送药",
+          "anchor": "bw160",
+          "level": 2
+        },
+        {
+          "title": "补药",
+          "anchor": "bw161",
+          "level": 2
+        },
+        {
+          "title": "药户",
+          "anchor": "bw162",
+          "level": 2
+        },
+        {
+          "title": "取名",
+          "anchor": "bw163",
+          "level": 2
+        },
+        {
+          "title": "索谢",
+          "anchor": "bw164",
+          "level": 2
+        },
+        {
+          "title": "包活",
+          "anchor": "bw165",
+          "level": 2
+        },
+        {
+          "title": "退热",
+          "anchor": "bw166",
+          "level": 2
+        },
+        {
+          "title": "僵蚕",
+          "anchor": "bw167",
+          "level": 2
+        },
+        {
+          "title": "看脉",
+          "anchor": "bw168",
+          "level": 2
+        },
+        {
+          "title": "医女接客",
+          "anchor": "bw169",
+          "level": 2
+        },
+        {
+          "title": "大方打幼科",
+          "anchor": "bw170",
+          "level": 2
+        },
+        {
+          "title": "幼科",
+          "anchor": "bw171",
+          "level": 2
+        },
+        {
+          "title": "小儿窠",
+          "anchor": "bw172",
+          "level": 2
+        },
+        {
+          "title": "小犬窠",
+          "anchor": "bw173",
+          "level": 2
+        },
+        {
+          "title": "骂",
+          "anchor": "bw174",
+          "level": 2
+        },
+        {
+          "title": "赔",
+          "anchor": "bw175",
+          "level": 2
+        },
+        {
+          "title": "吃白药",
+          "anchor": "bw176",
+          "level": 2
+        },
+        {
+          "title": "游水",
+          "anchor": "bw177",
+          "level": 2
+        },
+        {
+          "title": "地师",
+          "anchor": "bw178",
+          "level": 2
+        },
+        {
+          "title": "风水",
+          "anchor": "bw179",
+          "level": 2
+        },
+        {
+          "title": "阴阳先生",
+          "anchor": "bw180",
+          "level": 2
+        },
+        {
+          "title": "阴阳生",
+          "anchor": "bw181",
+          "level": 2
+        },
+        {
+          "title": "法家",
+          "anchor": "bw182",
+          "level": 2
+        },
+        {
+          "title": "相相",
+          "anchor": "bw183",
+          "level": 2
+        },
+        {
+          "title": "卜孕",
+          "anchor": "bw184",
+          "level": 2
+        },
+        {
+          "title": "不着",
+          "anchor": "bw185",
+          "level": 2
+        },
+        {
+          "title": "写真",
+          "anchor": "bw186",
+          "level": 2
+        },
+        {
+          "title": "胡须像",
+          "anchor": "bw187",
+          "level": 2
+        },
+        {
+          "title": "讳输棋",
+          "anchor": "bw188",
+          "level": 2
+        },
+        {
+          "title": "好棋",
+          "anchor": "bw189",
+          "level": 2
+        },
+        {
+          "title": "银匠偷",
+          "anchor": "bw190",
+          "level": 2
+        },
+        {
+          "title": "利心重",
+          "anchor": "bw191",
+          "level": 2
+        },
+        {
+          "title": "有进益",
+          "anchor": "bw192",
+          "level": 2
+        },
+        {
+          "title": "裁缝",
+          "anchor": "bw193",
+          "level": 2
+        },
+        {
+          "title": "不下剪",
+          "anchor": "bw194",
+          "level": 2
+        },
+        {
+          "title": "要尺",
+          "anchor": "bw195",
+          "level": 2
+        },
+        {
+          "title": "木匠",
+          "anchor": "bw196",
+          "level": 2
+        },
+        {
+          "title": "含毛",
+          "anchor": "bw197",
+          "level": 2
+        },
+        {
+          "title": "待诏",
+          "anchor": "bw198",
+          "level": 2
+        },
+        {
+          "title": "篦头",
+          "anchor": "bw199",
+          "level": 2
+        },
+        {
+          "title": "头嫩",
+          "anchor": "bw200",
+          "level": 2
+        },
+        {
+          "title": "取耳",
+          "anchor": "bw201",
+          "level": 2
+        },
+        {
+          "title": "同行",
+          "anchor": "bw202",
+          "level": 2
+        },
+        {
+          "title": "偷肉",
+          "anchor": "bw203",
+          "level": 2
+        },
+        {
+          "title": "船家",
+          "anchor": "bw204",
+          "level": 2
+        },
+        {
+          "title": "艄公",
+          "anchor": "bw205",
+          "level": 2
+        },
+        {
+          "title": "水手",
+          "anchor": "bw206",
+          "level": 2
+        },
+        {
+          "title": "卖淡酒",
+          "anchor": "bw207",
+          "level": 2
+        },
+        {
+          "title": "三名斩",
+          "anchor": "bw208",
+          "level": 2
+        },
+        {
+          "title": "酒娘",
+          "anchor": "bw209",
+          "level": 2
+        },
+        {
+          "title": "走作",
+          "anchor": "bw210",
+          "level": 2
+        },
+        {
+          "title": "着醋",
+          "anchor": "bw211",
+          "level": 2
+        },
+        {
+          "title": "酸酒",
+          "anchor": "bw212",
+          "level": 2
+        },
+        {
+          "title": "炙坛",
+          "anchor": "bw213",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=840684&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "卷四 形体部",
+      "level": 1,
+      "wordCount": 7,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "嘲胡卖契",
+      "level": 2,
+      "wordCount": 10687,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "呵冻笔",
+          "anchor": "bw215",
+          "level": 2
+        },
+        {
+          "title": "揪肾毛",
+          "anchor": "bw216",
+          "level": 2
+        },
+        {
+          "title": "观相",
+          "anchor": "bw217",
+          "level": 2
+        },
+        {
+          "title": "愁穷",
+          "anchor": "bw218",
+          "level": 2
+        },
+        {
+          "title": "胡瘌杀",
+          "anchor": "bw219",
+          "level": 2
+        },
+        {
+          "title": "直缝横缝",
+          "anchor": "bw220",
+          "level": 2
+        },
+        {
+          "title": "被剃",
+          "anchor": "bw221",
+          "level": 2
+        },
+        {
+          "title": "吃白面",
+          "anchor": "bw222",
+          "level": 2
+        },
+        {
+          "title": "胡子改屄",
+          "anchor": "bw223",
+          "level": 2
+        },
+        {
+          "title": "不斟酒",
+          "anchor": "bw224",
+          "level": 2
+        },
+        {
+          "title": "抛锚",
+          "anchor": "bw225",
+          "level": 2
+        },
+        {
+          "title": "通谱",
+          "anchor": "bw226",
+          "level": 2
+        },
+        {
+          "title": "联宗",
+          "anchor": "bw227",
+          "level": 2
+        },
+        {
+          "title": "一般胡",
+          "anchor": "bw228",
+          "level": 2
+        },
+        {
+          "title": "稀胡子",
+          "anchor": "bw229",
+          "level": 2
+        },
+        {
+          "title": "出须药",
+          "anchor": "bw230",
+          "level": 2
+        },
+        {
+          "title": "问有猫",
+          "anchor": "bw231",
+          "level": 2
+        },
+        {
+          "title": "骂须少",
+          "anchor": "bw232",
+          "level": 2
+        },
+        {
+          "title": "胡答嘲",
+          "anchor": "bw233",
+          "level": 2
+        },
+        {
+          "title": "光屁股",
+          "anchor": "bw234",
+          "level": 2
+        },
+        {
+          "title": "亲爷",
+          "anchor": "bw235",
+          "level": 2
+        },
+        {
+          "title": "无须狗",
+          "anchor": "bw236",
+          "level": 2
+        },
+        {
+          "title": "没须屁股",
+          "anchor": "bw237",
+          "level": 2
+        },
+        {
+          "title": "拔须去黑",
+          "anchor": "bw238",
+          "level": 2
+        },
+        {
+          "title": "老面皮",
+          "anchor": "bw239",
+          "level": 2
+        },
+        {
+          "title": "白须",
+          "anchor": "bw240",
+          "level": 2
+        },
+        {
+          "title": "黄须",
+          "anchor": "bw241",
+          "level": 2
+        },
+        {
+          "title": "胖子行房",
+          "anchor": "bw242",
+          "level": 2
+        },
+        {
+          "title": "皂隶干法",
+          "anchor": "bw243",
+          "level": 2
+        },
+        {
+          "title": "截长",
+          "anchor": "bw244",
+          "level": 2
+        },
+        {
+          "title": "长卵叹气",
+          "anchor": "bw245",
+          "level": 2
+        },
+        {
+          "title": "矮子看灯",
+          "anchor": "bw246",
+          "level": 2
+        },
+        {
+          "title": "亲嘴",
+          "anchor": "bw247",
+          "level": 2
+        },
+        {
+          "title": "扇坠",
+          "anchor": "bw248",
+          "level": 2
+        },
+        {
+          "title": "搁浅",
+          "anchor": "bw249",
+          "level": 2
+        },
+        {
+          "title": "瞎叙盟",
+          "anchor": "bw250",
+          "level": 2
+        },
+        {
+          "title": "瞽笑",
+          "anchor": "bw251",
+          "level": 2
+        },
+        {
+          "title": "被打",
+          "anchor": "bw252",
+          "level": 2
+        },
+        {
+          "title": "吃螺蛳",
+          "anchor": "bw253",
+          "level": 2
+        },
+        {
+          "title": "响不远",
+          "anchor": "bw254",
+          "level": 2
+        },
+        {
+          "title": "独眼",
+          "anchor": "bw255",
+          "level": 2
+        },
+        {
+          "title": "兄弟认匾",
+          "anchor": "bw256",
+          "level": 2
+        },
+        {
+          "title": "金漆盒",
+          "anchor": "bw257",
+          "level": 2
+        },
+        {
+          "title": "问路",
+          "anchor": "bw258",
+          "level": 2
+        },
+        {
+          "title": "乌云接日",
+          "anchor": "bw259",
+          "level": 2
+        },
+        {
+          "title": "鼻影作枣",
+          "anchor": "bw260",
+          "level": 2
+        },
+        {
+          "title": "虾酱",
+          "anchor": "bw261",
+          "level": 2
+        },
+        {
+          "title": "拾蚂蚁",
+          "anchor": "bw262",
+          "level": 2
+        },
+        {
+          "title": "捡银包",
+          "anchor": "bw263",
+          "level": 2
+        },
+        {
+          "title": "疑蛋",
+          "anchor": "bw264",
+          "level": 2
+        },
+        {
+          "title": "近趣眼",
+          "anchor": "bw265",
+          "level": 2
+        },
+        {
+          "title": "白果眼",
+          "anchor": "bw266",
+          "level": 2
+        },
+        {
+          "title": "漂白眼",
+          "anchor": "bw267",
+          "level": 2
+        },
+        {
+          "title": "聋耳",
+          "anchor": "bw268",
+          "level": 2
+        },
+        {
+          "title": "呵欠",
+          "anchor": "bw269",
+          "level": 2
+        },
+        {
+          "title": "火症",
+          "anchor": "bw270",
+          "level": 2
+        },
+        {
+          "title": "讳聋哑",
+          "anchor": "bw271",
+          "level": 2
+        },
+        {
+          "title": "麻屄",
+          "anchor": "bw272",
+          "level": 2
+        },
+        {
+          "title": "屁股麻",
+          "anchor": "bw273",
+          "level": 2
+        },
+        {
+          "title": "麻卵袋",
+          "anchor": "bw274",
+          "level": 2
+        },
+        {
+          "title": "麻子咬卵",
+          "anchor": "bw275",
+          "level": 2
+        },
+        {
+          "title": "鼻耐性",
+          "anchor": "bw276",
+          "level": 2
+        },
+        {
+          "title": "齆鼻狗",
+          "anchor": "bw277",
+          "level": 2
+        },
+        {
+          "title": "齆鼻请酒",
+          "anchor": "bw278",
+          "level": 2
+        },
+        {
+          "title": "赤鼻",
+          "anchor": "bw279",
+          "level": 2
+        },
+        {
+          "title": "臭嘴",
+          "anchor": "bw280",
+          "level": 2
+        },
+        {
+          "title": "蒜治口臭",
+          "anchor": "bw281",
+          "level": 2
+        },
+        {
+          "title": "臭瘌痢",
+          "anchor": "bw282",
+          "level": 2
+        },
+        {
+          "title": "残疾婿",
+          "anchor": "bw283",
+          "level": 2
+        },
+        {
+          "title": "歪屄",
+          "anchor": "bw284",
+          "level": 2
+        },
+        {
+          "title": "鸽舌",
+          "anchor": "bw285",
+          "level": 2
+        },
+        {
+          "title": "过桥嚏",
+          "anchor": "bw286",
+          "level": 2
+        },
+        {
+          "title": "大耳",
+          "anchor": "bw287",
+          "level": 2
+        },
+        {
+          "title": "歪头",
+          "anchor": "bw288",
+          "level": 2
+        },
+        {
+          "title": "争座",
+          "anchor": "bw289",
+          "level": 2
+        },
+        {
+          "title": "直背",
+          "anchor": "bw290",
+          "level": 2
+        },
+        {
+          "title": "驼叔",
+          "anchor": "bw291",
+          "level": 2
+        },
+        {
+          "title": "善屁",
+          "anchor": "bw292",
+          "level": 2
+        },
+        {
+          "title": "祖师殿",
+          "anchor": "bw293",
+          "level": 2
+        },
+        {
+          "title": "认屁",
+          "anchor": "bw294",
+          "level": 2
+        },
+        {
+          "title": "屁婢",
+          "anchor": "bw295",
+          "level": 2
+        },
+        {
+          "title": "錾头",
+          "anchor": "bw296",
+          "level": 2
+        },
+        {
+          "title": "路上屁",
+          "anchor": "bw297",
+          "level": 2
+        },
+        {
+          "title": "贼屁",
+          "anchor": "bw298",
+          "level": 2
+        },
+        {
+          "title": "吃屁",
+          "anchor": "bw299",
+          "level": 2
+        },
+        {
+          "title": "桌面响",
+          "anchor": "bw300",
+          "level": 2
+        },
+        {
+          "title": "田鸡叫",
+          "anchor": "bw301",
+          "level": 2
+        },
+        {
+          "title": "不默",
+          "anchor": "bw302",
+          "level": 2
+        },
+        {
+          "title": "怕冷",
+          "anchor": "bw303",
+          "level": 2
+        },
+        {
+          "title": "大乳",
+          "anchor": "bw304",
+          "level": 2
+        },
+        {
+          "title": "抓背",
+          "anchor": "bw305",
+          "level": 2
+        },
+        {
+          "title": "善生虱",
+          "anchor": "bw306",
+          "level": 2
+        },
+        {
+          "title": "赞阳物",
+          "anchor": "bw307",
+          "level": 2
+        },
+        {
+          "title": "家当",
+          "anchor": "bw308",
+          "level": 2
+        },
+        {
+          "title": "肚肠",
+          "anchor": "bw309",
+          "level": 2
+        },
+        {
+          "title": "巨卵",
+          "anchor": "bw310",
+          "level": 2
+        },
+        {
+          "title": "小卵",
+          "anchor": "bw311",
+          "level": 2
+        },
+        {
+          "title": "贵相",
+          "anchor": "bw312",
+          "level": 2
+        },
+        {
+          "title": "当卵",
+          "anchor": "bw313",
+          "level": 2
+        },
+        {
+          "title": "倭刺",
+          "anchor": "bw314",
+          "level": 2
+        },
+        {
+          "title": "快刀",
+          "anchor": "bw315",
+          "level": 2
+        },
+        {
+          "title": "瘪东西",
+          "anchor": "bw316",
+          "level": 2
+        },
+        {
+          "title": "硬中证",
+          "anchor": "bw317",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=840684&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "卷五 殊禀部",
+      "level": 1,
+      "wordCount": 7,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "善忘",
+      "level": 2,
+      "wordCount": 8908,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "恍惚",
+          "anchor": "bw319",
+          "level": 2
+        },
+        {
+          "title": "品茶",
+          "anchor": "bw320",
+          "level": 2
+        },
+        {
+          "title": "作揖",
+          "anchor": "bw321",
+          "level": 2
+        },
+        {
+          "title": "爇衣",
+          "anchor": "bw322",
+          "level": 2
+        },
+        {
+          "title": "出像",
+          "anchor": "bw323",
+          "level": 2
+        },
+        {
+          "title": "卖弄",
+          "anchor": "bw324",
+          "level": 2
+        },
+        {
+          "title": "刚执",
+          "anchor": "bw325",
+          "level": 2
+        },
+        {
+          "title": "掇桶",
+          "anchor": "bw326",
+          "level": 2
+        },
+        {
+          "title": "应急",
+          "anchor": "bw327",
+          "level": 2
+        },
+        {
+          "title": "正夫纲",
+          "anchor": "bw328",
+          "level": 2
+        },
+        {
+          "title": "请下操",
+          "anchor": "bw329",
+          "level": 2
+        },
+        {
+          "title": "虎势",
+          "anchor": "bw330",
+          "level": 2
+        },
+        {
+          "title": "访类",
+          "anchor": "bw331",
+          "level": 2
+        },
+        {
+          "title": "吐绿痰",
+          "anchor": "bw332",
+          "level": 2
+        },
+        {
+          "title": "理旧恨",
+          "anchor": "bw333",
+          "level": 2
+        },
+        {
+          "title": "敕书",
+          "anchor": "bw334",
+          "level": 2
+        },
+        {
+          "title": "葡萄架倒",
+          "anchor": "bw335",
+          "level": 2
+        },
+        {
+          "title": "吃梦中醋",
+          "anchor": "bw336",
+          "level": 2
+        },
+        {
+          "title": "捶碎夜壶",
+          "anchor": "bw337",
+          "level": 2
+        },
+        {
+          "title": "手硬",
+          "anchor": "bw338",
+          "level": 2
+        },
+        {
+          "title": "呆郎",
+          "anchor": "bw339",
+          "level": 2
+        },
+        {
+          "title": "痴婿",
+          "anchor": "bw340",
+          "level": 2
+        },
+        {
+          "title": "呆子",
+          "anchor": "bw341",
+          "level": 2
+        },
+        {
+          "title": "赞马",
+          "anchor": "bw342",
+          "level": 2
+        },
+        {
+          "title": "搠穿肚",
+          "anchor": "bw343",
+          "level": 2
+        },
+        {
+          "title": "携冻水",
+          "anchor": "bw344",
+          "level": 2
+        },
+        {
+          "title": "莫说是我",
+          "anchor": "bw345",
+          "level": 2
+        },
+        {
+          "title": "不道是你",
+          "anchor": "bw346",
+          "level": 2
+        },
+        {
+          "title": "只说是我",
+          "anchor": "bw347",
+          "level": 2
+        },
+        {
+          "title": "丈母不该",
+          "anchor": "bw348",
+          "level": 2
+        },
+        {
+          "title": "痴人生女",
+          "anchor": "bw349",
+          "level": 2
+        },
+        {
+          "title": "糊涂花面",
+          "anchor": "bw350",
+          "level": 2
+        },
+        {
+          "title": "事发觉",
+          "anchor": "bw351",
+          "level": 2
+        },
+        {
+          "title": "父各爨",
+          "anchor": "bw352",
+          "level": 2
+        },
+        {
+          "title": "烧令尊",
+          "anchor": "bw353",
+          "level": 2
+        },
+        {
+          "title": "子守店",
+          "anchor": "bw354",
+          "level": 2
+        },
+        {
+          "title": "活脱话",
+          "anchor": "bw355",
+          "level": 2
+        },
+        {
+          "title": "母猪肉",
+          "anchor": "bw356",
+          "level": 2
+        },
+        {
+          "title": "望孙出气",
+          "anchor": "bw357",
+          "level": 2
+        },
+        {
+          "title": "买酱醋",
+          "anchor": "bw358",
+          "level": 2
+        },
+        {
+          "title": "劈柴",
+          "anchor": "bw359",
+          "level": 2
+        },
+        {
+          "title": "悟到",
+          "anchor": "bw360",
+          "level": 2
+        },
+        {
+          "title": "藏锄",
+          "anchor": "bw361",
+          "level": 2
+        },
+        {
+          "title": "较岁",
+          "anchor": "bw362",
+          "level": 2
+        },
+        {
+          "title": "拾簪",
+          "anchor": "bw363",
+          "level": 2
+        },
+        {
+          "title": "认鞋",
+          "anchor": "bw364",
+          "level": 2
+        },
+        {
+          "title": "搽药",
+          "anchor": "bw365",
+          "level": 2
+        },
+        {
+          "title": "记酒",
+          "anchor": "bw366",
+          "level": 2
+        },
+        {
+          "title": "狠干",
+          "anchor": "bw367",
+          "level": 2
+        },
+        {
+          "title": "奸睡",
+          "anchor": "bw368",
+          "level": 2
+        },
+        {
+          "title": "杀妻",
+          "anchor": "bw369",
+          "level": 2
+        },
+        {
+          "title": "盗牛",
+          "anchor": "bw370",
+          "level": 2
+        },
+        {
+          "title": "籴米",
+          "anchor": "bw371",
+          "level": 2
+        },
+        {
+          "title": "在行",
+          "anchor": "bw372",
+          "level": 2
+        },
+        {
+          "title": "呆算",
+          "anchor": "bw373",
+          "level": 2
+        },
+        {
+          "title": "代打",
+          "anchor": "bw374",
+          "level": 2
+        },
+        {
+          "title": "七月儿",
+          "anchor": "bw375",
+          "level": 2
+        },
+        {
+          "title": "卵生翼",
+          "anchor": "bw376",
+          "level": 2
+        },
+        {
+          "title": "试试看",
+          "anchor": "bw377",
+          "level": 2
+        },
+        {
+          "title": "靠父膳",
+          "anchor": "bw378",
+          "level": 2
+        },
+        {
+          "title": "觅凳脚",
+          "anchor": "bw379",
+          "level": 2
+        },
+        {
+          "title": "访麦价",
+          "anchor": "bw380",
+          "level": 2
+        },
+        {
+          "title": "锤",
+          "anchor": "bw381",
+          "level": 2
+        },
+        {
+          "title": "白鼻猫",
+          "anchor": "bw382",
+          "level": 2
+        },
+        {
+          "title": "懒活",
+          "anchor": "bw383",
+          "level": 2
+        },
+        {
+          "title": "露水桌",
+          "anchor": "bw384",
+          "level": 2
+        },
+        {
+          "title": "衣软",
+          "anchor": "bw385",
+          "level": 2
+        },
+        {
+          "title": "椅桌受用",
+          "anchor": "bw386",
+          "level": 2
+        },
+        {
+          "title": "咸蛋",
+          "anchor": "bw387",
+          "level": 2
+        },
+        {
+          "title": "看戏",
+          "anchor": "bw388",
+          "level": 2
+        },
+        {
+          "title": "演戏",
+          "anchor": "bw389",
+          "level": 2
+        },
+        {
+          "title": "祛盗",
+          "anchor": "bw390",
+          "level": 2
+        },
+        {
+          "title": "复跌",
+          "anchor": "bw391",
+          "level": 2
+        },
+        {
+          "title": "缓踱",
+          "anchor": "bw392",
+          "level": 2
+        },
+        {
+          "title": "出辔头",
+          "anchor": "bw393",
+          "level": 2
+        },
+        {
+          "title": "铺兵",
+          "anchor": "bw394",
+          "level": 2
+        },
+        {
+          "title": "米",
+          "anchor": "bw395",
+          "level": 2
+        },
+        {
+          "title": "鹅变鸭",
+          "anchor": "bw396",
+          "level": 2
+        },
+        {
+          "title": "帽当扇",
+          "anchor": "bw397",
+          "level": 2
+        },
+        {
+          "title": "买海蛳",
+          "anchor": "bw398",
+          "level": 2
+        },
+        {
+          "title": "浼匠迁居",
+          "anchor": "bw399",
+          "level": 2
+        },
+        {
+          "title": "混堂嗽口",
+          "anchor": "bw400",
+          "level": 2
+        },
+        {
+          "title": "何往",
+          "anchor": "bw401",
+          "level": 2
+        },
+        {
+          "title": "呆执",
+          "anchor": "bw402",
+          "level": 2
+        },
+        {
+          "title": "信阴阳",
+          "anchor": "bw403",
+          "level": 2
+        },
+        {
+          "title": "丑汉看",
+          "anchor": "bw404",
+          "level": 2
+        },
+        {
+          "title": "爇翁腿",
+          "anchor": "bw405",
+          "level": 2
+        },
+        {
+          "title": "合着靴",
+          "anchor": "bw406",
+          "level": 2
+        },
+        {
+          "title": "发换糖",
+          "anchor": "bw407",
+          "level": 2
+        },
+        {
+          "title": "教象棋",
+          "anchor": "bw408",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=840684&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "卷六 闺风部",
+      "level": 1,
+      "wordCount": 7,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "洞房佳偶",
+      "level": 2,
+      "wordCount": 7714,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "拜堂产儿",
+          "anchor": "bw410",
+          "level": 2
+        },
+        {
+          "title": "抢婚",
+          "anchor": "bw411",
+          "level": 2
+        },
+        {
+          "title": "两坦",
+          "anchor": "bw412",
+          "level": 2
+        },
+        {
+          "title": "两尽",
+          "anchor": "bw413",
+          "level": 2
+        },
+        {
+          "title": "问嫂",
+          "anchor": "bw414",
+          "level": 2
+        },
+        {
+          "title": "没良心",
+          "anchor": "bw415",
+          "level": 2
+        },
+        {
+          "title": "呼不好",
+          "anchor": "bw416",
+          "level": 2
+        },
+        {
+          "title": "谢周公",
+          "anchor": "bw417",
+          "level": 2
+        },
+        {
+          "title": "死结",
+          "anchor": "bw418",
+          "level": 2
+        },
+        {
+          "title": "亲嘴",
+          "anchor": "bw419",
+          "level": 2
+        },
+        {
+          "title": "出气",
+          "anchor": "bw420",
+          "level": 2
+        },
+        {
+          "title": "通奸",
+          "anchor": "bw421",
+          "level": 2
+        },
+        {
+          "title": "用枕",
+          "anchor": "bw422",
+          "level": 2
+        },
+        {
+          "title": "掮脚",
+          "anchor": "bw423",
+          "level": 2
+        },
+        {
+          "title": "新人哭",
+          "anchor": "bw424",
+          "level": 2
+        },
+        {
+          "title": "舌头甜",
+          "anchor": "bw425",
+          "level": 2
+        },
+        {
+          "title": "起半身",
+          "anchor": "bw426",
+          "level": 2
+        },
+        {
+          "title": "大话",
+          "anchor": "bw427",
+          "level": 2
+        },
+        {
+          "title": "正好",
+          "anchor": "bw428",
+          "level": 2
+        },
+        {
+          "title": "鹰啄",
+          "anchor": "bw429",
+          "level": 2
+        },
+        {
+          "title": "半处子",
+          "anchor": "bw430",
+          "level": 2
+        },
+        {
+          "title": "纳茄",
+          "anchor": "bw431",
+          "level": 2
+        },
+        {
+          "title": "嗔儿",
+          "anchor": "bw432",
+          "level": 2
+        },
+        {
+          "title": "冻杀",
+          "anchor": "bw433",
+          "level": 2
+        },
+        {
+          "title": "软萝卜",
+          "anchor": "bw434",
+          "level": 2
+        },
+        {
+          "title": "捉虼蚤",
+          "anchor": "bw435",
+          "level": 2
+        },
+        {
+          "title": "贼干",
+          "anchor": "bw436",
+          "level": 2
+        },
+        {
+          "title": "饭米",
+          "anchor": "bw437",
+          "level": 2
+        },
+        {
+          "title": "擂棰",
+          "anchor": "bw438",
+          "level": 2
+        },
+        {
+          "title": "咎夫",
+          "anchor": "bw439",
+          "level": 2
+        },
+        {
+          "title": "取名",
+          "anchor": "bw440",
+          "level": 2
+        },
+        {
+          "title": "不怕死",
+          "anchor": "bw441",
+          "level": 2
+        },
+        {
+          "title": "寡欲",
+          "anchor": "bw442",
+          "level": 2
+        },
+        {
+          "title": "多男",
+          "anchor": "bw443",
+          "level": 2
+        },
+        {
+          "title": "问儿",
+          "anchor": "bw444",
+          "level": 2
+        },
+        {
+          "title": "祈神",
+          "anchor": "bw445",
+          "level": 2
+        },
+        {
+          "title": "下半截",
+          "anchor": "bw446",
+          "level": 2
+        },
+        {
+          "title": "嘴不准",
+          "anchor": "bw447",
+          "level": 2
+        },
+        {
+          "title": "讼奸",
+          "anchor": "bw448",
+          "level": 2
+        },
+        {
+          "title": "栗爆响",
+          "anchor": "bw449",
+          "level": 2
+        },
+        {
+          "title": "铁箍",
+          "anchor": "bw450",
+          "level": 2
+        },
+        {
+          "title": "两来船",
+          "anchor": "bw451",
+          "level": 2
+        },
+        {
+          "title": "醉饱行房",
+          "anchor": "bw452",
+          "level": 2
+        },
+        {
+          "title": "命运不好",
+          "anchor": "bw453",
+          "level": 2
+        },
+        {
+          "title": "邻人看",
+          "anchor": "bw454",
+          "level": 2
+        },
+        {
+          "title": "后园种韭",
+          "anchor": "bw455",
+          "level": 2
+        },
+        {
+          "title": "丝瓜换韭",
+          "anchor": "bw456",
+          "level": 2
+        },
+        {
+          "title": "脚淘",
+          "anchor": "bw457",
+          "level": 2
+        },
+        {
+          "title": "怕冷",
+          "anchor": "bw458",
+          "level": 2
+        },
+        {
+          "title": "稳生男",
+          "anchor": "bw459",
+          "level": 2
+        },
+        {
+          "title": "龌龊",
+          "anchor": "bw460",
+          "level": 2
+        },
+        {
+          "title": "老鼠数钱",
+          "anchor": "bw461",
+          "level": 2
+        },
+        {
+          "title": "浆硬",
+          "anchor": "bw462",
+          "level": 2
+        },
+        {
+          "title": "邻人问",
+          "anchor": "bw463",
+          "level": 2
+        },
+        {
+          "title": "忌叫死",
+          "anchor": "bw464",
+          "level": 2
+        },
+        {
+          "title": "再醮",
+          "anchor": "bw465",
+          "level": 2
+        },
+        {
+          "title": "扇尸",
+          "anchor": "bw466",
+          "level": 2
+        },
+        {
+          "title": "不不",
+          "anchor": "bw467",
+          "level": 2
+        },
+        {
+          "title": "愿杀",
+          "anchor": "bw468",
+          "level": 2
+        },
+        {
+          "title": "心在这里",
+          "anchor": "bw469",
+          "level": 2
+        },
+        {
+          "title": "公直老人",
+          "anchor": "bw470",
+          "level": 2
+        },
+        {
+          "title": "他大我大",
+          "anchor": "bw471",
+          "level": 2
+        },
+        {
+          "title": "罚真咒",
+          "anchor": "bw472",
+          "level": 2
+        },
+        {
+          "title": "谢媳",
+          "anchor": "bw473",
+          "level": 2
+        },
+        {
+          "title": "浇蜡师",
+          "anchor": "bw474",
+          "level": 2
+        },
+        {
+          "title": "毛病",
+          "anchor": "bw475",
+          "level": 2
+        },
+        {
+          "title": "拿访",
+          "anchor": "bw476",
+          "level": 2
+        },
+        {
+          "title": "卖古董",
+          "anchor": "bw477",
+          "level": 2
+        },
+        {
+          "title": "换床",
+          "anchor": "bw478",
+          "level": 2
+        },
+        {
+          "title": "雷击",
+          "anchor": "bw479",
+          "level": 2
+        },
+        {
+          "title": "偷弟媳",
+          "anchor": "bw480",
+          "level": 2
+        },
+        {
+          "title": "老娶",
+          "anchor": "bw481",
+          "level": 2
+        },
+        {
+          "title": "使搭头",
+          "anchor": "bw482",
+          "level": 2
+        },
+        {
+          "title": "破开晒",
+          "anchor": "bw483",
+          "level": 2
+        },
+        {
+          "title": "忽举",
+          "anchor": "bw484",
+          "level": 2
+        },
+        {
+          "title": "许愿",
+          "anchor": "bw485",
+          "level": 2
+        },
+        {
+          "title": "上路来",
+          "anchor": "bw486",
+          "level": 2
+        },
+        {
+          "title": "折不受",
+          "anchor": "bw487",
+          "level": 2
+        },
+        {
+          "title": "米粒",
+          "anchor": "bw488",
+          "level": 2
+        },
+        {
+          "title": "日进",
+          "anchor": "bw489",
+          "level": 2
+        },
+        {
+          "title": "喷嚏",
+          "anchor": "bw490",
+          "level": 2
+        },
+        {
+          "title": "咬牙",
+          "anchor": "bw491",
+          "level": 2
+        },
+        {
+          "title": "藏年",
+          "anchor": "bw492",
+          "level": 2
+        },
+        {
+          "title": "谢金口",
+          "anchor": "bw493",
+          "level": 2
+        },
+        {
+          "title": "挣命",
+          "anchor": "bw494",
+          "level": 2
+        },
+        {
+          "title": "娶头婚",
+          "anchor": "bw495",
+          "level": 2
+        },
+        {
+          "title": "咏物",
+          "anchor": "bw496",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=840684&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "卷七 世讳部",
+      "level": 1,
+      "wordCount": 7,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "开路神",
+      "level": 2,
+      "wordCount": 6169,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "焦面鬼",
+          "anchor": "bw498",
+          "level": 2
+        },
+        {
+          "title": "咽糠",
+          "anchor": "bw499",
+          "level": 2
+        },
+        {
+          "title": "呵脬",
+          "anchor": "bw500",
+          "level": 2
+        },
+        {
+          "title": "望烟囱",
+          "anchor": "bw501",
+          "level": 2
+        },
+        {
+          "title": "老白相",
+          "anchor": "bw502",
+          "level": 2
+        },
+        {
+          "title": "曲蟮",
+          "anchor": "bw503",
+          "level": 2
+        },
+        {
+          "title": "借脑子",
+          "anchor": "bw504",
+          "level": 2
+        },
+        {
+          "title": "件件熟",
+          "anchor": "bw505",
+          "level": 2
+        },
+        {
+          "title": "活千年",
+          "anchor": "bw506",
+          "level": 2
+        },
+        {
+          "title": "屁香",
+          "anchor": "bw507",
+          "level": 2
+        },
+        {
+          "title": "撞席",
+          "anchor": "bw508",
+          "level": 2
+        },
+        {
+          "title": "泥高壁",
+          "anchor": "bw509",
+          "level": 2
+        },
+        {
+          "title": "嫖院吏",
+          "anchor": "bw510",
+          "level": 2
+        },
+        {
+          "title": "换班",
+          "anchor": "bw511",
+          "level": 2
+        },
+        {
+          "title": "争座",
+          "anchor": "bw512",
+          "level": 2
+        },
+        {
+          "title": "软硬",
+          "anchor": "bw513",
+          "level": 2
+        },
+        {
+          "title": "婢子",
+          "anchor": "bw514",
+          "level": 2
+        },
+        {
+          "title": "尿壶骂",
+          "anchor": "bw515",
+          "level": 2
+        },
+        {
+          "title": "对戏",
+          "anchor": "bw516",
+          "level": 2
+        },
+        {
+          "title": "屁股痛",
+          "anchor": "bw517",
+          "level": 2
+        },
+        {
+          "title": "龙阳娶",
+          "anchor": "bw518",
+          "level": 2
+        },
+        {
+          "title": "撒精",
+          "anchor": "bw519",
+          "level": 2
+        },
+        {
+          "title": "臀凑",
+          "anchor": "bw520",
+          "level": 2
+        },
+        {
+          "title": "袭职",
+          "anchor": "bw521",
+          "level": 2
+        },
+        {
+          "title": "挤进",
+          "anchor": "bw522",
+          "level": 2
+        },
+        {
+          "title": "兑车",
+          "anchor": "bw523",
+          "level": 2
+        },
+        {
+          "title": "夫夫",
+          "anchor": "bw524",
+          "level": 2
+        },
+        {
+          "title": "倒做龟",
+          "anchor": "bw525",
+          "level": 2
+        },
+        {
+          "title": "老了叫",
+          "anchor": "bw526",
+          "level": 2
+        },
+        {
+          "title": "寿板",
+          "anchor": "bw527",
+          "level": 2
+        },
+        {
+          "title": "小娘",
+          "anchor": "bw528",
+          "level": 2
+        },
+        {
+          "title": "好睡纳鞋",
+          "anchor": "bw529",
+          "level": 2
+        },
+        {
+          "title": "羡妓阴物",
+          "anchor": "bw530",
+          "level": 2
+        },
+        {
+          "title": "豁拳",
+          "anchor": "bw531",
+          "level": 2
+        },
+        {
+          "title": "嫌口阔",
+          "anchor": "bw532",
+          "level": 2
+        },
+        {
+          "title": "梦里梦",
+          "anchor": "bw533",
+          "level": 2
+        },
+        {
+          "title": "年倒缩",
+          "anchor": "bw534",
+          "level": 2
+        },
+        {
+          "title": "子嫖父帮",
+          "anchor": "bw535",
+          "level": 2
+        },
+        {
+          "title": "父多一次",
+          "anchor": "bw536",
+          "level": 2
+        },
+        {
+          "title": "醉敲门",
+          "anchor": "bw537",
+          "level": 2
+        },
+        {
+          "title": "缠住",
+          "anchor": "bw538",
+          "level": 2
+        },
+        {
+          "title": "龟渡",
+          "anchor": "bw539",
+          "level": 2
+        },
+        {
+          "title": "骨血",
+          "anchor": "bw540",
+          "level": 2
+        },
+        {
+          "title": "妻当稍",
+          "anchor": "bw541",
+          "level": 2
+        },
+        {
+          "title": "取头",
+          "anchor": "bw542",
+          "level": 2
+        },
+        {
+          "title": "捉头",
+          "anchor": "bw543",
+          "level": 2
+        },
+        {
+          "title": "白日鬼",
+          "anchor": "bw544",
+          "level": 2
+        },
+        {
+          "title": "份子头",
+          "anchor": "bw545",
+          "level": 2
+        },
+        {
+          "title": "穿窬",
+          "anchor": "bw546",
+          "level": 2
+        },
+        {
+          "title": "新雷公",
+          "anchor": "bw547",
+          "level": 2
+        },
+        {
+          "title": "叫城门",
+          "anchor": "bw548",
+          "level": 2
+        },
+        {
+          "title": "老鳏",
+          "anchor": "bw549",
+          "level": 2
+        },
+        {
+          "title": "抵偿",
+          "anchor": "bw550",
+          "level": 2
+        },
+        {
+          "title": "不利语",
+          "anchor": "bw551",
+          "level": 2
+        },
+        {
+          "title": "吹叭喇",
+          "anchor": "bw552",
+          "level": 2
+        },
+        {
+          "title": "戒狗肉",
+          "anchor": "bw553",
+          "level": 2
+        },
+        {
+          "title": "病烂腿",
+          "anchor": "bw554",
+          "level": 2
+        },
+        {
+          "title": "吃荇叶",
+          "anchor": "bw555",
+          "level": 2
+        },
+        {
+          "title": "书手",
+          "anchor": "bw556",
+          "level": 2
+        },
+        {
+          "title": "滑吏",
+          "anchor": "bw557",
+          "level": 2
+        },
+        {
+          "title": "做牌",
+          "anchor": "bw558",
+          "level": 2
+        },
+        {
+          "title": "作仆",
+          "anchor": "bw559",
+          "level": 2
+        },
+        {
+          "title": "戏改杜诗",
+          "anchor": "bw560",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=840684&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "卷八 僧道部",
+      "level": 1,
+      "wordCount": 7,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "追度牒",
+      "level": 2,
+      "wordCount": 4038,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "掠缘簿",
+          "anchor": "bw562",
+          "level": 2
+        },
+        {
+          "title": "鬼王撒尿",
+          "anchor": "bw563",
+          "level": 2
+        },
+        {
+          "title": "发往酆都",
+          "anchor": "bw564",
+          "level": 2
+        },
+        {
+          "title": "开荤",
+          "anchor": "bw565",
+          "level": 2
+        },
+        {
+          "title": "鸦噪",
+          "anchor": "bw566",
+          "level": 2
+        },
+        {
+          "title": "忏悔",
+          "anchor": "bw567",
+          "level": 2
+        },
+        {
+          "title": "追荐",
+          "anchor": "bw568",
+          "level": 2
+        },
+        {
+          "title": "屁脬",
+          "anchor": "bw569",
+          "level": 2
+        },
+        {
+          "title": "阳硬",
+          "anchor": "bw570",
+          "level": 2
+        },
+        {
+          "title": "哭响屁",
+          "anchor": "bw571",
+          "level": 2
+        },
+        {
+          "title": "闻香袋",
+          "anchor": "bw572",
+          "level": 2
+        },
+        {
+          "title": "游方",
+          "anchor": "bw573",
+          "level": 2
+        },
+        {
+          "title": "桩粪",
+          "anchor": "bw574",
+          "level": 2
+        },
+        {
+          "title": "僧赞僧",
+          "anchor": "bw575",
+          "level": 2
+        },
+        {
+          "title": "上下光",
+          "anchor": "bw576",
+          "level": 2
+        },
+        {
+          "title": "见和尚",
+          "anchor": "bw577",
+          "level": 2
+        },
+        {
+          "title": "卖字",
+          "anchor": "bw578",
+          "level": 2
+        },
+        {
+          "title": "没骨头",
+          "anchor": "bw579",
+          "level": 2
+        },
+        {
+          "title": "和尚下爬",
+          "anchor": "bw580",
+          "level": 2
+        },
+        {
+          "title": "杜徐",
+          "anchor": "bw581",
+          "level": 2
+        },
+        {
+          "title": "大家伙",
+          "anchor": "bw582",
+          "level": 2
+        },
+        {
+          "title": "小僧头",
+          "anchor": "bw583",
+          "level": 2
+        },
+        {
+          "title": "倒挂",
+          "anchor": "bw584",
+          "level": 2
+        },
+        {
+          "title": "天报",
+          "anchor": "bw585",
+          "level": 2
+        },
+        {
+          "title": "祭器",
+          "anchor": "bw586",
+          "level": 2
+        },
+        {
+          "title": "僧浴",
+          "anchor": "bw587",
+          "level": 2
+        },
+        {
+          "title": "头眼",
+          "anchor": "bw588",
+          "level": 2
+        },
+        {
+          "title": "问秃",
+          "anchor": "bw589",
+          "level": 2
+        },
+        {
+          "title": "九思",
+          "anchor": "bw590",
+          "level": 2
+        },
+        {
+          "title": "当真取笑",
+          "anchor": "bw591",
+          "level": 2
+        },
+        {
+          "title": "宿娼",
+          "anchor": "bw592",
+          "level": 2
+        },
+        {
+          "title": "僧道争儿",
+          "anchor": "bw593",
+          "level": 2
+        },
+        {
+          "title": "道士狗养",
+          "anchor": "bw594",
+          "level": 2
+        },
+        {
+          "title": "屄壳",
+          "anchor": "bw595",
+          "level": 2
+        },
+        {
+          "title": "入观",
+          "anchor": "bw596",
+          "level": 2
+        },
+        {
+          "title": "跳墙",
+          "anchor": "bw597",
+          "level": 2
+        },
+        {
+          "title": "驱蚊",
+          "anchor": "bw598",
+          "level": 2
+        },
+        {
+          "title": "谢符",
+          "anchor": "bw599",
+          "level": 2
+        },
+        {
+          "title": "祈雨",
+          "anchor": "bw600",
+          "level": 2
+        },
+        {
+          "title": "养汉尼",
+          "anchor": "bw601",
+          "level": 2
+        },
+        {
+          "title": "七字课",
+          "anchor": "bw602",
+          "level": 2
+        },
+        {
+          "title": "几世修",
+          "anchor": "bw603",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=840684&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "卷九 贪吝部",
+      "level": 1,
+      "wordCount": 7,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "开当",
+      "level": 2,
+      "wordCount": 6058,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "请神",
+          "anchor": "bw605",
+          "level": 2
+        },
+        {
+          "title": "大东道",
+          "anchor": "bw606",
+          "level": 2
+        },
+        {
+          "title": "好放债",
+          "anchor": "bw607",
+          "level": 2
+        },
+        {
+          "title": "打半死",
+          "anchor": "bw608",
+          "level": 2
+        },
+        {
+          "title": "命穷",
+          "anchor": "bw609",
+          "level": 2
+        },
+        {
+          "title": "兄弟种田",
+          "anchor": "bw610",
+          "level": 2
+        },
+        {
+          "title": "合伙做酒",
+          "anchor": "bw611",
+          "level": 2
+        },
+        {
+          "title": "翻脸",
+          "anchor": "bw612",
+          "level": 2
+        },
+        {
+          "title": "画像",
+          "anchor": "bw613",
+          "level": 2
+        },
+        {
+          "title": "许日子",
+          "anchor": "bw614",
+          "level": 2
+        },
+        {
+          "title": "醵金",
+          "anchor": "bw615",
+          "level": 2
+        },
+        {
+          "title": "携灯",
+          "anchor": "bw616",
+          "level": 2
+        },
+        {
+          "title": "不留客",
+          "anchor": "bw617",
+          "level": 2
+        },
+        {
+          "title": "不留饭",
+          "anchor": "bw618",
+          "level": 2
+        },
+        {
+          "title": "射虎",
+          "anchor": "bw619",
+          "level": 2
+        },
+        {
+          "title": "吃人",
+          "anchor": "bw620",
+          "level": 2
+        },
+        {
+          "title": "悭吝",
+          "anchor": "bw621",
+          "level": 2
+        },
+        {
+          "title": "卖粉孩",
+          "anchor": "bw622",
+          "level": 2
+        },
+        {
+          "title": "独管裤",
+          "anchor": "bw623",
+          "level": 2
+        },
+        {
+          "title": "莫想出头",
+          "anchor": "bw624",
+          "level": 2
+        },
+        {
+          "title": "一毛不拔",
+          "anchor": "bw625",
+          "level": 2
+        },
+        {
+          "title": "因小失大",
+          "anchor": "bw626",
+          "level": 2
+        },
+        {
+          "title": "七德",
+          "anchor": "bw627",
+          "level": 2
+        },
+        {
+          "title": "粪鸡",
+          "anchor": "bw628",
+          "level": 2
+        },
+        {
+          "title": "恶神",
+          "anchor": "bw629",
+          "level": 2
+        },
+        {
+          "title": "下饭",
+          "anchor": "bw630",
+          "level": 2
+        },
+        {
+          "title": "吃榧伤心",
+          "anchor": "bw631",
+          "level": 2
+        },
+        {
+          "title": "一味足矣",
+          "anchor": "bw632",
+          "level": 2
+        },
+        {
+          "title": "卖肉忌赊",
+          "anchor": "bw633",
+          "level": 2
+        },
+        {
+          "title": "咬嚼不过",
+          "anchor": "bw634",
+          "level": 2
+        },
+        {
+          "title": "蘸酒",
+          "anchor": "bw635",
+          "level": 2
+        },
+        {
+          "title": "吞杯",
+          "anchor": "bw636",
+          "level": 2
+        },
+        {
+          "title": "好酒",
+          "anchor": "bw637",
+          "level": 2
+        },
+        {
+          "title": "恋席",
+          "anchor": "bw638",
+          "level": 2
+        },
+        {
+          "title": "寡酒",
+          "anchor": "bw639",
+          "level": 2
+        },
+        {
+          "title": "恋酒",
+          "anchor": "bw640",
+          "level": 2
+        },
+        {
+          "title": "四脏",
+          "anchor": "bw641",
+          "level": 2
+        },
+        {
+          "title": "白伺候",
+          "anchor": "bw642",
+          "level": 2
+        },
+        {
+          "title": "梦戏酌",
+          "anchor": "bw643",
+          "level": 2
+        },
+        {
+          "title": "梦美酒",
+          "anchor": "bw644",
+          "level": 2
+        },
+        {
+          "title": "截酒杯",
+          "anchor": "bw645",
+          "level": 2
+        },
+        {
+          "title": "切薄肉",
+          "anchor": "bw646",
+          "level": 2
+        },
+        {
+          "title": "满盘多是",
+          "anchor": "bw647",
+          "level": 2
+        },
+        {
+          "title": "滑字",
+          "anchor": "bw648",
+          "level": 2
+        },
+        {
+          "title": "不见肉",
+          "anchor": "bw649",
+          "level": 2
+        },
+        {
+          "title": "和头多",
+          "anchor": "bw650",
+          "level": 2
+        },
+        {
+          "title": "盛骨头",
+          "anchor": "bw651",
+          "level": 2
+        },
+        {
+          "title": "收骨头",
+          "anchor": "bw652",
+          "level": 2
+        },
+        {
+          "title": "索烛",
+          "anchor": "bw653",
+          "level": 2
+        },
+        {
+          "title": "涂嘴",
+          "anchor": "bw654",
+          "level": 2
+        },
+        {
+          "title": "借水",
+          "anchor": "bw655",
+          "level": 2
+        },
+        {
+          "title": "善求",
+          "anchor": "bw656",
+          "level": 2
+        },
+        {
+          "title": "好啖",
+          "anchor": "bw657",
+          "level": 2
+        },
+        {
+          "title": "同席不认",
+          "anchor": "bw658",
+          "level": 2
+        },
+        {
+          "title": "喜属犬",
+          "anchor": "bw659",
+          "level": 2
+        },
+        {
+          "title": "问肉",
+          "anchor": "bw660",
+          "level": 2
+        },
+        {
+          "title": "吃黄雀",
+          "anchor": "bw661",
+          "level": 2
+        },
+        {
+          "title": "啖馄饨",
+          "anchor": "bw662",
+          "level": 2
+        },
+        {
+          "title": "罚变蟹",
+          "anchor": "bw663",
+          "level": 2
+        },
+        {
+          "title": "酒煮滚汤",
+          "anchor": "bw664",
+          "level": 2
+        },
+        {
+          "title": "不吃素",
+          "anchor": "bw665",
+          "level": 2
+        },
+        {
+          "title": "淡酒",
+          "anchor": "bw666",
+          "level": 2
+        },
+        {
+          "title": "淡水",
+          "anchor": "bw667",
+          "level": 2
+        },
+        {
+          "title": "索米",
+          "anchor": "bw668",
+          "level": 2
+        },
+        {
+          "title": "酒死",
+          "anchor": "bw669",
+          "level": 2
+        },
+        {
+          "title": "送君代酒",
+          "anchor": "bw670",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=840684&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "卷十 贫窭部",
+      "level": 1,
+      "wordCount": 7,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "好古董",
+      "level": 2,
+      "wordCount": 3264,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "不奉富",
+          "anchor": "bw672",
+          "level": 2
+        },
+        {
+          "title": "穷十万",
+          "anchor": "bw673",
+          "level": 2
+        },
+        {
+          "title": "只一物",
+          "anchor": "bw674",
+          "level": 2
+        },
+        {
+          "title": "失火",
+          "anchor": "bw675",
+          "level": 2
+        },
+        {
+          "title": "夹被",
+          "anchor": "bw676",
+          "level": 2
+        },
+        {
+          "title": "金银锭",
+          "anchor": "bw677",
+          "level": 2
+        },
+        {
+          "title": "妻掇茶",
+          "anchor": "bw678",
+          "level": 2
+        },
+        {
+          "title": "唤茶",
+          "anchor": "bw679",
+          "level": 2
+        },
+        {
+          "title": "留茶",
+          "anchor": "bw680",
+          "level": 2
+        },
+        {
+          "title": "怕狗",
+          "anchor": "bw681",
+          "level": 2
+        },
+        {
+          "title": "食粥",
+          "anchor": "bw682",
+          "level": 2
+        },
+        {
+          "title": "鞋袜讦讼",
+          "anchor": "bw683",
+          "level": 2
+        },
+        {
+          "title": "被屑挂须",
+          "anchor": "bw684",
+          "level": 2
+        },
+        {
+          "title": "吃糟饼",
+          "anchor": "bw685",
+          "level": 2
+        },
+        {
+          "title": "烧黄熟",
+          "anchor": "bw686",
+          "level": 2
+        },
+        {
+          "title": "饭粘扇",
+          "anchor": "bw687",
+          "level": 2
+        },
+        {
+          "title": "拉银会",
+          "anchor": "bw688",
+          "level": 2
+        },
+        {
+          "title": "兑会钱",
+          "anchor": "bw689",
+          "level": 2
+        },
+        {
+          "title": "剩石沙",
+          "anchor": "bw690",
+          "level": 2
+        },
+        {
+          "title": "破衣",
+          "anchor": "bw691",
+          "level": 2
+        },
+        {
+          "title": "没屪",
+          "anchor": "bw692",
+          "level": 2
+        },
+        {
+          "title": "借服",
+          "anchor": "bw693",
+          "level": 2
+        },
+        {
+          "title": "连三拐",
+          "anchor": "bw694",
+          "level": 2
+        },
+        {
+          "title": "酒瓮盛米",
+          "anchor": "bw695",
+          "level": 2
+        },
+        {
+          "title": "遇偷",
+          "anchor": "bw696",
+          "level": 2
+        },
+        {
+          "title": "被贼",
+          "anchor": "bw697",
+          "level": 2
+        },
+        {
+          "title": "羞见贼",
+          "anchor": "bw698",
+          "level": 2
+        },
+        {
+          "title": "望包荒",
+          "anchor": "bw699",
+          "level": 2
+        },
+        {
+          "title": "借债",
+          "anchor": "bw700",
+          "level": 2
+        },
+        {
+          "title": "变爷",
+          "anchor": "bw701",
+          "level": 2
+        },
+        {
+          "title": "梦还债",
+          "anchor": "bw702",
+          "level": 2
+        },
+        {
+          "title": "说出来",
+          "anchor": "bw703",
+          "level": 2
+        },
+        {
+          "title": "坐椅子",
+          "anchor": "bw704",
+          "level": 2
+        },
+        {
+          "title": "扛欠户",
+          "anchor": "bw705",
+          "level": 2
+        },
+        {
+          "title": "拘债精",
+          "anchor": "bw706",
+          "level": 2
+        },
+        {
+          "title": "摆海干",
+          "anchor": "bw707",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=840684&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "卷十一 讥刺部",
+      "level": 1,
+      "wordCount": 8,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "搬是非",
+      "level": 2,
+      "wordCount": 5972,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "丈人",
+          "anchor": "bw709",
+          "level": 2
+        },
+        {
+          "title": "大爷",
+          "anchor": "bw710",
+          "level": 2
+        },
+        {
+          "title": "接风送程",
+          "anchor": "bw711",
+          "level": 2
+        },
+        {
+          "title": "苏杭同席",
+          "anchor": "bw712",
+          "level": 2
+        },
+        {
+          "title": "狗衔锭",
+          "anchor": "bw713",
+          "level": 2
+        },
+        {
+          "title": "不停当",
+          "anchor": "bw714",
+          "level": 2
+        },
+        {
+          "title": "和事",
+          "anchor": "bw715",
+          "level": 2
+        },
+        {
+          "title": "朝奉",
+          "anchor": "bw716",
+          "level": 2
+        },
+        {
+          "title": "十只脚",
+          "anchor": "bw717",
+          "level": 2
+        },
+        {
+          "title": "亲家公",
+          "anchor": "bw718",
+          "level": 2
+        },
+        {
+          "title": "中人",
+          "anchor": "bw719",
+          "level": 2
+        },
+        {
+          "title": "媒人",
+          "anchor": "bw720",
+          "level": 2
+        },
+        {
+          "title": "表号",
+          "anchor": "bw721",
+          "level": 2
+        },
+        {
+          "title": "精童",
+          "anchor": "bw722",
+          "level": 2
+        },
+        {
+          "title": "相称",
+          "anchor": "bw723",
+          "level": 2
+        },
+        {
+          "title": "看扇",
+          "anchor": "bw724",
+          "level": 2
+        },
+        {
+          "title": "性不饮",
+          "anchor": "bw725",
+          "level": 2
+        },
+        {
+          "title": "鬼脸",
+          "anchor": "bw726",
+          "level": 2
+        },
+        {
+          "title": "担鬼人",
+          "anchor": "bw727",
+          "level": 2
+        },
+        {
+          "title": "牙虫",
+          "anchor": "bw728",
+          "level": 2
+        },
+        {
+          "title": "狗肚一句",
+          "anchor": "bw729",
+          "level": 2
+        },
+        {
+          "title": "吃粮披甲",
+          "anchor": "bw730",
+          "level": 2
+        },
+        {
+          "title": "卵穿嘴上",
+          "anchor": "bw731",
+          "level": 2
+        },
+        {
+          "title": "风流不成",
+          "anchor": "bw732",
+          "level": 2
+        },
+        {
+          "title": "好乌龟",
+          "anchor": "bw733",
+          "level": 2
+        },
+        {
+          "title": "通谱",
+          "anchor": "bw734",
+          "level": 2
+        },
+        {
+          "title": "联宗",
+          "anchor": "bw735",
+          "level": 2
+        },
+        {
+          "title": "定亲",
+          "anchor": "bw736",
+          "level": 2
+        },
+        {
+          "title": "有钱夸口",
+          "anchor": "bw737",
+          "level": 2
+        },
+        {
+          "title": "古今三绝",
+          "anchor": "bw738",
+          "level": 2
+        },
+        {
+          "title": "白蚁蛀",
+          "anchor": "bw739",
+          "level": 2
+        },
+        {
+          "title": "乌须药",
+          "anchor": "bw740",
+          "level": 2
+        },
+        {
+          "title": "吃烟",
+          "anchor": "bw741",
+          "level": 2
+        },
+        {
+          "title": "烟户",
+          "anchor": "bw742",
+          "level": 2
+        },
+        {
+          "title": "烦恼",
+          "anchor": "bw743",
+          "level": 2
+        },
+        {
+          "title": "嘉兴人",
+          "anchor": "bw744",
+          "level": 2
+        },
+        {
+          "title": "猫逐鼠",
+          "anchor": "bw745",
+          "level": 2
+        },
+        {
+          "title": "祝寿",
+          "anchor": "bw746",
+          "level": 2
+        },
+        {
+          "title": "心狠",
+          "anchor": "bw747",
+          "level": 2
+        },
+        {
+          "title": "嘲恶毒",
+          "anchor": "bw748",
+          "level": 2
+        },
+        {
+          "title": "骂无礼",
+          "anchor": "bw749",
+          "level": 2
+        },
+        {
+          "title": "讥人弄乖",
+          "anchor": "bw750",
+          "level": 2
+        },
+        {
+          "title": "素毒",
+          "anchor": "bw751",
+          "level": 2
+        },
+        {
+          "title": "嘲姓倪",
+          "anchor": "bw752",
+          "level": 2
+        },
+        {
+          "title": "白嚼",
+          "anchor": "bw753",
+          "level": 2
+        },
+        {
+          "title": "嚼蛆",
+          "anchor": "bw754",
+          "level": 2
+        },
+        {
+          "title": "笑话一担",
+          "anchor": "bw755",
+          "level": 2
+        },
+        {
+          "title": "听笑话",
+          "anchor": "bw756",
+          "level": 2
+        },
+        {
+          "title": "引避",
+          "anchor": "bw757",
+          "level": 2
+        },
+        {
+          "title": "取笑",
+          "anchor": "bw758",
+          "level": 2
+        },
+        {
+          "title": "吃橄榄",
+          "anchor": "bw759",
+          "level": 2
+        },
+        {
+          "title": "避首席",
+          "anchor": "bw760",
+          "level": 2
+        },
+        {
+          "title": "瓦窑",
+          "anchor": "bw761",
+          "level": 2
+        },
+        {
+          "title": "嘲周姓",
+          "anchor": "bw762",
+          "level": 2
+        },
+        {
+          "title": "嘲滑稽客",
+          "anchor": "bw763",
+          "level": 2
+        },
+        {
+          "title": "认族",
+          "anchor": "bw764",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=840684&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "卷十二 谬误部",
+      "level": 1,
+      "wordCount": 8,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=840684&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "见皇帝",
+      "level": 2,
+      "wordCount": 6149,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "僭称呼",
+          "anchor": "bw766",
+          "level": 2
+        },
+        {
+          "title": "谢赏",
+          "anchor": "bw767",
+          "level": 2
+        },
+        {
+          "title": "高才",
+          "anchor": "bw768",
+          "level": 2
+        },
+        {
+          "title": "看镜",
+          "anchor": "bw769",
+          "level": 2
+        },
+        {
+          "title": "不识货",
+          "anchor": "bw770",
+          "level": 2
+        },
+        {
+          "title": "外太公",
+          "anchor": "bw771",
+          "level": 2
+        },
+        {
+          "title": "床榻",
+          "anchor": "bw772",
+          "level": 2
+        },
+        {
+          "title": "房事",
+          "anchor": "bw773",
+          "level": 2
+        },
+        {
+          "title": "卖粪",
+          "anchor": "bw774",
+          "level": 2
+        },
+        {
+          "title": "出丑",
+          "anchor": "bw775",
+          "level": 2
+        },
+        {
+          "title": "整嫂裙",
+          "anchor": "bw776",
+          "level": 2
+        },
+        {
+          "title": "戏嫂臂",
+          "anchor": "bw777",
+          "level": 2
+        },
+        {
+          "title": "淫病",
+          "anchor": "bw778",
+          "level": 2
+        },
+        {
+          "title": "利市",
+          "anchor": "bw779",
+          "level": 2
+        },
+        {
+          "title": "健讼",
+          "anchor": "bw780",
+          "level": 2
+        },
+        {
+          "title": "官话",
+          "anchor": "bw781",
+          "level": 2
+        },
+        {
+          "title": "掌嘴",
+          "anchor": "bw782",
+          "level": 2
+        },
+        {
+          "title": "乳广",
+          "anchor": "bw783",
+          "level": 2
+        },
+        {
+          "title": "官物",
+          "anchor": "bw784",
+          "level": 2
+        },
+        {
+          "title": "初上路",
+          "anchor": "bw785",
+          "level": 2
+        },
+        {
+          "title": "闹一闹",
+          "anchor": "bw786",
+          "level": 2
+        },
+        {
+          "title": "摸一把",
+          "anchor": "bw787",
+          "level": 2
+        },
+        {
+          "title": "苏空头",
+          "anchor": "bw788",
+          "level": 2
+        },
+        {
+          "title": "连偷骂",
+          "anchor": "bw789",
+          "level": 2
+        },
+        {
+          "title": "□杩桶",
+          "anchor": "bw789a",
+          "level": 2
+        },
+        {
+          "title": "鸟出来",
+          "anchor": "bw790",
+          "level": 2
+        },
+        {
+          "title": "轧棉花",
+          "anchor": "bw791",
+          "level": 2
+        },
+        {
+          "title": "庆生",
+          "anchor": "bw792",
+          "level": 2
+        },
+        {
+          "title": "贺寿",
+          "anchor": "bw793",
+          "level": 2
+        },
+        {
+          "title": "寿气",
+          "anchor": "bw794",
+          "level": 2
+        },
+        {
+          "title": "譬字令",
+          "anchor": "bw795",
+          "level": 2
+        },
+        {
+          "title": "不知令",
+          "anchor": "bw796",
+          "level": 2
+        },
+        {
+          "title": "令官不举",
+          "anchor": "bw797",
+          "level": 2
+        },
+        {
+          "title": "十恶不赦",
+          "anchor": "bw798",
+          "level": 2
+        },
+        {
+          "title": "馄饨",
+          "anchor": "bw799",
+          "level": 2
+        },
+        {
+          "title": "茶屑",
+          "anchor": "bw800",
+          "level": 2
+        },
+        {
+          "title": "卖糖",
+          "anchor": "bw801",
+          "level": 2
+        },
+        {
+          "title": "食蔗",
+          "anchor": "bw802",
+          "level": 2
+        },
+        {
+          "title": "称人",
+          "anchor": "bw803",
+          "level": 2
+        },
+        {
+          "title": "蚬子",
+          "anchor": "bw804",
+          "level": 2
+        },
+        {
+          "title": "出甑馒头",
+          "anchor": "bw805",
+          "level": 2
+        },
+        {
+          "title": "绵在凳",
+          "anchor": "bw806",
+          "level": 2
+        },
+        {
+          "title": "撒屁秤",
+          "anchor": "bw807",
+          "level": 2
+        },
+        {
+          "title": "猫乞食",
+          "anchor": "bw808",
+          "level": 2
+        },
+        {
+          "title": "底下硬",
+          "anchor": "bw809",
+          "level": 2
+        },
+        {
+          "title": "手氏",
+          "anchor": "bw810",
+          "level": 2
+        },
+        {
+          "title": "两夫",
+          "anchor": "bw811",
+          "level": 2
+        },
+        {
+          "title": "曰饼",
+          "anchor": "bw812",
+          "level": 2
+        },
+        {
+          "title": "墙龟",
+          "anchor": "bw813",
+          "level": 2
+        },
+        {
+          "title": "禁溺",
+          "anchor": "bw814",
+          "level": 2
+        },
+        {
+          "title": "说大话",
+          "anchor": "bw815",
+          "level": 2
+        },
+        {
+          "title": "挣大口",
+          "anchor": "bw816",
+          "level": 2
+        },
+        {
+          "title": "天话",
+          "anchor": "bw817",
+          "level": 2
+        },
+        {
+          "title": "谎鼓",
+          "anchor": "bw818",
+          "level": 2
+        },
+        {
+          "title": "大浴盆",
+          "anchor": "bw819",
+          "level": 2
+        },
+        {
+          "title": "两企慕",
+          "anchor": "bw820",
+          "level": 2
+        },
+        {
+          "title": "误听",
+          "anchor": "bw821",
+          "level": 2
+        },
+        {
+          "title": "招弗得",
+          "anchor": "bw822",
+          "level": 2
+        },
+        {
+          "title": "手木笃",
+          "anchor": "bw823",
+          "level": 2
+        },
+        {
+          "title": "圆谎",
+          "anchor": "bw824",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=840684&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=28"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 16,
+      "chapterTitle": "洞房佳偶",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "840684_16_14641-14797",
+          "range": "14641-14797",
+          "rangeStart": 14641,
+          "rangeEnd": 14797,
+          "markText": "一人娶一老妻，坐床时，见面多皱纹，因问曰：“汝有多少年纪？”妇曰：“四十五六。”夫曰：“婚书上写三十八岁，依我看来还不止四十五六，可实对我说。”曰：“实五十四岁矣。”夫复再三诘之，只以前言对。上床后更不过，心乃巧生一计，曰：“我要起来盖盐瓮，不然被老鼠吃去矣。”妇曰：“倒好笑，我活了六十八岁，并不闻老鼠会偷盐吃",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1722049885,
+          "createTimeFormatted": "2024-07-27 11:11:25",
+          "chapterUid": 16,
+          "appLink": "weread://bestbookmark?bookId=840684&chapterUid=16&rangeStart=14641&rangeEnd=14797",
+          "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=16&rangeStart=14641&rangeEnd=14797"
+        }
+      ]
+    },
+    {
+      "chapterUid": 6,
+      "chapterTitle": "升官",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "840684_6_568-687",
+          "range": "568-687",
+          "rangeStart": 568,
+          "rangeEnd": 687,
+          "markText": "一官升职，谓其妻曰：“我的官职比前更大了。”妻曰：“官大，不知此物亦大不？”官曰：“自然。”及行事，妻怪其藐小如故，官曰：“大了许多，汝自不觉着。”妻曰：“如何不觉？”官曰：“难道老爷升了官职，奶奶还照旧不成？少不得我的大，你的也大了。”",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1722040456,
+          "createTimeFormatted": "2024-07-27 08:34:16",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=568&rangeEnd=687",
+          "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=568&rangeEnd=687"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "840684_6_652-687",
+      "chapterUid": 6,
+      "range": "652-687",
+      "markText": "官曰：“难道老爷升了官职，奶奶还照旧不成？少不得我的大，你的也大了。”",
+      "totalCount": 1139,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=652&rangeEnd=687",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=652&rangeEnd=687"
+    },
+    {
+      "bookmarkId": "840684_6_4106-4276",
+      "chapterUid": 6,
+      "range": "4106-4276",
+      "markText": "官坐堂，众役中有撒一响屁，官即叫：“拿来！”隶禀曰：“老爷，屁是一阵风，吹散没影踪，叫小的如何拿得？”官怒云：“为何徇情卖放，定要拿到。”皂无奈，只得取干屎回销：“禀老爷，正犯是走了，拿得家属在此。”",
+      "totalCount": 810,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=4106&rangeEnd=4276",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=4106&rangeEnd=4276"
+    },
+    {
+      "bookmarkId": "840684_6_2997-3084",
+      "chapterUid": 6,
+      "range": "2997-3084",
+      "markText": "官值暑月，欲觅避凉之地。同僚纷议，或曰某山幽雅，或曰某寺清闲。一老人进曰：“山寺虽好，总不如此座公厅，最是凉快。”官曰：“何以见得？”答曰：“别处多有日头，独此处有天无日。”",
+      "totalCount": 544,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=2997&rangeEnd=3084",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=2997&rangeEnd=3084"
+    },
+    {
+      "bookmarkId": "840684_6_2250-2391",
+      "chapterUid": 6,
+      "range": "2250-2391",
+      "markText": "一青盲人涉讼，自诉眼瞎。官曰：“你明明一双清白眼，如何诈瞎？”答曰：“老爷看小人是清白的，小人看老爷却是糊涂得紧。”",
+      "totalCount": 476,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=2250&rangeEnd=2391",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=2250&rangeEnd=2391"
+    },
+    {
+      "bookmarkId": "840684_6_6002-6080",
+      "chapterUid": 6,
+      "range": "6002-6080",
+      "markText": "一武官出征将败，忽有神兵助阵，反大胜。官叩头请神姓名，神曰：“我是垛子。”官曰：“小将何德，敢劳垛子尊神见救？”答曰：“感汝平昔在教场，从不曾有一箭伤我。”",
+      "totalCount": 451,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=6002&rangeEnd=6080",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=6002&rangeEnd=6080"
+    },
+    {
+      "bookmarkId": "840684_6_2736-2774",
+      "chapterUid": 6,
+      "range": "2736-2774",
+      "markText": "卿须忍耐。皇后有些惫赖，与朕一言不合，平天冠打得粉破，你的纱帽只算得个卵袋。",
+      "totalCount": 408,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=2736&rangeEnd=2774",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=2736&rangeEnd=2774"
+    },
+    {
+      "bookmarkId": "840684_6_3936-4030",
+      "chapterUid": 6,
+      "range": "3936-4030",
+      "markText": "夫曰：“官职虽无，同僚（屪）总是一样。”",
+      "totalCount": 345,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=3936&rangeEnd=4030",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=3936&rangeEnd=4030"
+    },
+    {
+      "bookmarkId": "840684_6_1607-1616",
+      "chapterUid": 6,
+      "range": "1607-1616",
+      "markText": "有钱者生，无钱者死",
+      "totalCount": 338,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=1607&rangeEnd=1616",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=1607&rangeEnd=1616"
+    },
+    {
+      "bookmarkId": "840684_6_9277-9293",
+      "chapterUid": 6,
+      "range": "9277-9293",
+      "markText": "生曰：“我要睡，取书作枕头耳。”",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=9277&rangeEnd=9293",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=9277&rangeEnd=9293"
+    },
+    {
+      "bookmarkId": "840684_6_6536-6554",
+      "chapterUid": 6,
+      "range": "6536-6554",
+      "markText": "“如今恁你走上天去，再也不会及第了。",
+      "totalCount": 304,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=6536&rangeEnd=6554",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=6536&rangeEnd=6554"
+    },
+    {
+      "bookmarkId": "840684_6_2498-2534",
+      "chapterUid": 6,
+      "range": "2498-2534",
+      "markText": "黑漆皮灯笼，半天萤火虫。粉墙画白虎，青纸写乌龙。茄子敲泥磬，冬瓜撞木钟。",
+      "totalCount": 300,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=2498&rangeEnd=2534",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=2498&rangeEnd=2534"
+    },
+    {
+      "bookmarkId": "840684_6_1422-1488",
+      "chapterUid": 6,
+      "range": "1422-1488",
+      "markText": "一官新到任，祭仪门毕，有未烬纸钱在地，官即取一锡锭藏好。门子禀曰：“老爷，这是纸钱，要他何用？”官曰：“我知道，且等我发个利市看。”",
+      "totalCount": 280,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=1422&rangeEnd=1488",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=1422&rangeEnd=1488"
+    },
+    {
+      "bookmarkId": "840684_8_7773-7847",
+      "chapterUid": 8,
+      "range": "7773-7847",
+      "markText": "府取童生，祈梦：“道考可望入泮否？”神问曰：“汝祖父是科下否？”曰：“不是。”又问：“家中富饶否？”曰：“无得。”神笑曰：“既是这等，你做甚么梦！”",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=8&rangeStart=7773&rangeEnd=7847",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=8&rangeStart=7773&rangeEnd=7847"
+    },
+    {
+      "bookmarkId": "840684_6_1909-1943",
+      "chapterUid": 6,
+      "range": "1909-1943",
+      "markText": "官亦以手覆曰：“奴才，你讲有理。”又以手一仰曰：“他比你更有理哩。”",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=1909&rangeEnd=1943",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=1909&rangeEnd=1943"
+    },
+    {
+      "bookmarkId": "840684_6_10005-10016",
+      "chapterUid": 6,
+      "range": "10005-10016",
+      "markText": "岂不知监生从来是白丁？",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=10005&rangeEnd=10016",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=10005&rangeEnd=10016"
+    },
+    {
+      "bookmarkId": "840684_6_7459-7506",
+      "chapterUid": 6,
+      "range": "7459-7506",
+      "markText": "有公子兼封君者，父对之，乃欣羡不已。讶问其故，曰：“你的爷既胜过我的爷，你的儿又胜过我的儿。”",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=7459&rangeEnd=7506",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=7459&rangeEnd=7506"
+    },
+    {
+      "bookmarkId": "840684_6_3589-3766",
+      "chapterUid": 6,
+      "range": "3589-3766",
+      "markText": "属牛 一官遇生辰，吏典闻其属鼠，乃醵黄金铸一鼠为寿。官甚喜，曰：“汝等可知奶奶生日，亦在目下乎？”众吏曰：“不知，请问其属？”官曰：“小我一岁，丑年生的。”",
+      "totalCount": 228,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=3589&rangeEnd=3766",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=3589&rangeEnd=3766"
+    },
+    {
+      "bookmarkId": "840684_8_6044-6077",
+      "chapterUid": 8,
+      "range": "6044-6077",
+      "markText": "各沉吟间，忽然同悟，男亲家点头曰：“嗄。”女亲家亦点头曰：“嗄。”",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=8&rangeStart=6044&rangeEnd=6077",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=8&rangeStart=6044&rangeEnd=6077"
+    },
+    {
+      "bookmarkId": "840684_6_3198-3295",
+      "chapterUid": 6,
+      "range": "3198-3295",
+      "markText": "少顷，左右禀曰：“请老爷看石碑。”",
+      "totalCount": 220,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=6&rangeStart=3198&rangeEnd=3295",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=6&rangeStart=3198&rangeEnd=3295"
+    },
+    {
+      "bookmarkId": "840684_8_13764-13790",
+      "chapterUid": 8,
+      "range": "13764-13790",
+      "markText": "师忿怒曰：“你娘在家，同何人睡的？”答曰：“叔叔。”",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=840684&chapterUid=8&rangeStart=13764&rangeEnd=13790",
+      "webLink": "https://weread.qq.com/web/reader/d1d32e205cd3ecd1d495c39?chapterUid=8&rangeStart=13764&rangeEnd=13790"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 22,
+    "chapterOffset": 2261,
+    "progress": 76,
+    "updateTime": 1722049884,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

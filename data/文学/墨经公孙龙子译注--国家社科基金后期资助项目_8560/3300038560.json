@@ -1,0 +1,432 @@
+{
+  "meta": {
+    "bookId": "3300038560",
+    "title": "墨经公孙龙子译注--国家社科基金后期资助项目",
+    "author": "张荣明著",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/24/cpPlatform_ckkCqxzk9U8kmp6c368Pgf/t6_cpPlatform_ckkCqxzk9U8kmp6c368Pgf.jpg",
+    "intro": "本书是对古代两篇逻辑名作《墨经》和《公孙龙子》的译注整理。《墨经》，亦称《墨辩》，是《墨子》书中《经上》、《经说上》、《经下》、《经说下》、《小取》和《大取》六篇的总称。现存的《公孙龙子》一书共有六篇，即《迹府》、《白马论》、《指物论》、《通变论》、《坚白论》和《名实论》；另有附录一篇，对《庄子？天下篇》中集中反映先秦名家的学术主张、与《公孙龙子》这一名家的理论著作相辅相成的“辩者”的三十一个命题进行了译注。每个部分都是按照解题、原文、注释、译文的顺序进行编排。",
+    "category": "文学-古典文学",
+    "publisher": "中华书局有限公司",
+    "publishTime": "2019-10-19 00:00:00",
+    "isbn": "9787101152586",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 6,
+    "newRatingDetail": {
+      "good": 5,
+      "fair": 1,
+      "poor": 0,
+      "recent": 1,
+      "deepV": 2,
+      "myRating": "",
+      "title": "评分不足"
+    },
+    "appLink": "weread://reading?bId=3300038560",
+    "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a",
+    "lastSync": "2026-05-21T11:46:35Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 144,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "国家社科基金后期资助项目 出版说明",
+      "level": 1,
+      "wordCount": 213,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "墨经译注",
+      "level": 1,
+      "wordCount": 882,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "凡例",
+          "anchor": "par1_1_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "经上／经说上",
+      "level": 2,
+      "wordCount": 46274,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "经下／经说下",
+      "level": 2,
+      "wordCount": 67213,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "大取",
+      "level": 2,
+      "wordCount": 32907,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "小取",
+      "level": 2,
+      "wordCount": 15096,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "参校版本",
+      "level": 2,
+      "wordCount": 321,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "引用书目",
+      "level": 2,
+      "wordCount": 1769,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "附录 墨辩要旨",
+      "level": 2,
+      "wordCount": 1326,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "公孙龙子译注",
+      "level": 1,
+      "wordCount": 292,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "凡例",
+          "anchor": "par2_2_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "参校版本",
+      "level": 2,
+      "wordCount": 997,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "迹府第一",
+      "level": 2,
+      "wordCount": 6602,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "白马论第二",
+      "level": 2,
+      "wordCount": 9446,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "指物论第三",
+      "level": 2,
+      "wordCount": 8889,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "通变论第四",
+      "level": 2,
+      "wordCount": 13294,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "坚白论第五",
+      "level": 2,
+      "wordCount": 10805,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "名实论第六",
+      "level": 2,
+      "wordCount": 7536,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "引用书目",
+      "level": 2,
+      "wordCount": 994,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "附录一 《庄子·天下》辩者命题译注",
+      "level": 2,
+      "wordCount": 8658,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "附录二 诸说辑要",
+      "level": 2,
+      "wordCount": 4620,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "附录三 名辩要旨",
+      "level": 2,
+      "wordCount": 1090,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "跋",
+      "level": 1,
+      "wordCount": 608,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038560&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=24"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 5,
+      "chapterTitle": "经上／经说上",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300038560_5_2636-2668",
+          "range": "2636-2668",
+          "rangeStart": 2636,
+          "rangeEnd": 2668,
+          "markText": "若见之成见也：无物则无所见，有物则必能见，物为见的充分必要条件。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1767589665,
+          "createTimeFormatted": "2026-01-05 13:07:45",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300038560&chapterUid=5&rangeStart=2636&rangeEnd=2668",
+          "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=5&rangeStart=2636&rangeEnd=2668"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300038560_5_2636-2668",
+      "chapterUid": 5,
+      "range": "2636-2668",
+      "markText": "若见之成见也：无物则无所见，有物则必能见，物为见的充分必要条件。",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=3300038560&chapterUid=5&rangeStart=2636&rangeEnd=2668",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=5&rangeStart=2636&rangeEnd=2668"
+    },
+    {
+      "bookmarkId": "3300038560_5_7792-7833",
+      "chapterUid": 5,
+      "range": "7792-7833",
+      "markText": "思虑，是因为心智有索求；但仅仅心智索求未必有结果，比如歪着脖子就看不见想看的东西。",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=3300038560&chapterUid=5&rangeStart=7792&rangeEnd=7833",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=5&rangeStart=7792&rangeEnd=7833"
+    },
+    {
+      "bookmarkId": "3300038560_15_5255-5289",
+      "chapterUid": 15,
+      "range": "5255-5289",
+      "markText": "‘马’和‘白’组合起来，难道等于‘马’吗？所以说‘白马’非‘马’。”",
+      "totalCount": 30,
+      "appLink": "weread://bestbookmark?bookId=3300038560&chapterUid=15&rangeStart=5255&rangeEnd=5289",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=15&rangeStart=5255&rangeEnd=5289"
+    },
+    {
+      "bookmarkId": "3300038560_18_4531-4596",
+      "chapterUid": 18,
+      "range": "4531-4596",
+      "markText": "主答：“眼睛观察不到对象物的坚硬，观察到的是白色，此时没有坚硬。手敲击对象物感觉不到白色，感觉到的是坚硬，感觉到坚硬，此时没有白色",
+      "totalCount": 28,
+      "appLink": "weread://bestbookmark?bookId=3300038560&chapterUid=18&rangeStart=4531&rangeEnd=4596",
+      "webLink": "https://weread.qq.com/web/reader/b5b32fb0813ab7590g010d2a?chapterUid=18&rangeStart=4531&rangeEnd=4596"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

@@ -1,0 +1,1253 @@
+{
+  "meta": {
+    "bookId": "3300135772",
+    "title": "营销管理（第16版·精简版）",
+    "author": "[美]菲利普·科特勒",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/53/cpplatform_u7jkyateueay8gp9wfpvty/t6_cpplatform_u7jkyateueay8gp9wfpvty1740990398.jpg",
+    "intro": "《营销管理》首次出版于 1967年，经过半个世纪的沉淀与持续更新，始终站在营销实践的前沿，被全球管理者、商学院奉为圭臬。在最 新的第 16 版中，作者以全新的架构，从营销管理的基本原理、市场的特性、营销战略的规划、设计价值、沟通价值、传递价值、增长的管理七个方面展开阐述，帮助读者制定营销战略和规划，创造和传播品牌，实现企业的长期价值。 本书为《营销管理》(第 16 版) 的精简版本，延续《营销管理》的核心思想，并在此基础上进行高度浓缩，帮助读者快速梳理和记忆关键概念，专注于概念性干货内容。 本书帮助对科特勒有初步认知、希望快速掌握营销学基础知识的读者学习营销学的核心内容，并为其进一步深入学习完整版本的内容奠定基础。",
+    "category": "经济理财-管理",
+    "publisher": "中信出版集团",
+    "publishTime": "2024-09-01 00:00:00",
+    "isbn": "9787521767223",
+    "wordCount": 0,
+    "newRating": 868,
+    "newRatingCount": 430,
+    "newRatingDetail": {
+      "good": 370,
+      "fair": 42,
+      "poor": 18,
+      "recent": 7,
+      "deepV": 73,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300135772",
+    "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936",
+    "lastSync": "2026-05-21T11:46:43Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 998,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "作者序",
+      "level": 1,
+      "wordCount": 640,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "改编者序",
+      "level": 1,
+      "wordCount": 1725,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 3265,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "译者简介",
+      "level": 1,
+      "wordCount": 872,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "改编者简介",
+      "level": 1,
+      "wordCount": 148,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第一部分 营销管理的基本原理",
+      "level": 1,
+      "wordCount": 14,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第一章 为新现实定义营销",
+      "level": 2,
+      "wordCount": 7407,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 市场营销的范畴",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        },
+        {
+          "title": "第二节 新的营销现实",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "第三节 组织与管理市场营销部门",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第二章 营销计划与管理",
+      "level": 2,
+      "wordCount": 9562,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 公司和业务单元的计划与管理",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        },
+        {
+          "title": "第二节 开发市场供应品",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        },
+        {
+          "title": "第三节 计划和管理市场供应品",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        },
+        {
+          "title": "第四节 制订营销计划",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        },
+        {
+          "title": "第五节 修订营销计划",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第二部分 认识市场",
+      "level": 1,
+      "wordCount": 9,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第三章 分析消费者市场",
+      "level": 2,
+      "wordCount": 11695,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 消费者行为模型",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "第二节 消费者特征",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        },
+        {
+          "title": "第三节 消费者心理",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        },
+        {
+          "title": "第四节 购买决策过程",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第四章 分析企业市场",
+      "level": 2,
+      "wordCount": 7980,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 组织采购过程",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        },
+        {
+          "title": "第二节 采购中心",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "第三节 了解采购流程",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        },
+        {
+          "title": "第四节 制订有效的企业营销方案",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "第五节 管理B2B关系",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第五章 开展营销调研",
+      "level": 2,
+      "wordCount": 10649,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 营销调研范围",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        },
+        {
+          "title": "第二节 营销调研过程",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        },
+        {
+          "title": "第三节 衡量市场需求",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "第四节 衡量营销生产力",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第三部分 营销战略规划",
+      "level": 1,
+      "wordCount": 11,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第六章 识别细分市场和目标客户",
+      "level": 2,
+      "wordCount": 8626,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 识别目标客户",
+          "anchor": "sigil_toc_id_22",
+          "level": 3
+        },
+        {
+          "title": "第二节 战略目标市场选择",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "第三节 战术目标市场选择",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "第四节 单一细分市场和多目标细分市场的定位",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        },
+        {
+          "title": "第五节 对消费者市场进行细分",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        },
+        {
+          "title": "第六节 企业市场细分",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第七章 打造顾客价值主张和定位",
+      "level": 2,
+      "wordCount": 8116,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 制定价值主张和定位",
+          "anchor": "sigil_toc_id_28",
+          "level": 3
+        },
+        {
+          "title": "第二节 选择一个参照系",
+          "anchor": "sigil_toc_id_29",
+          "level": 3
+        },
+        {
+          "title": "第三节 识别潜在的差异点和共同点",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        },
+        {
+          "title": "第四节 创造可持续的竞争优势",
+          "anchor": "sigil_toc_id_31",
+          "level": 3
+        },
+        {
+          "title": "第五节 沟通供应品的定位",
+          "anchor": "sigil_toc_id_32",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第四部分 设计价值",
+      "level": 1,
+      "wordCount": 9,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第八章 产品设计与管理",
+      "level": 2,
+      "wordCount": 8120,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 产品差异化",
+          "anchor": "sigil_toc_id_33",
+          "level": 3
+        },
+        {
+          "title": "第二节 产品设计",
+          "anchor": "sigil_toc_id_34",
+          "level": 3
+        },
+        {
+          "title": "第三节 产品组合和产品线",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        },
+        {
+          "title": "第四节 包装和标签管理",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        },
+        {
+          "title": "第五节 担保和保修管理",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第九章 服务的设计和管理",
+      "level": 2,
+      "wordCount": 9119,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 服务的性质",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "第二节 服务业的新现实",
+          "anchor": "sigil_toc_id_39",
+          "level": 3
+        },
+        {
+          "title": "第三节 让服务走向卓越",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        },
+        {
+          "title": "第四节 服务质量管理",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第十章 建设强势品牌",
+      "level": 2,
+      "wordCount": 11178,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 品牌化如何开展",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        },
+        {
+          "title": "第二节 设计品牌",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        },
+        {
+          "title": "第三节 品牌层级",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        },
+        {
+          "title": "第四节 品牌动态",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "第五节 奢侈品品牌化",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        },
+        {
+          "title": "第六节 绘制品牌定位靶盘",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第十一章 管理价格和促销活动",
+      "level": 2,
+      "wordCount": 13734,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 理解定价",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "第二节 消费者心理和定价",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        },
+        {
+          "title": "第三节 制定价格",
+          "anchor": "sigil_toc_id_50",
+          "level": 3
+        },
+        {
+          "title": "第四节 发起和应对价格变化",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        },
+        {
+          "title": "第五节 管理激励机制",
+          "anchor": "sigil_toc_id_52",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第五部分 沟通价值",
+      "level": 1,
+      "wordCount": 9,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第十二章 管理营销沟通",
+      "level": 2,
+      "wordCount": 12409,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 营销沟通的作用",
+          "anchor": "sigil_toc_id_53",
+          "level": 3
+        },
+        {
+          "title": "第二节 设定沟通目标",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        },
+        {
+          "title": "第三节 识别目标受众，设计沟通信息",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        },
+        {
+          "title": "第四节 确定沟通媒介",
+          "anchor": "sigil_toc_id_56",
+          "level": 3
+        },
+        {
+          "title": "第五节 创新沟通方法",
+          "anchor": "sigil_toc_id_57",
+          "level": 3
+        },
+        {
+          "title": "第六节 衡量沟通效果",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第十三章 在数字时代设计整合营销",
+      "level": 2,
+      "wordCount": 10730,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 管理整合营销沟通",
+          "anchor": "sigil_toc_id_59",
+          "level": 3
+        },
+        {
+          "title": "第二节 广告",
+          "anchor": "sigil_toc_id_60",
+          "level": 3
+        },
+        {
+          "title": "第三节 在线沟通",
+          "anchor": "sigil_toc_id_61",
+          "level": 3
+        },
+        {
+          "title": "第四节 社交媒体",
+          "anchor": "sigil_toc_id_62",
+          "level": 3
+        },
+        {
+          "title": "第五节 移动沟通",
+          "anchor": "sigil_toc_id_63",
+          "level": 3
+        },
+        {
+          "title": "第六节 活动与体验",
+          "anchor": "sigil_toc_id_64",
+          "level": 3
+        },
+        {
+          "title": "第七节 口碑",
+          "anchor": "sigil_toc_id_65",
+          "level": 3
+        },
+        {
+          "title": "第八节 宣传与公共关系",
+          "anchor": "sigil_toc_id_66",
+          "level": 3
+        },
+        {
+          "title": "第九节 包装",
+          "anchor": "sigil_toc_id_67",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第十四章 人员销售与直接营销",
+      "level": 2,
+      "wordCount": 9896,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 人员销售",
+          "anchor": "sigil_toc_id_68",
+          "level": 3
+        },
+        {
+          "title": "第二节 设计销售队伍",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        },
+        {
+          "title": "第三节 管理销售队伍",
+          "anchor": "sigil_toc_id_70",
+          "level": 3
+        },
+        {
+          "title": "第四节 直接营销",
+          "anchor": "sigil_toc_id_71",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第六部分 传递价值",
+      "level": 1,
+      "wordCount": 9,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第十五章 设计和管理分销渠道",
+      "level": 2,
+      "wordCount": 12021,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 分销渠道的作用",
+          "anchor": "sigil_toc_id_72",
+          "level": 3
+        },
+        {
+          "title": "第二节 渠道管理决策",
+          "anchor": "sigil_toc_id_73",
+          "level": 3
+        },
+        {
+          "title": "第三节 渠道合作与冲突",
+          "anchor": "sigil_toc_id_74",
+          "level": 3
+        },
+        {
+          "title": "第四节 管理市场物流",
+          "anchor": "sigil_toc_id_75",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=28"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 29,
+      "title": "第十六章 管理零售",
+      "level": 2,
+      "wordCount": 9119,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 现代零售环境",
+          "anchor": "sigil_toc_id_76",
+          "level": 3
+        },
+        {
+          "title": "第二节 关键的零售决策",
+          "anchor": "sigil_toc_id_77",
+          "level": 3
+        },
+        {
+          "title": "第三节 管理全渠道零售",
+          "anchor": "sigil_toc_id_78",
+          "level": 3
+        },
+        {
+          "title": "第四节 管理自有品牌",
+          "anchor": "sigil_toc_id_79",
+          "level": 3
+        },
+        {
+          "title": "第五节 批发",
+          "anchor": "sigil_toc_id_80",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=36"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第七部分 管理增长",
+      "level": 1,
+      "wordCount": 9,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "第十七章 驱动公司在竞争性市场的增长",
+      "level": 2,
+      "wordCount": 11202,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 评估增长机会",
+          "anchor": "sigil_toc_id_81",
+          "level": 3
+        },
+        {
+          "title": "第二节 获得市场地位",
+          "anchor": "sigil_toc_id_82",
+          "level": 3
+        },
+        {
+          "title": "第三节 捍卫市场地位",
+          "anchor": "sigil_toc_id_83",
+          "level": 3
+        },
+        {
+          "title": "第四节 产品生命周期营销策略",
+          "anchor": "sigil_toc_id_84",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第十八章 开发新的市场供应品",
+      "level": 2,
+      "wordCount": 8747,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 新供应品的开发过程",
+          "anchor": "sigil_toc_id_85",
+          "level": 3
+        },
+        {
+          "title": "第二节 创意产生",
+          "anchor": "sigil_toc_id_86",
+          "level": 3
+        },
+        {
+          "title": "第三节 概念开发",
+          "anchor": "sigil_toc_id_87",
+          "level": 3
+        },
+        {
+          "title": "第四节 商业模式设计",
+          "anchor": "sigil_toc_id_88",
+          "level": 3
+        },
+        {
+          "title": "第五节 供应品开发",
+          "anchor": "sigil_toc_id_89",
+          "level": 3
+        },
+        {
+          "title": "第六节 商业部署",
+          "anchor": "sigil_toc_id_90",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第十九章 建立顾客忠诚",
+      "level": 2,
+      "wordCount": 11243,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 管理顾客获取和顾客保留",
+          "anchor": "sigil_toc_id_91",
+          "level": 3
+        },
+        {
+          "title": "第二节 管理顾客满意度和忠诚度",
+          "anchor": "sigil_toc_id_92",
+          "level": 3
+        },
+        {
+          "title": "第三节 管理顾客关系",
+          "anchor": "sigil_toc_id_93",
+          "level": 3
+        },
+        {
+          "title": "第四节 管理顾客终身价值",
+          "anchor": "sigil_toc_id_94",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第二十章 进军全球市场",
+      "level": 2,
+      "wordCount": 8666,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 决定是否走出国门",
+          "anchor": "sigil_toc_id_95",
+          "level": 3
+        },
+        {
+          "title": "第二节 决定进入哪些市场",
+          "anchor": "sigil_toc_id_96",
+          "level": 3
+        },
+        {
+          "title": "第三节 决定怎样进入市场",
+          "anchor": "sigil_toc_id_97",
+          "level": 3
+        },
+        {
+          "title": "第四节 决定全球市场营销方案",
+          "anchor": "sigil_toc_id_98",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第二十一章 社会责任营销",
+      "level": 2,
+      "wordCount": 5736,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 社会责任在营销管理中的作用",
+          "anchor": "sigil_toc_id_99",
+          "level": 3
+        },
+        {
+          "title": "第二节 基于社区的企业社会责任",
+          "anchor": "sigil_toc_id_100",
+          "level": 3
+        },
+        {
+          "title": "第三节 以可持续发展为中心的企业社会责任",
+          "anchor": "sigil_toc_id_101",
+          "level": 3
+        },
+        {
+          "title": "第四节 平衡社会责任和公司盈利",
+          "anchor": "sigil_toc_id_102",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300135772&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=35"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 9,
+      "chapterTitle": "第一章 为新现实定义营销",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300135772_9_1176-1198",
+          "range": "1176-1198",
+          "rangeStart": 1176,
+          "rangeEnd": 1198,
+          "markText": "将个人的或社会的需求转变成可盈利的商业机会。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1767098227,
+          "createTimeFormatted": "2025-12-30 20:37:07",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=1176&rangeEnd=1198",
+          "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=1176&rangeEnd=1198"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300135772_9_1014-1064",
+          "range": "1014-1064",
+          "rangeStart": 1014,
+          "rangeEnd": 1064,
+          "markText": "市场营销(marketing)是指以与组织目标相一致的方式识别并满足人类与社会的需求。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1767098222,
+          "createTimeFormatted": "2025-12-30 20:37:02",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=1014&rangeEnd=1064",
+          "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=1014&rangeEnd=1064"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300135772_9_1014-1064",
+      "chapterUid": 9,
+      "range": "1014-1064",
+      "markText": "市场营销(marketing)是指以与组织目标相一致的方式识别并满足人类与社会的需求。",
+      "totalCount": 832,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=1014&rangeEnd=1064",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=1014&rangeEnd=1064"
+    },
+    {
+      "bookmarkId": "3300135772_9_1375-1452",
+      "chapterUid": 9,
+      "range": "1375-1452",
+      "markText": "营销管理(marketing management)是选择目标市场并通过创造、传递和沟通卓越的顾客价值，来获取、维持和发展顾客的艺术和科学。",
+      "totalCount": 400,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=1375&rangeEnd=1452",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=1375&rangeEnd=1452"
+    },
+    {
+      "bookmarkId": "3300135772_4_684-731",
+      "chapterUid": 4,
+      "range": "684-731",
+      "markText": "科特勒认为，市场营销应以顾客为中心，而非以产品为中心。企业的使命是创造顾客，而非单纯推销产品。",
+      "totalCount": 384,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=4&rangeStart=684&rangeEnd=731",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=4&rangeStart=684&rangeEnd=731"
+    },
+    {
+      "bookmarkId": "3300135772_9_1176-1198",
+      "chapterUid": 9,
+      "range": "1176-1198",
+      "markText": "将个人的或社会的需求转变成可盈利的商业机会。",
+      "totalCount": 375,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=1176&rangeEnd=1198",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=1176&rangeEnd=1198"
+    },
+    {
+      "bookmarkId": "3300135772_9_7469-7533",
+      "chapterUid": 9,
+      "range": "7469-7533",
+      "markText": "越来越多的公司选择拥有品牌而非实体资产，在保留公司的核心业务的同时，将其他非核心业务分包给那些能够比自己做得更好且更廉价的公司。",
+      "totalCount": 312,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=7469&rangeEnd=7533",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=7469&rangeEnd=7533"
+    },
+    {
+      "bookmarkId": "3300135772_9_8732-8828",
+      "chapterUid": 9,
+      "range": "8732-8828",
+      "markText": "出色的营销人员不再将单一的销售收入当作检视营销效果的指标，他们还会解读市场份额、客户流失率、顾客满意度、产品质量及其他指标的情况。他们也会考虑营销活动和项目在法律、伦理、社会和环境方面的影响。",
+      "totalCount": 289,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=8732&rangeEnd=8828",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=8732&rangeEnd=8828"
+    },
+    {
+      "bookmarkId": "3300135772_4_2239-2276",
+      "chapterUid": 4,
+      "range": "2239-2276",
+      "markText": "五年内，如果你还在按着一样的方式做着一样的生意，那么你离关门大吉就不远了”",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=4&rangeStart=2239&rangeEnd=2276",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=4&rangeStart=2239&rangeEnd=2276"
+    },
+    {
+      "bookmarkId": "3300135772_9_1246-1296",
+      "chapterUid": 9,
+      "range": "1246-1296",
+      "markText": "市场营销是创造、沟通、传递和交换对顾客、客户、合作伙伴和整个社会有价值的产品的一种活动、制度和过程。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=1246&rangeEnd=1296",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=1246&rangeEnd=1296"
+    },
+    {
+      "bookmarkId": "3300135772_12_6263-6330",
+      "chapterUid": 12,
+      "range": "6263-6330",
+      "markText": "营销者并不创造需要，因为需要先于营销者存在。营销者可能会宣传奔驰汽车能满足一个人对社会地位的需要，然而他们并没有创造对社会地位的需要。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=12&rangeStart=6263&rangeEnd=6330",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=12&rangeStart=6263&rangeEnd=6330"
+    },
+    {
+      "bookmarkId": "3300135772_9_8438-8484",
+      "chapterUid": 9,
+      "range": "8438-8484",
+      "markText": "只有高级管理人员清晰地传达出公司的营销导向和理念如何服务于客户的愿景，部门间的协作才能实现。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=8438&rangeEnd=8484",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=8438&rangeEnd=8484"
+    },
+    {
+      "bookmarkId": "3300135772_9_13343-13401",
+      "chapterUid": 9,
+      "range": "13343-13401",
+      "markText": "当市场领导者们厌恶风险，执着于保护现有的市场和物质资源，并且对效率和利润比对创新更感兴趣时，它们就会错过趋势和机会。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=13343&rangeEnd=13401",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=13343&rangeEnd=13401"
+    },
+    {
+      "bookmarkId": "3300135772_9_1504-1549",
+      "chapterUid": 9,
+      "range": "1504-1549",
+      "markText": "营销通常涵盖10个不同的领域：产品、服务、事件、体验、人物、地点、财产、组织、信息和观念。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=1504&rangeEnd=1549",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=1504&rangeEnd=1549"
+    },
+    {
+      "bookmarkId": "3300135772_10_788-876",
+      "chapterUid": 10,
+      "range": "788-876",
+      "markText": "企业必须坚持一个战略，但也要随时间的推移不断改进它。在当今瞬息万变的营销世界中，确定最佳的长期战略至关重要。任何成功营销战略的核心都是开发持久的价值主张，以满足真正的顾客需要。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=10&rangeStart=788&rangeEnd=876",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=10&rangeStart=788&rangeEnd=876"
+    },
+    {
+      "bookmarkId": "3300135772_9_1684-1720",
+      "chapterUid": 9,
+      "range": "1684-1720",
+      "markText": "有五类基本市场：资源市场、制造商市场、消费者市场、中间商市场和政府市场。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=1684&rangeEnd=1720",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=1684&rangeEnd=1720"
+    },
+    {
+      "bookmarkId": "3300135772_9_3000-3035",
+      "chapterUid": 9,
+      "range": "3000-3035",
+      "markText": "通过促进企业盈利，成功的市场营销也使得企业能够更多地参与社会责任活动。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=3000&rangeEnd=3035",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=3000&rangeEnd=3035"
+    },
+    {
+      "bookmarkId": "3300135772_9_7834-7922",
+      "chapterUid": 9,
+      "range": "7834-7922",
+      "markText": "整合营销(integrated marketing)即整合所有的营销活动和营销计划，为消费者创造、沟通和传递一致的价值和信息，从而实现“整体大于部分之和”的效果。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=7834&rangeEnd=7922",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=7834&rangeEnd=7922"
+    },
+    {
+      "bookmarkId": "3300135772_10_9550-9585",
+      "chapterUid": 10,
+      "range": "9550-9585",
+      "markText": "越来越多的公司将它们的产品制造外包，以便集中精力建设和管理它们的品牌。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=10&rangeStart=9550&rangeEnd=9585",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=10&rangeStart=9550&rangeEnd=9585"
+    },
+    {
+      "bookmarkId": "3300135772_4_429-475",
+      "chapterUid": 4,
+      "range": "429-475",
+      "markText": "“市场营销”一词最早出现于20世纪初，它是用来描述公司在市场中开展的一系列顾客价值创造活动。",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=4&rangeStart=429&rangeEnd=475",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=4&rangeStart=429&rangeEnd=475"
+    },
+    {
+      "bookmarkId": "3300135772_10_10948-10978",
+      "chapterUid": 10,
+      "range": "10948-10978",
+      "markText": "市场的成功通常源于勤勉的市场分析、计划和管理，很少源于运气。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=10&rangeStart=10948&rangeEnd=10978",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=10&rangeStart=10948&rangeEnd=10978"
+    },
+    {
+      "bookmarkId": "3300135772_9_758-808",
+      "chapterUid": 9,
+      "range": "758-808",
+      "markText": "好的市场营销绝非偶然现象。它既是一门艺术，也是一门科学，是使用最先进的工具和技术精心策划和执行的结果",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=3300135772&chapterUid=9&rangeStart=758&rangeEnd=808",
+      "webLink": "https://weread.qq.com/web/reader/dd332b80813ab9b89g012936?chapterUid=9&rangeStart=758&rangeEnd=808"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 6,
+    "chapterOffset": 1672,
+    "progress": 0,
+    "updateTime": 1767098304,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

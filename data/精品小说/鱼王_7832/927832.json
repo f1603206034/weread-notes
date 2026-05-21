@@ -1,0 +1,511 @@
+{
+  "meta": {
+    "bookId": "927832",
+    "title": "鱼王",
+    "author": "维克托·阿斯塔菲耶夫",
+    "translator": "夏仲翼等",
+    "cover": "https://cdn.weread.qq.com/weread/cover/53/YueWen_927832/t6_YueWen_927832.jpg",
+    "intro": "王小波推崇的俄罗斯文学遗珠，国内首次正版完整引进。长篇小说《鱼王》是阿斯塔菲耶夫最个性的一部代表作，俄罗斯当代文学的经典。全书由十三个内容相对独立的“叙事短篇小说”组成，全部围绕着人与自然的关系，深入细致地描绘了充满神秘诱惑的西伯利亚以及生活在那里的人们，他们关于生活的沉思。荒凉苦寒的自然环境，同时又是大自然尽显壮美广袤富饶之地，人类的足迹在其间虽如雪泥鸿爪，却又带着生命不息的尊严。这些篇章在思想内容和艺术形式上显示了独特的风格，淡化情节，描写细腻鲜活，“集长篇小说、中篇小说、抒情散文、道德议论为一体”（王小波），从不同的角度和方式显露出连贯的内容和意象，犹如不经意穿成的一串珍珠，每一颗都以其自身的美丽折射出耀眼的光芒。",
+    "category": "精品小说-社会小说",
+    "publisher": "河南文艺出版社",
+    "publishTime": "2023-11-01 00:00:00",
+    "isbn": "9787555916253",
+    "wordCount": 0,
+    "newRating": 855,
+    "newRatingCount": 935,
+    "newRatingDetail": {
+      "good": 806,
+      "fair": 118,
+      "poor": 11,
+      "recent": 9,
+      "deepV": 142,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=927832",
+    "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291",
+    "lastSync": "2026-05-21T11:58:02Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=1"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 521,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 3,
+      "title": "插图",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 4,
+      "title": "序言",
+      "level": 1,
+      "wordCount": 8545,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 5,
+      "title": "格言",
+      "level": 1,
+      "wordCount": 131,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 6,
+      "title": "第一部",
+      "level": 1,
+      "wordCount": 29340,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "鲍耶",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=927832&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 7,
+      "title": "一滴水珠",
+      "level": 2,
+      "wordCount": 22134,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 8,
+      "title": "没心没肺",
+      "level": 2,
+      "wordCount": 31639,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 9,
+      "title": "达姆卡",
+      "level": 2,
+      "wordCount": 19005,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 10,
+      "title": "在黄金暗礁附近",
+      "level": 2,
+      "wordCount": 19235,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 11,
+      "title": "渔夫格罗霍塔洛",
+      "level": 2,
+      "wordCount": 15993,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 12,
+      "title": "鱼王",
+      "level": 2,
+      "wordCount": 18212,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 13,
+      "title": "黑羽翻飞",
+      "level": 2,
+      "wordCount": 14538,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 14,
+      "title": "第二部",
+      "level": 1,
+      "wordCount": 42672,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "鲍加尼达村的鱼汤",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=927832&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 15,
+      "title": "葬后宴",
+      "level": 2,
+      "wordCount": 19712,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 16,
+      "title": "图鲁汉斯克百合花",
+      "level": 2,
+      "wordCount": 22617,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 17,
+      "title": "白色群山的梦",
+      "level": 2,
+      "wordCount": 89304,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 18,
+      "title": "我找不到回答",
+      "level": 2,
+      "wordCount": 10298,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 19,
+      "title": "文后",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=927832&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=36"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 24,
+      "chapterTitle": "一滴水珠",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "927832_24_19389-19651",
+          "range": "19389-19651",
+          "rangeStart": 19389,
+          "rangeEnd": 19651,
+          "markText": "欢乐是过眼烟云，转瞬即逝，常常是虚幻的；而忧伤却是永恒的、令人得益的、始终不渝的。欢乐总像昙花一现，不，更像闪电破空，夹着隆隆雷声飞驰而过。忧伤却像那神秘莫测的星星，虽然发出的是幽幽的光，却是昼夜不熄的，它能引起你萦怀亲人，思念爱情，憧憬某种神秘玄奥的事物，也说不清究竟是想到了令人苦恼而又甜蜜的过去，还是想到了那诱人的，而且由于难以捉摸而令人既畏怯又向往的将来。忧伤像个明智的成年人，它已经存在千百万年了。欢乐则永远是童蒙稚年，天真烂漫，因为它在每个人的心灵中获得新生，年事越长，欢乐就越少，犹如花朵，林子越密，花就越少。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1718842994,
+          "createTimeFormatted": "2024-06-20 08:23:14",
+          "chapterUid": 24,
+          "appLink": "weread://bestbookmark?bookId=927832&chapterUid=24&rangeStart=19389&rangeEnd=19651",
+          "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=24&rangeStart=19389&rangeEnd=19651"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "927832_23_11804-11888",
+      "chapterUid": 23,
+      "range": "11804-11888",
+      "markText": "这一条生下来就是为了要和人类共同劳动、一起生活的狗，终于也没有明白人们为什么要打死它，它声音嘶哑地号着，最后跟人一样悲痛地叹了一口气，死了，好像是在可怜谁，或者责怪谁。",
+      "totalCount": 792,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=23&rangeStart=11804&rangeEnd=11888",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23&rangeStart=11804&rangeEnd=11888"
+    },
+    {
+      "bookmarkId": "927832_21_1732-1800",
+      "chapterUid": 21,
+      "range": "1732-1800",
+      "markText": "写作需要的是全副心灵，而不是趋附时尚，不应该在文学中寻求地位，而应该从中寻找自我。",
+      "totalCount": 630,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=21&rangeStart=1732&rangeEnd=1800",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=21&rangeStart=1732&rangeEnd=1800"
+    },
+    {
+      "bookmarkId": "927832_24_17274-17333",
+      "chapterUid": 24,
+      "range": "17274-17333",
+      "markText": "一滴椭圆形的露珠，饱满凝重，垂挂在纤长瘦削的柳叶的尖梢上，重力引它下坠，它凝敛不动，像是害怕自己的坠落会毁坏这个世界。",
+      "totalCount": 510,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=24&rangeStart=17274&rangeEnd=17333",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=24&rangeStart=17274&rangeEnd=17333"
+    },
+    {
+      "bookmarkId": "927832_25_42414-42478",
+      "chapterUid": 25,
+      "range": "42414-42478",
+      "markText": "卫兵队长和上气不接下气的看守朝着采石厂悬崖跑去，只听一声：“斯大林同志万岁！”紧接着严寒中传来了孤独的、没有回音、啪的一声枪响。",
+      "totalCount": 504,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=25&rangeStart=42414&rangeEnd=42478",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=25&rangeStart=42414&rangeEnd=42478"
+    },
+    {
+      "bookmarkId": "927832_23_970-1058",
+      "chapterUid": 23,
+      "range": "970-1058",
+      "markText": "一种空灵自在的心境，不为任何俗念所累，几乎达到了无我的境界，对周围的世界只有皮相的感觉，视而不见，在这种罕有的内心宁静的时刻，你会感到自己是大千一叶，和生命之树却有一茎相连……",
+      "totalCount": 468,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=23&rangeStart=970&rangeEnd=1058",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23&rangeStart=970&rangeEnd=1058"
+    },
+    {
+      "bookmarkId": "927832_23_462-519",
+      "chapterUid": 23,
+      "range": "462-519",
+      "markText": "在一生中，只要你的亲人们还没有像古老森林里年久岁深的老树那样沉重地折断并訇然扑地，你总会得到许多爱，也会去爱人……",
+      "totalCount": 410,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=23&rangeStart=462&rangeEnd=519",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23&rangeStart=462&rangeEnd=519"
+    },
+    {
+      "bookmarkId": "927832_35_13330-13368",
+      "chapterUid": 35,
+      "range": "13330-13368",
+      "markText": "我究竟在寻求什么呢？我为什么痛苦？由于什么原因？为了什么目的？我找不到回答。",
+      "totalCount": 400,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=35&rangeStart=13330&rangeEnd=13368",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=35&rangeStart=13330&rangeEnd=13368"
+    },
+    {
+      "bookmarkId": "927832_23_1090-1187",
+      "chapterUid": 23,
+      "range": "1090-1187",
+      "markText": "只要活着，他的记忆就兢兢业业地工作着，不仅记得住个人的大量往事，而且还会记住在生活交叉路口萍水相逢的人们，他们中间有的已经永远淹没在翻腾的人流旋涡里了，有的却成了始终同你休戚与共、心心相连的人。",
+      "totalCount": 364,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=23&rangeStart=1090&rangeEnd=1187",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23&rangeStart=1090&rangeEnd=1187"
+    },
+    {
+      "bookmarkId": "927832_23_27060-27134",
+      "chapterUid": 23,
+      "range": "27060-27134",
+      "markText": "人与人心灵上的沟通被破坏了，他们生活中缺少了主要的东西——劳动，因而没法团结起来。他们腻烦了，相互厌恶，于是不管他们的意愿如何，不满、怨恨越积越多。",
+      "totalCount": 330,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=23&rangeStart=27060&rangeEnd=27134",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23&rangeStart=27060&rangeEnd=27134"
+    },
+    {
+      "bookmarkId": "927832_23_411-429",
+      "chapterUid": 23,
+      "range": "411-429",
+      "markText": "我回故乡去很少是出于本意和自己乐意的",
+      "totalCount": 289,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=23&rangeStart=411&rangeEnd=429",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23&rangeStart=411&rangeEnd=429"
+    },
+    {
+      "bookmarkId": "927832_23_2933-2985",
+      "chapterUid": 23,
+      "range": "2933-2985",
+      "markText": "爸爸仍跟以前一样，喝酒喝得分文不剩，按照流浪汉随心所欲的行事准则，到处胡来，根本不关心孩子们和家里的事。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=23&rangeStart=2933&rangeEnd=2985",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23&rangeStart=2933&rangeEnd=2985"
+    },
+    {
+      "bookmarkId": "927832_23_23879-23934",
+      "chapterUid": 23,
+      "range": "23879-23934",
+      "markText": "严酷的冬天，寒风吹来不仅彻骨而且刺心，因而大家要养成一种习惯：出去解手必须很快，像鸟拉屎一样，几乎是边飞边拉。",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=23&rangeStart=23879&rangeEnd=23934",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23&rangeStart=23879&rangeEnd=23934"
+    },
+    {
+      "bookmarkId": "927832_30_18456-18542",
+      "chapterUid": 30,
+      "range": "18456-18542",
+      "markText": "整整一冬再加一春，乌鸦、喜鹊、狗和猫都大嚼雷鸟；一旦起风，干涸的池塘四岸的黑羽就纷纷扬扬起来，在楚什镇上空翻飞，遮蔽了晴空，火药的余烬和死灰好像都蒙住了太阳茫然若失的脸庞。",
+      "totalCount": 247,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=30&rangeStart=18456&rangeEnd=18542",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=30&rangeStart=18456&rangeEnd=18542"
+    },
+    {
+      "bookmarkId": "927832_23_7894-7967",
+      "chapterUid": 23,
+      "range": "7894-7967",
+      "markText": "“是怪物，不是狗！要是在从前，那就非把我跟这条狗一起吊死在松树上不可，或者为了驱除这种歪门邪道，人家也可能把我们俩拴在一块石头上沉到水里淹死……”",
+      "totalCount": 238,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=23&rangeStart=7894&rangeEnd=7967",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23&rangeStart=7894&rangeEnd=7967"
+    },
+    {
+      "bookmarkId": "927832_27_20488-20589",
+      "chapterUid": 27,
+      "range": "20488-20589",
+      "markText": "“你在河上和林子里赶来赶去反正死不了……”“什么？你说什么？”“家里遭祸了。塔依卡叫汽车给轧死了……”",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=27&rangeStart=20488&rangeEnd=20589",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=27&rangeStart=20488&rangeEnd=20589"
+    },
+    {
+      "bookmarkId": "927832_23_3094-3151",
+      "chapterUid": 23,
+      "range": "3094-3151",
+      "markText": "这是一种处在交叉路口的、尚未定型的年龄。这种年龄的青年男女作出的举止行动，往往都是胆大妄为、愚不可及和不顾一切的。",
+      "totalCount": 225,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=23&rangeStart=3094&rangeEnd=3151",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23&rangeStart=3094&rangeEnd=3151"
+    },
+    {
+      "bookmarkId": "927832_22_349-481",
+      "chapterUid": 22,
+      "range": "349-481",
+      "markText": "经过深深的思索，我也沉默了，只是用习以为常的眼光，从旁观察着预兆不祥的人生的节日和故乡慌乱不安的景象。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=22&rangeStart=349&rangeEnd=481",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=22&rangeStart=349&rangeEnd=481"
+    },
+    {
+      "bookmarkId": "927832_23_33254-33320",
+      "chapterUid": 23,
+      "range": "33254-33320",
+      "markText": "但是小组长不知道，也不懂得治疗心脏病该怎么办并用什么药，因为他的一生中未曾有过闲工夫去管心的好坏，只顾得把罪孽深重的躯体保住就行了。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=23&rangeStart=33254&rangeEnd=33320",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23&rangeStart=33254&rangeEnd=33320"
+    },
+    {
+      "bookmarkId": "927832_23_3335-3385",
+      "chapterUid": 23,
+      "range": "3335-3385",
+      "markText": "爸爸在斯大林格勒战役时，在三十五师当反坦克炮的炮长，后来因为这个骁勇的人伤了头部，就退役回到了家里。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=23&rangeStart=3335&rangeEnd=3385",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23&rangeStart=3335&rangeEnd=3385"
+    },
+    {
+      "bookmarkId": "927832_23_13389-13452",
+      "chapterUid": 23,
+      "range": "13389-13452",
+      "markText": "那并不欢乐的童年时而在这个年轻人身上有所流露，这种情况持续了整整一生。看来，大自然规定要人经历的生活阶段是无论如何必须经历的。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=927832&chapterUid=23&rangeStart=13389&rangeEnd=13452",
+      "webLink": "https://weread.qq.com/web/reader/417327f05e2858417a1f291?chapterUid=23&rangeStart=13389&rangeEnd=13452"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

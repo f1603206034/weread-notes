@@ -1,0 +1,583 @@
+{
+  "meta": {
+    "bookId": "3300071288",
+    "title": "克雷姆斯的弯曲时间",
+    "author": "克劳迪奥·马格里斯",
+    "translator": "陈英",
+    "cover": "https://cdn.weread.qq.com/weread/cover/7/cpplatform_x5umjstnkw518hjhdq1b4d/t6_cpplatform_x5umjstnkw518hjhdq1b4d1695018486.jpg",
+    "intro": "若时间弯曲，可否遇见青葱年华的自己？意大利文坛极具代表性的作家、当今世界最重要的作家和文学哲学家之一——克劳迪奥·马格里斯最新短篇小说集。模糊真实与虚构，探寻时间的本质，爱因斯坦时空理论的小说实践。《克雷姆斯的弯曲时间》是意大利作家克劳迪奥·马格里斯的最新作品，收录了5则与时间有关的短篇故事，每一个故事的主人公都有着不同的身份，年轻时曾是企业家的老门卫，与学生相遇的老音乐教师，遇到陌生女士的演说家，大器晚成的作家，观看青年时代电影的老教授。在每一个故事里，主人公都回忆起从前的某个片段，每个人都去寻找自那些已失去的和已找回的时间。那些与生命、爱情和经历有关的时间。时间与因果关系如影随形：由因结果，果又会成为后续的因，最后一切都会归于原点。”",
+    "category": "文学-外国文学",
+    "publisher": "上海译文出版社",
+    "publishTime": "2023-08-01 00:00:00",
+    "isbn": "9787532792122",
+    "wordCount": 0,
+    "newRating": 727,
+    "newRatingCount": 500,
+    "newRatingDetail": {
+      "good": 286,
+      "fair": 180,
+      "poor": 34,
+      "recent": 12,
+      "deepV": 199,
+      "myRating": "",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=3300071288",
+    "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb",
+    "lastSync": "2026-05-21T11:51:06Z",
+    "readingProgress": "57%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 129,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "Digital Lab简介",
+      "level": 1,
+      "wordCount": 114,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "门房",
+      "level": 1,
+      "wordCount": 1826,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "2",
+      "level": 2,
+      "wordCount": 3080,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "3",
+      "level": 2,
+      "wordCount": 2038,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "4",
+      "level": 2,
+      "wordCount": 1180,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "音乐课",
+      "level": 1,
+      "wordCount": 1650,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "2",
+      "level": 2,
+      "wordCount": 1180,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "3",
+      "level": 2,
+      "wordCount": 1157,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "克雷姆斯的弯曲时间",
+      "level": 1,
+      "wordCount": 1881,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "2",
+      "level": 2,
+      "wordCount": 2327,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "3",
+      "level": 2,
+      "wordCount": 2930,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "4",
+      "level": 2,
+      "wordCount": 1674,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "颁奖",
+      "level": 1,
+      "wordCount": 1239,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "2",
+      "level": 2,
+      "wordCount": 1154,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "3",
+      "level": 2,
+      "wordCount": 1114,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "4",
+      "level": 2,
+      "wordCount": 721,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "外景日",
+      "level": 1,
+      "wordCount": 2751,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "2",
+      "level": 2,
+      "wordCount": 3703,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "3",
+      "level": 2,
+      "wordCount": 1000,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "4",
+      "level": 2,
+      "wordCount": 2183,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071288&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=22"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "门房",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300071288_4_454-523",
+          "range": "454-523",
+          "rangeStart": 454,
+          "rangeEnd": 523,
+          "markText": "清晨的金属扶手很光滑，凉凉的，还没有被乘客汗津津的手捂热，摸上去很舒服。为了让那种感觉多停留几秒，他下车时慢吞吞的，并不是因为他行动不便。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1746060579,
+          "createTimeFormatted": "2025-05-01 08:49:39",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=4&rangeStart=454&rangeEnd=523",
+          "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=4&rangeStart=454&rangeEnd=523"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300071288_4_1439-1510",
+          "range": "1439-1510",
+          "rangeStart": 1439,
+          "rangeEnd": 1510,
+          "markText": "世界的洪流向他涌来，从来都不是空手而来，但他逐渐感觉到，他需要抵挡这些洪流，如果可能的话，他想改变水流的方向，修建堤坝，来抵挡生活前进的脚步。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1746060572,
+          "createTimeFormatted": "2025-05-01 08:49:32",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=4&rangeStart=1439&rangeEnd=1510",
+          "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=4&rangeStart=1439&rangeEnd=1510"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300071288_5_2370-2408",
+      "chapterUid": 5,
+      "range": "2370-2408",
+      "markText": "但他不会生气，他会在自己和妻子的这些怒火之间，放置一道柔软但无法穿透的毯子。",
+      "totalCount": 578,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=5&rangeStart=2370&rangeEnd=2408",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=5&rangeStart=2370&rangeEnd=2408"
+    },
+    {
+      "bookmarkId": "3300071288_4_1439-1510",
+      "chapterUid": 4,
+      "range": "1439-1510",
+      "markText": "世界的洪流向他涌来，从来都不是空手而来，但他逐渐感觉到，他需要抵挡这些洪流，如果可能的话，他想改变水流的方向，修建堤坝，来抵挡生活前进的脚步。",
+      "totalCount": 532,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=4&rangeStart=1439&rangeEnd=1510",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=4&rangeStart=1439&rangeEnd=1510"
+    },
+    {
+      "bookmarkId": "3300071288_5_2295-2329",
+      "chapterUid": 5,
+      "range": "2295-2329",
+      "markText": "他觉得烦躁和痛苦都没有必要，那是灵魂反酸的时刻，需要用教养压制下去。",
+      "totalCount": 390,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=5&rangeStart=2295&rangeEnd=2329",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=5&rangeStart=2295&rangeEnd=2329"
+    },
+    {
+      "bookmarkId": "3300071288_7_1104-1134",
+      "chapterUid": 7,
+      "range": "1104-1134",
+      "markText": "现在，世界这条狗已经咬不到他了，而是和他一起奔跑，一起玩耍。",
+      "totalCount": 352,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=7&rangeStart=1104&rangeEnd=1134",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=7&rangeStart=1104&rangeEnd=1134"
+    },
+    {
+      "bookmarkId": "3300071288_4_454-523",
+      "chapterUid": 4,
+      "range": "454-523",
+      "markText": "清晨的金属扶手很光滑，凉凉的，还没有被乘客汗津津的手捂热，摸上去很舒服。为了让那种感觉多停留几秒，他下车时慢吞吞的，并不是因为他行动不便。",
+      "totalCount": 308,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=4&rangeStart=454&rangeEnd=523",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=4&rangeStart=454&rangeEnd=523"
+    },
+    {
+      "bookmarkId": "3300071288_5_1844-1919",
+      "chapterUid": 5,
+      "range": "1844-1919",
+      "markText": "安娜已经去世很久了，在她去世之后，一切都变得模糊，他清楚记得他们的爱情，包括很多很小的细节，但那好像不是发生在他身上，而是可以发生在任何人身上的事情。",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=5&rangeStart=1844&rangeEnd=1919",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=5&rangeStart=1844&rangeEnd=1919"
+    },
+    {
+      "bookmarkId": "3300071288_5_2563-2596",
+      "chapterUid": 5,
+      "range": "2563-2596",
+      "markText": "自己之外的人——即使是最爱的人——也总是太多了，会让事情变得复杂。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=5&rangeStart=2563&rangeEnd=2596",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=5&rangeStart=2563&rangeEnd=2596"
+    },
+    {
+      "bookmarkId": "3300071288_4_2349-2381",
+      "chapterUid": 4,
+      "range": "2349-2381",
+      "markText": "她不应该总是想着更换窗帘或吊灯，一旦开始改变，后面就很难预料了。",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=4&rangeStart=2349&rangeEnd=2381",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=4&rangeStart=2349&rangeEnd=2381"
+    },
+    {
+      "bookmarkId": "3300071288_13_3801-3886",
+      "chapterUid": 13,
+      "range": "3801-3886",
+      "markText": "在落下的叶子里有温暖过它的太阳，有通过雨点滋润过它的云朵，还有滋养过它的土地；叶子死去，它会把收到的东西还回去，这些组成了它的元素会继续存在。永远无常，是每样事物的永恒。",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=13&rangeStart=3801&rangeEnd=3886",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=13&rangeStart=3801&rangeEnd=3886"
+    },
+    {
+      "bookmarkId": "3300071288_5_766-798",
+      "chapterUid": 5,
+      "range": "766-798",
+      "markText": "每逢赶路的时候，他都会早早起床，黑暗让睡眠带来的幸福感得以延续。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=5&rangeStart=766&rangeEnd=798",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=5&rangeStart=766&rangeEnd=798"
+    },
+    {
+      "bookmarkId": "3300071288_4_2072-2117",
+      "chapterUid": 4,
+      "range": "2072-2117",
+      "markText": "就像他一直都觉得刷牙没什么用，消耗了那么多牙膏，牙医还是会赚很多钱，可他还是一直坚持刷牙。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=4&rangeStart=2072&rangeEnd=2117",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=4&rangeStart=2072&rangeEnd=2117"
+    },
+    {
+      "bookmarkId": "3300071288_7_527-591",
+      "chapterUid": 7,
+      "range": "527-591",
+      "markText": "他已经不在意时间了，有时候，他会把月份和星期搞混，就像有些早晨，由于一晚上没怎么睡好，醒来后不知道自己睡了几分钟，还是几个小时。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=7&rangeStart=527&rangeEnd=591",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=7&rangeStart=527&rangeEnd=591"
+    },
+    {
+      "bookmarkId": "3300071288_4_2245-2267",
+      "chapterUid": 4,
+      "range": "2245-2267",
+      "markText": "一切都有用，可以让人远离别的东西，比如大海。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=4&rangeStart=2245&rangeEnd=2267",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=4&rangeStart=2245&rangeEnd=2267"
+    },
+    {
+      "bookmarkId": "3300071288_11_2290-2350",
+      "chapterUid": 11,
+      "range": "2290-2350",
+      "markText": "她让几百名新手明白，并永远记住那个景象：命运之外的东西写在她脸上，在她浅色的弯弯的眼睛里，比任何名垂千古的诗歌都更清楚。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=11&rangeStart=2290&rangeEnd=2350",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=11&rangeStart=2290&rangeEnd=2350"
+    },
+    {
+      "bookmarkId": "3300071288_20_3024-3088",
+      "chapterUid": 20,
+      "range": "3024-3088",
+      "markText": "小说很美，很有力，但当他阅读和欣赏这本小说时，觉得那些文字在某种程度上抽取了他的生命，那是一幅漂亮的肖像，后面隐藏着另一副面孔。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=20&rangeStart=3024&rangeEnd=3088",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=20&rangeStart=3024&rangeEnd=3088"
+    },
+    {
+      "bookmarkId": "3300071288_22_2609-2638",
+      "chapterUid": 22,
+      "range": "2609-2638",
+      "markText": "她回答说，然后轻轻吻了他的嘴唇，只是嘴唇。不……但终究……",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=22&rangeStart=2609&rangeEnd=2638",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=22&rangeStart=2609&rangeEnd=2638"
+    },
+    {
+      "bookmarkId": "3300071288_13_452-540",
+      "chapterUid": 13,
+      "range": "452-540",
+      "markText": "时间是一条曲线，而不是直线，在一个巨大的实体上，时间可能会是一条闭合的线，或者呈圆形。这样一切都会回到原处，我已经去过多瑙河的入海口，我正在这里，与此同时，我正随着流水追上它。",
+      "totalCount": 190,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=13&rangeStart=452&rangeEnd=540",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=13&rangeStart=452&rangeEnd=540"
+    },
+    {
+      "bookmarkId": "3300071288_12_1838-1920",
+      "chapterUid": 12,
+      "range": "1838-1920",
+      "markText": "时间——灵魂的延伸，这是圣奥古斯丁说的。我的灵魂已经延伸开来，拥抱了我当时不在的时间？我更希望诺丽的灵魂拥抱了我——广阔心田上的一个点，一切都在里面，一切都说得通。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=12&rangeStart=1838&rangeEnd=1920",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=12&rangeStart=1838&rangeEnd=1920"
+    },
+    {
+      "bookmarkId": "3300071288_13_2078-2106",
+      "chapterUid": 13,
+      "range": "2078-2106",
+      "markText": "爱——存在的同义词，这是一个有缺陷的动词，永远只有现在时",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=13&rangeStart=2078&rangeEnd=2106",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=13&rangeStart=2078&rangeEnd=2106"
+    },
+    {
+      "bookmarkId": "3300071288_8_462-548",
+      "chapterUid": 8,
+      "range": "462-548",
+      "markText": "最近一段时间，他无意中养成了这个习惯，就是在不必要时也会喘。这是他的身体忽然产生的怪癖，就像有些老年人的任性和一意孤行，是愤世嫉俗、对现实不满的表现，好像为了找回某种平衡。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300071288&chapterUid=8&rangeStart=462&rangeEnd=548",
+      "webLink": "https://weread.qq.com/web/reader/071324d0813ab8258g0189fb?chapterUid=8&rangeStart=462&rangeEnd=548"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 8,
+    "chapterOffset": 329,
+    "progress": 57,
+    "updateTime": 1746149115,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

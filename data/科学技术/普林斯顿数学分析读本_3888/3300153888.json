@@ -1,0 +1,614 @@
+{
+  "meta": {
+    "bookId": "3300153888",
+    "title": "普林斯顿数学分析读本",
+    "author": "[美]拉菲·格林贝格",
+    "translator": "李馨",
+    "cover": "https://cdn.weread.qq.com/weread/cover/65/cpplatform_wzvb2zbk1lvbqwhf7bmt8m/t6_cpplatform_wzvb2zbk1lvbqwhf7bmt8m1753172965.jpg",
+    "intro": "本书是《普林斯顿××读本》系列图书的第二本，该套书的论述风格友好、平易近人，通过作者与读者之间的互动对话和相关示例非常清晰地阐明了数学概念，提供了命题和定量逻辑方面的知识，可以使读者精通自己的数学思路。本书讲解了学习实分析的基础内容，包括基本的数学与逻辑、实数、集合、拓扑、序列等．作者以通俗易懂且略带幽默的口吻讲述了两步式求解方法：首先展示如何回溯到求解问题的关键，之后说明如何严谨规范地写下解题过程。书中还给出了丰富的示例，帮助学生巩固所学知识。",
+    "category": "科学技术-自然科学",
+    "publisher": "人民邮电出版社有限公司",
+    "publishTime": "2020-08-01 00:00:00",
+    "isbn": "9787115543844",
+    "wordCount": 0,
+    "newRating": 713,
+    "newRatingCount": 42,
+    "newRatingDetail": {
+      "good": 29,
+      "fair": 7,
+      "poor": 6,
+      "recent": 1,
+      "deepV": 15,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300153888",
+    "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846",
+    "lastSync": "2026-05-21T11:49:36Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 342,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "海阔凭鱼跃 天高任鸟飞",
+      "level": 1,
+      "wordCount": 4937,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一部分 预备知识",
+      "level": 1,
+      "wordCount": 2660,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1章 引言",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第2章 基础数学与逻辑",
+      "level": 2,
+      "wordCount": 5546,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第3章 集合论",
+      "level": 2,
+      "wordCount": 4569,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二部分 实数",
+      "level": 1,
+      "wordCount": 5237,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第4章 上确界",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第5章 实数域",
+      "level": 2,
+      "wordCount": 6062,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第6章 复数与欧几里得空间",
+      "level": 2,
+      "wordCount": 3469,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第三部分 拓扑学",
+      "level": 1,
+      "wordCount": 2936,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第7章 双射",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第8章 可数性",
+      "level": 2,
+      "wordCount": 7046,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第9章 拓扑定义",
+      "level": 2,
+      "wordCount": 5977,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第10章 闭集和开集+",
+      "level": 2,
+      "wordCount": 5015,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第11章 紧集",
+      "level": 2,
+      "wordCount": 5782,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第12章 海涅–博雷尔定理",
+      "level": 2,
+      "wordCount": 4997,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第13章 完备集与连通集",
+      "level": 2,
+      "wordCount": 5502,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第四部分 序列",
+      "level": 1,
+      "wordCount": 4981,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第14章 收敛",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第15章 极限与子序列",
+      "level": 2,
+      "wordCount": 4485,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第16章 柯西序列与单调序列",
+      "level": 2,
+      "wordCount": 5067,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第17章 子序列极限",
+      "level": 2,
+      "wordCount": 6410,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第18章 特殊序列",
+      "level": 2,
+      "wordCount": 2488,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第19章 级数",
+      "level": 2,
+      "wordCount": 4012,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第20章 总结",
+      "level": 2,
+      "wordCount": 2033,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 561,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "参考文献",
+      "level": 1,
+      "wordCount": 1190,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 70,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300153888&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=26"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 23,
+      "chapterTitle": "第20章 总结",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300153888_23_2324-2388",
+          "range": "2324-2388",
+          "rangeStart": 2324,
+          "rangeEnd": 2388,
+          "markText": "第8章.当证明一个集合可数时，如果你找到了一个可能的双射，但是它可能包含重复项，那么你可以把这个函数定义在原定义域的一个子集上。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1753185622,
+          "createTimeFormatted": "2025-07-22 20:00:22",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=23&rangeStart=2324&rangeEnd=2388",
+          "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=23&rangeStart=2324&rangeEnd=2388"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300153888_23_1380-1428",
+      "chapterUid": 23,
+      "range": "1380-1428",
+      "markText": "第4章.利用最小上界的两条性质：集合中的每一个数都不可能大于它，任何小于它的数都不是集合的上界。",
+      "totalCount": 2192,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=23&rangeStart=1380&rangeEnd=1428",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=23&rangeStart=1380&rangeEnd=1428"
+    },
+    {
+      "bookmarkId": "3300153888_15_37422-37865",
+      "chapterUid": 15,
+      "range": "37422-37865",
+      "markText": "如果E是紧集，那么由定理11.7可知，E是中的闭集，而根据定理11.10, E也是中的有界集。",
+      "totalCount": 2188,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=15&rangeStart=37422&rangeEnd=37865",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=15&rangeStart=37422&rangeEnd=37865"
+    },
+    {
+      "bookmarkId": "3300153888_23_4761-4779",
+      "chapterUid": 23,
+      "range": "4761-4779",
+      "markText": "第17章.不要害怕取子序列的子序列！",
+      "totalCount": 2166,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=23&rangeStart=4761&rangeEnd=4779",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=23&rangeStart=4761&rangeEnd=4779"
+    },
+    {
+      "bookmarkId": "3300153888_3_9326-9361",
+      "chapterUid": 3,
+      "range": "9326-9361",
+      "markText": "海涅–博雷尔定理是实分析的中心结果之一，特别是关于紧集理论的中心结果。",
+      "totalCount": 1939,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=3&rangeStart=9326&rangeEnd=9361",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=3&rangeStart=9326&rangeEnd=9361"
+    },
+    {
+      "bookmarkId": "3300153888_23_3775-4304",
+      "chapterUid": 23,
+      "range": "3775-4304",
+      "markText": "第15章.你可以像归纳证明那样去构造一个特定的子序列：定义，然后假设某结论对成立，并证明该结论对也成立。",
+      "totalCount": 1879,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=23&rangeStart=3775&rangeEnd=4304",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=23&rangeStart=3775&rangeEnd=4304"
+    },
+    {
+      "bookmarkId": "3300153888_11_15534-15856",
+      "chapterUid": 11,
+      "range": "15534-15856",
+      "markText": "对于任意两个集合A和B，如果，那么A和B要么是元素个数相同的有限集，要么都是可数集，要么都是不可数集。",
+      "totalCount": 1797,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=11&rangeStart=15534&rangeEnd=15856",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=11&rangeStart=15534&rangeEnd=15856"
+    },
+    {
+      "bookmarkId": "3300153888_5_9600-9953",
+      "chapterUid": 5,
+      "range": "9600-9953",
+      "markText": "命题1.如果，那么n属于。",
+      "totalCount": 1678,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=5&rangeStart=9600&rangeEnd=9953",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=5&rangeStart=9600&rangeEnd=9953"
+    },
+    {
+      "bookmarkId": "3300153888_23_5486-5561",
+      "chapterUid": 23,
+      "range": "5486-5561",
+      "markText": "所以你可以把你所知道的关于序列的所有知识都应用到级数中，另外级数还有比较判别法（参见定理19.5和定理19.6）和柯西凝聚判别法（参见定理19.9）。",
+      "totalCount": 1331,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=23&rangeStart=5486&rangeEnd=5561",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=23&rangeStart=5486&rangeEnd=5561"
+    },
+    {
+      "bookmarkId": "3300153888_5_32493-32550",
+      "chapterUid": 5,
+      "range": "32493-32550",
+      "markText": "数学归纳法就像多米诺骨牌一样：如果我们把所有的多米诺骨牌都摆好，然后只撞倒第一张骨牌，那么其余所有的骨牌都会倒下。",
+      "totalCount": 1126,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=5&rangeStart=32493&rangeEnd=32550",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=5&rangeStart=32493&rangeEnd=32550"
+    },
+    {
+      "bookmarkId": "3300153888_5_35799-35846",
+      "chapterUid": 5,
+      "range": "35799-35846",
+      "markText": "要想得出一个直接证明，你需要反复思考一段时间，直到你找到了问题的症结并弄清楚该如何解决它为止。",
+      "totalCount": 1096,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=5&rangeStart=35799&rangeEnd=35846",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=5&rangeStart=35799&rangeEnd=35846"
+    },
+    {
+      "bookmarkId": "3300153888_23_694-745",
+      "chapterUid": 23,
+      "range": "694-745",
+      "markText": "第2章.有时候，一个看似复杂的证明可以利用一种简单的方法来完成：举反例、证明逆否命题、反证法或归纳法。",
+      "totalCount": 1081,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=23&rangeStart=694&rangeEnd=745",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=23&rangeStart=694&rangeEnd=745"
+    },
+    {
+      "bookmarkId": "3300153888_20_19834-19869",
+      "chapterUid": 20,
+      "range": "19834-19869",
+      "markText": "记住，在扩张的实数系中，如果一个集合没有上界，那么它的上确界就是+∞；",
+      "totalCount": 932,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=20&rangeStart=19834&rangeEnd=19869",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=20&rangeStart=19834&rangeEnd=19869"
+    },
+    {
+      "bookmarkId": "3300153888_18_20786-21373",
+      "chapterUid": 18,
+      "range": "20786-21373",
+      "markText": "换句话说，一个实向量序列收敛到x等于说：对于每一个维度，由序列中每个向量的第个分量组成的序列收敛到x的第个分量。",
+      "totalCount": 876,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=18&rangeStart=20786&rangeEnd=21373",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=18&rangeStart=20786&rangeEnd=21373"
+    },
+    {
+      "bookmarkId": "3300153888_4_1910-1960",
+      "chapterUid": 4,
+      "range": "1910-1960",
+      "markText": "如果从一组称为公理或假说的基本假设出发，那么我们总是可以通过一个又一个合理的步骤得到最终想要的结论。",
+      "totalCount": 820,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=4&rangeStart=1910&rangeEnd=1960",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=4&rangeStart=1910&rangeEnd=1960"
+    },
+    {
+      "bookmarkId": "3300153888_20_67736-68092",
+      "chapterUid": 20,
+      "range": "67736-68092",
+      "markText": "（在扩张的实数系中）存在且是唯一的，（在扩张的实数系中）存在且是唯一的。",
+      "totalCount": 798,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=20&rangeStart=67736&rangeEnd=68092",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=20&rangeStart=67736&rangeEnd=68092"
+    },
+    {
+      "bookmarkId": "3300153888_3_378-575",
+      "chapterUid": 3,
+      "range": "378-575",
+      "markText": "写这篇短文，是想向读者推荐一本值得认真阅读或者在教学中参阅（如果读者是一位高校数学教师的话）的好书，书的原名是The Real Analysis Lifesaver: All the Tools You Need to Understand Proofs，一个比较冗长的中文翻译是《实分析的救生员：理解实分析中的证明所需的工具尽在于此》。",
+      "totalCount": 786,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=3&rangeStart=378&rangeEnd=575",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=3&rangeStart=378&rangeEnd=575"
+    },
+    {
+      "bookmarkId": "3300153888_3_885-916",
+      "chapterUid": 3,
+      "range": "885-916",
+      "markText": "所谓严格性就是必须时时处处按照逻辑规则来思考、来计算、来表述。",
+      "totalCount": 723,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=3&rangeStart=885&rangeEnd=916",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=3&rangeStart=885&rangeEnd=916"
+    },
+    {
+      "bookmarkId": "3300153888_5_12808-12846",
+      "chapterUid": 5,
+      "range": "12808-12846",
+      "markText": "从理论上讲，所有定义都应该写成“当且仅当”（if and only if）。",
+      "totalCount": 551,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=5&rangeStart=12808&rangeEnd=12846",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=5&rangeStart=12808&rangeEnd=12846"
+    },
+    {
+      "bookmarkId": "3300153888_14_34314-34684",
+      "chapterUid": 14,
+      "range": "34314-34684",
+      "markText": "证明.证明其实很简单，关键是F在K中的补集是开集，所以这个补集与F的一个开覆盖共同构成了K的开覆盖，然后取K的一个有限子覆盖，再从中去掉即可。",
+      "totalCount": 384,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=14&rangeStart=34314&rangeEnd=34684",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=14&rangeStart=34314&rangeEnd=34684"
+    },
+    {
+      "bookmarkId": "3300153888_23_4901-5426",
+      "chapterUid": 23,
+      "range": "4901-5426",
+      "markText": "另外，在处理指数时，通常需要使用二项式定理来展开，然后当证明或某个值时，你可以把大部分项都删掉。",
+      "totalCount": 275,
+      "appLink": "weread://bestbookmark?bookId=3300153888&chapterUid=23&rangeStart=4901&rangeEnd=5426",
+      "webLink": "https://weread.qq.com/web/reader/bfd32d90813aba29cg018846?chapterUid=23&rangeStart=4901&rangeEnd=5426"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 13,
+    "chapterOffset": 9432,
+    "progress": 0,
+    "updateTime": 1753185666,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

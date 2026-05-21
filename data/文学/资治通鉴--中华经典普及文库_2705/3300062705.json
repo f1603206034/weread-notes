@@ -1,0 +1,5980 @@
+{
+  "meta": {
+    "bookId": "3300062705",
+    "title": "资治通鉴--中华经典普及文库",
+    "author": "[宋]司马光",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/42/cpplatform_51whdazccjumgutwca9jxu/t6_cpplatform_51whdazccjumgutwca9jxu1687947067.jpg",
+    "intro": "《通鉴》是司马光在其助手刘攽、范祖禹、刘恕等人的通力协作下，根据大量史料编纂而成的一部编年体通史。记载了上起周威烈王二十三年（前403），下迄后周世宗显德六年（959）共1362年的历史。书中描绘了战国至五代期间的历史发展脉络，探讨了秦、汉、晋、隋、唐等统一的王朝和战国七雄、魏蜀吴三国、五胡十六国、南北朝、五代十国等几十个政权的盛衰之由，生动地刻画了帝王将相们的为政治国、待人处世之道，以及他们在历史旋涡中的生死悲欢。时至今日，《资治通鉴》仍是一本了解和学习中国历史的必读之书。",
+    "category": "文学-古典文学",
+    "publisher": "中华书局有限公司",
+    "publishTime": "2023-05-01 00:00:00",
+    "isbn": "9787101162165",
+    "wordCount": 0,
+    "newRating": 881,
+    "newRatingCount": 59,
+    "newRatingDetail": {
+      "good": 50,
+      "fair": 8,
+      "poor": 1,
+      "recent": 0,
+      "deepV": 30,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300062705",
+    "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16",
+    "lastSync": "2026-05-21T11:49:10Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 3,
+    "reviewCount": 3,
+    "bookmarkCount": 0,
+    "contentHash": "557fb96b93505021257a9deb907f12ec9f4ee6e191391d63d24379b7d5c8dc4b"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "封面",
+          "anchor": "sigil_toc_id_1",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 118,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "版权信息",
+          "anchor": "sigil_toc_id_2",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "“中华经典普及文库”出版缘起",
+      "level": 1,
+      "wordCount": 767,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“中华经典普及文库”出版缘起",
+          "anchor": "pre1_1",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "出版说明",
+      "level": 1,
+      "wordCount": 1145,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "出版说明",
+          "anchor": "pre2_2",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "资治通鉴卷第一 周纪一",
+      "level": 1,
+      "wordCount": 7982,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一 周纪一",
+          "anchor": "cha1_1",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "资治通鉴卷第二 周纪二",
+      "level": 1,
+      "wordCount": 8785,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二 周纪二",
+          "anchor": "cha2_2",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "资治通鉴卷第三 周纪三",
+      "level": 1,
+      "wordCount": 8281,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第三 周纪三",
+          "anchor": "cha3_3",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "资治通鉴卷第四 周纪四",
+      "level": 1,
+      "wordCount": 10017,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第四 周纪四",
+          "anchor": "cha4_4",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "资治通鉴卷第五 周纪五",
+      "level": 1,
+      "wordCount": 10445,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第五 周纪五",
+          "anchor": "cha5_5",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "资治通鉴卷第六 秦纪一",
+      "level": 1,
+      "wordCount": 10862,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第六 秦纪一",
+          "anchor": "cha6_6",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "资治通鉴卷第七 秦纪二",
+      "level": 1,
+      "wordCount": 10289,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第七 秦纪二",
+          "anchor": "cha7_7",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "资治通鉴卷第八 秦纪三",
+      "level": 1,
+      "wordCount": 9947,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第八 秦纪三",
+          "anchor": "cha8_8",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "资治通鉴卷第九 汉纪一",
+      "level": 1,
+      "wordCount": 9004,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第九 汉纪一",
+          "anchor": "cha9_9",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "资治通鉴卷第十 汉纪二",
+      "level": 1,
+      "wordCount": 8763,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第十 汉纪二",
+          "anchor": "cha10_10",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "资治通鉴卷第十一 汉纪三",
+      "level": 1,
+      "wordCount": 9447,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第十一 汉纪三",
+          "anchor": "cha11_11",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "资治通鉴卷第十二 汉纪四",
+      "level": 1,
+      "wordCount": 10960,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第十二 汉纪四",
+          "anchor": "cha12_12",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "资治通鉴卷第十三 汉纪五",
+      "level": 1,
+      "wordCount": 9893,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第十三 汉纪五",
+          "anchor": "cha13_13",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "资治通鉴卷第十四 汉纪六",
+      "level": 1,
+      "wordCount": 8631,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第十四 汉纪六",
+          "anchor": "cha14_14",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "资治通鉴卷第十五 汉纪七",
+      "level": 1,
+      "wordCount": 9458,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第十五 汉纪七",
+          "anchor": "cha15_15",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "资治通鉴卷第十六 汉纪八",
+      "level": 1,
+      "wordCount": 11259,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第十六 汉纪八",
+          "anchor": "cha16_16",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "资治通鉴卷第十七 汉纪九",
+      "level": 1,
+      "wordCount": 9537,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第十七 汉纪九",
+          "anchor": "cha17_17",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "资治通鉴卷第十八 汉纪十",
+      "level": 1,
+      "wordCount": 10386,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第十八 汉纪十",
+          "anchor": "cha18_18",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "资治通鉴卷第十九 汉纪十一",
+      "level": 1,
+      "wordCount": 10713,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第十九 汉纪十一",
+          "anchor": "cha19_19",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "资治通鉴卷第二十 汉纪十二",
+      "level": 1,
+      "wordCount": 9779,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二十 汉纪十二",
+          "anchor": "cha20_20",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "资治通鉴卷第二十一 汉纪十三",
+      "level": 1,
+      "wordCount": 10861,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二十一 汉纪十三",
+          "anchor": "cha21_21",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "资治通鉴卷第二十二 汉纪十四",
+      "level": 1,
+      "wordCount": 9249,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二十二 汉纪十四",
+          "anchor": "cha22_22",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "资治通鉴卷第二十三 汉纪十五",
+      "level": 1,
+      "wordCount": 7874,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二十三 汉纪十五",
+          "anchor": "cha23_23",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "资治通鉴卷第二十四 汉纪十六",
+      "level": 1,
+      "wordCount": 10851,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二十四 汉纪十六",
+          "anchor": "cha24_24",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "资治通鉴卷第二十五 汉纪十七",
+      "level": 1,
+      "wordCount": 10498,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二十五 汉纪十七",
+          "anchor": "cha25_25",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "资治通鉴卷第二十六 汉纪十八",
+      "level": 1,
+      "wordCount": 8235,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二十六 汉纪十八",
+          "anchor": "cha26_26",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "资治通鉴卷第二十七 汉纪十九",
+      "level": 1,
+      "wordCount": 8482,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二十七 汉纪十九",
+          "anchor": "cha27_27",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "资治通鉴卷第二十八 汉纪二十",
+      "level": 1,
+      "wordCount": 9144,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二十八 汉纪二十",
+          "anchor": "cha28_28",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "资治通鉴卷第二十九 汉纪二十一",
+      "level": 1,
+      "wordCount": 10614,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二十九 汉纪二十一",
+          "anchor": "cha29_29",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "资治通鉴卷第三十 汉纪二十二",
+      "level": 1,
+      "wordCount": 10827,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第三十 汉纪二十二",
+          "anchor": "cha30_30",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "资治通鉴卷第三十一 汉纪二十三",
+      "level": 1,
+      "wordCount": 10331,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第三十一 汉纪二十三",
+          "anchor": "cha31_31",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "资治通鉴卷第三十二 汉纪二十四",
+      "level": 1,
+      "wordCount": 7130,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第三十二 汉纪二十四",
+          "anchor": "cha32_32",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "资治通鉴卷第三十三 汉纪二十五",
+      "level": 1,
+      "wordCount": 8743,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第三十三 汉纪二十五",
+          "anchor": "cha33_33",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "资治通鉴卷第三十四 汉纪二十六",
+      "level": 1,
+      "wordCount": 8389,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第三十四 汉纪二十六",
+          "anchor": "cha34_34",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "资治通鉴卷第三十五 汉纪二十七",
+      "level": 1,
+      "wordCount": 9845,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第三十五 汉纪二十七",
+          "anchor": "cha35_35",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "资治通鉴卷第三十六 汉纪二十八",
+      "level": 1,
+      "wordCount": 9121,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第三十六 汉纪二十八",
+          "anchor": "cha36_36",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "资治通鉴卷第三十七 汉纪二十九",
+      "level": 1,
+      "wordCount": 11131,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第三十七 汉纪二十九",
+          "anchor": "cha37_37",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "资治通鉴卷第三十八 汉纪三十",
+      "level": 1,
+      "wordCount": 10422,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第三十八 汉纪三十",
+          "anchor": "cha38_38",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "资治通鉴卷第三十九 汉纪三十一",
+      "level": 1,
+      "wordCount": 11829,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第三十九 汉纪三十一",
+          "anchor": "cha39_39",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "资治通鉴卷第四十 汉纪三十二",
+      "level": 1,
+      "wordCount": 11055,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第四十 汉纪三十二",
+          "anchor": "cha40_40",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "资治通鉴卷第四十一 汉纪三十三",
+      "level": 1,
+      "wordCount": 11759,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第四十一 汉纪三十三",
+          "anchor": "cha41_41",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "资治通鉴卷第四十二 汉纪三十四",
+      "level": 1,
+      "wordCount": 10346,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第四十二 汉纪三十四",
+          "anchor": "cha42_42",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "资治通鉴卷第四十三 汉纪三十五",
+      "level": 1,
+      "wordCount": 10989,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第四十三 汉纪三十五",
+          "anchor": "cha43_43",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "资治通鉴卷第四十四 汉纪三十六",
+      "level": 1,
+      "wordCount": 11250,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第四十四 汉纪三十六",
+          "anchor": "cha44_44",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "资治通鉴卷第四十五 汉纪三十七",
+      "level": 1,
+      "wordCount": 9586,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第四十五 汉纪三十七",
+          "anchor": "cha45_45",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "资治通鉴卷第四十六 汉纪三十八",
+      "level": 1,
+      "wordCount": 9979,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第四十六 汉纪三十八",
+          "anchor": "cha46_46",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "资治通鉴卷第四十七 汉纪三十九",
+      "level": 1,
+      "wordCount": 9583,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第四十七 汉纪三十九",
+          "anchor": "cha47_47",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "资治通鉴卷第四十八 汉纪四十",
+      "level": 1,
+      "wordCount": 9573,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第四十八 汉纪四十",
+          "anchor": "cha48_48",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "资治通鉴卷第四十九 汉纪四十一",
+      "level": 1,
+      "wordCount": 10063,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第四十九 汉纪四十一",
+          "anchor": "cha49_49",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "资治通鉴卷第五十 汉纪四十二",
+      "level": 1,
+      "wordCount": 11812,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第五十 汉纪四十二",
+          "anchor": "cha50_50",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "资治通鉴卷第五十一 汉纪四十三",
+      "level": 1,
+      "wordCount": 12236,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第五十一 汉纪四十三",
+          "anchor": "cha51_51",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "资治通鉴卷第五十二 汉纪四十四",
+      "level": 1,
+      "wordCount": 10273,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第五十二 汉纪四十四",
+          "anchor": "cha52_52",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "资治通鉴卷第五十三 汉纪四十五",
+      "level": 1,
+      "wordCount": 9971,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第五十三 汉纪四十五",
+          "anchor": "cha53_53",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "资治通鉴卷第五十四 汉纪四十六",
+      "level": 1,
+      "wordCount": 10402,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第五十四 汉纪四十六",
+          "anchor": "cha54_54",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "资治通鉴卷第五十五 汉纪四十七",
+      "level": 1,
+      "wordCount": 10322,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第五十五 汉纪四十七",
+          "anchor": "cha55_55",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "资治通鉴卷第五十六 汉纪四十八",
+      "level": 1,
+      "wordCount": 10395,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第五十六 汉纪四十八",
+          "anchor": "cha56_56",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "资治通鉴卷第五十七 汉纪四十九",
+      "level": 1,
+      "wordCount": 10273,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第五十七 汉纪四十九",
+          "anchor": "cha57_57",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "资治通鉴卷第五十八 汉纪五十",
+      "level": 1,
+      "wordCount": 9856,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第五十八 汉纪五十",
+          "anchor": "cha58_58",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "资治通鉴卷第五十九 汉纪五十一",
+      "level": 1,
+      "wordCount": 11455,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第五十九 汉纪五十一",
+          "anchor": "cha59_59",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "资治通鉴卷第六十 汉纪五十二",
+      "level": 1,
+      "wordCount": 11344,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第六十 汉纪五十二",
+          "anchor": "cha60_60",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "资治通鉴卷第六十一 汉纪五十三",
+      "level": 1,
+      "wordCount": 11157,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第六十一 汉纪五十三",
+          "anchor": "cha61_61",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "资治通鉴卷第六十二 汉纪五十四",
+      "level": 1,
+      "wordCount": 12206,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第六十二 汉纪五十四",
+          "anchor": "cha62_62",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "资治通鉴卷第六十三 汉纪五十五",
+      "level": 1,
+      "wordCount": 10560,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第六十三 汉纪五十五",
+          "anchor": "cha63_63",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "资治通鉴卷第六十四 汉纪五十六",
+      "level": 1,
+      "wordCount": 8639,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第六十四 汉纪五十六",
+          "anchor": "cha64_64",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "资治通鉴卷第六十五 汉纪五十七",
+      "level": 1,
+      "wordCount": 10584,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第六十五 汉纪五十七",
+          "anchor": "cha65_65",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "资治通鉴卷第六十六 汉纪五十八",
+      "level": 1,
+      "wordCount": 9355,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第六十六 汉纪五十八",
+          "anchor": "cha66_66",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "资治通鉴卷第六十七 汉纪五十九",
+      "level": 1,
+      "wordCount": 7959,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第六十七 汉纪五十九",
+          "anchor": "cha67_67",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "title": "资治通鉴卷第六十八 汉纪六十",
+      "level": 1,
+      "wordCount": 9894,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第六十八 汉纪六十",
+          "anchor": "cha68_68",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "title": "资治通鉴卷第六十九 魏纪一",
+      "level": 1,
+      "wordCount": 12456,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第六十九 魏纪一",
+          "anchor": "cha69_69",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 74,
+      "title": "资治通鉴卷第七十 魏纪二",
+      "level": 1,
+      "wordCount": 10394,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第七十 魏纪二",
+          "anchor": "cha70_70",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=74"
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 75,
+      "title": "资治通鉴卷第七十一 魏纪三",
+      "level": 1,
+      "wordCount": 8439,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第七十一 魏纪三",
+          "anchor": "cha71_71",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=75",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=75"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 76,
+      "title": "资治通鉴卷第七十二 魏纪四",
+      "level": 1,
+      "wordCount": 12614,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第七十二 魏纪四",
+          "anchor": "cha72_72",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 77,
+      "title": "资治通鉴卷第七十三 魏纪五",
+      "level": 1,
+      "wordCount": 10003,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第七十三 魏纪五",
+          "anchor": "cha73_73",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 78,
+      "title": "资治通鉴卷第七十四 魏纪六",
+      "level": 1,
+      "wordCount": 11296,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第七十四 魏纪六",
+          "anchor": "cha74_74",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 79,
+      "title": "资治通鉴卷第七十五 魏纪七",
+      "level": 1,
+      "wordCount": 11759,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第七十五 魏纪七",
+          "anchor": "cha75_75",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=79"
+    },
+    {
+      "chapterUid": 80,
+      "chapterIdx": 80,
+      "title": "资治通鉴卷第七十六 魏纪八",
+      "level": 1,
+      "wordCount": 9835,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第七十六 魏纪八",
+          "anchor": "cha76_76",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=80",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=80"
+    },
+    {
+      "chapterUid": 81,
+      "chapterIdx": 81,
+      "title": "资治通鉴卷第七十七 魏纪九",
+      "level": 1,
+      "wordCount": 10473,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第七十七 魏纪九",
+          "anchor": "cha77_77",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=81",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=81"
+    },
+    {
+      "chapterUid": 82,
+      "chapterIdx": 82,
+      "title": "资治通鉴卷第七十八 魏纪十",
+      "level": 1,
+      "wordCount": 10032,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第七十八 魏纪十",
+          "anchor": "cha78_78",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=82",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=82"
+    },
+    {
+      "chapterUid": 83,
+      "chapterIdx": 83,
+      "title": "资治通鉴卷第七十九 晋纪一",
+      "level": 1,
+      "wordCount": 12114,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第七十九 晋纪一",
+          "anchor": "cha79_79",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=83",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=83"
+    },
+    {
+      "chapterUid": 84,
+      "chapterIdx": 84,
+      "title": "资治通鉴卷第八十 晋纪二",
+      "level": 1,
+      "wordCount": 10498,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第八十 晋纪二",
+          "anchor": "cha80_80",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=84",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=84"
+    },
+    {
+      "chapterUid": 85,
+      "chapterIdx": 85,
+      "title": "资治通鉴卷第八十一 晋纪三",
+      "level": 1,
+      "wordCount": 10936,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第八十一 晋纪三",
+          "anchor": "cha81_81",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=85",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=85"
+    },
+    {
+      "chapterUid": 86,
+      "chapterIdx": 86,
+      "title": "资治通鉴卷第八十二 晋纪四",
+      "level": 1,
+      "wordCount": 10201,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第八十二 晋纪四",
+          "anchor": "cha82_82",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=86",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=86"
+    },
+    {
+      "chapterUid": 87,
+      "chapterIdx": 87,
+      "title": "资治通鉴卷第八十三 晋纪五",
+      "level": 1,
+      "wordCount": 8826,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第八十三 晋纪五",
+          "anchor": "cha83_83",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=87",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=87"
+    },
+    {
+      "chapterUid": 88,
+      "chapterIdx": 88,
+      "title": "资治通鉴卷第八十四 晋纪六",
+      "level": 1,
+      "wordCount": 8897,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第八十四 晋纪六",
+          "anchor": "cha84_84",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=88",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=88"
+    },
+    {
+      "chapterUid": 89,
+      "chapterIdx": 89,
+      "title": "资治通鉴卷第八十五 晋纪七",
+      "level": 1,
+      "wordCount": 10404,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第八十五 晋纪七",
+          "anchor": "cha85_85",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=89",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=89"
+    },
+    {
+      "chapterUid": 90,
+      "chapterIdx": 90,
+      "title": "资治通鉴卷第八十六 晋纪八",
+      "level": 1,
+      "wordCount": 10425,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第八十六 晋纪八",
+          "anchor": "cha86_86",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=90",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=90"
+    },
+    {
+      "chapterUid": 91,
+      "chapterIdx": 91,
+      "title": "资治通鉴卷第八十七 晋纪九",
+      "level": 1,
+      "wordCount": 12152,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第八十七 晋纪九",
+          "anchor": "cha87_87",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=91",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=91"
+    },
+    {
+      "chapterUid": 92,
+      "chapterIdx": 92,
+      "title": "资治通鉴卷第八十八 晋纪十",
+      "level": 1,
+      "wordCount": 11405,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第八十八 晋纪十",
+          "anchor": "cha88_88",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=92",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=92"
+    },
+    {
+      "chapterUid": 93,
+      "chapterIdx": 93,
+      "title": "资治通鉴卷第八十九 晋纪十一",
+      "level": 1,
+      "wordCount": 12195,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第八十九 晋纪十一",
+          "anchor": "cha89_89",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=93",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=93"
+    },
+    {
+      "chapterUid": 94,
+      "chapterIdx": 94,
+      "title": "资治通鉴卷第九十 晋纪十二",
+      "level": 1,
+      "wordCount": 9394,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第九十 晋纪十二",
+          "anchor": "cha90_90",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=94",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=94"
+    },
+    {
+      "chapterUid": 95,
+      "chapterIdx": 95,
+      "title": "资治通鉴卷第九十一 晋纪十三",
+      "level": 1,
+      "wordCount": 9903,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第九十一 晋纪十三",
+          "anchor": "cha91_91",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=95",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=95"
+    },
+    {
+      "chapterUid": 96,
+      "chapterIdx": 96,
+      "title": "资治通鉴卷第九十二 晋纪十四",
+      "level": 1,
+      "wordCount": 10241,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第九十二 晋纪十四",
+          "anchor": "cha92_92",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=96",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=96"
+    },
+    {
+      "chapterUid": 97,
+      "chapterIdx": 97,
+      "title": "资治通鉴卷第九十三 晋纪十五",
+      "level": 1,
+      "wordCount": 10785,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第九十三 晋纪十五",
+          "anchor": "cha93_93",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=97",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=97"
+    },
+    {
+      "chapterUid": 98,
+      "chapterIdx": 98,
+      "title": "资治通鉴卷第九十四 晋纪十六",
+      "level": 1,
+      "wordCount": 11928,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第九十四 晋纪十六",
+          "anchor": "cha94_94",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=98",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=98"
+    },
+    {
+      "chapterUid": 99,
+      "chapterIdx": 99,
+      "title": "资治通鉴卷第九十五 晋纪十七",
+      "level": 1,
+      "wordCount": 11435,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第九十五 晋纪十七",
+          "anchor": "cha95_95",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=99",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=99"
+    },
+    {
+      "chapterUid": 100,
+      "chapterIdx": 100,
+      "title": "资治通鉴卷第九十六 晋纪十八",
+      "level": 1,
+      "wordCount": 11542,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第九十六 晋纪十八",
+          "anchor": "cha96_96",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=100",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=100"
+    },
+    {
+      "chapterUid": 101,
+      "chapterIdx": 101,
+      "title": "资治通鉴卷第九十七 晋纪十九",
+      "level": 1,
+      "wordCount": 11982,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第九十七 晋纪十九",
+          "anchor": "cha97_97",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=101",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=101"
+    },
+    {
+      "chapterUid": 102,
+      "chapterIdx": 102,
+      "title": "资治通鉴卷第九十八 晋纪二十",
+      "level": 1,
+      "wordCount": 10993,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第九十八 晋纪二十",
+          "anchor": "cha98_98",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=102",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=102"
+    },
+    {
+      "chapterUid": 103,
+      "chapterIdx": 103,
+      "title": "资治通鉴卷第九十九 晋纪二十一",
+      "level": 1,
+      "wordCount": 12014,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第九十九 晋纪二十一",
+          "anchor": "cha99_99",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=103",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=103"
+    },
+    {
+      "chapterUid": 104,
+      "chapterIdx": 104,
+      "title": "资治通鉴卷第一百 晋纪二十二",
+      "level": 1,
+      "wordCount": 12372,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百 晋纪二十二",
+          "anchor": "cha100_100",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=104",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=104"
+    },
+    {
+      "chapterUid": 105,
+      "chapterIdx": 105,
+      "title": "资治通鉴卷第一百一 晋纪二十三",
+      "level": 1,
+      "wordCount": 11578,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百一 晋纪二十三",
+          "anchor": "cha101_101",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=105",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=105"
+    },
+    {
+      "chapterUid": 106,
+      "chapterIdx": 106,
+      "title": "资治通鉴卷第一百二 晋纪二十四",
+      "level": 1,
+      "wordCount": 10575,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百二 晋纪二十四",
+          "anchor": "cha102_102",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=106",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=106"
+    },
+    {
+      "chapterUid": 107,
+      "chapterIdx": 107,
+      "title": "资治通鉴卷第一百三 晋纪二十五",
+      "level": 1,
+      "wordCount": 10044,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百三 晋纪二十五",
+          "anchor": "cha103_103",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=107",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=107"
+    },
+    {
+      "chapterUid": 108,
+      "chapterIdx": 108,
+      "title": "资治通鉴卷第一百四 晋纪二十六",
+      "level": 1,
+      "wordCount": 11677,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百四 晋纪二十六",
+          "anchor": "cha104_104",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=108",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=108"
+    },
+    {
+      "chapterUid": 109,
+      "chapterIdx": 109,
+      "title": "资治通鉴卷第一百五 晋纪二十七",
+      "level": 1,
+      "wordCount": 11861,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百五 晋纪二十七",
+          "anchor": "cha105_105",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=109",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=109"
+    },
+    {
+      "chapterUid": 110,
+      "chapterIdx": 110,
+      "title": "资治通鉴卷第一百六 晋纪二十八",
+      "level": 1,
+      "wordCount": 11522,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百六 晋纪二十八",
+          "anchor": "cha106_106",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=110",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=110"
+    },
+    {
+      "chapterUid": 111,
+      "chapterIdx": 111,
+      "title": "资治通鉴卷第一百七 晋纪二十九",
+      "level": 1,
+      "wordCount": 10737,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百七 晋纪二十九",
+          "anchor": "cha107_107",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=111",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=111"
+    },
+    {
+      "chapterUid": 112,
+      "chapterIdx": 112,
+      "title": "资治通鉴卷第一百八 晋纪三十",
+      "level": 1,
+      "wordCount": 12148,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百八 晋纪三十",
+          "anchor": "cha108_108",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=112",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=112"
+    },
+    {
+      "chapterUid": 113,
+      "chapterIdx": 113,
+      "title": "资治通鉴卷第一百九 晋纪三十一",
+      "level": 1,
+      "wordCount": 8967,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百九 晋纪三十一",
+          "anchor": "cha109_109",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=113",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=113"
+    },
+    {
+      "chapterUid": 114,
+      "chapterIdx": 114,
+      "title": "资治通鉴卷第一百一十 晋纪三十二",
+      "level": 1,
+      "wordCount": 8711,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百一十 晋纪三十二",
+          "anchor": "cha110_110",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=114",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=114"
+    },
+    {
+      "chapterUid": 115,
+      "chapterIdx": 115,
+      "title": "资治通鉴卷第一百一十一 晋纪三十三",
+      "level": 1,
+      "wordCount": 11244,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百一十一 晋纪三十三",
+          "anchor": "cha111_111",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=115",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=115"
+    },
+    {
+      "chapterUid": 116,
+      "chapterIdx": 116,
+      "title": "资治通鉴卷第一百一十二 晋纪三十四",
+      "level": 1,
+      "wordCount": 11530,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百一十二 晋纪三十四",
+          "anchor": "cha112_112",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=116",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=116"
+    },
+    {
+      "chapterUid": 117,
+      "chapterIdx": 117,
+      "title": "资治通鉴卷第一百一十三 晋纪三十五",
+      "level": 1,
+      "wordCount": 10672,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百一十三 晋纪三十五",
+          "anchor": "cha113_113",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=117",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=117"
+    },
+    {
+      "chapterUid": 118,
+      "chapterIdx": 118,
+      "title": "资治通鉴卷第一百一十四 晋纪三十六",
+      "level": 1,
+      "wordCount": 11583,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百一十四 晋纪三十六",
+          "anchor": "cha114_114",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=118",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=118"
+    },
+    {
+      "chapterUid": 119,
+      "chapterIdx": 119,
+      "title": "资治通鉴卷第一百一十五 晋纪三十七",
+      "level": 1,
+      "wordCount": 11911,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百一十五 晋纪三十七",
+          "anchor": "cha115_115",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=119",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=119"
+    },
+    {
+      "chapterUid": 120,
+      "chapterIdx": 120,
+      "title": "资治通鉴卷第一百一十六 晋纪三十八",
+      "level": 1,
+      "wordCount": 12013,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百一十六 晋纪三十八",
+          "anchor": "cha116_116",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=120",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=120"
+    },
+    {
+      "chapterUid": 121,
+      "chapterIdx": 121,
+      "title": "资治通鉴卷第一百一十七 晋纪三十九",
+      "level": 1,
+      "wordCount": 9022,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百一十七 晋纪三十九",
+          "anchor": "cha117_117",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=121",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=121"
+    },
+    {
+      "chapterUid": 122,
+      "chapterIdx": 122,
+      "title": "资治通鉴卷第一百一十八 晋纪四十",
+      "level": 1,
+      "wordCount": 11600,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百一十八 晋纪四十",
+          "anchor": "cha118_118",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=122",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=122"
+    },
+    {
+      "chapterUid": 123,
+      "chapterIdx": 123,
+      "title": "资治通鉴卷第一百一十九 宋纪一",
+      "level": 1,
+      "wordCount": 10809,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百一十九 宋纪一",
+          "anchor": "cha119_119",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=123",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=123"
+    },
+    {
+      "chapterUid": 124,
+      "chapterIdx": 124,
+      "title": "资治通鉴卷第一百二十 宋纪二",
+      "level": 1,
+      "wordCount": 12148,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百二十 宋纪二",
+          "anchor": "cha120_120",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=124",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=124"
+    },
+    {
+      "chapterUid": 125,
+      "chapterIdx": 125,
+      "title": "资治通鉴卷第一百二十一 宋纪三",
+      "level": 1,
+      "wordCount": 10781,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百二十一 宋纪三",
+          "anchor": "cha121_121",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=125",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=125"
+    },
+    {
+      "chapterUid": 126,
+      "chapterIdx": 126,
+      "title": "资治通鉴卷第一百二十二 宋纪四",
+      "level": 1,
+      "wordCount": 11275,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百二十二 宋纪四",
+          "anchor": "cha122_122",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=126",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=126"
+    },
+    {
+      "chapterUid": 127,
+      "chapterIdx": 127,
+      "title": "资治通鉴卷第一百二十三 宋纪五",
+      "level": 1,
+      "wordCount": 11713,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百二十三 宋纪五",
+          "anchor": "cha123_123",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=127",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=127"
+    },
+    {
+      "chapterUid": 128,
+      "chapterIdx": 128,
+      "title": "资治通鉴卷第一百二十四 宋纪六",
+      "level": 1,
+      "wordCount": 12095,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百二十四 宋纪六",
+          "anchor": "cha124_124",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=128",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=128"
+    },
+    {
+      "chapterUid": 129,
+      "chapterIdx": 129,
+      "title": "资治通鉴卷第一百二十五 宋纪七",
+      "level": 1,
+      "wordCount": 11519,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百二十五 宋纪七",
+          "anchor": "cha125_125",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=129",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=129"
+    },
+    {
+      "chapterUid": 130,
+      "chapterIdx": 130,
+      "title": "资治通鉴卷第一百二十六 宋纪八",
+      "level": 1,
+      "wordCount": 7067,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百二十六 宋纪八",
+          "anchor": "cha126_126",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=130",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=130"
+    },
+    {
+      "chapterUid": 131,
+      "chapterIdx": 131,
+      "title": "资治通鉴卷第一百二十七 宋纪九",
+      "level": 1,
+      "wordCount": 8602,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百二十七 宋纪九",
+          "anchor": "cha127_127",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=131",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=131"
+    },
+    {
+      "chapterUid": 132,
+      "chapterIdx": 132,
+      "title": "资治通鉴卷第一百二十八 宋纪十",
+      "level": 1,
+      "wordCount": 10850,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百二十八 宋纪十",
+          "anchor": "cha128_128",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=132",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=132"
+    },
+    {
+      "chapterUid": 133,
+      "chapterIdx": 133,
+      "title": "资治通鉴卷第一百二十九 宋纪十一",
+      "level": 1,
+      "wordCount": 8874,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百二十九 宋纪十一",
+          "anchor": "cha129_129",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=133",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=133"
+    },
+    {
+      "chapterUid": 134,
+      "chapterIdx": 134,
+      "title": "资治通鉴卷第一百三十 宋纪十二",
+      "level": 1,
+      "wordCount": 7324,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百三十 宋纪十二",
+          "anchor": "cha130_130",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=134",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=134"
+    },
+    {
+      "chapterUid": 135,
+      "chapterIdx": 135,
+      "title": "资治通鉴卷第一百三十一 宋纪十三",
+      "level": 1,
+      "wordCount": 12012,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百三十一 宋纪十三",
+          "anchor": "cha131_131",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=135",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=135"
+    },
+    {
+      "chapterUid": 136,
+      "chapterIdx": 136,
+      "title": "资治通鉴卷第一百三十二 宋纪十四",
+      "level": 1,
+      "wordCount": 8551,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百三十二 宋纪十四",
+          "anchor": "cha132_132",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=136",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=136"
+    },
+    {
+      "chapterUid": 137,
+      "chapterIdx": 137,
+      "title": "资治通鉴卷第一百三十三 宋纪十五",
+      "level": 1,
+      "wordCount": 10609,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百三十三 宋纪十五",
+          "anchor": "cha133_133",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=137",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=137"
+    },
+    {
+      "chapterUid": 138,
+      "chapterIdx": 138,
+      "title": "资治通鉴卷第一百三十四 宋纪十六",
+      "level": 1,
+      "wordCount": 12144,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百三十四 宋纪十六",
+          "anchor": "cha134_134",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=138",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=138"
+    },
+    {
+      "chapterUid": 139,
+      "chapterIdx": 139,
+      "title": "资治通鉴卷第一百三十五 齐纪一",
+      "level": 1,
+      "wordCount": 11999,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百三十五 齐纪一",
+          "anchor": "cha135_135",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=139",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=139"
+    },
+    {
+      "chapterUid": 140,
+      "chapterIdx": 140,
+      "title": "资治通鉴卷第一百三十六 齐纪二",
+      "level": 1,
+      "wordCount": 10854,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百三十六 齐纪二",
+          "anchor": "cha136_136",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=140",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=140"
+    },
+    {
+      "chapterUid": 141,
+      "chapterIdx": 141,
+      "title": "资治通鉴卷第一百三十七 齐纪三",
+      "level": 1,
+      "wordCount": 10591,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百三十七 齐纪三",
+          "anchor": "cha137_137",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=141",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=141"
+    },
+    {
+      "chapterUid": 142,
+      "chapterIdx": 142,
+      "title": "资治通鉴卷第一百三十八 齐纪四",
+      "level": 1,
+      "wordCount": 5973,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百三十八 齐纪四",
+          "anchor": "cha138_138",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=142",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=142"
+    },
+    {
+      "chapterUid": 143,
+      "chapterIdx": 143,
+      "title": "资治通鉴卷第一百三十九 齐纪五",
+      "level": 1,
+      "wordCount": 11158,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百三十九 齐纪五",
+          "anchor": "cha139_139",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=143",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=143"
+    },
+    {
+      "chapterUid": 144,
+      "chapterIdx": 144,
+      "title": "资治通鉴卷第一百四十 齐纪六",
+      "level": 1,
+      "wordCount": 10924,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百四十 齐纪六",
+          "anchor": "cha140_140",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=144",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=144"
+    },
+    {
+      "chapterUid": 145,
+      "chapterIdx": 145,
+      "title": "资治通鉴卷第一百四十一 齐纪七",
+      "level": 1,
+      "wordCount": 9486,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百四十一 齐纪七",
+          "anchor": "cha141_141",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=145",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=145"
+    },
+    {
+      "chapterUid": 146,
+      "chapterIdx": 146,
+      "title": "资治通鉴卷第一百四十二 齐纪八",
+      "level": 1,
+      "wordCount": 8233,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百四十二 齐纪八",
+          "anchor": "cha142_142",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=146",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=146"
+    },
+    {
+      "chapterUid": 147,
+      "chapterIdx": 147,
+      "title": "资治通鉴卷第一百四十三 齐纪九",
+      "level": 1,
+      "wordCount": 7129,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百四十三 齐纪九",
+          "anchor": "cha143_143",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=147",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=147"
+    },
+    {
+      "chapterUid": 148,
+      "chapterIdx": 148,
+      "title": "资治通鉴卷第一百四十四 齐纪十",
+      "level": 1,
+      "wordCount": 11573,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百四十四 齐纪十",
+          "anchor": "cha144_144",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=148",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=148"
+    },
+    {
+      "chapterUid": 149,
+      "chapterIdx": 149,
+      "title": "资治通鉴卷第一百四十五 梁纪一",
+      "level": 1,
+      "wordCount": 12042,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百四十五 梁纪一",
+          "anchor": "cha145_145",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=149",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=149"
+    },
+    {
+      "chapterUid": 150,
+      "chapterIdx": 150,
+      "title": "资治通鉴卷第一百四十六 梁纪二",
+      "level": 1,
+      "wordCount": 10216,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百四十六 梁纪二",
+          "anchor": "cha146_146",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=150",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=150"
+    },
+    {
+      "chapterUid": 151,
+      "chapterIdx": 151,
+      "title": "资治通鉴卷第一百四十七 梁纪三",
+      "level": 1,
+      "wordCount": 10686,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百四十七 梁纪三",
+          "anchor": "cha147_147",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=151",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=151"
+    },
+    {
+      "chapterUid": 152,
+      "chapterIdx": 152,
+      "title": "资治通鉴卷第一百四十八 梁纪四",
+      "level": 1,
+      "wordCount": 11210,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百四十八 梁纪四",
+          "anchor": "cha148_148",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=152",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=152"
+    },
+    {
+      "chapterUid": 153,
+      "chapterIdx": 153,
+      "title": "资治通鉴卷第一百四十九 梁纪五",
+      "level": 1,
+      "wordCount": 10741,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百四十九 梁纪五",
+          "anchor": "cha149_149",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=153",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=153"
+    },
+    {
+      "chapterUid": 154,
+      "chapterIdx": 154,
+      "title": "资治通鉴卷第一百五十 梁纪六",
+      "level": 1,
+      "wordCount": 11799,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百五十 梁纪六",
+          "anchor": "cha150_150",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=154",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=154"
+    },
+    {
+      "chapterUid": 155,
+      "chapterIdx": 155,
+      "title": "资治通鉴卷第一百五十一 梁纪七",
+      "level": 1,
+      "wordCount": 7884,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百五十一 梁纪七",
+          "anchor": "cha151_151",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=155",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=155"
+    },
+    {
+      "chapterUid": 156,
+      "chapterIdx": 156,
+      "title": "资治通鉴卷第一百五十二 梁纪八",
+      "level": 1,
+      "wordCount": 7897,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百五十二 梁纪八",
+          "anchor": "cha152_152",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=156",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=156"
+    },
+    {
+      "chapterUid": 157,
+      "chapterIdx": 157,
+      "title": "资治通鉴卷第一百五十三 梁纪九",
+      "level": 1,
+      "wordCount": 5511,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百五十三 梁纪九",
+          "anchor": "cha153_153",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=157",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=157"
+    },
+    {
+      "chapterUid": 158,
+      "chapterIdx": 158,
+      "title": "资治通鉴卷第一百五十四 梁纪十",
+      "level": 1,
+      "wordCount": 9645,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百五十四 梁纪十",
+          "anchor": "cha154_154",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=158",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=158"
+    },
+    {
+      "chapterUid": 159,
+      "chapterIdx": 159,
+      "title": "资治通鉴卷第一百五十五 梁纪十一",
+      "level": 1,
+      "wordCount": 10843,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百五十五 梁纪十一",
+          "anchor": "cha155_155",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=159",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=159"
+    },
+    {
+      "chapterUid": 160,
+      "chapterIdx": 160,
+      "title": "资治通鉴卷第一百五十六 梁纪十二",
+      "level": 1,
+      "wordCount": 11300,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百五十六 梁纪十二",
+          "anchor": "cha156_156",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=160",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=160"
+    },
+    {
+      "chapterUid": 161,
+      "chapterIdx": 161,
+      "title": "资治通鉴卷第一百五十七 梁纪十三",
+      "level": 1,
+      "wordCount": 10183,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百五十七 梁纪十三",
+          "anchor": "cha157_157",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=161",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=161"
+    },
+    {
+      "chapterUid": 162,
+      "chapterIdx": 162,
+      "title": "资治通鉴卷第一百五十八 梁纪十四",
+      "level": 1,
+      "wordCount": 11619,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百五十八 梁纪十四",
+          "anchor": "cha158_158",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=162",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=162"
+    },
+    {
+      "chapterUid": 163,
+      "chapterIdx": 163,
+      "title": "资治通鉴卷第一百五十九 梁纪十五",
+      "level": 1,
+      "wordCount": 6989,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百五十九 梁纪十五",
+          "anchor": "cha159_159",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=163",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=163"
+    },
+    {
+      "chapterUid": 164,
+      "chapterIdx": 164,
+      "title": "资治通鉴卷第一百六十 梁纪十六",
+      "level": 1,
+      "wordCount": 7397,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百六十 梁纪十六",
+          "anchor": "cha160_160",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=164",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=164"
+    },
+    {
+      "chapterUid": 165,
+      "chapterIdx": 165,
+      "title": "资治通鉴卷第一百六十一 梁纪十七",
+      "level": 1,
+      "wordCount": 11109,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百六十一 梁纪十七",
+          "anchor": "cha161_161",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=165",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=165"
+    },
+    {
+      "chapterUid": 166,
+      "chapterIdx": 166,
+      "title": "资治通鉴卷第一百六十二 梁纪十八",
+      "level": 1,
+      "wordCount": 12073,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百六十二 梁纪十八",
+          "anchor": "cha162_162",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=166",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=166"
+    },
+    {
+      "chapterUid": 167,
+      "chapterIdx": 167,
+      "title": "资治通鉴卷第一百六十三 梁纪十九",
+      "level": 1,
+      "wordCount": 8491,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百六十三 梁纪十九",
+          "anchor": "cha163_163",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=167",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=167"
+    },
+    {
+      "chapterUid": 168,
+      "chapterIdx": 168,
+      "title": "资治通鉴卷第一百六十四 梁纪二十",
+      "level": 1,
+      "wordCount": 12224,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百六十四 梁纪二十",
+          "anchor": "cha164_164",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=168",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=168"
+    },
+    {
+      "chapterUid": 169,
+      "chapterIdx": 169,
+      "title": "资治通鉴卷第一百六十五 梁纪二十一",
+      "level": 1,
+      "wordCount": 9922,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百六十五 梁纪二十一",
+          "anchor": "cha165_165",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=169",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=169"
+    },
+    {
+      "chapterUid": 170,
+      "chapterIdx": 170,
+      "title": "资治通鉴卷第一百六十六 梁纪二十二",
+      "level": 1,
+      "wordCount": 11067,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百六十六 梁纪二十二",
+          "anchor": "cha166_166",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=170",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=170"
+    },
+    {
+      "chapterUid": 171,
+      "chapterIdx": 171,
+      "title": "资治通鉴卷第一百六十七 陈纪一",
+      "level": 1,
+      "wordCount": 12035,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百六十七 陈纪一",
+          "anchor": "cha167_167",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=171",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=171"
+    },
+    {
+      "chapterUid": 172,
+      "chapterIdx": 172,
+      "title": "资治通鉴卷第一百六十八 陈纪二",
+      "level": 1,
+      "wordCount": 11613,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百六十八 陈纪二",
+          "anchor": "cha168_168",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=172",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=172"
+    },
+    {
+      "chapterUid": 173,
+      "chapterIdx": 173,
+      "title": "资治通鉴卷第一百六十九 陈纪三",
+      "level": 1,
+      "wordCount": 11636,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百六十九 陈纪三",
+          "anchor": "cha169_169",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=173",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=173"
+    },
+    {
+      "chapterUid": 174,
+      "chapterIdx": 174,
+      "title": "资治通鉴卷第一百七十 陈纪四",
+      "level": 1,
+      "wordCount": 12430,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百七十 陈纪四",
+          "anchor": "cha170_170",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=174",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=174"
+    },
+    {
+      "chapterUid": 175,
+      "chapterIdx": 175,
+      "title": "资治通鉴卷第一百七十一 陈纪五",
+      "level": 1,
+      "wordCount": 12142,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百七十一 陈纪五",
+          "anchor": "cha171_171",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=175",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=175"
+    },
+    {
+      "chapterUid": 176,
+      "chapterIdx": 176,
+      "title": "资治通鉴卷第一百七十二 陈纪六",
+      "level": 1,
+      "wordCount": 9215,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百七十二 陈纪六",
+          "anchor": "cha172_172",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=176",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=176"
+    },
+    {
+      "chapterUid": 177,
+      "chapterIdx": 177,
+      "title": "资治通鉴卷第一百七十三 陈纪七",
+      "level": 1,
+      "wordCount": 10438,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百七十三 陈纪七",
+          "anchor": "cha173_173",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=177",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=177"
+    },
+    {
+      "chapterUid": 178,
+      "chapterIdx": 178,
+      "title": "资治通鉴卷第一百七十四 陈纪八",
+      "level": 1,
+      "wordCount": 7789,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百七十四 陈纪八",
+          "anchor": "cha174_174",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=178",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=178"
+    },
+    {
+      "chapterUid": 179,
+      "chapterIdx": 179,
+      "title": "资治通鉴卷第一百七十五 陈纪九",
+      "level": 1,
+      "wordCount": 12108,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百七十五 陈纪九",
+          "anchor": "cha175_175",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=179",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=179"
+    },
+    {
+      "chapterUid": 180,
+      "chapterIdx": 180,
+      "title": "资治通鉴卷第一百七十六 陈纪十",
+      "level": 1,
+      "wordCount": 9773,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百七十六 陈纪十",
+          "anchor": "cha176_176",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=180",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=180"
+    },
+    {
+      "chapterUid": 181,
+      "chapterIdx": 181,
+      "title": "资治通鉴卷第一百七十七 隋纪一",
+      "level": 1,
+      "wordCount": 11413,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百七十七 隋纪一",
+          "anchor": "cha177_177",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=181",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=181"
+    },
+    {
+      "chapterUid": 182,
+      "chapterIdx": 182,
+      "title": "资治通鉴卷第一百七十八 隋纪二",
+      "level": 1,
+      "wordCount": 11544,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百七十八 隋纪二",
+          "anchor": "cha178_178",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=182",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=182"
+    },
+    {
+      "chapterUid": 183,
+      "chapterIdx": 183,
+      "title": "资治通鉴卷第一百七十九 隋纪三",
+      "level": 1,
+      "wordCount": 11378,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百七十九 隋纪三",
+          "anchor": "cha179_179",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=183",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=183"
+    },
+    {
+      "chapterUid": 184,
+      "chapterIdx": 184,
+      "title": "资治通鉴卷第一百八十 隋纪四",
+      "level": 1,
+      "wordCount": 11823,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百八十 隋纪四",
+          "anchor": "cha180_180",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=184",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=184"
+    },
+    {
+      "chapterUid": 185,
+      "chapterIdx": 185,
+      "title": "资治通鉴卷第一百八十一 隋纪五",
+      "level": 1,
+      "wordCount": 10846,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百八十一 隋纪五",
+          "anchor": "cha181_181",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=185",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=185"
+    },
+    {
+      "chapterUid": 186,
+      "chapterIdx": 186,
+      "title": "资治通鉴卷第一百八十二 隋纪六",
+      "level": 1,
+      "wordCount": 12031,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百八十二 隋纪六",
+          "anchor": "cha182_182",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=186",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=186"
+    },
+    {
+      "chapterUid": 187,
+      "chapterIdx": 187,
+      "title": "资治通鉴卷第一百八十三 隋纪七",
+      "level": 1,
+      "wordCount": 11919,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百八十三 隋纪七",
+          "anchor": "cha183_183",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=187",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=187"
+    },
+    {
+      "chapterUid": 188,
+      "chapterIdx": 188,
+      "title": "资治通鉴卷第一百八十四 隋纪八",
+      "level": 1,
+      "wordCount": 11608,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百八十四 隋纪八",
+          "anchor": "cha184_184",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=188",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=188"
+    },
+    {
+      "chapterUid": 189,
+      "chapterIdx": 189,
+      "title": "资治通鉴卷第一百八十五 唐纪一",
+      "level": 1,
+      "wordCount": 11950,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百八十五 唐纪一",
+          "anchor": "cha185_185",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=189",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=189"
+    },
+    {
+      "chapterUid": 190,
+      "chapterIdx": 190,
+      "title": "资治通鉴卷第一百八十六 唐纪二",
+      "level": 1,
+      "wordCount": 10674,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百八十六 唐纪二",
+          "anchor": "cha186_186",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=190",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=190"
+    },
+    {
+      "chapterUid": 191,
+      "chapterIdx": 191,
+      "title": "资治通鉴卷第一百八十七 唐纪三",
+      "level": 1,
+      "wordCount": 11857,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百八十七 唐纪三",
+          "anchor": "cha187_187",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=191",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=191"
+    },
+    {
+      "chapterUid": 192,
+      "chapterIdx": 192,
+      "title": "资治通鉴卷第一百八十八 唐纪四",
+      "level": 1,
+      "wordCount": 11000,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百八十八 唐纪四",
+          "anchor": "cha188_188",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=192",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=192"
+    },
+    {
+      "chapterUid": 193,
+      "chapterIdx": 193,
+      "title": "资治通鉴卷第一百八十九 唐纪五",
+      "level": 1,
+      "wordCount": 11788,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百八十九 唐纪五",
+          "anchor": "cha189_189",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=193",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=193"
+    },
+    {
+      "chapterUid": 194,
+      "chapterIdx": 194,
+      "title": "资治通鉴卷第一百九十 唐纪六",
+      "level": 1,
+      "wordCount": 11786,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百九十 唐纪六",
+          "anchor": "cha190_190",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=194",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=194"
+    },
+    {
+      "chapterUid": 195,
+      "chapterIdx": 195,
+      "title": "资治通鉴卷第一百九十一 唐纪七",
+      "level": 1,
+      "wordCount": 12106,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百九十一 唐纪七",
+          "anchor": "cha191_191",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=195",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=195"
+    },
+    {
+      "chapterUid": 196,
+      "chapterIdx": 196,
+      "title": "资治通鉴卷第一百九十二 唐纪八",
+      "level": 1,
+      "wordCount": 12215,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百九十二 唐纪八",
+          "anchor": "cha192_192",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=196",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=196"
+    },
+    {
+      "chapterUid": 197,
+      "chapterIdx": 197,
+      "title": "资治通鉴卷第一百九十三 唐纪九",
+      "level": 1,
+      "wordCount": 12360,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百九十三 唐纪九",
+          "anchor": "cha193_193",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=197",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=197"
+    },
+    {
+      "chapterUid": 198,
+      "chapterIdx": 198,
+      "title": "资治通鉴卷第一百九十四 唐纪十",
+      "level": 1,
+      "wordCount": 12255,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百九十四 唐纪十",
+          "anchor": "cha194_194",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=198",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=198"
+    },
+    {
+      "chapterUid": 199,
+      "chapterIdx": 199,
+      "title": "资治通鉴卷第一百九十五 唐纪十一",
+      "level": 1,
+      "wordCount": 11846,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百九十五 唐纪十一",
+          "anchor": "cha195_195",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=199",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=199"
+    },
+    {
+      "chapterUid": 200,
+      "chapterIdx": 200,
+      "title": "资治通鉴卷第一百九十六 唐纪十二",
+      "level": 1,
+      "wordCount": 11050,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百九十六 唐纪十二",
+          "anchor": "cha196_196",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=200",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=200"
+    },
+    {
+      "chapterUid": 201,
+      "chapterIdx": 201,
+      "title": "资治通鉴卷第一百九十七 唐纪十三",
+      "level": 1,
+      "wordCount": 11260,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百九十七 唐纪十三",
+          "anchor": "cha197_197",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=201",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=201"
+    },
+    {
+      "chapterUid": 202,
+      "chapterIdx": 202,
+      "title": "资治通鉴卷第一百九十八 唐纪十四",
+      "level": 1,
+      "wordCount": 11678,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百九十八 唐纪十四",
+          "anchor": "cha198_198",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=202",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=202"
+    },
+    {
+      "chapterUid": 203,
+      "chapterIdx": 203,
+      "title": "资治通鉴卷第一百九十九 唐纪十五",
+      "level": 1,
+      "wordCount": 12322,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第一百九十九 唐纪十五",
+          "anchor": "cha199_199",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=203",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=203"
+    },
+    {
+      "chapterUid": 204,
+      "chapterIdx": 204,
+      "title": "资治通鉴卷第二百 唐纪十六",
+      "level": 1,
+      "wordCount": 12040,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百 唐纪十六",
+          "anchor": "cha200_200",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=204",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=204"
+    },
+    {
+      "chapterUid": 205,
+      "chapterIdx": 205,
+      "title": "资治通鉴卷第二百一 唐纪十七",
+      "level": 1,
+      "wordCount": 12252,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百一 唐纪十七",
+          "anchor": "cha201_201",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=205",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=205"
+    },
+    {
+      "chapterUid": 206,
+      "chapterIdx": 206,
+      "title": "资治通鉴卷第二百二 唐纪十八",
+      "level": 1,
+      "wordCount": 12221,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百二 唐纪十八",
+          "anchor": "cha202_202",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=206",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=206"
+    },
+    {
+      "chapterUid": 207,
+      "chapterIdx": 207,
+      "title": "资治通鉴卷第二百三 唐纪十九",
+      "level": 1,
+      "wordCount": 12292,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百三 唐纪十九",
+          "anchor": "cha203_203",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=207",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=207"
+    },
+    {
+      "chapterUid": 208,
+      "chapterIdx": 208,
+      "title": "资治通鉴卷第二百四 唐纪二十",
+      "level": 1,
+      "wordCount": 11619,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百四 唐纪二十",
+          "anchor": "cha204_204",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=208",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=208"
+    },
+    {
+      "chapterUid": 209,
+      "chapterIdx": 209,
+      "title": "资治通鉴卷第二百五 唐纪二十一",
+      "level": 1,
+      "wordCount": 11273,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百五 唐纪二十一",
+          "anchor": "cha205_205",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=209",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=209"
+    },
+    {
+      "chapterUid": 210,
+      "chapterIdx": 210,
+      "title": "资治通鉴卷第二百六 唐纪二十二",
+      "level": 1,
+      "wordCount": 11614,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百六 唐纪二十二",
+          "anchor": "cha206_206",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=210",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=210"
+    },
+    {
+      "chapterUid": 211,
+      "chapterIdx": 211,
+      "title": "资治通鉴卷第二百七 唐纪二十三",
+      "level": 1,
+      "wordCount": 11687,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百七 唐纪二十三",
+          "anchor": "cha207_207",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=211",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=211"
+    },
+    {
+      "chapterUid": 212,
+      "chapterIdx": 212,
+      "title": "资治通鉴卷第二百八 唐纪二十四",
+      "level": 1,
+      "wordCount": 11702,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百八 唐纪二十四",
+          "anchor": "cha208_208",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=212",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=212"
+    },
+    {
+      "chapterUid": 213,
+      "chapterIdx": 213,
+      "title": "资治通鉴卷第二百九 唐纪二十五",
+      "level": 1,
+      "wordCount": 12041,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百九 唐纪二十五",
+          "anchor": "cha209_209",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=213",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=213"
+    },
+    {
+      "chapterUid": 214,
+      "chapterIdx": 214,
+      "title": "资治通鉴卷第二百一十 唐纪二十六",
+      "level": 1,
+      "wordCount": 12174,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百一十 唐纪二十六",
+          "anchor": "cha210_210",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=214",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=214"
+    },
+    {
+      "chapterUid": 215,
+      "chapterIdx": 215,
+      "title": "资治通鉴卷第二百一十一 唐纪二十七",
+      "level": 1,
+      "wordCount": 12289,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百一十一 唐纪二十七",
+          "anchor": "cha211_211",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=215",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=215"
+    },
+    {
+      "chapterUid": 216,
+      "chapterIdx": 216,
+      "title": "资治通鉴卷第二百一十二 唐纪二十八",
+      "level": 1,
+      "wordCount": 12385,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百一十二 唐纪二十八",
+          "anchor": "cha212_212",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=216",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=216"
+    },
+    {
+      "chapterUid": 217,
+      "chapterIdx": 217,
+      "title": "资治通鉴卷第二百一十三 唐纪二十九",
+      "level": 1,
+      "wordCount": 11260,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百一十三 唐纪二十九",
+          "anchor": "cha213_213",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=217",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=217"
+    },
+    {
+      "chapterUid": 218,
+      "chapterIdx": 218,
+      "title": "资治通鉴卷第二百一十四 唐纪三十",
+      "level": 1,
+      "wordCount": 12245,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百一十四 唐纪三十",
+          "anchor": "cha214_214",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=218",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=218"
+    },
+    {
+      "chapterUid": 219,
+      "chapterIdx": 219,
+      "title": "资治通鉴卷第二百一十五 唐纪三十一",
+      "level": 1,
+      "wordCount": 11903,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百一十五 唐纪三十一",
+          "anchor": "cha215_215",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=219",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=219"
+    },
+    {
+      "chapterUid": 220,
+      "chapterIdx": 220,
+      "title": "资治通鉴卷第二百一十六 唐纪三十二",
+      "level": 1,
+      "wordCount": 10964,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百一十六 唐纪三十二",
+          "anchor": "cha216_216",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=220",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=220"
+    },
+    {
+      "chapterUid": 221,
+      "chapterIdx": 221,
+      "title": "资治通鉴卷第二百一十七 唐纪三十三",
+      "level": 1,
+      "wordCount": 11009,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百一十七 唐纪三十三",
+          "anchor": "cha217_217",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=221",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=221"
+    },
+    {
+      "chapterUid": 222,
+      "chapterIdx": 222,
+      "title": "资治通鉴卷第二百一十八 唐纪三十四",
+      "level": 1,
+      "wordCount": 11982,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百一十八 唐纪三十四",
+          "anchor": "cha218_218",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=222",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=222"
+    },
+    {
+      "chapterUid": 223,
+      "chapterIdx": 223,
+      "title": "资治通鉴卷第二百一十九 唐纪三十五",
+      "level": 1,
+      "wordCount": 10313,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百一十九 唐纪三十五",
+          "anchor": "cha219_219",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=223",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=223"
+    },
+    {
+      "chapterUid": 224,
+      "chapterIdx": 224,
+      "title": "资治通鉴卷第二百二十 唐纪三十六",
+      "level": 1,
+      "wordCount": 11956,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百二十 唐纪三十六",
+          "anchor": "cha220_220",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=224",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=224"
+    },
+    {
+      "chapterUid": 225,
+      "chapterIdx": 225,
+      "title": "资治通鉴卷第二百二十一 唐纪三十七",
+      "level": 1,
+      "wordCount": 11585,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百二十一 唐纪三十七",
+          "anchor": "cha221_221",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=225",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=225"
+    },
+    {
+      "chapterUid": 226,
+      "chapterIdx": 226,
+      "title": "资治通鉴卷第二百二十二 唐纪三十八",
+      "level": 1,
+      "wordCount": 11627,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百二十二 唐纪三十八",
+          "anchor": "cha222_222",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=226",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=226"
+    },
+    {
+      "chapterUid": 227,
+      "chapterIdx": 227,
+      "title": "资治通鉴卷第二百二十三 唐纪三十九",
+      "level": 1,
+      "wordCount": 11819,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百二十三 唐纪三十九",
+          "anchor": "cha223_223",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=227",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=227"
+    },
+    {
+      "chapterUid": 228,
+      "chapterIdx": 228,
+      "title": "资治通鉴卷第二百二十四 唐纪四十",
+      "level": 1,
+      "wordCount": 12323,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百二十四 唐纪四十",
+          "anchor": "cha224_224",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=228",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=228"
+    },
+    {
+      "chapterUid": 229,
+      "chapterIdx": 229,
+      "title": "资治通鉴卷第二百二十五 唐纪四十一",
+      "level": 1,
+      "wordCount": 12258,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百二十五 唐纪四十一",
+          "anchor": "cha225_225",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=229",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=229"
+    },
+    {
+      "chapterUid": 230,
+      "chapterIdx": 230,
+      "title": "资治通鉴卷第二百二十六 唐纪四十二",
+      "level": 1,
+      "wordCount": 11730,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百二十六 唐纪四十二",
+          "anchor": "cha226_226",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=230",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=230"
+    },
+    {
+      "chapterUid": 231,
+      "chapterIdx": 231,
+      "title": "资治通鉴卷第二百二十七 唐纪四十三",
+      "level": 1,
+      "wordCount": 11527,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百二十七 唐纪四十三",
+          "anchor": "cha227_227",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=231",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=231"
+    },
+    {
+      "chapterUid": 232,
+      "chapterIdx": 232,
+      "title": "资治通鉴卷第二百二十八 唐纪四十四",
+      "level": 1,
+      "wordCount": 11020,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百二十八 唐纪四十四",
+          "anchor": "cha228_228",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=232",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=232"
+    },
+    {
+      "chapterUid": 233,
+      "chapterIdx": 233,
+      "title": "资治通鉴卷第二百二十九 唐纪四十五",
+      "level": 1,
+      "wordCount": 10151,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百二十九 唐纪四十五",
+          "anchor": "cha229_229",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=233",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=233"
+    },
+    {
+      "chapterUid": 234,
+      "chapterIdx": 234,
+      "title": "资治通鉴卷第二百三十 唐纪四十六",
+      "level": 1,
+      "wordCount": 9890,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百三十 唐纪四十六",
+          "anchor": "cha230_230",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=234",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=234"
+    },
+    {
+      "chapterUid": 235,
+      "chapterIdx": 235,
+      "title": "资治通鉴卷第二百三十一 唐纪四十七",
+      "level": 1,
+      "wordCount": 10450,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百三十一 唐纪四十七",
+          "anchor": "cha231_231",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=235",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=235"
+    },
+    {
+      "chapterUid": 236,
+      "chapterIdx": 236,
+      "title": "资治通鉴卷第二百三十二 唐纪四十八",
+      "level": 1,
+      "wordCount": 12074,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百三十二 唐纪四十八",
+          "anchor": "cha232_232",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=236",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=236"
+    },
+    {
+      "chapterUid": 237,
+      "chapterIdx": 237,
+      "title": "资治通鉴卷第二百三十三 唐纪四十九",
+      "level": 1,
+      "wordCount": 10477,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百三十三 唐纪四十九",
+          "anchor": "cha233_233",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=237",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=237"
+    },
+    {
+      "chapterUid": 238,
+      "chapterIdx": 238,
+      "title": "资治通鉴卷第二百三十四 唐纪五十",
+      "level": 1,
+      "wordCount": 12098,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百三十四 唐纪五十",
+          "anchor": "cha234_234",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=238",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=238"
+    },
+    {
+      "chapterUid": 239,
+      "chapterIdx": 239,
+      "title": "资治通鉴卷第二百三十五 唐纪五十一",
+      "level": 1,
+      "wordCount": 11597,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百三十五 唐纪五十一",
+          "anchor": "cha235_235",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=239",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=239"
+    },
+    {
+      "chapterUid": 240,
+      "chapterIdx": 240,
+      "title": "资治通鉴卷第二百三十六 唐纪五十二",
+      "level": 1,
+      "wordCount": 10055,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百三十六 唐纪五十二",
+          "anchor": "cha236_236",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=240",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=240"
+    },
+    {
+      "chapterUid": 241,
+      "chapterIdx": 241,
+      "title": "资治通鉴卷第二百三十七 唐纪五十三",
+      "level": 1,
+      "wordCount": 11448,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百三十七 唐纪五十三",
+          "anchor": "cha237_237",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=241",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=241"
+    },
+    {
+      "chapterUid": 242,
+      "chapterIdx": 242,
+      "title": "资治通鉴卷第二百三十八 唐纪五十四",
+      "level": 1,
+      "wordCount": 12268,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百三十八 唐纪五十四",
+          "anchor": "cha238_238",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=242",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=242"
+    },
+    {
+      "chapterUid": 243,
+      "chapterIdx": 243,
+      "title": "资治通鉴卷第二百三十九 唐纪五十五",
+      "level": 1,
+      "wordCount": 11675,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百三十九 唐纪五十五",
+          "anchor": "cha239_239",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=243",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=243"
+    },
+    {
+      "chapterUid": 244,
+      "chapterIdx": 244,
+      "title": "资治通鉴卷第二百四十 唐纪五十六",
+      "level": 1,
+      "wordCount": 10759,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百四十 唐纪五十六",
+          "anchor": "cha240_240",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=244",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=244"
+    },
+    {
+      "chapterUid": 245,
+      "chapterIdx": 245,
+      "title": "资治通鉴卷第二百四十一 唐纪五十七",
+      "level": 1,
+      "wordCount": 11290,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百四十一 唐纪五十七",
+          "anchor": "cha241_241",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=245",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=245"
+    },
+    {
+      "chapterUid": 246,
+      "chapterIdx": 246,
+      "title": "资治通鉴卷第二百四十二 唐纪五十八",
+      "level": 1,
+      "wordCount": 9779,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百四十二 唐纪五十八",
+          "anchor": "cha242_242",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=246",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=246"
+    },
+    {
+      "chapterUid": 247,
+      "chapterIdx": 247,
+      "title": "资治通鉴卷第二百四十三 唐纪五十九",
+      "level": 1,
+      "wordCount": 12427,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百四十三 唐纪五十九",
+          "anchor": "cha243_243",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=247",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=247"
+    },
+    {
+      "chapterUid": 248,
+      "chapterIdx": 248,
+      "title": "资治通鉴卷第二百四十四 唐纪六十",
+      "level": 1,
+      "wordCount": 11229,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百四十四 唐纪六十",
+          "anchor": "cha244_244",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=248",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=248"
+    },
+    {
+      "chapterUid": 249,
+      "chapterIdx": 249,
+      "title": "资治通鉴卷第二百四十五 唐纪六十一",
+      "level": 1,
+      "wordCount": 12059,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百四十五 唐纪六十一",
+          "anchor": "cha245_245",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=249",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=249"
+    },
+    {
+      "chapterUid": 250,
+      "chapterIdx": 250,
+      "title": "资治通鉴卷第二百四十六 唐纪六十二",
+      "level": 1,
+      "wordCount": 12305,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百四十六 唐纪六十二",
+          "anchor": "cha246_246",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=250",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=250"
+    },
+    {
+      "chapterUid": 251,
+      "chapterIdx": 251,
+      "title": "资治通鉴卷第二百四十七 唐纪六十三",
+      "level": 1,
+      "wordCount": 11468,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百四十七 唐纪六十三",
+          "anchor": "cha247_247",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=251",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=251"
+    },
+    {
+      "chapterUid": 252,
+      "chapterIdx": 252,
+      "title": "资治通鉴卷第二百四十八 唐纪六十四",
+      "level": 1,
+      "wordCount": 12316,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百四十八 唐纪六十四",
+          "anchor": "cha248_248",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=252",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=252"
+    },
+    {
+      "chapterUid": 253,
+      "chapterIdx": 253,
+      "title": "资治通鉴卷第二百四十九 唐纪六十五",
+      "level": 1,
+      "wordCount": 12134,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百四十九 唐纪六十五",
+          "anchor": "cha249_249",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=253",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=253"
+    },
+    {
+      "chapterUid": 254,
+      "chapterIdx": 254,
+      "title": "资治通鉴卷第二百五十 唐纪六十六",
+      "level": 1,
+      "wordCount": 11812,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百五十 唐纪六十六",
+          "anchor": "cha250_250",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=254",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=254"
+    },
+    {
+      "chapterUid": 255,
+      "chapterIdx": 255,
+      "title": "资治通鉴卷第二百五十一 唐纪六十七",
+      "level": 1,
+      "wordCount": 11148,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百五十一 唐纪六十七",
+          "anchor": "cha251_251",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=255",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=255"
+    },
+    {
+      "chapterUid": 256,
+      "chapterIdx": 256,
+      "title": "资治通鉴卷第二百五十二 唐纪六十八",
+      "level": 1,
+      "wordCount": 11698,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百五十二 唐纪六十八",
+          "anchor": "cha252_252",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=256",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=256"
+    },
+    {
+      "chapterUid": 257,
+      "chapterIdx": 257,
+      "title": "资治通鉴卷第二百五十三 唐纪六十九",
+      "level": 1,
+      "wordCount": 11101,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百五十三 唐纪六十九",
+          "anchor": "cha253_253",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=257",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=257"
+    },
+    {
+      "chapterUid": 258,
+      "chapterIdx": 258,
+      "title": "资治通鉴卷第二百五十四 唐纪七十",
+      "level": 1,
+      "wordCount": 11413,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百五十四 唐纪七十",
+          "anchor": "cha254_254",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=258",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=258"
+    },
+    {
+      "chapterUid": 259,
+      "chapterIdx": 259,
+      "title": "资治通鉴卷第二百五十五 唐纪七十一",
+      "level": 1,
+      "wordCount": 11491,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百五十五 唐纪七十一",
+          "anchor": "cha255_255",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=259",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=259"
+    },
+    {
+      "chapterUid": 260,
+      "chapterIdx": 260,
+      "title": "资治通鉴卷第二百五十六 唐纪七十二",
+      "level": 1,
+      "wordCount": 11339,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百五十六 唐纪七十二",
+          "anchor": "cha256_256",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=260",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=260"
+    },
+    {
+      "chapterUid": 261,
+      "chapterIdx": 261,
+      "title": "资治通鉴卷第二百五十七 唐纪七十三",
+      "level": 1,
+      "wordCount": 11326,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百五十七 唐纪七十三",
+          "anchor": "cha257_257",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=261",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=261"
+    },
+    {
+      "chapterUid": 262,
+      "chapterIdx": 262,
+      "title": "资治通鉴卷第二百五十八 唐纪七十四",
+      "level": 1,
+      "wordCount": 10864,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百五十八 唐纪七十四",
+          "anchor": "cha258_258",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=262",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=262"
+    },
+    {
+      "chapterUid": 263,
+      "chapterIdx": 263,
+      "title": "资治通鉴卷第二百五十九 唐纪七十五",
+      "level": 1,
+      "wordCount": 11912,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百五十九 唐纪七十五",
+          "anchor": "cha259_259",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=263",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=263"
+    },
+    {
+      "chapterUid": 264,
+      "chapterIdx": 264,
+      "title": "资治通鉴卷第二百六十 唐纪七十六",
+      "level": 1,
+      "wordCount": 11346,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百六十 唐纪七十六",
+          "anchor": "cha260_260",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=264",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=264"
+    },
+    {
+      "chapterUid": 265,
+      "chapterIdx": 265,
+      "title": "资治通鉴卷第二百六十一 唐纪七十七",
+      "level": 1,
+      "wordCount": 9839,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百六十一 唐纪七十七",
+          "anchor": "cha261_261",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=265",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=265"
+    },
+    {
+      "chapterUid": 266,
+      "chapterIdx": 266,
+      "title": "资治通鉴卷第二百六十二 唐纪七十八",
+      "level": 1,
+      "wordCount": 11180,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百六十二 唐纪七十八",
+          "anchor": "cha262_262",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=266",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=266"
+    },
+    {
+      "chapterUid": 267,
+      "chapterIdx": 267,
+      "title": "资治通鉴卷第二百六十三 唐纪七十九",
+      "level": 1,
+      "wordCount": 10566,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百六十三 唐纪七十九",
+          "anchor": "cha263_263",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=267",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=267"
+    },
+    {
+      "chapterUid": 268,
+      "chapterIdx": 268,
+      "title": "资治通鉴卷第二百六十四 唐纪八十",
+      "level": 1,
+      "wordCount": 8637,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百六十四 唐纪八十",
+          "anchor": "cha264_264",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=268",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=268"
+    },
+    {
+      "chapterUid": 269,
+      "chapterIdx": 269,
+      "title": "资治通鉴卷第二百六十五 唐纪八十一",
+      "level": 1,
+      "wordCount": 10206,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百六十五 唐纪八十一",
+          "anchor": "cha265_265",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=269",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=269"
+    },
+    {
+      "chapterUid": 270,
+      "chapterIdx": 270,
+      "title": "资治通鉴卷第二百六十六 后梁纪一",
+      "level": 1,
+      "wordCount": 11502,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百六十六 后梁纪一",
+          "anchor": "cha266_266",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=270",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=270"
+    },
+    {
+      "chapterUid": 271,
+      "chapterIdx": 271,
+      "title": "资治通鉴卷第二百六十七 后梁纪二",
+      "level": 1,
+      "wordCount": 11759,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百六十七 后梁纪二",
+          "anchor": "cha267_267",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=271",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=271"
+    },
+    {
+      "chapterUid": 272,
+      "chapterIdx": 272,
+      "title": "资治通鉴卷第二百六十八 后梁纪三",
+      "level": 1,
+      "wordCount": 11982,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百六十八 后梁纪三",
+          "anchor": "cha268_268",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=272",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=272"
+    },
+    {
+      "chapterUid": 273,
+      "chapterIdx": 273,
+      "title": "资治通鉴卷第二百六十九 后梁纪四",
+      "level": 1,
+      "wordCount": 12004,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百六十九 后梁纪四",
+          "anchor": "cha269_269",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=273",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=273"
+    },
+    {
+      "chapterUid": 274,
+      "chapterIdx": 274,
+      "title": "资治通鉴卷第二百七十 后梁纪五",
+      "level": 1,
+      "wordCount": 11993,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百七十 后梁纪五",
+          "anchor": "cha270_270",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=274",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=274"
+    },
+    {
+      "chapterUid": 275,
+      "chapterIdx": 275,
+      "title": "资治通鉴卷第二百七十一 后梁纪六",
+      "level": 1,
+      "wordCount": 9479,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百七十一 后梁纪六",
+          "anchor": "cha271_271",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=275",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=275"
+    },
+    {
+      "chapterUid": 276,
+      "chapterIdx": 276,
+      "title": "资治通鉴卷第二百七十二 后唐纪一",
+      "level": 1,
+      "wordCount": 11381,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百七十二 后唐纪一",
+          "anchor": "cha272_272",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=276",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=276"
+    },
+    {
+      "chapterUid": 277,
+      "chapterIdx": 277,
+      "title": "资治通鉴卷第二百七十三 后唐纪二",
+      "level": 1,
+      "wordCount": 11008,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百七十三 后唐纪二",
+          "anchor": "cha273_273",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=277",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=277"
+    },
+    {
+      "chapterUid": 278,
+      "chapterIdx": 278,
+      "title": "资治通鉴卷第二百七十四 后唐纪三",
+      "level": 1,
+      "wordCount": 11260,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百七十四 后唐纪三",
+          "anchor": "cha274_274",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=278",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=278"
+    },
+    {
+      "chapterUid": 279,
+      "chapterIdx": 279,
+      "title": "资治通鉴卷第二百七十五 后唐纪四",
+      "level": 1,
+      "wordCount": 9971,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百七十五 后唐纪四",
+          "anchor": "cha275_275",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=279",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=279"
+    },
+    {
+      "chapterUid": 280,
+      "chapterIdx": 280,
+      "title": "资治通鉴卷第二百七十六 后唐纪五",
+      "level": 1,
+      "wordCount": 9630,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百七十六 后唐纪五",
+          "anchor": "cha276_276",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=280",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=280"
+    },
+    {
+      "chapterUid": 281,
+      "chapterIdx": 281,
+      "title": "资治通鉴卷第二百七十七 后唐纪六",
+      "level": 1,
+      "wordCount": 11963,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百七十七 后唐纪六",
+          "anchor": "cha277_277",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=281",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=281"
+    },
+    {
+      "chapterUid": 282,
+      "chapterIdx": 282,
+      "title": "资治通鉴卷第二百七十八 后唐纪七",
+      "level": 1,
+      "wordCount": 9180,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百七十八 后唐纪七",
+          "anchor": "cha278_278",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=282",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=282"
+    },
+    {
+      "chapterUid": 283,
+      "chapterIdx": 283,
+      "title": "资治通鉴卷第二百七十九 后唐纪八",
+      "level": 1,
+      "wordCount": 11890,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百七十九 后唐纪八",
+          "anchor": "cha279_279",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=283",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=283"
+    },
+    {
+      "chapterUid": 284,
+      "chapterIdx": 284,
+      "title": "资治通鉴卷第二百八十 后晋纪一",
+      "level": 1,
+      "wordCount": 10539,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百八十 后晋纪一",
+          "anchor": "cha280_280",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=284",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=284"
+    },
+    {
+      "chapterUid": 285,
+      "chapterIdx": 285,
+      "title": "资治通鉴卷第二百八十一 后晋纪二",
+      "level": 1,
+      "wordCount": 9637,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百八十一 后晋纪二",
+          "anchor": "cha281_281",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=285",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=285"
+    },
+    {
+      "chapterUid": 286,
+      "chapterIdx": 286,
+      "title": "资治通鉴卷第二百八十二 后晋纪三",
+      "level": 1,
+      "wordCount": 12012,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百八十二 后晋纪三",
+          "anchor": "cha282_282",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=286",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=286"
+    },
+    {
+      "chapterUid": 287,
+      "chapterIdx": 287,
+      "title": "资治通鉴卷第二百八十三 后晋纪四",
+      "level": 1,
+      "wordCount": 10559,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百八十三 后晋纪四",
+          "anchor": "cha283_283",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=287",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=287"
+    },
+    {
+      "chapterUid": 288,
+      "chapterIdx": 288,
+      "title": "资治通鉴卷第二百八十四 后晋纪五",
+      "level": 1,
+      "wordCount": 10005,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百八十四 后晋纪五",
+          "anchor": "cha284_284",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=288",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=288"
+    },
+    {
+      "chapterUid": 289,
+      "chapterIdx": 289,
+      "title": "资治通鉴卷第二百八十五 后晋纪六",
+      "level": 1,
+      "wordCount": 9976,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百八十五 后晋纪六",
+          "anchor": "cha285_285",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=289",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=289"
+    },
+    {
+      "chapterUid": 290,
+      "chapterIdx": 290,
+      "title": "资治通鉴卷第二百八十六 后汉纪一",
+      "level": 1,
+      "wordCount": 10198,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百八十六 后汉纪一",
+          "anchor": "cha286_286",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=290",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=290"
+    },
+    {
+      "chapterUid": 291,
+      "chapterIdx": 291,
+      "title": "资治通鉴卷第二百八十七 后汉纪二",
+      "level": 1,
+      "wordCount": 9958,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百八十七 后汉纪二",
+          "anchor": "cha287_287",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=291",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=291"
+    },
+    {
+      "chapterUid": 292,
+      "chapterIdx": 292,
+      "title": "资治通鉴卷第二百八十八 后汉纪三",
+      "level": 1,
+      "wordCount": 10624,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百八十八 后汉纪三",
+          "anchor": "cha288_288",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=292",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=292"
+    },
+    {
+      "chapterUid": 293,
+      "chapterIdx": 293,
+      "title": "资治通鉴卷第二百八十九 后汉纪四",
+      "level": 1,
+      "wordCount": 10730,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百八十九 后汉纪四",
+          "anchor": "cha289_289",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=293",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=293"
+    },
+    {
+      "chapterUid": 294,
+      "chapterIdx": 294,
+      "title": "资治通鉴卷第二百九十 后周纪一",
+      "level": 1,
+      "wordCount": 11603,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百九十 后周纪一",
+          "anchor": "cha290_290",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=294",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=294"
+    },
+    {
+      "chapterUid": 295,
+      "chapterIdx": 295,
+      "title": "资治通鉴卷第二百九十一 后周纪二",
+      "level": 1,
+      "wordCount": 11288,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百九十一 后周纪二",
+          "anchor": "cha291_291",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=295",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=295"
+    },
+    {
+      "chapterUid": 296,
+      "chapterIdx": 296,
+      "title": "资治通鉴卷第二百九十二 后周纪三",
+      "level": 1,
+      "wordCount": 10087,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百九十二 后周纪三",
+          "anchor": "cha292_292",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=296",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=296"
+    },
+    {
+      "chapterUid": 297,
+      "chapterIdx": 297,
+      "title": "资治通鉴卷第二百九十三 后周纪四",
+      "level": 1,
+      "wordCount": 10726,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百九十三 后周纪四",
+          "anchor": "cha293_293",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=297",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=297"
+    },
+    {
+      "chapterUid": 298,
+      "chapterIdx": 298,
+      "title": "资治通鉴卷第二百九十四 后周纪五",
+      "level": 1,
+      "wordCount": 12029,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资治通鉴卷第二百九十四 后周纪五",
+          "anchor": "cha294_294",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300062705&chapterUid=298",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=298"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 14,
+      "chapterTitle": "资治通鉴卷第十 汉纪二",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300062705_14_27459-28202",
+          "range": "27459-28202",
+          "rangeStart": 27459,
+          "rangeEnd": 28202,
+          "markText": "项羽下梁地十馀城，闻成皋破，乃引兵还。汉军方围锺离昩于荥阳东，闻羽至，尽走险阻。羽亦军广武，与汉相守。数月，楚军食少。项王患之，乃为俎，置太公其上，告汉王曰：“今不急下，吾烹太公！”汉王曰：“吾与羽俱北面受命怀王，约为兄弟，吾翁即若翁；必欲烹而翁，幸分我一杯羹！”项王怒，欲杀之。项伯曰：“天下事未可知；且为天下者不顾家，虽杀之无益，只益祸耳！”项王从之。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1736334140,
+          "createTimeFormatted": "2025-01-08 19:02:20",
+          "chapterUid": 14,
+          "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=14&rangeStart=27459&rangeEnd=28202",
+          "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=14&rangeStart=27459&rangeEnd=28202"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300062705_14_28255-28444",
+          "range": "28255-28444",
+          "rangeStart": 28255,
+          "rangeEnd": 28444,
+          "markText": "项王谓汉王曰：“天下匈匈数岁者，徒以吾两人耳。愿与汉王挑战，决雌雄，毋徒苦天下之民父子为也！”汉王笑谢曰：“吾宁斗智，不能斗力。”",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1736334125,
+          "createTimeFormatted": "2025-01-08 19:02:05",
+          "chapterUid": 14,
+          "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=14&rangeStart=28255&rangeEnd=28444",
+          "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=14&rangeStart=28255&rangeEnd=28444"
+        }
+      ]
+    },
+    {
+      "chapterUid": 223,
+      "chapterTitle": "资治通鉴卷第二百一十九 唐纪三十五",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_82E4OWcVc",
+          "range": "10889-12254",
+          "chapterName": "资治通鉴卷第二百一十九 唐纪三十五",
+          "content": "唐肃宗问李泌：“现在敌人如此强大，什么时候能平定？”李泌回答说：“我观察叛军所获得的子女和金银财宝，都运送到范阳（安禄山的老巢），这难道有雄据天下的志向吗？现在只有胡人将领（如史思明等）可能被他所用，中原人只有高尚等少数几人，其余都是被胁迫跟随的。以我的估计，不过两年时间，天下就没有贼寇了。”肃宗问：“为什么？”李泌说：“叛军的骁勇将领，不过史思明、安守忠、田乾真、张忠志、阿史那承庆等几个人而已。现在如果命令李光弼从太原出井陉，郭子仪从冯翊进入河东，那么史思明和张忠志不敢离开范阳和常山（今河北正定），安守忠和田乾真不敢离开长安，这样两支军队就牵制了叛军的四个主要将领。跟随安禄山的，只有阿史那承庆一人。希望陛下命令郭子仪不要攻取华阴（今陕西华阴），让两京（长安和洛阳）之间的道路保持畅通。陛下率领征调的军队驻扎在扶风（今陕西凤翔），与郭子仪、李光弼互相出击。叛军救援首尾时，就攻击他们的尾部或首部，使叛军在数千里范围内疲于奔命。我们以逸待劳，叛军来时就避开他们的锋芒，他们退去时就乘机攻击他们的弱点，不攻城，不堵路。明年春天，再命令建宁王（李倓）担任范阳节度大使，从塞北（长城以北）出击，与李光弼南北夹击，夺取范阳，摧毁叛军的老巢。叛军退无去路，留则不得安宁，然后大军四面合围攻击，必定擒获他们。”肃宗听了很高兴。\n这段对话发生在安史之乱（755-763年）期间，具体是至德元载（756年），唐肃宗在灵武（今宁夏灵武）即位后，向谋士李泌询问平定叛军的时机。",
+          "abstract": "上问李泌曰：“今敌强如此，何时可定？”对曰：“臣观贼所获子女金帛，皆输之范阳，此岂有雄据四海之志邪！今独虏将或为之用，中国之人惟高尚等数人，自馀皆胁从耳。以臣料之，不过二年，天下无寇矣。”上曰：“何故？”对曰：“贼之骁将，不过史思明、安守忠、田乾真、张忠志、阿史那承庆等数人而已。今若令李光弼自太原出井陉，郭子仪自冯翊入河东，则思明、忠志不敢离范阳、常山，守忠、乾真不敢离长安，是以两军絷其四将也，从禄山者，独承庆耳。愿敕子仪勿取华阴，使两京之道常通，陛下以所征之兵军于扶风，与子仪、光弼互出击之，彼救首则击其尾，救尾则击其首，使贼往来数千里，疲于奔命，我常以逸待劳，贼至则避其锋，去则乘其弊，不攻城，不遏路。来春复命建宁为范阳节度大使，并塞北出，与光弼南北掎角以取范阳，覆其巢穴。贼退则无所归，留则不获安，然后大军四合而攻之，必成擒矣。”上悦。",
+          "star": -1,
+          "createTime": 1756040501,
+          "createTimeFormatted": "2025-08-24 21:01:41",
+          "isFinish": false,
+          "chapterUid": 223
+        }
+      ]
+    },
+    {
+      "chapterUid": 87,
+      "chapterTitle": "资治通鉴卷第八十三 晋纪五",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7XJckb0Jx",
+          "range": "9579-9603",
+          "chapterName": "",
+          "content": "晋惠帝\n司马衷（259年－307年1月8日），字正度，河内郡温县（今河南省温县）人。西晋第二位皇帝（290年5月16日—307年1月8日在位），晋武帝司马炎嫡次子，母为武元皇后杨艳。",
+          "abstract": "时天下荒馑，百姓饿死，帝闻之曰：“何不食肉糜？”",
+          "star": -1,
+          "createTime": 1738723304,
+          "createTimeFormatted": "2025-02-05 10:41:44",
+          "isFinish": false,
+          "chapterUid": 87
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7XJca3f2h",
+          "range": "9517-9519",
+          "chapterName": "",
+          "content": "zhuànɡ ái\n痴呆。",
+          "abstract": "戆騃",
+          "star": -1,
+          "createTime": 1738723154,
+          "createTimeFormatted": "2025-02-05 10:39:14",
+          "isFinish": false,
+          "chapterUid": 87
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300062705_5_2223-2290",
+      "chapterUid": 5,
+      "range": "2223-2290",
+      "markText": "夫事未有不生于微而成于著，圣人之虑远，故能谨其微而治之，众人之识近，故必待其著而后救之；治其微则用力寡而功多，救其著则竭力而不能及也。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=5&rangeStart=2223&rangeEnd=2290",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=5&rangeStart=2223&rangeEnd=2290"
+    },
+    {
+      "bookmarkId": "3300062705_6_19709-19848",
+      "chapterUid": 6,
+      "range": "19709-19848",
+      "markText": "公子卬以为然，乃相与会；盟已，饮，而卫鞅伏甲士，袭虏公子卬，因攻魏师，大破之。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=6&rangeStart=19709&rangeEnd=19848",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=6&rangeStart=19709&rangeEnd=19848"
+    },
+    {
+      "bookmarkId": "3300062705_5_4106-4159",
+      "chapterUid": 5,
+      "range": "4106-4159",
+      "markText": "乌呼！君臣之礼既坏矣，则天下以智力相雄长，遂使圣贤之后为诸侯者，社稷无不泯绝，生民之类糜灭几尽，岂不哀哉！",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=5&rangeStart=4106&rangeEnd=4159",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=5&rangeStart=4106&rangeEnd=4159"
+    },
+    {
+      "bookmarkId": "3300062705_5_615-756",
+      "chapterUid": 5,
+      "range": "615-756",
+      "markText": "初命晋大夫魏斯、赵籍、韩虔为诸侯。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=5&rangeStart=615&rangeEnd=756",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=5&rangeStart=615&rangeEnd=756"
+    },
+    {
+      "bookmarkId": "3300062705_14_9668-9849",
+      "chapterUid": 14,
+      "range": "9668-9849",
+      "markText": "汉王方踞床洗足，召布入见。布大怒，悔来，欲自杀；及出就舍，帐御、饮食、从官皆如汉王居，布又大喜过望。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=14&rangeStart=9668&rangeEnd=9849",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=14&rangeStart=9668&rangeEnd=9849"
+    },
+    {
+      "bookmarkId": "3300062705_5_13660-14124",
+      "chapterUid": 5,
+      "range": "13660-14124",
+      "markText": "韩借师于魏以伐赵，文侯曰：“寡人与赵，兄弟也，不敢闻命。”赵借师于魏以伐韩，文侯应之亦然。二国皆怒而去。已而知文侯以讲于己也，皆朝于魏。魏于是始大于三晋，诸侯莫能与之争。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=5&rangeStart=13660&rangeEnd=14124",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=5&rangeStart=13660&rangeEnd=14124"
+    },
+    {
+      "bookmarkId": "3300062705_5_21303-21518",
+      "chapterUid": 5,
+      "range": "21303-21518",
+      "markText": "其姊嫈闻而往，哭之曰：“是轵深井里聂政也！以妾尚在之故，重自刑以绝从。妾奈何畏殁身之诛，终灭贤弟之名！”遂死于政尸之旁。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=5&rangeStart=21303&rangeEnd=21518",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=5&rangeStart=21303&rangeEnd=21518"
+    },
+    {
+      "bookmarkId": "3300062705_5_36063-36196",
+      "chapterUid": 5,
+      "range": "36063-36196",
+      "markText": "齐威王来朝。是时周室微弱，诸侯莫朝，而齐独朝之，天下以此益贤威王。",
+      "totalCount": 135,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=5&rangeStart=36063&rangeEnd=36196",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=5&rangeStart=36063&rangeEnd=36196"
+    },
+    {
+      "bookmarkId": "3300062705_5_785-877",
+      "chapterUid": 5,
+      "range": "785-877",
+      "markText": "臣光曰：臣闻天子之职莫大于礼，礼莫大于分，分莫大于名。何谓礼？纪纲是也。何谓分？君、臣是也。何谓名？公、侯、卿、大夫是也。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=5&rangeStart=785&rangeEnd=877",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=5&rangeStart=785&rangeEnd=877"
+    },
+    {
+      "bookmarkId": "3300062705_8_6622-6844",
+      "chapterUid": 8,
+      "range": "6622-6844",
+      "markText": "败魏师、韩师于伊阙，斩首二十四万级，虏公孙喜，拔五城。秦王以白起为国尉。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=8&rangeStart=6622&rangeEnd=6844",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=8&rangeStart=6622&rangeEnd=6844"
+    },
+    {
+      "bookmarkId": "3300062705_11_5713-5894",
+      "chapterUid": 11,
+      "range": "5713-5894",
+      "markText": "臣光曰：燕丹不胜一朝之忿以犯虎狼之秦，轻虑浅谋，挑怨速祸，使召公之庙不祀忽诸，罪孰大焉！而论者或谓之贤，岂不过哉！",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=11&rangeStart=5713&rangeEnd=5894",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=11&rangeStart=5713&rangeEnd=5894"
+    },
+    {
+      "bookmarkId": "3300062705_6_5817-5892",
+      "chapterUid": 6,
+      "range": "5817-5892",
+      "markText": "令既具未布，恐民之不信，乃立三丈之木于国都市南门，募民有能徙置北门者予十金。民怪之，莫敢徙。复曰：“能徙者予五十金！”有一人徙之，辄予五十金。乃下令。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=6&rangeStart=5817&rangeEnd=5892",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=6&rangeStart=5817&rangeEnd=5892"
+    },
+    {
+      "bookmarkId": "3300062705_5_994-1045",
+      "chapterUid": 5,
+      "range": "994-1045",
+      "markText": "上之使下犹心腹之运手足，根本之制支叶，下之事上犹手足之卫心腹，支叶之庇本根，然后能上下相保而国家治安。",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=5&rangeStart=994&rangeEnd=1045",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=5&rangeStart=994&rangeEnd=1045"
+    },
+    {
+      "bookmarkId": "3300062705_5_15772-15811",
+      "chapterUid": 5,
+      "range": "15772-15811",
+      "markText": "居视其所亲，富视其所与，达视其所举，穷视其所不为，贫视其所不取，五者足以定之矣",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=5&rangeStart=15772&rangeEnd=15811",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=5&rangeStart=15772&rangeEnd=15811"
+    },
+    {
+      "bookmarkId": "3300062705_13_3289-3712",
+      "chapterUid": 13,
+      "range": "3289-3712",
+      "markText": "项羽召黥布、蒲将军计曰：“秦吏卒尚众，其心不服；至关不听，事必危。不如击杀之，而独与章邯、长史欣、都尉翳入秦。”于是楚军夜击坑秦卒二十馀万人新安城南。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=13&rangeStart=3289&rangeEnd=3712",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=13&rangeStart=3289&rangeEnd=3712"
+    },
+    {
+      "bookmarkId": "3300062705_5_27444-27715",
+      "chapterUid": 5,
+      "range": "27444-27715",
+      "markText": "起明法审令，捐不急之官，废公族疏远者，以抚养战斗之士，要在强兵，破游说之言从横者。于是南平百越，北却三晋，西伐秦，诸侯皆患楚之强；而楚之贵戚大臣多怨吴起者。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=5&rangeStart=27444&rangeEnd=27715",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=5&rangeStart=27444&rangeEnd=27715"
+    },
+    {
+      "bookmarkId": "3300062705_7_22217-22503",
+      "chapterUid": 7,
+      "range": "22217-22503",
+      "markText": "张仪归报，未至咸阳，秦惠王薨，子武王立。武王自为太子时，不说张仪；及即位，群臣多毁短之。诸侯闻仪与秦王有隙，皆畔衡，复合从。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=7&rangeStart=22217&rangeEnd=22503",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=7&rangeStart=22217&rangeEnd=22503"
+    },
+    {
+      "bookmarkId": "3300062705_16_38132-38307",
+      "chapterUid": 16,
+      "range": "38132-38307",
+      "markText": "臣光曰：为人子者，父母有过则谏；谏而不听，则号泣而随之。安有守高祖之业，为天下之主，不忍母之残酷，遂弃国家而不恤，纵酒色以伤生！若孝惠者，可谓笃于小仁而未知大谊也。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=16&rangeStart=38132&rangeEnd=38307",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=16&rangeStart=38132&rangeEnd=38307"
+    },
+    {
+      "bookmarkId": "3300062705_5_6654-6674",
+      "chapterUid": 5,
+      "range": "6654-6674",
+      "markText": "将欲败之，必姑辅之。将欲取之，必姑与之。",
+      "totalCount": 99,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=5&rangeStart=6654&rangeEnd=6674",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=5&rangeStart=6654&rangeEnd=6674"
+    },
+    {
+      "bookmarkId": "3300062705_5_4366-4443",
+      "chapterUid": 5,
+      "range": "4366-4443",
+      "markText": "瑶之贤于人者五，其不逮者一也。美鬓长大则贤，射御足力则贤，伎艺毕给则贤，巧文辩惠则贤，强毅果敢则贤；如是而甚不仁。夫以其五贤陵人而以不仁行之，其谁能待之？",
+      "totalCount": 98,
+      "appLink": "weread://bestbookmark?bookId=3300062705&chapterUid=5&rangeStart=4366&rangeEnd=4443",
+      "webLink": "https://weread.qq.com/web/reader/33732800813ab7efeg015f16?chapterUid=5&rangeStart=4366&rangeEnd=4443"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 5,
+    "chapterOffset": 26618,
+    "progress": 0,
+    "updateTime": 1773143771,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

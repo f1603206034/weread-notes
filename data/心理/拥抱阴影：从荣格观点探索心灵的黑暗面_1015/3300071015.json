@@ -1,0 +1,686 @@
+{
+  "meta": {
+    "bookId": "3300071015",
+    "title": "拥抱阴影：从荣格观点探索心灵的黑暗面",
+    "author": "罗伯特·约翰逊",
+    "translator": "徐晓珮",
+    "cover": "https://cdn.weread.qq.com/weread/cover/47/cpplatform_oe4jzpdulmdaq2jbcsbwir/t6_cpplatform_oe4jzpdulmdaq2jbcsbwir1694655746.jpg",
+    "intro": "你是否无法接受自己的缺点、弱点、自私、肮脏、仇恨？\n你是否对自己很严苛，不允许自己犯错？\n……\n人人内心皆有阴影。绝大多数你不想、不愿、不敢直面的内心部分是阴影所在。\n本书让我们知道，阴影是自我的一部分，更是让生命更具活力的源头。只有勇敢地面对，才能驾驭。\n从认识、忍受到拥抱阴影，这是一场将内心的光明与黑暗相结合，并在黑暗中寻找黄金的奇妙旅程！",
+    "category": "心理-认知与行为",
+    "publisher": "华龄出版社",
+    "publishTime": "2023-08-01 00:00:00",
+    "isbn": "9787516925577",
+    "wordCount": 0,
+    "newRating": 800,
+    "newRatingCount": 192,
+    "newRatingDetail": {
+      "good": 150,
+      "fair": 37,
+      "poor": 5,
+      "recent": 4,
+      "deepV": 83,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300071015",
+    "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61",
+    "lastSync": "2026-05-21T11:55:49Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 443,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "推荐序一 本来无一物：阅读《拥抱阴影》",
+      "level": 1,
+      "wordCount": 3758,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "阴影的前身：情结",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "二元对立：情结到阴影",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "阴影的破与立",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "暗里灵光",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        },
+        {
+          "title": "天堂有门，地狱是路",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "推荐序二 拥抱阴影",
+      "level": 1,
+      "wordCount": 3568,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "阴影工作即个体化",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        },
+        {
+          "title": "从对立走向相对",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "阴影工作的圣与俗",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "阴影的处理方法与原则",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "结语",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "导读 修行始于接纳阴影",
+      "level": 1,
+      "wordCount": 10567,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "导言",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        },
+        {
+          "title": "本书内容简要总结和评述",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        },
+        {
+          "title": "阴影整合的扩展学习资料简评",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        },
+        {
+          "title": "结语",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "导论",
+      "level": 1,
+      "wordCount": 1004,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第一章 阴影",
+      "level": 1,
+      "wordCount": 188,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "阴影的起源",
+      "level": 2,
+      "wordCount": 2133,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "平衡文化与阴影",
+      "level": 2,
+      "wordCount": 6983,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "投射的阴影",
+      "level": 2,
+      "wordCount": 4040,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "阴影中的黄金",
+      "level": 2,
+      "wordCount": 2147,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "中年的阴影",
+      "level": 2,
+      "wordCount": 1303,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "仪式的世界",
+      "level": 2,
+      "wordCount": 1993,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第二章 浪漫爱情化身阴影",
+      "level": 1,
+      "wordCount": 462,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "投射神的形象",
+      "level": 2,
+      "wordCount": 2169,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "浪漫主义的个人经验",
+      "level": 2,
+      "wordCount": 1936,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "宗教经验中似非而是的悖论",
+      "level": 2,
+      "wordCount": 4057,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "悖论的奇迹",
+      "level": 2,
+      "wordCount": 1202,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "爱与权力的悖论",
+      "level": 2,
+      "wordCount": 607,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "阴影是通往悖论的入口",
+      "level": 2,
+      "wordCount": 1631,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第三章 灵光",
+      "level": 1,
+      "wordCount": 780,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "灵光的疗愈本质",
+      "level": 2,
+      "wordCount": 787,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "语言也是灵光",
+      "level": 2,
+      "wordCount": 4023,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "灵光的人性层面",
+      "level": 2,
+      "wordCount": 1024,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "知识铺垫",
+      "level": 1,
+      "wordCount": 1337,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "分析心理学",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        },
+        {
+          "title": "意识、个人无意识、集体无意识",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        },
+        {
+          "title": "原型",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        },
+        {
+          "title": "人格面具",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        },
+        {
+          "title": "阿尼玛和阿尼姆斯",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        },
+        {
+          "title": "阴影",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        },
+        {
+          "title": "自性",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300071015&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=25"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 18,
+      "chapterTitle": "悖论的奇迹",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300071015_18_522-542",
+          "range": "522-542",
+          "rangeStart": 522,
+          "rangeEnd": 542,
+          "markText": "现代人浪费了巨大的能量来对抗自己的状态。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1726014172,
+          "createTimeFormatted": "2024-09-11 08:22:52",
+          "chapterUid": 18,
+          "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=18&rangeStart=522&rangeEnd=542",
+          "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=18&rangeStart=522&rangeEnd=542"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300071015_10_4361-4388",
+      "chapterUid": 10,
+      "range": "4361-4388",
+      "markText": "这个故事表达的是等待的力量，等待其他人的阴影投射结束。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=10&rangeStart=4361&rangeEnd=4388",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=10&rangeStart=4361&rangeEnd=4388"
+    },
+    {
+      "bookmarkId": "3300071015_8_1776-1823",
+      "chapterUid": 8,
+      "range": "1776-1823",
+      "markText": "我们的人格中一些纯粹而珍贵的部分会归入阴影之中，这是因为在文化的衡量架构下，它们无处可以容身。",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=8&rangeStart=1776&rangeEnd=1823",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=8&rangeStart=1776&rangeEnd=1823"
+    },
+    {
+      "bookmarkId": "3300071015_10_4650-4735",
+      "chapterUid": 10,
+      "range": "4650-4735",
+      "markText": "我们得到的建议，是去爱我们的敌人。但如果内在的敌人，也就是自身的阴影，正等着扑过来火上加油，那就实在不可能。只有当我们学习去爱内在的敌人时，才有机会去爱并救赎外在的敌人。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=10&rangeStart=4650&rangeEnd=4735",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=10&rangeStart=4650&rangeEnd=4735"
+    },
+    {
+      "bookmarkId": "3300071015_3_1836-1915",
+      "chapterUid": 3,
+      "range": "1836-1915",
+      "markText": "荣格认为，人是情结的复合体，基本上，心灵就是由各种不同情结所构成的。而形成情结的原因，要追究到阴影。阴影先于情结存在，于情结背后担任主导的角色，两者皆属原型。",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=3&rangeStart=1836&rangeEnd=1915",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=3&rangeStart=1836&rangeEnd=1915"
+    },
+    {
+      "bookmarkId": "3300071015_4_1959-2042",
+      "chapterUid": 4,
+      "range": "1959-2042",
+      "markText": "那些不愿在自身处理阴影的人，就会将内心的黑暗丢给外界、丢给他人。阴影最容易在我们的家人、同事与朋友的身上找着。那些本该由我们承担的一切，成为了他们身上固有的邪恶特质。",
+      "totalCount": 132,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=4&rangeStart=1959&rangeEnd=2042",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=4&rangeStart=1959&rangeEnd=2042"
+    },
+    {
+      "bookmarkId": "3300071015_18_1359-1423",
+      "chapterUid": 18,
+      "range": "1359-1423",
+      "markText": "赢很好，输也很好；拥有很好，分给他人也很好；自由很好，服从权威也很好。从悖论的角度检视生活中的元素，便是打开一连串全新的可能性。",
+      "totalCount": 130,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=18&rangeStart=1359&rangeEnd=1423",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=18&rangeStart=1359&rangeEnd=1423"
+    },
+    {
+      "bookmarkId": "3300071015_15_1017-1100",
+      "chapterUid": 15,
+      "range": "1017-1100",
+      "markText": "当恋爱的投射耗尽，另一边的现实，以及人际交流中最为黑暗的可能性，就会取而代之。如果我们能够熬过这个阶段，便能够拥有人类之爱，虽然比神圣之爱来得不那么刺激，但稳定得多。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=15&rangeStart=1017&rangeEnd=1100",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=15&rangeStart=1017&rangeEnd=1100"
+    },
+    {
+      "bookmarkId": "3300071015_8_2944-3008",
+      "chapterUid": 8,
+      "range": "2944-3008",
+      "markText": "也许有人会抱怨，这只是毫无意义地绕了一圈回到原点而已，唯一的差别就是最后的整体性是有意识的，而一开始的整体性则是无意识且幼稚的。",
+      "totalCount": 110,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=8&rangeStart=2944&rangeEnd=3008",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=8&rangeStart=2944&rangeEnd=3008"
+    },
+    {
+      "bookmarkId": "3300071015_10_5272-5323",
+      "chapterUid": 10,
+      "range": "5272-5323",
+      "markText": "自我的救赎只有在阴影的救赎能够相匹敌时才可能发生。阴影被拉到意识层面之后，会变得较为柔软、弹性、温和。",
+      "totalCount": 110,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=10&rangeStart=5272&rangeEnd=5323",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=10&rangeStart=5272&rangeEnd=5323"
+    },
+    {
+      "bookmarkId": "3300071015_15_686-763",
+      "chapterUid": 15,
+      "range": "686-763",
+      "markText": "通常情况下，不会有人注意到，恋爱其实磨灭了所爱之人的人性。与人相恋，其实是用一种奇特的方式在侮辱对方，因为我们眼中看到的是自己对神的投射，而不是对方本身。",
+      "totalCount": 110,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=15&rangeStart=686&rangeEnd=763",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=15&rangeStart=686&rangeEnd=763"
+    },
+    {
+      "bookmarkId": "3300071015_10_2940-3025",
+      "chapterUid": 10,
+      "range": "2940-3025",
+      "markText": "如果你的阴影就像瓦斯罐一样，只等着火柴掉进去，那么任何想要刺激你的人都很容易让你成为箭靶。若想拒绝他人的阴影，最好的做法是，不需要反击，而是要像优秀的斗牛士闪过公牛一样。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=10&rangeStart=2940&rangeEnd=3025",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=10&rangeStart=2940&rangeEnd=3025"
+    },
+    {
+      "bookmarkId": "3300071015_9_5964-6011",
+      "chapterUid": 9,
+      "range": "5964-6011",
+      "markText": "但是，如果我逃避阴影，任它留在无意识层面，不用智慧的方式去处理，之后还是会付出糟糕至极的代价。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=9&rangeStart=5964&rangeEnd=6011",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=9&rangeStart=5964&rangeEnd=6011"
+    },
+    {
+      "bookmarkId": "3300071015_23_1696-1764",
+      "chapterUid": 23,
+      "range": "1696-1764",
+      "markText": "让对方好好讲话，不要用自己的想法去干扰他的言谈，就是送给对方一份珍贵的礼物。只要拥有正确的容器，我们就能用言语创造出灵光，治疗许多事物。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=23&rangeStart=1696&rangeEnd=1764",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=23&rangeStart=1696&rangeEnd=1764"
+    },
+    {
+      "bookmarkId": "3300071015_8_2802-2874",
+      "chapterUid": 8,
+      "range": "2802-2874",
+      "markText": "阴影必须存在，不然文化就不会诞生；然后，我们必须恢复那些在标准的文化理想中失去的人格整体性，否则就会活在一种分离状态中，让进化的路途愈走愈痛苦。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=8&rangeStart=2802&rangeEnd=2874",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=8&rangeStart=2802&rangeEnd=2874"
+    },
+    {
+      "bookmarkId": "3300071015_16_1704-1742",
+      "chapterUid": 16,
+      "range": "1704-1742",
+      "markText": "这是一个普通人决定把超越个人的伟大力量归还大地，而不纳入自己内心世界的故事。",
+      "totalCount": 91,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=16&rangeStart=1704&rangeEnd=1742",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=16&rangeStart=1704&rangeEnd=1742"
+    },
+    {
+      "bookmarkId": "3300071015_10_1097-1135",
+      "chapterUid": 10,
+      "range": "1097-1135",
+      "markText": "每个群体都会无意识地设定其中一名成员作为代罪羔羊，让他背负起整个群体的黑暗，",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=10&rangeStart=1097&rangeEnd=1135",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=10&rangeStart=1097&rangeEnd=1135"
+    },
+    {
+      "bookmarkId": "3300071015_10_2206-2275",
+      "chapterUid": 10,
+      "range": "2206-2275",
+      "markText": "如果你想送给孩子最棒的礼物，让他们以最佳的方式展开人生，那么就把你的阴影从他们身上移走。从心理层面来说，给予他们干净的血脉，是最棒的资产。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=10&rangeStart=2206&rangeEnd=2275",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=10&rangeStart=2206&rangeEnd=2275"
+    },
+    {
+      "bookmarkId": "3300071015_10_3834-3865",
+      "chapterUid": 10,
+      "range": "3834-3865",
+      "markText": "他说我们应该到天堂寻找形式，到地狱寻找能量，然后将这两者结合。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=10&rangeStart=3834&rangeEnd=3865",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=10&rangeStart=3834&rangeEnd=3865"
+    },
+    {
+      "bookmarkId": "3300071015_10_4536-4581",
+      "chapterUid": 10,
+      "range": "4536-4581",
+      "markText": "我们只有在一定程度上内化、掌控了阴影，并且没有任何报复的意图与想法，才有可能达到这种境界。",
+      "totalCount": 88,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=10&rangeStart=4536&rangeEnd=4581",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=10&rangeStart=4536&rangeEnd=4581"
+    },
+    {
+      "bookmarkId": "3300071015_15_2848-2927",
+      "chapterUid": 15,
+      "range": "2848-2927",
+      "markText": "一般人无法熬过一万伏特的冲击，但我们的文化规定所有的婚姻都要以一万伏特的经验为基础。婚姻能够持续，是因为双方都降到一百一十伏特的人类层面，并学会了相爱的艺术。",
+      "totalCount": 88,
+      "appLink": "weread://bestbookmark?bookId=3300071015&chapterUid=15&rangeStart=2848&rangeEnd=2927",
+      "webLink": "https://weread.qq.com/web/reader/16c32b70813ab823dg015b61?chapterUid=15&rangeStart=2848&rangeEnd=2927"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

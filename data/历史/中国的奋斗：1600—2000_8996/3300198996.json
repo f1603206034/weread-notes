@@ -1,0 +1,1789 @@
+{
+  "meta": {
+    "bookId": "3300198996",
+    "title": "中国的奋斗：1600—2000",
+    "author": "[美]徐中约",
+    "translator": "朱庆葆 计秋枫",
+    "cover": "https://cdn.weread.qq.com/weread/cover/71/cpplatform_dvpnkwaegebsttggmovl4a/t6_cpplatform_dvpnkwaegebsttggmovl4a1774002962.jpg",
+    "intro": "本书自清朝立国起，下迄21世纪，缕述四百年来中国近代社会之巨变。作者明确指出，这段艰难的历程并非如大多数西方汉学家所言，是一段西方因素不断输入而中国仅仅被动回应的历史。从政府的政策和制度、反对外来因素的民族抗争，以及在新的天地里寻求一条求生之道等线索，作者细致描摹了近代中国内部社会的动荡和发展的重要动力，向世界讲述了一个古老的儒家帝国历经艰难险阻，蜕变为一个近代民族国家的历史。\r\n作者虽身处欧美学界，但通过本书表达的是以中国人的身份对近代中国发展进程的看法，这种表达不属于任何一家学说、一种主义，是一种折衷调和的历史观。徐中约先生以超越意识形态、阶级、党派和文化的眼光，怀抱对各色历史人物的宽容和善意之心，公平公正、客观冷静地看待历史事件，同时参考了巨量的档案文献及研究著述，以跨学科的手法，努力为读者呈现这部描述近四百年来中华民族挣扎历程的史学著作。",
+    "category": "历史-中国近现代",
+    "publisher": "当代世界出版社",
+    "publishTime": "2024-02-03 00:00:00",
+    "isbn": "9787509017531",
+    "wordCount": 0,
+    "newRating": 759,
+    "newRatingCount": 170,
+    "newRatingDetail": {
+      "good": 116,
+      "fair": 29,
+      "poor": 25,
+      "recent": 41,
+      "deepV": 81,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300198996",
+    "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc",
+    "lastSync": "2026-05-21T11:45:06Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 606,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "献词",
+      "level": 1,
+      "wordCount": 31,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "出版前言",
+      "level": 1,
+      "wordCount": 529,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "中文版序",
+      "level": 1,
+      "wordCount": 472,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "繁体版序",
+      "level": 1,
+      "wordCount": 1054,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "英文版第六版序",
+      "level": 1,
+      "wordCount": 911,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "英文版第一版序",
+      "level": 1,
+      "wordCount": 926,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "近代以来纪元表",
+      "level": 1,
+      "wordCount": 219,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "货币及度量衡折算表",
+      "level": 1,
+      "wordCount": 248,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "序编",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第一章 “近代中国”的概念",
+      "level": 2,
+      "wordCount": 10324,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 “近代中国”始于何时？",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        },
+        {
+          "title": "二 “近代中国”形成的动力",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "三 新的综合思考",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第一编 传统制度的延续（1600—1800）",
+      "level": 1,
+      "wordCount": 22,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第二章 清帝国的兴盛",
+      "level": 2,
+      "wordCount": 20685,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 清朝的建立",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        },
+        {
+          "title": "二 南明抗清运动",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        },
+        {
+          "title": "三 王朝的巩固与辉煌",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第三章 政治和经济体制",
+      "level": 2,
+      "wordCount": 15994,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 政治结构",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "二 经济制度",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第四章 社会和思想状况",
+      "level": 2,
+      "wordCount": 17814,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 中国社会",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        },
+        {
+          "title": "二 思想潮流",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第五章 对外关系",
+      "level": 2,
+      "wordCount": 25202,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 西欧人的来临",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        },
+        {
+          "title": "二 俄国的推进",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第六章 国运逆转：由盛到衰",
+      "level": 2,
+      "wordCount": 8984,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 清朝力量的衰落",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        },
+        {
+          "title": "二 会党起义",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        },
+        {
+          "title": "三 西方的推进与封贡体系",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第二编 外患内乱（1800—1864）",
+      "level": 1,
+      "wordCount": 19,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第七章 广州贸易体系",
+      "level": 2,
+      "wordCount": 21126,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 单口贸易的缘起",
+          "anchor": "sigil_toc_id_22",
+          "level": 3
+        },
+        {
+          "title": "二 广州贸易",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "三 外国人在广州的生活",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "四 英国改变广州体系的企图",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第八章 鸦片战争",
+      "level": 2,
+      "wordCount": 21545,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 鸦片贸易",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        },
+        {
+          "title": "二 1834年的律劳卑使命",
+          "anchor": "sigil_toc_id_28",
+          "level": 3
+        },
+        {
+          "title": "三 风暴前夕的平静",
+          "anchor": "sigil_toc_id_29",
+          "level": 3
+        },
+        {
+          "title": "四 林则徐在广州",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        },
+        {
+          "title": "五 鸦片战争",
+          "anchor": "sigil_toc_id_31",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_32",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第九章 第二次条约安排",
+      "level": 2,
+      "wordCount": 18959,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 耆英的新外交",
+          "anchor": "sigil_toc_id_33",
+          "level": 3
+        },
+        {
+          "title": "二 广州方面的强硬政策，1848—1856年",
+          "anchor": "sigil_toc_id_34",
+          "level": 3
+        },
+        {
+          "title": "三 “亚罗”号事件",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        },
+        {
+          "title": "四 第二次协定",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第十章 太平天国运动、捻军起义及回民起义",
+      "level": 2,
+      "wordCount": 27088,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 社会动荡的根源",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "二 太平天国运动的爆发",
+          "anchor": "sigil_toc_id_39",
+          "level": 3
+        },
+        {
+          "title": "三 太平天国的制度",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        },
+        {
+          "title": "四 外国的中立立场",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        },
+        {
+          "title": "五 曾国藩和湘军",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        },
+        {
+          "title": "六 天国内讧",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        },
+        {
+          "title": "七 战争的转折点",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        },
+        {
+          "title": "八 太平天国的崩溃",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "九 太平天国失败的原因",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        },
+        {
+          "title": "十 太平天国运动的遗产",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "十一 捻军起义和回民起义",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第三编 外国帝国主义加剧时期的洋务运动（1861—1895）",
+      "level": 1,
+      "wordCount": 30,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第十一章 清朝中兴与洋务运动",
+      "level": 2,
+      "wordCount": 26862,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 新领导人及辛酉政变",
+          "anchor": "sigil_toc_id_50",
+          "level": 3
+        },
+        {
+          "title": "二 合作政策和外交现代化",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        },
+        {
+          "title": "三 军事现代化和早期工业化",
+          "anchor": "sigil_toc_id_52",
+          "level": 3
+        },
+        {
+          "title": "四 洋务运动的各个阶段",
+          "anchor": "sigil_toc_id_53",
+          "level": 3
+        },
+        {
+          "title": "五 洋务运动的局限与影响",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第十二章 对外关系与宫廷政治，1861—1880年",
+      "level": 2,
+      "wordCount": 13991,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 对外事务",
+          "anchor": "sigil_toc_id_56",
+          "level": 3
+        },
+        {
+          "title": "二 慈禧太后及其政治",
+          "anchor": "sigil_toc_id_57",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第十三章 外国侵占中国台湾、新疆等地与安南",
+      "level": 2,
+      "wordCount": 15055,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 日本侵略中国台湾，1871—1874年",
+          "anchor": "sigil_toc_id_59",
+          "level": 3
+        },
+        {
+          "title": "二 俄国侵占伊犁，1871—1881年",
+          "anchor": "sigil_toc_id_60",
+          "level": 3
+        },
+        {
+          "title": "三 争夺安南的中法战争，1884—1885年",
+          "anchor": "sigil_toc_id_61",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_62",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第十四章 帝国主义加紧扩张：日本侵略朝鲜与“中国的瓜分危机”",
+      "level": 2,
+      "wordCount": 15954,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 朝鲜的开放",
+          "anchor": "sigil_toc_id_63",
+          "level": 3
+        },
+        {
+          "title": "二 朝鲜国内暴乱与国际政治",
+          "anchor": "sigil_toc_id_64",
+          "level": 3
+        },
+        {
+          "title": "三 战争爆发",
+          "anchor": "sigil_toc_id_65",
+          "level": 3
+        },
+        {
+          "title": "四 和平协定",
+          "anchor": "sigil_toc_id_66",
+          "level": 3
+        },
+        {
+          "title": "五 清朝失败的原因",
+          "anchor": "sigil_toc_id_67",
+          "level": 3
+        },
+        {
+          "title": "六 战争的反响",
+          "anchor": "sigil_toc_id_68",
+          "level": 3
+        },
+        {
+          "title": "七 战后对外关系",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_70",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第四编 维新变革与革命（1898—1912）",
+      "level": 1,
+      "wordCount": 22,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第十五章 1898年的维新运动",
+      "level": 2,
+      "wordCount": 21310,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 早期维新派和传教士的影响",
+          "anchor": "sigil_toc_id_71",
+          "level": 3
+        },
+        {
+          "title": "二 保守的变革者：翁同龢和张之洞",
+          "anchor": "sigil_toc_id_72",
+          "level": 3
+        },
+        {
+          "title": "三 激进的变革者：康有为和梁启超",
+          "anchor": "sigil_toc_id_73",
+          "level": 3
+        },
+        {
+          "title": "四 百日维新",
+          "anchor": "sigil_toc_id_74",
+          "level": 3
+        },
+        {
+          "title": "五 皇太后与政变",
+          "anchor": "sigil_toc_id_75",
+          "level": 3
+        },
+        {
+          "title": "六 变法失败的原因和影响",
+          "anchor": "sigil_toc_id_76",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_77",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "第十六章 义和团事件，1900年",
+      "level": 2,
+      "wordCount": 14682,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 义和团事件的背景",
+          "anchor": "sigil_toc_id_78",
+          "level": 3
+        },
+        {
+          "title": "二 拳民的缘起",
+          "anchor": "sigil_toc_id_79",
+          "level": 3
+        },
+        {
+          "title": "三 朝廷庇护拳民",
+          "anchor": "sigil_toc_id_80",
+          "level": 3
+        },
+        {
+          "title": "四 东南互保",
+          "anchor": "sigil_toc_id_81",
+          "level": 3
+        },
+        {
+          "title": "五 媾和",
+          "anchor": "sigil_toc_id_82",
+          "level": 3
+        },
+        {
+          "title": "六 俄国占领中国东北",
+          "anchor": "sigil_toc_id_83",
+          "level": 3
+        },
+        {
+          "title": "七 义和团事件的影响",
+          "anchor": "sigil_toc_id_84",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_85",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第十七章 清末新政和立宪派",
+      "level": 2,
+      "wordCount": 7585,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 清末新政，1901—1905年",
+          "anchor": "sigil_toc_id_86",
+          "level": 3
+        },
+        {
+          "title": "二 立宪运动，1905—1911年",
+          "anchor": "sigil_toc_id_87",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_88",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第十八章 晚清的思想、社会和经济变化，1895—1911年",
+      "level": 2,
+      "wordCount": 15689,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 思想的再定位",
+          "anchor": "sigil_toc_id_89",
+          "level": 3
+        },
+        {
+          "title": "二 社会的变化",
+          "anchor": "sigil_toc_id_90",
+          "level": 3
+        },
+        {
+          "title": "三 经济困境",
+          "anchor": "sigil_toc_id_91",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_92",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第十九章 历史透视下的清王朝",
+      "level": 2,
+      "wordCount": 6857,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 软弱的领导与不完善的体制",
+          "anchor": "sigil_toc_id_93",
+          "level": 3
+        },
+        {
+          "title": "二 满人对汉人的猜疑",
+          "anchor": "sigil_toc_id_94",
+          "level": 3
+        },
+        {
+          "title": "三 对西方挑战本质的无知",
+          "anchor": "sigil_toc_id_95",
+          "level": 3
+        },
+        {
+          "title": "四 内忧外患与资本不足",
+          "anchor": "sigil_toc_id_96",
+          "level": 3
+        },
+        {
+          "title": "五 外国的作用",
+          "anchor": "sigil_toc_id_97",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_98",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第二十章 革命、共和与军阀割据",
+      "level": 2,
+      "wordCount": 28662,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 革命的背景与特征",
+          "anchor": "sigil_toc_id_99",
+          "level": 3
+        },
+        {
+          "title": "二 孙中山与革命",
+          "anchor": "sigil_toc_id_100",
+          "level": 3
+        },
+        {
+          "title": "三 共和国的兴起",
+          "anchor": "sigil_toc_id_101",
+          "level": 3
+        },
+        {
+          "title": "四 袁世凯背叛共和",
+          "anchor": "sigil_toc_id_102",
+          "level": 3
+        },
+        {
+          "title": "五 军阀割据时期，1916—1927年",
+          "anchor": "sigil_toc_id_103",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_104",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "第五编 主义与抗战（1917—1945）",
+      "level": 1,
+      "wordCount": 20,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "第二十一章 思想革命，1917—1923年",
+      "level": 2,
+      "wordCount": 16928,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 背景",
+          "anchor": "sigil_toc_id_105",
+          "level": 3
+        },
+        {
+          "title": "二 新文化运动的展开",
+          "anchor": "sigil_toc_id_106",
+          "level": 3
+        },
+        {
+          "title": "三 五四运动，1919年",
+          "anchor": "sigil_toc_id_107",
+          "level": 3
+        },
+        {
+          "title": "四 新文化运动的扩展",
+          "anchor": "sigil_toc_id_108",
+          "level": 3
+        },
+        {
+          "title": "五 结论",
+          "anchor": "sigil_toc_id_109",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_110",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "第二十二章 思潮澎湃和反帝运动中的国家统一",
+      "level": 2,
+      "wordCount": 20066,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 中国共产党的诞生，1921年",
+          "anchor": "sigil_toc_id_111",
+          "level": 3
+        },
+        {
+          "title": "二 国民党的改组，1923—1924年",
+          "anchor": "sigil_toc_id_112",
+          "level": 3
+        },
+        {
+          "title": "三 北伐与国共合作破裂",
+          "anchor": "sigil_toc_id_113",
+          "level": 3
+        },
+        {
+          "title": "四 民族主义外交",
+          "anchor": "sigil_toc_id_114",
+          "level": 3
+        },
+        {
+          "title": "五 南京国民政府",
+          "anchor": "sigil_toc_id_115",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_116",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "第二十三章 国民政府：挑战重重的十年，1928—1937年",
+      "level": 2,
+      "wordCount": 25295,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 “新军阀”和派系政客",
+          "anchor": "sigil_toc_id_117",
+          "level": 3
+        },
+        {
+          "title": "二 日本对东北的侵略",
+          "anchor": "sigil_toc_id_118",
+          "level": 3
+        },
+        {
+          "title": "三 共产党的挑战",
+          "anchor": "sigil_toc_id_119",
+          "level": 3
+        },
+        {
+          "title": "四 西安事变和统一战线",
+          "anchor": "sigil_toc_id_120",
+          "level": 3
+        },
+        {
+          "title": "五 成败得失：十年回顾",
+          "anchor": "sigil_toc_id_121",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_122",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "第二十四章 全面抗战，1937—1945年",
+      "level": 2,
+      "wordCount": 26689,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 日本军国主义者的兴起",
+          "anchor": "sigil_toc_id_123",
+          "level": 3
+        },
+        {
+          "title": "二 不宣而战，1937年",
+          "anchor": "sigil_toc_id_124",
+          "level": 3
+        },
+        {
+          "title": "三 汪精卫的“和平运动”",
+          "anchor": "sigil_toc_id_125",
+          "level": 3
+        },
+        {
+          "title": "四 国民党的抗战建国计划",
+          "anchor": "sigil_toc_id_126",
+          "level": 3
+        },
+        {
+          "title": "五 国共合作及其摩擦",
+          "anchor": "sigil_toc_id_127",
+          "level": 3
+        },
+        {
+          "title": "六 延安经验与外国的观察",
+          "anchor": "sigil_toc_id_128",
+          "level": 3
+        },
+        {
+          "title": "七 战时外交与美国卷入中国事务",
+          "anchor": "sigil_toc_id_129",
+          "level": 3
+        },
+        {
+          "title": "八 战争的后果",
+          "anchor": "sigil_toc_id_130",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_131",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "第六编 中华人民共和国的成长",
+      "level": 1,
+      "wordCount": 14,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "第二十五章 解放战争，1946—1949年",
+      "level": 2,
+      "wordCount": 19165,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 毛泽东在重庆",
+          "anchor": "sigil_toc_id_132",
+          "level": 3
+        },
+        {
+          "title": "二 苏联在东北的行动",
+          "anchor": "sigil_toc_id_133",
+          "level": 3
+        },
+        {
+          "title": "三 马歇尔使华",
+          "anchor": "sigil_toc_id_134",
+          "level": 3
+        },
+        {
+          "title": "四 内战",
+          "anchor": "sigil_toc_id_135",
+          "level": 3
+        },
+        {
+          "title": "五 美国的作用",
+          "anchor": "sigil_toc_id_136",
+          "level": 3
+        },
+        {
+          "title": "六 对美国政策的重新评价",
+          "anchor": "sigil_toc_id_137",
+          "level": 3
+        },
+        {
+          "title": "七 国民党失败的原因",
+          "anchor": "sigil_toc_id_138",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_139",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "第二十六章 中华人民共和国：第一个十年",
+      "level": 2,
+      "wordCount": 23625,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 政治组织",
+          "anchor": "sigil_toc_id_140",
+          "level": 3
+        },
+        {
+          "title": "二 经济发展",
+          "anchor": "sigil_toc_id_141",
+          "level": 3
+        },
+        {
+          "title": "三 社会主义新人",
+          "anchor": "sigil_toc_id_142",
+          "level": 3
+        },
+        {
+          "title": "四 对外关系",
+          "anchor": "sigil_toc_id_143",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_144",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "第二十七章 中苏分裂",
+      "level": 2,
+      "wordCount": 13937,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 冲突的历史根源",
+          "anchor": "sigil_toc_id_145",
+          "level": 3
+        },
+        {
+          "title": "二 意识形态争论",
+          "anchor": "sigil_toc_id_146",
+          "level": 3
+        },
+        {
+          "title": "三 领土争端",
+          "anchor": "sigil_toc_id_147",
+          "level": 3
+        },
+        {
+          "title": "四 战争危机",
+          "anchor": "sigil_toc_id_148",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_149",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "第二十八章 “国民政府”在台湾的统治",
+      "level": 2,
+      "wordCount": 12129,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 美国的对台政策",
+          "anchor": "sigil_toc_id_150",
+          "level": 3
+        },
+        {
+          "title": "二 政治结构",
+          "anchor": "sigil_toc_id_151",
+          "level": 3
+        },
+        {
+          "title": "三 经济和社会发展",
+          "anchor": "sigil_toc_id_152",
+          "level": 3
+        },
+        {
+          "title": "四 文化生活",
+          "anchor": "sigil_toc_id_153",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_154",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "第二十九章 中国“重入”国际社会",
+      "level": 2,
+      "wordCount": 22617,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 中美缓和",
+          "anchor": "sigil_toc_id_155",
+          "level": 3
+        },
+        {
+          "title": "二 中日恢复邦交",
+          "anchor": "sigil_toc_id_156",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_157",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "第三十章 建设有中国特色的社会主义",
+      "level": 2,
+      "wordCount": 20164,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 邓小平的构想",
+          "anchor": "sigil_toc_id_158",
+          "level": 3
+        },
+        {
+          "title": "二 农业改革",
+          "anchor": "sigil_toc_id_159",
+          "level": 3
+        },
+        {
+          "title": "三 工业改革",
+          "anchor": "sigil_toc_id_160",
+          "level": 3
+        },
+        {
+          "title": "四 对外开放政策",
+          "anchor": "sigil_toc_id_161",
+          "level": 3
+        },
+        {
+          "title": "五 发展前景",
+          "anchor": "sigil_toc_id_162",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_163",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "第三十一章 中国的崛起",
+      "level": 2,
+      "wordCount": 22582,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 香港回归",
+          "anchor": "sigil_toc_id_164",
+          "level": 3
+        },
+        {
+          "title": "二 中美关系",
+          "anchor": "sigil_toc_id_165",
+          "level": 3
+        },
+        {
+          "title": "三 21世纪初的中国",
+          "anchor": "sigil_toc_id_166",
+          "level": 3
+        },
+        {
+          "title": "参考书目",
+          "anchor": "sigil_toc_id_167",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "审校后记",
+      "level": 1,
+      "wordCount": 2338,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "插图",
+      "level": 1,
+      "wordCount": 1068,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198996&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=50"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 26,
+      "chapterTitle": "第十二章 对外关系与宫廷政治，1861—1880年",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300198996_26_742-773",
+          "range": "742-773",
+          "rangeStart": 742,
+          "rangeEnd": 773,
+          "markText": "1865年，赫德向总理衙门递交了一份名为《局外旁观论》的折子。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1776207235,
+          "createTimeFormatted": "2026-04-15 06:53:55",
+          "chapterUid": 26,
+          "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=26&rangeStart=742&rangeEnd=773",
+          "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=26&rangeStart=742&rangeEnd=773"
+        }
+      ]
+    },
+    {
+      "chapterUid": 33,
+      "chapterTitle": "第十八章 晚清的思想、社会和经济变化，1895—1911年",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300198996_33_12346-12407",
+          "range": "12346-12407",
+          "rangeStart": 12346,
+          "rangeEnd": 12407,
+          "markText": "但是从19世纪初开始，情况恶化了，国内起义、对外战争、旱灾水患、鸦片输入和白银外流，使得1850年库存白银只有800万两。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1776207231,
+          "createTimeFormatted": "2026-04-15 06:53:51",
+          "chapterUid": 33,
+          "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=33&rangeStart=12346&rangeEnd=12407",
+          "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=33&rangeStart=12346&rangeEnd=12407"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300198996_12_4851-4908",
+      "chapterUid": 12,
+      "range": "4851-4908",
+      "markText": "很明显，中国历史与西方历史的交会不可能发生在地理大发现时代之前，而这两个文明的直接碰撞也不可能发生在工业革命以前。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=12&rangeStart=4851&rangeEnd=4908",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=12&rangeStart=4851&rangeEnd=4908"
+    },
+    {
+      "bookmarkId": "3300198996_7_1849-1911",
+      "chapterUid": 7,
+      "range": "1849-1911",
+      "markText": "只要双方和平共处、容忍差异、增进协调和谅解，就会出现一个史无前例的和平昌盛的新纪元。在太平洋两岸都需要有睿智贤明的治国之道。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=7&rangeStart=1849&rangeEnd=1911",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=7&rangeStart=1849&rangeEnd=1911"
+    },
+    {
+      "bookmarkId": "3300198996_12_7850-7917",
+      "chapterUid": 12,
+      "range": "7850-7917",
+      "markText": "它只采纳了西方文明中那些具有直接实用价值的东西，而另一些更为可取的方面——如政治体制、经济制度、哲学、文学和艺术等——却完全被忽略了。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=12&rangeStart=7850&rangeEnd=7917",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=12&rangeStart=7850&rangeEnd=7917"
+    },
+    {
+      "bookmarkId": "3300198996_12_7480-7567",
+      "chapterUid": 12,
+      "range": "7480-7567",
+      "markText": "对一种新秩序的探求涉及一场极其艰难的观念之争，需要排除那种过度的自尊意识和对外来事物的藐视之情，抛开那种认为富庶的中华上国无须借鉴化外蛮夷、也无须与彼等结交的根深蒂固的信念。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=12&rangeStart=7480&rangeEnd=7567",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=12&rangeStart=7480&rangeEnd=7567"
+    },
+    {
+      "bookmarkId": "3300198996_14_10130-10187",
+      "chapterUid": 14,
+      "range": "10130-10187",
+      "markText": "1683年，清军攻占台湾，一年后置为福建省的一个府。随着这个最后的大明遗臣集团的失败，清朝完成了对整个中国的统一。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=14&rangeStart=10130&rangeEnd=10187",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=14&rangeStart=10130&rangeEnd=10187"
+    },
+    {
+      "bookmarkId": "3300198996_12_5459-5519",
+      "chapterUid": 12,
+      "range": "5459-5519",
+      "markText": "19世纪中叶以后，有许多洋人受聘担任政府官职，从而使满—汉二元体制扩展为一种“满—汉—夷”的混合体制（synarchy）",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=12&rangeStart=5459&rangeEnd=5519",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=12&rangeStart=5459&rangeEnd=5519"
+    },
+    {
+      "bookmarkId": "3300198996_12_7080-7132",
+      "chapterUid": 12,
+      "range": "7080-7132",
+      "markText": "。讽刺的是，西方文明在其他地方显得极有创造力且生机勃勃，但在与中国的直接对抗时，却表现出破坏性大于建设性",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=12&rangeStart=7080&rangeEnd=7132",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=12&rangeStart=7080&rangeEnd=7132"
+    },
+    {
+      "bookmarkId": "3300198996_22_18314-18360",
+      "chapterUid": 22,
+      "range": "18314-18360",
+      "markText": "最后他被俄国和法国的外交官伊格纳季耶夫将军和葛罗男爵说服，放弃了这两个想法，代之以火烧圆明园",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=22&rangeStart=18314&rangeEnd=18360",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=22&rangeStart=18314&rangeEnd=18360"
+    },
+    {
+      "bookmarkId": "3300198996_27_7279-7335",
+      "chapterUid": 27,
+      "range": "7279-7335",
+      "markText": "左宗棠说，西方列强为占有海港、口岸而开仗，而且通常仅仅是为了商业上的特权，而俄国既想获取商业让步，也有领土要求。",
+      "totalCount": 70,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=27&rangeStart=7279&rangeEnd=7335",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=27&rangeStart=7279&rangeEnd=7335"
+    },
+    {
+      "bookmarkId": "3300198996_7_1750-1806",
+      "chapterUid": 7,
+      "range": "1750-1806",
+      "markText": "从文化的意义上来说，中国是中华文明的继承者，而美国则可以被看作西方文明的现代化身。它们以前所未有的方式相互碰撞。",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=7&rangeStart=1750&rangeEnd=1806",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=7&rangeStart=1750&rangeEnd=1806"
+    },
+    {
+      "bookmarkId": "3300198996_18_1129-1228",
+      "chapterUid": 18,
+      "range": "1129-1228",
+      "markText": "在他们个人控制范围之外的一些事情上，出现任何疏忽或过失都可能招来惩罚。最终出现的普遍情形是，对普通官员来说，最慎重的做法是尽可能少地承担责任——多注意在形式上遵守成文的章程，少去做那些利君惠民的事情",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=18&rangeStart=1129&rangeEnd=1228",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=18&rangeStart=1129&rangeEnd=1228"
+    },
+    {
+      "bookmarkId": "3300198996_31_10315-10369",
+      "chapterUid": 31,
+      "range": "10315-10369",
+      "markText": "席卷华北、内蒙古和东北，并使231个外国人丧生和成千上万的中国基督教徒惨遭杀戮的义和团事件，终于平息下来了。",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=31&rangeStart=10315&rangeEnd=10369",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=31&rangeStart=10315&rangeEnd=10369"
+    },
+    {
+      "bookmarkId": "3300198996_37_7028-7057",
+      "chapterUid": 37,
+      "range": "7028-7057",
+      "markText": "翌年，李大钊受聘为图书馆馆长，他雇用了年轻的毛泽东为助理。",
+      "totalCount": 65,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=37&rangeStart=7028&rangeEnd=7057",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=37&rangeStart=7028&rangeEnd=7057"
+    },
+    {
+      "bookmarkId": "3300198996_14_11784-11837",
+      "chapterUid": 14,
+      "range": "11784-11837",
+      "markText": "但是，1682年10月21日以后，为了照顾那些不住在皇宫附近的大臣，朝会改到了春夏7点开始、秋冬8点开始。",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=14&rangeStart=11784&rangeEnd=11837",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=14&rangeStart=11784&rangeEnd=11837"
+    },
+    {
+      "bookmarkId": "3300198996_7_603-658",
+      "chapterUid": 7,
+      "range": "603-658",
+      "markText": "新中国成立前的一个世纪，中国内部的腐败和外来帝国主义的羞辱性掠夺，如同一对孪生恶魔，给社会带来了长时期的衰落。",
+      "totalCount": 60,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=7&rangeStart=603&rangeEnd=658",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=7&rangeStart=603&rangeEnd=658"
+    },
+    {
+      "bookmarkId": "3300198996_12_5228-5305",
+      "chapterUid": 12,
+      "range": "5228-5305",
+      "markText": "清廷大兴文字狱，惩罚讥讽清朝统治的人；设立宗人府，监督满族显贵的出身、受业和婚姻；禁止满汉通婚，并严禁汉人迁居满洲。通过这些措施，努力维护满族的民族特性。",
+      "totalCount": 60,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=12&rangeStart=5228&rangeEnd=5305",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=12&rangeStart=5228&rangeEnd=5305"
+    },
+    {
+      "bookmarkId": "3300198996_12_9053-9142",
+      "chapterUid": 12,
+      "range": "9053-9142",
+      "markText": "首先是影响器物的技术；而后是关于国家和社会的原理；最后则是触及精神生活核心的观念。同治朝的洋务运动、1898年的维新变法和1919年的“五四运动”各自标志了这三个阶段的思想要点。",
+      "totalCount": 60,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=12&rangeStart=9053&rangeEnd=9142",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=12&rangeStart=9053&rangeEnd=9142"
+    },
+    {
+      "bookmarkId": "3300198996_12_1781-1840",
+      "chapterUid": 12,
+      "range": "1781-1840",
+      "markText": "西方历史学家认为，这场战争意味着外国在华活动的加剧，这些活动打破了中国的孤立局面，并在中国开创了一个革命性变化的时代。",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=12&rangeStart=1781&rangeEnd=1840",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=12&rangeStart=1781&rangeEnd=1840"
+    },
+    {
+      "bookmarkId": "3300198996_12_2506-2562",
+      "chapterUid": 12,
+      "range": "2506-2562",
+      "markText": "耶稣会士传入了天文学、数学、地理学、制图学和建筑学等西方科学，但他们的影响只局限于中国统治集团内部的少数士大夫。",
+      "totalCount": 55,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=12&rangeStart=2506&rangeEnd=2562",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=12&rangeStart=2506&rangeEnd=2562"
+    },
+    {
+      "bookmarkId": "3300198996_25_17681-17742",
+      "chapterUid": 25,
+      "range": "17681-17742",
+      "markText": "中国政府花费了55万英镑购买了一支舰队，然后解散，除了惹上一身麻烦之外，一无所获。第一次组建一支新式水师的尝试可谓彻底失败",
+      "totalCount": 55,
+      "appLink": "weread://bestbookmark?bookId=3300198996&chapterUid=25&rangeStart=17681&rangeEnd=17742",
+      "webLink": "https://weread.qq.com/web/reader/16032ff0813abb43bg0169fc?chapterUid=25&rangeStart=17681&rangeEnd=17742"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 26,
+    "chapterOffset": 393,
+    "progress": 0,
+    "updateTime": 1776207238,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

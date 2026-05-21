@@ -1,0 +1,780 @@
+{
+  "meta": {
+    "bookId": "3300050368",
+    "title": "世界的苦难：布尔迪厄的社会调查（布尔迪厄作品）",
+    "author": "[法]皮埃尔·布尔迪厄",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/9/cpplatform_xuxzxlfb61ojlkur89ph48/t6_cpplatform_xuxzxlfb61ojlkur89ph481677468701.jpg",
+    "intro": "《世界的苦难》是布尔迪厄晚年与其他22位合作者,以细腻的情感和认真的观察及倾听，耗时三年访谈数百人所写就的田野调查著作。通过一个个以访谈形式出现的鲜活的生活史个案,展示了当代法国社会普通人日常生活中的种种困难与痛苦,并透过社会学的解释,揭示出痛苦背后深刻的社会和政治根源，以及人与社会的复杂关系。 本书是布尔迪厄将学者责任与公民使命融为一体，集中探讨弱势群体艰难处境的最著名成果。在看似平淡的个人生活史的叙述中蕴含着震撼人心的苦难真相。",
+    "category": "社会文化-社科",
+    "publisher": "中国人民大学出版社",
+    "publishTime": "2017-01-15 00:00:00",
+    "isbn": "9787300236476",
+    "wordCount": 0,
+    "newRating": 903,
+    "newRatingCount": 258,
+    "newRatingDetail": {
+      "good": 238,
+      "fair": 15,
+      "poor": 5,
+      "recent": 2,
+      "deepV": 99,
+      "myRating": "",
+      "title": "神作潜力"
+    },
+    "appLink": "weread://reading?bId=3300050368",
+    "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789",
+    "lastSync": "2026-05-21T11:56:29Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 3,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "7c68a4eb2f1a4c3ae37a910729585b1d1ac770d4101e2bd22f37dc5f8c3ac0e8"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300050368&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 270,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300050368&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "总序",
+      "level": 1,
+      "wordCount": 4872,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300050368&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "致读者",
+      "level": 1,
+      "wordCount": 1232,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300050368&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "不同观点的空间",
+      "level": 1,
+      "wordCount": 128626,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "水仙街",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "居无定所",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "各得其所",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "媒体的观点",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        },
+        {
+          "title": "自然规律",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "一个成功融入社会的家庭",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        },
+        {
+          "title": "投资失败",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "社区重建",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "最后一条区别",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "“一把快刀”",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300050368&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "场域效应",
+      "level": 1,
+      "wordCount": 120943,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "美国：反乌托邦",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        },
+        {
+          "title": "“那一带”",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        },
+        {
+          "title": "艾巴寮的流浪汉",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        },
+        {
+          "title": "国家撤离",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        },
+        {
+          "title": "完不成的任务",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        },
+        {
+          "title": "无诚信的制度",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        },
+        {
+          "title": "尴尬处境与双重制约",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        },
+        {
+          "title": "有事可做",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        },
+        {
+          "title": "国家的观点",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        },
+        {
+          "title": "移民的“成本”和“收益”",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        },
+        {
+          "title": "无序的维护秩序者",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        },
+        {
+          "title": "穷人的警察",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        },
+        {
+          "title": "女人和警察",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        },
+        {
+          "title": "明确的指责",
+          "anchor": "sigil_toc_id_24",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300050368&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "正式工与临时工",
+      "level": 1,
+      "wordCount": 231937,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "老工人，新工厂",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        },
+        {
+          "title": "临时工的梦想",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        },
+        {
+          "title": "上夜班",
+          "anchor": "sigil_toc_id_27",
+          "level": 2
+        },
+        {
+          "title": "拥有",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        },
+        {
+          "title": "家庭事务",
+          "anchor": "sigil_toc_id_29",
+          "level": 2
+        },
+        {
+          "title": "倒霉蛋",
+          "anchor": "sigil_toc_id_30",
+          "level": 2
+        },
+        {
+          "title": "一个世界的终结",
+          "anchor": "sigil_toc_id_31",
+          "level": 2
+        },
+        {
+          "title": "一位代表的困惑",
+          "anchor": "sigil_toc_id_32",
+          "level": 2
+        },
+        {
+          "title": "来自下面的看法",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        },
+        {
+          "title": "作品失窃",
+          "anchor": "sigil_toc_id_34",
+          "level": 2
+        },
+        {
+          "title": "无声的见证",
+          "anchor": "sigil_toc_id_35",
+          "level": 2
+        },
+        {
+          "title": "脆弱的平衡",
+          "anchor": "sigil_toc_id_36",
+          "level": 2
+        },
+        {
+          "title": "命悬一线",
+          "anchor": "sigil_toc_id_37",
+          "level": 2
+        },
+        {
+          "title": "上无片瓦，下不容锥",
+          "anchor": "sigil_toc_id_38",
+          "level": 2
+        },
+        {
+          "title": "一生虚掷",
+          "anchor": "sigil_toc_id_39",
+          "level": 2
+        },
+        {
+          "title": "前途未卜",
+          "anchor": "sigil_toc_id_40",
+          "level": 2
+        },
+        {
+          "title": "家道中落",
+          "anchor": "sigil_toc_id_41",
+          "level": 2
+        },
+        {
+          "title": "大失所望",
+          "anchor": "sigil_toc_id_42",
+          "level": 2
+        },
+        {
+          "title": "职场受挫",
+          "anchor": "sigil_toc_id_43",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300050368&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "局内的局外人",
+      "level": 1,
+      "wordCount": 99091,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "当年的好日子",
+          "anchor": "sigil_toc_id_44",
+          "level": 2
+        },
+        {
+          "title": "失乐园",
+          "anchor": "sigil_toc_id_45",
+          "level": 2
+        },
+        {
+          "title": "陷入泥沼",
+          "anchor": "sigil_toc_id_46",
+          "level": 2
+        },
+        {
+          "title": "双面生活",
+          "anchor": "sigil_toc_id_47",
+          "level": 2
+        },
+        {
+          "title": "法语课",
+          "anchor": "sigil_toc_id_48",
+          "level": 2
+        },
+        {
+          "title": "力量对比",
+          "anchor": "sigil_toc_id_49",
+          "level": 2
+        },
+        {
+          "title": "校园暴力",
+          "anchor": "sigil_toc_id_50",
+          "level": 2
+        },
+        {
+          "title": "第一代大学生",
+          "anchor": "sigil_toc_id_51",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300050368&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "矛盾的遗产",
+      "level": 1,
+      "wordCount": 173266,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "学业历程",
+          "anchor": "sigil_toc_id_52",
+          "level": 2
+        },
+        {
+          "title": "关于暴力的对话",
+          "anchor": "sigil_toc_id_53",
+          "level": 2
+        },
+        {
+          "title": "令人为难的成功",
+          "anchor": "sigil_toc_id_54",
+          "level": 2
+        },
+        {
+          "title": "自相矛盾",
+          "anchor": "sigil_toc_id_55",
+          "level": 2
+        },
+        {
+          "title": "光明的绝路",
+          "anchor": "sigil_toc_id_56",
+          "level": 2
+        },
+        {
+          "title": "家庭的梦想",
+          "anchor": "sigil_toc_id_57",
+          "level": 2
+        },
+        {
+          "title": "妻子与合作伙伴",
+          "anchor": "sigil_toc_id_58",
+          "level": 2
+        },
+        {
+          "title": "厄运",
+          "anchor": "sigil_toc_id_59",
+          "level": 2
+        },
+        {
+          "title": "通讯员",
+          "anchor": "sigil_toc_id_60",
+          "level": 2
+        },
+        {
+          "title": "挣脱束缚",
+          "anchor": "sigil_toc_id_61",
+          "level": 2
+        },
+        {
+          "title": "患者对象",
+          "anchor": "sigil_toc_id_62",
+          "level": 2
+        },
+        {
+          "title": "留守老人",
+          "anchor": "sigil_toc_id_63",
+          "level": 2
+        },
+        {
+          "title": "孤独",
+          "anchor": "sigil_toc_id_64",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300050368&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "理解",
+      "level": 1,
+      "wordCount": 30105,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300050368&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "跋语",
+      "level": 1,
+      "wordCount": 2580,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300050368&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "索引",
+      "level": 1,
+      "wordCount": 7553,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300050368&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "征引著者索引",
+      "level": 1,
+      "wordCount": 1157,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300050368&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=13"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 3,
+      "chapterTitle": "总序",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300050368_3_3998-4142",
+          "range": "3998-4142",
+          "rangeStart": 3998,
+          "rangeEnd": 4142,
+          "markText": "与其说社会学真的是一门除魅或者灭圣的科学，不如说它其实是一门“扰人的科学”(Bourdieu,1980)。因为它揭露出隐藏在背后的有时被抑制的东西，还因为它经常与统治者的利益相违背，部分由于这些利益隐匿于缄默的表面之下或于情理之后，而情理经常告诉人们事情就应该是这样的且无法是其他的样子。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1721301700,
+          "createTimeFormatted": "2024-07-18 19:21:40",
+          "chapterUid": 3,
+          "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=3&rangeStart=3998&rangeEnd=4142",
+          "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=3&rangeStart=3998&rangeEnd=4142"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300050368_3_652-689",
+          "range": "652-689",
+          "rangeStart": 652,
+          "rangeEnd": 689,
+          "markText": "布尔迪厄逐渐建立了一种范式，可以总结为“资本”“场域”“惯习”的概念三部曲",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1721301686,
+          "createTimeFormatted": "2024-07-18 19:21:26",
+          "chapterUid": 3,
+          "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=3&rangeStart=652&rangeEnd=689",
+          "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=3&rangeStart=652&rangeEnd=689"
+        }
+      ]
+    },
+    {
+      "chapterUid": 8,
+      "chapterTitle": "局内的局外人",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7TMbtILsM",
+          "range": "4052-4247",
+          "chapterName": "",
+          "content": "“我们的同志在困难的时候，要看到成绩，要看到光明，要提高我们的勇气。”\n贫穷家庭的人是没有这种觉悟的。他们自己遇到困难都无法排解压力，他们更教不了孩子怎样排解压力。他们成长的环境中，遇到的更多是打压、欺骗，缺乏爱和关注。\n我们不能指望一个缺爱的人去安慰其他人。\n一方面，他们没有这种认识；另一方面，他们自己的土壤就缺乏灌溉。贫瘠的土壤是难以滋养美丽的花朵的。",
+          "abstract": "出身优越的学生能够从家庭获得明确的地位感，每逢拿不定主意时还能获得励志的好榜样和忠告。他们因此能够在恰当的时间和地点全力以赴，学科对头，学校对头，班级对头，等等。与之相反，来自最贫困的家庭的学生，尤其是移民的孩子，往往难逃自生自灭的命运，从小学后期开始，他们就听凭校方的诫令和偶然性的摆布，只为在一个日益复杂的世界里找到自己的出路。他们被迫不合时宜地和逆向地运用自己的已经很微薄的文化资本。",
+          "star": -1,
+          "createTime": 1724806470,
+          "createTimeFormatted": "2024-08-28 08:54:30",
+          "isFinish": false,
+          "chapterUid": 8
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300050368_4_976-1034",
+      "chapterUid": 4,
+      "range": "976-1034",
+      "markText": "“勿惋惜，勿嘲笑，勿憎恶，唯求理解。”斯宾诺莎的这条格言，社会学者如果拿不出恪守它的办法，则纵然以之自律也是没用的。",
+      "totalCount": 846,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=4&rangeStart=976&rangeEnd=1034",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=4&rangeStart=976&rangeEnd=1034"
+    },
+    {
+      "bookmarkId": "3300050368_5_2462-2513",
+      "chapterUid": 5,
+      "range": "2462-2513",
+      "markText": "可是，只讲生存条件的深重苦难而排斥其他一切困苦，无异于对很大一部分反映社会秩序的困苦视而不见和不理解。",
+      "totalCount": 400,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=2462&rangeEnd=2513",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=2462&rangeEnd=2513"
+    },
+    {
+      "bookmarkId": "3300050368_5_5966-5987",
+      "chapterUid": 5,
+      "range": "5966-5987",
+      "markText": "孩子们都说：“只要人在学校，我就没失业。”",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=5966&rangeEnd=5987",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=5966&rangeEnd=5987"
+    },
+    {
+      "bookmarkId": "3300050368_5_3697-3758",
+      "chapterUid": 5,
+      "range": "3697-3758",
+      "markText": "因为中学虽然能够把孩子们从工厂引开，可是除了贬值的证书以外，大多给不了别的什么——在这个危机重重的地区，这往往意味着失业。",
+      "totalCount": 264,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=3697&rangeEnd=3758",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=3697&rangeEnd=3758"
+    },
+    {
+      "bookmarkId": "3300050368_5_1419-1453",
+      "chapterUid": 5,
+      "range": "1419-1453",
+      "markText": "这个角度绝不是主观的相对主义，因为那将导致某种犬儒主义或者虚无主义。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=1419&rangeEnd=1453",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=1419&rangeEnd=1453"
+    },
+    {
+      "bookmarkId": "3300050368_5_12044-12141",
+      "chapterUid": 5,
+      "range": "12044-12141",
+      "markText": "他举出学校，或者更准确地说，学业受挫的失落感，或者文凭持有者在劳务市场受挫后的失落感。因此，应当注意他在这次采访最后所说：这是一种宿命，就业不足的宿命，落在学业受挫加上种族歧视的双料牺牲品身上。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=12044&rangeEnd=12141",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=12044&rangeEnd=12141"
+    },
+    {
+      "bookmarkId": "3300050368_5_32156-32227",
+      "chapterUid": 5,
+      "range": "32156-32227",
+      "markText": "他们在这块空间上寄托着全部憧憬和提高社会地位的期盼。它既是他们的一笔投资，也是栖身托命之地，而且凭借它来对抗他们所担忧的衰落、沉沦和失掉资格。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=32156&rangeEnd=32227",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=32156&rangeEnd=32227"
+    },
+    {
+      "bookmarkId": "3300050368_5_15031-15057",
+      "chapterUid": 5,
+      "range": "15031-15057",
+      "markText": "如今的年轻人呢，出了学校，教给他们的东西都白费了……",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=15031&rangeEnd=15057",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=15031&rangeEnd=15057"
+    },
+    {
+      "bookmarkId": "3300050368_5_600-674",
+      "chapterUid": 5,
+      "range": "600-674",
+      "markText": "应当通过简单的并列，展示不同的甚至冲突的世界观的交锋的后果，即产生于格格不入的观点之间的悲剧性，因为这些互不让步、互不妥协的观点都各有各的社会理由。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=600&rangeEnd=674",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=600&rangeEnd=674"
+    },
+    {
+      "bookmarkId": "3300050368_4_1489-1556",
+      "chapterUid": 4,
+      "range": "1489-1556",
+      "markText": "这些东西不仅存在于笔录无法显示的语气和语调里，而且存在于所有肢体语言当中，动作、姿势、模仿手势、目光等，此外还有沉默、弦外之音和口误。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=4&rangeStart=1489&rangeEnd=1556",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=4&rangeStart=1489&rangeEnd=1556"
+    },
+    {
+      "bookmarkId": "3300050368_5_4635-4680",
+      "chapterUid": 5,
+      "range": "4635-4680",
+      "markText": "（“解雇”是一个人们忌用的字眼：“冶金工业重组”的负责人管它叫“根据社会计划撤减岗位”），",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=4635&rangeEnd=4680",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=4635&rangeEnd=4680"
+    },
+    {
+      "bookmarkId": "3300050368_3_4051-4142",
+      "chapterUid": 3,
+      "range": "4051-4142",
+      "markText": "因为它揭露出隐藏在背后的有时被抑制的东西，还因为它经常与统治者的利益相违背，部分由于这些利益隐匿于缄默的表面之下或于情理之后，而情理经常告诉人们事情就应该是这样的且无法是其他的样子。",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=3&rangeStart=4051&rangeEnd=4142",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=3&rangeStart=4051&rangeEnd=4142"
+    },
+    {
+      "bookmarkId": "3300050368_3_2681-2741",
+      "chapterUid": 3,
+      "range": "2681-2741",
+      "markText": "沉浸在经验现实中会使人自然而然地把观察到的案例建构为一种可能性，而这一可能性又被置于一个可能出现的形势是被限定的世界中。",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=3&rangeStart=2681&rangeEnd=2741",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=3&rangeStart=2681&rangeEnd=2741"
+    },
+    {
+      "bookmarkId": "3300050368_5_5540-5721",
+      "chapterUid": 5,
+      "range": "5540-5721",
+      "markText": "孩子们拿到专科技能证书(CAP)，出去也没用，因为即使能凑合找到一份工作，他们也不会干，他们会觉得学非所用。我觉得这得怪学校",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=5540&rangeEnd=5721",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=5540&rangeEnd=5721"
+    },
+    {
+      "bookmarkId": "3300050368_5_3541-3592",
+      "chapterUid": 5,
+      "range": "3541-3592",
+      "markText": "他们往往在14岁时获得学校毕业证书，然后踏着父辈的脚印走进工厂，而且很自然地期待自己的子女也走这条路。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=3541&rangeEnd=3592",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=3541&rangeEnd=3592"
+    },
+    {
+      "bookmarkId": "3300050368_5_18269-18354",
+      "chapterUid": 5,
+      "range": "18269-18354",
+      "markText": "勒布隆先生：有时候，我们开玩笑，说找到了一些年龄在20到25岁之间，有五年资历、五年工作经验的25岁的年轻人，这个我倒是想见识见识，这种人可不是满街跑的哟！",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=18269&rangeEnd=18354",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=18269&rangeEnd=18354"
+    },
+    {
+      "bookmarkId": "3300050368_5_13883-13935",
+      "chapterUid": 5,
+      "range": "13883-13935",
+      "markText": "是有些东西没弄懂，可是不敢问老师，所以老是那个样子，不懂，没弄懂。别人告诉她：“你倒是问问老师啊。”……",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=13883&rangeEnd=13935",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=13883&rangeEnd=13935"
+    },
+    {
+      "bookmarkId": "3300050368_5_37039-37115",
+      "chapterUid": 5,
+      "range": "37039-37115",
+      "markText": "儿子：老一套。不能明说阿拉伯人邻居不好，说他们脏，有怪味，太吵闹，家里总是人口太多，这些都没法公开说，那就找别的茬子，理由总能找出一点……",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=37039&rangeEnd=37115",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=37039&rangeEnd=37115"
+    },
+    {
+      "bookmarkId": "3300050368_5_476-520",
+      "chapterUid": 5,
+      "range": "476-520",
+      "markText": "必须共居一地的结果不是互不了解或互不理解，就是明里暗里产生纠纷，忍受着由此产生的一切苦恼",
+      "totalCount": 135,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=476&rangeEnd=520",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=476&rangeEnd=520"
+    },
+    {
+      "bookmarkId": "3300050368_5_17843-17952",
+      "chapterUid": 5,
+      "range": "17843-17952",
+      "markText": "勒布隆先生：不行！照目前这个局面，我得说，行不通的，因为人家总是要年轻人，还得有经验。 刚满50岁，就叫你走人",
+      "totalCount": 132,
+      "appLink": "weread://bestbookmark?bookId=3300050368&chapterUid=5&rangeStart=17843&rangeEnd=17952",
+      "webLink": "https://weread.qq.com/web/reader/31232280813ab7a2cg018789?chapterUid=5&rangeStart=17843&rangeEnd=17952"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 5,
+    "chapterOffset": 197938,
+    "progress": 0,
+    "updateTime": 1749640226,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

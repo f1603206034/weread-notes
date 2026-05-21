@@ -1,0 +1,460 @@
+{
+  "meta": {
+    "bookId": "25178845",
+    "title": "大脑的故事",
+    "author": "大卫·伊格曼",
+    "translator": "闾佳",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/845/25178845/t6_25178845.jpg",
+    "intro": "人体是一个复杂而精美的杰作，而大脑是其中神秘的存在。我们通过它在世界上来往穿梭、做决策，放飞想象力。 我们的美梦、清醒时的人生，都源自它飞速运动的数十亿细胞。我们历经悲喜、绚丽多彩的完整人生，都发生在这区区 1.4 千克重的东西里。而如此重要的大脑，一直像一个难解的谜题，困住了无数顶尖的科学家，也被我们所忽视。在《大脑的故事》中，享誉全球的脑科学家，《西部世界》科学顾问大卫·伊格曼，用一篇篇引人入胜的故事，为你展现脑科学领域的前沿成果，带你领略大脑宇宙的奇妙之处。在《大脑的故事》中，这些问题都将得到解答，你会看到大脑如何塑造了我们，我们如何依靠大脑感知世界，如何做出一个个影响我们人生的决策，以及未来人类将走向何方。没有一本书，比《大脑的故事》更适合作为脑科学的入门读物了。阅读这本书，不需要你具备任何专业知识，只需要带着好奇心和自我探索的欲望就够了！",
+    "category": "科学技术-科学科普",
+    "publisher": "浙江教育出版社",
+    "publishTime": "2019-04-01 00:00:00",
+    "isbn": "9787553678399",
+    "wordCount": 0,
+    "newRating": 847,
+    "newRatingCount": 1437,
+    "newRatingDetail": {
+      "good": 1227,
+      "fair": 188,
+      "poor": 22,
+      "recent": 9,
+      "deepV": 286,
+      "myRating": "",
+      "title": "脍炙人口"
+    },
+    "appLink": "weread://reading?bId=25178845",
+    "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d",
+    "lastSync": "2026-05-21T11:57:22Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 131,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 1531,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "献给中国读者",
+      "level": 1,
+      "wordCount": 373,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "前言 从人类自身寻找解开大脑之谜的钥匙",
+      "level": 1,
+      "wordCount": 849,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "测一测：你对大脑的了解有多少？",
+      "level": 1,
+      "wordCount": 497,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "CHAPTER 1 我是谁",
+      "level": 1,
+      "wordCount": 14840,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "CHAPTER 2 我们如何感知世界",
+      "level": 1,
+      "wordCount": 15442,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "CHAPTER 3 谁说了算",
+      "level": 1,
+      "wordCount": 13633,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "CHAPTER 4 我怎样做决定",
+      "level": 1,
+      "wordCount": 16543,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "CHAPTER 5 我需要你吗",
+      "level": 1,
+      "wordCount": 13925,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "CHAPTER 6 我们会成为什么",
+      "level": 1,
+      "wordCount": 20764,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 1085,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "注释与参考文献",
+      "level": 1,
+      "wordCount": 14431,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "术语表",
+      "level": 1,
+      "wordCount": 2008,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "译者后记",
+      "level": 1,
+      "wordCount": 816,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178845&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=16"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 7,
+      "chapterTitle": "CHAPTER 1 我是谁",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25178845_7_2419-2528",
+          "range": "2419-2528",
+          "rangeStart": 2419,
+          "rangeEnd": 2528,
+          "markText": "人类大脑不是一生下来所有东西都接好了线，而是根据生活经历的细节来进行塑造的，这就导致人在年幼时，大脑要经历漫长的时期来适应环境。动物大脑按预设程序接线的方式通常被称为“硬接线”，而人类大脑的接线方式则叫作“现场接线”。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1721693105,
+          "createTimeFormatted": "2024-07-23 08:05:05",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=7&rangeStart=2419&rangeEnd=2528",
+          "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=7&rangeStart=2419&rangeEnd=2528"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "25178845_7_16137-16154",
+      "chapterUid": 7,
+      "range": "16137-16154",
+      "markText": "记忆的敌人不是时间，而是其他记忆。",
+      "totalCount": 1513,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=7&rangeStart=16137&rangeEnd=16154",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=7&rangeStart=16137&rangeEnd=16154"
+    },
+    {
+      "bookmarkId": "25178845_3_1228-1296",
+      "chapterUid": 3,
+      "range": "1228-1296",
+      "markText": "“时间变慢”背后的原理是：身处危机之时，我们会对时间产生“预期”判断，多数情况下我们是在“回顾”时间，所以时间的长短体现的是记忆的密度。",
+      "totalCount": 1166,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=3&rangeStart=1228&rangeEnd=1296",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=3&rangeStart=1228&rangeEnd=1296"
+    },
+    {
+      "bookmarkId": "25178845_7_788-886",
+      "chapterUid": 7,
+      "range": "788-886",
+      "markText": "大脑永不停歇地改变形状，持续地重塑自身回路；而因为你的经历独一无二，所以你神经网络里广阔而复杂的连接模式也独一无二。此外，这些模式还在不断地改变你的整个生活，“你是谁”也因此在不断变化，永不休止。",
+      "totalCount": 1134,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=7&rangeStart=788&rangeEnd=886",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=7&rangeStart=788&rangeEnd=886"
+    },
+    {
+      "bookmarkId": "25178845_9_10311-10370",
+      "chapterUid": 9,
+      "range": "10311-10370",
+      "markText": "自动化技能有一点有趣的优势：有意识地加以干预，往往会使其表现变差。习得的熟练动作，哪怕非常复杂，最好还是不要加以干涉。",
+      "totalCount": 990,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=9&rangeStart=10311&rangeEnd=10370",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=9&rangeStart=10311&rangeEnd=10370"
+    },
+    {
+      "bookmarkId": "25178845_7_15069-15125",
+      "chapterUid": 7,
+      "range": "15069-15125",
+      "markText": "记忆并不是一段视频，不能准确地记录你人生的每一个瞬间；它是来自往昔时光的一种脆弱的大脑状态，你要回想，它才浮现。",
+      "totalCount": 900,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=7&rangeStart=15069&rangeEnd=15125",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=7&rangeStart=15069&rangeEnd=15125"
+    },
+    {
+      "bookmarkId": "25178845_8_24738-24818",
+      "chapterUid": 8,
+      "range": "24738-24818",
+      "markText": "那么，什么是现实呢？它就像是一套只有你能看见的电视节目，而且你无法把它关掉。好消息是，它播出的恰好是你能接收到的最有趣的节目，经过编辑，非常个性化，只为你播出。",
+      "totalCount": 885,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=8&rangeStart=24738&rangeEnd=24818",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=8&rangeStart=24738&rangeEnd=24818"
+    },
+    {
+      "bookmarkId": "25178845_7_6172-6200",
+      "chapterUid": 7,
+      "range": "6172-6200",
+      "markText": "在没有情感关爱和认知刺激的环境中，人的大脑无法正常发育。",
+      "totalCount": 882,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=7&rangeStart=6172&rangeEnd=6200",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=7&rangeStart=6172&rangeEnd=6200"
+    },
+    {
+      "bookmarkId": "25178845_7_4042-4124",
+      "chapterUid": 7,
+      "range": "4042-4124",
+      "markText": "从某种意义上说，你成为自己的过程，就像从一块大理石中把本就存在的可能模样雕刻出来。你之所以成为你，不是因为你大脑里生长出了什么东西，而是因为原有的一些东西被删除了。",
+      "totalCount": 830,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=7&rangeStart=4042&rangeEnd=4124",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=7&rangeStart=4042&rangeEnd=4124"
+    },
+    {
+      "bookmarkId": "25178845_8_18378-18411",
+      "chapterUid": 8,
+      "range": "18378-18411",
+      "markText": "真实的世界并不产生这些丰富的感觉；是大脑靠着自己的官能照亮了世界。",
+      "totalCount": 810,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=8&rangeStart=18378&rangeEnd=18411",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=8&rangeStart=18378&rangeEnd=18411"
+    },
+    {
+      "bookmarkId": "25178845_7_12632-12720",
+      "chapterUid": 7,
+      "range": "12632-12720",
+      "markText": "你的出身、文化、朋友、工作、看过的每一部电影、进行的每一场谈话，这些全都在神经系统里留下了痕迹。这些不可磨灭的、微小的印象积累起来，造就了你是什么人，也限定了你能够成为什么人。",
+      "totalCount": 756,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=7&rangeStart=12632&rangeEnd=12720",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=7&rangeStart=12632&rangeEnd=12720"
+    },
+    {
+      "bookmarkId": "25178845_7_17203-17261",
+      "chapterUid": 7,
+      "range": "17203-17261",
+      "markText": "所以，不光有可能往大脑里植入虚构的新记忆，人们还会欣然接受它，为其点缀细节，不知不觉地把幻想编织进自己的身份认同里。",
+      "totalCount": 750,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=7&rangeStart=17203&rangeEnd=17261",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=7&rangeStart=17203&rangeEnd=17261"
+    },
+    {
+      "bookmarkId": "25178845_7_20501-20577",
+      "chapterUid": 7,
+      "range": "20501-20577",
+      "markText": "反过来，他们发现，如孤独、焦虑、抑郁、比一般人更易忧虑等消极心理因素，则跟认知快速衰退相关。积极的特质，如有责任心、生活有目标、保持忙碌，则有保护作用。",
+      "totalCount": 672,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=7&rangeStart=20501&rangeEnd=20577",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=7&rangeStart=20501&rangeEnd=20577"
+    },
+    {
+      "bookmarkId": "25178845_8_18100-18178",
+      "chapterUid": 8,
+      "range": "18100-18178",
+      "markText": "没有哪种生物体验到了真实的客观现实；每一种生物经过进化演变，都只感知到自己能够感知的现实部分。但推测起来，每一种生物也都认为自己的现实片段就是整个客观世界。",
+      "totalCount": 672,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=8&rangeStart=18100&rangeEnd=18178",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=8&rangeStart=18100&rangeEnd=18178"
+    },
+    {
+      "bookmarkId": "25178845_8_2057-2126",
+      "chapterUid": 8,
+      "range": "2057-2126",
+      "markText": "脑中的外部世界画面，不一定就是对外部世界的准确再现。我们对现实的感知，与外面发生的真实情况没有太多关系，而更多地是与大脑里发生的事情有关。",
+      "totalCount": 658,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=8&rangeStart=2057&rangeEnd=2126",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=8&rangeStart=2057&rangeEnd=2126"
+    },
+    {
+      "bookmarkId": "25178845_10_4780-4854",
+      "chapterUid": 10,
+      "range": "4780-4854",
+      "markText": "大脑里的冲突持续不断，带来的结果是：我们可以自己跟自己争论、自己咒骂自己、自己哄骗自己。但到底是谁在跟谁说话呢？全都是你，只不过是你的不同部分罢了。",
+      "totalCount": 656,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=10&rangeStart=4780&rangeEnd=4854",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=10&rangeStart=4780&rangeEnd=4854"
+    },
+    {
+      "bookmarkId": "25178845_7_2483-2528",
+      "chapterUid": 7,
+      "range": "2483-2528",
+      "markText": "动物大脑按预设程序接线的方式通常被称为“硬接线”，而人类大脑的接线方式则叫作“现场接线”。",
+      "totalCount": 612,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=7&rangeStart=2483&rangeEnd=2528",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=7&rangeStart=2483&rangeEnd=2528"
+    },
+    {
+      "bookmarkId": "25178845_11_779-829",
+      "chapterUid": 11,
+      "range": "779-829",
+      "markText": "正常的大脑运转依赖于我们周围的社会网络。我们的神经元需要与其他人的神经元互动才能茁壮成长，延续生存。",
+      "totalCount": 612,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=11&rangeStart=779&rangeEnd=829",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=11&rangeStart=779&rangeEnd=829"
+    },
+    {
+      "bookmarkId": "25178845_7_7273-7352",
+      "chapterUid": 7,
+      "range": "7273-7352",
+      "markText": "这说明周围的环境对塑造我们成为什么样的人有重要的意义，我们对环境非常敏感。因为人脑采用的是现场接线策略，我们是什么样的人，在很大程度上取决于我们所置身的环境。",
+      "totalCount": 608,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=7&rangeStart=7273&rangeEnd=7352",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=7&rangeStart=7273&rangeEnd=7352"
+    },
+    {
+      "bookmarkId": "25178845_8_13993-14042",
+      "chapterUid": 8,
+      "range": "13993-14042",
+      "markText": "任一瞬间，我们所体验到的“看”，只在较小程度上取决于进入眼睛的光，更多是取决于脑子里已经有的东西。",
+      "totalCount": 585,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=8&rangeStart=13993&rangeEnd=14042",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=8&rangeStart=13993&rangeEnd=14042"
+    },
+    {
+      "bookmarkId": "25178845_10_17642-17704",
+      "chapterUid": 10,
+      "range": "17642-17704",
+      "markText": "尤利西斯契约的关键在于，要意识到自己在不同的背景环境中会变成不同的人。要做出更好的决策，不光要了解自己，更要了解所有的自己。",
+      "totalCount": 564,
+      "appLink": "weread://bestbookmark?bookId=25178845&chapterUid=10&rangeStart=17642&rangeEnd=17704",
+      "webLink": "https://weread.qq.com/web/reader/3f332830718032dd3f3156d?chapterUid=10&rangeStart=17642&rangeEnd=17704"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

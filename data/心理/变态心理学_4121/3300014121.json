@@ -1,0 +1,2980 @@
+{
+  "meta": {
+    "bookId": "3300014121",
+    "title": "变态心理学",
+    "author": "[美]苏珊·诺伦-霍克西玛",
+    "translator": "邹丹等",
+    "cover": "https://cdn.weread.qq.com/weread/cover/13/cpplatform_pmqtsnqskskf1eahxyhhga/t6_cpplatform_pmqtsnqskskf1eahxyhhga1724321400.jpg",
+    "intro": "为什么人们会抑郁甚至产生自杀倾向？为什么有些人对社交感到焦虑和恐惧？我们在经历创伤后为什么难以走出阴影？赌博和毒品为什么让人上瘾？异常心理和行为离我们并不遥远，它们就发生在我们身边。\n变态心理学（也译作“异常心理学”）是对各种异常心理现象和行为进行研究的心理学分支学科。本书为这一领域的经典著作，它不仅是一部科学、严谨的科学著作，也具备引人入胜的写作风格，还包含贯穿全书的非常人物、个案研究、灰色地带、批判性思考等各种专栏和图表，有助于让读者对心理障碍产生更多的感性认识，进入心理障碍者的主观世界。\n本书既可作为高等院校变态心理学课程的教材或参考书，也可供心理咨询与治疗领域的工作者在实践中参考，同时也有助于普通读者正确地认识异常心理和行为。",
+    "category": "心理-心理学应用",
+    "publisher": "",
+    "publishTime": "2024-08-22 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 801,
+    "newRatingCount": 202,
+    "newRatingDetail": {
+      "good": 161,
+      "fair": 26,
+      "poor": 15,
+      "recent": 2,
+      "deepV": 60,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300014121",
+    "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83",
+    "lastSync": "2026-05-21T11:50:20Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 3,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=1"
+    },
+    {
+      "chapterUid": 191,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 962,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=191",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=191"
+    },
+    {
+      "chapterUid": 192,
+      "chapterIdx": 3,
+      "title": "文前",
+      "level": 1,
+      "wordCount": 431,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=192",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=192"
+    },
+    {
+      "chapterUid": 193,
+      "chapterIdx": 4,
+      "title": "推荐语",
+      "level": 1,
+      "wordCount": 657,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=193",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=193"
+    },
+    {
+      "chapterUid": 194,
+      "chapterIdx": 5,
+      "title": "缅怀",
+      "level": 1,
+      "wordCount": 718,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=194",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=194"
+    },
+    {
+      "chapterUid": 195,
+      "chapterIdx": 6,
+      "title": "献词",
+      "level": 1,
+      "wordCount": 20,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=195",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=195"
+    },
+    {
+      "chapterUid": 196,
+      "chapterIdx": 7,
+      "title": "内容提要",
+      "level": 1,
+      "wordCount": 711,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=196",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=196"
+    },
+    {
+      "chapterUid": 197,
+      "chapterIdx": 8,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 5731,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=197",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=197"
+    },
+    {
+      "chapterUid": 198,
+      "chapterIdx": 9,
+      "title": "第1章 异常心理和行为一瞥",
+      "level": 1,
+      "wordCount": 12,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=198",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=198"
+    },
+    {
+      "chapterUid": 199,
+      "chapterIdx": 10,
+      "title": "连续谱模型下的异常",
+      "level": 2,
+      "wordCount": 27160,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "定义变态或异常",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "精神疾病",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        },
+        {
+          "title": "文化规范",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        },
+        {
+          "title": "异常的“4D”",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        },
+        {
+          "title": "异常的历史回顾",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "古代理论",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "中世纪的观点",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        },
+        {
+          "title": "精神病院的兴起",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        },
+        {
+          "title": "18和19世纪的人道治疗",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        },
+        {
+          "title": "现代观点的出现",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        },
+        {
+          "title": "现代生物学观点的起始",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "精神分析观点",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        },
+        {
+          "title": "行为主义的根源",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "认知革命",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        },
+        {
+          "title": "现代心理健康保健",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        },
+        {
+          "title": "去机构化运动",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        },
+        {
+          "title": "管理型医疗保健",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "变态心理学领域中的职业",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=199",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199"
+    },
+    {
+      "chapterUid": 200,
+      "chapterIdx": 11,
+      "title": "第2章 异常的理论与治疗",
+      "level": 1,
+      "wordCount": 11,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=200",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=200"
+    },
+    {
+      "chapterUid": 201,
+      "chapterIdx": 12,
+      "title": "连续谱模型下的三种取向",
+      "level": 2,
+      "wordCount": 42364,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        },
+        {
+          "title": "生物学取向",
+          "anchor": "sigil_toc_id_29",
+          "level": 2
+        },
+        {
+          "title": "脑功能失调",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        },
+        {
+          "title": "生化失衡",
+          "anchor": "sigil_toc_id_31",
+          "level": 3
+        },
+        {
+          "title": "异常的遗传因素",
+          "anchor": "sigil_toc_id_32",
+          "level": 3
+        },
+        {
+          "title": "药物治疗",
+          "anchor": "sigil_toc_id_33",
+          "level": 3
+        },
+        {
+          "title": "电休克治疗和新型脑刺激技术",
+          "anchor": "sigil_toc_id_34",
+          "level": 3
+        },
+        {
+          "title": "精神外科手术",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        },
+        {
+          "title": "生物学取向的评价",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        },
+        {
+          "title": "心理学取向",
+          "anchor": "sigil_toc_id_37",
+          "level": 2
+        },
+        {
+          "title": "行为取向",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "认知取向",
+          "anchor": "sigil_toc_id_39",
+          "level": 3
+        },
+        {
+          "title": "心理动力学取向",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        },
+        {
+          "title": "人本主义取向",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        },
+        {
+          "title": "家庭系统取向",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        },
+        {
+          "title": "第三浪潮取向",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        },
+        {
+          "title": "利用新技术提供治疗",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "社会文化取向",
+          "anchor": "sigil_toc_id_46",
+          "level": 2
+        },
+        {
+          "title": "治疗中的跨文化问题",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "文化中特定的疗法",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "社会文化取向的评价",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        },
+        {
+          "title": "预防计划",
+          "anchor": "sigil_toc_id_50",
+          "level": 2
+        },
+        {
+          "title": "有效治疗的共同要素",
+          "anchor": "sigil_toc_id_51",
+          "level": 2
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_52",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_53",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_55",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_56",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=201",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=201"
+    },
+    {
+      "chapterUid": 202,
+      "chapterIdx": 13,
+      "title": "第3章 异常的评估与诊断",
+      "level": 1,
+      "wordCount": 11,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=202",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=202"
+    },
+    {
+      "chapterUid": 203,
+      "chapterIdx": 14,
+      "title": "连续谱模型下的评估和诊断",
+      "level": 2,
+      "wordCount": 24497,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_58",
+          "level": 2
+        },
+        {
+          "title": "评估工具",
+          "anchor": "sigil_toc_id_59",
+          "level": 2
+        },
+        {
+          "title": "效度",
+          "anchor": "sigil_toc_id_60",
+          "level": 3
+        },
+        {
+          "title": "信度",
+          "anchor": "sigil_toc_id_61",
+          "level": 3
+        },
+        {
+          "title": "标准化",
+          "anchor": "sigil_toc_id_62",
+          "level": 3
+        },
+        {
+          "title": "临床访谈",
+          "anchor": "sigil_toc_id_63",
+          "level": 3
+        },
+        {
+          "title": "症状问卷",
+          "anchor": "sigil_toc_id_64",
+          "level": 3
+        },
+        {
+          "title": "人格量表",
+          "anchor": "sigil_toc_id_65",
+          "level": 3
+        },
+        {
+          "title": "行为观察和自我监控",
+          "anchor": "sigil_toc_id_66",
+          "level": 3
+        },
+        {
+          "title": "智力测验",
+          "anchor": "sigil_toc_id_67",
+          "level": 3
+        },
+        {
+          "title": "神经心理测验",
+          "anchor": "sigil_toc_id_68",
+          "level": 3
+        },
+        {
+          "title": "脑成像技术",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        },
+        {
+          "title": "心理生理测试",
+          "anchor": "sigil_toc_id_70",
+          "level": 3
+        },
+        {
+          "title": "投射测验",
+          "anchor": "sigil_toc_id_71",
+          "level": 3
+        },
+        {
+          "title": "评估中的挑战",
+          "anchor": "sigil_toc_id_72",
+          "level": 2
+        },
+        {
+          "title": "阻抗提供信息",
+          "anchor": "sigil_toc_id_73",
+          "level": 3
+        },
+        {
+          "title": "评估儿童",
+          "anchor": "sigil_toc_id_74",
+          "level": 3
+        },
+        {
+          "title": "跨文化评估",
+          "anchor": "sigil_toc_id_75",
+          "level": 3
+        },
+        {
+          "title": "诊断",
+          "anchor": "sigil_toc_id_76",
+          "level": 2
+        },
+        {
+          "title": "《精神障碍诊断与统计手册》(DSM)",
+          "anchor": "sigil_toc_id_77",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_78",
+          "level": 3
+        },
+        {
+          "title": "诊断的社会心理危险",
+          "anchor": "sigil_toc_id_79",
+          "level": 3
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_80",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_81",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_82",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_83",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_84",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=203",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=203"
+    },
+    {
+      "chapterUid": 204,
+      "chapterIdx": 15,
+      "title": "第4章 研究方法",
+      "level": 1,
+      "wordCount": 7,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=204",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=204"
+    },
+    {
+      "chapterUid": 205,
+      "chapterIdx": 16,
+      "title": "连续谱模型下的研究",
+      "level": 2,
+      "wordCount": 26799,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_86",
+          "level": 2
+        },
+        {
+          "title": "科学方法",
+          "anchor": "sigil_toc_id_87",
+          "level": 2
+        },
+        {
+          "title": "定义问题和提出假设",
+          "anchor": "sigil_toc_id_88",
+          "level": 3
+        },
+        {
+          "title": "研究方法的选择和实施",
+          "anchor": "sigil_toc_id_89",
+          "level": 3
+        },
+        {
+          "title": "研究中的伦理问题",
+          "anchor": "sigil_toc_id_90",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_91",
+          "level": 3
+        },
+        {
+          "title": "个案研究",
+          "anchor": "sigil_toc_id_92",
+          "level": 2
+        },
+        {
+          "title": "个案研究的评价",
+          "anchor": "sigil_toc_id_93",
+          "level": 3
+        },
+        {
+          "title": "相关研究",
+          "anchor": "sigil_toc_id_94",
+          "level": 2
+        },
+        {
+          "title": "测量变量之间的关系",
+          "anchor": "sigil_toc_id_95",
+          "level": 3
+        },
+        {
+          "title": "选择样本",
+          "anchor": "sigil_toc_id_96",
+          "level": 3
+        },
+        {
+          "title": "相关研究的评价",
+          "anchor": "sigil_toc_id_97",
+          "level": 3
+        },
+        {
+          "title": "流行病学研究",
+          "anchor": "sigil_toc_id_98",
+          "level": 2
+        },
+        {
+          "title": "流行病学研究的评价",
+          "anchor": "sigil_toc_id_99",
+          "level": 3
+        },
+        {
+          "title": "实验研究",
+          "anchor": "sigil_toc_id_100",
+          "level": 2
+        },
+        {
+          "title": "人类实验室研究",
+          "anchor": "sigil_toc_id_101",
+          "level": 3
+        },
+        {
+          "title": "治疗效果研究",
+          "anchor": "sigil_toc_id_102",
+          "level": 3
+        },
+        {
+          "title": "单被试实验设计",
+          "anchor": "sigil_toc_id_103",
+          "level": 3
+        },
+        {
+          "title": "动物研究",
+          "anchor": "sigil_toc_id_104",
+          "level": 3
+        },
+        {
+          "title": "遗传研究",
+          "anchor": "sigil_toc_id_105",
+          "level": 2
+        },
+        {
+          "title": "家族史研究",
+          "anchor": "sigil_toc_id_106",
+          "level": 3
+        },
+        {
+          "title": "双生子研究",
+          "anchor": "sigil_toc_id_107",
+          "level": 3
+        },
+        {
+          "title": "领养研究",
+          "anchor": "sigil_toc_id_108",
+          "level": 3
+        },
+        {
+          "title": "分子遗传学研究和连锁分析",
+          "anchor": "sigil_toc_id_109",
+          "level": 3
+        },
+        {
+          "title": "跨文化研究",
+          "anchor": "sigil_toc_id_110",
+          "level": 2
+        },
+        {
+          "title": "元分析",
+          "anchor": "sigil_toc_id_111",
+          "level": 2
+        },
+        {
+          "title": "元分析的评价",
+          "anchor": "sigil_toc_id_112",
+          "level": 3
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_113",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_114",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_115",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_116",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_117",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=205",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=205"
+    },
+    {
+      "chapterUid": 206,
+      "chapterIdx": 17,
+      "title": "第5章 创伤、焦虑、强迫及相关障碍",
+      "level": 1,
+      "wordCount": 16,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=206",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=206"
+    },
+    {
+      "chapterUid": 207,
+      "chapterIdx": 18,
+      "title": "连续谱模型下的恐惧和焦虑",
+      "level": 2,
+      "wordCount": 51236,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_119",
+          "level": 2
+        },
+        {
+          "title": "创伤后应激障碍和急性应激障碍",
+          "anchor": "sigil_toc_id_120",
+          "level": 2
+        },
+        {
+          "title": "导致创伤后应激障碍的创伤",
+          "anchor": "sigil_toc_id_121",
+          "level": 3
+        },
+        {
+          "title": "创伤后应激障碍的理论",
+          "anchor": "sigil_toc_id_122",
+          "level": 3
+        },
+        {
+          "title": "创伤后应激障碍的治疗",
+          "anchor": "sigil_toc_id_123",
+          "level": 3
+        },
+        {
+          "title": "特定恐怖症和广场恐怖症",
+          "anchor": "sigil_toc_id_124",
+          "level": 2
+        },
+        {
+          "title": "特定恐怖症",
+          "anchor": "sigil_toc_id_125",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_126",
+          "level": 3
+        },
+        {
+          "title": "广场恐怖症",
+          "anchor": "sigil_toc_id_127",
+          "level": 3
+        },
+        {
+          "title": "恐怖症的理论",
+          "anchor": "sigil_toc_id_128",
+          "level": 3
+        },
+        {
+          "title": "恐怖症的治疗",
+          "anchor": "sigil_toc_id_129",
+          "level": 3
+        },
+        {
+          "title": "社交焦虑障碍",
+          "anchor": "sigil_toc_id_130",
+          "level": 3
+        },
+        {
+          "title": "社交焦虑障碍的理论",
+          "anchor": "sigil_toc_id_131",
+          "level": 3
+        },
+        {
+          "title": "社交焦虑障碍的治疗",
+          "anchor": "sigil_toc_id_132",
+          "level": 3
+        },
+        {
+          "title": "惊恐障碍",
+          "anchor": "sigil_toc_id_133",
+          "level": 2
+        },
+        {
+          "title": "惊恐障碍的理论",
+          "anchor": "sigil_toc_id_134",
+          "level": 3
+        },
+        {
+          "title": "惊恐障碍的治疗",
+          "anchor": "sigil_toc_id_135",
+          "level": 3
+        },
+        {
+          "title": "广泛性焦虑障碍",
+          "anchor": "sigil_toc_id_136",
+          "level": 2
+        },
+        {
+          "title": "广泛性焦虑障碍的理论",
+          "anchor": "sigil_toc_id_137",
+          "level": 3
+        },
+        {
+          "title": "广泛性焦虑障碍的治疗",
+          "anchor": "sigil_toc_id_138",
+          "level": 3
+        },
+        {
+          "title": "分离焦虑障碍",
+          "anchor": "sigil_toc_id_139",
+          "level": 2
+        },
+        {
+          "title": "分离焦虑障碍的理论",
+          "anchor": "sigil_toc_id_140",
+          "level": 3
+        },
+        {
+          "title": "分离焦虑障碍的治疗",
+          "anchor": "sigil_toc_id_141",
+          "level": 3
+        },
+        {
+          "title": "强迫症",
+          "anchor": "sigil_toc_id_142",
+          "level": 2
+        },
+        {
+          "title": "强迫症及相关障碍的理论",
+          "anchor": "sigil_toc_id_143",
+          "level": 3
+        },
+        {
+          "title": "强迫症及相关障碍的治疗",
+          "anchor": "sigil_toc_id_144",
+          "level": 3
+        },
+        {
+          "title": "老年人的焦虑障碍",
+          "anchor": "sigil_toc_id_145",
+          "level": 2
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_146",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_147",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_148",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_149",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_150",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=207",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=207"
+    },
+    {
+      "chapterUid": 208,
+      "chapterIdx": 19,
+      "title": "第6章 躯体症状障碍和分离障碍",
+      "level": 1,
+      "wordCount": 14,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=208",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=208"
+    },
+    {
+      "chapterUid": 209,
+      "chapterIdx": 20,
+      "title": "连续谱模型下的躯体症状障碍和分离障碍",
+      "level": 2,
+      "wordCount": 27753,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_152",
+          "level": 2
+        },
+        {
+          "title": "躯体症状障碍",
+          "anchor": "sigil_toc_id_153",
+          "level": 2
+        },
+        {
+          "title": "躯体症状障碍和疾病焦虑障碍",
+          "anchor": "sigil_toc_id_154",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_155",
+          "level": 3
+        },
+        {
+          "title": "转换障碍（功能性神经症状障碍）",
+          "anchor": "sigil_toc_id_156",
+          "level": 3
+        },
+        {
+          "title": "做作性障碍",
+          "anchor": "sigil_toc_id_157",
+          "level": 3
+        },
+        {
+          "title": "分离障碍",
+          "anchor": "sigil_toc_id_158",
+          "level": 2
+        },
+        {
+          "title": "分离性身份障碍",
+          "anchor": "sigil_toc_id_159",
+          "level": 3
+        },
+        {
+          "title": "分离性遗忘症",
+          "anchor": "sigil_toc_id_160",
+          "level": 3
+        },
+        {
+          "title": "人格解体/现实解体障碍",
+          "anchor": "sigil_toc_id_161",
+          "level": 3
+        },
+        {
+          "title": "围绕分离障碍的争议",
+          "anchor": "sigil_toc_id_162",
+          "level": 3
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_163",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_164",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_165",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_166",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_167",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=209",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=209"
+    },
+    {
+      "chapterUid": 210,
+      "chapterIdx": 21,
+      "title": "第7章 心境障碍和自杀",
+      "level": 1,
+      "wordCount": 10,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=210",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=210"
+    },
+    {
+      "chapterUid": 211,
+      "chapterIdx": 22,
+      "title": "连续谱模型下的心境障碍",
+      "level": 2,
+      "wordCount": 50445,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_169",
+          "level": 2
+        },
+        {
+          "title": "抑郁障碍的特征",
+          "anchor": "sigil_toc_id_170",
+          "level": 2
+        },
+        {
+          "title": "抑郁的症状",
+          "anchor": "sigil_toc_id_171",
+          "level": 3
+        },
+        {
+          "title": "抑郁障碍的诊断",
+          "anchor": "sigil_toc_id_172",
+          "level": 3
+        },
+        {
+          "title": "抑郁障碍的患病率和病程",
+          "anchor": "sigil_toc_id_173",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_174",
+          "level": 3
+        },
+        {
+          "title": "双相障碍的特征",
+          "anchor": "sigil_toc_id_175",
+          "level": 2
+        },
+        {
+          "title": "躁狂症状",
+          "anchor": "sigil_toc_id_176",
+          "level": 3
+        },
+        {
+          "title": "双相障碍的患病率和病程",
+          "anchor": "sigil_toc_id_177",
+          "level": 3
+        },
+        {
+          "title": "创造力和双相障碍",
+          "anchor": "sigil_toc_id_178",
+          "level": 3
+        },
+        {
+          "title": "抑郁的理论",
+          "anchor": "sigil_toc_id_179",
+          "level": 2
+        },
+        {
+          "title": "抑郁的生物学理论",
+          "anchor": "sigil_toc_id_180",
+          "level": 3
+        },
+        {
+          "title": "抑郁的心理学理论",
+          "anchor": "sigil_toc_id_181",
+          "level": 3
+        },
+        {
+          "title": "双相障碍的理论",
+          "anchor": "sigil_toc_id_182",
+          "level": 2
+        },
+        {
+          "title": "双相障碍的生物学理论",
+          "anchor": "sigil_toc_id_183",
+          "level": 3
+        },
+        {
+          "title": "双相障碍的社会心理因素",
+          "anchor": "sigil_toc_id_184",
+          "level": 3
+        },
+        {
+          "title": "心境障碍的治疗",
+          "anchor": "sigil_toc_id_185",
+          "level": 2
+        },
+        {
+          "title": "心境障碍的生物治疗",
+          "anchor": "sigil_toc_id_186",
+          "level": 3
+        },
+        {
+          "title": "心境障碍的心理治疗",
+          "anchor": "sigil_toc_id_187",
+          "level": 3
+        },
+        {
+          "title": "各种疗法的比较",
+          "anchor": "sigil_toc_id_188",
+          "level": 3
+        },
+        {
+          "title": "自杀",
+          "anchor": "sigil_toc_id_189",
+          "level": 2
+        },
+        {
+          "title": "自杀的定义和测量",
+          "anchor": "sigil_toc_id_190",
+          "level": 3
+        },
+        {
+          "title": "认识自杀",
+          "anchor": "sigil_toc_id_191",
+          "level": 3
+        },
+        {
+          "title": "治疗和预防",
+          "anchor": "sigil_toc_id_192",
+          "level": 3
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_193",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_194",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_195",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_196",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_197",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=211",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=211"
+    },
+    {
+      "chapterUid": 212,
+      "chapterIdx": 23,
+      "title": "第8章 精神分裂症谱系及其他精神病性障碍",
+      "level": 1,
+      "wordCount": 19,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=212",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=212"
+    },
+    {
+      "chapterUid": 213,
+      "chapterIdx": 24,
+      "title": "连续谱模型下的精神分裂症谱系及其他精神病性障碍",
+      "level": 2,
+      "wordCount": 39796,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_199",
+          "level": 2
+        },
+        {
+          "title": "症状、诊断和病程",
+          "anchor": "sigil_toc_id_200",
+          "level": 2
+        },
+        {
+          "title": "阳性症状",
+          "anchor": "sigil_toc_id_201",
+          "level": 3
+        },
+        {
+          "title": "阴性症状",
+          "anchor": "sigil_toc_id_202",
+          "level": 3
+        },
+        {
+          "title": "认知缺陷",
+          "anchor": "sigil_toc_id_203",
+          "level": 3
+        },
+        {
+          "title": "诊断",
+          "anchor": "sigil_toc_id_204",
+          "level": 3
+        },
+        {
+          "title": "预后",
+          "anchor": "sigil_toc_id_205",
+          "level": 3
+        },
+        {
+          "title": "其他精神病性障碍",
+          "anchor": "sigil_toc_id_206",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_207",
+          "level": 3
+        },
+        {
+          "title": "生物学理论",
+          "anchor": "sigil_toc_id_208",
+          "level": 2
+        },
+        {
+          "title": "精神分裂症的遗传因素",
+          "anchor": "sigil_toc_id_209",
+          "level": 3
+        },
+        {
+          "title": "脑结构和功能异常",
+          "anchor": "sigil_toc_id_210",
+          "level": 3
+        },
+        {
+          "title": "神经递质",
+          "anchor": "sigil_toc_id_211",
+          "level": 3
+        },
+        {
+          "title": "心理社会观点",
+          "anchor": "sigil_toc_id_212",
+          "level": 2
+        },
+        {
+          "title": "社会流动和城市出生",
+          "anchor": "sigil_toc_id_213",
+          "level": 3
+        },
+        {
+          "title": "应激和复发",
+          "anchor": "sigil_toc_id_214",
+          "level": 3
+        },
+        {
+          "title": "精神分裂症和家庭",
+          "anchor": "sigil_toc_id_215",
+          "level": 3
+        },
+        {
+          "title": "认知观点",
+          "anchor": "sigil_toc_id_216",
+          "level": 3
+        },
+        {
+          "title": "跨文化观点",
+          "anchor": "sigil_toc_id_217",
+          "level": 3
+        },
+        {
+          "title": "治疗",
+          "anchor": "sigil_toc_id_218",
+          "level": 2
+        },
+        {
+          "title": "生物学治疗",
+          "anchor": "sigil_toc_id_219",
+          "level": 3
+        },
+        {
+          "title": "心理和社会治疗",
+          "anchor": "sigil_toc_id_220",
+          "level": 3
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_221",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_222",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_223",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_224",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_225",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=213",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=213"
+    },
+    {
+      "chapterUid": 214,
+      "chapterIdx": 25,
+      "title": "第9章 人格障碍",
+      "level": 1,
+      "wordCount": 7,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=214",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=214"
+    },
+    {
+      "chapterUid": 215,
+      "chapterIdx": 26,
+      "title": "连续谱模型下的人格障碍",
+      "level": 2,
+      "wordCount": 34549,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_227",
+          "level": 2
+        },
+        {
+          "title": "人格障碍的一般定义",
+          "anchor": "sigil_toc_id_228",
+          "level": 2
+        },
+        {
+          "title": "A组：奇异-古怪性人格障碍",
+          "anchor": "sigil_toc_id_229",
+          "level": 2
+        },
+        {
+          "title": "偏执型人格障碍",
+          "anchor": "sigil_toc_id_230",
+          "level": 3
+        },
+        {
+          "title": "分裂样人格障碍",
+          "anchor": "sigil_toc_id_231",
+          "level": 3
+        },
+        {
+          "title": "分裂型人格障碍",
+          "anchor": "sigil_toc_id_232",
+          "level": 3
+        },
+        {
+          "title": "B组：戏剧化-情绪性人格障碍",
+          "anchor": "sigil_toc_id_233",
+          "level": 2
+        },
+        {
+          "title": "边缘型人格障碍",
+          "anchor": "sigil_toc_id_234",
+          "level": 3
+        },
+        {
+          "title": "表演型人格障碍",
+          "anchor": "sigil_toc_id_235",
+          "level": 3
+        },
+        {
+          "title": "自恋型人格障碍",
+          "anchor": "sigil_toc_id_236",
+          "level": 3
+        },
+        {
+          "title": "C组：焦虑-恐惧性人格障碍",
+          "anchor": "sigil_toc_id_237",
+          "level": 2
+        },
+        {
+          "title": "回避型人格障碍",
+          "anchor": "sigil_toc_id_238",
+          "level": 3
+        },
+        {
+          "title": "依赖型人格障碍",
+          "anchor": "sigil_toc_id_239",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_240",
+          "level": 3
+        },
+        {
+          "title": "强迫型人格障碍",
+          "anchor": "sigil_toc_id_241",
+          "level": 3
+        },
+        {
+          "title": "人格障碍的DSM-5维度模式",
+          "anchor": "sigil_toc_id_242",
+          "level": 2
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_243",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_244",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_245",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_246",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_247",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=215",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=215"
+    },
+    {
+      "chapterUid": 216,
+      "chapterIdx": 27,
+      "title": "第10章 神经发育与神经认知障碍",
+      "level": 1,
+      "wordCount": 14,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=216",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=216"
+    },
+    {
+      "chapterUid": 217,
+      "chapterIdx": 28,
+      "title": "连续谱模型下的神经发育与神经认知障碍",
+      "level": 2,
+      "wordCount": 42609,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_249",
+          "level": 2
+        },
+        {
+          "title": "注意缺陷／多动障碍",
+          "anchor": "sigil_toc_id_250",
+          "level": 2
+        },
+        {
+          "title": "生物学因素",
+          "anchor": "sigil_toc_id_251",
+          "level": 3
+        },
+        {
+          "title": "心理和社会因素",
+          "anchor": "sigil_toc_id_252",
+          "level": 3
+        },
+        {
+          "title": "注意缺陷／多动障碍的治疗",
+          "anchor": "sigil_toc_id_253",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_254",
+          "level": 3
+        },
+        {
+          "title": "孤独症谱系障碍",
+          "anchor": "sigil_toc_id_255",
+          "level": 2
+        },
+        {
+          "title": "孤独症谱系障碍的致病因素",
+          "anchor": "sigil_toc_id_256",
+          "level": 3
+        },
+        {
+          "title": "孤独症谱系障碍的治疗",
+          "anchor": "sigil_toc_id_257",
+          "level": 3
+        },
+        {
+          "title": "智力障碍",
+          "anchor": "sigil_toc_id_258",
+          "level": 2
+        },
+        {
+          "title": "智力障碍的生物学因素",
+          "anchor": "sigil_toc_id_259",
+          "level": 3
+        },
+        {
+          "title": "社会文化因素",
+          "anchor": "sigil_toc_id_260",
+          "level": 3
+        },
+        {
+          "title": "智力障碍的治疗",
+          "anchor": "sigil_toc_id_261",
+          "level": 3
+        },
+        {
+          "title": "学习、交流和运动障碍",
+          "anchor": "sigil_toc_id_262",
+          "level": 2
+        },
+        {
+          "title": "特定学习障碍",
+          "anchor": "sigil_toc_id_263",
+          "level": 3
+        },
+        {
+          "title": "交流障碍",
+          "anchor": "sigil_toc_id_264",
+          "level": 3
+        },
+        {
+          "title": "学习和交流障碍的病因和治疗",
+          "anchor": "sigil_toc_id_265",
+          "level": 3
+        },
+        {
+          "title": "运动障碍",
+          "anchor": "sigil_toc_id_266",
+          "level": 3
+        },
+        {
+          "title": "重度和轻度神经认知障碍",
+          "anchor": "sigil_toc_id_267",
+          "level": 2
+        },
+        {
+          "title": "重度神经认知障碍的症状",
+          "anchor": "sigil_toc_id_268",
+          "level": 3
+        },
+        {
+          "title": "重度和轻度神经认知障碍的类型",
+          "anchor": "sigil_toc_id_269",
+          "level": 3
+        },
+        {
+          "title": "性别、文化和教育对神经认知障碍的影响",
+          "anchor": "sigil_toc_id_270",
+          "level": 3
+        },
+        {
+          "title": "神经认知障碍的治疗和预防",
+          "anchor": "sigil_toc_id_271",
+          "level": 3
+        },
+        {
+          "title": "谵妄",
+          "anchor": "sigil_toc_id_272",
+          "level": 2
+        },
+        {
+          "title": "谵妄的病因",
+          "anchor": "sigil_toc_id_273",
+          "level": 3
+        },
+        {
+          "title": "谵妄的治疗",
+          "anchor": "sigil_toc_id_274",
+          "level": 3
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_275",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_276",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_277",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_278",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_279",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=217",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=217"
+    },
+    {
+      "chapterUid": 218,
+      "chapterIdx": 29,
+      "title": "第11章 破坏性、冲动控制及品行障碍",
+      "level": 1,
+      "wordCount": 16,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=218",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=218"
+    },
+    {
+      "chapterUid": 219,
+      "chapterIdx": 30,
+      "title": "连续谱模型下的品行障碍和冲动控制障碍",
+      "level": 2,
+      "wordCount": 20236,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_281",
+          "level": 2
+        },
+        {
+          "title": "品行障碍和对立违抗障碍",
+          "anchor": "sigil_toc_id_282",
+          "level": 2
+        },
+        {
+          "title": "品行障碍和对立违抗障碍的影响因素",
+          "anchor": "sigil_toc_id_283",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_284",
+          "level": 3
+        },
+        {
+          "title": "品行障碍和对立违抗障碍的治疗",
+          "anchor": "sigil_toc_id_285",
+          "level": 3
+        },
+        {
+          "title": "反社会型人格障碍",
+          "anchor": "sigil_toc_id_286",
+          "level": 2
+        },
+        {
+          "title": "反社会型人格障碍的影响因素",
+          "anchor": "sigil_toc_id_287",
+          "level": 3
+        },
+        {
+          "title": "反社会型人格障碍的治疗",
+          "anchor": "sigil_toc_id_288",
+          "level": 3
+        },
+        {
+          "title": "间歇性暴怒障碍",
+          "anchor": "sigil_toc_id_289",
+          "level": 2
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_290",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_291",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_292",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_293",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_294",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=219",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=219"
+    },
+    {
+      "chapterUid": 220,
+      "chapterIdx": 31,
+      "title": "第12章 进食障碍",
+      "level": 1,
+      "wordCount": 7,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=220",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=220"
+    },
+    {
+      "chapterUid": 221,
+      "chapterIdx": 32,
+      "title": "连续谱模型下的进食障碍",
+      "level": 2,
+      "wordCount": 32267,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_296",
+          "level": 2
+        },
+        {
+          "title": "进食障碍的特征",
+          "anchor": "sigil_toc_id_297",
+          "level": 2
+        },
+        {
+          "title": "神经性厌食症",
+          "anchor": "sigil_toc_id_298",
+          "level": 3
+        },
+        {
+          "title": "神经性贪食症",
+          "anchor": "sigil_toc_id_299",
+          "level": 3
+        },
+        {
+          "title": "暴食障碍",
+          "anchor": "sigil_toc_id_300",
+          "level": 3
+        },
+        {
+          "title": "其他特定的喂食或进食障碍",
+          "anchor": "sigil_toc_id_301",
+          "level": 3
+        },
+        {
+          "title": "肥胖",
+          "anchor": "sigil_toc_id_302",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_303",
+          "level": 3
+        },
+        {
+          "title": "理解进食障碍",
+          "anchor": "sigil_toc_id_304",
+          "level": 2
+        },
+        {
+          "title": "生物学因素",
+          "anchor": "sigil_toc_id_305",
+          "level": 3
+        },
+        {
+          "title": "社会文化和心理因素",
+          "anchor": "sigil_toc_id_306",
+          "level": 3
+        },
+        {
+          "title": "进食障碍的治疗",
+          "anchor": "sigil_toc_id_307",
+          "level": 2
+        },
+        {
+          "title": "神经性厌食症的心理疗法",
+          "anchor": "sigil_toc_id_308",
+          "level": 3
+        },
+        {
+          "title": "神经性贪食症和暴食障碍的心理疗法",
+          "anchor": "sigil_toc_id_309",
+          "level": 3
+        },
+        {
+          "title": "生物疗法",
+          "anchor": "sigil_toc_id_310",
+          "level": 3
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_311",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_312",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_313",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_314",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_315",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=221",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=221"
+    },
+    {
+      "chapterUid": 222,
+      "chapterIdx": 33,
+      "title": "第13章 性障碍",
+      "level": 1,
+      "wordCount": 6,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=222",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=222"
+    },
+    {
+      "chapterUid": 223,
+      "chapterIdx": 34,
+      "title": "连续谱模型下的性",
+      "level": 2,
+      "wordCount": 38915,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_317",
+          "level": 2
+        },
+        {
+          "title": "性功能失调",
+          "anchor": "sigil_toc_id_318",
+          "level": 2
+        },
+        {
+          "title": "性兴趣/性欲和唤起障碍",
+          "anchor": "sigil_toc_id_319",
+          "level": 3
+        },
+        {
+          "title": "性高潮或性交疼痛障碍",
+          "anchor": "sigil_toc_id_320",
+          "level": 3
+        },
+        {
+          "title": "性功能失调的原因",
+          "anchor": "sigil_toc_id_321",
+          "level": 3
+        },
+        {
+          "title": "性功能失调的治疗",
+          "anchor": "sigil_toc_id_322",
+          "level": 3
+        },
+        {
+          "title": "同性恋男性、同性恋女性和双性恋者",
+          "anchor": "sigil_toc_id_323",
+          "level": 3
+        },
+        {
+          "title": "性欲倒错障碍",
+          "anchor": "sigil_toc_id_324",
+          "level": 2
+        },
+        {
+          "title": "恋物障碍和异装障碍",
+          "anchor": "sigil_toc_id_325",
+          "level": 3
+        },
+        {
+          "title": "性施虐和性受虐障碍",
+          "anchor": "sigil_toc_id_326",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_327",
+          "level": 3
+        },
+        {
+          "title": "窥阴障碍、露阴障碍和摩擦障碍",
+          "anchor": "sigil_toc_id_328",
+          "level": 3
+        },
+        {
+          "title": "恋童障碍",
+          "anchor": "sigil_toc_id_329",
+          "level": 3
+        },
+        {
+          "title": "性欲倒错的原因",
+          "anchor": "sigil_toc_id_330",
+          "level": 3
+        },
+        {
+          "title": "性欲倒错的治疗",
+          "anchor": "sigil_toc_id_331",
+          "level": 3
+        },
+        {
+          "title": "性别烦躁",
+          "anchor": "sigil_toc_id_332",
+          "level": 2
+        },
+        {
+          "title": "性别烦躁的成因",
+          "anchor": "sigil_toc_id_333",
+          "level": 3
+        },
+        {
+          "title": "性别烦躁的治疗",
+          "anchor": "sigil_toc_id_334",
+          "level": 3
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_335",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_336",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_337",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_338",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_339",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=223",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=223"
+    },
+    {
+      "chapterUid": 224,
+      "chapterIdx": 35,
+      "title": "第14章 物质使用和赌博障碍",
+      "level": 1,
+      "wordCount": 12,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=224",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=224"
+    },
+    {
+      "chapterUid": 225,
+      "chapterIdx": 36,
+      "title": "连续谱模型下的物质使用",
+      "level": 2,
+      "wordCount": 42192,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_341",
+          "level": 2
+        },
+        {
+          "title": "物质使用障碍的定义",
+          "anchor": "sigil_toc_id_342",
+          "level": 2
+        },
+        {
+          "title": "抑制剂",
+          "anchor": "sigil_toc_id_343",
+          "level": 2
+        },
+        {
+          "title": "酒精",
+          "anchor": "sigil_toc_id_344",
+          "level": 3
+        },
+        {
+          "title": "苯二氮卓类和巴比妥类",
+          "anchor": "sigil_toc_id_345",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_346",
+          "level": 3
+        },
+        {
+          "title": "兴奋剂",
+          "anchor": "sigil_toc_id_347",
+          "level": 2
+        },
+        {
+          "title": "可卡因",
+          "anchor": "sigil_toc_id_348",
+          "level": 3
+        },
+        {
+          "title": "苯丙胺类",
+          "anchor": "sigil_toc_id_349",
+          "level": 3
+        },
+        {
+          "title": "尼古丁",
+          "anchor": "sigil_toc_id_350",
+          "level": 3
+        },
+        {
+          "title": "咖啡因",
+          "anchor": "sigil_toc_id_351",
+          "level": 3
+        },
+        {
+          "title": "阿片类物质",
+          "anchor": "sigil_toc_id_352",
+          "level": 2
+        },
+        {
+          "title": "致幻剂和苯环利定",
+          "anchor": "sigil_toc_id_353",
+          "level": 2
+        },
+        {
+          "title": "大麻",
+          "anchor": "sigil_toc_id_354",
+          "level": 2
+        },
+        {
+          "title": "吸入剂",
+          "anchor": "sigil_toc_id_355",
+          "level": 2
+        },
+        {
+          "title": "其他被滥用的药物",
+          "anchor": "sigil_toc_id_356",
+          "level": 2
+        },
+        {
+          "title": "物质使用障碍的理论",
+          "anchor": "sigil_toc_id_357",
+          "level": 2
+        },
+        {
+          "title": "生物学因素",
+          "anchor": "sigil_toc_id_358",
+          "level": 3
+        },
+        {
+          "title": "心理因素",
+          "anchor": "sigil_toc_id_359",
+          "level": 3
+        },
+        {
+          "title": "社会文化因素",
+          "anchor": "sigil_toc_id_360",
+          "level": 3
+        },
+        {
+          "title": "性别差异",
+          "anchor": "sigil_toc_id_361",
+          "level": 3
+        },
+        {
+          "title": "物质使用障碍的治疗",
+          "anchor": "sigil_toc_id_362",
+          "level": 2
+        },
+        {
+          "title": "生物治疗",
+          "anchor": "sigil_toc_id_363",
+          "level": 3
+        },
+        {
+          "title": "心理社会疗法",
+          "anchor": "sigil_toc_id_364",
+          "level": 3
+        },
+        {
+          "title": "动机性访谈",
+          "anchor": "sigil_toc_id_365",
+          "level": 3
+        },
+        {
+          "title": "老年人的物质使用治疗",
+          "anchor": "sigil_toc_id_366",
+          "level": 3
+        },
+        {
+          "title": "各种疗法的比较",
+          "anchor": "sigil_toc_id_367",
+          "level": 3
+        },
+        {
+          "title": "预防计划",
+          "anchor": "sigil_toc_id_368",
+          "level": 3
+        },
+        {
+          "title": "赌博障碍",
+          "anchor": "sigil_toc_id_369",
+          "level": 2
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_370",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_371",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_372",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_373",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_374",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=225",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=225"
+    },
+    {
+      "chapterUid": 226,
+      "chapterIdx": 37,
+      "title": "第15章 健康心理学",
+      "level": 1,
+      "wordCount": 8,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=226",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=226"
+    },
+    {
+      "chapterUid": 227,
+      "chapterIdx": 38,
+      "title": "连续谱模型下的应激",
+      "level": 2,
+      "wordCount": 36524,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_376",
+          "level": 2
+        },
+        {
+          "title": "心理因素与总体健康状况",
+          "anchor": "sigil_toc_id_377",
+          "level": 2
+        },
+        {
+          "title": "评价与悲观主义",
+          "anchor": "sigil_toc_id_378",
+          "level": 3
+        },
+        {
+          "title": "应对策略",
+          "anchor": "sigil_toc_id_379",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_380",
+          "level": 3
+        },
+        {
+          "title": "心理障碍与身体健康",
+          "anchor": "sigil_toc_id_381",
+          "level": 3
+        },
+        {
+          "title": "特定疾病的心理社会因素",
+          "anchor": "sigil_toc_id_382",
+          "level": 2
+        },
+        {
+          "title": "免疫系统",
+          "anchor": "sigil_toc_id_383",
+          "level": 3
+        },
+        {
+          "title": "冠心病和高血压",
+          "anchor": "sigil_toc_id_384",
+          "level": 3
+        },
+        {
+          "title": "改善健康相关行为的干预措施",
+          "anchor": "sigil_toc_id_385",
+          "level": 2
+        },
+        {
+          "title": "指导掌握技术",
+          "anchor": "sigil_toc_id_386",
+          "level": 3
+        },
+        {
+          "title": "基于网络的健康干预",
+          "anchor": "sigil_toc_id_387",
+          "level": 3
+        },
+        {
+          "title": "睡眠与健康",
+          "anchor": "sigil_toc_id_388",
+          "level": 2
+        },
+        {
+          "title": "评估睡眠",
+          "anchor": "sigil_toc_id_389",
+          "level": 3
+        },
+        {
+          "title": "睡眠障碍",
+          "anchor": "sigil_toc_id_390",
+          "level": 3
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_391",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_392",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_393",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_394",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_395",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=227",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=227"
+    },
+    {
+      "chapterUid": 228,
+      "chapterIdx": 39,
+      "title": "第16章 精神健康与法律",
+      "level": 1,
+      "wordCount": 10,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=228",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=228"
+    },
+    {
+      "chapterUid": 229,
+      "chapterIdx": 40,
+      "title": "精神健康连续谱与法律",
+      "level": 2,
+      "wordCount": 22097,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "非常人物",
+          "anchor": "sigil_toc_id_397",
+          "level": 2
+        },
+        {
+          "title": "民事收容",
+          "anchor": "sigil_toc_id_398",
+          "level": 2
+        },
+        {
+          "title": "民事收容的标准",
+          "anchor": "sigil_toc_id_399",
+          "level": 3
+        },
+        {
+          "title": "有精神障碍的人的暴力行为",
+          "anchor": "sigil_toc_id_400",
+          "level": 3
+        },
+        {
+          "title": "强制收容的发生率",
+          "anchor": "sigil_toc_id_401",
+          "level": 3
+        },
+        {
+          "title": "患者的权利",
+          "anchor": "sigil_toc_id_402",
+          "level": 2
+        },
+        {
+          "title": "接受治疗的权利",
+          "anchor": "sigil_toc_id_403",
+          "level": 3
+        },
+        {
+          "title": "拒绝治疗的权利",
+          "anchor": "sigil_toc_id_404",
+          "level": 3
+        },
+        {
+          "title": "受审能力",
+          "anchor": "sigil_toc_id_405",
+          "level": 2
+        },
+        {
+          "title": "精神病辩护",
+          "anchor": "sigil_toc_id_406",
+          "level": 2
+        },
+        {
+          "title": "精神病辩护的规则",
+          "anchor": "sigil_toc_id_407",
+          "level": 3
+        },
+        {
+          "title": "灰色地带",
+          "anchor": "sigil_toc_id_408",
+          "level": 3
+        },
+        {
+          "title": "精神病辩护存在的问题",
+          "anchor": "sigil_toc_id_409",
+          "level": 3
+        },
+        {
+          "title": "有罪但患有精神病",
+          "anchor": "sigil_toc_id_410",
+          "level": 3
+        },
+        {
+          "title": "司法系统内的精神健康保健",
+          "anchor": "sigil_toc_id_411",
+          "level": 2
+        },
+        {
+          "title": "本章整合",
+          "anchor": "sigil_toc_id_412",
+          "level": 2
+        },
+        {
+          "title": "灰色地带讨论",
+          "anchor": "sigil_toc_id_413",
+          "level": 3
+        },
+        {
+          "title": "批判性思考",
+          "anchor": "sigil_toc_id_414",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_415",
+          "level": 2
+        },
+        {
+          "title": "关键术语",
+          "anchor": "sigil_toc_id_416",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=229",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=229"
+    },
+    {
+      "chapterUid": 230,
+      "chapterIdx": 41,
+      "title": "批判性思考问题的讨论",
+      "level": 1,
+      "wordCount": 7223,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=230",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=230"
+    },
+    {
+      "chapterUid": 231,
+      "chapterIdx": 42,
+      "title": "术语表（一）",
+      "level": 1,
+      "wordCount": 36993,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=231",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=231"
+    },
+    {
+      "chapterUid": 232,
+      "chapterIdx": 43,
+      "title": "术语表（二）",
+      "level": 1,
+      "wordCount": 33741,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=232",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=232"
+    },
+    {
+      "chapterUid": 233,
+      "chapterIdx": 44,
+      "title": "参考文献（一）",
+      "level": 1,
+      "wordCount": 43717,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=233",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=233"
+    },
+    {
+      "chapterUid": 234,
+      "chapterIdx": 45,
+      "title": "参考文献（二）",
+      "level": 1,
+      "wordCount": 45084,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=234",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=234"
+    },
+    {
+      "chapterUid": 235,
+      "chapterIdx": 46,
+      "title": "参考文献（三）",
+      "level": 1,
+      "wordCount": 52756,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=235",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=235"
+    },
+    {
+      "chapterUid": 236,
+      "chapterIdx": 47,
+      "title": "参考文献（四）",
+      "level": 1,
+      "wordCount": 56241,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=236",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=236"
+    },
+    {
+      "chapterUid": 237,
+      "chapterIdx": 48,
+      "title": "参考文献（五）",
+      "level": 1,
+      "wordCount": 45947,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=237",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=237"
+    },
+    {
+      "chapterUid": 238,
+      "chapterIdx": 49,
+      "title": "参考文献（六）",
+      "level": 1,
+      "wordCount": 29601,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=238",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=238"
+    },
+    {
+      "chapterUid": 239,
+      "chapterIdx": 50,
+      "title": "参考文献（七）",
+      "level": 1,
+      "wordCount": 37866,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=239",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=239"
+    },
+    {
+      "chapterUid": 240,
+      "chapterIdx": 51,
+      "title": "参考文献（八）",
+      "level": 1,
+      "wordCount": 41545,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=240",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=240"
+    },
+    {
+      "chapterUid": 241,
+      "chapterIdx": 52,
+      "title": "编辑后记",
+      "level": 1,
+      "wordCount": 2955,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014121&chapterUid=241",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=241"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 197,
+      "chapterTitle": "前言",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300014121_197_3493-3578",
+          "range": "3493-3578",
+          "rangeStart": 3493,
+          "rangeEnd": 3578,
+          "markText": "考试成绩不如预期或有个朋友生气时，你可能会说“我好郁闷”这样的话。这样的事件常常会消耗我们的精力，削弱我们的动机，动摇我们的自尊，让我们感到沮丧和忧郁，这都是抑郁的症状。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1749443160,
+          "createTimeFormatted": "2025-06-09 12:26:00",
+          "chapterUid": 197,
+          "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=197&rangeStart=3493&rangeEnd=3578",
+          "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=197&rangeStart=3493&rangeEnd=3578"
+        }
+      ]
+    },
+    {
+      "chapterUid": 199,
+      "chapterTitle": "连续谱模型下的异常",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300014121_199_6258-6337",
+          "range": "6258-6337",
+          "rangeStart": 6258,
+          "rangeEnd": 6337,
+          "markText": "在很多文化中，男人若流露出忧伤或焦虑，或选择在家带孩子而让妻子外出工作，则面临着被判定为变态者的危险。女人如果过分争强好胜，不想生育孩子，也会面临同样的危险。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1749443151,
+          "createTimeFormatted": "2025-06-09 12:25:51",
+          "chapterUid": 199,
+          "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=6258&rangeEnd=6337",
+          "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=6258&rangeEnd=6337"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300014121_148_27237-27254",
+          "range": "28188-28205",
+          "rangeStart": 28188,
+          "rangeEnd": 28205,
+          "markText": "认知指的是影响行为和情绪的思维过程",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1724325349,
+          "createTimeFormatted": "2024-08-22 19:15:49",
+          "chapterUid": 199,
+          "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=28188&rangeEnd=28205",
+          "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=28188&rangeEnd=28205"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300014121_199_14064-14093",
+      "chapterUid": 199,
+      "range": "14064-14093",
+      "markText": "希波克拉底相信让病人离开难于相处的家庭有助于恢复心理健康。",
+      "totalCount": 450,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=14064&rangeEnd=14093",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=14064&rangeEnd=14093"
+    },
+    {
+      "bookmarkId": "3300014121_199_6258-6337",
+      "chapterUid": 199,
+      "range": "6258-6337",
+      "markText": "在很多文化中，男人若流露出忧伤或焦虑，或选择在家带孩子而让妻子外出工作，则面临着被判定为变态者的危险。女人如果过分争强好胜，不想生育孩子，也会面临同样的危险。",
+      "totalCount": 416,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=6258&rangeEnd=6337",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=6258&rangeEnd=6337"
+    },
+    {
+      "bookmarkId": "3300014121_199_9739-9753",
+      "chapterUid": 199,
+      "range": "9739-9753",
+      "markText": "詹妮弗和马克的行为属于异常吗",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=9739&rangeEnd=9753",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=9739&rangeEnd=9753"
+    },
+    {
+      "bookmarkId": "3300014121_199_10568-10589",
+      "chapterUid": 199,
+      "range": "10568-10589",
+      "markText": "人类向来认为异常是一类需要特殊解释的事物。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=10568&rangeEnd=10589",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=10568&rangeEnd=10589"
+    },
+    {
+      "bookmarkId": "3300014121_197_3493-3578",
+      "chapterUid": 197,
+      "range": "3493-3578",
+      "markText": "考试成绩不如预期或有个朋友生气时，你可能会说“我好郁闷”这样的话。这样的事件常常会消耗我们的精力，削弱我们的动机，动摇我们的自尊，让我们感到沮丧和忧郁，这都是抑郁的症状。",
+      "totalCount": 220,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=197&rangeStart=3493&rangeEnd=3578",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=197&rangeStart=3493&rangeEnd=3578"
+    },
+    {
+      "bookmarkId": "3300014121_199_1173-1190",
+      "chapterUid": 199,
+      "range": "1173-1190",
+      "markText": "例如，我们无法告别一段失败的关系。",
+      "totalCount": 200,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=1173&rangeEnd=1190",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=1173&rangeEnd=1190"
+    },
+    {
+      "bookmarkId": "3300014121_199_17715-17783",
+      "chapterUid": 199,
+      "range": "17715-17783",
+      "markText": "当值医生得出的结论是：由于对海湾战争中使用的化学武器的恐惧而导致的大规模癔病爆发(Rockney & Lemke, 1992)。",
+      "totalCount": 196,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=17715&rangeEnd=17783",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=17715&rangeEnd=17783"
+    },
+    {
+      "bookmarkId": "3300014121_199_37027-37049",
+      "chapterUid": 199,
+      "range": "37027-37049",
+      "markText": "性别会极大地影响着我们关于正常和异常的看法。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=37027&rangeEnd=37049",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=37027&rangeEnd=37049"
+    },
+    {
+      "bookmarkId": "3300014121_199_12211-12304",
+      "chapterUid": 199,
+      "range": "12211-12304",
+      "markText": "当气生于心脏时，人就感到高兴；滞于肺脏时，人就感到悲伤；生于肝脏时，人就感到愤怒；滞于脾脏时，人就感到忧虑；滞于肾脏时，人就感到恐惧。该理论鼓励人们生活要和谐、有条理，这样精气才能畅通。",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=12211&rangeEnd=12304",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=12211&rangeEnd=12304"
+    },
+    {
+      "bookmarkId": "3300014121_197_6600-6625",
+      "chapterUid": 197,
+      "range": "6600-6625",
+      "markText": "她告诉他们，她是“坏的”和“有缺陷的”，她想去死。",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=197&rangeStart=6600&rangeEnd=6625",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=197&rangeStart=6600&rangeEnd=6625"
+    },
+    {
+      "bookmarkId": "3300014121_199_6759-6778",
+      "chapterUid": 199,
+      "range": "6759-6778",
+      "markText": "诊断为患有一种让他们渴望自由的精神疾病",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=6759&rangeEnd=6778",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=6759&rangeEnd=6778"
+    },
+    {
+      "bookmarkId": "3300014121_199_24772-24791",
+      "chapterUid": 199,
+      "range": "24772-24791",
+      "markText": "期望用自己的强大磁气重新调整病人的磁气",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=24772&rangeEnd=24791",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=24772&rangeEnd=24791"
+    },
+    {
+      "bookmarkId": "3300014121_197_5491-5514",
+      "chapterUid": 197,
+      "range": "5491-5514",
+      "markText": "你会将雷蒙诊断为我们在本章中讨论过的哪种障碍？",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=197&rangeStart=5491&rangeEnd=5514",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=197&rangeStart=5491&rangeEnd=5514"
+    },
+    {
+      "bookmarkId": "3300014121_197_6427-6489",
+      "chapterUid": 197,
+      "range": "6427-6489",
+      "markText": "她发现自己无法长时间集中注意力去阅读和记住学习材料。最主要的是，阿尼卡总是因为攻击其他孩子或逃课去与别的孩子抽烟而陷入麻烦。",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=197&rangeStart=6427&rangeEnd=6489",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=197&rangeStart=6427&rangeEnd=6489"
+    },
+    {
+      "bookmarkId": "3300014121_199_5924-5952",
+      "chapterUid": 199,
+      "range": "5924-5952",
+      "markText": "某一行为所发生的环境或情境，影响着该行为是否被视为异常。",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=5924&rangeEnd=5952",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=5924&rangeEnd=5952"
+    },
+    {
+      "bookmarkId": "3300014121_196_413-493",
+      "chapterUid": 196,
+      "range": "413-493",
+      "markText": "为什么人们会抑郁甚至产生自杀倾向？为什么有些人对社交感到焦虑和恐惧？我们在经历创伤后为什么难以走出阴影？为什么有些人自恋而有些人自卑？赌博和毒品为什么让人上瘾？",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=196&rangeStart=413&rangeEnd=493",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=196&rangeStart=413&rangeEnd=493"
+    },
+    {
+      "bookmarkId": "3300014121_199_9351-9417",
+      "chapterUid": 199,
+      "range": "9351-9417",
+      "markText": "有时她感到非常饥饿，很难集中精力学习，但是她太看重自己纤瘦的新形象，害怕再次发胖。她甚至还想再减掉几磅体重，这样她就能穿2号衣服了。",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=9351&rangeEnd=9417",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=9351&rangeEnd=9417"
+    },
+    {
+      "bookmarkId": "3300014121_201_25294-25378",
+      "chapterUid": 201,
+      "range": "25294-25378",
+      "markText": "最后，近来的研究发现，与将精神健康问题归因为非生物因素的人相比，将精神健康问题归因为生物因素的人对康复的预后更悲观(Lebowitz & Ahn, 2012)。",
+      "totalCount": 135,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=201&rangeStart=25294&rangeEnd=25378",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=201&rangeStart=25294&rangeEnd=25378"
+    },
+    {
+      "bookmarkId": "3300014121_199_25387-25489",
+      "chapterUid": 199,
+      "range": "25387-25489",
+      "markText": "。后来，这种状态被命名为催眠(hypnosis)。催眠状态下，麦斯默的病人表现得非常容易受暗示影响，似乎仅通过暗示病痛会消失就足以让症状真的消失。",
+      "totalCount": 130,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=25387&rangeEnd=25489",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=25387&rangeEnd=25489"
+    },
+    {
+      "bookmarkId": "3300014121_199_11002-11112",
+      "chapterUid": 199,
+      "range": "11002-11112",
+      "markText": "用于凿孔的工具叫作环钻，这种手术因此被称为环钻术（trephination，也译作头盖骨钻洞术）。有些历史学家认为，这种脑部手术被用于治疗产生幻视或幻听以及长期悲伤的人",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300014121&chapterUid=199&rangeStart=11002&rangeEnd=11112",
+      "webLink": "https://weread.qq.com/web/reader/21732e90813ab6c04g011c83?chapterUid=199&rangeStart=11002&rangeEnd=11112"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 191,
+    "chapterOffset": 368,
+    "progress": 0,
+    "updateTime": 1777003137,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

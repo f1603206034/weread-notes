@@ -1,0 +1,1388 @@
+{
+  "meta": {
+    "bookId": "3300105089",
+    "title": "量子计算Python与Q#编程实战",
+    "author": "[美]萨拉·凯泽     [美]卡桑德拉·格拉内德",
+    "translator": "王海鹏",
+    "cover": "https://cdn.weread.qq.com/weread/cover/29/cpplatform_8mrpcdfrfa3uxs7u5sam8v/t6_cpplatform_8mrpcdfrfa3uxs7u5sam8v1720514503.jpg",
+    "intro": "本书指导读者使用Python和Q#语言学习量子计算，揭开量子计算的神秘面纱。本书尽量避免复杂的数学概念，试图直接通过量子编程来帮助读者建立对量子计算机的理解。读者可以通过使用Python创建自己的量子模拟器来学习量子计算的基础知识，然后使用QDK和Q#来编写和运行与经典计算不同的算法。 通过阅读本书，读者将能够把量子编程技术应用于量子密钥分发等应用程序中，并处理真实的示例，如进行化学模拟和搜索未排序的数据库等。",
+    "category": "计算机-理论知识",
+    "publisher": "人民邮电出版社有限公司",
+    "publishTime": "2024-05-01 00:00:00",
+    "isbn": "9787115590688",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 2,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 2,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 1,
+      "myRating": "",
+      "title": "评分不足"
+    },
+    "appLink": "weread://reading?bId=3300105089",
+    "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6",
+    "lastSync": "2026-05-21T11:49:53Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 153,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "内容提要",
+      "level": 1,
+      "wordCount": 211,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "序",
+      "level": 1,
+      "wordCount": 949,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "自序",
+      "level": 1,
+      "wordCount": 845,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 1415,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 2190,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 309,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "封面简介",
+      "level": 1,
+      "wordCount": 437,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第一部分 量子入门",
+      "level": 1,
+      "wordCount": 332,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第1章 量子计算简介",
+      "level": 2,
+      "wordCount": 9083,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.1 为什么量子计算很重要？",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        },
+        {
+          "title": "1.2 什么是量子计算机？",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "1.3 如何使用量子计算机？",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        },
+        {
+          "title": "1.3.1 量子计算机能做什么？",
+          "anchor": "sigil_toc_id_4",
+          "level": 4
+        },
+        {
+          "title": "1.3.2 量子计算机不能做什么？",
+          "anchor": "sigil_toc_id_5",
+          "level": 4
+        },
+        {
+          "title": "1.4 什么是程序？",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第2章 量子位：构建块",
+      "level": 2,
+      "wordCount": 24340,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1 为什么需要随机数？",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        },
+        {
+          "title": "2.2 什么是经典位？",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "2.2.1 我们能用经典位做什么？",
+          "anchor": "sigil_toc_id_10",
+          "level": 4
+        },
+        {
+          "title": "2.2.2 抽象是我们的朋友",
+          "anchor": "sigil_toc_id_11",
+          "level": 4
+        },
+        {
+          "title": "2.3 量子位：状态和操作",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        },
+        {
+          "title": "2.3.1 量子位的状态",
+          "anchor": "sigil_toc_id_13",
+          "level": 4
+        },
+        {
+          "title": "2.3.2 操作的游戏",
+          "anchor": "sigil_toc_id_14",
+          "level": 4
+        },
+        {
+          "title": "2.3.3 测量量子位",
+          "anchor": "sigil_toc_id_15",
+          "level": 4
+        },
+        {
+          "title": "2.3.4 一般化测量：基独立",
+          "anchor": "sigil_toc_id_16",
+          "level": 4
+        },
+        {
+          "title": "2.3.5 用代码模拟量子位",
+          "anchor": "sigil_toc_id_17",
+          "level": 4
+        },
+        {
+          "title": "2.4 编程一个工作的QRNG",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第3章 用量子密钥分发来分享秘密",
+      "level": 2,
+      "wordCount": 15308,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.1 在爱情和加密中一切都很公平",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "3.1.1 量子NOT操作",
+          "anchor": "sigil_toc_id_21",
+          "level": 4
+        },
+        {
+          "title": "3.1.2 借助量子位共享经典位",
+          "anchor": "sigil_toc_id_22",
+          "level": 4
+        },
+        {
+          "title": "3.2 双组基的故事",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "3.3 量子密钥分发：BB84",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "3.4 使用密钥发送秘密消息",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第4章 非本地游戏：使用多量子位",
+      "level": 2,
+      "wordCount": 10534,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.1 非本地游戏",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        },
+        {
+          "title": "4.1.1 什么是非本地游戏？",
+          "anchor": "sigil_toc_id_28",
+          "level": 4
+        },
+        {
+          "title": "4.1.2 测试量子物理学：CHSH游戏",
+          "anchor": "sigil_toc_id_29",
+          "level": 4
+        },
+        {
+          "title": "4.1.3 经典策略",
+          "anchor": "sigil_toc_id_30",
+          "level": 4
+        },
+        {
+          "title": "4.2 处理多量子位状态",
+          "anchor": "sigil_toc_id_31",
+          "level": 3
+        },
+        {
+          "title": "4.2.1 寄存器",
+          "anchor": "sigil_toc_id_32",
+          "level": 4
+        },
+        {
+          "title": "4.2.2 为什么很难模拟量子计算机？",
+          "anchor": "sigil_toc_id_33",
+          "level": 4
+        },
+        {
+          "title": "4.2.3 用于状态制备的张量积",
+          "anchor": "sigil_toc_id_34",
+          "level": 4
+        },
+        {
+          "title": "4.2.4 张量积对寄存器的量子位操作",
+          "anchor": "sigil_toc_id_35",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第5章 非本地游戏：实现多量子位模拟器",
+      "level": 2,
+      "wordCount": 14625,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1 QuTiP中的量子对象",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        },
+        {
+          "title": "5.1.1 升级仿真器",
+          "anchor": "sigil_toc_id_38",
+          "level": 4
+        },
+        {
+          "title": "5.1.2 测量起来：如何测量多量子位？",
+          "anchor": "sigil_toc_id_39",
+          "level": 4
+        },
+        {
+          "title": "5.2 CHSH：量子策略",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第6章 隐形传态和纠缠：量子数据的移动",
+      "level": 2,
+      "wordCount": 17324,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.1 移动量子数据",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        },
+        {
+          "title": "6.1.1 换出模拟器",
+          "anchor": "sigil_toc_id_43",
+          "level": 4
+        },
+        {
+          "title": "6.1.2 还有哪些双量子位门？",
+          "anchor": "sigil_toc_id_44",
+          "level": 4
+        },
+        {
+          "title": "6.2 所有的单（量子位）旋转",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "6.3 隐形传态",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "第一部分 结语",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第二部分 在Q#中对量子算法进行编程",
+      "level": 1,
+      "wordCount": 427,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第7章 改变胜率：关于Q#的介绍",
+      "level": 2,
+      "wordCount": 15763,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.1 量子开发工具包介绍",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        },
+        {
+          "title": "7.2 Q#中的函数和操作",
+          "anchor": "sigil_toc_id_50",
+          "level": 3
+        },
+        {
+          "title": "7.3 将操作作为参数传递",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        },
+        {
+          "title": "7.4 在Q#中玩莫甘娜的游戏",
+          "anchor": "sigil_toc_id_52",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_53",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第8章 什么是量子算法",
+      "level": 2,
+      "wordCount": 22082,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.1 经典算法和量子算法",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        },
+        {
+          "title": "8.2 多伊奇-约萨算法：对搜索的适度改进",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        },
+        {
+          "title": "8.3 oracle：在量子算法中表示经典函数",
+          "anchor": "sigil_toc_id_56",
+          "level": 3
+        },
+        {
+          "title": "8.3.1 梅林的变换",
+          "anchor": "sigil_toc_id_57",
+          "level": 4
+        },
+        {
+          "title": "8.3.2 推广我们的结果",
+          "anchor": "sigil_toc_id_58",
+          "level": 4
+        },
+        {
+          "title": "8.4 在Q#中模拟多伊奇-约萨算法",
+          "anchor": "sigil_toc_id_59",
+          "level": 3
+        },
+        {
+          "title": "8.5 对量子算法技术的思考",
+          "anchor": "sigil_toc_id_60",
+          "level": 3
+        },
+        {
+          "title": "8.5.1 鞋子和袜子：应用和撤销量子操作",
+          "anchor": "sigil_toc_id_61",
+          "level": 4
+        },
+        {
+          "title": "8.5.2 用阿达马指令来翻转控制和目标",
+          "anchor": "sigil_toc_id_62",
+          "level": 4
+        },
+        {
+          "title": "8.6 相位反冲：我们成功的关键",
+          "anchor": "sigil_toc_id_63",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_64",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第9章 量子传感：不仅仅是相位",
+      "level": 2,
+      "wordCount": 26378,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.1 相位估计：利用量子位的有用属性进行测量",
+          "anchor": "sigil_toc_id_65",
+          "level": 3
+        },
+        {
+          "title": "9.2 用户定义的类型",
+          "anchor": "sigil_toc_id_66",
+          "level": 3
+        },
+        {
+          "title": "9.3 从Python中运行Q#",
+          "anchor": "sigil_toc_id_67",
+          "level": 3
+        },
+        {
+          "title": "9.4 特征态和局部相位",
+          "anchor": "sigil_toc_id_68",
+          "level": 3
+        },
+        {
+          "title": "9.5 受控应用：将全局相位变成局部相位",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        },
+        {
+          "title": "9.6 实现兰斯洛特的相位估计游戏的最佳策略",
+          "anchor": "sigil_toc_id_70",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_71",
+          "level": 3
+        },
+        {
+          "title": "第二部分 结语",
+          "anchor": "sigil_toc_id_72",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第三部分 应用量子计算",
+      "level": 1,
+      "wordCount": 308,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第10章 用量子计算机解决化学问题",
+      "level": 2,
+      "wordCount": 23159,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10.1 量子计算的实际化学应用",
+          "anchor": "sigil_toc_id_73",
+          "level": 3
+        },
+        {
+          "title": "10.2 通往量子力学的多条路径",
+          "anchor": "sigil_toc_id_74",
+          "level": 3
+        },
+        {
+          "title": "10.3 用哈密顿算符描述量子系统如何随时间演化",
+          "anchor": "sigil_toc_id_75",
+          "level": 3
+        },
+        {
+          "title": "10.4 用泡利操作围绕任意轴旋转",
+          "anchor": "sigil_toc_id_76",
+          "level": 3
+        },
+        {
+          "title": "10.5 在系统中做出想要的变化",
+          "anchor": "sigil_toc_id_77",
+          "level": 3
+        },
+        {
+          "title": "10.6 经历（非常小的）变化",
+          "anchor": "sigil_toc_id_78",
+          "level": 3
+        },
+        {
+          "title": "10.7 整合在一起",
+          "anchor": "sigil_toc_id_79",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_80",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第11章 用量子计算机搜索",
+      "level": 2,
+      "wordCount": 20142,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11.1 搜索非结构化数据",
+          "anchor": "sigil_toc_id_81",
+          "level": 3
+        },
+        {
+          "title": "11.2 关于状态的反射",
+          "anchor": "sigil_toc_id_82",
+          "level": 3
+        },
+        {
+          "title": "11.2.1 关于全一状态的反射",
+          "anchor": "sigil_toc_id_83",
+          "level": 4
+        },
+        {
+          "title": "11.2.2 关于任意状态的反射",
+          "anchor": "sigil_toc_id_84",
+          "level": 4
+        },
+        {
+          "title": "11.3 实现格罗弗算法",
+          "anchor": "sigil_toc_id_85",
+          "level": 3
+        },
+        {
+          "title": "11.4 资源估算",
+          "anchor": "sigil_toc_id_86",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_87",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第12章 用量子计算机进行算术运算",
+      "level": 2,
+      "wordCount": 24830,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12.1 将量子计算纳入安全因素",
+          "anchor": "sigil_toc_id_88",
+          "level": 3
+        },
+        {
+          "title": "12.2 将模算术与因数分解联系起来",
+          "anchor": "sigil_toc_id_89",
+          "level": 3
+        },
+        {
+          "title": "12.3 经典代数和因数分解",
+          "anchor": "sigil_toc_id_90",
+          "level": 3
+        },
+        {
+          "title": "12.4 量子算术",
+          "anchor": "sigil_toc_id_91",
+          "level": 3
+        },
+        {
+          "title": "12.4.1 用量子位相加",
+          "anchor": "sigil_toc_id_92",
+          "level": 4
+        },
+        {
+          "title": "12.4.2 处于叠加态的量子位相乘",
+          "anchor": "sigil_toc_id_93",
+          "level": 4
+        },
+        {
+          "title": "12.4.3 舒尔算法中的取模乘法",
+          "anchor": "sigil_toc_id_94",
+          "level": 4
+        },
+        {
+          "title": "12.5 整合在一起",
+          "anchor": "sigil_toc_id_95",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_96",
+          "level": 3
+        },
+        {
+          "title": "临别赠言",
+          "anchor": "sigil_toc_id_97",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "附录A 安装所需软件",
+      "level": 1,
+      "wordCount": 158,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "A.1 在线运行示例",
+      "level": 2,
+      "wordCount": 428,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "A.1.1 使用Binder",
+          "anchor": "sigil_toc_id_98",
+          "level": 3
+        },
+        {
+          "title": "A.1.2 使用GitHub Codespaces",
+          "anchor": "sigil_toc_id_99",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "A.2 使用Anaconda进行本地安装",
+      "level": 2,
+      "wordCount": 2151,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "A.2.1 安装Anaconda",
+          "anchor": "sigil_toc_id_100",
+          "level": 3
+        },
+        {
+          "title": "A.2.2 用Anaconda安装软件包",
+          "anchor": "sigil_toc_id_101",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "A.3 安装QDK",
+      "level": 2,
+      "wordCount": 3021,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "A.3.1 安装.NET Core SDK",
+          "anchor": "sigil_toc_id_102",
+          "level": 3
+        },
+        {
+          "title": "A.3.2 安装项目模板",
+          "anchor": "sigil_toc_id_103",
+          "level": 3
+        },
+        {
+          "title": "A.3.3 安装Visual Studio Code扩展程序",
+          "anchor": "sigil_toc_id_104",
+          "level": 3
+        },
+        {
+          "title": "A.3.4 为Jupyter Notebook安装IQ#",
+          "anchor": "sigil_toc_id_105",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "附录B 术语和快速参考",
+      "level": 1,
+      "wordCount": 76,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "B.1 术语",
+      "level": 2,
+      "wordCount": 2094,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "B.2 狄拉克符号",
+      "level": 2,
+      "wordCount": 96,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "B.3 量子操作",
+      "level": 2,
+      "wordCount": 371,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "B.4 Q#语言",
+      "level": 2,
+      "wordCount": 793,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "B.4.1 类型",
+          "anchor": "sigil_toc_id_106",
+          "level": 3
+        },
+        {
+          "title": "B.4.2 Q#的声明和语句",
+          "anchor": "sigil_toc_id_107",
+          "level": 3
+        },
+        {
+          "title": "B.4.3 Q#表达式和操作符",
+          "anchor": "sigil_toc_id_108",
+          "level": 3
+        },
+        {
+          "title": "B.4.4 Q#标准库",
+          "anchor": "sigil_toc_id_109",
+          "level": 3
+        },
+        {
+          "title": "B.4.5 IQ#魔法命令",
+          "anchor": "sigil_toc_id_110",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "附录C 线性代数",
+      "level": 1,
+      "wordCount": 98,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "C.1 走近向量",
+      "level": 2,
+      "wordCount": 1350,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "C.2 亲自体验矩阵",
+      "level": 2,
+      "wordCount": 8154,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "附录D 通过实例探索多伊奇-约萨算法",
+      "level": 1,
+      "wordCount": 129,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "D.1 使用我们的技能，尝试做点什么",
+      "level": 2,
+      "wordCount": 630,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "D.2 步骤1：为多伊奇-约萨制备输入状态",
+      "level": 2,
+      "wordCount": 1437,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "D.3 步骤2：应用oracle",
+      "level": 2,
+      "wordCount": 4616,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "D.3.1 例1：“id”oracle",
+          "anchor": "sigil_toc_id_111",
+          "level": 3
+        },
+        {
+          "title": "D.3.2 例2：“not”oracle",
+          "anchor": "sigil_toc_id_112",
+          "level": 3
+        },
+        {
+          "title": "D.3.3 例3：“zero”oracle",
+          "anchor": "sigil_toc_id_113",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "D.4 步骤3和4：撤销对目标量子位的制备，并测量",
+      "level": 2,
+      "wordCount": 2079,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300105089&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=41"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 19,
+      "chapterTitle": "第8章 什么是量子算法",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300105089_19_540-586",
+          "range": "540-586",
+          "rangeStart": 540,
+          "rangeEnd": 586,
+          "markText": "量子算法的一个重要应用是提升解决问题的速度，在这些问题中，需要搜索我们试图了解的函数的输入。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1751617525,
+          "createTimeFormatted": "2025-07-04 16:25:25",
+          "chapterUid": 19,
+          "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=19&rangeStart=540&rangeEnd=586",
+          "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=19&rangeStart=540&rangeEnd=586"
+        }
+      ]
+    },
+    {
+      "chapterUid": 22,
+      "chapterTitle": "第10章 用量子计算机解决化学问题",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300105089_22_48236-48282",
+          "range": "48236-48282",
+          "rangeStart": 48236,
+          "rangeEnd": 48282,
+          "markText": "较复杂的哈密顿算符可以分解为较简单的哈密顿算符之和，这使我们可以同时模拟哈密顿算符的每一项。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1751617516,
+          "createTimeFormatted": "2025-07-04 16:25:16",
+          "chapterUid": 22,
+          "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=22&rangeStart=48236&rangeEnd=48282",
+          "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=22&rangeStart=48236&rangeEnd=48282"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300105089_28_1493-1573",
+      "chapterUid": 28,
+      "range": "1493-1573",
+      "markText": "从历史上看，.NET是.NET Framework的合理简称，是任何一种.NET语言（如C#、F#和Visual Basic.NET）的虚拟机和编译器基础结构。",
+      "totalCount": 77,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=28&rangeStart=1493&rangeEnd=1573",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=28&rangeStart=1493&rangeEnd=1573"
+    },
+    {
+      "bookmarkId": "3300105089_28_2812-2870",
+      "chapterUid": 28,
+      "range": "2812-2870",
+      "markText": "有一件事可能与你的习惯不同，那就是.NET开发的中心思想是“项目”，它指定了如何调用编译器来制作一个新的二进制文件。",
+      "totalCount": 77,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=28&rangeStart=2812&rangeEnd=2870",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=28&rangeStart=2812&rangeEnd=2870"
+    },
+    {
+      "bookmarkId": "3300105089_11_2146-2173",
+      "chapterUid": 11,
+      "range": "2146-2173",
+      "markText": "同时，量子计算机并不是灵丹妙药——有些问题仍然会很难。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=11&rangeStart=2146&rangeEnd=2173",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=11&rangeStart=2146&rangeEnd=2173"
+    },
+    {
+      "bookmarkId": "3300105089_13_23881-23938",
+      "chapterUid": 13,
+      "range": "23881-23938",
+      "markText": "作为对“不可克隆定理”的另一种思考方式，Bob如果能够在不干扰量子位的情况下测量它，就无须他所截获的量子位的副本。",
+      "totalCount": 71,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=13&rangeStart=23881&rangeEnd=23938",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=13&rangeStart=23881&rangeEnd=23938"
+    },
+    {
+      "bookmarkId": "3300105089_18_4563-4611",
+      "chapterUid": 18,
+      "range": "4563-4611",
+      "markText": "Q#程序被发送到模拟器上，但在这种情况下，模拟器只是运行经典逻辑，因为还没有需要考虑的量子指令。",
+      "totalCount": 71,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=18&rangeStart=4563&rangeEnd=4611",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=18&rangeStart=4563&rangeEnd=4611"
+    },
+    {
+      "bookmarkId": "3300105089_18_22963-23026",
+      "chapterUid": 18,
+      "range": "22963-23026",
+      "markText": "例如，在清单7.8中，我们使用了一个MResetZ操作，它既可以测量一个量子位（类似于M），又可以重置它（类似于Reset）。",
+      "totalCount": 71,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=18&rangeStart=22963&rangeEnd=23026",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=18&rangeStart=22963&rangeEnd=23026"
+    },
+    {
+      "bookmarkId": "3300105089_11_962-1015",
+      "chapterUid": 11,
+      "range": "962-1015",
+      "markText": "前进的道路就是批判性地理解量子计算提供的承诺、量子计算机的工作原理、量子计算的范围是什么（以及不是什么）。",
+      "totalCount": 70,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=11&rangeStart=962&rangeEnd=1015",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=11&rangeStart=962&rangeEnd=1015"
+    },
+    {
+      "bookmarkId": "3300105089_11_2069-2146",
+      "chapterUid": 11,
+      "range": "2069-2146",
+      "markText": "我们预计，量子计算机将比经典计算机“慢”得多，但解决许多问题所需的资源将以不同的方式“伸缩”，这样，如果我们找对了问题的种类，就可以突破由量变引发的质变。",
+      "totalCount": 66,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=11&rangeStart=2069&rangeEnd=2146",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=11&rangeStart=2069&rangeEnd=2146"
+    },
+    {
+      "bookmarkId": "3300105089_40_2729-2769",
+      "chapterUid": 40,
+      "range": "2729-2769",
+      "markText": "按照量子操作如何作用于｜0〉和｜1〉来展开量子操作的作用，在量子编程中非常常见。",
+      "totalCount": 66,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=40&rangeStart=2729&rangeEnd=2769",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=40&rangeStart=2729&rangeEnd=2769"
+    },
+    {
+      "bookmarkId": "3300105089_11_4250-4308",
+      "chapterUid": 11,
+      "range": "4250-4308",
+      "markText": "定义　“量子计算机”是一种将数据作为输入并对这些数据进行某种运算的设备，其过程只能用量子物理学来描述。",
+      "totalCount": 63,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=11&rangeStart=4250&rangeEnd=4308",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=11&rangeStart=4250&rangeEnd=4308"
+    },
+    {
+      "bookmarkId": "3300105089_18_8485-8568",
+      "chapterUid": 18,
+      "range": "8485-8568",
+      "markText": "按照惯例，所有获得的量子位开始都处于｜0〉状态，并且我们向目标机器承诺，会在语句块结束时将它们重置为｜0〉状态，这样它们就可以被目标机器提供给需要它们的下一个操作了。",
+      "totalCount": 61,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=18&rangeStart=8485&rangeEnd=8568",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=18&rangeStart=8485&rangeEnd=8568"
+    },
+    {
+      "bookmarkId": "3300105089_19_48541-48622",
+      "chapterUid": 19,
+      "range": "48541-48622",
+      "markText": "这种技术让我们可以编写CheckIfOracleIsBalanced操作，使其适用于几个不同的oracle，同时只透露我们想知道的那个位（梅林是不是一个好导师）。",
+      "totalCount": 61,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=19&rangeStart=48541&rangeEnd=48622",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=19&rangeStart=48541&rangeEnd=48622"
+    },
+    {
+      "bookmarkId": "3300105089_28_1894-1963",
+      "chapterUid": 28,
+      "range": "1894-1963",
+      "markText": "为了使.NET Core作为一个跨平台的编程环境更好地工作，.NET标准库中的一些内容被改变，与.NET Framework并不完全兼容。",
+      "totalCount": 59,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=28&rangeStart=1894&rangeEnd=1963",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=28&rangeStart=1894&rangeEnd=1963"
+    },
+    {
+      "bookmarkId": "3300105089_41_4250-4313",
+      "chapterUid": 41,
+      "range": "4250-4313",
+      "markText": "注意　尽管有些量子算法是随机的，比如第2章的QRNG示例或第7章的莫甘娜和兰斯洛特的游戏，但它们并不是必须如此。",
+      "totalCount": 58,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=41&rangeStart=4250&rangeEnd=4313",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=41&rangeStart=4250&rangeEnd=4313"
+    },
+    {
+      "bookmarkId": "3300105089_18_23118-23151",
+      "chapterUid": 18,
+      "range": "23118-23151",
+      "markText": "该命名空间中可用的操作和函数的完整列表可以查看微软的相关技术文档。",
+      "totalCount": 57,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=18&rangeStart=23118&rangeEnd=23151",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=18&rangeStart=23118&rangeEnd=23151"
+    },
+    {
+      "bookmarkId": "3300105089_19_4387-4427",
+      "chapterUid": 19,
+      "range": "4387-4427",
+      "markText": "提示　要从量子硬件中获得任何优势，我们必须利用硬件独特的量子特性。",
+      "totalCount": 57,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=19&rangeStart=4387&rangeEnd=4427",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=19&rangeStart=4387&rangeEnd=4427"
+    },
+    {
+      "bookmarkId": "3300105089_13_18405-18453",
+      "chapterUid": 13,
+      "range": "18405-18453",
+      "markText": "在BB84中，双方随机地（独立地）选择他们的基，这意味着他们最终会在50%的情况下使用相同的基。",
+      "totalCount": 55,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=13&rangeStart=18405&rangeEnd=18453",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=13&rangeStart=18405&rangeEnd=18453"
+    },
+    {
+      "bookmarkId": "3300105089_22_48460-48502",
+      "chapterUid": 22,
+      "range": "48460-48502",
+      "markText": "将这种模拟与相位估计相结合，可以让我们了解不同化学品的能量结构，帮助我们预测其反应。",
+      "totalCount": 55,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=22&rangeStart=48460&rangeEnd=48502",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=22&rangeStart=48460&rangeEnd=48502"
+    },
+    {
+      "bookmarkId": "3300105089_35_1756-2047",
+      "chapterUid": 35,
+      "range": "1756-2047",
+      "markText": "也就是说，我们把[[a], [b]]+[[c], [d]]是指示向东走a个街区，向北走b个街区，再向东走c个街区，最后向北走d个街区。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=35&rangeStart=1756&rangeEnd=2047",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=35&rangeStart=1756&rangeEnd=2047"
+    },
+    {
+      "bookmarkId": "3300105089_20_981-1045",
+      "chapterUid": 20,
+      "range": "981-1045",
+      "markText": "在本章中，我们将利用另一个游戏来发现如何使用相位反冲来了解量子态的相位，这是多伊奇-约萨和许多其他量子算法所使用的量子开发技术。",
+      "totalCount": 53,
+      "appLink": "weread://bestbookmark?bookId=3300105089&chapterUid=20&rangeStart=981&rangeEnd=1045",
+      "webLink": "https://weread.qq.com/web/reader/fda32cf0813ab8f8cg0198e6?chapterUid=20&rangeStart=981&rangeEnd=1045"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 19,
+    "chapterOffset": 4293,
+    "progress": 0,
+    "updateTime": 1751617547,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "meta": {
+    "bookId": "3300124528",
+    "title": "AI经济学",
+    "author": "中金研究院 中金公司研究部",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/60/cpplatform_gsycvx6byw5vurz9c3qjyr/t6_cpplatform_gsycvx6byw5vurz9c3qjyr1733814347.jpg",
+    "intro": "2022 年以来，大模型在全球范围内掀起新一轮创新热潮，AI 正以前所未有的速度深刻影响、重塑各个产业。本书从算力层、模型层、应用层三个维度，对 AI 相关经济问题进行了系统研究，深入探讨本轮AI 进步的生产力特点及其对生产关系的冲击，围绕宏观含义、产业影响、治理挑战等问题，提供系统性、前瞻性、趋势性的经济分析。 本书认为：规模定律（scaling law）是本轮 AI 技术进步的突出特征，意味着中、美两个大国在发展 AI经济方面具有特殊优势；产业层面，推动“人工智能 +”蓬勃发展是中国加速追赶的关键；宏观层面，AI 有望于未来十年在供给侧为中国经济带来每年0.8 个百分点的额外增长。实现供给增长需要积极的财政政策予以配合，尤其需要完善的社会保障制度， 以提振需求。 本书兼具学术专业性和大众可读性，旨在为社会大众、科研院所、企业与金融机构等提供有关 AI 经济学的增量观察，希望能够为我国制定 AI 产业化和产业 AI化政策框架及其配套宏观政策，提供来自业界的有益参考。",
+    "category": "经济理财-财经",
+    "publisher": "中信出版集团",
+    "publishTime": "2024-11-01 00:00:00",
+    "isbn": "9787521769869",
+    "wordCount": 0,
+    "newRating": 780,
+    "newRatingCount": 70,
+    "newRatingDetail": {
+      "good": 53,
+      "fair": 11,
+      "poor": 6,
+      "recent": 1,
+      "deepV": 54,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300124528",
+    "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30",
+    "lastSync": "2026-05-21T11:46:27Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 126,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言 AI规模新经济",
+      "level": 1,
+      "wordCount": 13344,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "宏观篇",
+      "level": 1,
+      "wordCount": 27733,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 迈向通用时代的人工智能",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第二章 中国AI发展的挑战与应对",
+      "level": 2,
+      "wordCount": 23831,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第三章 元任务与AI的经济影响",
+      "level": 2,
+      "wordCount": 18043,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第四章 AI对就业市场的变革",
+      "level": 2,
+      "wordCount": 19742,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "产业篇",
+      "level": 1,
+      "wordCount": 29483,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第五章 AI产业化：越过第一拐点",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第六章 产业AI化：双刃剑效应与应对",
+      "level": 2,
+      "wordCount": 26675,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第七章 AI的能耗焦虑：增长极限与绿色困境",
+      "level": 2,
+      "wordCount": 25109,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第八章 AI大模型：如何改变金融行业",
+      "level": 2,
+      "wordCount": 18186,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "治理篇",
+      "level": 1,
+      "wordCount": 26220,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第九章 数据或为瓶颈，确权并非关键",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第十章 AI伦理与安全：挑战与应对",
+      "level": 2,
+      "wordCount": 22633,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第十一章 AI经贸治理：规则与技术并重",
+      "level": 2,
+      "wordCount": 22205,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第十二章 AI风投：从领先到落后的创新金融启示",
+      "level": 2,
+      "wordCount": 22747,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "术语表",
+      "level": 1,
+      "wordCount": 4,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300124528&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=16"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 7,
+      "chapterTitle": "第四章 AI对就业市场的变革",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300124528_7_22242-23038",
+          "range": "22242-23038",
+          "rangeStart": 22242,
+          "rangeEnd": 23038,
+          "markText": "有实证研究发现，采用了信息技术和自动化程度较高的地区，劳动力市场出现了工资极化，￼中等工资的工作机会减少，高低两端的工作机会增加。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1768320886,
+          "createTimeFormatted": "2026-01-14 00:14:46",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=7&rangeStart=22242&rangeEnd=23038",
+          "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=7&rangeStart=22242&rangeEnd=23038"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300124528_15_8979-9058",
+      "chapterUid": 15,
+      "range": "8979-9058",
+      "markText": "通常而言，可以将风险投资划分为天使及种子期、初创期、成长期、成熟期4个阶段，投早投小的天使及种子期、初创期的风投占比越高，通常意味着风投整体的风险偏好也越高。",
+      "totalCount": 2170,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=15&rangeStart=8979&rangeEnd=9058",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=15&rangeStart=8979&rangeEnd=9058"
+    },
+    {
+      "bookmarkId": "3300124528_11_7907-7964",
+      "chapterUid": 11,
+      "range": "7907-7964",
+      "markText": "在财富管理（投顾）领域，大模型主要应用于营销获客、客户运营、产品推介等环节，可覆盖从客户获取、留存到转化的全过程。",
+      "totalCount": 2156,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=11&rangeStart=7907&rangeEnd=7964",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=11&rangeStart=7907&rangeEnd=7964"
+    },
+    {
+      "bookmarkId": "3300124528_12_30636-30690",
+      "chapterUid": 12,
+      "range": "30636-30690",
+      "markText": "但是，众多研究表明，GDPR设置了严格的个人信息保护标准，导致数据流通的交易成本过高，特别是对中小企业而言。",
+      "totalCount": 2152,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=12&rangeStart=30636&rangeEnd=30690",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=12&rangeStart=30636&rangeEnd=30690"
+    },
+    {
+      "bookmarkId": "3300124528_15_26407-26471",
+      "chapterUid": 15,
+      "range": "26407-26471",
+      "markText": "由此而来的问题是，聚焦软件开发的创新通常被认为是软创新，而过去几年资本市场的投资理念在强调支持硬科技的同时对软创新重视程度不足。",
+      "totalCount": 2149,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=15&rangeStart=26407&rangeEnd=26471",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=15&rangeStart=26407&rangeEnd=26471"
+    },
+    {
+      "bookmarkId": "3300124528_6_29983-30037",
+      "chapterUid": 6,
+      "range": "29983-30037",
+      "markText": "如果AI执行某种元任务的成本低于人工，AI将替代从事这部分元任务的劳动者，从事这部分元任务的劳动力将会减少。",
+      "totalCount": 2141,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=6&rangeStart=29983&rangeEnd=30037",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=6&rangeStart=29983&rangeEnd=30037"
+    },
+    {
+      "bookmarkId": "3300124528_5_4593-4623",
+      "chapterUid": 5,
+      "range": "4593-4623",
+      "markText": "人才的培养推动信息产业发展，繁荣的信息产业带动人才红利显现。",
+      "totalCount": 2138,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=5&rangeStart=4593&rangeEnd=4623",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=5&rangeStart=4593&rangeEnd=4623"
+    },
+    {
+      "bookmarkId": "3300124528_9_45110-45163",
+      "chapterUid": 9,
+      "range": "45110-45163",
+      "markText": "中国制造庞大的生产规模意味着可用数据的潜在规模也是非常庞大的，可支撑中国率先探索大模型与制造业的结合问题。",
+      "totalCount": 2138,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=9&rangeStart=45110&rangeEnd=45163",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=9&rangeStart=45110&rangeEnd=45163"
+    },
+    {
+      "bookmarkId": "3300124528_14_41274-41304",
+      "chapterUid": 14,
+      "range": "41274-41304",
+      "markText": "其次，在兼顾安全的同时，在公共资金投入上可适当关注效率导向。",
+      "totalCount": 2138,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=14&rangeStart=41274&rangeEnd=41304",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=14&rangeStart=41274&rangeEnd=41304"
+    },
+    {
+      "bookmarkId": "3300124528_9_37297-37377",
+      "chapterUid": 9,
+      "range": "37297-37377",
+      "markText": "所谓公地悲剧是指创新具有正外部性，如果没有知识产权保护制度，人人便都可以免费或者低成本地使用创新成果，由此形成的搭便车问题造成创新投入不足，不利于增进社会福利。",
+      "totalCount": 2127,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=9&rangeStart=37297&rangeEnd=37377",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=9&rangeStart=37297&rangeEnd=37377"
+    },
+    {
+      "bookmarkId": "3300124528_11_995-1035",
+      "chapterUid": 11,
+      "range": "995-1035",
+      "markText": "在产业格局上，大模型有望升级长尾客群交互体验、形成新的服务入口/超级应用。",
+      "totalCount": 2112,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=11&rangeStart=995&rangeEnd=1035",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=11&rangeStart=995&rangeEnd=1035"
+    },
+    {
+      "bookmarkId": "3300124528_12_45485-45552",
+      "chapterUid": 12,
+      "range": "45485-45552",
+      "markText": "AI的发展将用尽已经流通的高质量数据，我们必须让更多的数据流通聚合起来，这样才能满足AI不断增长的数据需求，增强AI领域的国际竞争力。",
+      "totalCount": 2101,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=12&rangeStart=45485&rangeEnd=45552",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=12&rangeStart=45485&rangeEnd=45552"
+    },
+    {
+      "bookmarkId": "3300124528_12_45596-45650",
+      "chapterUid": 12,
+      "range": "45596-45650",
+      "markText": "目前，中国《数据二十条》所采取的“三权分置”方案应该说是一种暂时性的过渡措施，本质上还没有解决数据确权问题。",
+      "totalCount": 2097,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=12&rangeStart=45596&rangeEnd=45650",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=12&rangeStart=45596&rangeEnd=45650"
+    },
+    {
+      "bookmarkId": "3300124528_7_5552-5612",
+      "chapterUid": 7,
+      "range": "5552-5612",
+      "markText": "机器能储存的知识量远超人脑，计算速度也快于人类，能够归纳海量文本和数据中的潜在规律，无疑能够高效完成人类社会的多种工作。",
+      "totalCount": 2094,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=7&rangeStart=5552&rangeEnd=5612",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=7&rangeStart=5552&rangeEnd=5612"
+    },
+    {
+      "bookmarkId": "3300124528_7_28950-29286",
+      "chapterUid": 7,
+      "range": "28950-29286",
+      "markText": "我们使用前文测算的中国各职业的AI暴露度和文献估算的参数，估算了AI对劳动收入份额的潜在影响。",
+      "totalCount": 2094,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=7&rangeStart=28950&rangeEnd=29286",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=7&rangeStart=28950&rangeEnd=29286"
+    },
+    {
+      "bookmarkId": "3300124528_9_45305-45341",
+      "chapterUid": 9,
+      "range": "45305-45341",
+      "markText": "对于追赶问题比较突出的芯片产业链等精密制造领域而言，数据问题更突出一些。",
+      "totalCount": 2094,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=9&rangeStart=45305&rangeEnd=45341",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=9&rangeStart=45305&rangeEnd=45341"
+    },
+    {
+      "bookmarkId": "3300124528_7_31886-31921",
+      "chapterUid": 7,
+      "range": "31886-31921",
+      "markText": "以大语言模型为代表的本轮人工智能技术发展可能进一步增加灵活就业的占比。",
+      "totalCount": 2086,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=7&rangeStart=31886&rangeEnd=31921",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=7&rangeStart=31886&rangeEnd=31921"
+    },
+    {
+      "bookmarkId": "3300124528_8_13776-13969",
+      "chapterUid": 8,
+      "range": "13776-13969",
+      "markText": "第二个宏观意义是AI技术进入消费类产业后，将改变消费三要素“人、货、场”及其关系，重构消费者的体验和购物行为。",
+      "totalCount": 2072,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=8&rangeStart=13776&rangeEnd=13969",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=8&rangeStart=13776&rangeEnd=13969"
+    },
+    {
+      "bookmarkId": "3300124528_11_3084-3138",
+      "chapterUid": 11,
+      "range": "3084-3138",
+      "markText": "其中，大模型在支付、信贷、保险、财富管理等场景均有应用落地，而且主要赋能客户服务、数据挖掘、业务助理等环节。",
+      "totalCount": 2068,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=11&rangeStart=3084&rangeEnd=3138",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=11&rangeStart=3084&rangeEnd=3138"
+    },
+    {
+      "bookmarkId": "3300124528_8_13386-13448",
+      "chapterUid": 8,
+      "range": "13386-13448",
+      "markText": "其次，AI使制造业的一些环节从传统的制造形态转变为服务形态，从出售商品的业态转变为出售服务的业态，价值链的重点发生根本迁移。",
+      "totalCount": 2050,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=8&rangeStart=13386&rangeEnd=13448",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=8&rangeStart=13386&rangeEnd=13448"
+    },
+    {
+      "bookmarkId": "3300124528_14_26381-26421",
+      "chapterUid": 14,
+      "range": "26381-26421",
+      "markText": "第一，部分国家不当利用国际经贸规则，出口管制等贸易保护行为脱离了适当的规则约束。",
+      "totalCount": 2046,
+      "appLink": "weread://bestbookmark?bookId=3300124528&chapterUid=14&rangeStart=26381&rangeEnd=26421",
+      "webLink": "https://weread.qq.com/web/reader/96632b50813ab9724g018e30?chapterUid=14&rangeStart=26381&rangeEnd=26421"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

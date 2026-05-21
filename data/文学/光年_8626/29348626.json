@@ -1,0 +1,369 @@
+{
+  "meta": {
+    "bookId": "29348626",
+    "title": "光年",
+    "author": "詹姆斯·索特",
+    "translator": "孔亚雷",
+    "cover": "https://cdn.weread.qq.com/weread/cover/70/yuewen_29348626/t6_yuewen_293486261760081368.jpg",
+    "intro": "    维瑞和芮徳娜夫妇的生活，似乎只是一场无尽的饗宴。丈夫事业有成，妻子优雅聪慧，他们有两个可爱的小孩，一群迷人的朋友，还有一只狗和一匹小马。模范家庭，理想人生，却在几无觉察间如一艘大船慢慢腐朽，无可挽回……\r\n",
+    "category": "文学-外国文学",
+    "publisher": "云南人民出版社",
+    "publishTime": "2024-11-01 00:00:00",
+    "isbn": "9787222231016",
+    "wordCount": 0,
+    "newRating": 820,
+    "newRatingCount": 339,
+    "newRatingDetail": {
+      "good": 279,
+      "fair": 48,
+      "poor": 12,
+      "recent": 1,
+      "deepV": 50,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=29348626",
+    "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064",
+    "lastSync": "2026-05-21T12:00:54Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29348626&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 141,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29348626&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "其他",
+      "level": 1,
+      "wordCount": 294,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29348626&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一部",
+      "level": 1,
+      "wordCount": 35304,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29348626&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第二部",
+      "level": 1,
+      "wordCount": 50492,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29348626&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第三部",
+      "level": 1,
+      "wordCount": 23275,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29348626&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第四部",
+      "level": 1,
+      "wordCount": 31074,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29348626&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第五部",
+      "level": 1,
+      "wordCount": 28099,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29348626&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "译后记 秋日之光",
+      "level": 1,
+      "wordCount": 14670,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29348626&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=9"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "第一部",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "29348626_4_20589-20677",
+          "range": "20589-20648",
+          "rangeStart": 20589,
+          "rangeEnd": 20648,
+          "markText": "实际上有两种生活。一种，正如维瑞所说，是人们相信你在过的生活，还有另一种。惹麻烦的，正是这另一种：我们渴望去过的生活。\n",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1645454698,
+          "createTimeFormatted": "2022-02-21 22:44:58",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=20589&rangeEnd=20648",
+          "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=20589&rangeEnd=20648"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "29348626_4_21450-21505",
+      "chapterUid": 4,
+      "range": "21450-21505",
+      "markText": "生活是天气。生活是食物。午餐在一块蓝色格子布上，有点盐撒落到上面。烟草的气味。法国布里奶酪，黄苹果，木柄餐刀。",
+      "totalCount": 289,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=21450&rangeEnd=21505",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=21450&rangeEnd=21505"
+    },
+    {
+      "bookmarkId": "29348626_4_20589-20648",
+      "chapterUid": 4,
+      "range": "20589-20648",
+      "markText": "实际上有两种生活。一种，正如维瑞所说，是人们相信你在过的生活，还有另一种。惹麻烦的，正是这另一种：我们渴望去过的生活。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=20589&rangeEnd=20648",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=20589&rangeEnd=20648"
+    },
+    {
+      "bookmarkId": "29348626_4_4641-4678",
+      "chapterUid": 4,
+      "range": "4641-4678",
+      "markText": "她真正关心的是生活的本质：食物，床单，衣服。其他的毫无意义；总能应付过去。",
+      "totalCount": 169,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=4641&rangeEnd=4678",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=4641&rangeEnd=4678"
+    },
+    {
+      "bookmarkId": "29348626_4_30841-30900",
+      "chapterUid": 4,
+      "range": "30841-30900",
+      "markText": "年复一年，梦想变得越来越隐形。它从对话中消失了，虽然并未从生活中消失。它将永远在那儿，直至最后，就像一艘大船慢慢腐朽。",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=30841&rangeEnd=30900",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=30841&rangeEnd=30900"
+    },
+    {
+      "bookmarkId": "29348626_4_4076-4128",
+      "chapterUid": 4,
+      "range": "4076-4128",
+      "markText": "河面上，颜色像石板，光倾泻而下。柔和的光，神的悠闲。远处的新桥闪耀如一项声明，像某封信中让人停住的一行。",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=4076&rangeEnd=4128",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=4076&rangeEnd=4128"
+    },
+    {
+      "bookmarkId": "29348626_4_21770-21808",
+      "chapterUid": 4,
+      "range": "21770-21808",
+      "markText": "这座城市是一座财富的大教堂，它的气味即梦想。即使那些被它摒弃的人也无法离开。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=21770&rangeEnd=21808",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=21770&rangeEnd=21808"
+    },
+    {
+      "bookmarkId": "29348626_4_37623-37643",
+      "chapterUid": 4,
+      "range": "37623-37643",
+      "markText": "这些岁月无穷无尽，但它们无法被刻入记忆。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=37623&rangeEnd=37643",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=37623&rangeEnd=37643"
+    },
+    {
+      "bookmarkId": "29348626_4_1115-1150",
+      "chapterUid": 4,
+      "range": "1115-1150",
+      "markText": "河流是一种映像。它承载的只有沉默，一种闪烁的寒意。树木赤裸。鳗鱼沉睡。",
+      "totalCount": 140,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=1115&rangeEnd=1150",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=1115&rangeEnd=1150"
+    },
+    {
+      "bookmarkId": "29348626_5_5524-5621",
+      "chapterUid": 5,
+      "range": "5524-5621",
+      "markText": "她一瞬间就走了。她突然变轻了，很轻很轻，她躺在那儿，带着某种可怕的毫无意义。一切都已离她而去——天真，哭泣，跟父亲一起尽责的出游，她从未有过的人生。所有这些生命的重量。它们消逝，分解，灰飞烟灭。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=5&rangeStart=5524&rangeEnd=5621",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=5&rangeStart=5524&rangeEnd=5621"
+    },
+    {
+      "bookmarkId": "29348626_6_9294-9354",
+      "chapterUid": 6,
+      "range": "9294-9354",
+      "markText": "人生可以用伤疤来划分，就像一棵树所包含的年轮。最初的年轮看上去靠得那么近，它们压缩了时间，二十年变得难以察觉，转瞬即逝。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=6&rangeStart=9294&rangeEnd=9354",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=6&rangeStart=9294&rangeEnd=9354"
+    },
+    {
+      "bookmarkId": "29348626_4_35989-36013",
+      "chapterUid": 4,
+      "range": "35989-36013",
+      "markText": "久睡者通常特立独行；他们喜欢沉思，稍稍有点孤僻。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=35989&rangeEnd=36013",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=35989&rangeEnd=36013"
+    },
+    {
+      "bookmarkId": "29348626_4_1006-1065",
+      "chapterUid": 4,
+      "range": "1006-1065",
+      "markText": "飞鸟，就像标点符号，水平飞行着穿过。它们看上去仿佛在慢慢接近，加速，然后像箭一样飞过头顶。天空没有颜色。感觉就要下雨。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=1006&rangeEnd=1065",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=1006&rangeEnd=1065"
+    },
+    {
+      "bookmarkId": "29348626_4_664-677",
+      "chapterUid": 4,
+      "range": "664-677",
+      "markText": "那天像纸一样白。窗户哆嗦。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=664&rangeEnd=677",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=664&rangeEnd=677"
+    },
+    {
+      "bookmarkId": "29348626_4_2479-2537",
+      "chapterUid": 4,
+      "range": "2479-2537",
+      "markText": "它悄无声息，这房子，在黑暗中它像一艘船。在里面，如果你去听，可以听见一切：水滴，微弱的低语，谷粒缓慢而有节奏的爆裂。",
+      "totalCount": 105,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=2479&rangeEnd=2537",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=2479&rangeEnd=2537"
+    },
+    {
+      "bookmarkId": "29348626_7_5229-5275",
+      "chapterUid": 7,
+      "range": "5229-5275",
+      "markText": "女人独自生活会变得干枯。我认为这无需解释。这显而易见。哪怕是不好的婚姻，也能让她们免于脱水。",
+      "totalCount": 105,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=7&rangeStart=5229&rangeEnd=5275",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=7&rangeStart=5229&rangeEnd=5275"
+    },
+    {
+      "bookmarkId": "29348626_4_45158-45247",
+      "chapterUid": 4,
+      "range": "45158-45247",
+      "markText": "在某种意义上，他与她突然平等了；他的爱不再单单依赖于她，而是更为广阔，一种对女人的爱，一种基本上无法满足、可望而不可即的爱，让他聚焦于女人这任性、神秘的生物，而不仅是某一个女人。",
+      "totalCount": 104,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=45158&rangeEnd=45247",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=45158&rangeEnd=45247"
+    },
+    {
+      "bookmarkId": "29348626_4_457-533",
+      "chapterUid": 4,
+      "range": "457-533",
+      "markText": "我们掠过那条黑色的河流，水面光滑如石头。没有船，没有小艇，没有一片白浪。水平躺着，被风敲破、打碎。这巨大的入海口宽阔，无边无际。河水带点咸味，冰冷的蓝。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=457&rangeEnd=533",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=457&rangeEnd=533"
+    },
+    {
+      "bookmarkId": "29348626_4_1466-1501",
+      "chapterUid": 4,
+      "range": "1466-1501",
+      "markText": "我们在花园漫步，吃着小而涩的苹果。树木干燥，盘根错节。厨房里的灯亮着。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=1466&rangeEnd=1501",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=1466&rangeEnd=1501"
+    },
+    {
+      "bookmarkId": "29348626_6_4455-4516",
+      "chapterUid": 6,
+      "range": "4455-4516",
+      "markText": "特定的知识不是教育。我说的教育，”芮德娜说，“是要学会如何生活，以及生活的标准是什么。那才是必须学的，否则一切都是白搭。”",
+      "totalCount": 99,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=6&rangeStart=4455&rangeEnd=4516",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=6&rangeStart=4455&rangeEnd=4516"
+    },
+    {
+      "bookmarkId": "29348626_4_8440-8476",
+      "chapterUid": 4,
+      "range": "8440-8476",
+      "markText": "他们的生活独特，真诚，他们更爱和自己的孩子在一起，他们只有很少几个朋友。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=29348626&chapterUid=4&rangeStart=8440&rangeEnd=8476",
+      "webLink": "https://weread.qq.com/web/reader/aa33227071bfd312aa36064?chapterUid=4&rangeStart=8440&rangeEnd=8476"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

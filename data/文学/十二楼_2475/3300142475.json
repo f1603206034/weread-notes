@@ -1,0 +1,676 @@
+{
+  "meta": {
+    "bookId": "3300142475",
+    "title": "十二楼",
+    "author": "[明末清初]李渔",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/49/cpplatform_ext1oftcz6h4an5ratiywz/t6_cpplatform_ext1oftcz6h4an5ratiywz1745475507.jpg",
+    "intro": "《十二楼》是明末清初文学家李渔创作的章回体白话短篇小说集，又名《觉世明言》。全书每卷以一座楼阁为名，讲述独立成篇的传奇故事。作品以才子佳人爱情为主线，兼涉市井百态与奇闻轶事，情节曲折新奇，语言幽默风趣，人物刻画鲜活，既展现人性复杂，亦暗含世态讽喻，堪称清代拟话本小说的典范之作，流传甚广且影响深远。",
+    "category": "文学-古典文学",
+    "publisher": "",
+    "publishTime": "2025-04-21 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 2,
+    "newRatingDetail": {
+      "good": 2,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 1,
+      "myRating": "",
+      "title": "评分不足"
+    },
+    "appLink": "weread://reading?bId=3300142475",
+    "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0",
+    "lastSync": "2026-05-21T11:51:15Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 84,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "序",
+      "level": 1,
+      "wordCount": 508,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "合影楼",
+      "level": 1,
+      "wordCount": 3466,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一回 防奸盗刻意藏形，起情氛无心露影",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第二回 受骂翁代图好事，背弃女错害相思",
+      "level": 2,
+      "wordCount": 3132,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第三回 堕巧计爱女嫁媒人，凑奇缘媒人赔爱女",
+      "level": 2,
+      "wordCount": 5212,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "夺锦楼",
+      "level": 1,
+      "wordCount": 7870,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一回 生二女连吃四家茶，娶双妻反合孤鸾命",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "三与楼",
+      "level": 1,
+      "wordCount": 3547,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一回 造园亭未成先卖，图产业欲取姑予",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第二回 不窝不盗忽致奇赃，连产连人愿归旧主",
+      "level": 2,
+      "wordCount": 4018,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第三回 老侠士设计处贪人，贤令君留心折疑狱",
+      "level": 2,
+      "wordCount": 3270,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "夏宜楼",
+      "level": 1,
+      "wordCount": 4274,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一回 浴荷池女伴肆顽皮，慕花容仙郎驰远目",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第二回 冒神仙才郎不测，断诗句造物留情",
+      "level": 2,
+      "wordCount": 3586,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第三回 赚奇缘新诗半篇，圆妙谎密疏一篇",
+      "level": 2,
+      "wordCount": 4956,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "归正楼",
+      "level": 1,
+      "wordCount": 4705,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一回 发利市财粮兼收，恃精详金银两失",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第二回 敛众怨恶贯将盈，散多金善心陡发",
+      "level": 2,
+      "wordCount": 3441,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第三回 显神机字添一画，施妙术殿起双层",
+      "level": 2,
+      "wordCount": 2888,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第四回 侥天幸拐子成功，堕人谋檀那得福",
+      "level": 2,
+      "wordCount": 3859,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "翠雅楼",
+      "level": 1,
+      "wordCount": 3962,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一回 卖花郎不卖后庭花，买货人惯买无钱货",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第二回 保后件失去前件，结恩人遇着仇人",
+      "level": 2,
+      "wordCount": 4066,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第三回 权贵失便宜弃头颅而换卵，阉人图报恩遗尿溺以酬涎",
+      "level": 2,
+      "wordCount": 3588,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "拂云楼",
+      "level": 1,
+      "wordCount": 3418,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一回 洗脂粉娇女增娇，弄娉婷丑妻出丑",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第二回 温旧好数致殷勤，失新欢三遭叱辱",
+      "level": 2,
+      "wordCount": 3943,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第三回 破疑人片言成二美，痴情客一跪得双姣",
+      "level": 2,
+      "wordCount": 3326,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第四回 图私事设计赚高堂，假公言谋差相佳婿",
+      "level": 2,
+      "wordCount": 3187,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第五回 未嫁夫先失号令，防失事面具遵依",
+      "level": 2,
+      "wordCount": 3547,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第六回 弄巧生疑假梦变为真梦，移奸作荩亏人改作完人",
+      "level": 2,
+      "wordCount": 2697,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "十卺楼",
+      "level": 1,
+      "wordCount": 3155,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一回 不糊涂醉仙提额，难摆布快婿完姻",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第二回 逞雄威檀郎施毒手，忍奇痛石女破天荒",
+      "level": 2,
+      "wordCount": 3719,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "鹤归楼",
+      "level": 1,
+      "wordCount": 3470,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一回 安恬退反致高科，忌风流偏来绝色",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第二回 帝王吃臣子之醋，闺房罢枕席之欢",
+      "level": 2,
+      "wordCount": 2988,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "第三回 死别胜生离从容示诀，远归当新娶忽地成空",
+      "level": 2,
+      "wordCount": 5107,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第四回 亲姐妹迥别荣枯，旧夫妻新偕伉俪",
+      "level": 2,
+      "wordCount": 3473,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "奉先楼",
+      "level": 1,
+      "wordCount": 3125,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一回 因逃难姹妇生儿，为全孤劝妻失节",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第二回 几条铁索救残生一道麻绳完骨肉",
+      "level": 2,
+      "wordCount": 4329,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "生我楼",
+      "level": 1,
+      "wordCount": 2537,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一回 破常戒造屋生儿，插奇标卖身作父",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "第二回 十两奉严亲本钱有限，万金酬孝子利息无穷",
+      "level": 2,
+      "wordCount": 2829,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "第三回 为购红颜来白发，困留慈母得娇妻",
+      "level": 2,
+      "wordCount": 3202,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "第四回 验子有奇方一枚独卵，认家无别号半座危楼",
+      "level": 2,
+      "wordCount": 2100,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "闻过楼",
+      "level": 1,
+      "wordCount": 3873,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一回 弃儒冠白须招隐，避纱帽绿野娱情",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "第二回 纳谏翁题楼怀益友，遭罹客障面避良朋",
+      "level": 2,
+      "wordCount": 3777,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "第三回 魔星将退三桩好事齐来，囤局已成一片隐衷才露",
+      "level": 2,
+      "wordCount": 4312,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142475&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=41"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 35,
+      "chapterTitle": "生我楼",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300142475_35_496-597",
+          "range": "496-597",
+          "rangeStart": 496,
+          "rangeEnd": 597,
+          "markText": "千年劫，偏自我生逢。国破家亡身又辱，不教一事不成空。极狠是天公！差一念，悔杀也无功。青冢魂多难觅取，黄泉路窄易相逢。难禁面皮红！\n",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745481094,
+          "createTimeFormatted": "2025-04-24 15:51:34",
+          "chapterUid": 35,
+          "appLink": "weread://bestbookmark?bookId=3300142475&chapterUid=35&rangeStart=496&rangeEnd=597",
+          "webLink": "https://weread.qq.com/web/reader/22132d80813ab9e27g015df0?chapterUid=35&rangeStart=496&rangeEnd=597"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

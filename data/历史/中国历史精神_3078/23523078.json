@@ -1,0 +1,498 @@
+{
+  "meta": {
+    "bookId": "23523078",
+    "title": "中国历史精神",
+    "author": "钱穆",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/60/yuewen_23523078/t6_yuewen_235230781689842369.jpg",
+    "intro": "本书系由钱穆先生讲述之史学精神和史学方法、中国历史上的政治、国防、教育、地理与人物、道德精神七题，经先生亲自修润而成。钱穆先生以渊博之史学涵养、敏锐之剖析能力，使读者得窥中国历史文化之堂奥。",
+    "category": "历史-历史文化",
+    "publisher": "九州出版社",
+    "publishTime": "2012-02-01 00:00:00",
+    "isbn": "9787510812378",
+    "wordCount": 0,
+    "newRating": 792,
+    "newRatingCount": 1525,
+    "newRatingDetail": {
+      "good": 1207,
+      "fair": 278,
+      "poor": 40,
+      "recent": 3,
+      "deepV": 71,
+      "myRating": "",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=23523078",
+    "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196",
+    "lastSync": "2026-05-21T11:52:09Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 4,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 50,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "插图",
+      "level": 1,
+      "wordCount": 20,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "新校本说明",
+      "level": 1,
+      "wordCount": 256,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "序",
+      "level": 1,
+      "wordCount": 286,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 980,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第一讲 史学精神和史学方法",
+      "level": 1,
+      "wordCount": 10613,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第二讲 中国历史上的政治",
+      "level": 1,
+      "wordCount": 12055,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第三讲 中国历史上的经济",
+      "level": 1,
+      "wordCount": 10683,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第四讲 中国历史上的国防",
+      "level": 1,
+      "wordCount": 12465,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第五讲 中国历史上的教育",
+      "level": 1,
+      "wordCount": 10145,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第六讲 中国历史上的地理与人物",
+      "level": 1,
+      "wordCount": 10469,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第七讲 中国历史上的道德精神",
+      "level": 1,
+      "wordCount": 9746,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "附录",
+      "level": 1,
+      "wordCount": 32400,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "注释",
+      "level": 1,
+      "wordCount": 199,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23523078&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=15"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 7,
+      "chapterTitle": "第一讲 史学精神和史学方法",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "23523078_7_9457-9516",
+          "range": "9457-9516",
+          "rangeStart": 9457,
+          "rangeEnd": 9516,
+          "markText": "我认为今天的我们，批评中国，指斥中国，都是在讲历史，而实际则都不是历史。只把眼前的病态来当整部历史看，这是最大一错误。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1741822118,
+          "createTimeFormatted": "2025-03-13 07:28:38",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=7&rangeStart=9457&rangeEnd=9516",
+          "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=7&rangeStart=9457&rangeEnd=9516"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "23523078_7_2666-2696",
+          "range": "2666-2696",
+          "rangeStart": 2666,
+          "rangeEnd": 2696,
+          "markText": "历史时间过去的未过去，依然存在着；未来的早来到，也早存在着。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1741822058,
+          "createTimeFormatted": "2025-03-13 07:27:38",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=7&rangeStart=2666&rangeEnd=2696",
+          "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=7&rangeStart=2666&rangeEnd=2696"
+        }
+      ]
+    },
+    {
+      "chapterUid": 9,
+      "chapterTitle": "第三讲 中国历史上的经济",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "23523078_9_12756-12847",
+          "range": "12756-12847",
+          "rangeStart": 12756,
+          "rangeEnd": 12847,
+          "markText": "今天中国人的大缺点，就在把自己本身的社会实相撇过不谈，而专门滥用西洋几个空名词套上，硬拼硬凑，硬要叫中国来做別人家文化的殖民地。我们希望中国文化还要自觉的站起来，那么中国才有新希望。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1741822083,
+          "createTimeFormatted": "2025-03-13 07:28:03",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=9&rangeStart=12756&rangeEnd=12847",
+          "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=9&rangeStart=12756&rangeEnd=12847"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "23523078_9_822-877",
+          "range": "822-877",
+          "rangeStart": 822,
+          "rangeEnd": 877,
+          "markText": "倘若个人或社会，把经济当作唯一最重要的事件与问题，那么这个人的人生决非最理想的人生，这社会也决非最理想的社会。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1741822069,
+          "createTimeFormatted": "2025-03-13 07:27:49",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=9&rangeStart=822&rangeEnd=877",
+          "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=9&rangeStart=822&rangeEnd=877"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "23523078_7_2666-2696",
+      "chapterUid": 7,
+      "range": "2666-2696",
+      "markText": "历史时间过去的未过去，依然存在着；未来的早来到，也早存在着。",
+      "totalCount": 1309,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=7&rangeStart=2666&rangeEnd=2696",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=7&rangeStart=2666&rangeEnd=2696"
+    },
+    {
+      "bookmarkId": "23523078_9_7530-7568",
+      "chapterUid": 9,
+      "range": "7530-7568",
+      "markText": "只有今天号称为代表工农阶级的共产政府，却曾明令规定田租最高不超出百分之八十。",
+      "totalCount": 666,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=9&rangeStart=7530&rangeEnd=7568",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=9&rangeStart=7530&rangeEnd=7568"
+    },
+    {
+      "bookmarkId": "23523078_7_9977-10019",
+      "chapterUid": 7,
+      "range": "9977-10019",
+      "markText": "研究历史，应该从“现时代中找问题”，应该在“过去时代中找答案”，这是研究历史两要点。",
+      "totalCount": 648,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=7&rangeStart=9977&rangeEnd=10019",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=7&rangeStart=9977&rangeEnd=10019"
+    },
+    {
+      "bookmarkId": "23523078_9_822-877",
+      "chapterUid": 9,
+      "range": "822-877",
+      "markText": "倘若个人或社会，把经济当作唯一最重要的事件与问题，那么这个人的人生决非最理想的人生，这社会也决非最理想的社会。",
+      "totalCount": 644,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=9&rangeStart=822&rangeEnd=877",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=9&rangeStart=822&rangeEnd=877"
+    },
+    {
+      "bookmarkId": "23523078_7_1072-1137",
+      "chapterUid": 7,
+      "range": "1072-1137",
+      "markText": "历史是什么呢？我们可以说，历史便即是“人生”，历史是我们全部的人生，就是全部人生的“经验”。历史本身，就是我们人生整个已往的经验。",
+      "totalCount": 544,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=7&rangeStart=1072&rangeEnd=1137",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=7&rangeStart=1072&rangeEnd=1137"
+    },
+    {
+      "bookmarkId": "23523078_9_12756-12847",
+      "chapterUid": 9,
+      "range": "12756-12847",
+      "markText": "今天中国人的大缺点，就在把自己本身的社会实相撇过不谈，而专门滥用西洋几个空名词套上，硬拼硬凑，硬要叫中国来做別人家文化的殖民地。我们希望中国文化还要自觉的站起来，那么中国才有新希望。",
+      "totalCount": 528,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=9&rangeStart=12756&rangeEnd=12847",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=9&rangeStart=12756&rangeEnd=12847"
+    },
+    {
+      "bookmarkId": "23523078_8_5067-5162",
+      "chapterUid": 8,
+      "range": "5067-5162",
+      "markText": "此无他故，只为中国人的国家观念是“文化的”“道德的”，西方人的国家观念是“权力的”“工具的”。这是一甚深相异。唯其是道德的、文化的，所以应该“一统”；唯其是权力的、工具的，所以只有“分裂”。",
+      "totalCount": 522,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=8&rangeStart=5067&rangeEnd=5162",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=8&rangeStart=5067&rangeEnd=5162"
+    },
+    {
+      "bookmarkId": "23523078_11_4906-4988",
+      "chapterUid": 11,
+      "range": "4906-4988",
+      "markText": "因此中国今天的教育风气，小学生第一目标在进中学，中学生第一目标在进大学，大学生第一目标在获得出国留学的机会，如此便成了一种赛跑式的教育，这是一种个人主义的机会比赛。",
+      "totalCount": 460,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=11&rangeStart=4906&rangeEnd=4988",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=11&rangeStart=4906&rangeEnd=4988"
+    },
+    {
+      "bookmarkId": "23523078_6_943-973",
+      "chapterUid": 6,
+      "range": "943-973",
+      "markText": "我常想，我们要知道明天将来的事，总该先知道一些昨天过去的事。",
+      "totalCount": 451,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=6&rangeStart=943&rangeEnd=973",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=6&rangeStart=943&rangeEnd=973"
+    },
+    {
+      "bookmarkId": "23523078_7_2884-2926",
+      "chapterUid": 7,
+      "range": "2884-2926",
+      "markText": "历史事件是一种远从“过去”透过“现在”而直达“将来”的，有它“一贯”的一种历史精神。",
+      "totalCount": 450,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=7&rangeStart=2884&rangeEnd=2926",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=7&rangeStart=2884&rangeEnd=2926"
+    },
+    {
+      "bookmarkId": "23523078_8_14831-14914",
+      "chapterUid": 8,
+      "range": "14831-14914",
+      "markText": "中国政治将来的新出路，决不全是美国式，也决不全是苏俄式。跟在人家后面跑，永远不会有出路。我们定要能采取各国之长，配合自己国家实情，创造出一个适合于中国自己理论的政治。",
+      "totalCount": 442,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=8&rangeStart=14831&rangeEnd=14914",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=8&rangeStart=14831&rangeEnd=14914"
+    },
+    {
+      "bookmarkId": "23523078_11_5746-5832",
+      "chapterUid": 11,
+      "range": "5746-5832",
+      "markText": "学校教育若仅是鼓励个人上进，仅注意到让每一人都接受知识和职业技能，而没有注意到每一人的“可能的失败”，及其内心情绪上的“真实苦闷”，这单方面的教育，又何能达到其理想的效能？",
+      "totalCount": 442,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=11&rangeStart=5746&rangeEnd=5832",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=11&rangeStart=5746&rangeEnd=5832"
+    },
+    {
+      "bookmarkId": "23523078_8_7176-7233",
+      "chapterUid": 8,
+      "range": "7176-7233",
+      "markText": "所以我们说，中国历史上由汉迄清两千年的政府，都是由民众组成的。既然这个政府是民众组成的，为什么还要由民众来监督呢？",
+      "totalCount": 406,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=8&rangeStart=7176&rangeEnd=7233",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=8&rangeStart=7176&rangeEnd=7233"
+    },
+    {
+      "bookmarkId": "23523078_7_5653-5751",
+      "chapterUid": 7,
+      "range": "5653-5751",
+      "markText": "史学是一种生命之学。研究文化生命，历史生命，该注意其长时间持续中之不断的变化，与不断的翻新。要在永恒中，有日新万变；又要在日新万变中，认识其永恒持续的精神。这即是人生文化最高意义和最高价值之所在。",
+      "totalCount": 396,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=7&rangeStart=5653&rangeEnd=5751",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=7&rangeStart=5653&rangeEnd=5751"
+    },
+    {
+      "bookmarkId": "23523078_11_9623-9685",
+      "chapterUid": 11,
+      "range": "9623-9685",
+      "markText": "任何一个社会，定要有大家“共同尊崇”的一些对象，这社会才能团结存在。这大家共同尊崇的对象，才是教育的最高精神所寄托，所凭依。",
+      "totalCount": 391,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=11&rangeStart=9623&rangeEnd=9685",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=11&rangeStart=9623&rangeEnd=9685"
+    },
+    {
+      "bookmarkId": "23523078_7_1988-2010",
+      "chapterUid": 7,
+      "range": "1988-2010",
+      "markText": "历史是人生全部经验的“总记录”和“总检讨”。",
+      "totalCount": 345,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=7&rangeStart=1988&rangeEnd=2010",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=7&rangeStart=1988&rangeEnd=2010"
+    },
+    {
+      "bookmarkId": "23523078_10_8429-8467",
+      "chapterUid": 10,
+      "range": "8429-8467",
+      "markText": "可知每一好制度，必须有一种良好精神来维持。若精神一衰，最好的制度也要崩溃的。",
+      "totalCount": 310,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=10&rangeStart=8429&rangeEnd=8467",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=10&rangeStart=8429&rangeEnd=8467"
+    },
+    {
+      "bookmarkId": "23523078_7_9493-9516",
+      "chapterUid": 7,
+      "range": "9493-9516",
+      "markText": "只把眼前的病态来当整部历史看，这是最大一错误。",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=7&rangeStart=9493&rangeEnd=9516",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=7&rangeStart=9493&rangeEnd=9516"
+    },
+    {
+      "bookmarkId": "23523078_11_12313-12381",
+      "chapterUid": 11,
+      "range": "12313-12381",
+      "markText": "一国家、一社会，必须具有一共同信仰、共同敬重的“道”，而此道又必是整个人生的“道”，既不偏政治，也不偏科学，也不是偏在人生中某一部分的。",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=11&rangeStart=12313&rangeEnd=12381",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=11&rangeStart=12313&rangeEnd=12381"
+    },
+    {
+      "bookmarkId": "23523078_7_8887-8946",
+      "chapterUid": 7,
+      "range": "8887-8946",
+      "markText": "我们现在的生命在哪里？现在的生命就在过去，在未来；过去的生命在哪里？在现在，在将来；将来的生命在哪里？在过去，在现在。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=23523078&chapterUid=7&rangeStart=8887&rangeEnd=8946",
+      "webLink": "https://weread.qq.com/web/reader/da7327b07166ef06da7f196?chapterUid=7&rangeStart=8887&rangeEnd=8946"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

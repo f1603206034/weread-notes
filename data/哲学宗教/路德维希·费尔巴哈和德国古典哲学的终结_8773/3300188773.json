@@ -1,0 +1,621 @@
+{
+  "meta": {
+    "bookId": "3300188773",
+    "title": "路德维希·费尔巴哈和德国古典哲学的终结",
+    "author": "[德]恩格斯",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/80/cpplatform_e7mcadts4gyaucshkamtxl/t6_cpplatform_e7mcadts4gyaucshkamtxl1766578188.jpg",
+    "intro": "《路德维希・费尔巴哈和德国古典哲学的终结》是恩格斯于 1886 年撰写的哲学名著，最初作为评论文章发表，后经修订增补成书。这部著作既是对德国古典哲学的系统总结与批判继承，也是马克思主义哲学的重要奠基性文献，核心是阐明马克思主义哲学与德国古典哲学的历史联系、本质区别，以及马克思主义哲学的理论创新与实践意义。",
+    "category": "哲学宗教-马克思哲学",
+    "publisher": "",
+    "publishTime": "2025-11-18 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 878,
+    "newRatingCount": 47,
+    "newRatingDetail": {
+      "good": 41,
+      "fair": 4,
+      "poor": 2,
+      "recent": 4,
+      "deepV": 21,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300188773",
+    "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb",
+    "lastSync": "2026-05-21T11:46:12Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 606,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 98,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "1888年单行本序言",
+      "level": 1,
+      "wordCount": 1059,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "费尔巴哈和德国古典哲学的终结",
+      "level": 1,
+      "wordCount": 6375,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "二",
+      "level": 2,
+      "wordCount": 6673,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "三",
+      "level": 2,
+      "wordCount": 5492,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "四",
+      "level": 2,
+      "wordCount": 12288,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "马克思关于费尔巴哈的提纲",
+      "level": 1,
+      "wordCount": 326,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "二",
+      "level": 2,
+      "wordCount": 114,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "三",
+      "level": 2,
+      "wordCount": 168,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "四",
+      "level": 2,
+      "wordCount": 264,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "五",
+      "level": 2,
+      "wordCount": 45,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "六",
+      "level": 2,
+      "wordCount": 181,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "七",
+      "level": 2,
+      "wordCount": 56,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "八",
+      "level": 2,
+      "wordCount": 62,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "九",
+      "level": 2,
+      "wordCount": 51,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "十",
+      "level": 2,
+      "wordCount": 43,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "十一",
+      "level": 2,
+      "wordCount": 114,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "附录",
+      "level": 1,
+      "wordCount": 41,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "俄译本第一版译者的话",
+      "level": 1,
+      "wordCount": 1029,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "俄译本注释",
+      "level": 1,
+      "wordCount": 36890,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "俄译本第一版注释被删去的部分",
+      "level": 1,
+      "wordCount": 500,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "注释⑥的末尾",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "注释⑦的末尾",
+      "level": 2,
+      "wordCount": 2081,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "注释⑨的末尾",
+      "level": 2,
+      "wordCount": 262,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "注释⑪的末尾",
+      "level": 2,
+      "wordCount": 678,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "俄译本第二版译者序言",
+      "level": 1,
+      "wordCount": 14243,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300188773&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=27"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 8,
+      "chapterTitle": "四",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300188773_8_8631-8717",
+          "range": "8631-8717",
+          "rangeStart": 8631,
+          "rangeEnd": 8717,
+          "markText": "在现代历史中至少已经证明：任何政治斗争都是阶级斗争，而任何争取解放的阶级斗争，尽管它必然地具有政治的形式（因为任何阶级斗争都是政治斗争），归根到底都是围绕着经济解放进行的。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1769662747,
+          "createTimeFormatted": "2026-01-29 12:59:07",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=8&rangeStart=8631&rangeEnd=8717",
+          "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8&rangeStart=8631&rangeEnd=8717"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300188773_8_11128-11202",
+      "chapterUid": 8,
+      "range": "11128-11202",
+      "markText": "头脑中发生这一思想过程的人们的物质生活条件，归根到底决定着这一思想过程的进行，这一事实，对这些人来说必然是没有意识到的，否则，全部意识形态就完结了。",
+      "totalCount": 636,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=8&rangeStart=11128&rangeEnd=11202",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8&rangeStart=11128&rangeEnd=11202"
+    },
+    {
+      "bookmarkId": "3300188773_8_8538-8599",
+      "chapterUid": 8,
+      "range": "8538-8599",
+      "markText": "生产过剩和大众的贫困，两者互为因果，这就是大工业所陷入的荒谬的矛盾，这个矛盾必然地要求通过改变生产方式来使生产力摆脱桎梏。",
+      "totalCount": 635,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=8&rangeStart=8538&rangeEnd=8599",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8&rangeStart=8538&rangeEnd=8599"
+    },
+    {
+      "bookmarkId": "3300188773_8_848-888",
+      "chapterUid": 8,
+      "range": "848-888",
+      "markText": "鲍威尔只是在基督教起源史方面做了一些事情，虽然他在这里所做的也是一些重要的事情；",
+      "totalCount": 625,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=8&rangeStart=848&rangeEnd=888",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8&rangeStart=848&rangeEnd=888"
+    },
+    {
+      "bookmarkId": "3300188773_8_2032-2072",
+      "chapterUid": 8,
+      "range": "2032-2072",
+      "markText": "它通过在《逻辑学》中详细探讨过并且完全包含在它自身中的一切预备阶段而向自身发展；",
+      "totalCount": 573,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=8&rangeStart=2032&rangeEnd=2072",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8&rangeStart=2032&rangeEnd=2072"
+    },
+    {
+      "bookmarkId": "3300188773_8_2072-2141",
+      "chapterUid": 8,
+      "range": "2072-2141",
+      "markText": "然后它使自己“外化”，转化为自然界，它在自然界中并没有意识到它自己，而是采取自然必然性的形式，经过新的发展，最后在人身上重新达到自我意识；",
+      "totalCount": 561,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=8&rangeStart=2072&rangeEnd=2141",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8&rangeStart=2072&rangeEnd=2141"
+    },
+    {
+      "bookmarkId": "3300188773_8_10189-10234",
+      "chapterUid": 8,
+      "range": "10189-10234",
+      "markText": "被压迫阶级反对统治阶级的斗争必然要变成政治的斗争，变成首先是反对这一阶级的政治统治的斗争；",
+      "totalCount": 561,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=8&rangeStart=10189&rangeEnd=10234",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8&rangeStart=10189&rangeEnd=10234"
+    },
+    {
+      "bookmarkId": "3300188773_8_11031-11077",
+      "chapterUid": 8,
+      "range": "11031-11077",
+      "markText": "但是，任何意识形态一经产生，就同现有的观念材料相结合而发展起来，并对这些材料作进一步的加工；",
+      "totalCount": 560,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=8&rangeStart=11031&rangeEnd=11077",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8&rangeStart=11031&rangeEnd=11077"
+    },
+    {
+      "bookmarkId": "3300188773_6_2378-2413",
+      "chapterUid": 6,
+      "range": "2378-2413",
+      "markText": "对这些以及其他一切哲学上的怪论的最令人信服的驳斥是实践，即实验和工业。",
+      "totalCount": 554,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=6&rangeStart=2378&rangeEnd=2413",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=6&rangeStart=2378&rangeEnd=2413"
+    },
+    {
+      "bookmarkId": "3300188773_8_888-936",
+      "chapterUid": 8,
+      "range": "888-936",
+      "markText": "施蒂纳甚至在巴枯宁把他同蒲鲁东混合起来并且把这个混合物命名为“无政府主义”以后，依然是一个宝贝；",
+      "totalCount": 543,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=8&rangeStart=888&rangeEnd=936",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8&rangeStart=888&rangeEnd=936"
+    },
+    {
+      "bookmarkId": "3300188773_7_7475-7547",
+      "chapterUid": 7,
+      "range": "7475-7547",
+      "markText": "——真的，在费尔巴哈那里，爱随时随地都是一个创造奇迹的神，可以帮助他克服实际生活中的一切困难，——而且这是在一个分成利益直接对立的阶级的社会里。",
+      "totalCount": 528,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=7&rangeStart=7475&rangeEnd=7547",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=7&rangeStart=7475&rangeEnd=7547"
+    },
+    {
+      "bookmarkId": "3300188773_6_1873-1982",
+      "chapterUid": 6,
+      "range": "1873-1982",
+      "markText": "例如在黑格尔那里，对这个问题的肯定回答是不言而喻的：我们在现实世界中所认识的，正是这个世界的思想内容，也就是那种使世界成为绝对观念的逐渐实现的东西，这个绝对观念是从来就存在的，是不依赖于世界并且先于世界而在某处存在的；",
+      "totalCount": 464,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=6&rangeStart=1873&rangeEnd=1982",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=6&rangeStart=1873&rangeEnd=1982"
+    },
+    {
+      "bookmarkId": "3300188773_8_13990-14028",
+      "chapterUid": 8,
+      "range": "13990-14028",
+      "markText": "但是，这些材料所发生的变化是由造成这种变化的人们的阶级关系即经济关系引起的。",
+      "totalCount": 456,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=8&rangeStart=13990&rangeEnd=14028",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8&rangeStart=13990&rangeEnd=14028"
+    },
+    {
+      "bookmarkId": "3300188773_8_9017-9100",
+      "chapterUid": 8,
+      "range": "9017-9100",
+      "markText": "在寻求这个问题的答案时，我们就发现，在现代历史中，国家的愿望总的说来是由市民社会的不断变化的需要，是由某个阶级的优势地位，归根到底，是由生产力和交换关系的发展决定的。",
+      "totalCount": 440,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=8&rangeStart=9017&rangeEnd=9100",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8&rangeStart=9017&rangeEnd=9100"
+    },
+    {
+      "bookmarkId": "3300188773_8_5649-5705",
+      "chapterUid": 8,
+      "range": "5649-5705",
+      "markText": "这样，无数的个别愿望和个别行动的冲突，在历史领域内造成了一种同没有意识的自然界中占统治地位的状况完全相似的状况。",
+      "totalCount": 417,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=8&rangeStart=5649&rangeEnd=5705",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8&rangeStart=5649&rangeEnd=5705"
+    },
+    {
+      "bookmarkId": "3300188773_6_2258-2299",
+      "chapterUid": 6,
+      "range": "2258-2299",
+      "markText": "在近代哲学家中，休谟和康德就属于这一类，而他们在哲学的发展上是起过很重要的作用的。",
+      "totalCount": 411,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=6&rangeStart=2258&rangeEnd=2299",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=6&rangeStart=2258&rangeEnd=2299"
+    },
+    {
+      "bookmarkId": "3300188773_8_1992-2032",
+      "chapterUid": 8,
+      "range": "1992-2032",
+      "markText": "绝对概念不仅是从来就存在的（不知在哪里？），而且是全部现存世界的真正的活的灵魂。",
+      "totalCount": 382,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=8&rangeStart=1992&rangeEnd=2032",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=8&rangeStart=1992&rangeEnd=2032"
+    },
+    {
+      "bookmarkId": "3300188773_6_1282-1338",
+      "chapterUid": 6,
+      "range": "1282-1338",
+      "markText": "但是，这个问题，只是在欧洲人从基督教中世纪的长期冬眠中觉醒以后，才被十分清楚地提了出来，才获得了它的完全的意义。",
+      "totalCount": 371,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=6&rangeStart=1282&rangeEnd=1338",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=6&rangeStart=1282&rangeEnd=1338"
+    },
+    {
+      "bookmarkId": "3300188773_7_2615-2700",
+      "chapterUid": 7,
+      "range": "2615-2700",
+      "markText": "同样，对历史上的伟大的阶级斗争的理解，特别是在德国，也已经被流行的历史编纂学弄得够模糊了，我们没有必要去把这一斗争的历史变为教会史的单纯附属品，使这种理解成为完全不可能。",
+      "totalCount": 355,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=7&rangeStart=2615&rangeEnd=2700",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=7&rangeStart=2615&rangeEnd=2700"
+    },
+    {
+      "bookmarkId": "3300188773_6_3961-3988",
+      "chapterUid": 6,
+      "range": "3961-3988",
+      "markText": "“在我看来，唯物主义是人类本质和人类知识的大厦的基础；",
+      "totalCount": 346,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=6&rangeStart=3961&rangeEnd=3988",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=6&rangeStart=3961&rangeEnd=3988"
+    },
+    {
+      "bookmarkId": "3300188773_5_3190-3233",
+      "chapterUid": 5,
+      "range": "3190-3233",
+      "markText": "哲学所应当认识的真理，在黑格尔看来，不再是一堆现成的、一经发现就只要熟读死记的教条了；",
+      "totalCount": 333,
+      "appLink": "weread://bestbookmark?bookId=3300188773&chapterUid=5&rangeStart=3190&rangeEnd=3233",
+      "webLink": "https://weread.qq.com/web/reader/244322f0813abb03dg0136bb?chapterUid=5&rangeStart=3190&rangeEnd=3233"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

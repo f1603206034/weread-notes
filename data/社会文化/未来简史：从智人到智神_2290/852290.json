@@ -1,0 +1,944 @@
+{
+  "meta": {
+    "bookId": "852290",
+    "title": "未来简史：从智人到智神",
+    "author": "尤瓦尔·赫拉利",
+    "translator": "林俊宏",
+    "cover": "https://cdn.weread.qq.com/weread/cover/44/YueWen_852290/t6_YueWen_852290.jpg",
+    "intro": "进入21世纪后，曾经长期威胁人类生存、发展的饥荒和战争基本被攻克，智人面临着新的待办议题：永生不老、幸福快乐和成为具有“神性”的人类。在解决这些新问题的过程中，科学技术的发展将颠覆我们很多当下认为无需佐证的“常识”，比如人文主义所推崇的自由意志将面临严峻挑战，机器将会代替人类做出更明智的选择。 更重要的，当以大数据、人工智能为代表的科学技术发展的日益成熟，人类将面临着从进化到智人以来*的一次改变，绝大部分人将沦为“无价值的群体”，只有少部分人能进化成特质发生改变的“神人”。 未来，人类将面临着三大问题：生物本身就是算法，生命是不断处理数据的过程；意识与智能的分离；拥有大数据积累的外部环境将比我们自己更了解自己。如何看待这三大问题，以及如何采取应对措施，将直接影响着人类未来的发展。",
+    "category": "社会文化-社科",
+    "publisher": "中信出版集团",
+    "publishTime": "2017-01-10 00:00:00",
+    "isbn": "9787508672069",
+    "wordCount": 0,
+    "newRating": 833,
+    "newRatingCount": 29031,
+    "newRatingDetail": {
+      "good": 24231,
+      "fair": 4467,
+      "poor": 333,
+      "recent": 46,
+      "deepV": 1067,
+      "myRating": "good",
+      "title": "脍炙人口"
+    },
+    "appLink": "weread://reading?bId=852290",
+    "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771",
+    "lastSync": "2026-05-21T12:00:06Z",
+    "readingProgress": "18%",
+    "readingTime": "0分钟",
+    "finishedDate": "2023-07-25",
+    "noteCount": 6,
+    "reviewCount": 4,
+    "bookmarkCount": 0,
+    "contentHash": "33df96ca669a741476d42a3a7433167645e55e47d90fd4516b4d39b7af307f05"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=852290&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=1"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 132,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=852290&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 3,
+      "title": "插图1",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=852290&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 4,
+      "title": "献词",
+      "level": 1,
+      "wordCount": 44,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=852290&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 5,
+      "title": "插图2",
+      "level": 1,
+      "wordCount": 16,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=852290&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 6,
+      "title": "第1章 人类的新议题",
+      "level": 1,
+      "wordCount": 43423,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "生物贫困线",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "看不见的舰队",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "打破弱肉强食的“丛林法则”",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "死亡的末日",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        },
+        {
+          "title": "幸福快乐的权利",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "地球的神",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        },
+        {
+          "title": "发展可以踩刹车吗？",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "知识的悖论",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "一段关于草坪的历史",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "本书的结构",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=852290&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 7,
+      "title": "第一部分 智人征服世界",
+      "level": 1,
+      "wordCount": 62,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=852290&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 8,
+      "title": "第2章 人类世",
+      "level": 2,
+      "wordCount": 18041,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "蛇的孩子",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        },
+        {
+          "title": "祖先的需求",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        },
+        {
+          "title": "生物也是算法",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        },
+        {
+          "title": "农业交易",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "五百年孤寂",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=852290&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 9,
+      "title": "第3章 人类的特质",
+      "level": 2,
+      "wordCount": 31018,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "谁怕达尔文？",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "为什么股票交易所没有意识？",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        },
+        {
+          "title": "生命的等式",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        },
+        {
+          "title": "实验室大鼠的抑郁生活",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        },
+        {
+          "title": "有自我意识的黑猩猩",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "聪明的马",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        },
+        {
+          "title": "革命万岁！",
+          "anchor": "sigil_toc_id_22",
+          "level": 3
+        },
+        {
+          "title": "在色情与暴力之外",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "意义之网",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "大同世界",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=852290&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 10,
+      "title": "第二部分 智人为世界赋予意义",
+      "level": 1,
+      "wordCount": 86,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=852290&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 11,
+      "title": "第4章 虚构的力量",
+      "level": 2,
+      "wordCount": 13864,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "纸上的生活",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        },
+        {
+          "title": "神圣的经文",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        },
+        {
+          "title": "运转良好的人类协作",
+          "anchor": "sigil_toc_id_28",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=852290&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 12,
+      "title": "第5章 科学与宗教之争",
+      "level": 2,
+      "wordCount": 13030,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "细菌和恶魔",
+          "anchor": "sigil_toc_id_29",
+          "level": 3
+        },
+        {
+          "title": "如果遇见佛陀",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        },
+        {
+          "title": "伪造上帝",
+          "anchor": "sigil_toc_id_31",
+          "level": 3
+        },
+        {
+          "title": "神圣教条",
+          "anchor": "sigil_toc_id_32",
+          "level": 3
+        },
+        {
+          "title": "猎巫行动",
+          "anchor": "sigil_toc_id_33",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=852290&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 13,
+      "title": "第6章 与“现代”的契约",
+      "level": 2,
+      "wordCount": 13686,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "银行家与吸血蝙蝠有何不同？",
+          "anchor": "sigil_toc_id_34",
+          "level": 3
+        },
+        {
+          "title": "经济增长的奇迹",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        },
+        {
+          "title": "方舟综合征",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        },
+        {
+          "title": "为什么我们总想要更多？",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=852290&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 14,
+      "title": "第7章 人文主义革命",
+      "level": 2,
+      "wordCount": 35002,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "向内心探寻",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "踏上绿野仙踪的黄砖路",
+          "anchor": "sigil_toc_id_39",
+          "level": 3
+        },
+        {
+          "title": "战争的真相",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        },
+        {
+          "title": "人文主义的分裂",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        },
+        {
+          "title": "贝多芬比查克·贝里更高级吗？",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        },
+        {
+          "title": "宗教的人文战争",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        },
+        {
+          "title": "电力、基因学、伊斯兰激进主义",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=852290&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 15,
+      "title": "第三部分 智人失去控制权",
+      "level": 1,
+      "wordCount": 76,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=852290&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 16,
+      "title": "第8章 实验室里的定时炸弹",
+      "level": 2,
+      "wordCount": 15679,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "我是谁",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "生命的意义",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=852290&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 17,
+      "title": "第9章 大分离",
+      "level": 2,
+      "wordCount": 30407,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "无用阶级",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "87%的可能性",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "从先知到君主",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        },
+        {
+          "title": "不平等的再升级",
+          "anchor": "sigil_toc_id_50",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=852290&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 18,
+      "title": "第10章 意识的海洋",
+      "level": 2,
+      "wordCount": 10078,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "心智的差距",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        },
+        {
+          "title": "我闻到恐惧的气味",
+          "anchor": "sigil_toc_id_52",
+          "level": 3
+        },
+        {
+          "title": "科技人文主义的两难",
+          "anchor": "sigil_toc_id_53",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=852290&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 19,
+      "title": "第11章 数据主义",
+      "level": 2,
+      "wordCount": 19047,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "所有的权力都去了哪儿？",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        },
+        {
+          "title": "人类历史是数据处理过程",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        },
+        {
+          "title": "信息渴求自由",
+          "anchor": "sigil_toc_id_56",
+          "level": 3
+        },
+        {
+          "title": "记录、上传、分享！",
+          "anchor": "sigil_toc_id_57",
+          "level": 3
+        },
+        {
+          "title": "认识你自己",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        },
+        {
+          "title": "数据流里的一片涟漪",
+          "anchor": "sigil_toc_id_59",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=852290&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 20,
+      "title": "图片来源",
+      "level": 1,
+      "wordCount": 2987,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=852290&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 21,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 1835,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=852290&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=38"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 23,
+      "chapterTitle": "第1章 人类的新议题",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "852290_3_73442-73480",
+          "range": "72822-72860",
+          "rangeStart": 72822,
+          "rangeEnd": 72860,
+          "markText": "人们之所以不愿改变，是因为害怕未知。但历史唯一不变的事实，就是一切都会改变。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1686845651,
+          "createTimeFormatted": "2023-06-16 00:14:11",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=72822&rangeEnd=72860",
+          "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=72822&rangeEnd=72860"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "852290_3_65926-66363",
+          "range": "65281-65718",
+          "rangeStart": 65281,
+          "rangeEnd": 65718,
+          "markText": "我们每个人都出生在某个特定的历史现实中，受特定的规范和价值观制约，也由独特的经济和政治制度来管理。我们都会觉得自己所处的现实是理所当然的，认为这一切纯属自然、不可避免、无法改变。但我们忘了世界是由一连串的意外事件所创造的，历史不仅塑造了我们的科技、政治和社会，也塑造了我们的思想、恐惧和梦想。“过去”从祖先的坟墓里伸出冰冷的手，掐住我们的脖子，让我们只能看向某个未来的方向。我们从出生那一刻就能感受到这股力量，于是以为这就是自然，是我们不可分割的一部分，也就很少试着挣脱并想象自己的未来还有其他可能性。\n研究历史，就是为了挣脱过去的桎梏，让我们能看向不同的方向，并开始注意到前人无法想象或过去不希望我们想象到的可能性。观察让我们走到现在的一连串意外事件，就能了解人类的每个念头和梦想是如何变成现实的，然后我们就能开始以不同的方式思考并编织出不同的梦想。研究历史并不能告诉我们应该如何选择，但至少能给我们提供更多的选项。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1686845568,
+          "createTimeFormatted": "2023-06-16 00:12:48",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=65281&rangeEnd=65718",
+          "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=65281&rangeEnd=65718"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "852290_3_63836-63953",
+          "range": "63191-63308",
+          "rangeStart": 63191,
+          "rangeEnd": 63308,
+          "markText": "有些复杂系统（例如天气）完全无视我们的预测，但人类发展的过程则会对预测产生反应。事实上，预测越准确，引起的反应就越多。因此矛盾的是，随着我们收集更多资料、提升运算能力，事情反而会变得更出乎意料且难以预测。知道的越多，能预测的反而越少。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1686845567,
+          "createTimeFormatted": "2023-06-16 00:12:47",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=63191&rangeEnd=63308",
+          "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=63191&rangeEnd=63308"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "852290_3_60920-61337",
+          "range": "60286-60457",
+          "rangeStart": 60286,
+          "rangeEnd": 60457,
+          "markText": "2000年，密歇根州西布鲁姆菲尔德（West Bloomﬁeld）的莎伦·萨里嫩（Sharon Saarinen）生下了一个健康的女婴阿兰娜（Alana）。阿兰娜的细胞核DNA来自母亲莎伦和父亲保罗，但她的线粒体DNA来自另一位女性。从纯技术的角度来看，阿兰娜有三位亲生父母。一年后，2001年，美国政府因为安全和伦理问题而禁止了这项技术。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1686840621,
+          "createTimeFormatted": "2023-06-15 22:50:21",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=60286&rangeEnd=60457",
+          "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=60286&rangeEnd=60457"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "852290_3_61367-61694",
+          "range": "60728-60776",
+          "rangeStart": 60728,
+          "rangeEnd": 60776,
+          "markText": "但在2015年2月3日，英国议会投票通过了所谓的“三亲胚胎”法，允许使用此项技术和进行相关研究。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1686840597,
+          "createTimeFormatted": "2023-06-15 22:49:57",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=60728&rangeEnd=60776",
+          "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=60728&rangeEnd=60776"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7J0vmWLrC",
+          "range": "64220-64311",
+          "chapterName": "",
+          "content": "如果我不能准确预测未来，未来没有发生我所预测的，你就可以说：你的预测不准确\n相反，如果我能准确的预测未来，你做了相应的反制手段，避免我所预测的未来，你依旧可以说：你的预测不准确",
+          "abstract": "这正是历史知识的悖论。知识如果不能改变行为，就没有用处。但知识一旦改变了行为，本身就立刻失去意义。我们拥有越多数据，对历史了解越深入，历史的轨迹就改变得越快，我们的知识也过时得越快。",
+          "star": -1,
+          "createTime": 1686882135,
+          "createTimeFormatted": "2023-06-16 10:22:15",
+          "isFinish": false,
+          "chapterUid": 23
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7J0sxkm1r",
+          "range": "70262-70348",
+          "chapterName": "",
+          "content": "学习历史的意义就是：\n过去不是必然，未来可以改变",
+          "abstract": "这正是研究历史最好的理由：不是为了预测未来，而是要摆脱过去，想象另一种命运。当然，我们仍不免受到过去的影响，所以永远不可能得到完全的自由；然而，部分自由总比全无自由要好得多",
+          "star": -1,
+          "createTime": 1686879540,
+          "createTimeFormatted": "2023-06-16 09:39:00",
+          "isFinish": false,
+          "chapterUid": 23
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7IZRyVmTT",
+          "range": "71736-71761",
+          "chapterName": "",
+          "content": "人来源于动物界的这一事实已经决定人永远不能完全摆脱兽性，所以问题永远只能在于摆脱得多些或少些，在于兽性或人性的程度上的差异。\n思格斯：《反杜林论》(1876年9月一1878年6月)。",
+          "abstract": "智人竭尽全力想忘掉这件事，但人类仍然就是一种动物。",
+          "star": -1,
+          "createTime": 1686845667,
+          "createTimeFormatted": "2023-06-16 00:14:27",
+          "isFinish": false,
+          "chapterUid": 23
+        }
+      ]
+    }
+  ],
+  "bookReviews": [
+    {
+      "type": "review",
+      "reviewId": "32618646_7MWDYpBDn",
+      "range": "",
+      "chapterName": "",
+      "content": "本书分为三个部分\n智人是如何与其他物种相处的\n人文主义如何成为当今的主流思想并改造世界的\n智人如何从世界中心的位置跌下来\n作者提出了几个可能会出现的事情\n基因改造成完美基因的“超智人”\n“超智人”如何对待智人，可以想象一下，智人如何对待其他物种，19世纪欧洲人如何看待非洲人\n无用阶级：没有经济价值，没有社会价值的人。人工智能替代人类大部分职业后产生的新阶级\n人工智能代替人做决策，人自身权利的下放或者转移，人开始丧失思考能力\n人工智能的“价值观”与人文主义以人为中心的价值观的矛盾\n……………\n从1946年第一台计算机到现在的人工智能，大半个世纪的时间内，就如同大刘在《三体》所说的：“从宇宙的尺度上看，人类的科技就像在爆炸”\n但是爆炸之后，是灰烬，还是什么\n尽管作者谈了很多骇人听闻的想法，但我们不得不承认，他所说的正在慢慢印证。\n作者还是爱智人的，在本书开篇就已经提到了，\n尽管未来是如此的不尽人意，但是我们的目的不是为了准确的预测未来，而是为了摆脱现在看着可能是必然，今后的历史学家看着是偶然的未来。",
+      "abstract": "",
+      "star": 100,
+      "createTime": 1700749276,
+      "createTimeFormatted": "2023-11-23 22:21:16",
+      "isFinish": false,
+      "chapterUid": 0
+    }
+  ],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "852290_23_64220-64311",
+      "chapterUid": 23,
+      "range": "64220-64311",
+      "markText": "这正是历史知识的悖论。知识如果不能改变行为，就没有用处。但知识一旦改变了行为，本身就立刻失去意义。我们拥有越多数据，对历史了解越深入，历史的轨迹就改变得越快，我们的知识也过时得越快。",
+      "totalCount": 18450,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=64220&rangeEnd=64311",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=64220&rangeEnd=64311"
+    },
+    {
+      "bookmarkId": "852290_23_4907-4968",
+      "chapterUid": 23,
+      "range": "4907-4968",
+      "markText": "18世纪，据称法国王后玛丽·安托瓦尼特(MarieAntoinette)曾向挨饿的民众说，如果没有面包可吃，何不吃蛋糕呢？",
+      "totalCount": 10134,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=4907&rangeEnd=4968",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=4907&rangeEnd=4968"
+    },
+    {
+      "bookmarkId": "852290_33_23078-23111",
+      "chapterUid": 33,
+      "range": "23078-23111",
+      "markText": "活在幻想里是一个更为轻松的选项，唯有这样，才能让一切痛苦有了意义。",
+      "totalCount": 7236,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=33&rangeStart=23078&rangeEnd=23111",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=33&rangeStart=23078&rangeEnd=23111"
+    },
+    {
+      "bookmarkId": "852290_23_55770-55822",
+      "chapterUid": 23,
+      "range": "55770-55822",
+      "markText": "在追求健康、快乐和力量的过程中，人类慢慢地改变自己的特质，于是特质一个又一个地改变，直到人类不再是人类。",
+      "totalCount": 6408,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=55770&rangeEnd=55822",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=55770&rangeEnd=55822"
+    },
+    {
+      "bookmarkId": "852290_23_62632-62680",
+      "chapterUid": 23,
+      "range": "62632-62680",
+      "markText": "住在宫殿里的人，心中的重要议题永远与住在陋室里的人不同，而就算在21世纪，这一点也不太可能改变。",
+      "totalCount": 6103,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=62632&rangeEnd=62680",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=62632&rangeEnd=62680"
+    },
+    {
+      "bookmarkId": "852290_23_18747-18803",
+      "chapterUid": 23,
+      "range": "18747-18803",
+      "markText": "因此我们或许可以说，流行病在未来要危及人类只有一种可能，那就是人类自己为了某种残忍的意识形态，刻意制造出流行病。",
+      "totalCount": 5985,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=18747&rangeEnd=18803",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=18747&rangeEnd=18803"
+    },
+    {
+      "bookmarkId": "852290_28_19527-19596",
+      "chapterUid": 28,
+      "range": "19527-19596",
+      "markText": "公司、货币和国家，都只存在于我们的想象之中，是人类发明了这些概念，好让它们为人类服务；为什么最后反而是人类为这些概念服务，甚至牺牲性命呢？",
+      "totalCount": 5940,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=28&rangeStart=19527&rangeEnd=19596",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=28&rangeStart=19527&rangeEnd=19596"
+    },
+    {
+      "bookmarkId": "852290_23_72822-72860",
+      "chapterUid": 23,
+      "range": "72822-72860",
+      "markText": "人们之所以不愿改变，是因为害怕未知。但历史唯一不变的事实，就是一切都会改变。",
+      "totalCount": 5840,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=72822&rangeEnd=72860",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=72822&rangeEnd=72860"
+    },
+    {
+      "bookmarkId": "852290_23_36267-36309",
+      "chapterUid": 23,
+      "range": "36267-36309",
+      "markText": "你愿意当一个生产力高但不开心的新加坡人，还是当一个生产力低但心满意足的哥斯达黎加人？",
+      "totalCount": 5678,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=36267&rangeEnd=36309",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=36267&rangeEnd=36309"
+    },
+    {
+      "bookmarkId": "852290_25_22344-22406",
+      "chapterUid": 25,
+      "range": "22344-22406",
+      "markText": "人类有99%的决定，包括关于配偶、事业和住处的重要抉择，都是由各种进化而成的算法来处理，我们把这些算法称为感觉、情感和欲望。",
+      "totalCount": 5248,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=25&rangeStart=22344&rangeEnd=22406",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=25&rangeStart=22344&rangeEnd=22406"
+    },
+    {
+      "bookmarkId": "852290_23_34579-34611",
+      "chapterUid": 23,
+      "range": "34579-34611",
+      "markText": "之所以成立学校，是为了培养温顺而有技能的国民，忠实地为国家服务。",
+      "totalCount": 5022,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=34579&rangeEnd=34611",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=34579&rangeEnd=34611"
+    },
+    {
+      "bookmarkId": "852290_35_11500-11586",
+      "chapterUid": 35,
+      "range": "11500-11586",
+      "markText": "现代人类已经患上“错过恐惧症”(Fear Of Missing Out,FOMO)，总在担心自己错过了什么；虽然手中的选择比以往任何时候都多，但选了之后又很难全心全意对待。",
+      "totalCount": 4961,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=35&rangeStart=11500&rangeEnd=11586",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=35&rangeStart=11500&rangeEnd=11586"
+    },
+    {
+      "bookmarkId": "852290_23_1227-1284",
+      "chapterUid": 23,
+      "range": "1227-1284",
+      "markText": "到了21世纪初，平均来说，人类死于干旱、埃博拉病毒或基地组织恐怖袭击的可能性，还不及死于暴饮暴食麦当劳食品的比例。",
+      "totalCount": 4864,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=1227&rangeEnd=1284",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=1227&rangeEnd=1284"
+    },
+    {
+      "bookmarkId": "852290_30_652-666",
+      "chapterUid": 30,
+      "range": "652-666",
+      "markText": "人类同意放弃意义、换取力量。",
+      "totalCount": 4864,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=30&rangeStart=652&rangeEnd=666",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=30&rangeStart=652&rangeEnd=666"
+    },
+    {
+      "bookmarkId": "852290_23_49262-49295",
+      "chapterUid": 23,
+      "range": "49262-49295",
+      "markText": "想得到真正的幸福快乐，人类该做的并非加速，而是放慢追求快感的脚步。",
+      "totalCount": 4836,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=49262&rangeEnd=49295",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=49262&rangeEnd=49295"
+    },
+    {
+      "bookmarkId": "852290_23_50355-50390",
+      "chapterUid": 23,
+      "range": "50355-50390",
+      "markText": "人要升级为神，有三条路径可走：生物工程、半机械人工程、非有机生物工程。",
+      "totalCount": 4676,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=50355&rangeEnd=50390",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=50355&rangeEnd=50390"
+    },
+    {
+      "bookmarkId": "852290_33_21456-21503",
+      "chapterUid": 33,
+      "range": "21456-21503",
+      "markText": "荒谬的是，我们对一个想象故事做出的牺牲越多，就可能越坚持，只为了让我们的一切牺牲和痛苦有意义。",
+      "totalCount": 4560,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=33&rangeStart=21456&rangeEnd=21503",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=33&rangeStart=21456&rangeEnd=21503"
+    },
+    {
+      "bookmarkId": "852290_23_24078-24163",
+      "chapterUid": 23,
+      "range": "24078-24163",
+      "markText": "恐怖分子就像一只想要大闹瓷器店的苍蝇。苍蝇如此弱小，凭一己之力连一只茶杯也挪动不了，于是便找来一头牛，钻到它的耳朵里嗡嗡叫，让牛因为恐惧和愤怒而发狂，从而破坏整个瓷器店。",
+      "totalCount": 4521,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=24078&rangeEnd=24163",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=24078&rangeEnd=24163"
+    },
+    {
+      "bookmarkId": "852290_26_40826-40896",
+      "chapterUid": 26,
+      "range": "40826-40896",
+      "markText": "我们希望相信自己的生命有客观意义，希望自己的种种牺牲不只是为了脑子里的各种空想。但事实上，大多数人生活的意义，都只存在于彼此讲述的故事之中。",
+      "totalCount": 4521,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=26&rangeStart=40826&rangeEnd=40896",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=26&rangeStart=40826&rangeEnd=40896"
+    },
+    {
+      "bookmarkId": "852290_23_23762-23800",
+      "chapterUid": 23,
+      "range": "23762-23800",
+      "markText": "对于一般美国人或欧洲人来说，可口可乐对生命造成的威胁，可能远比基地组织要大。",
+      "totalCount": 4420,
+      "appLink": "weread://bestbookmark?bookId=852290&chapterUid=23&rangeStart=23762&rangeEnd=23800",
+      "webLink": "https://weread.qq.com/web/reader/cf3326205d0142cf3606771?chapterUid=23&rangeStart=23762&rangeEnd=23800"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 23,
+    "chapterOffset": 72333,
+    "progress": 18,
+    "updateTime": 1736324624,
+    "recordReadingTime": 0,
+    "finishTime": 1690277572
+  }
+}

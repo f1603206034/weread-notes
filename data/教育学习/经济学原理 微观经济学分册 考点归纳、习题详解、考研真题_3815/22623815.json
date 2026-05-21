@@ -1,0 +1,615 @@
+{
+  "meta": {
+    "bookId": "22623815",
+    "title": "经济学原理 微观经济学分册 考点归纳、习题详解、考研真题",
+    "author": "圣才考研网",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/85/YueWen_22623815/t6_YueWen_22623815.jpg",
+    "intro": "《经济学原理（微观经济学分册）考点归纳、习题详解、考研真题》的对应教材为[美]曼昆著梁小民等译的《经济学原理（微观经济学分册）》第7版。",
+    "category": "教育学习-考试",
+    "publisher": "化学工业出版社",
+    "publishTime": "2017-09-01 00:00:00",
+    "isbn": "9787122300379",
+    "wordCount": 0,
+    "newRating": 852,
+    "newRatingCount": 149,
+    "newRatingDetail": {
+      "good": 129,
+      "fair": 16,
+      "poor": 4,
+      "recent": 0,
+      "deepV": 12,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=22623815",
+    "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657",
+    "lastSync": "2026-05-21T11:47:36Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 2,
+    "bookmarkCount": 0,
+    "contentHash": "e3e44f2b01059a9ddf486014c9e017daaed670397ad26277e11d5a5b7fe80c4f"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 146,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 781,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第1章 经济学十大原理",
+      "level": 1,
+      "wordCount": 19034,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第2章 像经济学家一样思考",
+      "level": 1,
+      "wordCount": 15605,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第3章 相互依存性与贸易的好处",
+      "level": 1,
+      "wordCount": 16103,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第4章 供给与需求的市场力量",
+      "level": 1,
+      "wordCount": 20332,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第5章 弹性及其应用",
+      "level": 1,
+      "wordCount": 16420,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第6章 供给、需求与政府政策",
+      "level": 1,
+      "wordCount": 14807,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第7章 消费者、生产者与市场效率",
+      "level": 1,
+      "wordCount": 16736,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第8章 应用：赋税的代价",
+      "level": 1,
+      "wordCount": 12755,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第9章 应用：国际贸易",
+      "level": 1,
+      "wordCount": 16218,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第10章 外部性",
+      "level": 1,
+      "wordCount": 18656,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第11章 公共物品和公共资源",
+      "level": 1,
+      "wordCount": 16650,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第12章 税制的设计",
+      "level": 1,
+      "wordCount": 13237,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第13章 生产成本",
+      "level": 1,
+      "wordCount": 19882,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第14章 竞争市场上的企业",
+      "level": 1,
+      "wordCount": 15394,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第15章 垄断",
+      "level": 1,
+      "wordCount": 19316,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第16章 垄断竞争",
+      "level": 1,
+      "wordCount": 13428,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第17章 寡头",
+      "level": 1,
+      "wordCount": 18842,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第18章 生产要素市场",
+      "level": 1,
+      "wordCount": 17373,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第19章 收入与歧视",
+      "level": 1,
+      "wordCount": 12925,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第20章 收入不平等与贫困",
+      "level": 1,
+      "wordCount": 16269,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第21章 消费者选择理论",
+      "level": 1,
+      "wordCount": 19600,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第22章 微观经济学前沿",
+      "level": 1,
+      "wordCount": 16676,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22623815&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=25"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "第1章 经济学十大原理",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "22623815_4_8480-8578",
+          "range": "8480-8578",
+          "rangeStart": 8480,
+          "rangeEnd": 8578,
+          "markText": "通货膨胀只有在纸币流通的条件下才会出现，在金银货币流通的条件下不会出现此种现象。这是因为金银货币本身具有价值，作为贮藏手段的职能，可以自发地调节流通中的货币量，使它同商品流通所需要的货币量相适应。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1725943527,
+          "createTimeFormatted": "2024-09-10 12:45:27",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=8480&rangeEnd=8578",
+          "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=8480&rangeEnd=8578"
+        }
+      ]
+    },
+    {
+      "chapterUid": 18,
+      "chapterTitle": "第15章 垄断",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_84KR9de6j",
+          "range": "37263-37677",
+          "chapterName": "第15章 垄断",
+          "content": "答案错误，正确解法如下：\n1. 边际成本（MC）调整原理\n原总成本（TC原）：\nTC原 = FC + VC = FC + (100Q + 5Q²)\n边际成本（MC原）：\nMC原 = d(TC原)/dQ = 100 + 10Q\n新增成本：每售出1张CD支付150元 → 新增可变成本：\nΔTC = 150Q\n新总成本（TC新）：\nTC新 = FC + (100Q + 5Q²) + 150Q = FC + 250Q + 5Q²\n新边际成本（MC新）：\nMC新 = d(TC新)/dQ = 250 + 10Q\n2. 利润最大化计算\n需求函数：\nP = 1000 - 10Q\n边际收益（MR）：\nMR = d(TR)/dQ = 1000 - 20Q\n均衡条件：\nMR = MC新 → 1000 - 20Q = 250 + 10Q\n解得：\n30Q = 750 → Q = 25张\nP = 1000 - 10×25 = 750元\n3. 社会最优产量（Q有效）\n条件：需求 = 新边际成本\n1000 - 10Q = 250 + 10Q → 20Q = 750 → Q有效 = 37.5张\n4. 无谓损失（DWL）计算\n公式：\nDWL = 0.5 × (P垄断 - MC垄断) × (Q有效 - Q垄断)\n代入数值：\nP垄断 = 750元\nMC垄断 = 250 + 10×25 = 500元\nQ有效 = 37.5张\nQ垄断 = 25张\n计算：\nDWL = 0.5 × (750-500) × (37.5-25) = 0.5 × 250 × 12.5 = 1562.5元",
+          "abstract": "iii.对每张CD支付150Ectenia元，因而垄断者的边际成本变为MC=100+10Q+150Q=100+160Q，由MC=MR可得：100+160Q=1000-20Q，从而可以解得Q=5，P=950Ectenia元。此时，产量更低，价格更高，因而无谓损失变大了。",
+          "star": -1,
+          "createTime": 1763468805,
+          "createTimeFormatted": "2025-11-18 20:26:45",
+          "isFinish": false,
+          "chapterUid": 18
+        }
+      ]
+    },
+    {
+      "chapterUid": 17,
+      "chapterTitle": "第14章 竞争市场上的企业",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_84KcYasoy",
+          "range": "15549-15872",
+          "chapterName": "第14章 竞争市场上的企业",
+          "content": "征税后的成本变化情况\n◦ 固定成本有所增加，不过平均可变成本（AVC）曲线和边际成本（MC）曲线并未改变。\n◦ 平均总成本（ATC）曲线会向上移动。\n◦ 短时间内，市场价格  P  高于平均可变成本（AVC）时，企业不会对自身的生产决策做出调整。\n◦ 又由于市场价格  P  低于新的平均总成本（ATC），企业会选择退出市场。\n这一行为会使得市场的供给曲线向左移动，进而导致市场价格上升，销量下降。\n市场稳定后的状态\n◦ 单个企业最终会在原均衡点的右上方达成新的均衡，此时价格上涨，但销量也会上升。\n那么为什么，企业和市场的新的均衡点会出现这种矛盾的移动现象？\n解答：\n让我为您澄清这个看似矛盾的地方。您完全正确地指出了两点：\n对于单个企业来说：新的长期均衡点确实是在新的ATC曲线的最低点，这个点位于原均衡点的右上方。\n对于整个市场来说：新的长期均衡点位于原均衡点的左上方（价格更高，总产量更低）。\n那么，这两个看起来矛盾的结论是如何统一的呢？\n关键在于区分 单个企业的产量 (q) 和 市场的总产量 (Q)。\n我们来一步步分解这个过程：\n阶段一：初始长期均衡\n市场：市场供给曲线S1和需求曲线D相交，决定了市场价格P1和市场总产量Q1。\n单个企业：企业是价格接受者，面对价格P1。此时，P1 = MC = ATC1的最低点。企业生产q1，经济利润为零。\n关系：Q1 = n1 * q1 (其中 n1 是市场中的企业数量)\n阶段二：征收100美元固定税（短期）\n市场：没有变化。价格仍是P1，总产量仍是Q1。\n单个企业：\nMC曲线不变。\nATC曲线上移至ATC2。\n由于价格P1现在低于ATC2，企业开始亏损。\n阶段三：向新的长期均衡调整\n这是解开谜团的关键一步。\n企业退出：由于行业内所有企业都在亏损，最无法承受的企业开始退出市场。\n市场供给曲线移动：随着企业数量的减少，市场总供给曲线S1开始向左移动。假设最终移动到S2。\n市场价格上涨：市场供给减少导致了“物以稀为贵”，市场价格开始从P1上涨。\n何时停止退出？：企业会一直退出，市场价格会一直上涨，直到剩下的企业不再亏损为止。这个点就是当市场价格正好等于新的ATC曲线（ATC2）的最低点时。我们称这个新价格为P2。\n阶段四：新的长期均衡\n市场：\n新的均衡点是S2和D的交点。\n价格为 P2 (P2 > P1)。\n市场总产量为 Q2 (Q2 < Q1)。\n这解释了为什么市场的均衡点移动到了“左上方”。\n单个（幸存的）企业：\n它们现在面对的是由市场决定的新价格P2。\n在这个价格水平上，P2 = MC = ATC2的最低点。\n为了达到这个利润最大化（此时是零利润）的点，每个幸存企业会调整自己的产量到q2。\n观察图表可以发现，ATC2的最低点 (q2) 确实在ATC1的最低点 (q1) 的右边。所以，q2 > q1。\n这解释了为什么单个企业的均衡点移动到了“右上方”。\n核心解惑：如何调和“右上”和“左上”？\n这里的关键在于企业数量 n 的急剧减少。\n初始状态：市场总产量 Q1 = n1 * q1\n最终状态：市场总产量 Q2 = n2 * q2\n虽然每个幸存下来的企业产量增加了 (q2 > q1)，但是企业的数量大幅减少了 (n2 < n1)。\n企业数量减少的影响，远远超过了单个企业产量增加的影响，最终导致市场的总产量是下降的。\n举个例子：\n初始：市场有 100 个摊位 (n1)，每个卖 50 个卷饼 (q1)。市场总产量 Q1 = 100 * 50 = 5000。\n征税后：一部分摊位退出，市场上只剩下 60 个摊位 (n2)。为了弥补成本，价格上涨，每个摊位现在必须卖 70 个卷饼 (q2) 才能保本。\n最终：市场总产量 Q2 = 60 * 70 = 4200。\n结论：\n单个企业：为了在更高的成本（ATC2）下生存，必须等到市场价格上涨，并扩大生产到新的、效率更高的规模点（ATC2的最低点），所以它的产量 q 增加了。\n整个市场：由于大量企业退出了，即使剩下的企业生产得更多，市场的总产量 Q 还是减少了。",
+          "abstract": "6.纽约的椒盐卷饼摊是实现了长期均衡的完全竞争行业。有一天，市政府开始对每个摊位每月征收100美元的税。这种政策在短期和长期中会如何影响椒盐卷饼的消费量？（　）\na.短期中减少，长期中没有变化\nb.短期中增加，长期中没有变化\nc.短期中没有变化，长期中减少\nd.短期中没有变化，长期中增加\n【答案】c",
+          "star": -1,
+          "createTime": 1763431996,
+          "createTimeFormatted": "2025-11-18 10:13:16",
+          "isFinish": false,
+          "chapterUid": 17
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "22623815_4_879-906",
+      "chapterUid": 4,
+      "range": "879-906",
+      "markText": "现实中存在着资源的有限性和人类欲望的无限性之间的矛盾。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=879&rangeEnd=906",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=879&rangeEnd=906"
+    },
+    {
+      "bookmarkId": "22623815_4_1724-1751",
+      "chapterUid": 4,
+      "range": "1724-1751",
+      "markText": "做出决策时，任何一种行为的成本可用其所放弃的机会衡量，",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=1724&rangeEnd=1751",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=1724&rangeEnd=1751"
+    },
+    {
+      "bookmarkId": "22623815_4_4285-4362",
+      "chapterUid": 4,
+      "range": "4285-4362",
+      "markText": "比如，假设在完全竞争市场条件下，经济活动主体所追求的唯一目标是自身经济利益的最大化，即作为理性人的消费者追求效用最大化，作为理性人的厂商追求利润最大化等。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=4285&rangeEnd=4362",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=4285&rangeEnd=4362"
+    },
+    {
+      "bookmarkId": "22623815_4_789-809",
+      "chapterUid": 4,
+      "range": "789-809",
+      "markText": "经济学是研究社会如何管理自己的稀缺资源。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=789&rangeEnd=809",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=789&rangeEnd=809"
+    },
+    {
+      "bookmarkId": "22623815_4_4157-4183",
+      "chapterUid": 4,
+      "range": "4157-4183",
+      "markText": "理性人是指系统而有目的地尽最大努力去实现其目标的人。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=4157&rangeEnd=4183",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=4157&rangeEnd=4183"
+    },
+    {
+      "bookmarkId": "22623815_4_11722-11806",
+      "chapterUid": 4,
+      "range": "11722-11806",
+      "markText": "过国际分工可以使各国专门从事自己最擅长的活动，这种专业化生产可以提高效率，再通过贸易交换可以使贸易各方都能以较低的成本获得各种各样的物品与服务，从而使得各方的福利都增加",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=11722&rangeEnd=11806",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=11722&rangeEnd=11806"
+    },
+    {
+      "bookmarkId": "22623815_4_3675-3730",
+      "chapterUid": 4,
+      "range": "3675-3730",
+      "markText": "机会成本是指为了得到某种东西所必须放弃的东西。指将一种资源用于某种用途，而未用于其他用途所放弃的最大预期收益。",
+      "totalCount": 70,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=3675&rangeEnd=3730",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=3675&rangeEnd=3730"
+    },
+    {
+      "bookmarkId": "22623815_4_6263-6311",
+      "chapterUid": 4,
+      "range": "6263-6311",
+      "markText": "市场失灵指市场本身不能有效配置资源的情况，即价格机制在某些领域不能起作用或不能起有效作用的情况。",
+      "totalCount": 60,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=6263&rangeEnd=6311",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=6263&rangeEnd=6311"
+    },
+    {
+      "bookmarkId": "22623815_4_4956-5009",
+      "chapterUid": 4,
+      "range": "4956-5009",
+      "markText": "激励水平（即积极性的高低）。激励的手段包括物质利益激励、精神激励、环境激励、目标激励、任务激励和组织激励等",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=4956&rangeEnd=5009",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=4956&rangeEnd=5009"
+    },
+    {
+      "bookmarkId": "22623815_4_15345-15400",
+      "chapterUid": 4,
+      "range": "15345-15400",
+      "markText": "货币工资率的提高是引起通货膨胀的原因，即货币工资率的增加超过劳动生产率的增加会引起物价上涨，从而导致通货膨胀。",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=15345&rangeEnd=15400",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=15345&rangeEnd=15400"
+    },
+    {
+      "bookmarkId": "22623815_4_2900-2933",
+      "chapterUid": 4,
+      "range": "2900-2933",
+      "markText": "宏观经济学则以整个国民经济为研究对象，主要着眼于对经济总量的研究。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=2900&rangeEnd=2933",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=2900&rangeEnd=2933"
+    },
+    {
+      "bookmarkId": "22623815_4_2810-2900",
+      "chapterUid": 4,
+      "range": "2810-2900",
+      "markText": "微观经济学是以单个经济主体（作为消费者的单个家庭或个人，作为生产者的单个厂商或企业，以及单个产品或生产要素市场）为研究对象，研究单个经济主体面对既定的资源约束时如何进行选择的科学。",
+      "totalCount": 52,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=2810&rangeEnd=2900",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=2810&rangeEnd=2900"
+    },
+    {
+      "bookmarkId": "22623815_4_8480-8578",
+      "chapterUid": 4,
+      "range": "8480-8578",
+      "markText": "通货膨胀只有在纸币流通的条件下才会出现，在金银货币流通的条件下不会出现此种现象。这是因为金银货币本身具有价值，作为贮藏手段的职能，可以自发地调节流通中的货币量，使它同商品流通所需要的货币量相适应。",
+      "totalCount": 52,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=8480&rangeEnd=8578",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=8480&rangeEnd=8578"
+    },
+    {
+      "bookmarkId": "22623815_4_1113-1137",
+      "chapterUid": 4,
+      "range": "1113-1137",
+      "markText": "理性人——系统而有目的地尽最大努力实现其目标的人",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=1113&rangeEnd=1137",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=1113&rangeEnd=1137"
+    },
+    {
+      "bookmarkId": "22623815_4_6915-6975",
+      "chapterUid": 4,
+      "range": "6915-6975",
+      "markText": "外部性又称外部效应或外在性，指一个人的行为对旁观者福利的影响。或者可以理解为市场交易对交易双方之外的第三者所造成的影响。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=6915&rangeEnd=6975",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=6915&rangeEnd=6975"
+    },
+    {
+      "bookmarkId": "22623815_4_11047-11141",
+      "chapterUid": 4,
+      "range": "11047-11141",
+      "markText": "安全带降低了司机伤亡的概率，从而减少了司机的车祸代价；换言之，安全带减少了缓慢而谨慎地开车的利益。在这种激励下，人们对安全带的反应是更快地开车，结果司机死亡人数变少，而行人死亡人数增加了。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=11047&rangeEnd=11141",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=11047&rangeEnd=11141"
+    },
+    {
+      "bookmarkId": "22623815_4_11170-11235",
+      "chapterUid": 4,
+      "range": "11170-11235",
+      "markText": "因此，在分析任何一政策时，政策制订者不仅应该考虑直接影响，而且还应该考虑因为激励而发生的间接影响，从而使制定的政策取得良好的效果。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=11170&rangeEnd=11235",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=11170&rangeEnd=11235"
+    },
+    {
+      "bookmarkId": "22623815_5_830-880",
+      "chapterUid": 5,
+      "range": "830-880",
+      "markText": "循环流量图是对经济组织方式的简要表述，表明了物品与服务、生产要素以及货币支付在家庭和企业之间的流动。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=5&rangeStart=830&rangeEnd=880",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=5&rangeStart=830&rangeEnd=880"
+    },
+    {
+      "bookmarkId": "22623815_4_3991-4023",
+      "chapterUid": 4,
+      "range": "3991-4023",
+      "markText": "因此，社会生产某种产品的真正成本就是它不能生产另一些产品的代价。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=4&rangeStart=3991&rangeEnd=4023",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=4&rangeStart=3991&rangeEnd=4023"
+    },
+    {
+      "bookmarkId": "22623815_5_1702-1802",
+      "chapterUid": 5,
+      "range": "1702-1802",
+      "markText": "微观经济学是研究家庭和企业如何做出决策，以及它们如何在市场上相互交易的学科。 宏观经济学是研究整体经济现象，包括通货膨胀、失业和经济增长的学科。",
+      "totalCount": 42,
+      "appLink": "weread://bestbookmark?bookId=22623815&chapterUid=5&rangeStart=1702&rangeEnd=1802",
+      "webLink": "https://weread.qq.com/web/reader/04732b6071593647047e657?chapterUid=5&rangeStart=1702&rangeEnd=1802"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 25,
+    "chapterOffset": 383,
+    "progress": 0,
+    "updateTime": 1763985727,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

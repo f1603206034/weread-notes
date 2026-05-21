@@ -1,0 +1,512 @@
+{
+  "meta": {
+    "bookId": "25178841",
+    "title": "自愈力的真相",
+    "author": "乔·马钱特",
+    "translator": "胡大一",
+    "cover": "https://cdn.weread.qq.com/weread/cover/66/YueWen_25178841/t6_YueWen_25178841.jpg",
+    "intro": "备受赞誉的科学记者乔·马钱特走访了哈佛大学、牛津大学、剑桥大学、多伦多大学近30所世界名校，采访了包括诺贝尔奖得主在内20多个领域的世界专家，搜寻了医学领域世界各地的前沿研究，以科学数据和事实为依据，揭示了人的大脑对身体健康的影响，阐述了当下被广泛应用的10大自愈手段的理论依据，以及如何将这些前沿发现融入日常生活和临床实践中，在对传统医疗提出了质疑的同时，也给出了新医疗思维的丰富实证。对于医生来说，《自愈力的真相》指出了在对待病人的时候，既要理性看待科学证据和客观检查结果，也要重视个体情感和心理对身体造成的影响。同时对于普通患者来说，这也是一本生动的医学科普图书，尤其是深受慢性病、重疾、身体损伤、疼痛等困扰的人，可以学习科学方法，充分调动自己内在的治愈力，获得健康丰富的人生！",
+    "category": "医学健康-医学",
+    "publisher": "浙江人民出版社",
+    "publishTime": "2019-04-01 00:00:00",
+    "isbn": "9787213091889",
+    "wordCount": 0,
+    "newRating": 775,
+    "newRatingCount": 668,
+    "newRatingDetail": {
+      "good": 494,
+      "fair": 134,
+      "poor": 40,
+      "recent": 5,
+      "deepV": 90,
+      "myRating": "",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=25178841",
+    "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60",
+    "lastSync": "2026-05-21T11:57:18Z",
+    "readingProgress": "11%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 138,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "译者序 探索大脑自愈力的真相",
+      "level": 1,
+      "wordCount": 1859,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "前言 挣脱伪科学的帽子，揭开大脑自愈力的秘密",
+      "level": 1,
+      "wordCount": 5310,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "测一测你对自愈力的了解有多少？",
+      "level": 1,
+      "wordCount": 504,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "01 安慰剂效应能减少身体承受的治疗风险",
+      "level": 1,
+      "wordCount": 14625,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "02 远离负面思维能防止患者“越想越病”",
+      "level": 1,
+      "wordCount": 15127,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "03 用好条件反射能提高免疫系统的治愈能力",
+      "level": 1,
+      "wordCount": 11766,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "04 大脑预防疲劳比患者本身更有先见之明",
+      "level": 1,
+      "wordCount": 11392,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "05 催眠疗法能缓解肠易激综合征",
+      "level": 1,
+      "wordCount": 13822,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "06 虚拟现实能帮助身体摆脱疼痛和药物依赖",
+      "level": 1,
+      "wordCount": 10923,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "07 情绪干预有时比医学技术更有效",
+      "level": 1,
+      "wordCount": 14041,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "08 压力转移能防止免疫系统和自我修复能力受损",
+      "level": 1,
+      "wordCount": 14671,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "09 正念冥想可通过缓解压力增进身心健康",
+      "level": 1,
+      "wordCount": 13485,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "10 良好的人际关系有助于修复自身基因缺陷",
+      "level": 1,
+      "wordCount": 15816,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "11 电刺激在疾病防治方面有巨大的潜力",
+      "level": 1,
+      "wordCount": 15791,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "结语 开发身体自愈力量，迎接医疗新纪元",
+      "level": 1,
+      "wordCount": 5797,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 2752,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "译者后记",
+      "level": 1,
+      "wordCount": 1865,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "感谢",
+      "level": 1,
+      "wordCount": 588,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25178841&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=20"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 9,
+      "chapterTitle": "04 大脑预防疲劳比患者本身更有先见之明",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25178841_9_5650-5757",
+          "range": "5650-5757",
+          "rangeStart": 5650,
+          "rangeEnd": 5757,
+          "markText": "人体不是直接对肌肉疲劳做出反应，而是大脑在达到极限前做出反应：让人感觉疲劳，在发生损伤征象前停止运动。换句话说，疲劳不是生理事件，而是一种感觉，通过大脑来阻止灾难性伤害的发生。他们称之为“执行中枢控制的大脑系统”。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1721783006,
+          "createTimeFormatted": "2024-07-24 09:03:26",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=9&rangeStart=5650&rangeEnd=5757",
+          "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=9&rangeStart=5650&rangeEnd=5757"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "25178841_3_2030-2053",
+      "chapterUid": 3,
+      "range": "2030-2053",
+      "markText": "医者，看的是病，开的是药，救的是心，给的是情。",
+      "totalCount": 612,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=3&rangeStart=2030&rangeEnd=2053",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=3&rangeStart=2030&rangeEnd=2053"
+    },
+    {
+      "bookmarkId": "25178841_3_2536-2572",
+      "chapterUid": 3,
+      "range": "2536-2572",
+      "markText": "非传染性疾病的根源是不健康的生活方式，医生只能治标，治本还要靠患者自己。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=3&rangeStart=2536&rangeEnd=2572",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=3&rangeStart=2536&rangeEnd=2572"
+    },
+    {
+      "bookmarkId": "25178841_4_4517-4583",
+      "chapterUid": 4,
+      "range": "4517-4583",
+      "markText": "疾病已不再由患者的主观体验决定，而是由其身体的健康状况所定义。因此，如果患者感觉不舒服但医生却看不出问题，医生将会按身体无恙来处理。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=4&rangeStart=4517&rangeEnd=4583",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=4&rangeStart=4517&rangeEnd=4583"
+    },
+    {
+      "bookmarkId": "25178841_3_1809-1858",
+      "chapterUid": 3,
+      "range": "1809-1858",
+      "markText": "类似的案例不胜枚举，在每天就诊的患者中，有1/3的病因不在心脏，而是精神或心理问题导致的胸背部不适",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=3&rangeStart=1809&rangeEnd=1858",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=3&rangeStart=1809&rangeEnd=1858"
+    },
+    {
+      "bookmarkId": "25178841_3_736-770",
+      "chapterUid": 3,
+      "range": "736-770",
+      "markText": "人类机体的自愈能力，如免疫功能、自我修复功能、再生功能和代偿功能等。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=3&rangeStart=736&rangeEnd=770",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=3&rangeStart=736&rangeEnd=770"
+    },
+    {
+      "bookmarkId": "25178841_7_5640-5671",
+      "chapterUid": 7,
+      "range": "5640-5671",
+      "markText": "患者以不同的方式去理解它们，他们的症状就会产生相应不同的变化。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=7&rangeStart=5640&rangeEnd=5671",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=7&rangeStart=5640&rangeEnd=5671"
+    },
+    {
+      "bookmarkId": "25178841_9_6133-6204",
+      "chapterUid": 9,
+      "range": "6133-6204",
+      "markText": "热天行动迟缓，不是源于肌肉力竭，而是中枢控制系统限制体力活动以免身体过热；生病时，免疫系统的信号诱发疲乏，促使我们休息，节省能量用来抵抗感染。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=9&rangeStart=6133&rangeEnd=6204",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=9&rangeStart=6133&rangeEnd=6204"
+    },
+    {
+      "bookmarkId": "25178841_4_3911-3969",
+      "chapterUid": 4,
+      "range": "3911-3969",
+      "markText": "古希腊名医希波克拉底以见证者的身份大谈特谈“人体固有的自愈力”，而2世纪的医生盖仑则认为“自信和信念远比药物有效”。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=4&rangeStart=3911&rangeEnd=3969",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=4&rangeStart=3911&rangeEnd=3969"
+    },
+    {
+      "bookmarkId": "25178841_6_6404-6433",
+      "chapterUid": 6,
+      "range": "6404-6433",
+      "markText": "似乎他们相信已经得到了一种有效的治疗，从而使症状得以缓解。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=6&rangeStart=6404&rangeEnd=6433",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=6&rangeStart=6404&rangeEnd=6433"
+    },
+    {
+      "bookmarkId": "25178841_4_4701-4721",
+      "chapterUid": 4,
+      "range": "4701-4721",
+      "markText": "不可靠的人类体验被确切的指标数据所取代。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=4&rangeStart=4701&rangeEnd=4721",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=4&rangeStart=4701&rangeEnd=4721"
+    },
+    {
+      "bookmarkId": "25178841_6_4889-4943",
+      "chapterUid": 6,
+      "range": "4889-4943",
+      "markText": "椎体成形术治愈了邦妮的脊柱骨折，但是当初参加手术试验时，邦妮自己并不知道，她做的不是椎体成形术，而是假手术。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=6&rangeStart=4889&rangeEnd=4943",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=6&rangeStart=4889&rangeEnd=4943"
+    },
+    {
+      "bookmarkId": "25178841_7_16123-16162",
+      "chapterUid": 7,
+      "range": "16123-16162",
+      "markText": "换句话说，不要随意地就把药丸扔到喉咙里。相反，你应该在服用药物时创造一种仪式。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=7&rangeStart=16123&rangeEnd=16162",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=7&rangeStart=16123&rangeEnd=16162"
+    },
+    {
+      "bookmarkId": "25178841_3_1154-1207",
+      "chapterUid": 3,
+      "range": "1154-1207",
+      "markText": "医学既需整合，也要个体化；我们既要理性看待科学证据和客观检查结果，也要重视个体情感和心理对躯体造成的影响。",
+      "totalCount": 104,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=3&rangeStart=1154&rangeEnd=1207",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=3&rangeStart=1154&rangeEnd=1207"
+    },
+    {
+      "bookmarkId": "25178841_4_799-867",
+      "chapterUid": 4,
+      "range": "799-867",
+      "markText": "顺势疗法实际上是用昂贵瓶子装上水制剂（或糖片）。在治疗中，活性物质通过用水反复稀释和强烈摇动得到的最终药剂，连原始物质的一个分子都没有。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=4&rangeStart=799&rangeEnd=867",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=4&rangeStart=799&rangeEnd=867"
+    },
+    {
+      "bookmarkId": "25178841_4_3471-3536",
+      "chapterUid": 4,
+      "range": "3471-3536",
+      "markText": "你所体验的正是你的大脑是如何显著地影响你的躯体。精神状况信息源源不断地输出以帮助躯体适应周遭环境，即使我们的下意识可能没有觉察到。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=4&rangeStart=3471&rangeEnd=3536",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=4&rangeStart=3471&rangeEnd=3536"
+    },
+    {
+      "bookmarkId": "25178841_6_3193-3239",
+      "chapterUid": 6,
+      "range": "3193-3239",
+      "markText": "整个关于促胰液素能治疗自闭症的想法都是一种错觉，这是家长因为迫切希望看到孩子进步而想象出来的",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=6&rangeStart=3193&rangeEnd=3239",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=6&rangeStart=3193&rangeEnd=3239"
+    },
+    {
+      "bookmarkId": "25178841_6_5946-5977",
+      "chapterUid": 6,
+      "range": "5946-5977",
+      "markText": "尽管椎体成形术好处多多，但是与假手术组相比，结果并无显著差异。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=6&rangeStart=5946&rangeEnd=5977",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=6&rangeStart=5946&rangeEnd=5977"
+    },
+    {
+      "bookmarkId": "25178841_6_15553-15600",
+      "chapterUid": 6,
+      "range": "15553-15600",
+      "markText": "大脑产生的不同成分像一个天然药房一样，各种成分在里面发生“熔炉”反应，继而导致安慰剂效应出现。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=6&rangeStart=15553&rangeEnd=15600",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=6&rangeStart=15553&rangeEnd=15600"
+    },
+    {
+      "bookmarkId": "25178841_7_5791-5827",
+      "chapterUid": 7,
+      "range": "5791-5827",
+      "markText": "真正发挥作用的其实是附着于各种治疗方法上的象征性意义，而非治疗手段本身。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=7&rangeStart=5791&rangeEnd=5827",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=7&rangeStart=5791&rangeEnd=5827"
+    },
+    {
+      "bookmarkId": "25178841_4_1665-1690",
+      "chapterUid": 4,
+      "range": "1665-1690",
+      "markText": "聪明且受过教育的女性往往拒绝为自家孩子接种关键疫苗",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=25178841&chapterUid=4&rangeStart=1665&rangeEnd=1690",
+      "webLink": "https://weread.qq.com/web/reader/f7a32b70718032d9f7a4c60?chapterUid=4&rangeStart=1665&rangeEnd=1690"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 6,
+    "chapterOffset": 12680,
+    "progress": 11,
+    "updateTime": 1721814173,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

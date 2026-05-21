@@ -1,0 +1,773 @@
+{
+  "meta": {
+    "bookId": "635800",
+    "title": "人类简史：从动物到上帝",
+    "author": "尤瓦尔·赫拉利",
+    "translator": "林俊宏",
+    "cover": "https://cdn.weread.qq.com/weread/cover/36/YueWen_635800/t6_YueWen_635800.jpg",
+    "intro": "引发23个国家版权大战，一部轰动全球的著作！奥巴马、比尔盖茨、扎克伯格等人力荐！由本书改编成的人类简史课程，成为全球诸多知名大学最受欢迎的课程！十万年前，地球上至少有六种不同的人但今日，世界舞台为什么只剩下了我们自己？从只能啃食虎狼吃剩的残骨的猿人，到跃居食物链顶端的智人，从雪维洞穴壁上的原始人手印，到阿姆斯壮踩上月球的脚印，从认知革命、农业革命，到科学革命、生物科技革命，我们如何登上世界舞台成为万物之灵的？从公元前1776年的《汉摩拉比法典》，到1776年的美国独立宣言，从帝国主义、资本主义，到自由主义、消费主义，从兽欲，到物欲，从兽性、人性，到神性，我们了解自己吗？我们过得更快乐吗？我们究竟希望自己得到什么、变成什么？希伯来大学历史系教授，青年怪才尤瓦尔赫拉利，从十万年前有生命迹象，写到21世纪资本、科技交织的人类发展史。不到五百页，就能让你厘清人类历史重大脉络，这是仅有的一部！",
+    "category": "历史-世界史",
+    "publisher": "中信出版集团",
+    "publishTime": "2014-11-26 00:00:00",
+    "isbn": "9787508647357",
+    "wordCount": 0,
+    "newRating": 890,
+    "newRatingCount": 29606,
+    "newRatingDetail": {
+      "good": 26508,
+      "fair": 2925,
+      "poor": 173,
+      "recent": 122,
+      "deepV": 1672,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=635800",
+    "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683",
+    "lastSync": "2026-05-21T12:00:28Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "2023-06-15",
+    "noteCount": 0,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "6294060acf0512241a9090e30d64cfd30793d9fdff678fac43bc63443a3d8085"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=635800&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=1"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 152,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=635800&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 3,
+      "title": "推荐序",
+      "level": 1,
+      "wordCount": 2971,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=635800&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 4,
+      "title": "第一部分 认知革命",
+      "level": 1,
+      "wordCount": 100,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=635800&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 5,
+      "title": "第一章 人类：一种也没什么特别的动物",
+      "level": 2,
+      "wordCount": 11384,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 人类：一种也没什么特别的动物",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 6,
+      "title": "第二章 知善恶树",
+      "level": 2,
+      "wordCount": 12898,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二章 知善恶树",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 7,
+      "title": "第三章 亚当和夏娃的一天",
+      "level": 2,
+      "wordCount": 14967,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第三章 亚当和夏娃的一天",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 8,
+      "title": "第四章 毁天灭地的人类洪水",
+      "level": 2,
+      "wordCount": 8065,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第四章 毁天灭地的人类洪水",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 9,
+      "title": "第二部分 农业革命",
+      "level": 1,
+      "wordCount": 44,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=635800&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 10,
+      "title": "第五章 史上最大骗局",
+      "level": 2,
+      "wordCount": 12861,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第五章 史上最大骗局",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 11,
+      "title": "第六章 盖起金字塔",
+      "level": 2,
+      "wordCount": 13787,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第六章 盖起金字塔",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 12,
+      "title": "第七章 记忆过载",
+      "level": 2,
+      "wordCount": 8204,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第七章 记忆过载",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 13,
+      "title": "第八章 历史从无正义",
+      "level": 2,
+      "wordCount": 17073,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第八章 历史从无正义",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 14,
+      "title": "第三部分 人类的融合统一",
+      "level": 1,
+      "wordCount": 49,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=635800&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 15,
+      "title": "第九章 历史的方向",
+      "level": 2,
+      "wordCount": 6288,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第九章 历史的方向",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 16,
+      "title": "第十章 金钱的味道",
+      "level": 2,
+      "wordCount": 9758,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十章 金钱的味道",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 17,
+      "title": "第十一章 帝国的愿景",
+      "level": 2,
+      "wordCount": 12696,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十一章 帝国的愿景",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 18,
+      "title": "第十二章 宗教的法则",
+      "level": 2,
+      "wordCount": 16772,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十二章 宗教的法则",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 19,
+      "title": "第十三章 成功的秘密",
+      "level": 2,
+      "wordCount": 5181,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十三章 成功的秘密",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 20,
+      "title": "第四部分 科学革命",
+      "level": 1,
+      "wordCount": 144,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=635800&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 21,
+      "title": "第十四章 发现自己的无知",
+      "level": 2,
+      "wordCount": 18552,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十四章 发现自己的无知",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 22,
+      "title": "第十五章 科学与帝国的联姻",
+      "level": 2,
+      "wordCount": 20457,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十五章 科学与帝国的联姻",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 23,
+      "title": "第十六章 资本主义教条",
+      "level": 2,
+      "wordCount": 19884,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十六章 资本主义教条",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 24,
+      "title": "第十七章 工业的巨轮",
+      "level": 2,
+      "wordCount": 9761,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十七章 工业的巨轮",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 25,
+      "title": "第十八章 一场永远的革命",
+      "level": 2,
+      "wordCount": 16744,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十八章 一场永远的革命",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 26,
+      "title": "第十九章 从此过着幸福快乐的日子",
+      "level": 2,
+      "wordCount": 14633,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十九章 从此过着幸福快乐的日子",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 27,
+      "title": "第二十章 智人末日",
+      "level": 2,
+      "wordCount": 12358,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二十章 智人末日",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=635800&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 28,
+      "title": "后记 变成神的这种动物",
+      "level": 1,
+      "wordCount": 677,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=635800&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 29,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 247,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=635800&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 30,
+      "title": "历史年表",
+      "level": 1,
+      "wordCount": 739,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=635800&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 31,
+      "title": "参考数据",
+      "level": 1,
+      "wordCount": 1799,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=635800&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=61"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 36,
+      "chapterTitle": "第二章 知善恶树",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7HWmRnTpI",
+          "range": "6729-6753",
+          "chapterName": "",
+          "content": "邓巴数定律也叫150定律（Rule Of 150），即著名的“邓巴数字”（Dunbar's number），由英国牛津大学的人类学家罗宾·邓巴（Robin Dunbar）在20世纪90年代提出。该定律根据猿猴的智力与社交网络推断出：人类智力将允许人类拥有稳定社交网络的人数是148人，四舍五入大约是150人。",
+          "abstract": "借由八卦来维持的最大“自然”团体大约是150人。",
+          "star": -1,
+          "createTime": 1683125524,
+          "createTimeFormatted": "2023-05-03 22:52:04",
+          "isFinish": false,
+          "chapterUid": 36
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "635800_36_8181-8232",
+      "chapterUid": 36,
+      "range": "8181-8232",
+      "markText": "除了存在于人类共同的想象之外，这个宇宙中根本没有神、没有国家、没有钱、没有人权、没有法律，也没有正义。",
+      "totalCount": 16912,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=36&rangeStart=8181&rangeEnd=8232",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=36&rangeStart=8181&rangeEnd=8232"
+    },
+    {
+      "bookmarkId": "635800_41_18788-18863",
+      "chapterUid": 41,
+      "range": "18788-18863",
+      "markText": "身为人类，我们不可能脱离想象所建构出的秩序。每一次我们以为自己打破了监狱的高墙、迈向自由的前方，其实只是到了另一间更大的监狱，把活动范围稍稍加以扩大。",
+      "totalCount": 16346,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=41&rangeStart=18788&rangeEnd=18863",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=41&rangeStart=18788&rangeEnd=18863"
+    },
+    {
+      "bookmarkId": "635800_40_2705-2729",
+      "chapterUid": 40,
+      "range": "2705-2729",
+      "markText": "人类以为自己驯化了植物，但其实是植物驯化了智人。",
+      "totalCount": 13670,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=40&rangeStart=2705&rangeEnd=2729",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=40&rangeStart=2705&rangeEnd=2729"
+    },
+    {
+      "bookmarkId": "635800_36_7732-7779",
+      "chapterUid": 36,
+      "range": "7732-7779",
+      "markText": "这里的秘密很可能就在于虚构的故事。就算是大批互不相识的人，只要同样相信某个故事，就能共同合作。",
+      "totalCount": 11655,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=36&rangeStart=7732&rangeEnd=7779",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=36&rangeStart=7732&rangeEnd=7779"
+    },
+    {
+      "bookmarkId": "635800_40_5750-5779",
+      "chapterUid": 40,
+      "range": "5750-5779",
+      "markText": "这正是农业革命真正的本质：让更多的人却以更糟的状况活下去。",
+      "totalCount": 10931,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=40&rangeStart=5750&rangeEnd=5779",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=40&rangeStart=5750&rangeEnd=5779"
+    },
+    {
+      "bookmarkId": "635800_36_16885-16953",
+      "chapterUid": 36,
+      "range": "16885-16953",
+      "markText": "人类和黑猩猩之间真正不同的地方就在于那些虚构的故事，它像胶水一样把千千万万的个人、家庭和群体结合在一起。这种胶水，让我们成了万物的主宰。",
+      "totalCount": 10659,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=36&rangeStart=16885&rangeEnd=16953",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=36&rangeStart=16885&rangeEnd=16953"
+    },
+    {
+      "bookmarkId": "635800_35_2482-2531",
+      "chapterUid": 35,
+      "range": "2482-2531",
+      "markText": "不过就在6万年前，有一头母猿产下两个女儿，一头成了所有黑猩猩的祖先，另一头则成了所有人类的祖奶奶。",
+      "totalCount": 8333,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=35&rangeStart=2482&rangeEnd=2531",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=35&rangeStart=2482&rangeEnd=2531"
+    },
+    {
+      "bookmarkId": "635800_35_14469-14490",
+      "chapterUid": 35,
+      "range": "14469-14490",
+      "markText": "智人之所以能征服世界，是因为有独特的语言。",
+      "totalCount": 7716,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=35&rangeStart=14469&rangeEnd=14490",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=35&rangeStart=14469&rangeEnd=14490"
+    },
+    {
+      "bookmarkId": "635800_35_8092-8141",
+      "chapterUid": 35,
+      "range": "8092-8141",
+      "markText": "人类历史上众多的灾难，不论是生灵涂炭的战乱还是生态遭逢的浩劫，其实都是源自这场过于仓促的地位跳跃。",
+      "totalCount": 7689,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=35&rangeStart=8092&rangeEnd=8141",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=35&rangeStart=8092&rangeEnd=8141"
+    },
+    {
+      "bookmarkId": "635800_36_4130-4172",
+      "chapterUid": 36,
+      "range": "4130-4172",
+      "markText": "据我们所知，只有智人能够表达关于从来没有看过、碰过、耳闻过的事物，而且讲得煞有其事。",
+      "totalCount": 7170,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=36&rangeStart=4130&rangeEnd=4172",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=36&rangeStart=4130&rangeEnd=4172"
+    },
+    {
+      "bookmarkId": "635800_40_18068-18108",
+      "chapterUid": 40,
+      "range": "18068-18108",
+      "markText": "我们从农业革命能学到的最重要一课，很可能就是物种演化上的成功并不代表个体的幸福。",
+      "totalCount": 7068,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=40&rangeStart=18068&rangeEnd=18108",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=40&rangeStart=18068&rangeEnd=18108"
+    },
+    {
+      "bookmarkId": "635800_36_4283-4305",
+      "chapterUid": 36,
+      "range": "4283-4305",
+      "markText": "“讨论虚构的事物”正是智人语言最独特的功能。",
+      "totalCount": 7020,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=36&rangeStart=4283&rangeEnd=4305",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=36&rangeStart=4283&rangeEnd=4305"
+    },
+    {
+      "bookmarkId": "635800_43_3009-3073",
+      "chapterUid": 43,
+      "range": "3009-3073",
+      "markText": "但事实已经证明，大多数有钱人之所以有钱，只是因为他出生在有钱的家庭，而大多数穷人一辈子没钱，也就只是因为他出生在贫穷的家庭而已。",
+      "totalCount": 6795,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=43&rangeStart=3009&rangeEnd=3073",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=43&rangeStart=3009&rangeEnd=3073"
+    },
+    {
+      "bookmarkId": "635800_40_9154-9186",
+      "chapterUid": 40,
+      "range": "9154-9186",
+      "markText": "工作努力辛苦一些，生活也就能过得好一点。不过，这只是理想的状况。",
+      "totalCount": 6354,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=40&rangeStart=9154&rangeEnd=9186",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=40&rangeStart=9154&rangeEnd=9186"
+    },
+    {
+      "bookmarkId": "635800_41_16148-16188",
+      "chapterUid": 41,
+      "range": "16148-16188",
+      "markText": "现代人之所以要花费大把银子到国外度假，正是因为他们真正相信了浪漫的消费主义神话。",
+      "totalCount": 5950,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=41&rangeStart=16148&rangeEnd=16188",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=41&rangeStart=16148&rangeEnd=16188"
+    },
+    {
+      "bookmarkId": "635800_58_1252-1295",
+      "chapterUid": 58,
+      "range": "1252-1295",
+      "markText": "拥有神的能力，但是不负责任、贪得无厌，而且连想要什么都不知道。天下危险，恐怕莫此为甚。",
+      "totalCount": 5733,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=58&rangeStart=1252&rangeEnd=1295",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=58&rangeStart=1252&rangeEnd=1295"
+    },
+    {
+      "bookmarkId": "635800_40_10440-10492",
+      "chapterUid": 40,
+      "range": "10440-10492",
+      "markText": "我们以为自己省下了时间；然而，我们其实是把生活的步调加速成过去的十倍快，于是我们整天忙忙碌碌、焦躁不安。",
+      "totalCount": 5395,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=40&rangeStart=10440&rangeEnd=10492",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=40&rangeStart=10440&rangeEnd=10492"
+    },
+    {
+      "bookmarkId": "635800_40_18203-18239",
+      "chapterUid": 40,
+      "range": "18203-18239",
+      "markText": "每当人类整体的能力大幅增加、看来似乎大获成功，个人的苦痛也总是随之增长。",
+      "totalCount": 5172,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=40&rangeStart=18203&rangeEnd=18239",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=40&rangeStart=18203&rangeEnd=18239"
+    },
+    {
+      "bookmarkId": "635800_35_5868-5912",
+      "chapterUid": 35,
+      "range": "5868-5912",
+      "markText": "那么，究竟是为什么，才驱使人类的大脑在这200万年间不断这样演化？坦白说，我们也不知道。",
+      "totalCount": 5054,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=35&rangeStart=5868&rangeEnd=5912",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=35&rangeStart=5868&rangeEnd=5912"
+    },
+    {
+      "bookmarkId": "635800_40_9944-10036",
+      "chapterUid": 40,
+      "range": "9944-10036",
+      "markText": "奢侈品史上常有这样的情况，就是原本的奢侈品往往最后会成为必需品，而且带来新的义务。等到习惯某种奢侈品，就开始认为这是天经地义。接着就是一种依赖。最后，生活中就再也不能没有这种奢侈品了。",
+      "totalCount": 5044,
+      "appLink": "weread://bestbookmark?bookId=635800&chapterUid=40&rangeStart=9944&rangeEnd=10036",
+      "webLink": "https://weread.qq.com/web/reader/62232b3059b398622aae683?chapterUid=40&rangeStart=9944&rangeEnd=10036"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 36,
+    "chapterOffset": 2686,
+    "progress": 0,
+    "updateTime": 1757493744,
+    "recordReadingTime": 0,
+    "finishTime": 1686831466
+  }
+}

@@ -1,0 +1,679 @@
+{
+  "meta": {
+    "bookId": "25242032",
+    "title": "投资最重要的事",
+    "author": "霍华德·马克斯",
+    "translator": "李莉,石继志",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/32/25242032/t6_25242032.jpg",
+    "intro": "霍华德·马克斯所写的投资备忘录，备受包括巴菲特在内的全球专业投资者推崇。这本书撷取了投资备忘录中的精华内容，将作者几十年来的投资理念和亲身经历娓娓道来，告诉每位读者如何取得超越市场平均水平的投资业绩——这种超越市场平均水平所必须的与众不同的思维，被称为“第二层次思维”。霍华德从自己投资的逆向思考和逆向投资的经验中，总结提炼出了18件投资最重要的事。他告诫投资者：投资决策应以价值为本，投资最重要的不是买好的，而是买得好；在投资风险的问题上，应深刻理解巨大的风险发生在人人都乐观之时，要永远坚持低风险高收益。但霍华德同时指出，即使逆向投资也不会永远带来收益。极端价格不会天天出现，而投资者必然要在周期中非极端时间买进卖出，因此我们必须识别出不利的时机，采取更加谨慎的行动。此外，这本书除了饱含作者本人的投资智慧外，还融入了其他4位知名投资专家、教育家的评论、看法和不同意见。他们共同就“第二层次思维”、价格与价值的关系、耐心等待机会、防御性投资等概念发表了真知灼见。",
+    "category": "经济理财-理财",
+    "publisher": "中信出版集团",
+    "publishTime": "2019-02-01 00:00:00",
+    "isbn": "9787521700602",
+    "wordCount": 0,
+    "newRating": 834,
+    "newRatingCount": 6319,
+    "newRatingDetail": {
+      "good": 5292,
+      "fair": 898,
+      "poor": 129,
+      "recent": 63,
+      "deepV": 762,
+      "myRating": "",
+      "title": "脍炙人口"
+    },
+    "appLink": "weread://reading?bId=25242032",
+    "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda",
+    "lastSync": "2026-05-21T11:51:23Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 4,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=1"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 130,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=29"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 3,
+      "title": "献词",
+      "level": 1,
+      "wordCount": 29,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=56"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 4,
+      "title": "推荐序1",
+      "level": 1,
+      "wordCount": 3191,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 5,
+      "title": "推荐序2",
+      "level": 1,
+      "wordCount": 1288,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 6,
+      "title": "中文版序言",
+      "level": 1,
+      "wordCount": 556,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 7,
+      "title": "序言",
+      "level": 1,
+      "wordCount": 3888,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=34"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 8,
+      "title": "01 学习第二层次思维",
+      "level": 1,
+      "wordCount": 4116,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=57"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 9,
+      "title": "02 理解市场有效性及局限性",
+      "level": 1,
+      "wordCount": 6511,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 10,
+      "title": "03 准确估计价值",
+      "level": 1,
+      "wordCount": 6277,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 11,
+      "title": "04 价格与价值的关系",
+      "level": 1,
+      "wordCount": 5511,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=38"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 12,
+      "title": "05 理解风险",
+      "level": 1,
+      "wordCount": 10846,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 13,
+      "title": "06 识别风险",
+      "level": 1,
+      "wordCount": 7239,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 14,
+      "title": "07 控制风险",
+      "level": 1,
+      "wordCount": 5442,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=60"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 15,
+      "title": "08 关注周期",
+      "level": 1,
+      "wordCount": 4609,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 16,
+      "title": "09 钟摆意识",
+      "level": 1,
+      "wordCount": 4290,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 17,
+      "title": "10 抵御消极影响",
+      "level": 1,
+      "wordCount": 8728,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 18,
+      "title": "11 逆向投资",
+      "level": 1,
+      "wordCount": 6136,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 19,
+      "title": "12 寻找便宜货",
+      "level": 1,
+      "wordCount": 5145,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 20,
+      "title": "13 耐心等待机会",
+      "level": 1,
+      "wordCount": 6518,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 21,
+      "title": "14 认识预测的局限性",
+      "level": 1,
+      "wordCount": 4701,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=48"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 22,
+      "title": "15 正确认识自身",
+      "level": 1,
+      "wordCount": 5058,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 23,
+      "title": "16 重视运气",
+      "level": 1,
+      "wordCount": 5206,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=62"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 24,
+      "title": "17 多元化投资",
+      "level": 1,
+      "wordCount": 8315,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 25,
+      "title": "18 避免错误",
+      "level": 1,
+      "wordCount": 8694,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=52"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 26,
+      "title": "19 增值的意义",
+      "level": 1,
+      "wordCount": 3873,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=63"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 27,
+      "title": "20 合理预期",
+      "level": 1,
+      "wordCount": 3280,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 28,
+      "title": "21 最重要的事",
+      "level": 1,
+      "wordCount": 4048,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25242032&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=55"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 38,
+      "chapterTitle": "04 价格与价值的关系",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25242032_38_3956-4021",
+          "range": "3956-4021",
+          "rangeStart": 3956,
+          "rangeEnd": 4021,
+          "markText": "投资是一场人气竞赛，在人气最旺的时候买进是最危险的。在那个时候，一切利好因素和观点都已经被计入价格中，而且再也不会有新的买家出现。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745148837,
+          "createTimeFormatted": "2025-04-20 19:33:57",
+          "chapterUid": 38,
+          "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=38&rangeStart=3956&rangeEnd=4021",
+          "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=38&rangeStart=3956&rangeEnd=4021"
+        }
+      ]
+    },
+    {
+      "chapterUid": 57,
+      "chapterTitle": "01 学习第二层次思维",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25242032_35_4863-4891",
+          "range": "4863-4891",
+          "rangeStart": 4863,
+          "rangeEnd": 4891,
+          "markText": "所有投资者都能战胜市场是不可能的，因为他们本身就是市场。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745148831,
+          "createTimeFormatted": "2025-04-20 19:33:51",
+          "chapterUid": 57,
+          "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=57&rangeStart=4863&rangeEnd=4891",
+          "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=57&rangeStart=4863&rangeEnd=4891"
+        }
+      ]
+    },
+    {
+      "chapterUid": 58,
+      "chapterTitle": "05 理解风险",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25242032_39_2573-2638",
+          "range": "2598-2663",
+          "rangeStart": 2598,
+          "rangeEnd": 2663,
+          "markText": "正确的表述是：为了吸引资本，风险更高的投资必须提供更好的收益前景、更高的承诺收益或预期收益，但绝不表示这些更高的预期收益必须实现。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745148824,
+          "createTimeFormatted": "2025-04-20 19:33:44",
+          "chapterUid": 58,
+          "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=58&rangeStart=2598&rangeEnd=2663",
+          "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=58&rangeStart=2598&rangeEnd=2663"
+        }
+      ]
+    },
+    {
+      "chapterUid": 34,
+      "chapterTitle": "序言",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25242032_34_3405-3433",
+          "range": "3405-3433",
+          "rangeStart": 3405,
+          "rangeEnd": 3433,
+          "markText": "我喜欢说：“在你得不到你想要的东西时，你得到的是经验。”",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745148802,
+          "createTimeFormatted": "2025-04-20 19:33:22",
+          "chapterUid": 34,
+          "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=34&rangeStart=3405&rangeEnd=3433",
+          "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=34&rangeStart=3405&rangeEnd=3433"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "25242032_34_3405-3433",
+      "chapterUid": 34,
+      "range": "3405-3433",
+      "markText": "我喜欢说：“在你得不到你想要的东西时，你得到的是经验。”",
+      "totalCount": 4095,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=34&rangeStart=3405&rangeEnd=3433",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=34&rangeStart=3405&rangeEnd=3433"
+    },
+    {
+      "bookmarkId": "25242032_57_4863-4891",
+      "chapterUid": 57,
+      "range": "4863-4891",
+      "markText": "所有投资者都能战胜市场是不可能的，因为他们本身就是市场。",
+      "totalCount": 3417,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=57&rangeStart=4863&rangeEnd=4891",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=57&rangeStart=4863&rangeEnd=4891"
+    },
+    {
+      "bookmarkId": "25242032_57_3126-3218",
+      "chapterUid": 57,
+      "range": "3126-3218",
+      "markText": "第一层次思维说：“这是一家好公司，让我们买进股票吧。”第二层次思维说：“这是一家好公司，但是人人都认为它是一家好公司，因此它不是一家好公司。股票的估价和定价都过高，让我们卖出股票吧。”",
+      "totalCount": 3264,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=57&rangeStart=3126&rangeEnd=3218",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=57&rangeStart=3126&rangeEnd=3218"
+    },
+    {
+      "bookmarkId": "25242032_38_3956-4021",
+      "chapterUid": 38,
+      "range": "3956-4021",
+      "markText": "投资是一场人气竞赛，在人气最旺的时候买进是最危险的。在那个时候，一切利好因素和观点都已经被计入价格中，而且再也不会有新的买家出现。",
+      "totalCount": 2907,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=38&rangeStart=3956&rangeEnd=4021",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=38&rangeStart=3956&rangeEnd=4021"
+    },
+    {
+      "bookmarkId": "25242032_37_8547-8641",
+      "chapterUid": 37,
+      "range": "8547-8641",
+      "markText": "在一个下跌的市场中获利有两个基本要素：你必须了解内在价值；同时你必须足够自信，坚定地持股并不断买进，即使价格已经跌到似乎在暗示你做错了的时候。哦，对了，还有第三个基本要素：你必须是正确的。",
+      "totalCount": 2385,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=37&rangeStart=8547&rangeEnd=8641",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=37&rangeStart=8547&rangeEnd=8641"
+    },
+    {
+      "bookmarkId": "25242032_36_1743-1809",
+      "chapterUid": 36,
+      "range": "1743-1809",
+      "markText": "如果有效市场中的价格已经反映了群体共识，那么分享群体共识也许只能令你赚到平均收益。想要战胜市场，你必须有自己独特的、非共识性的观点。",
+      "totalCount": 2176,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=36&rangeStart=1743&rangeEnd=1809",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=36&rangeStart=1743&rangeEnd=1809"
+    },
+    {
+      "bookmarkId": "25242032_36_3744-3814",
+      "chapterUid": 36,
+      "range": "3744-3814",
+      "markText": "但是，他们忽略了某种在繁荣期容易被忘却的东西：这不可能是对的，因为如果可以指望通过高风险投资来实现高收益的话，那些投资也就算不上是高风险了。",
+      "totalCount": 2142,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=36&rangeStart=3744&rangeEnd=3814",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=36&rangeStart=3744&rangeEnd=3814"
+    },
+    {
+      "bookmarkId": "25242032_38_5571-5612",
+      "chapterUid": 38,
+      "range": "5571-5612",
+      "markText": "某种东西价格上涨时，人们的喜爱程度本应下降，但在投资中，他们的喜爱程度往往会加深。",
+      "totalCount": 2142,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=38&rangeStart=5571&rangeEnd=5612",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=38&rangeStart=5571&rangeEnd=5612"
+    },
+    {
+      "bookmarkId": "25242032_58_2598-2663",
+      "chapterUid": 58,
+      "range": "2598-2663",
+      "markText": "正确的表述是：为了吸引资本，风险更高的投资必须提供更好的收益前景、更高的承诺收益或预期收益，但绝不表示这些更高的预期收益必须实现。",
+      "totalCount": 2025,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=58&rangeStart=2598&rangeEnd=2663",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=58&rangeStart=2598&rangeEnd=2663"
+    },
+    {
+      "bookmarkId": "25242032_38_4408-4469",
+      "chapterUid": 38,
+      "range": "4408-4469",
+      "markText": "最安全、获利潜力最大的投资，是在没人喜欢的时候买进。假以时日，一旦证券受到欢迎，那么它的价格就只可能向一个方向变化：上涨。",
+      "totalCount": 2023,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=38&rangeStart=4408&rangeEnd=4469",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=38&rangeStart=4408&rangeEnd=4469"
+    },
+    {
+      "bookmarkId": "25242032_37_6000-6084",
+      "chapterUid": 37,
+      "range": "6000-6084",
+      "markText": "不仅如此。如果你已经选定价值投资法进行投资，并且已经计算出证券或资产的内在价值，接下来还有一件重要的事：坚定地持有。因为在投资领域里，正确并不等于正确性能够被立即证实。",
+      "totalCount": 1890,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=37&rangeStart=6000&rangeEnd=6084",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=37&rangeStart=6000&rangeEnd=6084"
+    },
+    {
+      "bookmarkId": "25242032_37_8241-8289",
+      "chapterUid": 37,
+      "range": "8241-8289",
+      "markText": "估价正确却不坚定地持有，用处不大。估价错误却坚定地持有，后果更糟。这句话表明恰到好处是多么困难。",
+      "totalCount": 1860,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=37&rangeStart=8241&rangeEnd=8289",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=37&rangeStart=8241&rangeEnd=8289"
+    },
+    {
+      "bookmarkId": "25242032_43_432-516",
+      "chapterUid": 43,
+      "range": "432-516",
+      "markText": "当形势良好、价格高企时，投资者迫不及待地买进，把所有谨慎都抛诸脑后。随后，当周围环境一片混乱、资产廉价待沽时，他们又完全丧失了承担风险的意愿，迫不及待地卖出。永远如此。",
+      "totalCount": 1649,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=43&rangeStart=432&rangeEnd=516",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=43&rangeStart=432&rangeEnd=516"
+    },
+    {
+      "bookmarkId": "25242032_31_3692-3792",
+      "chapterUid": 31,
+      "range": "3692-3792",
+      "markText": "巴菲特建议投资初学者最好的投资学习方法是模仿大师：“我一直认为，对于刚开始起步的投资人来说，应该寻找已经被证明长期成功有效的投资方法，然后依葫芦画瓢照着做就行了。令人吃惊的是，这样做的人实在太少了。”",
+      "totalCount": 1620,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=31&rangeStart=3692&rangeEnd=3792",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=31&rangeStart=3692&rangeEnd=3792"
+    },
+    {
+      "bookmarkId": "25242032_57_5437-5484",
+      "chapterUid": 57,
+      "range": "5437-5484",
+      "markText": "你不可能在和他人做着相同事情的时候期待胜出……突破常规本身不是目的，但它是一种不错的思维方式。",
+      "totalCount": 1568,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=57&rangeStart=5437&rangeEnd=5484",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=57&rangeStart=5437&rangeEnd=5484"
+    },
+    {
+      "bookmarkId": "25242032_31_2636-2654",
+      "chapterUid": 31,
+      "range": "2636-2654",
+      "markText": "在别人恐惧时贪婪，在别人贪婪时恐惧。",
+      "totalCount": 1485,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=31&rangeStart=2636&rangeEnd=2654",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=31&rangeStart=2636&rangeEnd=2654"
+    },
+    {
+      "bookmarkId": "25242032_62_5283-5333",
+      "chapterUid": 62,
+      "range": "5283-5333",
+      "markText": "长期来看，好的决策一定会带来投资收益。然而在短期内，当好的决策无法带来投资收益的时候，我们必须忍耐。",
+      "totalCount": 1485,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=62&rangeStart=5283&rangeEnd=5333",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=62&rangeStart=5283&rangeEnd=5333"
+    },
+    {
+      "bookmarkId": "25242032_38_436-459",
+      "chapterUid": 38,
+      "range": "436-459",
+      "markText": "成功的投资不在于“买好的”，而在于“买得好”。",
+      "totalCount": 1472,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=38&rangeStart=436&rangeEnd=459",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=38&rangeStart=436&rangeEnd=459"
+    },
+    {
+      "bookmarkId": "25242032_59_10348-10428",
+      "chapterUid": 59,
+      "range": "10348-10428",
+      "markText": "在所有人都相信某种东西有风险的时候，他们不愿购买的意愿通常会把价格降低到完全没有风险的地步。广泛的否定意见可以使风险最小化，因为价格里所有的乐观因素都被消除了。",
+      "totalCount": 1440,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=59&rangeStart=10348&rangeEnd=10428",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=59&rangeStart=10348&rangeEnd=10428"
+    },
+    {
+      "bookmarkId": "25242032_37_1168-1232",
+      "chapterUid": 37,
+      "range": "1168-1232",
+      "markText": "投资者有两种基本选择：判断证券的内在价值并在价格偏离内在价值时买进或卖出证券，或者将决策完全建立在对未来价格走势预期的基础之上。",
+      "totalCount": 1411,
+      "appLink": "weread://bestbookmark?bookId=25242032&chapterUid=37&rangeStart=1168&rangeEnd=1232",
+      "webLink": "https://weread.qq.com/web/reader/23b32190718129b023bebda?chapterUid=37&rangeStart=1168&rangeEnd=1232"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

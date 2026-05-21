@@ -1,0 +1,1456 @@
+{
+  "meta": {
+    "bookId": "678243",
+    "title": "电机技术与应用",
+    "author": "邹大为 马宏骞主编",
+    "translator": "",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/243/678243/t6_678243.jpg",
+    "intro": "“电机技术与应用”是高职电气自动化技术专业的一门专业基础课，主要介绍了当今主流电机的结构、工作原理、额定参数、选用及维修等，重在使学生掌握基本理论知识与基本技能，具备电机的综合应用能力。本书详细介绍了电机技术及其应用，内容主要包括变压器，直流电动机，三相异步电动机，三相异步电动机运行分析，定子绕组，三相异步电动机的安装、维护与故障诊断，单相异步电动机和微特电机。\n教材中的图片基本都来自于生产现场，具有较强的实用性和针对性；电机的使用、故障的判定和处理等内容均来自于实践，其中很多内容是作者亲身经历的案例，具有示范性和现场指导意义。",
+    "category": "科学技术-工业技术",
+    "publisher": "电子工业出版社",
+    "publishTime": "2012-03-01 00:00:00",
+    "isbn": "9787121153495",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 9,
+    "newRatingDetail": {
+      "good": 9,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "评分不足"
+    },
+    "appLink": "weread://reading?bId=678243",
+    "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec",
+    "lastSync": "2026-05-21T11:48:02Z",
+    "readingProgress": "61%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 4,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=678243&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 133,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=678243&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 1069,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=678243&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "绪论",
+      "level": 1,
+      "wordCount": 371,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.电机在国民经济中的作用",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "2.本课程的内容、任务、特点及学习方法",
+      "level": 2,
+      "wordCount": 545,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.本课程的内容、任务、特点及学习方法",
+          "anchor": "bw2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第1章 变压器",
+      "level": 1,
+      "wordCount": 727,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=678243&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "1.1 变压器的结构",
+      "level": 2,
+      "wordCount": 1490,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.1 变压器的结构",
+          "anchor": "bw3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "1.2 变压器的工作原理",
+      "level": 2,
+      "wordCount": 942,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.2 变压器的工作原理",
+          "anchor": "bw4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "1.3 变压器的分类",
+      "level": 2,
+      "wordCount": 624,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.3 变压器的分类",
+          "anchor": "bw5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "1.4 变压器的铭牌数据识别",
+      "level": 2,
+      "wordCount": 902,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.4 变压器的铭牌数据识别",
+          "anchor": "bw6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "1.5 变压器的运行分析",
+      "level": 2,
+      "wordCount": 2249,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.5 变压器的运行分析",
+          "anchor": "bw7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "1.6 变压器的运行特性",
+      "level": 2,
+      "wordCount": 1626,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.6 变压器的运行特性",
+          "anchor": "bw12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "1.7 三相变压器",
+      "level": 2,
+      "wordCount": 1841,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.7 三相变压器",
+          "anchor": "bw15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "1.8 特种变压器",
+      "level": 2,
+      "wordCount": 4736,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.8 特种变压器",
+          "anchor": "bw19",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "实训1 变压器的认识",
+      "level": 2,
+      "wordCount": 1849,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "实训1 变压器的认识",
+          "anchor": "bw23",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "思考题与习题",
+      "level": 2,
+      "wordCount": 766,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "思考题与习题",
+          "anchor": "bw24",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第2章 直流电动机",
+      "level": 1,
+      "wordCount": 1016,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=678243&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "2.1 直流电动机的结构",
+      "level": 2,
+      "wordCount": 2511,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1 直流电动机的结构",
+          "anchor": "bw25",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "2.2 直流电动机的工作原理",
+      "level": 2,
+      "wordCount": 1543,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.2 直流电动机的工作原理",
+          "anchor": "bw28",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "2.3 直流电动机的励磁方式",
+      "level": 2,
+      "wordCount": 518,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.3 直流电动机的励磁方式",
+          "anchor": "bw31",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "2.4 直流电动机的铭牌及主要系列",
+      "level": 2,
+      "wordCount": 978,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.4 直流电动机的铭牌及主要系列",
+          "anchor": "bw32",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "2.5 直流电动机的磁场",
+      "level": 2,
+      "wordCount": 1772,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.5 直流电动机的磁场",
+          "anchor": "bw36",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "2.6 直流电动机计算的基本方程",
+      "level": 2,
+      "wordCount": 1301,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.6 直流电动机计算的基本方程",
+          "anchor": "bw39",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "2.7 直流电动机的工作特性",
+      "level": 2,
+      "wordCount": 1299,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.7 直流电动机的工作特性",
+          "anchor": "bw43",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "2.8 直流电动机的控制",
+      "level": 2,
+      "wordCount": 2769,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.8 直流电动机的控制",
+          "anchor": "bw46",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "2.9 直流电动机的常见故障及处理",
+      "level": 2,
+      "wordCount": 2986,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.9 直流电动机的常见故障及处理",
+          "anchor": "bw51",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "实训2 直流电动机的拆装",
+      "level": 2,
+      "wordCount": 1984,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "实训2 直流电动机的拆装",
+          "anchor": "bw54",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "思考题与习题",
+      "level": 2,
+      "wordCount": 443,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "思考题与习题",
+          "anchor": "bw55",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第3章 三相异步电动机",
+      "level": 1,
+      "wordCount": 625,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=678243&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "3.1 三相异步电动机的结构",
+      "level": 2,
+      "wordCount": 2673,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.1 三相异步电动机的结构",
+          "anchor": "bw56",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "3.2 三相异步电动机的工作原理",
+      "level": 2,
+      "wordCount": 2804,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.2 三相异步电动机的工作原理",
+          "anchor": "bw60",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "3.3 三相异步电动机的铭牌数据识别",
+      "level": 2,
+      "wordCount": 5834,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.3 三相异步电动机的铭牌数据识别",
+          "anchor": "bw63",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "3.4 三相异步电动机的分类",
+      "level": 2,
+      "wordCount": 834,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.4 三相异步电动机的分类",
+          "anchor": "bw64",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "3.5 三相异步电动机主要系列的简介",
+      "level": 2,
+      "wordCount": 800,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.5 三相异步电动机主要系列的简介",
+          "anchor": "bw65",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "3.6 三相异步电动机的能效及效率分级",
+      "level": 2,
+      "wordCount": 702,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.6 三相异步电动机的能效及效率分级",
+          "anchor": "bw66",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "实训3 三相异步电动机的拆装",
+      "level": 2,
+      "wordCount": 2392,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "实训3 三相异步电动机的拆装",
+          "anchor": "bw69",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "思考题与习题",
+      "level": 2,
+      "wordCount": 698,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "思考题与习题",
+          "anchor": "bw70",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "第4章 三相异步电动机定子绕组",
+      "level": 1,
+      "wordCount": 687,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=678243&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "4.1 电动机绕组的结构形式",
+      "level": 2,
+      "wordCount": 1076,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.1 电动机绕组的结构形式",
+          "anchor": "bw71",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "4.2 绕组的术语与基本参数",
+      "level": 2,
+      "wordCount": 2481,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.2 绕组的术语与基本参数",
+          "anchor": "bw74",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "4.3 三相单层绕组",
+      "level": 2,
+      "wordCount": 4549,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.3 三相单层绕组",
+          "anchor": "bw75",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "4.4 绕组的故障检查和修理方法",
+      "level": 2,
+      "wordCount": 2923,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.4 绕组的故障检查和修理方法",
+          "anchor": "bw80",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "实训4 三相异步电动机绕组的更换",
+      "level": 2,
+      "wordCount": 4872,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "实训4 三相异步电动机绕组的更换",
+          "anchor": "bw85",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "思考题与习题",
+      "level": 2,
+      "wordCount": 642,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "思考题与习题",
+          "anchor": "bw86",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "第5章 三相异步电动机的运行分析",
+      "level": 1,
+      "wordCount": 1139,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=678243&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "5.1 三相异步电动机的电磁关系",
+      "level": 2,
+      "wordCount": 3948,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1 三相异步电动机的电磁关系",
+          "anchor": "bw87",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "5.2 三相异步电动机的功率和转矩",
+      "level": 2,
+      "wordCount": 1846,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.2 三相异步电动机的功率和转矩",
+          "anchor": "bw90",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "5.3 三相异步电动机的特性",
+      "level": 2,
+      "wordCount": 1774,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.3 三相异步电动机的特性",
+          "anchor": "bw93",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "5.4 三相异步电动机的运行分析",
+      "level": 2,
+      "wordCount": 2190,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.4 三相异步电动机的运行分析",
+          "anchor": "bw96",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "实训5 三相异步电动机的测试",
+      "level": 2,
+      "wordCount": 2072,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "实训5 三相异步电动机的测试",
+          "anchor": "bw99",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "思考题与习题",
+      "level": 2,
+      "wordCount": 721,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "思考题与习题",
+          "anchor": "bw100",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "第6章 三相异步电动机的安装、维护与故障诊断",
+      "level": 1,
+      "wordCount": 602,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=678243&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "6.1 电动机合理运行的条件和内容",
+      "level": 2,
+      "wordCount": 433,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.1 电动机合理运行的条件和内容",
+          "anchor": "bw101",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "6.2 三相异步电动机的安装",
+      "level": 2,
+      "wordCount": 1080,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.2 三相异步电动机的安装",
+          "anchor": "bw102",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "6.3 三相异步电动机的维护",
+      "level": 2,
+      "wordCount": 2927,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.3 三相异步电动机的维护",
+          "anchor": "bw105",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "6.4 三相异步电动机的常见故障及处理",
+      "level": 2,
+      "wordCount": 4771,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.4 三相异步电动机的常见故障及处理",
+          "anchor": "bw108",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "实训6 三相异步电动机的故障排除",
+      "level": 2,
+      "wordCount": 1558,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "实训6 三相异步电动机的故障排除",
+          "anchor": "bw111",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "思考题与习题",
+      "level": 2,
+      "wordCount": 625,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "思考题与习题",
+          "anchor": "bw112",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "第7章 单相异步电动机",
+      "level": 1,
+      "wordCount": 658,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=678243&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "7.1 单相异步电动机的结构",
+      "level": 2,
+      "wordCount": 1066,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.1 单相异步电动机的结构",
+          "anchor": "bw113",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "7.2 单相异步电动机的工作原理",
+      "level": 2,
+      "wordCount": 1213,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.2 单相异步电动机的工作原理",
+          "anchor": "bw116",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "7.3 单相异步电动机的主要类型及启动方法",
+      "level": 2,
+      "wordCount": 4690,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.3 单相异步电动机的主要类型及启动方法",
+          "anchor": "bw119",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "7.4 单相异步电动机的铭牌数据识别",
+      "level": 2,
+      "wordCount": 946,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.4 单相异步电动机的铭牌数据识别",
+          "anchor": "bw123",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "7.5 单相异步电动机的常见故障及处理",
+      "level": 2,
+      "wordCount": 3324,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.5 单相异步电动机的常见故障及处理",
+          "anchor": "bw124",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "实训7 单相异步电动机的控制",
+      "level": 2,
+      "wordCount": 1586,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "实训7 单相异步电动机的控制",
+          "anchor": "bw125",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "思考题与习题",
+      "level": 2,
+      "wordCount": 382,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "思考题与习题",
+          "anchor": "bw126",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "第8章 微特电机",
+      "level": 1,
+      "wordCount": 1007,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=678243&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "8.1 步进电动机",
+      "level": 2,
+      "wordCount": 6193,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.1 步进电动机",
+          "anchor": "bw127",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "8.2 伺服电动机",
+      "level": 2,
+      "wordCount": 3585,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.2 伺服电动机",
+          "anchor": "bw136",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "8.3 直线电动机",
+      "level": 2,
+      "wordCount": 1810,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.3 直线电动机",
+          "anchor": "bw139",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "8.4 测速发电机",
+      "level": 2,
+      "wordCount": 2496,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.4 测速发电机",
+          "anchor": "bw143",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "title": "实训8 步进电动机的控制",
+      "level": 2,
+      "wordCount": 1747,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "实训8 步进电动机的控制",
+          "anchor": "bw148",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "title": "思考题与习题",
+      "level": 2,
+      "wordCount": 456,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "思考题与习题",
+          "anchor": "bw149",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=678243&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 74,
+      "title": "参考文献",
+      "level": 1,
+      "wordCount": 396,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=678243&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=74"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 46,
+      "chapterTitle": "5.1 三相异步电动机的电磁关系",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "678243_46_6205-6642",
+          "range": "6205-6642",
+          "rangeStart": 6205,
+          "rangeEnd": 6642,
+          "markText": "由变压器分析可知，转子磁动势F·2的出现必然会对主磁通Фm产生影响，它企图削弱主磁通Фm的大小，而电网电压U·1正常情况下保持不变，则电动势E·1也基本不变，导致Фm也基本不变，因而产生主磁通Фm的励磁磁动势F·10近似不变。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1761652083,
+          "createTimeFormatted": "2025-10-28 19:48:03",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=678243&chapterUid=46&rangeStart=6205&rangeEnd=6642",
+          "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=46&rangeStart=6205&rangeEnd=6642"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "678243_46_739-755",
+          "range": "739-755",
+          "rangeStart": 739,
+          "rangeEnd": 755,
+          "markText": "（1）转子绕组开路时的情况分析。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1761652035,
+          "createTimeFormatted": "2025-10-28 19:47:15",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=678243&chapterUid=46&rangeStart=739&rangeEnd=755",
+          "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=46&rangeStart=739&rangeEnd=755"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "678243_46_5842-5861",
+          "range": "5842-5861",
+          "rangeStart": 5842,
+          "rangeEnd": 5861,
+          "markText": "（2）转子绕组短路并堵转时的情况分析。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1761652024,
+          "createTimeFormatted": "2025-10-28 19:47:04",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=678243&chapterUid=46&rangeStart=5842&rangeEnd=5861",
+          "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=46&rangeStart=5842&rangeEnd=5861"
+        }
+      ]
+    },
+    {
+      "chapterUid": 11,
+      "chapterTitle": "1.5 变压器的运行分析",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "678243_11_2170-2398",
+          "range": "2170-2398",
+          "rangeStart": 2170,
+          "rangeEnd": 2398,
+          "markText": "在相位上，感应电动势e滞后于主磁通Ф90°；其有效值为E=4.44fNФm",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1761651485,
+          "createTimeFormatted": "2025-10-28 19:38:05",
+          "chapterUid": 11,
+          "appLink": "weread://bestbookmark?bookId=678243&chapterUid=11&rangeStart=2170&rangeEnd=2398",
+          "webLink": "https://weread.qq.com/web/reader/219321405a5963219a68aec?chapterUid=11&rangeStart=2170&rangeEnd=2398"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 46,
+    "chapterOffset": 404,
+    "progress": 61,
+    "updateTime": 1761708273,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

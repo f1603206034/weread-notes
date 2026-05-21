@@ -1,0 +1,3877 @@
+{
+  "meta": {
+    "bookId": "CB_1lc2to2tv2v46uo6sw3edC11",
+    "title": "简史叁部曲",
+    "author": "[以色列]哈拉瑞",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_58UE3mE5W7UK6p26op5zRBEf_parsecover",
+    "intro": "",
+    "category": "",
+    "publisher": "天下文化",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11",
+    "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466",
+    "lastSync": "2026-05-21T11:52:03Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "人類大歷史（简体）",
+      "level": 1,
+      "wordCount": 6,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "封面",
+      "level": 2,
+      "wordCount": 46,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "誌謝",
+      "level": 2,
+      "wordCount": 341,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "人類之大歷史年表",
+      "level": 2,
+      "wordCount": 684,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第一部認知革命",
+      "level": 2,
+      "wordCount": 75,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第01章人類：一種也沒什麼特別的動物",
+      "level": 3,
+      "wordCount": 11349,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "智人現身",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "家族祕史",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "「思考」的代價",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "食髓知味",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "廚師的種族",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "兄弟的守護者",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "基因定序的兩顆震撼彈",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "唯我獨尊",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "趕盡殺絕",
+          "anchor": "toc_9",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第02章知善惡樹",
+      "level": 3,
+      "wordCount": 11,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "語言誕生",
+      "level": 4,
+      "wordCount": 13162,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "語言誕生",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "八卦當道",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "集體想像",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "黑猩猩的社會",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "共同信念",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "寶獅汽車的傳說",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "生活在雙重現實之中",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "繞過基因演化",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "遠距貿易",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "歷史學之始",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "石器時代的祖先究竟做過什麼事？",
+          "anchor": "toc_11",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第03章亞當和夏娃的一天",
+      "level": 3,
+      "wordCount": 15330,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "貪食基因",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "考古會有偏差",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "唯一的家畜",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "最早的漁村",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "到處採集知識",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "最初的富裕社會",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "當時的世界同樣殘酷無情",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "泛靈信仰",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "採集者已有社會政治規範",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "和平天堂、還是戰爭煉獄？",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "沉默的歷史帷幕",
+          "anchor": "toc_11",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第04章毀天滅地的人類洪水",
+      "level": 3,
+      "wordCount": 7988,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "澳洲大屠殺",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "罪名成立",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "滅絕之因",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "侵入美洲",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "罪魁禍首",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "人類大洪水",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "孤單的諾亞方舟",
+          "anchor": "toc_7",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第二部農業革命",
+      "level": 2,
+      "wordCount": 38,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第05章史上最大騙局",
+      "level": 3,
+      "wordCount": 12918,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "植物馴化了智人",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "地球史上最成功的植物",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "農民幸福嗎？",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "兒童死亡率一路飆升",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "奢侈生活的陷阱",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "神聖的介入",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "農革受害者",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "成功不等於幸福",
+          "anchor": "toc_8",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第06章蓋起監獄高牆",
+      "level": 3,
+      "wordCount": 13899,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "劃地自限",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "「未來」成重擔",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "由想像所建構的秩序",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "《漢摩拉比法典》vs.〈美國獨立宣言〉",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "需要真正的堅信者",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "虛虛實實",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "有如監獄的高牆",
+          "anchor": "toc_7",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第07章大腦記憶過載",
+      "level": 3,
+      "wordCount": 8265,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "大腦不是良好的資訊儲存設備",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "歷史上第一個文本",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "如何檢索文本？",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "官僚制度的奇蹟",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "數字的語言",
+          "anchor": "toc_5",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第08章歷史從無正義",
+      "level": 3,
+      "wordCount": 16877,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "階級命定論",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "惡性循環",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "美洲的「潔淨」觀念",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "他和她",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "男男女女",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "天賦自由",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "性與性別",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "當男人究竟有什麼好的？",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "肌肉理論",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "流氓理論",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "父權基因理論",
+          "anchor": "toc_11",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第三部人類的融合統一",
+      "level": 2,
+      "wordCount": 40,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第09章歷史的方向",
+      "level": 3,
+      "wordCount": 6342,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "各式各樣的矛盾",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "用一種間諜衛星的高度",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "天下大勢，分久必合",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "全球視野",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "三種全球秩序",
+          "anchor": "toc_5",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第10章金錢的氣味",
+      "level": 3,
+      "wordCount": 9810,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "這帳要怎麼算？",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "貝殼和香菸",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "金錢是互信系統",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "硬幣誕生",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "黃金福音",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "金錢的價格",
+          "anchor": "toc_6",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第11章帝國的願景",
+      "level": 3,
+      "wordCount": 12604,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "帝國究竟是什麼？",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "邪惡的帝國？",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "帝國統治下的恩怨",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "這是為你們好！",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "使「他們」成為「我們」",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "「他們」依然不是「我們」",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "帝國遺風",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "帝國循環",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "歷史上的好人和壞人",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "全新的全球帝國",
+          "anchor": "toc_10",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第12章宗教的法則",
+      "level": 3,
+      "wordCount": 17688,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "讓羔羊變得沉默",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "多神教很少迫害異教徒",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "聖巴塞洛繆節慘案",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "神是唯一",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "善惡之戰",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "綜攝的宗教",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "自然律",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "苦由「欲」起",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "當崇拜的對象變成了人",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "三種人文主義宗教",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "生命科學帶來衝擊",
+          "anchor": "toc_11",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第13章成敗的祕密",
+      "level": 3,
+      "wordCount": 5331,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "歷史學的特質之一：馬後炮的謬誤",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "革命是無法預測的",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "歷史學的特質之二：盲目的歷史女神克麗歐",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "歷史的偶然",
+          "anchor": "toc_4",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第四部科學革命",
+      "level": 2,
+      "wordCount": 125,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第14章發現自己的無知",
+      "level": 3,
+      "wordCount": 18558,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "共生循環",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "「無知」的革命",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "不知為不知，是知也",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "科學教條",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "使用數學語言",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "走向精確科學",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "知識就是力量",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "只是奇技淫巧？",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "科技扮演現代救世主",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "吉爾伽美什計畫",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "平均壽命大幅增長",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "長生而非不死",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "科研的恩客",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "與意識型態掛勾",
+          "anchor": "toc_14",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第15章科學與帝國的聯姻",
+      "level": 3,
+      "wordCount": 20144,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "科學遠征隊？武力遠征軍？",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "歐洲本是邊陲之地",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "為什麼是歐洲崛起？",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "自認無知的征服者",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "為了新疆域，也為了新知識",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "地圖上的空白",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "征服異域之心從何而來？",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "如同來自外太空的侵略者",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "不識狼子野心",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "罕見的蜘蛛，被遺忘的文字",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "揚己之善，隱己之惡",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "從種族主義，到文化主義",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "沒有錢，萬萬不能",
+          "anchor": "toc_13",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第16章資本主義教條",
+      "level": 3,
+      "wordCount": 19862,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "預支未來，打造現在",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "會變大的餅",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "資本主義者",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "經濟成長至上",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "哥倫布也需要金主",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "荷蘭崛起之路",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "荷蘭東印度公司的霸業",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "密西西比泡沫事件",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "政府──資本家的工會",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "資本和政治緊密相擁",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "崇拜自由市場",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "大西洋奴隸貿易盛行",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "善良人也會做出壞事",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "經濟大餅能無限制變大嗎？",
+          "anchor": "toc_14",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第17章工業的巨輪",
+      "level": 3,
+      "wordCount": 9808,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一切的源頭都是太陽能",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "廚房裡的祕密",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "釋放物質蘊含的力量",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "能源的大海汪洋",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "提煉原料新法",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "輸送帶上的生命",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "瞎拚的年代",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "新宗教：資本暨消費主義",
+          "anchor": "toc_8",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第18章一場永遠的革命",
+      "level": 3,
+      "wordCount": 17134,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "格林威治標準時間",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "摩登的現代",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "傳統家族和地方社群的力量",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "傳統勢力崩潰",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "父母權威衰減",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "想像的社群",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "民族──國家層級的想像社群",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "消費者──市場層級的想像社群",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "現代社會變動不休",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "我們這個年代的和平",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "帝國平和撤退",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "難得的和平盛世",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "和平紅利飆升",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "全球帝國成形",
+          "anchor": "toc_14",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第19章從此過著幸福快樂的日子",
+      "level": 3,
+      "wordCount": 14857,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "人民真正幸福快樂嗎？",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "快樂該如何計算？",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "知足就能常樂",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "看你跟誰比！",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "快樂有天生的「空調系統」",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "歷史何價？",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "生命的意義",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "認識你自己",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "佛法無我",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "人類是否瞭解自己？",
+          "anchor": "toc_10",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第20章智人末日",
+      "level": 3,
+      "wordCount": 12674,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "生物學革命",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "基因工程奇蹟",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "基因工程為惡？為善？",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "讓尼安德塔人再現？",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "半機械人的生命",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "數位生命",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "另一個奇異點",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "科學怪人預言",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "我們究竟希望自己想要什麼？",
+          "anchor": "toc_9",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "後記變成神的這種動物",
+      "level": 2,
+      "wordCount": 685,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "譯後記",
+      "level": 2,
+      "wordCount": 1103,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "圖片來源",
+      "level": 2,
+      "wordCount": 1562,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "參考資料",
+      "level": 2,
+      "wordCount": 30370,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "人類大命運（简体）",
+      "level": 1,
+      "wordCount": 6,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "封面",
+      "level": 2,
+      "wordCount": 2282,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "第1章 人類的三大新議題",
+      "level": 3,
+      "wordCount": 60942,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "生物貧窮線",
+          "anchor": "sigil_toc_id_1",
+          "level": 4
+        },
+        {
+          "title": "看不見的艦隊",
+          "anchor": "sigil_toc_id_2",
+          "level": 4
+        },
+        {
+          "title": "瘟疫不再蔓延",
+          "anchor": "sigil_toc_id_3",
+          "level": 4
+        },
+        {
+          "title": "愛滋不再滋長",
+          "anchor": "sigil_toc_id_4",
+          "level": 4
+        },
+        {
+          "title": "打破弱肉強食的叢林法則",
+          "anchor": "sigil_toc_id_5",
+          "level": 4
+        },
+        {
+          "title": "恐怖主義就是一種表演",
+          "anchor": "sigil_toc_id_6",
+          "level": 4
+        },
+        {
+          "title": "歷史不會容許真空",
+          "anchor": "sigil_toc_id_7",
+          "level": 4
+        },
+        {
+          "title": "新議題之一：當「死亡」將走向末日",
+          "anchor": "sigil_toc_id_8",
+          "level": 4
+        },
+        {
+          "title": "長生不死之夢",
+          "anchor": "sigil_toc_id_9",
+          "level": 4
+        },
+        {
+          "title": "長生不死是好事嗎？",
+          "anchor": "sigil_toc_id_10",
+          "level": 4
+        },
+        {
+          "title": "新議題之二：幸福快樂的權利",
+          "anchor": "sigil_toc_id_11",
+          "level": 4
+        },
+        {
+          "title": "我們最幸福？",
+          "anchor": "sigil_toc_id_12",
+          "level": 4
+        },
+        {
+          "title": "幸福感也有玻璃天花板",
+          "anchor": "sigil_toc_id_13",
+          "level": 4
+        },
+        {
+          "title": "興奮感總是太短暫",
+          "anchor": "sigil_toc_id_14",
+          "level": 4
+        },
+        {
+          "title": "操縱生化反應可獲得快樂嗎？",
+          "anchor": "sigil_toc_id_15",
+          "level": 4
+        },
+        {
+          "title": "長生不死之外，也想追求永恆的愉悅",
+          "anchor": "sigil_toc_id_16",
+          "level": 4
+        },
+        {
+          "title": "打造「神格」的人類",
+          "anchor": "sigil_toc_id_17",
+          "level": 4
+        },
+        {
+          "title": "新議題之三：智人將演化為「神人」",
+          "anchor": "sigil_toc_id_18",
+          "level": 4
+        },
+        {
+          "title": "「神人」不是萬能的神",
+          "anchor": "sigil_toc_id_19",
+          "level": 4
+        },
+        {
+          "title": "可以請哪位踩個煞車嗎？",
+          "anchor": "sigil_toc_id_20",
+          "level": 4
+        },
+        {
+          "title": "煞不住這輛大車！",
+          "anchor": "sigil_toc_id_21",
+          "level": 4
+        },
+        {
+          "title": "最初都是為了治療……",
+          "anchor": "sigil_toc_id_22",
+          "level": 4
+        },
+        {
+          "title": "知識的弔詭",
+          "anchor": "sigil_toc_id_23",
+          "level": 4
+        },
+        {
+          "title": "研究歷史是為了掙脫過去的魔掌",
+          "anchor": "sigil_toc_id_24",
+          "level": 4
+        },
+        {
+          "title": "一段關於草坪的歷史",
+          "anchor": "sigil_toc_id_25",
+          "level": 4
+        },
+        {
+          "title": "草坪成了社經地位的指標",
+          "anchor": "sigil_toc_id_26",
+          "level": 4
+        },
+        {
+          "title": "第一幕出現的一把槍",
+          "anchor": "sigil_toc_id_27",
+          "level": 4
+        },
+        {
+          "title": "人文主義即將崩解",
+          "anchor": "sigil_toc_id_28",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "第一部 智人征服世界",
+      "level": 2,
+      "wordCount": 63,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "第2章 人類世",
+      "level": 3,
+      "wordCount": 32016,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "生態殺手",
+          "anchor": "sigil_toc_id_29",
+          "level": 4
+        },
+        {
+          "title": "蛇的孩子",
+          "anchor": "sigil_toc_id_30",
+          "level": 4
+        },
+        {
+          "title": "畜牧場裡的悲慘世界",
+          "anchor": "sigil_toc_id_31",
+          "level": 4
+        },
+        {
+          "title": "生物也是演算法",
+          "anchor": "sigil_toc_id_32",
+          "level": 4
+        },
+        {
+          "title": "哺乳動物渴求母嬰連結",
+          "anchor": "sigil_toc_id_33",
+          "level": 4
+        },
+        {
+          "title": "人與神的農業交易",
+          "anchor": "sigil_toc_id_34",
+          "level": 4
+        },
+        {
+          "title": "犧牲了動物的利益",
+          "anchor": "sigil_toc_id_35",
+          "level": 4
+        },
+        {
+          "title": "農業革命也成了宗教革命",
+          "anchor": "sigil_toc_id_36",
+          "level": 4
+        },
+        {
+          "title": "科學革命造就了神人",
+          "anchor": "sigil_toc_id_37",
+          "level": 4
+        },
+        {
+          "title": "我們有何獨特之處？",
+          "anchor": "sigil_toc_id_38",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "第3章 人類的獨特之處",
+      "level": 3,
+      "wordCount": 40345,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "誰怕達爾文？",
+          "anchor": "sigil_toc_id_39",
+          "level": 4
+        },
+        {
+          "title": "心靈是什麼？",
+          "anchor": "sigil_toc_id_40",
+          "level": 4
+        },
+        {
+          "title": "為什麼股票交易所沒有意識？",
+          "anchor": "sigil_toc_id_41",
+          "level": 4
+        },
+        {
+          "title": "為何我們要有意識？",
+          "anchor": "sigil_toc_id_42",
+          "level": 4
+        },
+        {
+          "title": "生命方程式",
+          "anchor": "sigil_toc_id_43",
+          "level": 4
+        },
+        {
+          "title": "意識是大腦製造出來的副產品？",
+          "anchor": "sigil_toc_id_44",
+          "level": 4
+        },
+        {
+          "title": "觀察腦波",
+          "anchor": "sigil_toc_id_45",
+          "level": 4
+        },
+        {
+          "title": "圖靈測試",
+          "anchor": "sigil_toc_id_46",
+          "level": 4
+        },
+        {
+          "title": "〈劍橋意識宣言〉",
+          "anchor": "sigil_toc_id_47",
+          "level": 4
+        },
+        {
+          "title": "實驗室大鼠的憂鬱生活",
+          "anchor": "sigil_toc_id_48",
+          "level": 4
+        },
+        {
+          "title": "有自我意識的黑猩猩",
+          "anchor": "sigil_toc_id_49",
+          "level": 4
+        },
+        {
+          "title": "哪一方該負舉證責任？",
+          "anchor": "sigil_toc_id_50",
+          "level": 4
+        },
+        {
+          "title": "聰明的馬",
+          "anchor": "sigil_toc_id_51",
+          "level": 4
+        },
+        {
+          "title": "團結力量大",
+          "anchor": "sigil_toc_id_52",
+          "level": 4
+        },
+        {
+          "title": "革命萬歲！",
+          "anchor": "sigil_toc_id_53",
+          "level": 4
+        },
+        {
+          "title": "民主就是：你依然是民，而我繼續作主",
+          "anchor": "sigil_toc_id_54",
+          "level": 4
+        },
+        {
+          "title": "在暴力與色情之外",
+          "anchor": "sigil_toc_id_55",
+          "level": 4
+        },
+        {
+          "title": "最後通牒賽局",
+          "anchor": "sigil_toc_id_56",
+          "level": 4
+        },
+        {
+          "title": "社會從來不平等",
+          "anchor": "sigil_toc_id_57",
+          "level": 4
+        },
+        {
+          "title": "意義的網",
+          "anchor": "sigil_toc_id_58",
+          "level": 4
+        },
+        {
+          "title": "把人民像蒼蠅捕進網中",
+          "anchor": "sigil_toc_id_59",
+          "level": 4
+        },
+        {
+          "title": "事過境遷，意義不再",
+          "anchor": "sigil_toc_id_60",
+          "level": 4
+        },
+        {
+          "title": "大同世界",
+          "anchor": "sigil_toc_id_61",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "第二部 智人為世界賦予意義",
+      "level": 2,
+      "wordCount": 87,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "第4章 說書人",
+      "level": 3,
+      "wordCount": 16013,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "蘇美神祇相當於現代公司",
+          "anchor": "sigil_toc_id_62",
+          "level": 4
+        },
+        {
+          "title": "鱷魚也能成為神明",
+          "anchor": "sigil_toc_id_63",
+          "level": 4
+        },
+        {
+          "title": "信仰產生力量",
+          "anchor": "sigil_toc_id_64",
+          "level": 4
+        },
+        {
+          "title": "紙上討生活",
+          "anchor": "sigil_toc_id_65",
+          "level": 4
+        },
+        {
+          "title": "非洲的國界是這麼來的",
+          "anchor": "sigil_toc_id_66",
+          "level": 4
+        },
+        {
+          "title": "現實向文字低頭",
+          "anchor": "sigil_toc_id_67",
+          "level": 4
+        },
+        {
+          "title": "一神教以自我為中心",
+          "anchor": "sigil_toc_id_68",
+          "level": 4
+        },
+        {
+          "title": "但這就是有用啊！",
+          "anchor": "sigil_toc_id_69",
+          "level": 4
+        },
+        {
+          "title": "關鍵是：誰會感覺痛苦？",
+          "anchor": "sigil_toc_id_70",
+          "level": 4
+        },
+        {
+          "title": "回歸故事的本質",
+          "anchor": "sigil_toc_id_71",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "第5章 一對冤家",
+      "level": 3,
+      "wordCount": 14942,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "宗教不等於迷信",
+          "anchor": "sigil_toc_id_72",
+          "level": 4
+        },
+        {
+          "title": "共產主義也是宗教",
+          "anchor": "sigil_toc_id_73",
+          "level": 4
+        },
+        {
+          "title": "如果你遇見佛陀",
+          "anchor": "sigil_toc_id_74",
+          "level": 4
+        },
+        {
+          "title": "科學和宗教誓不兩立？",
+          "anchor": "sigil_toc_id_75",
+          "level": 4
+        },
+        {
+          "title": "科學能辨真偽",
+          "anchor": "sigil_toc_id_76",
+          "level": 4
+        },
+        {
+          "title": "《聖經》是由誰在何時寫的？",
+          "anchor": "sigil_toc_id_77",
+          "level": 4
+        },
+        {
+          "title": "科學不是萬靈丹",
+          "anchor": "sigil_toc_id_78",
+          "level": 4
+        },
+        {
+          "title": "冤家路窄常碰頭",
+          "anchor": "sigil_toc_id_79",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "第6章 與「現代」的契約",
+      "level": 3,
+      "wordCount": 15426,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "從前，經濟停滯是常態",
+          "anchor": "sigil_toc_id_80",
+          "level": 4
+        },
+        {
+          "title": "銀行家與吸血蝙蝠有何不同？",
+          "anchor": "sigil_toc_id_81",
+          "level": 4
+        },
+        {
+          "title": "奇蹟般的大餅",
+          "anchor": "sigil_toc_id_82",
+          "level": 4
+        },
+        {
+          "title": "成長掛帥",
+          "anchor": "sigil_toc_id_83",
+          "level": 4
+        },
+        {
+          "title": "資本主義的巨輪不會停轉",
+          "anchor": "sigil_toc_id_84",
+          "level": 4
+        },
+        {
+          "title": "科學讓人類發現自己的無知",
+          "anchor": "sigil_toc_id_85",
+          "level": 4
+        },
+        {
+          "title": "方舟症候群",
+          "anchor": "sigil_toc_id_86",
+          "level": 4
+        },
+        {
+          "title": "毫無意義的競賽追逐",
+          "anchor": "sigil_toc_id_87",
+          "level": 4
+        },
+        {
+          "title": "人文主義來救援",
+          "anchor": "sigil_toc_id_88",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "第7章 人文主義革命",
+      "level": 3,
+      "wordCount": 38933,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "向人心探尋",
+          "anchor": "sigil_toc_id_89",
+          "level": 4
+        },
+        {
+          "title": "向心理治療師「告解」",
+          "anchor": "sigil_toc_id_90",
+          "level": 4
+        },
+        {
+          "title": "人文主義的倫理觀點",
+          "anchor": "sigil_toc_id_91",
+          "level": 4
+        },
+        {
+          "title": "人文主義的政治觀點",
+          "anchor": "sigil_toc_id_92",
+          "level": 4
+        },
+        {
+          "title": "人文主義的美學觀點",
+          "anchor": "sigil_toc_id_93",
+          "level": 4
+        },
+        {
+          "title": "人文主義的經濟觀點",
+          "anchor": "sigil_toc_id_94",
+          "level": 4
+        },
+        {
+          "title": "人文主義的教育觀點",
+          "anchor": "sigil_toc_id_95",
+          "level": 4
+        },
+        {
+          "title": "計算「知識」的三條公式",
+          "anchor": "sigil_toc_id_96",
+          "level": 4
+        },
+        {
+          "title": "設法感受身為人的感覺",
+          "anchor": "sigil_toc_id_97",
+          "level": 4
+        },
+        {
+          "title": "踏上綠野仙蹤的黃磚路",
+          "anchor": "sigil_toc_id_98",
+          "level": 4
+        },
+        {
+          "title": "戰爭的真相",
+          "anchor": "sigil_toc_id_99",
+          "level": 4
+        },
+        {
+          "title": "人文主義的分裂",
+          "anchor": "sigil_toc_id_100",
+          "level": 4
+        },
+        {
+          "title": "民主投票只適用於有共同關係的人",
+          "anchor": "sigil_toc_id_101",
+          "level": 4
+        },
+        {
+          "title": "社會主義與自由主義之辯",
+          "anchor": "sigil_toc_id_102",
+          "level": 4
+        },
+        {
+          "title": "進化人文主義登場",
+          "anchor": "sigil_toc_id_103",
+          "level": 4
+        },
+        {
+          "title": "哪一種音樂較高級？",
+          "anchor": "sigil_toc_id_104",
+          "level": 4
+        },
+        {
+          "title": "三種主義，三種觀點",
+          "anchor": "sigil_toc_id_105",
+          "level": 4
+        },
+        {
+          "title": "最慘烈的人文主義宗教戰爭",
+          "anchor": "sigil_toc_id_106",
+          "level": 4
+        },
+        {
+          "title": "社會主義差點席捲天下",
+          "anchor": "sigil_toc_id_107",
+          "level": 4
+        },
+        {
+          "title": "自由主義捲土重來",
+          "anchor": "sigil_toc_id_108",
+          "level": 4
+        },
+        {
+          "title": "中國究竟相信什麼主義？",
+          "anchor": "sigil_toc_id_109",
+          "level": 4
+        },
+        {
+          "title": "科技與宗教的探戈",
+          "anchor": "sigil_toc_id_110",
+          "level": 4
+        },
+        {
+          "title": "十九世紀的迷惘",
+          "anchor": "sigil_toc_id_111",
+          "level": 4
+        },
+        {
+          "title": "史上第一個科技宗教：共產主義",
+          "anchor": "sigil_toc_id_112",
+          "level": 4
+        },
+        {
+          "title": "二十一世紀的末班車即將離站",
+          "anchor": "sigil_toc_id_113",
+          "level": 4
+        },
+        {
+          "title": "還能依感覺繼續走下去嗎？",
+          "anchor": "sigil_toc_id_114",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "第三部 智人失去控制權",
+      "level": 2,
+      "wordCount": 76,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "第8章 實驗室裡的定時炸彈",
+      "level": 3,
+      "wordCount": 20966,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "「自由意志」純屬想像？",
+          "anchor": "sigil_toc_id_115",
+          "level": 4
+        },
+        {
+          "title": "實驗之一：半機械鼠",
+          "anchor": "sigil_toc_id_116",
+          "level": 4
+        },
+        {
+          "title": "實驗之二：經顱刺激器",
+          "anchor": "sigil_toc_id_117",
+          "level": 4
+        },
+        {
+          "title": "這能增強或削弱自由意志？",
+          "anchor": "sigil_toc_id_118",
+          "level": 4
+        },
+        {
+          "title": "每個人心裡的中情局與國務院",
+          "anchor": "sigil_toc_id_119",
+          "level": 4
+        },
+        {
+          "title": "我到底是誰？",
+          "anchor": "sigil_toc_id_120",
+          "level": 4
+        },
+        {
+          "title": "峰終法則",
+          "anchor": "sigil_toc_id_121",
+          "level": 4
+        },
+        {
+          "title": "「敘事自我」擁有一把利剪",
+          "anchor": "sigil_toc_id_122",
+          "level": 4
+        },
+        {
+          "title": "在謊言中，建構生命的意義",
+          "anchor": "sigil_toc_id_123",
+          "level": 4
+        },
+        {
+          "title": "錯到底，就是對的？",
+          "anchor": "sigil_toc_id_124",
+          "level": 4
+        },
+        {
+          "title": "生命科學顛覆了自由主義",
+          "anchor": "sigil_toc_id_125",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "第9章 自由主義大崩解",
+      "level": 3,
+      "wordCount": 42496,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "人海戰術過時了",
+          "anchor": "sigil_toc_id_126",
+          "level": 4
+        },
+        {
+          "title": "你比機器人耐操嗎？",
+          "anchor": "sigil_toc_id_127",
+          "level": 4
+        },
+        {
+          "title": "如果滿街都是無人駕駛車",
+          "anchor": "sigil_toc_id_128",
+          "level": 4
+        },
+        {
+          "title": "快閃崩盤事件",
+          "anchor": "sigil_toc_id_129",
+          "level": 4
+        },
+        {
+          "title": "超級醫師：華生",
+          "anchor": "sigil_toc_id_130",
+          "level": 4
+        },
+        {
+          "title": "你需要溫情，華生也懂",
+          "anchor": "sigil_toc_id_131",
+          "level": 4
+        },
+        {
+          "title": "人類比AI還剩什麼優勢？",
+          "anchor": "sigil_toc_id_132",
+          "level": 4
+        },
+        {
+          "title": "魔球效應擴散",
+          "anchor": "sigil_toc_id_133",
+          "level": 4
+        },
+        {
+          "title": "演算法無役不與",
+          "anchor": "sigil_toc_id_134",
+          "level": 4
+        },
+        {
+          "title": "出現大批「無工作階級」",
+          "anchor": "sigil_toc_id_135",
+          "level": 4
+        },
+        {
+          "title": "自由主義崩潰中",
+          "anchor": "sigil_toc_id_136",
+          "level": 4
+        },
+        {
+          "title": "「量化自我」蔚為風潮",
+          "anchor": "sigil_toc_id_137",
+          "level": 4
+        },
+        {
+          "title": "「谷歌大神」太神了",
+          "anchor": "sigil_toc_id_138",
+          "level": 4
+        },
+        {
+          "title": "都是我們免費奉上的資料！",
+          "anchor": "sigil_toc_id_139",
+          "level": 4
+        },
+        {
+          "title": "從神使到代理人、再成為君主",
+          "anchor": "sigil_toc_id_140",
+          "level": 4
+        },
+        {
+          "title": "貧富不均更惡化",
+          "anchor": "sigil_toc_id_141",
+          "level": 4
+        },
+        {
+          "title": "出現「超人類」新種姓貴族",
+          "anchor": "sigil_toc_id_142",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "第10章 新宗教：科技人文主義",
+      "level": 3,
+      "wordCount": 13538,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二次認知革命",
+          "anchor": "sigil_toc_id_143",
+          "level": 4
+        },
+        {
+          "title": "意識的頻譜",
+          "anchor": "sigil_toc_id_144",
+          "level": 4
+        },
+        {
+          "title": "心靈之間的鴻溝",
+          "anchor": "sigil_toc_id_145",
+          "level": 4
+        },
+        {
+          "title": "當蝙蝠的感覺如何？",
+          "anchor": "sigil_toc_id_146",
+          "level": 4
+        },
+        {
+          "title": "我聞到恐懼的氣味",
+          "anchor": "sigil_toc_id_147",
+          "level": 4
+        },
+        {
+          "title": "用進廢退",
+          "anchor": "sigil_toc_id_148",
+          "level": 4
+        },
+        {
+          "title": "放大版的螞蟻社會",
+          "anchor": "sigil_toc_id_149",
+          "level": 4
+        },
+        {
+          "title": "哪個聲音是「真正的自我」？",
+          "anchor": "sigil_toc_id_150",
+          "level": 4
+        },
+        {
+          "title": "科技人文主義的兩難",
+          "anchor": "sigil_toc_id_151",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "第11章 信數據得永生？",
+      "level": 3,
+      "wordCount": 22656,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "資本主義＝分散式資料處理",
+          "anchor": "sigil_toc_id_152",
+          "level": 4
+        },
+        {
+          "title": "共產主義＝集中式資料處理",
+          "anchor": "sigil_toc_id_153",
+          "level": 4
+        },
+        {
+          "title": "所有的權力都去了哪？",
+          "anchor": "sigil_toc_id_154",
+          "level": 4
+        },
+        {
+          "title": "政治已不再有宏偉願景",
+          "anchor": "sigil_toc_id_155",
+          "level": 4
+        },
+        {
+          "title": "數據主義觀點下的人類簡史",
+          "anchor": "sigil_toc_id_156",
+          "level": 4
+        },
+        {
+          "title": "數據主義帶來全新價值觀：資訊自由",
+          "anchor": "sigil_toc_id_157",
+          "level": 4
+        },
+        {
+          "title": "資訊自由好處多",
+          "anchor": "sigil_toc_id_158",
+          "level": 4
+        },
+        {
+          "title": "資料流也有一隻看不見的手",
+          "anchor": "sigil_toc_id_159",
+          "level": 4
+        },
+        {
+          "title": "不停的記錄、上傳、分享！",
+          "anchor": "sigil_toc_id_160",
+          "level": 4
+        },
+        {
+          "title": "「人類演算法」將被取代",
+          "anchor": "sigil_toc_id_161",
+          "level": 4
+        },
+        {
+          "title": "從前，要聆聽自己內心的聲音",
+          "anchor": "sigil_toc_id_162",
+          "level": 4
+        },
+        {
+          "title": "現在，要聆聽演算法的意見",
+          "anchor": "sigil_toc_id_163",
+          "level": 4
+        },
+        {
+          "title": "宇宙資料流裡的小漣漪",
+          "anchor": "sigil_toc_id_164",
+          "level": 4
+        },
+        {
+          "title": "我們究竟該關注哪些關鍵問題？",
+          "anchor": "sigil_toc_id_165",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "圖片來源",
+      "level": 2,
+      "wordCount": 3040,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "誌謝",
+      "level": 2,
+      "wordCount": 1425,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "21世紀的21堂課（简体）",
+      "level": 1,
+      "wordCount": 55,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "引言清晰的見解就是力量",
+      "level": 2,
+      "wordCount": 4132,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "誰說歷史是公平的？",
+          "anchor": "toc_1",
+          "level": 3
+        },
+        {
+          "title": "資訊科技和生物科技攜手之後……",
+          "anchor": "toc_2",
+          "level": 3
+        },
+        {
+          "title": "生命究竟有什麼意義？",
+          "anchor": "toc_3",
+          "level": 3
+        },
+        {
+          "title": "堅信自由民主的價值",
+          "anchor": "toc_4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "第一部科技挑戰",
+      "level": 2,
+      "wordCount": 80,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "第1堂課理想幻滅",
+      "level": 3,
+      "wordCount": 10104,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "自由主義故事的美好與幻滅",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "從殺死蚊子到殺死思想",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "經濟精英不再剝削人民，因為已不需要人民",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "自由主義不斷浴火重生",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "川普時期的虛無主義",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "緬懷往昔的虛幻榮光",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "真正的考驗在於生態崩潰和科技顛覆",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "要先瞭解科技帶來什麼挑戰",
+          "anchor": "toc_8",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "第2堂課工作",
+      "level": 3,
+      "wordCount": 16134,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "人類還有什麼能力勝過AI？",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "AI擁有兩種非人類能力：可連結、可更新",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "醫師比護理師更容易被AI取代",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "機器為你量身打造樂曲",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "AI更擅長製作流行歌曲",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "「半人馬」團隊需要高水準技能",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "AlphaZero令人驚駭",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "系統性大規模失業危機",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "勞工從受剝削、到無足輕重",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "要保護人類、而不是保護工作",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "全民基本收入",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "什麼是「全民」？",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "什麼又是「基本」？",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "須讓人民活得有意義",
+          "anchor": "toc_14",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "第3堂課自由",
+      "level": 3,
+      "wordCount": 18624,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "民主投票訴諸於感覺、而非理性",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "你真以為有「自由意志」？",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "改聽演算法的就對了",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "大多數人並不真瞭解自己",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "「決策」這齣戲將來會怎麼演？",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "「真相」由谷歌決定",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "哲學改變不了人心",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "汽車更會遵循哲學之道",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "職場上更需要哲學家",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "別怕機器人，但須提防機器人的主人",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "「老大哥」真的現身了",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "數位獨裁政權",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "演算法將成為獨裁者",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "人工智慧和天然愚蠢",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "退化且馴化的人類",
+          "anchor": "toc_15",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "第4堂課平等",
+      "level": 3,
+      "wordCount": 5156,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "人類將分裂出不同的生物種姓",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "天龍國不需要野蠻人",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "資產誠可貴，資料價更高",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "該由誰擁有資料數據？",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "成也科技，敗也科技",
+          "anchor": "toc_5",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "第二部政治挑戰",
+      "level": 2,
+      "wordCount": 105,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "第5堂課社群",
+      "level": 3,
+      "wordCount": 4930,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "相識滿天下，知心能幾人",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "線上社群 vs. 線下社群",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "你是否和自己的身體感官失去了聯繫？",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "人類不只是一種視聽動物",
+          "anchor": "toc_4",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "第6堂課文明",
+      "level": 3,
+      "wordCount": 10823,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "「文明衝突論」可解釋這一切？",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "先得承認自己「發生了什麼改變」",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "託古改制，全因古人無法反駁",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "天下大勢，分久必合",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "從奧運看國家圖騰",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "「中世紀奧運會」虛擬實境",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "至尊美元",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "醫學一統",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "身分認同是由衝突和困境來定義",
+          "anchor": "toc_9",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "第7堂課國族主義",
+      "level": 3,
+      "wordCount": 10474,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "國族主義是一項利器",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "原子彈改變了世局",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "核毀滅的陰影又起",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "生態加速崩潰中",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "面對氣候變遷，各國各有盤算",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "面對全球難題，國族主義已太狹隘",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "地球這艘太空船，需要同舟共濟",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "政治也必須全球化",
+          "anchor": "toc_8",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "第8堂課宗教",
+      "level": 3,
+      "wordCount": 7508,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "技術問題：基督教農業？",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "政策問題：穆斯林經濟學？",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "馬克思：宗教只是虛飾",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "身分認同問題：沙地上不可跨越的那條線",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "新國教：日本神道教、北韓主體思想",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "宗教如同婢女，侍奉著國族主義",
+          "anchor": "toc_6",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "第9堂課移民",
+      "level": 3,
+      "wordCount": 10404,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "爭論一：親移民與反移民之辯",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "爭論二：入境隨俗與頑固守舊之辯",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "爭論三：歸化時間長短之辯",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "爭論四：義務履行程度之辯",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "從種族主義轉到文化主義",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "冷國文化與熱國文化",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "文化差異確實存在",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "文化主義的三種誤判",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "移民爭議，並非善惡兩端的對決",
+          "anchor": "toc_9",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "第三部絕望和希望",
+      "level": 2,
+      "wordCount": 61,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "第10堂課恐怖主義",
+      "level": 3,
+      "wordCount": 7331,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "蒼蠅激怒公牛，讓公牛摧毀瓷器店",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "既是驚悚片製作人、也是賭徒",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "大空瓶裡扔進一枚小硬幣",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "反恐行動要三管齊下",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "當恐怖份子擁有大規模毀滅性武器",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "不要擺錯重點",
+          "anchor": "toc_6",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "第11堂課戰爭",
+      "level": 3,
+      "wordCount": 6669,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "很難再有「成功的戰爭」",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "普丁不是成吉思汗",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "普丁也不是史達林",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "「在戰爭中取勝」已成為失傳的藝術",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "網路戰也是高損害、低利潤",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "愚蠢進行曲",
+          "anchor": "toc_6",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "第12堂課謙遜",
+      "level": 3,
+      "wordCount": 10234,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一個中心，各自表述",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "猶太教有如「佛洛伊德的母親」",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "猶太人對歷史的貢獻很有限",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "倫理道德根植於演化之中",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "《聖經》時代之前，早已有倫理道德",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "盲信的誕生：一神論",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "猶太教物理學？基督教生物學？",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "個人應謙和，也要當心集體的傲慢",
+          "anchor": "toc_8",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "第13堂課神",
+      "level": 3,
+      "wordCount": 4221,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "神有兩種",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "無神論的倫理基礎",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "己所不欲，勿施於人",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "信眾的行為決定了神的價值",
+          "anchor": "toc_4",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "第14堂課世俗主義",
+      "level": 3,
+      "wordCount": 7656,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "世俗主義追求真相",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "世俗主義重視同情",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "世俗主義主張平等、自由、勇敢",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "世俗主義強調責任",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "史達林是世俗主義者？",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "緊抱教條，絕非世俗主義",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "認真面對自己的陰影",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "反省是成長的起點",
+          "anchor": "toc_8",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "第四部真相",
+      "level": 2,
+      "wordCount": 106,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "title": "第15堂課無知",
+      "level": 3,
+      "wordCount": 3606,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "知識的假象",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "群體思維陷阱",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "權力黑洞",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "承認自己的無知",
+          "anchor": "toc_4",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "title": "第16堂課正義",
+      "level": 3,
+      "wordCount": 5083,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "如何在全球化的世界實現正義？",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "無知與冷漠也是一種罪行",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "結構性偏見",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "縮小問題的規模？或是拒絕面對？",
+          "anchor": "toc_4",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 74,
+      "title": "第17堂課後真相",
+      "level": 3,
+      "wordCount": 9616,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "後真相始自政治宣傳",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "宗教神話—流傳千年的假新聞",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "曾經的謊，永遠的「真相」",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "後真相物種",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "走出洗腦機",
+          "anchor": "toc_5",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=74"
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 75,
+      "title": "第18堂課科幻小說",
+      "level": 3,
+      "wordCount": 7047,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "活在盒子裡",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "心靈從來就受到各種操弄",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "迪士尼不再相信自由意志",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "美麗新世界？",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "解放自我",
+          "anchor": "toc_5",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=75",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=75"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 76,
+      "title": "第五部生命意義",
+      "level": 2,
+      "wordCount": 48,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 77,
+      "title": "第19堂課教育",
+      "level": 3,
+      "wordCount": 6566,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "未來勢必大為不同",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "別再填鴨了，4C才是王道",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "人生將是一連串的轉型",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "「穩定」是奢侈品",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "科技服務你、還是你在服務科技？",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "認識你自己",
+          "anchor": "toc_6",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 78,
+      "title": "第20堂課意義",
+      "level": 3,
+      "wordCount": 27433,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "人生有什麼意義？",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "天堂各有版本",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "「別再問了，反正下面都是烏龜」",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "信眾就是有盲點",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "留下靈魂？或留下詩歌、留下基因？或留下愛？",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "屋頂的重量已太過龐大",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "天靈靈、地靈靈，信仰成了行業",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "禮儀之邦",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "犧牲，才是魔力所在",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "犧牲他人，成就偉業",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "誰是法西斯份子？",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "撒旦的誘惑難以抵拒",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "天堂雖美，人間更好",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "赫爾辛格的超市",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "自由主義：我為宇宙賦予意義",
+          "anchor": "toc_15",
+          "level": 4
+        },
+        {
+          "title": "「自我」也是虛構的故事",
+          "anchor": "toc_16",
+          "level": 4
+        },
+        {
+          "title": "世間沒有故事",
+          "anchor": "toc_17",
+          "level": 4
+        },
+        {
+          "title": "嘴上唸佛，心裡著魔",
+          "anchor": "toc_18",
+          "level": 4
+        },
+        {
+          "title": "虛構與真實之別：誰會受苦？",
+          "anchor": "toc_19",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 79,
+      "title": "第21堂課冥想",
+      "level": 3,
+      "wordCount": 6204,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "剖析自己",
+          "anchor": "toc_1",
+          "level": 4
+        },
+        {
+          "title": "不知生，焉知死",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "探索心靈奧秘",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "同時從兩端開挖",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "瞭解自己的心靈",
+          "anchor": "toc_5",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=79"
+    },
+    {
+      "chapterUid": 80,
+      "chapterIdx": 80,
+      "title": "誌謝",
+      "level": 2,
+      "wordCount": 2097,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "誌謝",
+          "anchor": "toc_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=80",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=80"
+    },
+    {
+      "chapterUid": 81,
+      "chapterIdx": 81,
+      "title": "參考資料",
+      "level": 2,
+      "wordCount": 60074,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "參考資料",
+          "anchor": "toc_1",
+          "level": 3
+        },
+        {
+          "title": "第1堂課 理想幻滅",
+          "anchor": "toc_2",
+          "level": 4
+        },
+        {
+          "title": "第2堂課 工作",
+          "anchor": "toc_3",
+          "level": 4
+        },
+        {
+          "title": "第3堂課 自由",
+          "anchor": "toc_4",
+          "level": 4
+        },
+        {
+          "title": "第4堂課 平等",
+          "anchor": "toc_5",
+          "level": 4
+        },
+        {
+          "title": "第5堂課 社群",
+          "anchor": "toc_6",
+          "level": 4
+        },
+        {
+          "title": "第6堂課 文明",
+          "anchor": "toc_7",
+          "level": 4
+        },
+        {
+          "title": "第7堂課 國族主義",
+          "anchor": "toc_8",
+          "level": 4
+        },
+        {
+          "title": "第8堂課 宗教",
+          "anchor": "toc_9",
+          "level": 4
+        },
+        {
+          "title": "第9堂課 移民",
+          "anchor": "toc_10",
+          "level": 4
+        },
+        {
+          "title": "第10堂課 恐怖主義",
+          "anchor": "toc_11",
+          "level": 4
+        },
+        {
+          "title": "第11堂課 戰爭",
+          "anchor": "toc_12",
+          "level": 4
+        },
+        {
+          "title": "第12堂課 謙遜",
+          "anchor": "toc_13",
+          "level": 4
+        },
+        {
+          "title": "第13堂課 神",
+          "anchor": "toc_14",
+          "level": 4
+        },
+        {
+          "title": "第14堂課 世俗主義",
+          "anchor": "toc_15",
+          "level": 4
+        },
+        {
+          "title": "第15堂課 無知",
+          "anchor": "toc_16",
+          "level": 4
+        },
+        {
+          "title": "第16堂課 正義",
+          "anchor": "toc_17",
+          "level": 4
+        },
+        {
+          "title": "第17堂課 後真相",
+          "anchor": "toc_18",
+          "level": 4
+        },
+        {
+          "title": "第18堂課 科幻小說",
+          "anchor": "toc_19",
+          "level": 4
+        },
+        {
+          "title": "第19堂課 教育",
+          "anchor": "toc_20",
+          "level": 4
+        },
+        {
+          "title": "第20堂課 意義",
+          "anchor": "toc_21",
+          "level": 4
+        },
+        {
+          "title": "第21堂課 冥想",
+          "anchor": "toc_22",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=81",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=81"
+    },
+    {
+      "chapterUid": 82,
+      "chapterIdx": 82,
+      "title": "Table of Contents",
+      "level": 3,
+      "wordCount": 262,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=82",
+      "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=82"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 79,
+      "chapterTitle": "第21堂課冥想",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_1lc2to2tv2v46uo6sw3edC11_79_1056-1286",
+          "range": "1056-1286",
+          "rangeStart": 1056,
+          "rangeEnd": 1286,
+          "markText": "我在青少年时期有许多烦恼，心静不下来，觉得整个世界莫名其妙，对于人生的种种大问题，也都找不到答案。特别有一点，我不明白为什么有诸多苦痛充斥整个世界、充斥我的生活，也不知道自己对此可以做些什么。不论是身边的人、或读到的书，讲的都是一些精心虚构的故事：关于神祇和天堂的宗教神话、关于祖国和历史使命的国族主义神话、关于爱情和冒险的浪漫神话，还有那套资本主义神话，说着经济成长、说着买东西能让我开心。虽然我当时已经能够判断这一切可能都是虚构，但还是不知道怎样找出真相。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1742351511,
+          "createTimeFormatted": "2025-03-19 10:31:51",
+          "chapterUid": 79,
+          "appLink": "weread://bestbookmark?bookId=CB_1lc2to2tv2v46uo6sw3edC11&chapterUid=79&rangeStart=1056&rangeEnd=1286",
+          "webLink": "https://weread.qq.com/web/reader/43a42953643425f316c6332746f32747632763436756f367377336564433131466?chapterUid=79&rangeStart=1056&rangeEnd=1286"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 79,
+    "chapterOffset": 1126,
+    "progress": 0,
+    "updateTime": 1742351520,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

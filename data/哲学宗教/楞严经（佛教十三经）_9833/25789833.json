@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "bookId": "25789833",
+    "title": "楞严经（佛教十三经）",
+    "author": "赖永海主编",
+    "translator": "",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/833/25789833/t6_25789833.jpg",
+    "intro": "“开悟的《楞严》，成佛的《法华》。”这句禅门话语道出了《楞严经》在中国佛教中的特殊地位和影响。本经自唐代中叶译出后便开始流行，宋代之后更是盛行于僧俗、禅教之间，成为汉传大乘佛教的最核心经典之一，是一部对中国佛教之禅、净、教、律、密都有着广泛而深刻影响的大乘经典。",
+    "category": "哲学宗教-宗教",
+    "publisher": "中华书局",
+    "publishTime": "2012-08-01 00:00:00",
+    "isbn": "9787101087970",
+    "wordCount": 0,
+    "newRating": 919,
+    "newRatingCount": 1070,
+    "newRatingDetail": {
+      "good": 1000,
+      "fair": 47,
+      "poor": 23,
+      "recent": 4,
+      "deepV": 155,
+      "myRating": "",
+      "title": "神作"
+    },
+    "appLink": "weread://reading?bId=25789833",
+    "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18",
+    "lastSync": "2026-05-21T11:52:12Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=1"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 110,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 9352,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 4,
+      "title": "总序",
+      "level": 1,
+      "wordCount": 3994,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 5,
+      "title": "卷一",
+      "level": 1,
+      "wordCount": 17947,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 6,
+      "title": "卷二",
+      "level": 1,
+      "wordCount": 23269,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 7,
+      "title": "卷三",
+      "level": 1,
+      "wordCount": 24612,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 8,
+      "title": "卷四",
+      "level": 1,
+      "wordCount": 24342,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 9,
+      "title": "卷五",
+      "level": 1,
+      "wordCount": 17687,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 10,
+      "title": "卷六",
+      "level": 1,
+      "wordCount": 15756,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 11,
+      "title": "卷七",
+      "level": 1,
+      "wordCount": 18021,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 12,
+      "title": "卷八",
+      "level": 1,
+      "wordCount": 22496,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 13,
+      "title": "卷九",
+      "level": 1,
+      "wordCount": 26161,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 14,
+      "title": "卷十",
+      "level": 1,
+      "wordCount": 19070,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 15,
+      "title": "延伸阅读书目",
+      "level": 1,
+      "wordCount": 1189,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25789833&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=29"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 20,
+      "chapterTitle": "卷二",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25789833_20_16556-16624",
+          "range": "16556-16624",
+          "rangeStart": 16556,
+          "rangeEnd": 16624,
+          "markText": "一切众生从无始来，迷己为物，失于本心，为物所转，故于是中，观大观小。若能转物，则同如来，身心圆明，不动道场，于一毛端遍能含受十方国土。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1741501130,
+          "createTimeFormatted": "2025-03-09 14:18:50",
+          "chapterUid": 20,
+          "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=20&rangeStart=16556&rangeEnd=16624",
+          "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=20&rangeStart=16556&rangeEnd=16624"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "25789833_19_35998-36067",
+      "chapterUid": 19,
+      "range": "35998-36067",
+      "markText": "灯的作用只是显现种种色相，而能够看见种种色相的，是眼而不是灯；同样，眼的作用也只是显现种种色相，而能够看见种种色相的见性，是心而不是眼。”",
+      "totalCount": 867,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=35998&rangeEnd=36067",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=35998&rangeEnd=36067"
+    },
+    {
+      "bookmarkId": "25789833_19_13521-13612",
+      "chapterUid": 19,
+      "range": "13521-13612",
+      "markText": "你们应当知道，一切众生，从无始以来，一直在六道中轮回，在生死中流转，都因为不知常住真心，这是吾人本具的清净光明之性体，却沉迷于妄想分别之中，导致种种虚妄假相并误以为真，故有轮回流转。",
+      "totalCount": 476,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=13521&rangeEnd=13612",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=13521&rangeEnd=13612"
+    },
+    {
+      "bookmarkId": "25789833_20_14738-14805",
+      "chapterUid": 20,
+      "range": "14738-14805",
+      "markText": "这些远近所有物象，虽然千差万别，但都是见精的清净瞩望之境；因此这些物类自有差别，而见性却没有差别，这个见精妙净明体，确实就是你的见性。",
+      "totalCount": 465,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=20&rangeStart=14738&rangeEnd=14805",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=20&rangeStart=14738&rangeEnd=14805"
+    },
+    {
+      "bookmarkId": "25789833_20_16556-16624",
+      "chapterUid": 20,
+      "range": "16556-16624",
+      "markText": "一切众生从无始来，迷己为物，失于本心，为物所转，故于是中，观大观小。若能转物，则同如来，身心圆明，不动道场，于一毛端遍能含受十方国土。”",
+      "totalCount": 459,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=20&rangeStart=16556&rangeEnd=16624",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=20&rangeStart=16556&rangeEnd=16624"
+    },
+    {
+      "bookmarkId": "25789833_20_24777-24870",
+      "chapterUid": 20,
+      "range": "24777-24870",
+      "markText": "你应当了知，这精觉妙明的见性，非是因生，非是缘生，也非是自然而有；也不能说不是因缘，或不是自然；本没有非与不非，也没有是与非是；它出离一切妄情计度之相，又圆融一切法，全体法界，不一不异。",
+      "totalCount": 448,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=20&rangeStart=24777&rangeEnd=24870",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=20&rangeStart=24777&rangeEnd=24870"
+    },
+    {
+      "bookmarkId": "25789833_19_1286-1307",
+      "chapterUid": 19,
+      "range": "1286-1307",
+      "markText": "阿难遭魔的原因是由一向求多闻而未能实修禅定",
+      "totalCount": 434,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=1286&rangeEnd=1307",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=1286&rangeEnd=1307"
+    },
+    {
+      "bookmarkId": "25789833_19_32385-32464",
+      "chapterUid": 19,
+      "range": "32385-32464",
+      "markText": "如果离开现前六尘境相而仍有分别觉知之性，即真正是你的心；然而，如果分别觉知之性，离开六尘境相就没有体性了，那它不过是现前六尘的分别尘影之事，是虚幻而不是真心。",
+      "totalCount": 420,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=32385&rangeEnd=32464",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=32385&rangeEnd=32464"
+    },
+    {
+      "bookmarkId": "25789833_19_35145-35181",
+      "chapterUid": 19,
+      "range": "35145-35181",
+      "markText": "是故当知，灯能显色，如是见者，是眼非灯；眼能显色，如是见性，是心非眼。”",
+      "totalCount": 405,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=35145&rangeEnd=35181",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=35145&rangeEnd=35181"
+    },
+    {
+      "bookmarkId": "25789833_20_8727-8775",
+      "chapterUid": 20,
+      "range": "8727-8775",
+      "markText": "殊不知，这个五蕴色身，乃至色身之外的一切山河虚空大地，皆是妙明真心中所现之物，无一超出自心之外。",
+      "totalCount": 405,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=20&rangeStart=8727&rangeEnd=8775",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=20&rangeStart=8727&rangeEnd=8775"
+    },
+    {
+      "bookmarkId": "25789833_19_16184-16226",
+      "chapterUid": 19,
+      "range": "16184-16226",
+      "markText": "若是你的灵明之心实在身内，就应先能了知身内；可有哪个人是先见身内之物，后见身外之物？",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=16184&rangeEnd=16226",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=16184&rangeEnd=16226"
+    },
+    {
+      "bookmarkId": "25789833_19_1586-1629",
+      "chapterUid": 19,
+      "range": "1586-1629",
+      "markText": "一切众生从无始来，生死相续，皆由不知常住真心，性净明体，用诸妄想，此想不真，故有轮转”",
+      "totalCount": 342,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=1586&rangeEnd=1629",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=1586&rangeEnd=1629"
+    },
+    {
+      "bookmarkId": "25789833_19_20436-20455",
+      "chapterUid": 19,
+      "range": "20436-20455",
+      "markText": "由心生故，种种法生，由法生故，种种心生",
+      "totalCount": 336,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=20436&rangeEnd=20455",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=20436&rangeEnd=20455"
+    },
+    {
+      "bookmarkId": "25789833_18_4860-4888",
+      "chapterUid": 18,
+      "range": "4860-4888",
+      "markText": "但愿它能成为“渡海之舟筏”，而不至于沦为“忘月之手指”。",
+      "totalCount": 330,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=18&rangeStart=4860&rangeEnd=4888",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=18&rangeStart=4860&rangeEnd=4888"
+    },
+    {
+      "bookmarkId": "25789833_19_30149-30243",
+      "chapterUid": 19,
+      "range": "30149-30243",
+      "markText": "”佛告诉阿难：“你所说的心，实是现前尘境的虚妄相上所生起的分别妄想，正是此颠倒妄想，迷惑了你的真心本性。由于你从无始以来至于今生，一直认贼为子，迷失了你的本元常住真心，故而枉受轮回之苦。”",
+      "totalCount": 330,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=30149&rangeEnd=30243",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=30149&rangeEnd=30243"
+    },
+    {
+      "bookmarkId": "25789833_19_12584-12626",
+      "chapterUid": 19,
+      "range": "12584-12626",
+      "markText": "一切众生从无始来，生死相续，皆由不知常住真心，性净明体，用诸妄想，此想不真，故有轮转",
+      "totalCount": 324,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=12584&rangeEnd=12626",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=12584&rangeEnd=12626"
+    },
+    {
+      "bookmarkId": "25789833_19_33070-33100",
+      "chapterUid": 19,
+      "range": "33070-33100",
+      "markText": "今日乃知，虽有多闻，若不修行，与不闻等，如人说食，终不能饱。",
+      "totalCount": 324,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=33070&rangeEnd=33100",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=33070&rangeEnd=33100"
+    },
+    {
+      "bookmarkId": "25789833_19_16424-16474",
+      "chapterUid": 19,
+      "range": "16424-16474",
+      "markText": "一切众生，不见身中，独见身外，亦如灯光居在室外，不能照室。是义必明，将无所惑，同佛了义，得无妄耶？”",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=16424&rangeEnd=16474",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=16424&rangeEnd=16474"
+    },
+    {
+      "bookmarkId": "25789833_20_28631-28701",
+      "chapterUid": 20,
+      "range": "28631-28701",
+      "markText": "。这看见圆晕的道理，也是如此，本来就是眼翳病目所造成，现在怎么能称名论说圆晕是灯色，还是见色？更何况去分别圆晕非是离灯别有，非是离见别有呢？",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=20&rangeStart=28631&rangeEnd=28701",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=20&rangeStart=28631&rangeEnd=28701"
+    },
+    {
+      "bookmarkId": "25789833_19_38367-38497",
+      "chapterUid": 19,
+      "range": "38367-38497",
+      "markText": "云何汝今以动为身，以动为境，从始洎终，念念生灭，遗失真性，颠倒行事；性心失真，认物为己，轮回是中，自取流转。”",
+      "totalCount": 276,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=38367&rangeEnd=38497",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=38367&rangeEnd=38497"
+    },
+    {
+      "bookmarkId": "25789833_19_39162-39205",
+      "chapterUid": 19,
+      "range": "39162-39205",
+      "markText": "既令自性真心失其本真，又妄认内外诸物为己，在颠倒中轮回，自取生死流转，未能获得解脱。”",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=25789833&chapterUid=19&rangeStart=39162&rangeEnd=39205",
+      "webLink": "https://weread.qq.com/web/reader/9b932b60718985899b9de18?chapterUid=19&rangeStart=39162&rangeEnd=39205"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

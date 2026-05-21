@@ -1,0 +1,924 @@
+{
+  "meta": {
+    "bookId": "3300160461",
+    "title": "如何快速了解一个行业",
+    "author": "肖璟",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/10/cpplatform_sg3znank75by5ydmb6p7sj/t6_cpplatform_sg3znank75by5ydmb6p7sj1756275316.jpg",
+    "intro": "本书旨在帮助读者迅速掌握行业分析方法论，书中详细介绍了行业研究的基本框架和实战技巧。内容涵盖了行业分析的全过程，包括行业生命周期、商业模式、市场规模、竞争格局等关键维度，旨在提升读者的行业研究能力。书中还探讨了如何从不同角度剖析行业外部驱动力，以及如何通过景气度指标预判行业业绩增速。此外，本书还提供了丰富的实战案例和研究方法，并分享了多个利用AI进行投资研究的案例，适合投资者、金融行业从业者、创业者、咨询顾问以及问题解决爱好者阅读，能够帮助他们在投资和职业发展中做出更明智的决策。  本书的四种用法： 用法 1：作为模板 当开始研究一个新行业时，你可以直接参考本书提供的行研框架，了解都有哪些可以分析的维度来套用模板。 用法 2：作为地图 除了行研框架，本书也提供了不少研究常用的资讯源。当你需要某些事实或数据来论证你的观点时，可以先读读本书，看看哪些地方可以找到你所需要的资讯。 用法 3：作为培训材料 本书既适合无甚研究基础的新人，也适合有经验人士系统地梳理自己的分析框架，因此它非常适合作为机构内部的培训材料。 用法 4：作为案例集 本书包含不少有意思的分析案例。当你后续需要论证某些观点时，这些案例可以成为很好的论据。",
+    "category": "经济理财-管理",
+    "publisher": "人民邮电出版社有限公司",
+    "publishTime": "2025-08-01 00:00:00",
+    "isbn": "9787115674937",
+    "wordCount": 0,
+    "newRating": 904,
+    "newRatingCount": 2620,
+    "newRatingDetail": {
+      "good": 2401,
+      "fair": 157,
+      "poor": 62,
+      "recent": 142,
+      "deepV": 1135,
+      "myRating": "",
+      "title": "神作"
+    },
+    "appLink": "weread://reading?bId=3300160461",
+    "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a",
+    "lastSync": "2026-05-21T11:46:06Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 122,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=2"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 3,
+      "title": "写给微信读书的读者朋友",
+      "level": 1,
+      "wordCount": 1098,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=28"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 4,
+      "title": "内容提要",
+      "level": 1,
+      "wordCount": 238,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 5,
+      "title": "献词",
+      "level": 1,
+      "wordCount": 9,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=4"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 6,
+      "title": "赞誉",
+      "level": 1,
+      "wordCount": 940,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 7,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 4713,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=30"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 8,
+      "title": "第一部分 行研框架篇",
+      "level": 1,
+      "wordCount": 705,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=7"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 9,
+      "title": "第1章 主框架：行业不同发展阶段的分析重点",
+      "level": 2,
+      "wordCount": 9972,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1节 研究对象：行业研究到底研究的是什么",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        },
+        {
+          "title": "第2节 基本框架：如何系统全面地研究行业",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 10,
+      "title": "第2章 可行性：既然知道会输，那为何要“下注”",
+      "level": 2,
+      "wordCount": 16148,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1节 商业模式：从巴菲特学到的最重要的东西",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        },
+        {
+          "title": "第2节 验证方法：如何找到那条跑得通的路径",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        },
+        {
+          "title": "第3节 可行性评估：“卖出去”只是第一步，“赚到钱”才是硬道...",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 11,
+      "title": "第3章 规模性：为什么有些公司上不了市",
+      "level": 2,
+      "wordCount": 14091,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1节 应用场景：你很难找到这些行业的市场规模数据",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        },
+        {
+          "title": "第2节 不同口径：要测算的究竟是哪个市场规模",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "第3节 测算方法：手把手教会你如何估算市场规模",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 12,
+      "title": "第4章 防守性：这个行业会被替代吗",
+      "level": 2,
+      "wordCount": 15824,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1节 构建方式：构建护城河的两种手段",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        },
+        {
+          "title": "第2节 生产要素：如何通过积累资源形成“资源垄断”护城河",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        },
+        {
+          "title": "第3节 生产关系：如何通过建立关系形成“网络效应”护城河",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 13,
+      "title": "第5章 盈利性：行业的头部公司能分到多少钱",
+      "level": 2,
+      "wordCount": 16129,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1节 横向格局：行业集中度的变化规律",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "第2节 纵向格局：产业链内部的利润分配",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 14,
+      "title": "第6章 估值：行业不同阶段的估值特征",
+      "level": 2,
+      "wordCount": 15110,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1节 估值动机：3种通过股票赚钱的方式",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        },
+        {
+          "title": "第2节 影响要素：估值由投资者和资产共同决定",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "第3节 估值框架：在行业不同阶段该如何估值",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        },
+        {
+          "title": "第4节 案例：空调行业及智能手机零部件行业",
+          "anchor": "sigil_toc_id_22",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 15,
+      "title": "第7章 外部因素：引爆行业还缺哪根导火线",
+      "level": 2,
+      "wordCount": 13643,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1节 政治：来自国内外的重拳",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "第2节 经济：经济发展指标与货币价格",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        },
+        {
+          "title": "第3节 文化：被重塑的市场需求",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        },
+        {
+          "title": "第4节 技术：颠覆性的科技创新",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_28",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 16,
+      "title": "第8章 景气度：如何预判业绩增速",
+      "level": 2,
+      "wordCount": 8672,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1节 价值：为什么要跟踪景气度指标",
+          "anchor": "sigil_toc_id_29",
+          "level": 3
+        },
+        {
+          "title": "第2节 纵向：通过产业链上下游把握景气度",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        },
+        {
+          "title": "第3节 横向：通过行业关键指标把握景气度",
+          "anchor": "sigil_toc_id_31",
+          "level": 3
+        },
+        {
+          "title": "第4节 案例：白酒行业的景气度指标",
+          "anchor": "sigil_toc_id_32",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_33",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=38"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 17,
+      "title": "第二部分 行研实战篇",
+      "level": 1,
+      "wordCount": 414,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=16"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 18,
+      "title": "第9章 案例：新能源汽车研究框架",
+      "level": 2,
+      "wordCount": 13327,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1节 新能源汽车行业所处的产业生命周期阶段",
+          "anchor": "sigil_toc_id_34",
+          "level": 3
+        },
+        {
+          "title": "第2节 新能源汽车行业的商业模式",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        },
+        {
+          "title": "第3节 新能源汽车行业的市场规模",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        },
+        {
+          "title": "第4节 新能源汽车行业的护城河",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        },
+        {
+          "title": "第5节 新能源汽车行业的竞争格局",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "第6节 新能源汽车行业的估值",
+          "anchor": "sigil_toc_id_39",
+          "level": 3
+        },
+        {
+          "title": "第7节 新能源汽车行业的外部因素",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        },
+        {
+          "title": "第8节 新能源汽车行业的景气度指标",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=39"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 19,
+      "title": "第三部分 研究方法篇",
+      "level": 1,
+      "wordCount": 391,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=18"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 20,
+      "title": "第10章 研究基础：关于研究本质的思考",
+      "level": 2,
+      "wordCount": 6158,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1节 研究目的：如何通过研究持续创造财富",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        },
+        {
+          "title": "第2节 资讯类型：不同类型的资讯都有什么价值",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 21,
+      "title": "第11章 研究进阶：麦肯锡分析师的“资讯料理法”",
+      "level": 2,
+      "wordCount": 18497,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1节 备菜：如何输入资讯",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "第2节 烹饪：如何处理资讯",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        },
+        {
+          "title": "第3节 摆盘：如何输出资讯",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=41"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 22,
+      "title": "第四部分 研究工具篇",
+      "level": 1,
+      "wordCount": 602,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=21"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 23,
+      "title": "第12章 研究工具箱：常用的研究资讯源",
+      "level": 2,
+      "wordCount": 17668,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1节 统计机构：搞清楚定义与立场",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        },
+        {
+          "title": "第2节 信息检索工具：颠覆了人类的研究方式",
+          "anchor": "sigil_toc_id_50",
+          "level": 3
+        },
+        {
+          "title": "第3节 社交网络：从专业人士处获取知识",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        },
+        {
+          "title": "第4节 研究机构：研究报告并没那么难读懂",
+          "anchor": "sigil_toc_id_52",
+          "level": 3
+        },
+        {
+          "title": "第5节 专业数据库：家中常备利器",
+          "anchor": "sigil_toc_id_53",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 24,
+      "title": "第13章 研究的新时代：如何借助生成式AI进行研究",
+      "level": 2,
+      "wordCount": 18376,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1节 生成式AI对各大行业的冲击",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        },
+        {
+          "title": "第2节 大语言模型的类型、原理与局限",
+          "anchor": "sigil_toc_id_56",
+          "level": 3
+        },
+        {
+          "title": "第3节 生成式AI在研究中的应用",
+          "anchor": "sigil_toc_id_57",
+          "level": 3
+        },
+        {
+          "title": "第4节 生成式AI工具及其用法",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        },
+        {
+          "title": "本章小结",
+          "anchor": "sigil_toc_id_59",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=43"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 25,
+      "title": "结语 一切仍没有结束",
+      "level": 1,
+      "wordCount": 569,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 26,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 228,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 27,
+      "title": "附录 名词解释",
+      "level": 1,
+      "wordCount": 4125,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 28,
+      "title": "版权声明",
+      "level": 1,
+      "wordCount": 81,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300160461&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=27"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 30,
+      "chapterTitle": "前言",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300160461_30_2889-2955",
+          "range": "2889-2955",
+          "rangeStart": 2889,
+          "rangeEnd": 2955,
+          "markText": "我不晓得大家翻开本书的底层理由是什么，不过我学习行业研究的动机特别单纯——就是为了赚钱。其他跟赚钱扯不上关系的点，也不是本书的重点。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1770126500,
+          "createTimeFormatted": "2026-02-03 21:48:20",
+          "chapterUid": 30,
+          "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=30&rangeStart=2889&rangeEnd=2955",
+          "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=30&rangeStart=2889&rangeEnd=2955"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300160461_30_2889-2955",
+      "chapterUid": 30,
+      "range": "2889-2955",
+      "markText": "我不晓得大家翻开本书的底层理由是什么，不过我学习行业研究的动机特别单纯——就是为了赚钱。其他跟赚钱扯不上关系的点，也不是本书的重点。",
+      "totalCount": 2695,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=30&rangeStart=2889&rangeEnd=2955",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=30&rangeStart=2889&rangeEnd=2955"
+    },
+    {
+      "bookmarkId": "3300160461_32_10916-10958",
+      "chapterUid": 32,
+      "range": "10916-10958",
+      "markText": "成功的商业模式往往不是创造新的需求，而是用新的方式（新的解决方案）来满足已有的需求。",
+      "totalCount": 2632,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=32&rangeStart=10916&rangeEnd=10958",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=32&rangeStart=10916&rangeEnd=10958"
+    },
+    {
+      "bookmarkId": "3300160461_30_710-798",
+      "chapterUid": 30,
+      "range": "710-798",
+      "markText": "一般来说，我们在新项目上工作的第一周，会进行大量的研究，试图快速摸透项目所针对的行业或领域。过了第一周，我们一般就可以跟行业内的专家流畅地对话，甚至可以说出资深人士才懂的见解。",
+      "totalCount": 1602,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=30&rangeStart=710&rangeEnd=798",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=30&rangeStart=710&rangeEnd=798"
+    },
+    {
+      "bookmarkId": "3300160461_30_4783-4807",
+      "chapterUid": 30,
+      "range": "4783-4807",
+      "markText": "创业者需要掌握三大技能：找方向、找资金、找人才。",
+      "totalCount": 1602,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=30&rangeStart=4783&rangeEnd=4807",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=30&rangeStart=4783&rangeEnd=4807"
+    },
+    {
+      "bookmarkId": "3300160461_28_2691-2717",
+      "chapterUid": 28,
+      "range": "2691-2717",
+      "markText": "祝你在每次研究学习时，都能少一点焦虑，多一点确定感。",
+      "totalCount": 1572,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=28&rangeStart=2691&rangeEnd=2717",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=28&rangeStart=2691&rangeEnd=2717"
+    },
+    {
+      "bookmarkId": "3300160461_40_4204-4238",
+      "chapterUid": 40,
+      "range": "4204-4238",
+      "markText": "我们最好先在一个领域深耕并具备一定程度的深度差之后，再去追求广度差。",
+      "totalCount": 1404,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=40&rangeStart=4204&rangeEnd=4238",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=40&rangeStart=4204&rangeEnd=4238"
+    },
+    {
+      "bookmarkId": "3300160461_40_4520-4592",
+      "chapterUid": 40,
+      "range": "4520-4592",
+      "markText": "对市场的认知更深可以体现在两个方面：一是比别人更懂市场的供给侧，也就是更懂行业、更懂公司；二是比别人更懂市场的需求侧，也就是更懂用户、更懂市场。",
+      "totalCount": 1360,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=40&rangeStart=4520&rangeEnd=4592",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=40&rangeStart=4520&rangeEnd=4592"
+    },
+    {
+      "bookmarkId": "3300160461_30_2660-2675",
+      "chapterUid": 30,
+      "range": "2660-2675",
+      "markText": "“为什么想掌握行业研究框架？”",
+      "totalCount": 1350,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=30&rangeStart=2660&rangeEnd=2675",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=30&rangeStart=2660&rangeEnd=2675"
+    },
+    {
+      "bookmarkId": "3300160461_31_11314-11394",
+      "chapterUid": 31,
+      "range": "11314-11394",
+      "markText": "一个比较好的解决方案，是用渗透率作为划分产业生命周期不同阶段的依据。渗透率描述的是行业已经触达了多大比例的潜在用户，用公式表示就是渗透率=存量用户÷潜在客户群。",
+      "totalCount": 1344,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=31&rangeStart=11314&rangeEnd=11394",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=31&rangeStart=11314&rangeEnd=11394"
+    },
+    {
+      "bookmarkId": "3300160461_31_14868-14943",
+      "chapterUid": 31,
+      "range": "14868-14943",
+      "markText": "针对处在成熟期的行业，我们需要重点评估行业的护城河是不是足够宽、是不是具备足够的防守性。这是因为，一旦出现了被替代的可能，行业的投资逻辑也会发生变化。",
+      "totalCount": 1344,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=31&rangeStart=14868&rangeEnd=14943",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=31&rangeStart=14868&rangeEnd=14943"
+    },
+    {
+      "bookmarkId": "3300160461_40_8035-8087",
+      "chapterUid": 40,
+      "range": "8035-8087",
+      "markText": "你对这个世界的所有事实判断的总和构成了你的世界观；而你对这个世界的所有价值判断的总和则构成了你的价值观。",
+      "totalCount": 1314,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=40&rangeStart=8035&rangeEnd=8087",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=40&rangeStart=8035&rangeEnd=8087"
+    },
+    {
+      "bookmarkId": "3300160461_30_4305-4382",
+      "chapterUid": 30,
+      "range": "4305-4382",
+      "markText": "而行业研究要做的，就是帮助我们了解产业链上的每个环节，预判行业的潜在成长空间和未来的竞争格局，把握推动行业发展的底层驱动力，从而更好地判断未来的发展趋势。",
+      "totalCount": 1209,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=30&rangeStart=4305&rangeEnd=4382",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=30&rangeStart=4305&rangeEnd=4382"
+    },
+    {
+      "bookmarkId": "3300160461_30_3968-4016",
+      "chapterUid": 30,
+      "range": "3968-4016",
+      "markText": "从择业的层面来看，选择比努力更重要——选对行业所带来的收益远远高于从“疯狂内卷”中多赚的加班费。",
+      "totalCount": 1199,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=30&rangeStart=3968&rangeEnd=4016",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=30&rangeStart=3968&rangeEnd=4016"
+    },
+    {
+      "bookmarkId": "3300160461_30_2503-2558",
+      "chapterUid": 30,
+      "range": "2503-2558",
+      "markText": "问题解决爱好者：本书涉及大量研究方法论和工具，对于热衷于解决问题的读者而言，应用它们能提升工作效率，事半功倍。",
+      "totalCount": 1168,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=30&rangeStart=2503&rangeEnd=2558",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=30&rangeStart=2503&rangeEnd=2558"
+    },
+    {
+      "bookmarkId": "3300160461_31_2020-2094",
+      "chapterUid": 31,
+      "range": "2020-2094",
+      "markText": "所以我们在谈论“行业”的时候，一定要考虑“颗粒度”的问题，这样才能很好地界定自己要研究的对象。否则，我们在做研究的时候，很容易出现口径不一致的问题。",
+      "totalCount": 1120,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=31&rangeStart=2020&rangeEnd=2094",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=31&rangeStart=2020&rangeEnd=2094"
+    },
+    {
+      "bookmarkId": "3300160461_30_6162-6258",
+      "chapterUid": 30,
+      "range": "6162-6258",
+      "markText": "如果以徒步旅行作为类比，行研框架篇相当于某座山的地图，行研实战篇相当于我作为领队带着你爬了一次山，研究方法篇相当于我把爬山的一些小技巧毫无保留地分享给你，而研究工具篇则是与你分享我的全套工具。",
+      "totalCount": 1050,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=30&rangeStart=6162&rangeEnd=6258",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=30&rangeStart=6162&rangeEnd=6258"
+    },
+    {
+      "bookmarkId": "3300160461_40_436-445",
+      "chapterUid": 40,
+      "range": "436-445",
+      "markText": "研究的本质是什么？",
+      "totalCount": 948,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=40&rangeStart=436&rangeEnd=445",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=40&rangeStart=436&rangeEnd=445"
+    },
+    {
+      "bookmarkId": "3300160461_31_14422-14496",
+      "chapterUid": 31,
+      "range": "14422-14496",
+      "markText": "首先，判断需求是否真实存在；其次，判定盈利是否具有可持续性、商业模式能否大规模复制。如果商业模式不可行，背后只是个伪需求，那么也没什么投资的必要了。",
+      "totalCount": 944,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=31&rangeStart=14422&rangeEnd=14496",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=31&rangeStart=14422&rangeEnd=14496"
+    },
+    {
+      "bookmarkId": "3300160461_31_9190-9252",
+      "chapterUid": 31,
+      "range": "9190-9252",
+      "markText": "成本控制是这个阶段的关键。只有生产规模比较大、能享受到规模经济带来的好处，或具备其他成本优势的企业，才能保持还不错的竞争力。",
+      "totalCount": 935,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=31&rangeStart=9190&rangeEnd=9252",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=31&rangeStart=9190&rangeEnd=9252"
+    },
+    {
+      "bookmarkId": "3300160461_40_1477-1500",
+      "chapterUid": 40,
+      "range": "1477-1500",
+      "markText": "我对马斯克推崇的“第一性原理”思考法深信不疑。",
+      "totalCount": 928,
+      "appLink": "weread://bestbookmark?bookId=3300160461&chapterUid=40&rangeStart=1477&rangeEnd=1500",
+      "webLink": "https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a?chapterUid=40&rangeStart=1477&rangeEnd=1500"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

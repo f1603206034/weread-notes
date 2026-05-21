@@ -1,0 +1,557 @@
+{
+  "meta": {
+    "bookId": "31231654",
+    "title": "中国近代历史的表与里",
+    "author": "石川祯浩",
+    "translator": "袁广泉",
+    "cover": "https://cdn.weread.qq.com/weread/cover/95/YueWen_31231654/t6_YueWen_31231654.jpg",
+    "intro": "本书收入石川祯浩考证中国近代史实的论文15篇，聚焦在两个问题上：一是晚清民初的民族主义思想；二是1920年代的国民革命。作者在大量占有史料的基础上，巧妙提出问题，加以严谨论证，体现了实事求是的治学风格。如对晚清“睡狮”形象的观念溯源，对“黄帝”符号流行的解读，“华人与狗不得入内”告示牌的考证，都经过缜密的考辨，得出了扎实的结论。本书的出版，将有助于推动国内研究，也会引起一般历史爱好者的兴趣。本书尚未出版日文版。所收论文，少数已译为中文发表，此次作者做了重新修订。其他原用日文或英文发表，作者免费授予版权。只需支付译稿费。",
+    "category": "历史-中国近现代",
+    "publisher": "北京大学出版社",
+    "publishTime": "2017-08-01 00:00:00",
+    "isbn": "9787301259726",
+    "wordCount": 0,
+    "newRating": 893,
+    "newRatingCount": 60,
+    "newRatingDetail": {
+      "good": 53,
+      "fair": 7,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 15,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=31231654",
+    "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e",
+    "lastSync": "2026-05-21T11:52:57Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "9dd8e2700f7e50a33f87c92edcdfda259d7094361c964718cceb6588b0c2f4c7"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 572,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "中文版序",
+      "level": 1,
+      "wordCount": 2681,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "一 何谓中国",
+      "level": 1,
+      "wordCount": 14645,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "晚清“睡狮”形象探源",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31231654&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "20世纪初年中国留日学生“黄帝”之再造 ——排满、肖像、西方起源论",
+      "level": 2,
+      "wordCount": 19088,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "“华人与狗不得入内”告示牌问题考",
+      "level": 2,
+      "wordCount": 12483,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "辛亥革命时期的种族主义与中国人类学的兴起",
+      "level": 2,
+      "wordCount": 16889,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "二 东瀛之风",
+      "level": 1,
+      "wordCount": 17775,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "梁启超与文明的视点",
+          "anchor": "bw24",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31231654&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "近代东亚“文明圈”的成立及其共同语言 ——以梁启超的“人种”为中心",
+      "level": 2,
+      "wordCount": 11538,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "梁启超与明治时期日本的地理学研究",
+      "level": 2,
+      "wordCount": 13893,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "李大钊早期思想中的日本因素 ——以茅原华山为例",
+      "level": 2,
+      "wordCount": 15226,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "三 国民革命",
+      "level": 1,
+      "wordCount": 19972,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "走进“信仰”的年代 ——1922年反基督教运动初探",
+          "anchor": "bw48",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31231654&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第一次国共合作的终结与苏联和共产国际 ——所谓“斯大林五月指示”问题",
+      "level": 2,
+      "wordCount": 16789,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "走向农村革命 ——中国共产党的农民运动策略与共产国际",
+      "level": 2,
+      "wordCount": 27297,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "四 史实考据",
+      "level": 1,
+      "wordCount": 29298,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "早期共产国际大会的中国代表（1919-1922）",
+          "anchor": "bw71",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31231654&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "由考证学走向史料学 ——从中共一大几份资料谈起",
+      "level": 2,
+      "wordCount": 18790,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "中共二大与中共党史研究史",
+      "level": 2,
+      "wordCount": 25626,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "孙中山致苏联政府遗书",
+      "level": 2,
+      "wordCount": 19492,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "参考文献",
+      "level": 1,
+      "wordCount": 29253,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "人名索引",
+      "level": 1,
+      "wordCount": 7714,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "事项索引",
+      "level": 1,
+      "wordCount": 2681,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "书名、刊名、著作索引",
+      "level": 1,
+      "wordCount": 2669,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31231654&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=22"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 3,
+      "chapterTitle": "中文版序",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "31231654_3_2114-2180",
+          "range": "2114-2180",
+          "rangeStart": 2114,
+          "rangeEnd": 2180,
+          "markText": "对共产国际这一国际革命组织的依附以及来自苏联的影响，曾在长时间内对中国革命运动形成束缚和桎梏。而这无疑是另一形态的“半殖民地”现象。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1738833246,
+          "createTimeFormatted": "2025-02-06 17:14:06",
+          "chapterUid": 3,
+          "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=3&rangeStart=2114&rangeEnd=2180",
+          "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=3&rangeStart=2114&rangeEnd=2180"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7XL8lKaky",
+          "range": "2115-2119",
+          "chapterName": "",
+          "content": "ɡònɡ chǎn ɡuó jì\n（CommunistInternational）亦称“第三国际”。全世界共产党和共产主义组织的国际联合组织。第一次世界大战爆发后，第二国际陷于破产，列宁为团结各国的革命左派、建立共产国际进行了一系列工作。1919年3月2日于莫斯科召开有30个国家的工人政党和组织代表参加的国际共产主义代表大会，通过了《告全世界无产者》的宣言、《共产国际行动纲领》和《关于资产阶级民主和无产阶级专政的提纲》，宣告共产国际成立。其任务是宣传马克思主义，团结各国工人阶级和广大劳动群众，为推翻帝国主义和资本主义统治，建立无产阶级专政，消灭剥削制度而斗争。总部设在莫斯科。凡参加共产国际的各国共产党都是它的支部。以后随着国际共产主义运动的发展，原有组织形式不能适应新形势的要求，经各国共产党一致同意，于1943年6月正式解散。",
+          "abstract": "共产国际",
+          "star": -1,
+          "createTime": 1738833263,
+          "createTimeFormatted": "2025-02-06 17:14:23",
+          "isFinish": false,
+          "chapterUid": 3
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "31231654_3_2114-2180",
+      "chapterUid": 3,
+      "range": "2114-2180",
+      "markText": "对共产国际这一国际革命组织的依附以及来自苏联的影响，曾在长时间内对中国革命运动形成束缚和桎梏。而这无疑是另一形态的“半殖民地”现象。",
+      "totalCount": 52,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=3&rangeStart=2114&rangeEnd=2180",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=3&rangeStart=2114&rangeEnd=2180"
+    },
+    {
+      "bookmarkId": "31231654_6_12124-12193",
+      "chapterUid": 6,
+      "range": "12124-12193",
+      "markText": "然而从杨闇公和后藤的经历看，身为中国人或身着中国服装似皆非入园受阻的理由。毋宁说，穿中国服装的中国人，在一定的情况下也是有可能进入公园的。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=6&rangeStart=12124&rangeEnd=12193",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=6&rangeStart=12124&rangeEnd=12193"
+    },
+    {
+      "bookmarkId": "31231654_3_1832-1885",
+      "chapterUid": 3,
+      "range": "1832-1885",
+      "markText": "近代中国社会在经济、政治方面深受外国影响，唯独其文化、思想却得以幸免（或不存在对外依附），显然是不可能的。",
+      "totalCount": 42,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=3&rangeStart=1832&rangeEnd=1885",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=3&rangeStart=1832&rangeEnd=1885"
+    },
+    {
+      "bookmarkId": "31231654_17_15046-15124",
+      "chapterUid": 17,
+      "range": "15046-15124",
+      "markText": "李达作为中华人民共和国成立后留在大陆的唯一一个一大、二大两次大会的代表，在1949年申请入党后，曾多次被询问早期大会的状况，包括采访记录在内，留下不少回忆录",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=17&rangeStart=15046&rangeEnd=15124",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=17&rangeStart=15046&rangeEnd=15124"
+    },
+    {
+      "bookmarkId": "31231654_6_1677-1733",
+      "chapterUid": 6,
+      "range": "1677-1733",
+      "markText": "上海的这些报纸都异口同声地强调“华人与狗不得入内”的告示牌是确实存在的，并以强硬语气声称，不能容许谬误的历史观。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=6&rangeStart=1677&rangeEnd=1733",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=6&rangeStart=1677&rangeEnd=1733"
+    },
+    {
+      "bookmarkId": "31231654_17_16903-16959",
+      "chapterUid": 17,
+      "range": "16903-16959",
+      "markText": "此次大会为回顾党组织的历史，曾整理出一份正式统计，对中共历次大会的代表人数和姓名以及当时的党员人数做了重新统计。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=17&rangeStart=16903&rangeEnd=16959",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=17&rangeStart=16903&rangeEnd=16959"
+    },
+    {
+      "bookmarkId": "31231654_5_19560-19636",
+      "chapterUid": 5,
+      "range": "19560-19636",
+      "markText": "换言之，清末知识分子接受汉族西方起源说，由于其逻辑与承认西方人种在近代世界的优秀和霸权相同，从而通过比拟而得到了作为汉族理应拥有的类似的自尊心和优越感。",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=5&rangeStart=19560&rangeEnd=19636",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=5&rangeStart=19560&rangeEnd=19636"
+    },
+    {
+      "bookmarkId": "31231654_14_21550-21591",
+      "chapterUid": 14,
+      "range": "21550-21591",
+      "markText": "也就是说，对斯大林而言，理论、方针由莫斯科决定，中共去实行即可，而无须思考任何事情",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=14&rangeStart=21550&rangeEnd=21591",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=14&rangeStart=21550&rangeEnd=21591"
+    },
+    {
+      "bookmarkId": "31231654_14_21290-21320",
+      "chapterUid": 14,
+      "range": "21290-21320",
+      "markText": "后世或现在已然明确的事情，当时的人们却并不知道或尚在摸索之中",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=14&rangeStart=21290&rangeEnd=21320",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=14&rangeStart=21290&rangeEnd=21320"
+    },
+    {
+      "bookmarkId": "31231654_15_27869-27922",
+      "chapterUid": 15,
+      "range": "27869-27922",
+      "markText": "正因为会议如此重要，谁出席了什么会议，或者以什么资格出席等，对于中共党员来说，往往比会议决定本身更有意义。",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=15&rangeStart=27869&rangeEnd=27922",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=15&rangeStart=27869&rangeEnd=27922"
+    },
+    {
+      "bookmarkId": "31231654_6_4968-5042",
+      "chapterUid": 6,
+      "range": "4968-5042",
+      "markText": "在研究中，要证明某一现象曾经“有过”并不难，而要证明其“没有”却是很难的。无论积累多少“没有”的间接证据，也并不意味着不存在可以证明“有过”的证据。",
+      "totalCount": 30,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=6&rangeStart=4968&rangeEnd=5042",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=6&rangeStart=4968&rangeEnd=5042"
+    },
+    {
+      "bookmarkId": "31231654_13_13587-13647",
+      "chapterUid": 13,
+      "range": "13587-13647",
+      "markText": "就这样，罗易泄露“指示”，被汪精卫等武汉国民党人渲染成了证实苏联阴谋的晴天霹雳，而斯大林也着力强调罗易作为革命家如何轻率",
+      "totalCount": 30,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=13&rangeStart=13587&rangeEnd=13647",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=13&rangeStart=13587&rangeEnd=13647"
+    },
+    {
+      "bookmarkId": "31231654_15_21652-21705",
+      "chapterUid": 15,
+      "range": "21652-21705",
+      "markText": "虽然陈独秀在中国国内无人不晓，但在他本人即将亲赴的国际共运舞台上，他的名字、他所代表的党，还远远不为人知。",
+      "totalCount": 30,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=15&rangeStart=21652&rangeEnd=21705",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=15&rangeStart=21652&rangeEnd=21705"
+    },
+    {
+      "bookmarkId": "31231654_17_22542-22637",
+      "chapterUid": 17,
+      "range": "22542-22637",
+      "markText": "我们可以看到部分中国党史研究者的弊病，即依据数种文件中最具权威的资料拟制“定论”，其后的研究则对其来龙去脉不予深究，攀附定论而继续炮制论文，这样的过程不断重复，资料的出处也被不断省略和隐匿。",
+      "totalCount": 30,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=17&rangeStart=22542&rangeEnd=22637",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=17&rangeStart=22542&rangeEnd=22637"
+    },
+    {
+      "bookmarkId": "31231654_14_16671-16734",
+      "chapterUid": 14,
+      "range": "16671-16734",
+      "markText": "决议向中共提出了不可能同时实现的两个目标，即在维持与国民党合作的前提下，摸索如何确立无产阶级的领导权，如何走向非资本主义道路。",
+      "totalCount": 28,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=14&rangeStart=16671&rangeEnd=16734",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=14&rangeStart=16671&rangeEnd=16734"
+    },
+    {
+      "bookmarkId": "31231654_5_2297-2347",
+      "chapterUid": 5,
+      "range": "2297-2347",
+      "markText": "直到20世纪初叶，排满革命论潮卷全国之时，却突然作为汉族之始祖备受瞩目，大放异彩，重新为世人所乐道。",
+      "totalCount": 26,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=5&rangeStart=2297&rangeEnd=2347",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=5&rangeStart=2297&rangeEnd=2347"
+    },
+    {
+      "bookmarkId": "31231654_14_1234-1316",
+      "chapterUid": 14,
+      "range": "1234-1316",
+      "markText": "基于这一事实，我们须提出如下问题：即所谓农民问题，当初是否曾被作为重大问题来认识。实际上，毛泽东也是在国民革命十多年后才做出中国革命即农村革命、农民革命这一论断的。",
+      "totalCount": 22,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=14&rangeStart=1234&rangeEnd=1316",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=14&rangeStart=1234&rangeEnd=1316"
+    },
+    {
+      "bookmarkId": "31231654_7_11825-11918",
+      "chapterUid": 7,
+      "range": "11825-11918",
+      "markText": "全面赞同人类学的分类法，在逻辑上就意味着对“种族革命论”的降服；因此，改良派不得不另外提出人种分类指标，用以主张“满汉不分论”。他们提出的人种分类是以文化、语言、习俗等后天因素为指标的。",
+      "totalCount": 20,
+      "appLink": "weread://bestbookmark?bookId=31231654&chapterUid=7&rangeStart=11825&rangeEnd=11918",
+      "webLink": "https://weread.qq.com/web/reader/3a2322f071dc8ea63a2853e?chapterUid=7&rangeStart=11825&rangeEnd=11918"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

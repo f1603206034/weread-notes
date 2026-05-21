@@ -1,0 +1,473 @@
+{
+  "meta": {
+    "bookId": "22624397",
+    "title": "经济学原理 宏观经济学分册 考点归纳、习题详解、考研真题",
+    "author": "圣才考研网",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/21/YueWen_22624397/t6_YueWen_22624397.jpg",
+    "intro": "《经济学原理（宏观经济学分册）考点归纳、习题详解、考研真题》的对应教材为[美]曼昆著、梁小民等译的《经济学原理（宏观经济学分册）》第7版。",
+    "category": "教育学习-考试",
+    "publisher": "化学工业出版社",
+    "publishTime": "2017-09-01 00:00:00",
+    "isbn": "9787122301888",
+    "wordCount": 0,
+    "newRating": 859,
+    "newRatingCount": 127,
+    "newRatingDetail": {
+      "good": 109,
+      "fair": 13,
+      "poor": 5,
+      "recent": 1,
+      "deepV": 11,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=22624397",
+    "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7",
+    "lastSync": "2026-05-21T11:56:01Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 145,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 782,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第23章 一国收入的衡量",
+      "level": 1,
+      "wordCount": 18323,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第24章 生活费用的衡量",
+      "level": 1,
+      "wordCount": 12890,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第25章 生产与增长",
+      "level": 1,
+      "wordCount": 13271,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第26章 储蓄、投资和金融体系",
+      "level": 1,
+      "wordCount": 16906,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第27章 金融学的基本工具",
+      "level": 1,
+      "wordCount": 13110,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第28章 失业",
+      "level": 1,
+      "wordCount": 15514,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第29章 货币制度",
+      "level": 1,
+      "wordCount": 19048,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第30章 货币增长与通货膨胀",
+      "level": 1,
+      "wordCount": 19151,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第31章 开放经济的宏观经济学：基本概念",
+      "level": 1,
+      "wordCount": 15537,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第32章 开放经济的宏观经济理论",
+      "level": 1,
+      "wordCount": 10593,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第33章 总需求与总供给",
+      "level": 1,
+      "wordCount": 17830,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第34章 货币政策和财政政策对总需求的影响",
+      "level": 1,
+      "wordCount": 17203,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第35章 通货膨胀与失业之间的短期",
+      "level": 1,
+      "wordCount": 14704,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第36章 宏观经济政策的六个争论问题",
+      "level": 1,
+      "wordCount": 13398,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22624397&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=17"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "第25章 生产与增长",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "22624397_6_16035-16123",
+          "range": "16035-16123",
+          "rangeStart": 16035,
+          "rangeEnd": 16123,
+          "markText": "有机会获得良好教育和合意就业的女性倾向于要孩子的数量少于那些在家庭外工作机会少的女性。因此，促进平等对待女性的政策是发展中国家降低人口增长率，也许还是提高其生活水平的一种方法。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1725943558,
+          "createTimeFormatted": "2024-09-10 12:45:58",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=6&rangeStart=16035&rangeEnd=16123",
+          "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=6&rangeStart=16035&rangeEnd=16123"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "22624397_4_790-809",
+      "chapterUid": 4,
+      "range": "790-809",
+      "markText": "在一国的宏观经济中，收入必定等于支出。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=4&rangeStart=790&rangeEnd=809",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=4&rangeStart=790&rangeEnd=809"
+    },
+    {
+      "bookmarkId": "22624397_4_2036-2056",
+      "chapterUid": 4,
+      "range": "2036-2056",
+      "markText": "真实GDP=名义GDP÷GDP平减指数。",
+      "totalCount": 98,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=4&rangeStart=2036&rangeEnd=2056",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=4&rangeStart=2036&rangeEnd=2056"
+    },
+    {
+      "bookmarkId": "22624397_4_15405-15478",
+      "chapterUid": 4,
+      "range": "15405-15478",
+      "markText": "名义GDP是按现期价格评价的物品与服务的生产，价格下降会导致名义GDP的下降，因此名义GDP在真实GDP的基础上下降10％，结果基本没有发生变化。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=4&rangeStart=15405&rangeEnd=15478",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=4&rangeStart=15405&rangeEnd=15478"
+    },
+    {
+      "bookmarkId": "22624397_4_1285-1340",
+      "chapterUid": 4,
+      "range": "1285-1340",
+      "markText": "④净出口：等于国内生产并销售到国外的物品与服务的价值（出口）减国外生产并在国内销售的物品与服务的价值（进口）。",
+      "totalCount": 65,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=4&rangeStart=1285&rangeEnd=1340",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=4&rangeStart=1285&rangeEnd=1340"
+    },
+    {
+      "bookmarkId": "22624397_4_1621-1656",
+      "chapterUid": 4,
+      "range": "1621-1656",
+      "markText": "GDP是流量而不是存量，是计算期内（如2012年）生产的最终产品价值。",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=4&rangeStart=1621&rangeEnd=1656",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=4&rangeStart=1621&rangeEnd=1656"
+    },
+    {
+      "bookmarkId": "22624397_13_16124-16184",
+      "chapterUid": 13,
+      "range": "16124-16184",
+      "markText": "如果美国的出口对真实汇率的弹性极低，外汇市场上的美元需求曲线就十分陡峭，美元供给的增加引起外汇市场上真实汇率的大幅度上升",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=13&rangeStart=16124&rangeEnd=16184",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=13&rangeStart=16124&rangeEnd=16184"
+    },
+    {
+      "bookmarkId": "22624397_4_991-1033",
+      "chapterUid": 4,
+      "range": "991-1033",
+      "markText": "国内生产总值（GDP）指在某一既定时期一个国家内生产的所有最终物品与服务的市场价值。",
+      "totalCount": 50,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=4&rangeStart=991&rangeEnd=1033",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=4&rangeStart=991&rangeEnd=1033"
+    },
+    {
+      "bookmarkId": "22624397_4_1913-1996",
+      "chapterUid": 4,
+      "range": "1913-1996",
+      "markText": "名义GDP（或货币GDP）是用生产物品和服务的当年价格计算的全部最终产品的市场价值。真实GDP是指用从前某一年的价格作为基期价格计算出来的当年全部最终产品的市场价值。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=4&rangeStart=1913&rangeEnd=1996",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=4&rangeStart=1913&rangeEnd=1996"
+    },
+    {
+      "bookmarkId": "22624397_4_5563-5599",
+      "chapterUid": 4,
+      "range": "5563-5599",
+      "markText": "消费指除了购买新住房，家庭用于物品和劳务的支出，是GDP的重要组成部分。",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=4&rangeStart=5563&rangeEnd=5599",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=4&rangeStart=5563&rangeEnd=5599"
+    },
+    {
+      "bookmarkId": "22624397_4_1747-1789",
+      "chapterUid": 4,
+      "range": "1747-1789",
+      "markText": "GDP一般仅指市场活动导致的价值。家务劳动、自给自足生产等非市场活动不计入GDP中。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=4&rangeStart=1747&rangeEnd=1789",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=4&rangeStart=1747&rangeEnd=1789"
+    },
+    {
+      "bookmarkId": "22624397_4_13835-13857",
+      "chapterUid": 4,
+      "range": "13835-13857",
+      "markText": "联邦政府向一个美国老年人送去一张社会保障支票",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=4&rangeStart=13835&rangeEnd=13857",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=4&rangeStart=13835&rangeEnd=13857"
+    },
+    {
+      "bookmarkId": "22624397_5_5580-5610",
+      "chapterUid": 5,
+      "range": "5580-5610",
+      "markText": "陈述使消费物价指数成为生活费用的一个不完美衡量指标的三个问题",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=5&rangeStart=5580&rangeEnd=5610",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=5&rangeStart=5580&rangeEnd=5610"
+    },
+    {
+      "bookmarkId": "22624397_5_8907-8987",
+      "chapterUid": 5,
+      "range": "8907-8987",
+      "markText": "枪支是卖给美国军队的而不是宾西法尼亚州消费者的，因此CPI不变。 ",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=5&rangeStart=8907&rangeEnd=8987",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=5&rangeStart=8907&rangeEnd=8987"
+    },
+    {
+      "bookmarkId": "22624397_6_16035-16123",
+      "chapterUid": 6,
+      "range": "16035-16123",
+      "markText": "有机会获得良好教育和合意就业的女性倾向于要孩子的数量少于那些在家庭外工作机会少的女性。因此，促进平等对待女性的政策是发展中国家降低人口增长率，也许还是提高其生活水平的一种方法。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=6&rangeStart=16035&rangeEnd=16123",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=6&rangeStart=16035&rangeEnd=16123"
+    },
+    {
+      "bookmarkId": "22624397_10_30404-30414",
+      "chapterUid": 10,
+      "range": "30404-30414",
+      "markText": "准备金不会发生变动。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=10&rangeStart=30404&rangeEnd=30414",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=10&rangeStart=30404&rangeEnd=30414"
+    },
+    {
+      "bookmarkId": "22624397_4_3425-3441",
+      "chapterUid": 4,
+      "range": "3425-3441",
+      "markText": "GDP并不是衡量福利的完美指标。",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=4&rangeStart=3425&rangeEnd=3441",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=4&rangeStart=3425&rangeEnd=3441"
+    },
+    {
+      "bookmarkId": "22624397_13_15952-15975",
+      "chapterUid": 13,
+      "range": "15952-15975",
+      "markText": "因此这种私人储蓄增加对美国国内投资的影响不大。",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=13&rangeStart=15952&rangeEnd=15975",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=13&rangeStart=15952&rangeEnd=15975"
+    },
+    {
+      "bookmarkId": "22624397_6_14967-15046",
+      "chapterUid": 6,
+      "range": "14967-15046",
+      "markText": "当一个国家的国民相对于其工作而言，接受的教育程度过高就会导致人力资本过度投资。譬如拥有博士学位的人获得的最好工作只能是经营一家餐厅，这是就是人力资本投资过度。",
+      "totalCount": 33,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=6&rangeStart=14967&rangeEnd=15046",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=6&rangeStart=14967&rangeEnd=15046"
+    },
+    {
+      "bookmarkId": "22624397_7_7382-7417",
+      "chapterUid": 7,
+      "range": "7382-7417",
+      "markText": "共同基金指一个向公众出售股份，并用收入来购买股票与债券资产组合的机构。",
+      "totalCount": 33,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=7&rangeStart=7382&rangeEnd=7417",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=7&rangeStart=7382&rangeEnd=7417"
+    },
+    {
+      "bookmarkId": "22624397_5_3626-3655",
+      "chapterUid": 5,
+      "range": "3626-3655",
+      "markText": "生产物价指数指企业购买的一篮子物品与劳务的费用的衡量指标。",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=22624397&chapterUid=5&rangeStart=3626&rangeEnd=3655",
+      "webLink": "https://weread.qq.com/web/reader/edd321407159388dedd85d7?chapterUid=5&rangeStart=3626&rangeEnd=3655"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 3,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": 1763362110,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

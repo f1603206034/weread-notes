@@ -1,0 +1,634 @@
+{
+  "meta": {
+    "bookId": "3300079872",
+    "title": "理解人性（专家伴读版）",
+    "author": "阿尔弗雷德·阿德勒",
+    "translator": "尤琪",
+    "cover": "https://cdn.weread.qq.com/weread/cover/16/cpplatform_nyk7ssysjklnsbqrgfcbgv/t6_cpplatform_nyk7ssysjklnsbqrgfcbgv1701240975.jpg",
+    "intro": "经典心理学识人术，3招看透人心！\n恋爱2年，没想到恋人突然背叛我；\n工作3年，没想到同事突然背刺我；\n交友5年，没想到朋友居然欺骗我。\n识人不清带来太多伤害，阿德勒带你看透“人”的内心。\n本书是心理学大师阿德勒的代表作，以真人案例分析为基础，展示阿德勒心理分析的方法， 通俗好读，解答生活、工作、婚恋中所有关于看不准“人”和看不懂“人”的困惑，以期帮助读者能更准确地看人识人，从而理解甚至预判一个人的行为及心理活动。\n阿德勒主要从以下三方面洞察一个人的本性：\n一看人生目的，理解其说话做事的逻辑；\n二看成长环境，明白其追求人生目的的根源与决心；\n三看生活风格，预判其为了达成目的将会如何行动。\n翻开本书，从此看人超准！",
+    "category": "心理-社会心理学",
+    "publisher": "江苏凤凰文艺出版社",
+    "publishTime": "2023-11-01 00:00:00",
+    "isbn": "9787559478429",
+    "wordCount": 0,
+    "newRating": 813,
+    "newRatingCount": 467,
+    "newRatingDetail": {
+      "good": 382,
+      "fair": 64,
+      "poor": 21,
+      "recent": 10,
+      "deepV": 185,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300079872",
+    "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280",
+    "lastSync": "2026-05-21T11:58:27Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 6,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 135,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "文前",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=3"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 4,
+      "title": "三颗钻专家导读 理解人性，在人际关系中获得滋养",
+      "level": 1,
+      "wordCount": 7146,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=39"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "作者序",
+      "level": 1,
+      "wordCount": 560,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=5"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 6,
+      "title": "第一部分 总论",
+      "level": 1,
+      "wordCount": 5072,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "导言",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=26"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 7,
+      "title": "第一章 人类心理",
+      "level": 2,
+      "wordCount": 4764,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 人类心理",
+          "anchor": "bw1a",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 8,
+      "title": "第二章 心理的社会性",
+      "level": 2,
+      "wordCount": 3617,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二章 心理的社会性",
+          "anchor": "bw1a",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 9,
+      "title": "第三章 儿童与社会",
+      "level": 2,
+      "wordCount": 5626,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第三章 儿童与社会",
+          "anchor": "bw1a",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 10,
+      "title": "第四章 对外在世界的印象",
+      "level": 2,
+      "wordCount": 11618,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第四章 对外在世界的印象",
+          "anchor": "bw1a",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 11,
+      "title": "第五章 自卑感和追求认可",
+      "level": 2,
+      "wordCount": 11322,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第五章 自卑感和追求认可",
+          "anchor": "bw1a",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 12,
+      "title": "第六章 对生活的准备",
+      "level": 2,
+      "wordCount": 14232,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第六章 对生活的准备",
+          "anchor": "bw1a",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 13,
+      "title": "第七章 两性关系",
+      "level": 2,
+      "wordCount": 14688,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第七章 两性关系",
+          "anchor": "bw1a",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 14,
+      "title": "第八章 兄弟姐妹",
+      "level": 2,
+      "wordCount": 5054,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第八章 兄弟姐妹",
+          "anchor": "bw1a",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 15,
+      "title": "第二部分 性格理论",
+      "level": 1,
+      "wordCount": 14473,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 概论",
+          "anchor": "bw1a",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 16,
+      "title": "第二章 攻击性的性格",
+      "level": 2,
+      "wordCount": 20483,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二章 攻击性的性格",
+          "anchor": "bw1a",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 17,
+      "title": "第三章 非攻击性的性格",
+      "level": 2,
+      "wordCount": 16745,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第三章 非攻击性的性格",
+          "anchor": "bw1a",
+          "level": 2
+        },
+        {
+          "title": "第四章 性格的其他表现",
+          "anchor": "bw1b",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 18,
+      "title": "第五章 情绪",
+      "level": 2,
+      "wordCount": 6645,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第五章 情绪",
+          "anchor": "bw1a",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=51"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 19,
+      "title": "附录 对教育的一点提示",
+      "level": 1,
+      "wordCount": 2696,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 20,
+      "title": "结语",
+      "level": 1,
+      "wordCount": 635,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 21,
+      "title": "阿尔弗雷德·阿德勒 一位领先时代100年的心理学家",
+      "level": 1,
+      "wordCount": 3510,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 22,
+      "title": "阿德勒著作列表",
+      "level": 1,
+      "wordCount": 1081,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 23,
+      "title": "审校后记",
+      "level": 1,
+      "wordCount": 956,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300079872&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=25"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 40,
+      "chapterTitle": "第一章 人类心理",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300079872_40_836-906",
+          "range": "836-906",
+          "rangeStart": 836,
+          "rangeEnd": 906,
+          "markText": "目的论所相信的是：每一个个体都有自己的人生目的，而个体的所有运动都是由这些目的所引导的。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1717633023,
+          "createTimeFormatted": "2024-06-06 08:17:03",
+          "chapterUid": 40,
+          "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=40&rangeStart=836&rangeEnd=906",
+          "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=40&rangeStart=836&rangeEnd=906"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300079872_39_1573-1666",
+      "chapterUid": 39,
+      "range": "1573-1666",
+      "markText": "一方面，责备父母是一种最安全、代价最小的推卸责任方式。因为当自己不顺的时候，责备自己会降低自尊，而如果责怪领导、同事、朋友、伴侣，则可能会受到对方反击，对自己的工作、生活产生破坏性影响。",
+      "totalCount": 1037,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=39&rangeStart=1573&rangeEnd=1666",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=39&rangeStart=1573&rangeEnd=1666"
+    },
+    {
+      "bookmarkId": "3300079872_39_1820-1896",
+      "chapterUid": 39,
+      "range": "1820-1896",
+      "markText": "由此看来，关键还是要面对自己当下的问题，何必总是纠结于已过去多年且无法改变的事情呢？而且在执着于过去的问题时，我们很可能逃避了自己必须面对的当下的问题。",
+      "totalCount": 910,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=39&rangeStart=1820&rangeEnd=1896",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=39&rangeStart=1820&rangeEnd=1896"
+    },
+    {
+      "bookmarkId": "3300079872_26_5242-5336",
+      "chapterUid": 26,
+      "range": "5242-5336",
+      "markText": "经验是模糊的，人们可能从中得出各种各样的结论。这让我们理解了为什么个体不改变自己的生活模式，而是曲解自己的经历，使之符合自己的生活模式。对人类而言，认识自己、改变自己似乎是最为困难的事情。",
+      "totalCount": 754,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=26&rangeStart=5242&rangeEnd=5336",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=26&rangeStart=5242&rangeEnd=5336"
+    },
+    {
+      "bookmarkId": "3300079872_39_5594-5634",
+      "chapterUid": 39,
+      "range": "5594-5634",
+      "markText": "个体太过执着于社会规范，缺少灵活性，把自己逼到了角落里，以致心理扭曲，引发问题。",
+      "totalCount": 720,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=39&rangeStart=5594&rangeEnd=5634",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=39&rangeStart=5594&rangeEnd=5634"
+    },
+    {
+      "bookmarkId": "3300079872_26_6496-6574",
+      "chapterUid": 26,
+      "range": "6496-6574",
+      "markText": "我们必须承认，克服人生问题的人，那些努力从泥淖中挣脱出来的人，那些发现力量、放弃一切以拯救自己的人，肯定最了解生活的好坏。没有人比得上他们，尤其是那些圣徒。",
+      "totalCount": 705,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=26&rangeStart=6496&rangeEnd=6574",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=26&rangeStart=6496&rangeEnd=6574"
+    },
+    {
+      "bookmarkId": "3300079872_26_4269-4322",
+      "chapterUid": 26,
+      "range": "4269-4322",
+      "markText": "人性科学要求谦虚。不应当草率或不必要地展示自己对人性的了解，这就像一个自大的儿童，吹嘘和显摆自己会的东西。",
+      "totalCount": 688,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=26&rangeStart=4269&rangeEnd=4322",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=26&rangeStart=4269&rangeEnd=4322"
+    },
+    {
+      "bookmarkId": "3300079872_26_474-483",
+      "chapterUid": 26,
+      "range": "474-483",
+      "markText": "人的心理即其命运。",
+      "totalCount": 682,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=26&rangeStart=474&rangeEnd=483",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=26&rangeStart=474&rangeEnd=483"
+    },
+    {
+      "bookmarkId": "3300079872_39_1136-1234",
+      "chapterUid": 39,
+      "range": "1136-1234",
+      "markText": "阿德勒认为个体的任何想法和行为背后都有一个共同的目的，并受目的牵引。个体可能对此是不清楚的，但这并不妨碍这一目的无意识地存在，并影响着个体的行为。所以，要理解一个人的行为，就需要找到这个人的目的。",
+      "totalCount": 650,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=39&rangeStart=1136&rangeEnd=1234",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=39&rangeStart=1136&rangeEnd=1234"
+    },
+    {
+      "bookmarkId": "3300079872_26_7028-7168",
+      "chapterUid": 26,
+      "range": "7028-7168",
+      "markText": "毫无疑问，只要人们拥有力量和动机去认识自己，更加了解自身经历的内容和来源，那么因果关系就会发生改变，过往的经历就会产生截然不同的影响。继而，个体会成功地做出改变，并且保持下去。",
+      "totalCount": 600,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=26&rangeStart=7028&rangeEnd=7168",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=26&rangeStart=7028&rangeEnd=7168"
+    },
+    {
+      "bookmarkId": "3300079872_26_5505-5564",
+      "chapterUid": 26,
+      "range": "5505-5564",
+      "markText": "改变一个人绝非易事，这要求我们拥有一定的谨慎和耐心，特别是必须消除自己的虚荣心，因为他人并没有义务为我们的虚荣心服务。",
+      "totalCount": 560,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=26&rangeStart=5505&rangeEnd=5564",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=26&rangeStart=5505&rangeEnd=5564"
+    },
+    {
+      "bookmarkId": "3300079872_39_2145-2185",
+      "chapterUid": 39,
+      "range": "2145-2185",
+      "markText": "其实，他是出于虚荣而对自己提出了不现实的高期望，由此带来的过高压力使他畏缩不前。",
+      "totalCount": 558,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=39&rangeStart=2145&rangeEnd=2185",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=39&rangeStart=2145&rangeEnd=2185"
+    },
+    {
+      "bookmarkId": "3300079872_39_3844-3857",
+      "chapterUid": 39,
+      "range": "3844-3857",
+      "markText": "阿德勒认为人人都有自卑感。",
+      "totalCount": 544,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=39&rangeStart=3844&rangeEnd=3857",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=39&rangeStart=3844&rangeEnd=3857"
+    },
+    {
+      "bookmarkId": "3300079872_26_4140-4171",
+      "chapterUid": 26,
+      "range": "4140-4171",
+      "markText": "比如在席间展示自己对他人心理的解读能力，是败坏声誉的最佳方法。",
+      "totalCount": 539,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=26&rangeStart=4140&rangeEnd=4171",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=26&rangeStart=4140&rangeEnd=4171"
+    },
+    {
+      "bookmarkId": "3300079872_26_3990-4038",
+      "chapterUid": 26,
+      "range": "3990-4038",
+      "markText": "只有亲身经历过心理困扰或与他人的心理问题产生共情，从而认清人的价值的人，才会真正地想要理解人性。",
+      "totalCount": 520,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=26&rangeStart=3990&rangeEnd=4038",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=26&rangeStart=3990&rangeEnd=4038"
+    },
+    {
+      "bookmarkId": "3300079872_39_7197-7284",
+      "chapterUid": 39,
+      "range": "7197-7284",
+      "markText": "因此人不是在现实生活中与他人建立联系，就是在内心通过幻想、错觉与他人建立联系。人的思考总是对象化的，就像我们睁开眼睛，一定会看到外界的事物，这样就必然产生了主体和客体的关系。",
+      "totalCount": 507,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=39&rangeStart=7197&rangeEnd=7284",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=39&rangeStart=7197&rangeEnd=7284"
+    },
+    {
+      "bookmarkId": "3300079872_39_2384-2403",
+      "chapterUid": 39,
+      "range": "2384-2403",
+      "markText": "阿德勒认为，孩子怕黑是为了控制其他人。",
+      "totalCount": 434,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=39&rangeStart=2384&rangeEnd=2403",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=39&rangeStart=2384&rangeEnd=2403"
+    },
+    {
+      "bookmarkId": "3300079872_26_4422-4505",
+      "chapterUid": 26,
+      "range": "4422-4505",
+      "markText": "最好是保持谨慎，在做出判断之前，我们至少应当对全局有完整的了解，只有确定了这一判断有利于他人，才能得出结论。即使结论是正确的，倘若方法不当，也会给他人造成巨大的伤害。",
+      "totalCount": 425,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=26&rangeStart=4422&rangeEnd=4505",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=26&rangeStart=4422&rangeEnd=4505"
+    },
+    {
+      "bookmarkId": "3300079872_26_1681-1765",
+      "chapterUid": 26,
+      "range": "1681-1765",
+      "markText": "在社会生活中，我们也许会对他人形成错误的评价，其后果可能很晚才显现出来。而到那时，我们通常无法理解其中的关联，只能感慨：识人不明也许会在数十年后导致重大失败，带来厄运。",
+      "totalCount": 416,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=26&rangeStart=1681&rangeEnd=1765",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=26&rangeStart=1681&rangeEnd=1765"
+    },
+    {
+      "bookmarkId": "3300079872_26_1134-1171",
+      "chapterUid": 26,
+      "range": "1134-1171",
+      "markText": "相互理解是人类共同生活的基础，因为对他人的理解决定了个体对他人的整体态度。",
+      "totalCount": 396,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=26&rangeStart=1134&rangeEnd=1171",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=26&rangeStart=1134&rangeEnd=1171"
+    },
+    {
+      "bookmarkId": "3300079872_26_1065-1087",
+      "chapterUid": 26,
+      "range": "1065-1087",
+      "markText": "我们相见交谈，却依然形单影只，因为彼此陌生。",
+      "totalCount": 392,
+      "appLink": "weread://bestbookmark?bookId=3300079872&chapterUid=26&rangeStart=1065&rangeEnd=1087",
+      "webLink": "https://weread.qq.com/web/reader/b1b32c40813ab85b3g012280?chapterUid=26&rangeStart=1065&rangeEnd=1087"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

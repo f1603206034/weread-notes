@@ -1,0 +1,642 @@
+{
+  "meta": {
+    "bookId": "814402",
+    "title": "明史讲义",
+    "author": "孟森",
+    "translator": "",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/402/814402/t6_814402.jpg",
+    "intro": "    《明史讲义》原是孟森先生在北京大学授课时的讲稿，最初为北大内部发给学时使用的教材，后被中华书局等多家书版社整理出版，长期以来被作为各大学的教材使用。全书分两编：第一编总论，为提纲挈领的说明文字；第二编分为开国、靖难、夺门、议礼、万历之荒怠、天崇两朝乱亡之炯鉴、南明之颠沛七部分，对明朝各个时期的史实进行了评述。作者以正史《明史》为基础，以私修史及野史笔记等作为引证，将《明史》中诸多疑问勘正清楚。本书全书内容充实、轮廓清晰、考证翔实，具有极高的学术深度，在明史研究领域有着深远的影响，为现代明史研究的代表作之一。\n",
+    "category": "历史-中国古代",
+    "publisher": "阅文集团",
+    "publishTime": "2016-03-21 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 822,
+    "newRatingCount": 503,
+    "newRatingDetail": {
+      "good": 414,
+      "fair": 83,
+      "poor": 6,
+      "recent": 3,
+      "deepV": 31,
+      "myRating": "",
+      "title": "脍炙人口"
+    },
+    "appLink": "weread://reading?bId=814402",
+    "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2",
+    "lastSync": "2026-05-21T11:48:45Z",
+    "readingProgress": "8%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=814402&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 52,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=814402&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 429,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=814402&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一编 总论",
+      "level": 1,
+      "wordCount": 7,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=814402&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第一章 明史在史学上之位置",
+      "level": 2,
+      "wordCount": 1322,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 明史在史学上之位置",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814402&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第二章 明史体例",
+      "level": 2,
+      "wordCount": 1638,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=814402&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二编 各论",
+      "level": 1,
+      "wordCount": 7,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=814402&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第一章 开国",
+      "level": 2,
+      "wordCount": 44856,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 开国",
+          "anchor": "bw1",
+          "level": 2
+        },
+        {
+          "title": "第一节 太祖起事之前提",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "第二节 太祖起事至洪武建元以前",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "第三节 明开国以后之制度",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "第四节 洪武年中诸大事",
+          "anchor": "bw5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=814402&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第二章 靖难",
+      "level": 2,
+      "wordCount": 31509,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 建文朝事之得失",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "第二节 靖难兵起之事实",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "第三节 靖难后杀戮之惨",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "第四节 靖难以后明运之隆替",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "第五节 靖难两疑案之论定",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "第六节 仁宣两朝大事略述",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "第七节 明代讲学之始",
+          "anchor": "bw7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=814402&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第三章 夺门",
+      "level": 2,
+      "wordCount": 38606,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 正统初政",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "第二节 土木之变",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "第三节 景泰即位后之守御",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "第四节 景泰在位日之功过",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "第五节 夺门",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "第六节 成化朝政局",
+          "anchor": "bw6",
+          "level": 3
+        },
+        {
+          "title": "第七节 弘治朝政局",
+          "anchor": "bw7",
+          "level": 3
+        },
+        {
+          "title": "第八节 英宪孝三朝之学术",
+          "anchor": "bw8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=814402&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第四章 议礼",
+      "level": 2,
+      "wordCount": 47860,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 武宗之失道",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "第二节 议礼",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "第三节 议礼前后之影响",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "第四节 隆庆朝政治",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "第五节 正嘉隆三朝之学术",
+          "anchor": "bw5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=814402&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第五章 万历之荒怠",
+      "level": 2,
+      "wordCount": 25241,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 冲幼之期",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "第二节 醉梦之期",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "第三节 决裂之期",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "第四节 光宗一月之附赘",
+          "anchor": "bw4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=814402&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第六章 天崇两朝乱亡之炯鉴",
+      "level": 2,
+      "wordCount": 36956,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 天启初门户之害",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "第二节 天启朝之阉祸",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "第三节 崇祯致亡之症结",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "第四节 专辩正袁崇焕之诬枉",
+          "anchor": "bw4",
+          "level": 3
+        },
+        {
+          "title": "第五节 崇祯朝之用人",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "第六节 李自成、张献忠及建州兵事",
+          "anchor": "bw6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=814402&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第七章 南明之颠沛",
+      "level": 2,
+      "wordCount": 15542,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 弘光朝事",
+          "anchor": "bw1",
+          "level": 3
+        },
+        {
+          "title": "第二节 隆武朝事 附绍武建号",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "第三节 永历朝事",
+          "anchor": "bw3",
+          "level": 3
+        },
+        {
+          "title": "第四节 鲁监国事",
+          "anchor": "bw4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=814402&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=14"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 8,
+      "chapterTitle": "第一章 开国",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "814402_8_552-597",
+          "range": "552-597",
+          "rangeStart": 552,
+          "rangeEnd": 597,
+          "markText": "中国自三代以后，得国最正者，唯汉与明。匹夫起事，无凭借威柄之嫌；为民除暴，无预窥神器之意。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1758198576,
+          "createTimeFormatted": "2025-09-18 20:29:36",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=814402&chapterUid=8&rangeStart=552&rangeEnd=597",
+          "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=8&rangeStart=552&rangeEnd=597"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "814402_8_552-597",
+      "chapterUid": 8,
+      "range": "552-597",
+      "markText": "中国自三代以后，得国最正者，唯汉与明。匹夫起事，无凭借威柄之嫌；为民除暴，无预窥神器之意。",
+      "totalCount": 962,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=8&rangeStart=552&rangeEnd=597",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=8&rangeStart=552&rangeEnd=597"
+    },
+    {
+      "bookmarkId": "814402_8_3831-3911",
+      "chapterUid": 8,
+      "range": "3831-3911",
+      "markText": "是岁，巴延请杀张、王、刘、李、赵五姓汉人，帝不从。是为宰相起意屠戮汉人，先就人数最多之姓为始。以姓分应杀不应杀，设想已极不道，帝虽不从，此风声已不可令天下闻矣。",
+      "totalCount": 357,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=8&rangeStart=3831&rangeEnd=3911",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=8&rangeStart=3831&rangeEnd=3911"
+    },
+    {
+      "bookmarkId": "814402_6_1047-1116",
+      "chapterUid": 6,
+      "range": "1047-1116",
+      "markText": "宦官无代不能为患，而以明代为极甚。历代宦官与士大夫为对立，士大夫决不与宦官为缘。明代则士大夫之大有作为者，亦往往有宦官为之助而始有以自见。",
+      "totalCount": 338,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=6&rangeStart=1047&rangeEnd=1116",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=6&rangeStart=1047&rangeEnd=1116"
+    },
+    {
+      "bookmarkId": "814402_8_12798-12823",
+      "chapterUid": 8,
+      "range": "12798-12823",
+      "markText": "国之兴亡系于财之丰耗，阜财者，民也；耗财者，军也。",
+      "totalCount": 320,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=8&rangeStart=12798&rangeEnd=12823",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=8&rangeStart=12798&rangeEnd=12823"
+    },
+    {
+      "bookmarkId": "814402_8_2658-2721",
+      "chapterUid": 8,
+      "range": "2658-2721",
+      "markText": "元亦并无经久之兵制，一往用其饥穷为暴、胁众觅食之故技，侵掠万里，既得温饱，即伎俩无复存焉，非若历代军制既定，威令久而后渝者比。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=8&rangeStart=2658&rangeEnd=2721",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=8&rangeStart=2658&rangeEnd=2721"
+    },
+    {
+      "bookmarkId": "814402_9_31810-31890",
+      "chapterUid": 9,
+      "range": "31810-31890",
+      "markText": "一日，帝往西内，熟视高煦锁絷状，高煦出不意伸一足勾上踣地，上大怒，命力士舁三百斤铜缸覆之，煦多力，顶负缸起，积炭缸上如山，燃炭逾时，火炽铜锫，高煦死，诸子皆死。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=9&rangeStart=31810&rangeEnd=31890",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=9&rangeStart=31810&rangeEnd=31890"
+    },
+    {
+      "bookmarkId": "814402_8_1617-1687",
+      "chapterUid": 8,
+      "range": "1617-1687",
+      "markText": "所谓“马上得之，马上治之”。不知礼法刑政为何事。凡历朝享国稍久者，必有一朝之制度。制度渐坏，国祚渐衰。有经久难坏之制度，即有历久始衰之国祚。",
+      "totalCount": 260,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=8&rangeStart=1617&rangeEnd=1687",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=8&rangeStart=1617&rangeEnd=1687"
+    },
+    {
+      "bookmarkId": "814402_8_19486-19579",
+      "chapterUid": 8,
+      "range": "19486-19579",
+      "markText": "洪武十五年五月丙子，广平府吏王允道言：“磁州产铁，元时置官，岁收百余万斤，请如旧。”帝曰：“朕闻王者使天下无遗贤，不闻无遗利。今军器不乏，而民业已定，无益于国，且重扰民。”杖之，流岭南。",
+      "totalCount": 256,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=8&rangeStart=19486&rangeEnd=19579",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=8&rangeStart=19486&rangeEnd=19579"
+    },
+    {
+      "bookmarkId": "814402_8_6749-6774",
+      "chapterUid": 8,
+      "range": "6749-6774",
+      "markText": "三代以下，名为禅让，实乃篡夺，得国唯以革命为正大。",
+      "totalCount": 238,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=8&rangeStart=6749&rangeEnd=6774",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=8&rangeStart=6749&rangeEnd=6774"
+    },
+    {
+      "bookmarkId": "814402_8_813-833",
+      "chapterUid": 8,
+      "range": "813-833",
+      "markText": "清无制作，尽守明之制作，而国祚亦与明相等",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=8&rangeStart=813&rangeEnd=833",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=8&rangeStart=813&rangeEnd=833"
+    },
+    {
+      "bookmarkId": "814402_8_15723-15810",
+      "chapterUid": 8,
+      "range": "15723-15810",
+      "markText": "其中如毁元宫刻漏一事，此亦中国巧艺不发达之原因；但使明祖在今日，亦必以发展科学与世界争长，唯机巧用之于便民卫国要政，若玩好则仍禁之，固两不相悖，决不因物质文明而遂自眩其耳目。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=8&rangeStart=15723&rangeEnd=15810",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=8&rangeStart=15723&rangeEnd=15810"
+    },
+    {
+      "bookmarkId": "814402_8_7227-7284",
+      "chapterUid": 8,
+      "range": "7227-7284",
+      "markText": "高筑墙，则非流转飘忽之劫盗；广积粮，则非妨农旷土随地因粮之饥军，必如此而后可以救离乱；再以缓称王为不窃名号之表示。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=8&rangeStart=7227&rangeEnd=7284",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=8&rangeStart=7227&rangeEnd=7284"
+    },
+    {
+      "bookmarkId": "814402_8_15358-15432",
+      "chapterUid": 8,
+      "range": "15358-15432",
+      "markText": "十月甲午，司天监进元所置水晶刻漏，备极机巧，中设二木偶人，能按时自击钲鼓。上览之，诏侍臣曰：“废万几之务，用心于此，所谓作无益害有益也。”命左右碎之",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=8&rangeStart=15358&rangeEnd=15432",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=8&rangeStart=15358&rangeEnd=15432"
+    },
+    {
+      "bookmarkId": "814402_9_7021-7067",
+      "chapterUid": 9,
+      "range": "7021-7067",
+      "markText": "成祖之成大业，史多夸其为术士所推许，此即行险侥幸者所为，非有他功德可得天下，直由命相致之耳。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=9&rangeStart=7021&rangeEnd=7067",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=9&rangeStart=7021&rangeEnd=7067"
+    },
+    {
+      "bookmarkId": "814402_9_10813-10835",
+      "chapterUid": 9,
+      "range": "10813-10835",
+      "markText": "耿炳文师出，帝诫将士：“毋使朕有杀叔父名。”",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=9&rangeStart=10813&rangeEnd=10835",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=9&rangeStart=10813&rangeEnd=10835"
+    },
+    {
+      "bookmarkId": "814402_10_34254-34312",
+      "chapterUid": 10,
+      "range": "34254-34312",
+      "markText": "自宪宗笼田产以自私，上行下效，悉归豪强，始而就闲旷以为侵占，闲旷既尽，后起之豪强无尽，以渐而蹙及民生。其端盖造于此。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=10&rangeStart=34254&rangeEnd=34312",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=10&rangeStart=34254&rangeEnd=34312"
+    },
+    {
+      "bookmarkId": "814402_5_601-626",
+      "chapterUid": 5,
+      "range": "601-626",
+      "markText": "至唐，始有君主倡始，择人而任以修史之事，谓之敕撰。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=5&rangeStart=601&rangeEnd=626",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=5&rangeStart=601&rangeEnd=626"
+    },
+    {
+      "bookmarkId": "814402_12_2339-2421",
+      "chapterUid": 12,
+      "range": "2339-2421",
+      "markText": "高拱扼徐阶，居正倾高拱，三人皆良相，而恩怨权势之间相轧如此。唯徐阶之倾严嵩，则为世所美。而居正得志以后，则明于治国而昧于治身，其受报亦至酷，遂为万历初期政局之纲领。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=12&rangeStart=2339&rangeEnd=2421",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=12&rangeStart=2339&rangeEnd=2421"
+    },
+    {
+      "bookmarkId": "814402_5_1089-1158",
+      "chapterUid": 5,
+      "range": "1089-1158",
+      "markText": "其实《明史》疏漏，并不止此；间有重复，反为小疵 ，根本之病，在隐没事实，不足传信。此固当时史臣所压于上意，无可如何，亦史学家所不敢指摘者。",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=5&rangeStart=1089&rangeEnd=1158",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=5&rangeStart=1089&rangeEnd=1158"
+    },
+    {
+      "bookmarkId": "814402_9_28441-28471",
+      "chapterUid": 9,
+      "range": "28441-28471",
+      "markText": "叛逆之人，父子间亦以权位为市，高煦之蓄意夺嫡，成祖实诱导之。",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=814402&chapterUid=9&rangeStart=28441&rangeEnd=28471",
+      "webLink": "https://weread.qq.com/web/reader/e9e320905c6d42e9e7809b2?chapterUid=9&rangeStart=28441&rangeEnd=28471"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 6,
+    "chapterOffset": 3408,
+    "progress": 8,
+    "updateTime": 1758198785,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

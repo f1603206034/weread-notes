@@ -1,0 +1,3106 @@
+{
+  "meta": {
+    "bookId": "25031485",
+    "title": "中国通史（上下册）",
+    "author": "傅乐成",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/62/yuewen_25031485/t6_yuewen_250314851679552147.jpg",
+    "intro": "《中国通史》（上下册）上探旧石器时代，下至1912年清帝退位，凡六十余万言。文字浅显易懂，不做繁征博引，叙说清晰，见解持正，数千年中国史事之此伏彼起，重要节点，前因后果，俱在目前。意在使读者对中国历史有一较为清晰而客观的概念。全书重心有四：政治社会的变迁；对外关系；各种制度的演进；学术思想的渊流。所据资料有三：历朝旧史；近代学人的研究成果；作者的读史心得。对所据资料的整理及叙述，力求忠实谨慎，缺乏实证的见解和过分主观的议论，均不予采用。百幅插图，重点在战争地图，方便读者进行深入了解。",
+    "category": "历史-历史读物",
+    "publisher": "贵州教育出版社",
+    "publishTime": "2019-07-01 00:00:00",
+    "isbn": "9787545601237",
+    "wordCount": 0,
+    "newRating": 877,
+    "newRatingCount": 1691,
+    "newRatingDetail": {
+      "good": 1465,
+      "fair": 159,
+      "poor": 67,
+      "recent": 21,
+      "deepV": 297,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=25031485",
+    "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63",
+    "lastSync": "2026-05-21T11:48:15Z",
+    "readingProgress": "70%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 6,
+    "reviewCount": 13,
+    "bookmarkCount": 0,
+    "contentHash": "051b6191e5840ffa0d240396ca569a8bb03922cd99a01f205e88b93c7bde2499"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25031485&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=1"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 120,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25031485&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=74"
+    },
+    {
+      "chapterUid": 110,
+      "chapterIdx": 3,
+      "title": "傅乐成简介",
+      "level": 1,
+      "wordCount": 537,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25031485&chapterUid=110",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=110"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 4,
+      "title": "名家书评",
+      "level": 1,
+      "wordCount": 959,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25031485&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 5,
+      "title": "简体版序",
+      "level": 1,
+      "wordCount": 2270,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25031485&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 6,
+      "title": "自序",
+      "level": 1,
+      "wordCount": 940,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25031485&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 7,
+      "title": "新版自序",
+      "level": 1,
+      "wordCount": 617,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25031485&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=79"
+    },
+    {
+      "chapterUid": 111,
+      "chapterIdx": 8,
+      "title": "第一章 从史前时代到信史时代",
+      "level": 1,
+      "wordCount": 16583,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 旧石器时代的人类",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "（一）北京人",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "（二）河套人",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        },
+        {
+          "title": "（三）山顶洞人",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        },
+        {
+          "title": "二 新石器时代的文化",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "（一）细石器文化",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        },
+        {
+          "title": "（二）彩陶与黑陶文化",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        },
+        {
+          "title": "三 古史的传说时代",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "（一）黄帝",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "（二）尧和舜",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        },
+        {
+          "title": "（三）夏朝的大事",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        },
+        {
+          "title": "四 信史时代的开始（殷商时代）",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        },
+        {
+          "title": "（一）商朝的建立及其兴衰",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        },
+        {
+          "title": "（二）商代的政治和社会",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "（三）商人的生活",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        },
+        {
+          "title": "（四）文字艺术和科学知识",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=111",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=111"
+    },
+    {
+      "chapterUid": 112,
+      "chapterIdx": 9,
+      "title": "第二章 封建帝国的兴衰（西周时代）",
+      "level": 1,
+      "wordCount": 15391,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 周的灭商与封建",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        },
+        {
+          "title": "（一）周人的兴起",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        },
+        {
+          "title": "（二）武王伐纣与初期分封",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        },
+        {
+          "title": "（三）周公东征与重定封国",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "二 封建社会的阶级",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        },
+        {
+          "title": "（一）王室",
+          "anchor": "sigil_toc_id_22",
+          "level": 3
+        },
+        {
+          "title": "（二）诸侯",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "（三）卿大夫",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "（四）士",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        },
+        {
+          "title": "（五）庶人",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        },
+        {
+          "title": "（六）奴隶",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        },
+        {
+          "title": "三 家族制度和宗教信仰",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        },
+        {
+          "title": "（一）宗法",
+          "anchor": "sigil_toc_id_29",
+          "level": 3
+        },
+        {
+          "title": "（二）婚姻",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        },
+        {
+          "title": "（三）宗教",
+          "anchor": "sigil_toc_id_31",
+          "level": 3
+        },
+        {
+          "title": "四 外患与东迁",
+          "anchor": "sigil_toc_id_32",
+          "level": 2
+        },
+        {
+          "title": "（一）周室的衰落",
+          "anchor": "sigil_toc_id_33",
+          "level": 3
+        },
+        {
+          "title": "（二）西周的外患",
+          "anchor": "sigil_toc_id_34",
+          "level": 3
+        },
+        {
+          "title": "（三）平王的东迁",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=112",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=112"
+    },
+    {
+      "chapterUid": 113,
+      "chapterIdx": 10,
+      "title": "第三章 春秋时代与战国时代",
+      "level": 1,
+      "wordCount": 22575,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 春秋战国的分期",
+          "anchor": "sigil_toc_id_36",
+          "level": 2
+        },
+        {
+          "title": "（一）分期的商榷",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        },
+        {
+          "title": "（二）分期的必要",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "二 春秋诸侯的争霸",
+          "anchor": "sigil_toc_id_39",
+          "level": 2
+        },
+        {
+          "title": "（一）春秋初期的国际局势",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        },
+        {
+          "title": "（二）齐桓公的称霸",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        },
+        {
+          "title": "（三）晋文公的继起（附宋）",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        },
+        {
+          "title": "（四）晋秦楚的角逐",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        },
+        {
+          "title": "（五）吴越的崛兴",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        },
+        {
+          "title": "三 春秋各诸侯国的内乱",
+          "anchor": "sigil_toc_id_45",
+          "level": 2
+        },
+        {
+          "title": "（一）鲁国的三桓",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        },
+        {
+          "title": "（二）晋国的六卿",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "（三）齐国的田氏",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "四 战国七雄的争衡",
+          "anchor": "sigil_toc_id_49",
+          "level": 2
+        },
+        {
+          "title": "（一）魏齐的迭盛",
+          "anchor": "sigil_toc_id_50",
+          "level": 3
+        },
+        {
+          "title": "（二）秦国的强大",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        },
+        {
+          "title": "（三）楚赵的拒秦",
+          "anchor": "sigil_toc_id_52",
+          "level": 3
+        },
+        {
+          "title": "五 秦国的统一",
+          "anchor": "sigil_toc_id_53",
+          "level": 2
+        },
+        {
+          "title": "（一）昭襄王的大张挞伐",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        },
+        {
+          "title": "（二）秦王政的并吞六国",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=113",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=113"
+    },
+    {
+      "chapterUid": 114,
+      "chapterIdx": 11,
+      "title": "第四章 春秋战国时代的学术思想",
+      "level": 1,
+      "wordCount": 19966,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 春秋战国的学术环境",
+          "anchor": "sigil_toc_id_56",
+          "level": 2
+        },
+        {
+          "title": "（一）诸家并兴的原因",
+          "anchor": "sigil_toc_id_57",
+          "level": 3
+        },
+        {
+          "title": "（二）诸家的起源",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        },
+        {
+          "title": "二 孔子与儒家",
+          "anchor": "sigil_toc_id_59",
+          "level": 2
+        },
+        {
+          "title": "（一）孔子的生平",
+          "anchor": "sigil_toc_id_60",
+          "level": 3
+        },
+        {
+          "title": "（二）孔子的人格修养",
+          "anchor": "sigil_toc_id_61",
+          "level": 3
+        },
+        {
+          "title": "（三）孔子的政治理想",
+          "anchor": "sigil_toc_id_62",
+          "level": 3
+        },
+        {
+          "title": "（四）孔子与教育",
+          "anchor": "sigil_toc_id_63",
+          "level": 3
+        },
+        {
+          "title": "（五）战国时代的儒家",
+          "anchor": "sigil_toc_id_64",
+          "level": 3
+        },
+        {
+          "title": "三 道家",
+          "anchor": "sigil_toc_id_65",
+          "level": 2
+        },
+        {
+          "title": "（一）老子",
+          "anchor": "sigil_toc_id_66",
+          "level": 3
+        },
+        {
+          "title": "（二）庄子",
+          "anchor": "sigil_toc_id_67",
+          "level": 3
+        },
+        {
+          "title": "四 墨家（墨子）",
+          "anchor": "sigil_toc_id_68",
+          "level": 2
+        },
+        {
+          "title": "（一）墨子的身世和墨家的组织",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        },
+        {
+          "title": "（二）墨子的反儒",
+          "anchor": "sigil_toc_id_70",
+          "level": 3
+        },
+        {
+          "title": "（三）墨子的思想",
+          "anchor": "sigil_toc_id_71",
+          "level": 3
+        },
+        {
+          "title": "五 法家",
+          "anchor": "sigil_toc_id_72",
+          "level": 2
+        },
+        {
+          "title": "（一）法家的流派",
+          "anchor": "sigil_toc_id_73",
+          "level": 3
+        },
+        {
+          "title": "（二）韩非的学说",
+          "anchor": "sigil_toc_id_74",
+          "level": 3
+        },
+        {
+          "title": "六 阴阳家",
+          "anchor": "sigil_toc_id_75",
+          "level": 2
+        },
+        {
+          "title": "（一）阴阳家的兴起",
+          "anchor": "sigil_toc_id_76",
+          "level": 3
+        },
+        {
+          "title": "（二）邹衍的学说",
+          "anchor": "sigil_toc_id_77",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=114",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=114"
+    },
+    {
+      "chapterUid": 115,
+      "chapterIdx": 12,
+      "title": "第五章 集权帝国的发展与倾覆",
+      "level": 1,
+      "wordCount": 17341,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 秦始皇的事业",
+          "anchor": "sigil_toc_id_78",
+          "level": 2
+        },
+        {
+          "title": "（一）始皇的为人",
+          "anchor": "sigil_toc_id_79",
+          "level": 3
+        },
+        {
+          "title": "（二）对内的措施",
+          "anchor": "sigil_toc_id_80",
+          "level": 3
+        },
+        {
+          "title": "（三）对外的战争",
+          "anchor": "sigil_toc_id_81",
+          "level": 3
+        },
+        {
+          "title": "二 政府与军队",
+          "anchor": "sigil_toc_id_82",
+          "level": 2
+        },
+        {
+          "title": "（一）中央政府的组织",
+          "anchor": "sigil_toc_id_83",
+          "level": 3
+        },
+        {
+          "title": "（二）地方官制",
+          "anchor": "sigil_toc_id_84",
+          "level": 3
+        },
+        {
+          "title": "（三）兵役与爵赏",
+          "anchor": "sigil_toc_id_85",
+          "level": 3
+        },
+        {
+          "title": "三 秦的灭亡与汉的代兴",
+          "anchor": "sigil_toc_id_86",
+          "level": 2
+        },
+        {
+          "title": "（一）二世即位与陈胜发难",
+          "anchor": "sigil_toc_id_87",
+          "level": 3
+        },
+        {
+          "title": "（二）巨鹿之战与刘邦入关",
+          "anchor": "sigil_toc_id_88",
+          "level": 3
+        },
+        {
+          "title": "（三）项羽分封与楚汉战争",
+          "anchor": "sigil_toc_id_89",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=115",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=115"
+    },
+    {
+      "chapterUid": 116,
+      "chapterIdx": 13,
+      "title": "第六章 汉帝国的盛世",
+      "level": 1,
+      "wordCount": 26277,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 汉初的封建及无为政治",
+          "anchor": "sigil_toc_id_90",
+          "level": 2
+        },
+        {
+          "title": "（一）高祖的封建",
+          "anchor": "sigil_toc_id_91",
+          "level": 3
+        },
+        {
+          "title": "（二）吕后握政与诸吕事件",
+          "anchor": "sigil_toc_id_92",
+          "level": 3
+        },
+        {
+          "title": "二 文景之治",
+          "anchor": "sigil_toc_id_93",
+          "level": 2
+        },
+        {
+          "title": "（一）文帝时代的政局",
+          "anchor": "sigil_toc_id_94",
+          "level": 3
+        },
+        {
+          "title": "（二）贾谊的改革建议",
+          "anchor": "sigil_toc_id_95",
+          "level": 3
+        },
+        {
+          "title": "（三）晁错的削地政策",
+          "anchor": "sigil_toc_id_96",
+          "level": 3
+        },
+        {
+          "title": "三 武昭宣时代",
+          "anchor": "sigil_toc_id_97",
+          "level": 2
+        },
+        {
+          "title": "（一）武帝的新政",
+          "anchor": "sigil_toc_id_98",
+          "level": 3
+        },
+        {
+          "title": "（二）武帝的晚年",
+          "anchor": "sigil_toc_id_99",
+          "level": 3
+        },
+        {
+          "title": "（三）昭宣时代的承平",
+          "anchor": "sigil_toc_id_100",
+          "level": 3
+        },
+        {
+          "title": "四 外戚政治与王莽篡位",
+          "anchor": "sigil_toc_id_101",
+          "level": 2
+        },
+        {
+          "title": "（一）外戚王氏的兴起",
+          "anchor": "sigil_toc_id_102",
+          "level": 3
+        },
+        {
+          "title": "（二）王莽的辅政与篡位",
+          "anchor": "sigil_toc_id_103",
+          "level": 3
+        },
+        {
+          "title": "（三）王莽的改制与灭亡",
+          "anchor": "sigil_toc_id_104",
+          "level": 3
+        },
+        {
+          "title": "五 东汉的建立及其初期政治",
+          "anchor": "sigil_toc_id_105",
+          "level": 2
+        },
+        {
+          "title": "（一）光武的统一",
+          "anchor": "sigil_toc_id_106",
+          "level": 3
+        },
+        {
+          "title": "（二）光武的治术",
+          "anchor": "sigil_toc_id_107",
+          "level": 3
+        },
+        {
+          "title": "（三）明章的政绩",
+          "anchor": "sigil_toc_id_108",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=116",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=116"
+    },
+    {
+      "chapterUid": 117,
+      "chapterIdx": 14,
+      "title": "第七章 汉代的武功",
+      "level": 1,
+      "wordCount": 23080,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 匈奴的讨伐",
+          "anchor": "sigil_toc_id_109",
+          "level": 2
+        },
+        {
+          "title": "（一）汉初与匈奴的和亲",
+          "anchor": "sigil_toc_id_110",
+          "level": 3
+        },
+        {
+          "title": "（二）武帝的北伐",
+          "anchor": "sigil_toc_id_111",
+          "level": 3
+        },
+        {
+          "title": "（三）匈奴的称臣",
+          "anchor": "sigil_toc_id_112",
+          "level": 3
+        },
+        {
+          "title": "（四）东汉的再伐匈奴",
+          "anchor": "sigil_toc_id_113",
+          "level": 3
+        },
+        {
+          "title": "二 南徼的开辟",
+          "anchor": "sigil_toc_id_114",
+          "level": 2
+        },
+        {
+          "title": "（一）东瓯、两越的平定",
+          "anchor": "sigil_toc_id_115",
+          "level": 3
+        },
+        {
+          "title": "（二）西南的拓展",
+          "anchor": "sigil_toc_id_116",
+          "level": 3
+        },
+        {
+          "title": "三 东北的经略",
+          "anchor": "sigil_toc_id_117",
+          "level": 2
+        },
+        {
+          "title": "（一）朝鲜的征服",
+          "anchor": "sigil_toc_id_118",
+          "level": 3
+        },
+        {
+          "title": "（二）倭奴的来朝",
+          "anchor": "sigil_toc_id_119",
+          "level": 3
+        },
+        {
+          "title": "（三）乌桓、鲜卑的归附",
+          "anchor": "sigil_toc_id_120",
+          "level": 3
+        },
+        {
+          "title": "四 西域西羌的平服",
+          "anchor": "sigil_toc_id_121",
+          "level": 2
+        },
+        {
+          "title": "（一）西汉的初通西域",
+          "anchor": "sigil_toc_id_122",
+          "level": 3
+        },
+        {
+          "title": "（二）西域霸权的争夺",
+          "anchor": "sigil_toc_id_123",
+          "level": 3
+        },
+        {
+          "title": "（三）东汉西域的通绝",
+          "anchor": "sigil_toc_id_124",
+          "level": 3
+        },
+        {
+          "title": "（四）西域与中西文化的交流",
+          "anchor": "sigil_toc_id_125",
+          "level": 3
+        },
+        {
+          "title": "（五）西羌的叛降",
+          "anchor": "sigil_toc_id_126",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=117",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=117"
+    },
+    {
+      "chapterUid": 118,
+      "chapterIdx": 15,
+      "title": "第八章 汉的制度与学术",
+      "level": 1,
+      "wordCount": 22475,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 中央官制",
+          "anchor": "sigil_toc_id_127",
+          "level": 2
+        },
+        {
+          "title": "（一）汉初的丞相制",
+          "anchor": "sigil_toc_id_128",
+          "level": 3
+        },
+        {
+          "title": "（二）内朝的产生",
+          "anchor": "sigil_toc_id_129",
+          "level": 3
+        },
+        {
+          "title": "（三）尚书权力的发展",
+          "anchor": "sigil_toc_id_130",
+          "level": 3
+        },
+        {
+          "title": "二 地方政府",
+          "anchor": "sigil_toc_id_131",
+          "level": 2
+        },
+        {
+          "title": "（一）郡国的政府组织",
+          "anchor": "sigil_toc_id_132",
+          "level": 3
+        },
+        {
+          "title": "（二）刺史制度的演变",
+          "anchor": "sigil_toc_id_133",
+          "level": 3
+        },
+        {
+          "title": "三 兵制",
+          "anchor": "sigil_toc_id_134",
+          "level": 2
+        },
+        {
+          "title": "（一）征兵法",
+          "anchor": "sigil_toc_id_135",
+          "level": 3
+        },
+        {
+          "title": "（二）编制与调发",
+          "anchor": "sigil_toc_id_136",
+          "level": 3
+        },
+        {
+          "title": "（三）募兵的兴起",
+          "anchor": "sigil_toc_id_137",
+          "level": 3
+        },
+        {
+          "title": "四 财经制度",
+          "anchor": "sigil_toc_id_138",
+          "level": 2
+        },
+        {
+          "title": "（一）常赋",
+          "anchor": "sigil_toc_id_139",
+          "level": 3
+        },
+        {
+          "title": "（二）杂税和国营事业",
+          "anchor": "sigil_toc_id_140",
+          "level": 3
+        },
+        {
+          "title": "五 法律",
+          "anchor": "sigil_toc_id_141",
+          "level": 2
+        },
+        {
+          "title": "（一）法典与司法机关",
+          "anchor": "sigil_toc_id_142",
+          "level": 3
+        },
+        {
+          "title": "（二）刑法总则",
+          "anchor": "sigil_toc_id_143",
+          "level": 3
+        },
+        {
+          "title": "六 学校与选举",
+          "anchor": "sigil_toc_id_144",
+          "level": 2
+        },
+        {
+          "title": "（一）太学的建立与扩充",
+          "anchor": "sigil_toc_id_145",
+          "level": 3
+        },
+        {
+          "title": "（二）选举制度的推行",
+          "anchor": "sigil_toc_id_146",
+          "level": 3
+        },
+        {
+          "title": "七 学术思想",
+          "anchor": "sigil_toc_id_147",
+          "level": 2
+        },
+        {
+          "title": "（一）汉初的学术概况",
+          "anchor": "sigil_toc_id_148",
+          "level": 3
+        },
+        {
+          "title": "（二）经学的派别",
+          "anchor": "sigil_toc_id_149",
+          "level": 3
+        },
+        {
+          "title": "（三）黄老思想与道教会",
+          "anchor": "sigil_toc_id_150",
+          "level": 3
+        },
+        {
+          "title": "（四）文学与史学",
+          "anchor": "sigil_toc_id_151",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=118",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=118"
+    },
+    {
+      "chapterUid": 119,
+      "chapterIdx": 16,
+      "title": "第九章 汉的衰亡与三国的分合",
+      "level": 1,
+      "wordCount": 24080,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 汉帝国的瓦解",
+          "anchor": "sigil_toc_id_152",
+          "level": 2
+        },
+        {
+          "title": "（一）外戚宦官的斗争",
+          "anchor": "sigil_toc_id_153",
+          "level": 3
+        },
+        {
+          "title": "（二）党锢之祸与黄巾之乱",
+          "anchor": "sigil_toc_id_154",
+          "level": 3
+        },
+        {
+          "title": "（三）边患之炽盛",
+          "anchor": "sigil_toc_id_155",
+          "level": 3
+        },
+        {
+          "title": "（四）军阀的称兵与割据",
+          "anchor": "sigil_toc_id_156",
+          "level": 3
+        },
+        {
+          "title": "二 三国的建立",
+          "anchor": "sigil_toc_id_157",
+          "level": 2
+        },
+        {
+          "title": "（一）曹操的统一北方",
+          "anchor": "sigil_toc_id_158",
+          "level": 3
+        },
+        {
+          "title": "（二）孙氏拓地与刘备入蜀",
+          "anchor": "sigil_toc_id_159",
+          "level": 3
+        },
+        {
+          "title": "（三）魏蜀吴的成立",
+          "anchor": "sigil_toc_id_160",
+          "level": 3
+        },
+        {
+          "title": "（四）三国的疆域与政治",
+          "anchor": "sigil_toc_id_161",
+          "level": 3
+        },
+        {
+          "title": "三 晋的统一",
+          "anchor": "sigil_toc_id_162",
+          "level": 2
+        },
+        {
+          "title": "（一）蜀汉的北伐与灭亡",
+          "anchor": "sigil_toc_id_163",
+          "level": 3
+        },
+        {
+          "title": "（二）晋的篡魏",
+          "anchor": "sigil_toc_id_164",
+          "level": 3
+        },
+        {
+          "title": "（三）晋的灭吴",
+          "anchor": "sigil_toc_id_165",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=119",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=119"
+    },
+    {
+      "chapterUid": 120,
+      "chapterIdx": 17,
+      "title": "第十章 五胡乱华与晋室偏安",
+      "level": 1,
+      "wordCount": 20348,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 晋政的败坏",
+          "anchor": "sigil_toc_id_166",
+          "level": 2
+        },
+        {
+          "title": "（一）晋初的颓风",
+          "anchor": "sigil_toc_id_167",
+          "level": 3
+        },
+        {
+          "title": "（二）贾后的乱政",
+          "anchor": "sigil_toc_id_168",
+          "level": 3
+        },
+        {
+          "title": "（三）诸王的称兵",
+          "anchor": "sigil_toc_id_169",
+          "level": 3
+        },
+        {
+          "title": "二 胡族的叛乱",
+          "anchor": "sigil_toc_id_170",
+          "level": 2
+        },
+        {
+          "title": "（一）胡族的种类",
+          "anchor": "sigil_toc_id_171",
+          "level": 3
+        },
+        {
+          "title": "（二）北方的沦陷",
+          "anchor": "sigil_toc_id_172",
+          "level": 3
+        },
+        {
+          "title": "（三）胡族的混战",
+          "anchor": "sigil_toc_id_173",
+          "level": 3
+        },
+        {
+          "title": "（四）氐族的强盛",
+          "anchor": "sigil_toc_id_174",
+          "level": 3
+        },
+        {
+          "title": "三 东晋的政局",
+          "anchor": "sigil_toc_id_175",
+          "level": 2
+        },
+        {
+          "title": "（一）初期的内乱",
+          "anchor": "sigil_toc_id_176",
+          "level": 3
+        },
+        {
+          "title": "（二）晋人的北伐",
+          "anchor": "sigil_toc_id_177",
+          "level": 3
+        },
+        {
+          "title": "（三）晋秦的淝水之战",
+          "anchor": "sigil_toc_id_178",
+          "level": 3
+        },
+        {
+          "title": "（四）淝水战后的局势",
+          "anchor": "sigil_toc_id_179",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=120",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=120"
+    },
+    {
+      "chapterUid": 121,
+      "chapterIdx": 18,
+      "title": "第十一章 南北朝的对峙",
+      "level": 1,
+      "wordCount": 23381,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 南北朝的形成",
+          "anchor": "sigil_toc_id_180",
+          "level": 2
+        },
+        {
+          "title": "（一）晋末内乱与刘裕崛起",
+          "anchor": "sigil_toc_id_181",
+          "level": 3
+        },
+        {
+          "title": "（二）刘裕的北伐与篡晋",
+          "anchor": "sigil_toc_id_182",
+          "level": 3
+        },
+        {
+          "title": "（三）北魏的统一北方",
+          "anchor": "sigil_toc_id_183",
+          "level": 3
+        },
+        {
+          "title": "（四）南北朝的疆域与人口",
+          "anchor": "sigil_toc_id_184",
+          "level": 3
+        },
+        {
+          "title": "二 南朝的内政与外战",
+          "anchor": "sigil_toc_id_185",
+          "level": 2
+        },
+        {
+          "title": "（一）宋元嘉之治与北伐",
+          "anchor": "sigil_toc_id_186",
+          "level": 3
+        },
+        {
+          "title": "（二）宋的乱亡与齐的继起",
+          "anchor": "sigil_toc_id_187",
+          "level": 3
+        },
+        {
+          "title": "（三）梁的兴盛",
+          "anchor": "sigil_toc_id_188",
+          "level": 3
+        },
+        {
+          "title": "（四）侯景之乱与陈的建立",
+          "anchor": "sigil_toc_id_189",
+          "level": 3
+        },
+        {
+          "title": "三 北魏分裂与南北统一",
+          "anchor": "sigil_toc_id_190",
+          "level": 2
+        },
+        {
+          "title": "（一）北魏的汉化与衰乱",
+          "anchor": "sigil_toc_id_191",
+          "level": 3
+        },
+        {
+          "title": "（二）六镇之变与魏分东西",
+          "anchor": "sigil_toc_id_192",
+          "level": 3
+        },
+        {
+          "title": "（三）北齐北周的交兵",
+          "anchor": "sigil_toc_id_193",
+          "level": 3
+        },
+        {
+          "title": "（四）隋的篡周与平陈",
+          "anchor": "sigil_toc_id_194",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=121",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=121"
+    },
+    {
+      "chapterUid": 122,
+      "chapterIdx": 19,
+      "title": "第十二章 南北朝的社会",
+      "level": 1,
+      "wordCount": 18915,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 社会阶级",
+          "anchor": "sigil_toc_id_195",
+          "level": 2
+        },
+        {
+          "title": "（一）世族阶级的形成",
+          "anchor": "sigil_toc_id_196",
+          "level": 3
+        },
+        {
+          "title": "（二）世族与寒门的对立",
+          "anchor": "sigil_toc_id_197",
+          "level": 3
+        },
+        {
+          "title": "（三）世族的衰落",
+          "anchor": "sigil_toc_id_198",
+          "level": 3
+        },
+        {
+          "title": "二 民生状况",
+          "anchor": "sigil_toc_id_199",
+          "level": 2
+        },
+        {
+          "title": "（一）士庶的生活",
+          "anchor": "sigil_toc_id_200",
+          "level": 3
+        },
+        {
+          "title": "（二）农商业与钱币",
+          "anchor": "sigil_toc_id_201",
+          "level": 3
+        },
+        {
+          "title": "（三）国内与国际交通",
+          "anchor": "sigil_toc_id_202",
+          "level": 3
+        },
+        {
+          "title": "三 宗教信仰与社会风气",
+          "anchor": "sigil_toc_id_203",
+          "level": 2
+        },
+        {
+          "title": "（一）佛教的昌盛",
+          "anchor": "sigil_toc_id_204",
+          "level": 3
+        },
+        {
+          "title": "（二）道教与旧有迷信",
+          "anchor": "sigil_toc_id_205",
+          "level": 3
+        },
+        {
+          "title": "（三）清谈及其他风习",
+          "anchor": "sigil_toc_id_206",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=122",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=122"
+    },
+    {
+      "chapterUid": 123,
+      "chapterIdx": 20,
+      "title": "第十三章 隋帝国的兴亡",
+      "level": 1,
+      "wordCount": 23174,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 隋的建国规模",
+          "anchor": "sigil_toc_id_207",
+          "level": 2
+        },
+        {
+          "title": "（一）文帝的政绩",
+          "anchor": "sigil_toc_id_208",
+          "level": 3
+        },
+        {
+          "title": "（二）政府的组织",
+          "anchor": "sigil_toc_id_209",
+          "level": 3
+        },
+        {
+          "title": "（三）田赋与兵刑",
+          "anchor": "sigil_toc_id_210",
+          "level": 3
+        },
+        {
+          "title": "（四）运河的开凿",
+          "anchor": "sigil_toc_id_211",
+          "level": 3
+        },
+        {
+          "title": "二 隋的对外关系",
+          "anchor": "sigil_toc_id_212",
+          "level": 2
+        },
+        {
+          "title": "（一）突厥",
+          "anchor": "sigil_toc_id_213",
+          "level": 3
+        },
+        {
+          "title": "（二）西域与吐谷浑",
+          "anchor": "sigil_toc_id_214",
+          "level": 3
+        },
+        {
+          "title": "（三）海外及南方诸国",
+          "anchor": "sigil_toc_id_215",
+          "level": 3
+        },
+        {
+          "title": "（四）契丹与高丽",
+          "anchor": "sigil_toc_id_216",
+          "level": 3
+        },
+        {
+          "title": "三 隋帝国的乱亡",
+          "anchor": "sigil_toc_id_217",
+          "level": 2
+        },
+        {
+          "title": "（一）炀帝的纵欲",
+          "anchor": "sigil_toc_id_218",
+          "level": 3
+        },
+        {
+          "title": "（二）群雄的起兵",
+          "anchor": "sigil_toc_id_219",
+          "level": 3
+        },
+        {
+          "title": "（三）唐室的建立",
+          "anchor": "sigil_toc_id_220",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=123",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=123"
+    },
+    {
+      "chapterUid": 124,
+      "chapterIdx": 21,
+      "title": "第十四章 盛唐的内政",
+      "level": 1,
+      "wordCount": 21843,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 太宗贞观之治",
+          "anchor": "sigil_toc_id_221",
+          "level": 2
+        },
+        {
+          "title": "（一）太宗的即位（玄武门之变）",
+          "anchor": "sigil_toc_id_222",
+          "level": 3
+        },
+        {
+          "title": "（二）太宗的优点",
+          "anchor": "sigil_toc_id_223",
+          "level": 3
+        },
+        {
+          "title": "（三）政治的改进",
+          "anchor": "sigil_toc_id_224",
+          "level": 3
+        },
+        {
+          "title": "二 武后的称帝",
+          "anchor": "sigil_toc_id_225",
+          "level": 2
+        },
+        {
+          "title": "（一）高宗的易后",
+          "anchor": "sigil_toc_id_226",
+          "level": 3
+        },
+        {
+          "title": "（二）武周的代唐",
+          "anchor": "sigil_toc_id_227",
+          "level": 3
+        },
+        {
+          "title": "（三）武曌以后的女主余波",
+          "anchor": "sigil_toc_id_228",
+          "level": 3
+        },
+        {
+          "title": "三 玄宗的政治",
+          "anchor": "sigil_toc_id_229",
+          "level": 2
+        },
+        {
+          "title": "（一）开元的兴革",
+          "anchor": "sigil_toc_id_230",
+          "level": 3
+        },
+        {
+          "title": "（二）天宝的衰象",
+          "anchor": "sigil_toc_id_231",
+          "level": 3
+        },
+        {
+          "title": "（三）安史之乱",
+          "anchor": "sigil_toc_id_232",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=124",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=124"
+    },
+    {
+      "chapterUid": 125,
+      "chapterIdx": 22,
+      "title": "第十五章 盛唐的武功",
+      "level": 1,
+      "wordCount": 17382,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 突厥铁勒的平定",
+          "anchor": "sigil_toc_id_233",
+          "level": 2
+        },
+        {
+          "title": "（一）东突厥",
+          "anchor": "sigil_toc_id_234",
+          "level": 3
+        },
+        {
+          "title": "（二）西突厥",
+          "anchor": "sigil_toc_id_235",
+          "level": 3
+        },
+        {
+          "title": "（三）铁勒诸部",
+          "anchor": "sigil_toc_id_236",
+          "level": 3
+        },
+        {
+          "title": "二 西域与西南诸国的用兵",
+          "anchor": "sigil_toc_id_237",
+          "level": 2
+        },
+        {
+          "title": "（一）西域",
+          "anchor": "sigil_toc_id_238",
+          "level": 3
+        },
+        {
+          "title": "（二）吐蕃",
+          "anchor": "sigil_toc_id_239",
+          "level": 3
+        },
+        {
+          "title": "（三）吐谷浑、党项和天竺",
+          "anchor": "sigil_toc_id_240",
+          "level": 3
+        },
+        {
+          "title": "三 高丽、奚、契丹的征讨",
+          "anchor": "sigil_toc_id_241",
+          "level": 2
+        },
+        {
+          "title": "（一）高丽",
+          "anchor": "sigil_toc_id_242",
+          "level": 3
+        },
+        {
+          "title": "（二）奚、契丹",
+          "anchor": "sigil_toc_id_243",
+          "level": 3
+        },
+        {
+          "title": "四 帝国的版图与文化动态",
+          "anchor": "sigil_toc_id_244",
+          "level": 2
+        },
+        {
+          "title": "（一）版图变迁与国际交通",
+          "anchor": "sigil_toc_id_245",
+          "level": 3
+        },
+        {
+          "title": "（二）文化的吸收与传布",
+          "anchor": "sigil_toc_id_246",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=125",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=125"
+    },
+    {
+      "chapterUid": 126,
+      "chapterIdx": 23,
+      "title": "第十六章 安史之乱以后的唐帝国",
+      "level": 1,
+      "wordCount": 25116,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 藩镇的割据",
+          "anchor": "sigil_toc_id_247",
+          "level": 2
+        },
+        {
+          "title": "（一）藩镇的强大",
+          "anchor": "sigil_toc_id_248",
+          "level": 3
+        },
+        {
+          "title": "（二）诸镇的连兵",
+          "anchor": "sigil_toc_id_249",
+          "level": 3
+        },
+        {
+          "title": "（三）宪宗的征讨",
+          "anchor": "sigil_toc_id_250",
+          "level": 3
+        },
+        {
+          "title": "（四）藩镇的复盛",
+          "anchor": "sigil_toc_id_251",
+          "level": 3
+        },
+        {
+          "title": "二 外族的猖獗",
+          "anchor": "sigil_toc_id_252",
+          "level": 2
+        },
+        {
+          "title": "（一）回纥的渔利",
+          "anchor": "sigil_toc_id_253",
+          "level": 3
+        },
+        {
+          "title": "（二）吐蕃的寇侵",
+          "anchor": "sigil_toc_id_254",
+          "level": 3
+        },
+        {
+          "title": "（三）南诏的叛服",
+          "anchor": "sigil_toc_id_255",
+          "level": 3
+        },
+        {
+          "title": "三 宦官与党争",
+          "anchor": "sigil_toc_id_256",
+          "level": 2
+        },
+        {
+          "title": "（一）宦官权力的膨胀",
+          "anchor": "sigil_toc_id_257",
+          "level": 3
+        },
+        {
+          "title": "（二）宦官与外廷的冲突",
+          "anchor": "sigil_toc_id_258",
+          "level": 3
+        },
+        {
+          "title": "（三）外廷的党争",
+          "anchor": "sigil_toc_id_259",
+          "level": 3
+        },
+        {
+          "title": "四 唐帝国的灭亡",
+          "anchor": "sigil_toc_id_260",
+          "level": 2
+        },
+        {
+          "title": "（一）懿僖时代的寇乱",
+          "anchor": "sigil_toc_id_261",
+          "level": 3
+        },
+        {
+          "title": "（二）藩镇的交兵",
+          "anchor": "sigil_toc_id_262",
+          "level": 3
+        },
+        {
+          "title": "（三）中央政府的解体",
+          "anchor": "sigil_toc_id_263",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=126",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=126"
+    },
+    {
+      "chapterUid": 96,
+      "chapterIdx": 24,
+      "title": "第十七章 唐代的制度",
+      "level": 1,
+      "wordCount": 18692,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 中央政府",
+          "anchor": "sigil_toc_id_264",
+          "level": 2
+        },
+        {
+          "title": "（一）三省制的演进",
+          "anchor": "sigil_toc_id_265",
+          "level": 3
+        },
+        {
+          "title": "（二）相权的剥夺",
+          "anchor": "sigil_toc_id_266",
+          "level": 3
+        },
+        {
+          "title": "二 地方政区",
+          "anchor": "sigil_toc_id_267",
+          "level": 2
+        },
+        {
+          "title": "（一）府道的建置",
+          "anchor": "sigil_toc_id_268",
+          "level": 3
+        },
+        {
+          "title": "（二）节度使区",
+          "anchor": "sigil_toc_id_269",
+          "level": 3
+        },
+        {
+          "title": "三 财经制度",
+          "anchor": "sigil_toc_id_270",
+          "level": 2
+        },
+        {
+          "title": "（一）田赋",
+          "anchor": "sigil_toc_id_271",
+          "level": 3
+        },
+        {
+          "title": "（二）杂税与币制",
+          "anchor": "sigil_toc_id_272",
+          "level": 3
+        },
+        {
+          "title": "四 兵制",
+          "anchor": "sigil_toc_id_273",
+          "level": 2
+        },
+        {
+          "title": "（一）府兵与彍骑",
+          "anchor": "sigil_toc_id_274",
+          "level": 3
+        },
+        {
+          "title": "（二）中叶以后的禁军",
+          "anchor": "sigil_toc_id_275",
+          "level": 3
+        },
+        {
+          "title": "五 法律",
+          "anchor": "sigil_toc_id_276",
+          "level": 2
+        },
+        {
+          "title": "（一）法典的修撰",
+          "anchor": "sigil_toc_id_277",
+          "level": 3
+        },
+        {
+          "title": "（二）刑法与司法机关",
+          "anchor": "sigil_toc_id_278",
+          "level": 3
+        },
+        {
+          "title": "六 科举与学校",
+          "anchor": "sigil_toc_id_279",
+          "level": 2
+        },
+        {
+          "title": "（一）明经与进士",
+          "anchor": "sigil_toc_id_280",
+          "level": 3
+        },
+        {
+          "title": "（二）中央官学",
+          "anchor": "sigil_toc_id_281",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=96",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=96"
+    },
+    {
+      "chapterUid": 127,
+      "chapterIdx": 25,
+      "title": "第十八章 唐代的宗教与学术",
+      "level": 1,
+      "wordCount": 19027,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 佛教",
+          "anchor": "sigil_toc_id_282",
+          "level": 2
+        },
+        {
+          "title": "（一）佛教的宏布",
+          "anchor": "sigil_toc_id_283",
+          "level": 3
+        },
+        {
+          "title": "（二）宗派的兴衰",
+          "anchor": "sigil_toc_id_284",
+          "level": 3
+        },
+        {
+          "title": "（三）学术的贡献",
+          "anchor": "sigil_toc_id_285",
+          "level": 3
+        },
+        {
+          "title": "二 其他宗教",
+          "anchor": "sigil_toc_id_286",
+          "level": 2
+        },
+        {
+          "title": "（一）道教与祆教",
+          "anchor": "sigil_toc_id_287",
+          "level": 3
+        },
+        {
+          "title": "（二）新宗教的输入",
+          "anchor": "sigil_toc_id_288",
+          "level": 3
+        },
+        {
+          "title": "三 经学与史地",
+          "anchor": "sigil_toc_id_289",
+          "level": 2
+        },
+        {
+          "title": "（一）经学的演变",
+          "anchor": "sigil_toc_id_290",
+          "level": 3
+        },
+        {
+          "title": "（二）史地的著作",
+          "anchor": "sigil_toc_id_291",
+          "level": 3
+        },
+        {
+          "title": "四 文学与艺术",
+          "anchor": "sigil_toc_id_292",
+          "level": 2
+        },
+        {
+          "title": "（一）骈文与古文",
+          "anchor": "sigil_toc_id_293",
+          "level": 3
+        },
+        {
+          "title": "（二）诗与词",
+          "anchor": "sigil_toc_id_294",
+          "level": 3
+        },
+        {
+          "title": "（三）小说与书画",
+          "anchor": "sigil_toc_id_295",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=127",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=127"
+    },
+    {
+      "chapterUid": 128,
+      "chapterIdx": 26,
+      "title": "第十九章 五代与十国",
+      "level": 1,
+      "wordCount": 16380,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 五代十国的形成",
+          "anchor": "sigil_toc_id_296",
+          "level": 2
+        },
+        {
+          "title": "（一）名称与地域",
+          "anchor": "sigil_toc_id_297",
+          "level": 3
+        },
+        {
+          "title": "（二）梁初的局势",
+          "anchor": "sigil_toc_id_298",
+          "level": 3
+        },
+        {
+          "title": "二 五代十国的战乱",
+          "anchor": "sigil_toc_id_299",
+          "level": 2
+        },
+        {
+          "title": "（一）后唐的拓土与内乱",
+          "anchor": "sigil_toc_id_300",
+          "level": 3
+        },
+        {
+          "title": "（二）契丹的灭晋",
+          "anchor": "sigil_toc_id_301",
+          "level": 3
+        },
+        {
+          "title": "（三）汉周的代兴",
+          "anchor": "sigil_toc_id_302",
+          "level": 3
+        },
+        {
+          "title": "（四）周世宗的恢复",
+          "anchor": "sigil_toc_id_303",
+          "level": 3
+        },
+        {
+          "title": "三 五代十国的结束",
+          "anchor": "sigil_toc_id_304",
+          "level": 2
+        },
+        {
+          "title": "（一）宋的代周",
+          "anchor": "sigil_toc_id_305",
+          "level": 3
+        },
+        {
+          "title": "（二）宋的统一",
+          "anchor": "sigil_toc_id_306",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=128",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=128"
+    },
+    {
+      "chapterUid": 129,
+      "chapterIdx": 27,
+      "title": "第二十章 北宋与外族",
+      "level": 1,
+      "wordCount": 20189,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 北宋的外患",
+          "anchor": "sigil_toc_id_307",
+          "level": 2
+        },
+        {
+          "title": "（一）宋的国策及其影响",
+          "anchor": "sigil_toc_id_308",
+          "level": 3
+        },
+        {
+          "title": "（二）宋辽的战和",
+          "anchor": "sigil_toc_id_309",
+          "level": 3
+        },
+        {
+          "title": "（三）西夏的兴起",
+          "anchor": "sigil_toc_id_310",
+          "level": 3
+        },
+        {
+          "title": "二 宋室的图强",
+          "anchor": "sigil_toc_id_311",
+          "level": 2
+        },
+        {
+          "title": "（一）变法的酝酿",
+          "anchor": "sigil_toc_id_312",
+          "level": 3
+        },
+        {
+          "title": "（二）王安石变法",
+          "anchor": "sigil_toc_id_313",
+          "level": 3
+        },
+        {
+          "title": "（三）新法与党争",
+          "anchor": "sigil_toc_id_314",
+          "level": 3
+        },
+        {
+          "title": "三 宋室的偏安",
+          "anchor": "sigil_toc_id_315",
+          "level": 2
+        },
+        {
+          "title": "（一）宋的联金灭辽",
+          "anchor": "sigil_toc_id_316",
+          "level": 3
+        },
+        {
+          "title": "（二）宋室的南渡",
+          "anchor": "sigil_toc_id_317",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=129",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=129"
+    },
+    {
+      "chapterUid": 130,
+      "chapterIdx": 28,
+      "title": "第二十一章 南宋与外族",
+      "level": 1,
+      "wordCount": 17887,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 宋金的和战",
+          "anchor": "sigil_toc_id_318",
+          "level": 2
+        },
+        {
+          "title": "（一）高宗的乞和",
+          "anchor": "sigil_toc_id_319",
+          "level": 3
+        },
+        {
+          "title": "（二）金亮南侵与孝宗北伐",
+          "anchor": "sigil_toc_id_320",
+          "level": 3
+        },
+        {
+          "title": "（三）开禧用兵的再挫",
+          "anchor": "sigil_toc_id_321",
+          "level": 3
+        },
+        {
+          "title": "二 蒙古的强大",
+          "anchor": "sigil_toc_id_322",
+          "level": 2
+        },
+        {
+          "title": "（一）蒙古的兴起与南进",
+          "anchor": "sigil_toc_id_323",
+          "level": 3
+        },
+        {
+          "title": "（二）蒙古的西征",
+          "anchor": "sigil_toc_id_324",
+          "level": 3
+        },
+        {
+          "title": "三 金宋的灭亡",
+          "anchor": "sigil_toc_id_325",
+          "level": 2
+        },
+        {
+          "title": "（一）宋的联蒙灭金",
+          "anchor": "sigil_toc_id_326",
+          "level": 3
+        },
+        {
+          "title": "（二）元的灭宋",
+          "anchor": "sigil_toc_id_327",
+          "level": 3
+        },
+        {
+          "title": "（三）元的其他对外战争",
+          "anchor": "sigil_toc_id_328",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=130",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=130"
+    },
+    {
+      "chapterUid": 131,
+      "chapterIdx": 29,
+      "title": "第二十二章 宋的制度与学术",
+      "level": 1,
+      "wordCount": 20781,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 政府与军队",
+          "anchor": "sigil_toc_id_329",
+          "level": 2
+        },
+        {
+          "title": "（一）中央政府",
+          "anchor": "sigil_toc_id_330",
+          "level": 3
+        },
+        {
+          "title": "（二）地方政区",
+          "anchor": "sigil_toc_id_331",
+          "level": 3
+        },
+        {
+          "title": "（三）军队的种类",
+          "anchor": "sigil_toc_id_332",
+          "level": 3
+        },
+        {
+          "title": "二 财政与法律",
+          "anchor": "sigil_toc_id_333",
+          "level": 2
+        },
+        {
+          "title": "（一）赋税与货币",
+          "anchor": "sigil_toc_id_334",
+          "level": 3
+        },
+        {
+          "title": "（二）法典与刑法",
+          "anchor": "sigil_toc_id_335",
+          "level": 3
+        },
+        {
+          "title": "三 科举与学校",
+          "anchor": "sigil_toc_id_336",
+          "level": 2
+        },
+        {
+          "title": "（一）贡举与制举",
+          "anchor": "sigil_toc_id_337",
+          "level": 3
+        },
+        {
+          "title": "（二）官学与书院",
+          "anchor": "sigil_toc_id_338",
+          "level": 3
+        },
+        {
+          "title": "四 学术思想",
+          "anchor": "sigil_toc_id_339",
+          "level": 2
+        },
+        {
+          "title": "（一）经学与理学",
+          "anchor": "sigil_toc_id_340",
+          "level": 3
+        },
+        {
+          "title": "（二）文学",
+          "anchor": "sigil_toc_id_341",
+          "level": 3
+        },
+        {
+          "title": "（三）史学与书画",
+          "anchor": "sigil_toc_id_342",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=131",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=131"
+    },
+    {
+      "chapterUid": 132,
+      "chapterIdx": 30,
+      "title": "第二十三章 元帝国的组织",
+      "level": 1,
+      "wordCount": 15367,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 开国规模",
+          "anchor": "sigil_toc_id_343",
+          "level": 2
+        },
+        {
+          "title": "（一）中央政府与地方政府",
+          "anchor": "sigil_toc_id_344",
+          "level": 3
+        },
+        {
+          "title": "（二）政治阶级的划分",
+          "anchor": "sigil_toc_id_345",
+          "level": 3
+        },
+        {
+          "title": "（三）财政与兵刑",
+          "anchor": "sigil_toc_id_346",
+          "level": 3
+        },
+        {
+          "title": "二 社会情况",
+          "anchor": "sigil_toc_id_347",
+          "level": 2
+        },
+        {
+          "title": "（一）宗教",
+          "anchor": "sigil_toc_id_348",
+          "level": 3
+        },
+        {
+          "title": "（二）工商业与交通",
+          "anchor": "sigil_toc_id_349",
+          "level": 3
+        },
+        {
+          "title": "三 帝国的瓦解",
+          "anchor": "sigil_toc_id_350",
+          "level": 2
+        },
+        {
+          "title": "（一）汗位继承的斗争",
+          "anchor": "sigil_toc_id_351",
+          "level": 3
+        },
+        {
+          "title": "（二）顺帝的失政",
+          "anchor": "sigil_toc_id_352",
+          "level": 3
+        },
+        {
+          "title": "（三）群雄起兵与元室颠覆",
+          "anchor": "sigil_toc_id_353",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=132",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=132"
+    },
+    {
+      "chapterUid": 133,
+      "chapterIdx": 31,
+      "title": "第二十四章 明代的政治",
+      "level": 1,
+      "wordCount": 22707,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 明初的政局",
+          "anchor": "sigil_toc_id_354",
+          "level": 2
+        },
+        {
+          "title": "（一）太祖的规划",
+          "anchor": "sigil_toc_id_355",
+          "level": 3
+        },
+        {
+          "title": "（二）成祖的事功",
+          "anchor": "sigil_toc_id_356",
+          "level": 3
+        },
+        {
+          "title": "（三）海外的经营",
+          "anchor": "sigil_toc_id_357",
+          "level": 3
+        },
+        {
+          "title": "二 宦官与明政的败坏",
+          "anchor": "sigil_toc_id_358",
+          "level": 2
+        },
+        {
+          "title": "（一）宦官专权的由来",
+          "anchor": "sigil_toc_id_359",
+          "level": 3
+        },
+        {
+          "title": "（二）宦官政治的流毒",
+          "anchor": "sigil_toc_id_360",
+          "level": 3
+        },
+        {
+          "title": "（三）宦官政治下的士大夫",
+          "anchor": "sigil_toc_id_361",
+          "level": 3
+        },
+        {
+          "title": "三 明室的倾覆",
+          "anchor": "sigil_toc_id_362",
+          "level": 2
+        },
+        {
+          "title": "（一）中叶以后的外患",
+          "anchor": "sigil_toc_id_363",
+          "level": 3
+        },
+        {
+          "title": "（二）流寇的猖獗",
+          "anchor": "sigil_toc_id_364",
+          "level": 3
+        },
+        {
+          "title": "（三）满人的入关",
+          "anchor": "sigil_toc_id_365",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=133",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=133"
+    },
+    {
+      "chapterUid": 134,
+      "chapterIdx": 32,
+      "title": "第二十五章 清的入主及其盛世",
+      "level": 1,
+      "wordCount": 19802,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 清的统一",
+          "anchor": "sigil_toc_id_366",
+          "level": 2
+        },
+        {
+          "title": "（一）南明的灭亡",
+          "anchor": "sigil_toc_id_367",
+          "level": 3
+        },
+        {
+          "title": "（二）三藩的戡定",
+          "anchor": "sigil_toc_id_368",
+          "level": 3
+        },
+        {
+          "title": "（三）台湾的平服",
+          "anchor": "sigil_toc_id_369",
+          "level": 3
+        },
+        {
+          "title": "二 清前期的政治",
+          "anchor": "sigil_toc_id_370",
+          "level": 2
+        },
+        {
+          "title": "（一）清室的统驭策略",
+          "anchor": "sigil_toc_id_371",
+          "level": 3
+        },
+        {
+          "title": "（二）康雍时期的政绩",
+          "anchor": "sigil_toc_id_372",
+          "level": 3
+        },
+        {
+          "title": "（三）乾隆时期的文治",
+          "anchor": "sigil_toc_id_373",
+          "level": 3
+        },
+        {
+          "title": "三 清前期的武功",
+          "anchor": "sigil_toc_id_374",
+          "level": 2
+        },
+        {
+          "title": "（一）蒙族及回部的征服",
+          "anchor": "sigil_toc_id_375",
+          "level": 3
+        },
+        {
+          "title": "（二）西藏的内属与苗疆金川的开辟",
+          "anchor": "sigil_toc_id_376",
+          "level": 3
+        },
+        {
+          "title": "（三）藩属的经营与对俄的交涉",
+          "anchor": "sigil_toc_id_377",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=134",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=134"
+    },
+    {
+      "chapterUid": 135,
+      "chapterIdx": 33,
+      "title": "第二十六章 清帝国的乱亡",
+      "level": 1,
+      "wordCount": 21643,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 清室的衰落",
+          "anchor": "sigil_toc_id_378",
+          "level": 2
+        },
+        {
+          "title": "（一）嘉道时期的内乱",
+          "anchor": "sigil_toc_id_379",
+          "level": 3
+        },
+        {
+          "title": "（二）鸦片战争与《南京条约》",
+          "anchor": "sigil_toc_id_380",
+          "level": 3
+        },
+        {
+          "title": "（三）太平天国及捻回的叛乱",
+          "anchor": "sigil_toc_id_381",
+          "level": 3
+        },
+        {
+          "title": "二 列强的交侵",
+          "anchor": "sigil_toc_id_382",
+          "level": 2
+        },
+        {
+          "title": "（一）英法联军之役与俄国的侵略",
+          "anchor": "sigil_toc_id_383",
+          "level": 3
+        },
+        {
+          "title": "（二）藩属的丧失与港湾的租借",
+          "anchor": "sigil_toc_id_384",
+          "level": 3
+        },
+        {
+          "title": "（三）外患中的革新运动",
+          "anchor": "sigil_toc_id_385",
+          "level": 3
+        },
+        {
+          "title": "（四）八国联军之役与东北危急",
+          "anchor": "sigil_toc_id_386",
+          "level": 3
+        },
+        {
+          "title": "三 清室的覆亡",
+          "anchor": "sigil_toc_id_387",
+          "level": 2
+        },
+        {
+          "title": "（一）清末的革命运动",
+          "anchor": "sigil_toc_id_388",
+          "level": 3
+        },
+        {
+          "title": "（二）中华民国的建立",
+          "anchor": "sigil_toc_id_389",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=135",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=135"
+    },
+    {
+      "chapterUid": 136,
+      "chapterIdx": 34,
+      "title": "第二十七章 明清的制度",
+      "level": 1,
+      "wordCount": 16121,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 中央政府与地方政府",
+          "anchor": "sigil_toc_id_390",
+          "level": 2
+        },
+        {
+          "title": "（一）内阁制的演进",
+          "anchor": "sigil_toc_id_391",
+          "level": 3
+        },
+        {
+          "title": "（二）行省制的变迁",
+          "anchor": "sigil_toc_id_392",
+          "level": 3
+        },
+        {
+          "title": "（三）外族地区的治理",
+          "anchor": "sigil_toc_id_393",
+          "level": 3
+        },
+        {
+          "title": "二 兵制",
+          "anchor": "sigil_toc_id_394",
+          "level": 2
+        },
+        {
+          "title": "（一）卫所制",
+          "anchor": "sigil_toc_id_395",
+          "level": 3
+        },
+        {
+          "title": "（二）旗兵与汉兵",
+          "anchor": "sigil_toc_id_396",
+          "level": 3
+        },
+        {
+          "title": "三 财政与法律",
+          "anchor": "sigil_toc_id_397",
+          "level": 2
+        },
+        {
+          "title": "（一）赋役与币制",
+          "anchor": "sigil_toc_id_398",
+          "level": 3
+        },
+        {
+          "title": "（二）法典与刑法",
+          "anchor": "sigil_toc_id_399",
+          "level": 3
+        },
+        {
+          "title": "四 科举与学校",
+          "anchor": "sigil_toc_id_400",
+          "level": 2
+        },
+        {
+          "title": "（一）常科与诏举",
+          "anchor": "sigil_toc_id_401",
+          "level": 3
+        },
+        {
+          "title": "（二）官学与书院",
+          "anchor": "sigil_toc_id_402",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=136",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=136"
+    },
+    {
+      "chapterUid": 137,
+      "chapterIdx": 35,
+      "title": "第二十八章 明清的宗教与学术",
+      "level": 1,
+      "wordCount": 15119,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一 宗教",
+          "anchor": "sigil_toc_id_403",
+          "level": 2
+        },
+        {
+          "title": "（一）佛道与伊斯兰教",
+          "anchor": "sigil_toc_id_404",
+          "level": 3
+        },
+        {
+          "title": "（二）基督教",
+          "anchor": "sigil_toc_id_405",
+          "level": 3
+        },
+        {
+          "title": "二 儒学与史地",
+          "anchor": "sigil_toc_id_406",
+          "level": 2
+        },
+        {
+          "title": "（一）理学",
+          "anchor": "sigil_toc_id_407",
+          "level": 3
+        },
+        {
+          "title": "（二）经学",
+          "anchor": "sigil_toc_id_408",
+          "level": 3
+        },
+        {
+          "title": "（三）史地",
+          "anchor": "sigil_toc_id_409",
+          "level": 3
+        },
+        {
+          "title": "三 文学与艺术",
+          "anchor": "sigil_toc_id_410",
+          "level": 2
+        },
+        {
+          "title": "（一）文与诗词",
+          "anchor": "sigil_toc_id_411",
+          "level": 3
+        },
+        {
+          "title": "（二）散曲与戏曲",
+          "anchor": "sigil_toc_id_412",
+          "level": 3
+        },
+        {
+          "title": "（三）小说与书画",
+          "anchor": "sigil_toc_id_413",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25031485&chapterUid=137",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=137"
+    },
+    {
+      "chapterUid": 138,
+      "chapterIdx": 36,
+      "title": "附录一：中国古代历朝世系表",
+      "level": 1,
+      "wordCount": 14,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25031485&chapterUid=138",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=138"
+    },
+    {
+      "chapterUid": 109,
+      "chapterIdx": 37,
+      "title": "附录二：傅乐成先生年谱简稿",
+      "level": 1,
+      "wordCount": 10844,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25031485&chapterUid=109",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=109"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 129,
+      "chapterTitle": "第二十章 北宋与外族",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25031485_129_656-752",
+          "range": "656-752",
+          "rangeStart": 656,
+          "rangeEnd": 752,
+          "markText": "宋的历史分成两个时期：从太祖建隆元年(960)到钦宗靖康元年(1126)，称北宋，凡一百六十七年；从高宗建炎元年(1127)到帝昺祥兴二年(1279)，称南宋，凡一百五十三年；合计三百二十年。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1757431554,
+          "createTimeFormatted": "2025-09-09 23:25:54",
+          "chapterUid": 129,
+          "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=129&rangeStart=656&rangeEnd=752",
+          "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=129&rangeStart=656&rangeEnd=752"
+        }
+      ]
+    },
+    {
+      "chapterUid": 121,
+      "chapterTitle": "第十一章 南北朝的对峙",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25031485_121_21237-21458",
+          "range": "21237-21458",
+          "rangeStart": 21237,
+          "rangeEnd": 21458,
+          "markText": "1.禁止胡服。当时胡人衣狭而短，汉人衣宽而长，至是他本人袭服汉族帝王衣冠，一般士民也须着汉服。2.禁止胡语。凡士民三十岁以下者均须屏绝“北语”（即鲜卑语），俱从汉音；官吏北语于朝廷者免官。3.改变度量。改用长尺大斗，均依汉制。4.推广教育。设国子学、太学及四门小学于洛阳，并征求天下遗书，以充秘阁。5.禁止归葬。凡迁居洛阳的鲜卑人，死即葬于河南，不准还北，于是南迁者均改籍贯为河南洛阳人。6.改变姓氏。改拓跋氏为元氏，其余功臣旧族，亦均改之。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1745836863,
+          "createTimeFormatted": "2025-04-28 18:41:03",
+          "chapterUid": 121,
+          "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=121&rangeStart=21237&rangeEnd=21458",
+          "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=121&rangeStart=21237&rangeEnd=21458"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "25031485_121_21090-21145",
+          "range": "21090-21145",
+          "rangeStart": 21090,
+          "rangeEnd": 21145,
+          "markText": "魏的若干制度，本系参酌汉制而成，但孝文认为鲜卑人汉化的程度，尚不够彻底，因此迁都以后，遂即展开大规模的汉化运动",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1745836844,
+          "createTimeFormatted": "2025-04-28 18:40:44",
+          "chapterUid": 121,
+          "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=121&rangeStart=21090&rangeEnd=21145",
+          "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=121&rangeStart=21090&rangeEnd=21145"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZKtiXhux",
+          "range": "22700-22702",
+          "chapterName": "",
+          "content": "fǔ mínɡ\n· 军镇名。北魏六镇之一。在今内蒙古四子王旗东南。",
+          "abstract": "抚冥",
+          "star": -1,
+          "createTime": 1745838889,
+          "createTimeFormatted": "2025-04-28 19:14:49",
+          "isFinish": false,
+          "chapterUid": 121
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZKthda3s",
+          "range": "22672-22674",
+          "chapterName": "",
+          "content": "pínɡ chénɡ\n· 区名。在山西省大同市市区中部。市人民政府驻地。面积240平方千米。人口111万（2020年）。区人民政府驻向阳里街道。西汉置平城县。隋属云内县。辽属大同县。1949年为大同市第一至第三区。1952年分设第一、二区。1954年，第一、二区合并设立市区，随后改称城区。2018年撤销城区设平城区。农产有谷子、莜麦、玉米、黄花菜、高粱及蔬菜等。以汽车制造、电子信息、光伏电池等产业为主。扼晋、冀、蒙咽喉要道，号为首都屏障、三晋门户。大同火车站、大同火车南站坐落区内。大张高铁及京包、北同蒲铁路和京大、二广高速公路经此。名胜古迹有上下华严寺、善化寺、九龙壁、法华寺、朝阳宫、清真寺等。\n· 古县名。秦置。治今山西大同市东北。西汉高祖七年（前200年）汉高祖亲率军迎击匈奴，被围于城东白登山。东汉灵帝时废。建安中复置，移治今代县东。西晋建兴元年（313年）拓跋猗卢城盛乐以为北都，修秦、汉故平城以为南都。北魏天兴元年（398年）自盛乐迁都于此，又为司州、代郡治所。起鹿苑，营宫殿，颇具规模。孝文帝迁都洛阳后，以平城为北京，为恒州、代郡治所。孝昌二年（526年）被六镇起义军攻破，州、郡、县并废。",
+          "abstract": "平城",
+          "star": -1,
+          "createTime": 1745838864,
+          "createTimeFormatted": "2025-04-28 19:14:24",
+          "isFinish": false,
+          "chapterUid": 121
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZKqX111V",
+          "range": "20913-20916",
+          "chapterName": "",
+          "content": "qí wǔ dì\n· （440—493）即“萧赜”。南朝齐皇帝。字宣远，小名龙儿。高帝长子。公元482—493年在位。初为宋寻阳国侍郎，后出为赣令，迁广兴相、江夏内史。及齐高帝即位，立为皇太子。建元四年（482年）即位，年号永明。永明三年（485年）因清查户籍，官吏作弊，唐㝢之在富阳（今浙江杭州市富阳区）起义，三吴响应，次年遣兵镇压。八年，下诏自宋昇明以前，皆听恢复原有籍注；因伪状巧籍而被谪戍边者，均许还本土。重视文学、教育，文学为一代之盛，诗有“永明体”之称。",
+          "abstract": "齐武帝",
+          "star": -1,
+          "createTime": 1745836733,
+          "createTimeFormatted": "2025-04-28 18:38:53",
+          "isFinish": false,
+          "chapterUid": 121
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZKqPWfR6",
+          "range": "20703-20706",
+          "chapterName": "",
+          "content": "sònɡ mínɡ dì\n· （439—472）即“刘彧”。南朝宋皇帝。字休炳，小字荣期。文帝第十一子。公元466—472年在位。初封淮阳王，改封湘东王。景和元年（465年）十二月前废帝被杀，立为帝，年号泰始。即位初四方反叛，先击平江州刺史晋安王刘子勋，又尽杀孝武帝二十八子。连年遣师北上讨魏，均无功。泰始五年（469年），魏克青州东阳（今山东青州），淮北四州及豫州淮西地尽入魏境。在位奢靡益甚。晚年多讳，忍虐好杀。撰有《江左以来文章志》，又续卫瓘所注《论语》二卷行于世。",
+          "abstract": "宋明帝",
+          "star": -1,
+          "createTime": 1745836628,
+          "createTimeFormatted": "2025-04-28 18:37:08",
+          "isFinish": false,
+          "chapterUid": 121
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZKqLnVHc",
+          "range": "20673-20675",
+          "chapterName": "",
+          "content": "yuán hè\n· （407—479）　北魏大臣。本名破羌，太武帝赐名源贺。西平乐都（今青海海东市乐都区）人。鲜卑族。南凉国君秃发傉檀之子。自乐都奔魏，赐爵西平侯。从征凉州，招慰姑臧（今甘肃武威）城外四部鲜卑，进爵为公。复从征柔然、盖吴，拜殿中尚书。文成帝时以定策功加封为王。后出为冀州刺史，改陇西王，拜太尉。献文帝欲禅位于京兆王子推，他固谏，遂使元宏继帝位。依古今兵法略探至要，作《十二阵图》。",
+          "abstract": "源贺",
+          "star": -1,
+          "createTime": 1745836561,
+          "createTimeFormatted": "2025-04-28 18:36:01",
+          "isFinish": false,
+          "chapterUid": 121
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZKqHDduA",
+          "range": "20642-20645",
+          "chapterName": "",
+          "content": "nán ān wánɡ\n· （？—452）即“拓跋余”。北魏皇帝。一名可博真。太武帝少子。公元452年在位。初封吴王，后改南安王。正平二年（452年），太武帝被杀，他为中常侍宗爱所立，改元承平。厚赏群臣，国库耗尽。沉湎酒色，大权为宰相宗爱所握。同年，欲除宗爱，反被谋杀。及文成帝立，葬以王礼。",
+          "abstract": "南安王",
+          "star": -1,
+          "createTime": 1745836505,
+          "createTimeFormatted": "2025-04-28 18:35:05",
+          "isFinish": false,
+          "chapterUid": 121
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZKqyH4zA",
+          "range": "20616-20618",
+          "chapterName": "",
+          "content": "zōnɡ ài\n· （？—452）　北魏宦官。太武帝时官至中常侍，封秦郡公。性险暴，杀帝，迎立南安王拓跋余，自任大将军、太师，坐召公卿。余谋夺权，事泄，为他所杀。后为殿中尚书源贺、南部尚书陆丽所执杀，并夷三族。",
+          "abstract": "宗爱",
+          "star": -1,
+          "createTime": 1745836373,
+          "createTimeFormatted": "2025-04-28 18:32:53",
+          "isFinish": false,
+          "chapterUid": 121
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZKpNHoyg",
+          "range": "20926-20929",
+          "chapterName": "",
+          "content": "fénɡ tài hòu\n· （442—490）　北魏文成帝皇后。长乐信都（今河北衡水市冀州区）人。冯跋侄孙女。幼受汉人教育。及长，多谋善断。子献文帝年幼即位，她杀专权大臣乙浑，临朝听政。后立五岁孝文帝，继续执政达二十年。曾改革吏治，颁行俸禄制度，推行三长制，发布均田令。所用李沖等多有建树。卒谥文明太皇太后。",
+          "abstract": "冯太后",
+          "star": -1,
+          "createTime": 1745835679,
+          "createTimeFormatted": "2025-04-28 18:21:19",
+          "isFinish": false,
+          "chapterUid": 121
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZKfLy76B",
+          "range": "2679-2681",
+          "chapterName": "",
+          "content": "nán yān\n· 十六国之一。公元397年北魏兵破后燕国都中山（今河北定州）。次年，燕丞相慕容德率众由邺（今河北临漳西南）南迁滑台（今河南滑县东南），称王。后迁广固城（今山东青州西北）称帝，史称“南燕”。有今山东、河南的一部分。410年为东晋刘裕所灭。",
+          "abstract": "南燕",
+          "star": -1,
+          "createTime": 1745826486,
+          "createTimeFormatted": "2025-04-28 15:48:06",
+          "isFinish": false,
+          "chapterUid": 121
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZJYhV2lf",
+          "range": "6814-6817",
+          "chapterName": "",
+          "content": "tuò bá ɡuī\n· 即“魏道武帝”。魏道武帝：（371—409）即“拓跋珪”。北魏的建立者。公元386—409年在位。字涉圭。什翼犍之孙。鲜卑族拓跋部。先世建立代国，为前秦苻坚所灭。淝水战后，乘机复国，初称“代”，旋改称“魏”，史称“北魏”。皇始二年（397年），攻破后燕都城中山（今河北定州），拥有黄河以北地区，次年建都平城（今山西大同东北）。统治期间，离散部落，使鲜卑人分土定居，从事耕种。徙后燕新民，计口授田。任用汉族地主官僚，进取中原。晚年政事苛暴，为次子拓跋绍杀死。",
+          "abstract": "拓跋珪",
+          "star": -1,
+          "createTime": 1745810474,
+          "createTimeFormatted": "2025-04-28 11:21:14",
+          "isFinish": false,
+          "chapterUid": 121
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZJ6VIzBj",
+          "range": "20595-20599",
+          "chapterName": "",
+          "content": "wèi tài wǔ dì\n（408—452）即“拓跋焘”。北魏皇帝。公元423—452年在位。明元帝之子。一名佛貍。任用卢玄、高允、崔浩等汉族士族，以鲜卑骑兵击败柔然，攻灭夏、北燕、北凉，取宋虎牢、滑台等河南地，统一黄河流域。太平真君十一年（450年），大举攻宋，直至瓜步（今江苏南京市六合区东南），不克而退。因佛寺占有大量土地和农奴，曾废佛崇道。因限制旧贵参政，引发不满，终为宦官宗爱所杀。",
+          "abstract": "魏太武帝",
+          "star": -1,
+          "createTime": 1745761590,
+          "createTimeFormatted": "2025-04-27 21:46:30",
+          "isFinish": false,
+          "chapterUid": 121
+        }
+      ]
+    },
+    {
+      "chapterUid": 119,
+      "chapterTitle": "第九章 汉的衰亡与三国的分合",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25031485_119_21479-21523",
+          "range": "21479-21523",
+          "rangeStart": 21479,
+          "rangeEnd": 21523,
+          "markText": "蜀汉的版图最狭，它仅辖有汉十三州中的益州，虽然也有凉州的设置，但只有东汉凉州的南隅之地。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745578149,
+          "createTimeFormatted": "2025-04-25 18:49:09",
+          "chapterUid": 119,
+          "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=119&rangeStart=21479&rangeEnd=21523",
+          "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=119&rangeStart=21479&rangeEnd=21523"
+        }
+      ]
+    },
+    {
+      "chapterUid": 77,
+      "chapterTitle": "简体版序",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25031485_77_1254-1302",
+          "range": "1254-1302",
+          "rangeStart": 1254,
+          "rangeEnd": 1302,
+          "markText": "中国通史中，钱穆的《国史大纲》长久为大家喜好，就是因为他在抗日战争期间，在通史中灌注了国族主义。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745578138,
+          "createTimeFormatted": "2025-04-25 18:48:58",
+          "chapterUid": 77,
+          "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=77&rangeStart=1254&rangeEnd=1302",
+          "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=77&rangeStart=1254&rangeEnd=1302"
+        }
+      ]
+    },
+    {
+      "chapterUid": 78,
+      "chapterTitle": "自序",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25031485_78_734-992",
+          "range": "734-992",
+          "rangeStart": 734,
+          "rangeEnd": 992,
+          "markText": "这部书只是我国历史事实与演进经过的一个简要叙述，其重心共有四点：第一，政治社会的变迁。第二，对外关系。第三，各种制度的演进。第四，学术思想的渊源和流派。作者对这四点，都有系统的说明；其他方面的史实，则不详载。所据的资料，除了历朝的旧史，近二三十年来若干学人的研究结果，也颇有采用，尤以史前史和上古史居多，此外极小一部分是作者的心得。作者对于这些资料的整理和叙述，力求忠实谨慎，缺乏实证的见解和过分主观的议论，虽新颖动人，也尽量割爱。文字与章节的编排，则力求浅近简单，避免繁博的引征。重要的来源，则于每章的附注中标明。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745578060,
+          "createTimeFormatted": "2025-04-25 18:47:40",
+          "chapterUid": 78,
+          "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=78&rangeStart=734&rangeEnd=992",
+          "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=78&rangeStart=734&rangeEnd=992"
+        }
+      ]
+    },
+    {
+      "chapterUid": 112,
+      "chapterTitle": "第二章 封建帝国的兴衰（西周时代）",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_83ZuKhsFD",
+          "range": "1232-1234",
+          "chapterName": "第二章 封建帝国的兴衰（西周时代）",
+          "content": "jiǎn shāng\n· 谓剪灭商纣。借指剿灭无道，建立王业。",
+          "abstract": "翦商",
+          "star": -1,
+          "createTime": 1760778671,
+          "createTimeFormatted": "2025-10-18 17:11:11",
+          "isFinish": false,
+          "chapterUid": 112
+        }
+      ]
+    },
+    {
+      "chapterUid": 128,
+      "chapterTitle": "第十九章 五代与十国",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_832xHn5Tv",
+          "range": "16321-16325",
+          "chapterName": "第十九章 五代与十国",
+          "content": "chén qiáo bīnɡ biàn\n赵匡胤夺取后周政权的政变。后周显德六年（959年）周世宗病死，子柴宗训年幼即位，符太后摄政。次年，掌握兵权的殿前都点检赵匡胤，在赵普、石守信等的策划下，借口北汉和辽会师南下，需北上设防，率军从大梁（今河南开封）出发。行至陈桥驿（今河南封丘东南陈桥镇），授意将士给他穿上黄袍，拥立为帝，改国号为“宋”。",
+          "abstract": "陈桥兵变",
+          "star": -1,
+          "createTime": 1757430162,
+          "createTimeFormatted": "2025-09-09 23:02:42",
+          "isFinish": false,
+          "chapterUid": 128
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "25031485_111_17986-18078",
+      "chapterUid": 111,
+      "range": "17986-18078",
+      "markText": "武丁以后的八位君主，皆生长于安逸，不求振作，一味以畋游饮宴为事，因此政治日趋腐败。到商朝末年，商人的社会也充满放纵颓废的景象，从君主贵族到庶民，莫不以酗酒为乐，终致使国家走上灭亡之途。",
+      "totalCount": 1184,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=111&rangeStart=17986&rangeEnd=18078",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=111&rangeStart=17986&rangeEnd=18078"
+    },
+    {
+      "bookmarkId": "25031485_112_10397-10488",
+      "chapterUid": 112,
+      "range": "10397-10488",
+      "markText": "士不仅只具有技艺，且须有超人的品德，他们的信条不外乎忠勇知耻。虽然他们所效忠的多半是一姓或一人，但他们却把责任和荣誉看得重于一切，在危难时，他们不惜以生命做孤注来抵拒无可奈何的命运。",
+      "totalCount": 1134,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=112&rangeStart=10397&rangeEnd=10488",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=112&rangeStart=10397&rangeEnd=10488"
+    },
+    {
+      "bookmarkId": "25031485_112_2669-2728",
+      "chapterUid": 112,
+      "range": "2669-2728",
+      "markText": "纣是中国史上与夏桀齐名的标准暴君，但从甲骨文的记载看，纣时的制作、征伐、田猎、祭祀，莫不整齐严肃，又好像是一位英明之主",
+      "totalCount": 1092,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=112&rangeStart=2669&rangeEnd=2728",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=112&rangeStart=2669&rangeEnd=2728"
+    },
+    {
+      "bookmarkId": "25031485_112_13201-13249",
+      "chapterUid": 112,
+      "range": "13201-13249",
+      "markText": "奴隶的身份是以家为单位，一个奴隶的家属也全是奴隶；而这种身份又是世袭的，他们很少有被解放的机会。",
+      "totalCount": 990,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=112&rangeStart=13201&rangeEnd=13249",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=112&rangeStart=13201&rangeEnd=13249"
+    },
+    {
+      "bookmarkId": "25031485_111_24842-24907",
+      "chapterUid": 111,
+      "range": "24842-24907",
+      "markText": "记日则用干支，自甲子到癸亥凡六十日为一周，周而复始。这办法上承远古，从商到现在，经三千二百余年而毫无错误，真是世界文化史上的奇迹。",
+      "totalCount": 980,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=111&rangeStart=24842&rangeEnd=24907",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=111&rangeStart=24842&rangeEnd=24907"
+    },
+    {
+      "bookmarkId": "25031485_112_15760-15838",
+      "chapterUid": 112,
+      "range": "15760-15838",
+      "markText": "其中又以土神、谷神的任务为最重要，前者关系土壤的肥瘠，后者关系五谷的丰歉。土神叫作“社”或“后土”，谷神叫作“稷”或“后稷”，供奉社稷二神的地方也叫社和稷。",
+      "totalCount": 969,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=112&rangeStart=15760&rangeEnd=15838",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=112&rangeStart=15760&rangeEnd=15838"
+    },
+    {
+      "bookmarkId": "25031485_114_24242-24342",
+      "chapterUid": 114,
+      "range": "24242-24342",
+      "markText": "秦在列国中，是唯一长期而彻底实行法家学说的国家，它把效率看得重于人道，一切以富强为目标。因此国力能够高度集中，高度发挥，终能并吞六国，统一“天下”；但正因漫无节制地使用国力，又迅速地使它走上灭亡之途。",
+      "totalCount": 901,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=114&rangeStart=24242&rangeEnd=24342",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=114&rangeStart=24242&rangeEnd=24342"
+    },
+    {
+      "bookmarkId": "25031485_77_1172-1181",
+      "chapterUid": 77,
+      "range": "1172-1181",
+      "markText": "刚日读经、柔日读史",
+      "totalCount": 846,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=77&rangeStart=1172&rangeEnd=1181",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=77&rangeStart=1172&rangeEnd=1181"
+    },
+    {
+      "bookmarkId": "25031485_113_29431-29485",
+      "chapterUid": 113,
+      "range": "29431-29485",
+      "markText": "综观六国的被灭，除了赵、楚还有些抵抗能力，其他国家简直像摧枯拉朽。六国既灭，亘古未有的大一统局面也随之出现。",
+      "totalCount": 816,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=113&rangeStart=29431&rangeEnd=29485",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=113&rangeStart=29431&rangeEnd=29485"
+    },
+    {
+      "bookmarkId": "25031485_113_7777-7866",
+      "chapterUid": 113,
+      "range": "7777-7866",
+      "markText": "当时楚军尚未完全渡水，宋人劝襄公乘机进攻，但他不许；等到楚军尽渡，尚未列阵，宋人又劝他进击，他仍不准。直到楚军阵式列成，才下令进战，结果宋军大败，他本人并受箭伤，死于前637年。",
+      "totalCount": 765,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=113&rangeStart=7777&rangeEnd=7866",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=113&rangeStart=7777&rangeEnd=7866"
+    },
+    {
+      "bookmarkId": "25031485_113_25045-25077",
+      "chapterUid": 113,
+      "range": "25045-25077",
+      "markText": "赵军投降者四十万人，秦人只把幼弱者二百四十人遣回，其余尽行坑杀。",
+      "totalCount": 765,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=113&rangeStart=25045&rangeEnd=25077",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=113&rangeStart=25045&rangeEnd=25077"
+    },
+    {
+      "bookmarkId": "25031485_113_3056-3136",
+      "chapterUid": 113,
+      "range": "3056-3136",
+      "markText": "在大部春秋时代，教育仍是贵族的专利品，平民并没有受教育的机会。但因封建制度的破坏，从春秋末年起，学术便开始流入民间，第一位把贵族学术引入民间的伟大学者便是孔子。",
+      "totalCount": 750,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=113&rangeStart=3056&rangeEnd=3136",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=113&rangeStart=3056&rangeEnd=3136"
+    },
+    {
+      "bookmarkId": "25031485_118_14574-14594",
+      "chapterUid": 118,
+      "range": "14574-14594",
+      "markText": "惠帝时，女子年至三十犹不嫁的，须课五算。",
+      "totalCount": 748,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=118&rangeStart=14574&rangeEnd=14594",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=118&rangeStart=14574&rangeEnd=14594"
+    },
+    {
+      "bookmarkId": "25031485_115_2153-2190",
+      "chapterUid": 115,
+      "range": "2153-2190",
+      "markText": "自大自私，精力过人，是始皇的特性，也似乎是古往今来所有大独裁者的共同特性。",
+      "totalCount": 672,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=115&rangeStart=2153&rangeEnd=2190",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=115&rangeStart=2153&rangeEnd=2190"
+    },
+    {
+      "bookmarkId": "25031485_116_9198-9256",
+      "chapterUid": 116,
+      "range": "9198-9256",
+      "markText": "贾谊大约死于十二年（前168），据说他的死与梁怀王揖的死有关。揖因坠马而死，谊自以为傅无状，感伤而死，年仅三十三岁。",
+      "totalCount": 666,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=116&rangeStart=9198&rangeEnd=9256",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=116&rangeStart=9198&rangeEnd=9256"
+    },
+    {
+      "bookmarkId": "25031485_112_11403-11449",
+      "chapterUid": 112,
+      "range": "11403-11449",
+      "markText": "不论这个故事的真实程度如何，但是士的精神，诸如知耻有勇和重视名誉等，却在这个故事里表现无遗。",
+      "totalCount": 663,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=112&rangeStart=11403&rangeEnd=11449",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=112&rangeStart=11403&rangeEnd=11449"
+    },
+    {
+      "bookmarkId": "25031485_116_10296-10387",
+      "chapterUid": 116,
+      "range": "10296-10387",
+      "markText": "但吴楚兵盛，景帝显然有些惊慌，袁盎便乘机献计，诛晁错以求诸侯罢兵。景帝从之，杀错后，并派袁盎出使于吴，以谋停战。吴王濞的谋反，已有多年，自然不会因此罢兵，谋和绝望后，景帝乃决心讨伐。",
+      "totalCount": 648,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=116&rangeStart=10296&rangeEnd=10387",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=116&rangeStart=10296&rangeEnd=10387"
+    },
+    {
+      "bookmarkId": "25031485_112_14426-14508",
+      "chapterUid": 112,
+      "range": "14426-14508",
+      "markText": "宗法制度造成男女不平等的现象，女子在母家没有宗法地位，没有任何继承权。母家只是暂居之地，夫家才是她们永久的家。她们于归之后，从夫之姓，而一生的贵贱苦乐，也自此决定。",
+      "totalCount": 645,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=112&rangeStart=14426&rangeEnd=14508",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=112&rangeStart=14426&rangeEnd=14508"
+    },
+    {
+      "bookmarkId": "25031485_111_3072-3114",
+      "chapterUid": 111,
+      "range": "3072-3114",
+      "markText": "他们的猎获物以鹿为最多，其次为豹、穴熊、剑齿虎、土狼、象、犀、骆驼、水牛、野猪、马等",
+      "totalCount": 644,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=111&rangeStart=3072&rangeEnd=3114",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=111&rangeStart=3072&rangeEnd=3114"
+    },
+    {
+      "bookmarkId": "25031485_113_28359-28394",
+      "chapterUid": 113,
+      "range": "28359-28394",
+      "markText": "前229年，秦贿赂赵王嬖臣郭开，诬李牧欲反，牧竟被杀，赵国也接着灭亡。",
+      "totalCount": 624,
+      "appLink": "weread://bestbookmark?bookId=25031485&chapterUid=113&rangeStart=28359&rangeEnd=28394",
+      "webLink": "https://weread.qq.com/web/reader/6f432dd0717df33d6f41e63?chapterUid=113&rangeStart=28359&rangeEnd=28394"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 115,
+    "chapterOffset": 334,
+    "progress": 70,
+    "updateTime": 1779116687,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

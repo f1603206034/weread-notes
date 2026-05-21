@@ -1,0 +1,576 @@
+{
+  "meta": {
+    "bookId": "3300115119",
+    "title": "北方的森林——梁晓声中短篇小说选",
+    "author": "梁晓声著 路文彬编",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/53/cpplatform_5ebjc4mqqxdiwpqdfvxrn5/t6_cpplatform_5ebjc4mqqxdiwpqdfvxrn51726222098.jpg",
+    "intro": "梁晓声的写作语言是自生活表象之下破土而出的语言，这种语言固有着泥土的芬芳以及粗糙，你可以说它是不纯净的，也可以说它是不精致的，但却绝不能说它是肮脏的。不要忘记，恰是这种泥土蕴含了我们生命所需要的全部滋养。基于此，在论及梁晓声的写作语言时，我们势必不能把他真诚的写作动机先行忽略。说到这里，我想起了法国作家纪德。早期的纪德是一个在文体上非常自觉的作家，格外注重语言的独特表现力。但是到了后期，他忽然开始有意用口述的方式进行写作，即让秘书或录音设备记录下来，然后直接拿去发表。纪德拒绝用笔或打字机写作，就是为了表达对自己早期“刻意”写作语言的反抗。梁晓声在写作语言上的不讲究，无非就是源自真诚写作动力的反刻意。何谓真诚？真诚即是对于真实的热爱或者尊重。我欣赏梁晓声的真实，所以不能不欣赏他的不讲究。",
+    "category": "文学-经典作品",
+    "publisher": "",
+    "publishTime": "2024-09-19 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 899,
+    "newRatingCount": 523,
+    "newRatingDetail": {
+      "good": 478,
+      "fair": 39,
+      "poor": 6,
+      "recent": 6,
+      "deepV": 92,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=3300115119",
+    "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731",
+    "lastSync": "2026-05-21T11:54:54Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 236,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "代序 作为反义词的梁晓声",
+      "level": 1,
+      "wordCount": 2266,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "短篇小说",
+      "level": 1,
+      "wordCount": 5,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "西郊一条街",
+      "level": 2,
+      "wordCount": 16510,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "这是一片神奇的土地",
+      "level": 2,
+      "wordCount": 8489,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "二",
+      "level": 3,
+      "wordCount": 4022,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "三",
+      "level": 3,
+      "wordCount": 4834,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "教授之死",
+      "level": 2,
+      "wordCount": 12493,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "一只风筝的一生",
+      "level": 2,
+      "wordCount": 3406,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "“爱丽丝”的自由",
+      "level": 2,
+      "wordCount": 5819,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "课桌课椅",
+      "level": 2,
+      "wordCount": 3086,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "评级",
+      "level": 2,
+      "wordCount": 4678,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "中篇小说",
+      "level": 1,
+      "wordCount": 5,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "今夜有暴风雪",
+      "level": 2,
+      "wordCount": 5809,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "二",
+      "level": 3,
+      "wordCount": 10754,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "三",
+      "level": 3,
+      "wordCount": 16938,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "四",
+      "level": 3,
+      "wordCount": 17784,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "五",
+      "level": 3,
+      "wordCount": 6269,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "六",
+      "level": 3,
+      "wordCount": 10809,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "七",
+      "level": 3,
+      "wordCount": 16385,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "冰坝",
+      "level": 2,
+      "wordCount": 34176,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "婉的大学",
+      "level": 2,
+      "wordCount": 63074,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "北方的森林",
+      "level": 2,
+      "wordCount": 27407,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300115119&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=24"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 21,
+      "chapterTitle": "七",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300115119_21_20786-20852",
+          "range": "20786-20852",
+          "rangeStart": 20786,
+          "rangeEnd": 20852,
+          "markText": "无论在总结经验方面，还是在总结教训方面，我们都不能把个人的作用估计得太重，结合时代的错误来认识我们个人的错误，这也许才更客观一些。”",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1728345722,
+          "createTimeFormatted": "2024-10-08 08:02:02",
+          "chapterUid": 21,
+          "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=21&rangeStart=20786&rangeEnd=20852",
+          "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=21&rangeStart=20786&rangeEnd=20852"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300115119_23_95432-95485",
+      "chapterUid": 23,
+      "range": "95432-95485",
+      "markText": "婉刚闭上眼睛，飞机一阵剧烈颠簸。她紧张得全身一缩，仿佛自己的整个人生，也在经历着万米高空之上的剧烈颠簸……",
+      "totalCount": 504,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=23&rangeStart=95432&rangeEnd=95485",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=23&rangeStart=95432&rangeEnd=95485"
+    },
+    {
+      "bookmarkId": "3300115119_9_18553-18639",
+      "chapterUid": 9,
+      "range": "18553-18639",
+      "markText": "对女儿，对女婿，对那做了公公的男人和那做了婆婆的女人，对一个被歪曲了的事实，对他已开始反感的社会本身，教授倒下时决定，该谅解还是要谅解。说完那句话，他的心脏爆裂，就死了……",
+      "totalCount": 429,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=9&rangeStart=18553&rangeEnd=18639",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=9&rangeStart=18553&rangeEnd=18639"
+    },
+    {
+      "bookmarkId": "3300115119_10_4917-4968",
+      "chapterUid": 10,
+      "range": "4917-4968",
+      "markText": "许多种美的诞生是以另外许多种美的毁灭为代价的，而在这过程中和其后，更会有许多无聊的没意思的事伴随着……",
+      "totalCount": 414,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=10&rangeStart=4917&rangeEnd=4968",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=10&rangeStart=4917&rangeEnd=4968"
+    },
+    {
+      "bookmarkId": "3300115119_5_20637-20706",
+      "chapterUid": 5,
+      "range": "20637-20706",
+      "markText": "大柳树村里，周成民那瘦长的身形，伫立在小翠坟头。 月光洒在城乡街，洒在街南街北……",
+      "totalCount": 374,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=5&rangeStart=20637&rangeEnd=20706",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=5&rangeStart=20637&rangeEnd=20706"
+    },
+    {
+      "bookmarkId": "3300115119_3_755-837",
+      "chapterUid": 3,
+      "range": "755-837",
+      "markText": "如果你当真去找他借钱，向他提出这个要求，他一定会牢记在心，想方设法在第一时间把钱送到你手上。但是钱借出去之后，他便彻底忘了，仿佛这事压根不曾发生，从此再也不会想起。",
+      "totalCount": 238,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=3&rangeStart=755&rangeEnd=837",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=3&rangeStart=755&rangeEnd=837"
+    },
+    {
+      "bookmarkId": "3300115119_22_46676-46702",
+      "chapterUid": 22,
+      "range": "46676-46702",
+      "markText": "不知是谁草草垒起三个土坟，有一个女人和一个少年行祭。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=22&rangeStart=46676&rangeEnd=46702",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=22&rangeStart=46676&rangeEnd=46702"
+    },
+    {
+      "bookmarkId": "3300115119_5_12677-12717",
+      "chapterUid": 5,
+      "range": "12677-12717",
+      "markText": "就在出嫁日子的前三天，小翠喝下了敌敌畏！等家人发现，已经手脚冰凉，死去有些时辰了",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=5&rangeStart=12677&rangeEnd=12717",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=5&rangeStart=12677&rangeEnd=12717"
+    },
+    {
+      "bookmarkId": "3300115119_3_2552-2574",
+      "chapterUid": 3,
+      "range": "2552-2574",
+      "markText": "记忆不能凭背诵而保有，它只能靠思考获得生命。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=3&rangeStart=2552&rangeEnd=2574",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=3&rangeStart=2552&rangeEnd=2574"
+    },
+    {
+      "bookmarkId": "3300115119_3_2903-2943",
+      "chapterUid": 3,
+      "range": "2903-2943",
+      "markText": "最后，我要特别拜托诸位的是，希望你们在看完我的文字之后，千万不要去找梁晓声借钱。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=3&rangeStart=2903&rangeEnd=2943",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=3&rangeStart=2903&rangeEnd=2943"
+    },
+    {
+      "bookmarkId": "3300115119_20_19089-19128",
+      "chapterUid": 20,
+      "range": "19089-19128",
+      "markText": "可是……女哨兵颓然地、僵直地朝后倒了下去，倒在铺雪的大地上，恋恋地瞪视着夜空。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=20&rangeStart=19089&rangeEnd=19128",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=20&rangeStart=19089&rangeEnd=19128"
+    },
+    {
+      "bookmarkId": "3300115119_24_53585-53603",
+      "chapterUid": 24,
+      "range": "53585-53603",
+      "markText": "校园里，有更多的孩子们在打闹着了……",
+      "totalCount": 140,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=24&rangeStart=53585&rangeEnd=53603",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=24&rangeStart=53585&rangeEnd=53603"
+    },
+    {
+      "bookmarkId": "3300115119_5_18866-18905",
+      "chapterUid": 5,
+      "range": "18866-18905",
+      "markText": "咱俩是哪路的冤家？上辈人们的纠葛与我们有什么相干？要不要你，你后天来听信儿吧！",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=5&rangeStart=18866&rangeEnd=18905",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=5&rangeStart=18866&rangeEnd=18905"
+    },
+    {
+      "bookmarkId": "3300115119_18_19842-19908",
+      "chapterUid": 18,
+      "range": "19842-19908",
+      "markText": "生活，有时像一位父亲，有时像一位母亲，有时严厉，有时慈祥，有时不免粗暴，有时感情细腻，但它总是不忘自己的责任，开导着它年轻的孩子们。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=18&rangeStart=19842&rangeEnd=19908",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=18&rangeStart=19842&rangeEnd=19908"
+    },
+    {
+      "bookmarkId": "3300115119_21_20786-20852",
+      "chapterUid": 21,
+      "range": "20786-20852",
+      "markText": "无论在总结经验方面，还是在总结教训方面，我们都不能把个人的作用估计得太重，结合时代的错误来认识我们个人的错误，这也许才更客观一些。”",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=21&rangeStart=20786&rangeEnd=20852",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=21&rangeStart=20786&rangeEnd=20852"
+    },
+    {
+      "bookmarkId": "3300115119_21_6476-6520",
+      "chapterUid": 21,
+      "range": "6476-6520",
+      "markText": "刘迈克的死，是我造成的。裴晓芸的死，也是我造成的！我……我没有指定人换她的岗……我……”",
+      "totalCount": 117,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=21&rangeStart=6476&rangeEnd=6520",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=21&rangeStart=6476&rangeEnd=6520"
+    },
+    {
+      "bookmarkId": "3300115119_22_46534-46554",
+      "chapterUid": 22,
+      "range": "46534-46554",
+      "markText": "翟老根没对任何人说过她不要那份钱的话……",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=22&rangeStart=46534&rangeEnd=46554",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=22&rangeStart=46534&rangeEnd=46554"
+    },
+    {
+      "bookmarkId": "3300115119_24_33529-33585",
+      "chapterUid": 24,
+      "range": "33529-33585",
+      "markText": "林雪来了，抱着暖水瓶。她说：“我妈叫我送来的。不是白开水，是鸡汤，我家……我家还偷养了一只母鸡，我妈把鸡杀了。”",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=24&rangeStart=33529&rangeEnd=33585",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=24&rangeStart=33529&rangeEnd=33585"
+    },
+    {
+      "bookmarkId": "3300115119_22_7561-7638",
+      "chapterUid": 22,
+      "range": "7561-7638",
+      "markText": "富了的许多翟村人，以狼那种歹毒的目光觊觎着本家人和血脉相连的族人们，算计他们是不是比自己更富了。如果是，他们就很痛苦，心里就很不是滋味儿，甚至恨得牙根疼。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=22&rangeStart=7561&rangeEnd=7638",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=22&rangeStart=7561&rangeEnd=7638"
+    },
+    {
+      "bookmarkId": "3300115119_3_859-915",
+      "chapterUid": 3,
+      "range": "859-915",
+      "markText": "然而首先我得声明，即使再怎么缺钱，我也从未想过要找梁晓声借钱，因为知道他有这个毛病，再找他借钱显然就太不厚道啦。",
+      "totalCount": 104,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=3&rangeStart=859&rangeEnd=915",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=3&rangeStart=859&rangeEnd=915"
+    },
+    {
+      "bookmarkId": "3300115119_6_11391-11486",
+      "chapterUid": 6,
+      "range": "11391-11486",
+      "markText": "“畜生！” 这是我第一次从她口中听到的一句骂人话。 从那一天起，我爱上了她……",
+      "totalCount": 104,
+      "appLink": "weread://bestbookmark?bookId=3300115119&chapterUid=6&rangeStart=11391&rangeEnd=11486",
+      "webLink": "https://weread.qq.com/web/reader/41d32060813ab9377g019731?chapterUid=6&rangeStart=11391&rangeEnd=11486"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

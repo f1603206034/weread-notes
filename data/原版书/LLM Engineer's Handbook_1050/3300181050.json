@@ -1,0 +1,1915 @@
+{
+  "meta": {
+    "bookId": "3300181050",
+    "title": "LLM Engineer's Handbook",
+    "author": "Paul Iusztin Maxime Labonne  Julien Chaumond  Hamza Tahir  Antonio Gulli",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/96/cpplatform_qzpfacxeptz375vgsryvsr/t6_cpplatform_qzpfacxeptz375vgsryvsr1764732845.jpg",
+    "intro": "\r\nStep into the world of LLMs with this practical guide that takes you from the fundamentals to deploying advanced applications using LLMOps best practices Get With Your Book: PDF Copy, AI Assistant, and Next-Gen Reader Free\r\n\r\nKey Features\r\n\r\nBuild and refine LLMs step by step, covering data preparation, RAG, and fine-tuning\r\n\r\nLearn essential skills for deploying and monitoring LLMs, ensuring optimal performance in production\r\n\r\nUtilize preference alignment, eval",
+    "category": "原版书-英文原版",
+    "publisher": "packt",
+    "publishTime": "2024-10-22 00:00:00",
+    "isbn": "9781836200062",
+    "wordCount": 0,
+    "newRating": 857,
+    "newRatingCount": 28,
+    "newRatingDetail": {
+      "good": 22,
+      "fair": 5,
+      "poor": 1,
+      "recent": 2,
+      "deepV": 3,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300181050",
+    "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504",
+    "lastSync": "2026-05-21T11:45:47Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 606,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "Forewords",
+      "level": 1,
+      "wordCount": 4419,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "Contributors",
+      "level": 1,
+      "wordCount": 1873,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "Preface",
+      "level": 1,
+      "wordCount": 9662,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "Making the Most Out of This Book – Get to Know Your Free Benefits",
+      "level": 2,
+      "wordCount": 2132,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "1 Understanding the LLM Twin Concept and Architecture",
+      "level": 1,
+      "wordCount": 37677,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Understanding the LLM Twin concept",
+          "translateTitle": "理解LLM孪生模型概念",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        },
+        {
+          "title": "What is an LLM Twin?",
+          "translateTitle": "什么是LLM孪生模型？",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        },
+        {
+          "title": "Why building an LLM Twin matters",
+          "translateTitle": "为何构建大型语言模型孪生版本具有重要意义",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        },
+        {
+          "title": "Why not use ChatGPT (or another similar chatbot)?",
+          "translateTitle": "为什么不使用ChatGPT（或其他类似的聊天机器人）呢？ ",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        },
+        {
+          "title": "Planning the MVP of the LLM Twin product",
+          "translateTitle": "规划 LLM 双生产品的最小可行产品。 ",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        },
+        {
+          "title": "What is an MVP?",
+          "translateTitle": "什么是MVP？",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        },
+        {
+          "title": "Defining the LLM Twin MVP",
+          "translateTitle": "定义LLM双MVP",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "Building ML systems with feature/training/inference pipelines",
+          "translateTitle": "构建包含特征提取、训练与推理环节的机器学习系统",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        },
+        {
+          "title": "The problem with building ML systems",
+          "translateTitle": "构建机器学习系统时存在的问题",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        },
+        {
+          "title": "The issue with previous solutions",
+          "translateTitle": "以往解决方案存在的问题",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        },
+        {
+          "title": "The solution – ML pipelines for ML systems",
+          "translateTitle": "解决方案：用于机器学习系统的机器学习管道。 ",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "Benefits of the FTI architecture",
+          "translateTitle": "FTI架构的优势",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        },
+        {
+          "title": "Designing the system architecture of the LLM Twin",
+          "translateTitle": "设计大语言模型孪生体的系统架构",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        },
+        {
+          "title": "Listing the technical details of the LLM Twin architecture",
+          "translateTitle": "列出LLM Twin架构的技术细节",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "How to design the LLM Twin architecture using the FTI pipeline design",
+          "translateTitle": "如何使用FTI流水线设计来构建LLM孪生架构",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "Final thoughts on the FTI design and the LLM Twin architecture",
+          "translateTitle": "关于FTI架构与LLM双系统架构的最终看法",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        },
+        {
+          "title": "Summary",
+          "translateTitle": "摘要",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        },
+        {
+          "title": "References",
+          "translateTitle": "参考文献",
+          "anchor": "sigil_toc_id_27",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "2 Tooling and Installation",
+      "level": 1,
+      "wordCount": 41261,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Python ecosystem and project installation",
+          "translateTitle": "Python生态系统与项目安装",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        },
+        {
+          "title": "Poetry: dependency and virtual environment management",
+          "translateTitle": "诗歌：依赖关系管理与虚拟环境构建",
+          "anchor": "sigil_toc_id_29",
+          "level": 3
+        },
+        {
+          "title": "Poe the Poet: task execution tool",
+          "translateTitle": "诗人坡：任务执行工具",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        },
+        {
+          "title": "MLOps and LLMOps tooling",
+          "translateTitle": "机器学习运维相关工具与大规模机器学习运维相关工具",
+          "anchor": "sigil_toc_id_31",
+          "level": 2
+        },
+        {
+          "title": "Hugging Face: model registry",
+          "translateTitle": "Hugging Face：模型注册平台",
+          "anchor": "sigil_toc_id_32",
+          "level": 3
+        },
+        {
+          "title": "ZenML: orchestrator, artifacts, and metadata",
+          "translateTitle": "ZenML：编排器、工件与元数据",
+          "anchor": "sigil_toc_id_33",
+          "level": 3
+        },
+        {
+          "title": "Comet ML: experiment tracker",
+          "translateTitle": "ML彗星：实验追踪器",
+          "anchor": "sigil_toc_id_34",
+          "level": 3
+        },
+        {
+          "title": "Opik: prompt monitoring",
+          "translateTitle": "奥皮克：即时监控",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        },
+        {
+          "title": "Databases for storing unstructured and vector data",
+          "translateTitle": "用于存储非结构化数据及向量数据的数据库",
+          "anchor": "sigil_toc_id_36",
+          "level": 2
+        },
+        {
+          "title": "MongoDB: NoSQL database",
+          "translateTitle": "MongoDB：一种非关系型数据库",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        },
+        {
+          "title": "Qdrant: vector database",
+          "translateTitle": "Qdrant：向量数据库",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "Preparing for AWS",
+          "translateTitle": "为使用 AWS 做准备",
+          "anchor": "sigil_toc_id_39",
+          "level": 2
+        },
+        {
+          "title": "Setting up an AWS account, an access key, and the CLI",
+          "translateTitle": "创建 AWS 账户、访问密钥以及命令行工具",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        },
+        {
+          "title": "SageMaker: training and inference compute",
+          "translateTitle": "SageMaker：用于训练与推理的计算服务",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        },
+        {
+          "title": "Summary",
+          "translateTitle": "摘要",
+          "anchor": "sigil_toc_id_42",
+          "level": 2
+        },
+        {
+          "title": "References",
+          "translateTitle": "参考文献",
+          "anchor": "sigil_toc_id_43",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "3 Data Engineering",
+      "level": 1,
+      "wordCount": 54575,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Designing the LLM Twin's data collection pipeline",
+          "translateTitle": "设计大语言模型孪生体的数据收集流程",
+          "anchor": "sigil_toc_id_44",
+          "level": 2
+        },
+        {
+          "title": "Implementing the LLM Twin's data collection pipeline",
+          "translateTitle": "实施大语言模型孪生体的数据收集流程",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "ZenML pipeline and steps",
+          "translateTitle": "ZenML流水线及各处理步骤",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        },
+        {
+          "title": "The dispatcher: How do you instantiate the right crawler?",
+          "translateTitle": "调度员：如何实例化正确的爬虫程序呢？",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "The crawlers",
+          "translateTitle": "爬行器",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "The NoSQL data warehouse documents",
+          "translateTitle": "NoSQL数据仓库文档",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        },
+        {
+          "title": "Gathering raw data into the data warehouse",
+          "translateTitle": "将原始数据收集到数据仓库中",
+          "anchor": "sigil_toc_id_50",
+          "level": 2
+        },
+        {
+          "title": "Troubleshooting",
+          "translateTitle": "故障排除",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        },
+        {
+          "title": "Summary",
+          "translateTitle": "摘要",
+          "anchor": "sigil_toc_id_52",
+          "level": 2
+        },
+        {
+          "title": "References",
+          "translateTitle": "参考文献",
+          "anchor": "sigil_toc_id_53",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "4 RAG Feature Pipeline",
+      "level": 1,
+      "wordCount": 102466,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Understanding RAG",
+          "translateTitle": "理解RAG",
+          "anchor": "sigil_toc_id_54",
+          "level": 2
+        },
+        {
+          "title": "Why use RAG?",
+          "translateTitle": "为什么要使用RAG？",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        },
+        {
+          "title": "The vanilla RAG framework",
+          "translateTitle": "普通的RAG框架",
+          "anchor": "sigil_toc_id_56",
+          "level": 3
+        },
+        {
+          "title": "What are embeddings?",
+          "translateTitle": "什么是嵌入？",
+          "anchor": "sigil_toc_id_57",
+          "level": 3
+        },
+        {
+          "title": "More on vector DBs",
+          "translateTitle": "关于向量数据库的更多信息",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        },
+        {
+          "title": "An overview of advanced RAG",
+          "translateTitle": "高级RAG技术概述",
+          "anchor": "sigil_toc_id_59",
+          "level": 2
+        },
+        {
+          "title": "Pre-retrieval",
+          "translateTitle": "检索前阶段",
+          "anchor": "sigil_toc_id_60",
+          "level": 3
+        },
+        {
+          "title": "Retrieval",
+          "translateTitle": "检索",
+          "anchor": "sigil_toc_id_61",
+          "level": 3
+        },
+        {
+          "title": "Post-retrieval",
+          "translateTitle": "检索后",
+          "anchor": "sigil_toc_id_62",
+          "level": 3
+        },
+        {
+          "title": "Exploring the LLM Twin's RAG feature pipeline architecture",
+          "translateTitle": "探索大语言模型孪生体的RAG功能架构",
+          "anchor": "sigil_toc_id_63",
+          "level": 2
+        },
+        {
+          "title": "The problem we are solving",
+          "translateTitle": "我们正在解决的问题",
+          "anchor": "sigil_toc_id_64",
+          "level": 3
+        },
+        {
+          "title": "The feature store",
+          "translateTitle": "特征存储",
+          "anchor": "sigil_toc_id_65",
+          "level": 3
+        },
+        {
+          "title": "Where does the raw data come from?",
+          "translateTitle": "原始数据从何而来？",
+          "anchor": "sigil_toc_id_66",
+          "level": 3
+        },
+        {
+          "title": "Designing the architecture of the RAG feature pipeline",
+          "translateTitle": "设计RAG功能流程的架构",
+          "anchor": "sigil_toc_id_67",
+          "level": 3
+        },
+        {
+          "title": "Implementing the LLM Twin's RAG feature pipeline",
+          "translateTitle": "实施大语言模型孪生体的RAG功能流程",
+          "anchor": "sigil_toc_id_68",
+          "level": 2
+        },
+        {
+          "title": "Settings",
+          "translateTitle": "设置",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        },
+        {
+          "title": "ZenML pipeline and steps",
+          "translateTitle": "ZenML流水线及各处理步骤",
+          "anchor": "sigil_toc_id_70",
+          "level": 3
+        },
+        {
+          "title": "Pydantic domain entities",
+          "translateTitle": "迂腐的领域实体",
+          "anchor": "sigil_toc_id_71",
+          "level": 3
+        },
+        {
+          "title": "The dispatcher layer",
+          "translateTitle": "调度层",
+          "anchor": "sigil_toc_id_72",
+          "level": 3
+        },
+        {
+          "title": "The handlers",
+          "translateTitle": "那些驯兽师",
+          "anchor": "sigil_toc_id_73",
+          "level": 3
+        },
+        {
+          "title": "Summary",
+          "translateTitle": "摘要",
+          "anchor": "sigil_toc_id_74",
+          "level": 2
+        },
+        {
+          "title": "References",
+          "translateTitle": "参考文献",
+          "anchor": "sigil_toc_id_75",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "5 Supervised Fine-Tuning",
+      "level": 1,
+      "wordCount": 80695,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Creating an instruction dataset",
+          "translateTitle": "创建指令数据集",
+          "anchor": "sigil_toc_id_76",
+          "level": 2
+        },
+        {
+          "title": "General framework",
+          "translateTitle": "总体框架",
+          "anchor": "sigil_toc_id_77",
+          "level": 3
+        },
+        {
+          "title": "Data curation",
+          "translateTitle": "数据整理与管理",
+          "anchor": "sigil_toc_id_78",
+          "level": 3
+        },
+        {
+          "title": "Rule-based filtering",
+          "translateTitle": "基于规则的过滤",
+          "anchor": "sigil_toc_id_79",
+          "level": 3
+        },
+        {
+          "title": "Data deduplication",
+          "translateTitle": "数据去重",
+          "anchor": "sigil_toc_id_80",
+          "level": 3
+        },
+        {
+          "title": "Data decontamination",
+          "translateTitle": "数据净化",
+          "anchor": "sigil_toc_id_81",
+          "level": 3
+        },
+        {
+          "title": "Data quality evaluation",
+          "translateTitle": "数据质量评估",
+          "anchor": "sigil_toc_id_82",
+          "level": 3
+        },
+        {
+          "title": "Data exploration",
+          "translateTitle": "数据探索",
+          "anchor": "sigil_toc_id_83",
+          "level": 3
+        },
+        {
+          "title": "Data generation",
+          "translateTitle": "数据生成",
+          "anchor": "sigil_toc_id_84",
+          "level": 3
+        },
+        {
+          "title": "Data augmentation",
+          "translateTitle": "数据增强",
+          "anchor": "sigil_toc_id_85",
+          "level": 3
+        },
+        {
+          "title": "Creating our own instruction dataset",
+          "translateTitle": "创建我们自己的教学数据集",
+          "anchor": "sigil_toc_id_86",
+          "level": 2
+        },
+        {
+          "title": "Exploring SFT and its techniques",
+          "translateTitle": "探索SFT及其相关技术",
+          "anchor": "sigil_toc_id_87",
+          "level": 2
+        },
+        {
+          "title": "When to fine-tune",
+          "translateTitle": "何时进行微调",
+          "anchor": "sigil_toc_id_88",
+          "level": 3
+        },
+        {
+          "title": "Instruction dataset formats",
+          "translateTitle": "指令数据集格式",
+          "anchor": "sigil_toc_id_89",
+          "level": 3
+        },
+        {
+          "title": "Chat templates",
+          "translateTitle": "聊天模板",
+          "anchor": "sigil_toc_id_90",
+          "level": 3
+        },
+        {
+          "title": "Parameter-efficient fine-tuning techniques",
+          "translateTitle": "参数效率高的微调技术",
+          "anchor": "sigil_toc_id_91",
+          "level": 3
+        },
+        {
+          "title": "Training parameters",
+          "translateTitle": "训练参数",
+          "anchor": "sigil_toc_id_92",
+          "level": 3
+        },
+        {
+          "title": "Fine-tuning in practice",
+          "translateTitle": "实际操作中的微调",
+          "anchor": "sigil_toc_id_93",
+          "level": 2
+        },
+        {
+          "title": "Summary",
+          "translateTitle": "摘要",
+          "anchor": "sigil_toc_id_94",
+          "level": 2
+        },
+        {
+          "title": "References",
+          "translateTitle": "参考文献",
+          "anchor": "sigil_toc_id_95",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "6 Fine-Tuning with Preference Alignment",
+      "level": 1,
+      "wordCount": 45553,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Understanding preference datasets",
+          "translateTitle": "理解偏好数据集",
+          "anchor": "sigil_toc_id_96",
+          "level": 2
+        },
+        {
+          "title": "Preference data",
+          "translateTitle": "偏好数据",
+          "anchor": "sigil_toc_id_97",
+          "level": 3
+        },
+        {
+          "title": "Data generation and evaluation",
+          "translateTitle": "数据生成与评估",
+          "anchor": "sigil_toc_id_98",
+          "level": 3
+        },
+        {
+          "title": "Creating our own preference dataset",
+          "translateTitle": "创建我们自己的偏好数据集",
+          "anchor": "sigil_toc_id_99",
+          "level": 2
+        },
+        {
+          "title": "Preference alignment",
+          "translateTitle": "偏好一致性",
+          "anchor": "sigil_toc_id_100",
+          "level": 2
+        },
+        {
+          "title": "Reinforcement Learning from Human Feedback",
+          "translateTitle": "基于人类反馈的强化学习",
+          "anchor": "sigil_toc_id_101",
+          "level": 3
+        },
+        {
+          "title": "Direct Preference Optimization",
+          "translateTitle": "直接偏好优化",
+          "anchor": "sigil_toc_id_102",
+          "level": 3
+        },
+        {
+          "title": "Implementing DPO",
+          "translateTitle": "实施数据保护官制度",
+          "anchor": "sigil_toc_id_103",
+          "level": 2
+        },
+        {
+          "title": "Summary",
+          "translateTitle": "摘要",
+          "anchor": "sigil_toc_id_104",
+          "level": 2
+        },
+        {
+          "title": "References",
+          "translateTitle": "参考文献",
+          "anchor": "sigil_toc_id_105",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "7 Evaluating LLMs",
+      "level": 1,
+      "wordCount": 1021,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "Model evaluation",
+      "level": 2,
+      "wordCount": 17193,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Comparing ML and LLM evaluation",
+          "translateTitle": "比较机器学习与大语言模型的评估方法",
+          "anchor": "sigil_toc_id_106",
+          "level": 3
+        },
+        {
+          "title": "General-purpose LLM evaluations",
+          "translateTitle": "通用大语言模型的评估方法",
+          "anchor": "sigil_toc_id_107",
+          "level": 3
+        },
+        {
+          "title": "Domain-specific LLM evaluations",
+          "translateTitle": "特定领域的大型语言模型评估",
+          "anchor": "sigil_toc_id_108",
+          "level": 3
+        },
+        {
+          "title": "Task-specific LLM evaluations",
+          "translateTitle": "针对特定任务的大型语言模型评估",
+          "anchor": "sigil_toc_id_109",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "RAG evaluation",
+      "level": 2,
+      "wordCount": 7861,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Ragas",
+          "translateTitle": "拉格曲",
+          "anchor": "sigil_toc_id_110",
+          "level": 3
+        },
+        {
+          "title": "ARES",
+          "translateTitle": "阿瑞斯",
+          "anchor": "sigil_toc_id_111",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "Evaluating TwinLlama-3.1-8B",
+      "level": 2,
+      "wordCount": 12916,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Generating answers",
+          "translateTitle": "生成答案",
+          "anchor": "sigil_toc_id_112",
+          "level": 3
+        },
+        {
+          "title": "Evaluating answers",
+          "translateTitle": "评估答案",
+          "anchor": "sigil_toc_id_113",
+          "level": 3
+        },
+        {
+          "title": "Analyzing results",
+          "translateTitle": "分析结果",
+          "anchor": "sigil_toc_id_114",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "Summary",
+      "level": 2,
+      "wordCount": 1084,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "References",
+      "level": 2,
+      "wordCount": 1487,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "8 Inference Optimization",
+      "level": 1,
+      "wordCount": 1554,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "Model optimization strategies",
+      "level": 2,
+      "wordCount": 14064,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "KV cache",
+          "translateTitle": "KV缓存",
+          "anchor": "sigil_toc_id_115",
+          "level": 3
+        },
+        {
+          "title": "Continuous batching",
+          "translateTitle": "连续分批处理",
+          "anchor": "sigil_toc_id_116",
+          "level": 3
+        },
+        {
+          "title": "Speculative decoding",
+          "translateTitle": "推测性解码",
+          "anchor": "sigil_toc_id_117",
+          "level": 3
+        },
+        {
+          "title": "Optimized attention mechanisms",
+          "translateTitle": "优化的注意力机制",
+          "anchor": "sigil_toc_id_118",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "Model parallelism",
+      "level": 2,
+      "wordCount": 6999,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Data parallelism",
+          "translateTitle": "数据并行性",
+          "anchor": "sigil_toc_id_119",
+          "level": 3
+        },
+        {
+          "title": "Pipeline parallelism",
+          "translateTitle": "管道并行性",
+          "anchor": "sigil_toc_id_120",
+          "level": 3
+        },
+        {
+          "title": "Tensor parallelism",
+          "translateTitle": "张量并行性",
+          "anchor": "sigil_toc_id_121",
+          "level": 3
+        },
+        {
+          "title": "Combining approaches",
+          "translateTitle": "结合多种方法",
+          "anchor": "sigil_toc_id_122",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "Model quantization",
+      "level": 2,
+      "wordCount": 14659,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Introduction to quantization",
+          "translateTitle": "量化入门",
+          "anchor": "sigil_toc_id_123",
+          "level": 3
+        },
+        {
+          "title": "Quantization with GGUF and llama.cpp",
+          "translateTitle": "使用 GGUF 和 llama.cpp 进行量化",
+          "anchor": "sigil_toc_id_124",
+          "level": 3
+        },
+        {
+          "title": "Quantization with GPTQ and EXL2",
+          "translateTitle": "使用 GPTQ 和 EXL2 进行量化",
+          "anchor": "sigil_toc_id_125",
+          "level": 3
+        },
+        {
+          "title": "Other quantization techniques",
+          "translateTitle": "其他量化技术",
+          "anchor": "sigil_toc_id_126",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "Summary",
+      "level": 2,
+      "wordCount": 1413,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "References",
+      "level": 2,
+      "wordCount": 2049,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "9 RAG Inference Pipeline",
+      "level": 1,
+      "wordCount": 2182,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "Understanding the LLM Twin's RAG inference pipeline",
+      "level": 2,
+      "wordCount": 3392,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "Exploring the LLM Twin's advanced RAG techniques",
+      "level": 2,
+      "wordCount": 26813,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Advanced RAG pre-retrieval optimizations: query expansion and self-querying",
+          "translateTitle": "先进的RAG预检索优化技术：查询扩展与自查询功能",
+          "anchor": "sigil_toc_id_127",
+          "level": 3
+        },
+        {
+          "title": "Advanced RAG retrieval optimization: filtered vector search",
+          "translateTitle": "先进的RAG检索优化技术：基于过滤机制的向量搜索方法",
+          "anchor": "sigil_toc_id_128",
+          "level": 3
+        },
+        {
+          "title": "Advanced RAG post-retrieval optimization: reranking",
+          "translateTitle": "先进的RAG检索后优化技术：重新排序机制",
+          "anchor": "sigil_toc_id_129",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "Implementing the LLM Twin's RAG inference pipeline",
+      "level": 2,
+      "wordCount": 18037,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Implementing the retrieval module",
+          "translateTitle": "实现检索模块",
+          "anchor": "sigil_toc_id_130",
+          "level": 3
+        },
+        {
+          "title": "Bringing everything together into the RAG inference pipeline",
+          "translateTitle": "将所有要素整合到RAG推理流程中",
+          "anchor": "sigil_toc_id_131",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "Summary",
+      "level": 2,
+      "wordCount": 885,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "References",
+      "level": 2,
+      "wordCount": 2204,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "10 Inference Pipeline Deployment",
+      "level": 1,
+      "wordCount": 2111,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "Criteria for choosing deployment types",
+      "level": 2,
+      "wordCount": 5561,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Throughput and latency",
+          "translateTitle": "吞吐量与延迟",
+          "anchor": "sigil_toc_id_132",
+          "level": 3
+        },
+        {
+          "title": "Data",
+          "translateTitle": "数据",
+          "anchor": "sigil_toc_id_133",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "Understanding inference deployment types",
+      "level": 2,
+      "wordCount": 7917,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Online real-time inference",
+          "translateTitle": "在线实时推理",
+          "anchor": "sigil_toc_id_134",
+          "level": 3
+        },
+        {
+          "title": "Asynchronous inference",
+          "translateTitle": "异步推理",
+          "anchor": "sigil_toc_id_135",
+          "level": 3
+        },
+        {
+          "title": "Offline batch transform",
+          "translateTitle": "离线批量转换",
+          "anchor": "sigil_toc_id_136",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "Monolithic versus microservices architecture in model serving",
+      "level": 2,
+      "wordCount": 6228,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Monolithic architecture",
+          "translateTitle": "单体架构",
+          "anchor": "sigil_toc_id_137",
+          "level": 3
+        },
+        {
+          "title": "Microservices architecture",
+          "translateTitle": "微服务架构",
+          "anchor": "sigil_toc_id_138",
+          "level": 3
+        },
+        {
+          "title": "Choosing between monolithic and microservices architectures",
+          "translateTitle": "在单体架构与微服务架构之间做出选择",
+          "anchor": "sigil_toc_id_139",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "Exploring the LLM Twin's inference pipeline deployment strategy",
+      "level": 2,
+      "wordCount": 7439,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "The training versus the inference pipeline",
+          "translateTitle": "训练流程与推理流程的区别",
+          "anchor": "sigil_toc_id_140",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "Deploying the LLM Twin service",
+      "level": 2,
+      "wordCount": 31647,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Implementing the LLM microservice using AWS SageMaker",
+          "translateTitle": "使用 AWS SageMaker 实现 LLM 微服务",
+          "anchor": "sigil_toc_id_141",
+          "level": 3
+        },
+        {
+          "title": "Building the business microservice using FastAPI",
+          "translateTitle": "使用FastAPI构建业务微服务",
+          "anchor": "sigil_toc_id_142",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "Autoscaling capabilities to handle spikes in usage",
+      "level": 2,
+      "wordCount": 8739,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Registering a scalable target",
+          "translateTitle": "注册一个可扩展的目标对象",
+          "anchor": "sigil_toc_id_143",
+          "level": 3
+        },
+        {
+          "title": "Creating a scalable policy",
+          "translateTitle": "制定可扩展的政策",
+          "anchor": "sigil_toc_id_144",
+          "level": 3
+        },
+        {
+          "title": "Minimum and maximum scaling limits",
+          "translateTitle": "最小与最大缩放限制",
+          "anchor": "sigil_toc_id_145",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "Summary",
+      "level": 2,
+      "wordCount": 1157,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "References",
+      "level": 2,
+      "wordCount": 1561,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "11 MLOps and LLMOps",
+      "level": 1,
+      "wordCount": 3054,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "The path to LLMOps: Understanding its roots in DevOps and MLOps",
+      "level": 2,
+      "wordCount": 22120,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "DevOps",
+          "translateTitle": "DevOps模式",
+          "anchor": "sigil_toc_id_146",
+          "level": 3
+        },
+        {
+          "title": "MLOps",
+          "translateTitle": "机器学习运维",
+          "anchor": "sigil_toc_id_147",
+          "level": 3
+        },
+        {
+          "title": "LLMOps",
+          "translateTitle": "临床医学博士",
+          "anchor": "sigil_toc_id_148",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "Deploying the LLM Twin's pipelines to the cloud",
+      "level": 2,
+      "wordCount": 23878,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Understanding the infrastructure",
+          "translateTitle": "了解基础设施",
+          "anchor": "sigil_toc_id_149",
+          "level": 3
+        },
+        {
+          "title": "Setting up MongoDB",
+          "translateTitle": "设置 MongoDB",
+          "anchor": "sigil_toc_id_150",
+          "level": 3
+        },
+        {
+          "title": "Setting up Qdrant",
+          "translateTitle": "设置Qdrant",
+          "anchor": "sigil_toc_id_151",
+          "level": 3
+        },
+        {
+          "title": "Setting up the ZenML cloud",
+          "translateTitle": "搭建 ZenML 云平台",
+          "anchor": "sigil_toc_id_152",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "Adding LLMOps to the LLM Twin",
+      "level": 2,
+      "wordCount": 29328,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "LLM Twin's CI/CD pipeline flow",
+          "translateTitle": "LLM Twin的持续集成/持续交付流程",
+          "anchor": "sigil_toc_id_153",
+          "level": 3
+        },
+        {
+          "title": "Quick overview of GitHub Actions",
+          "translateTitle": "GitHub Actions快速入门",
+          "anchor": "sigil_toc_id_154",
+          "level": 3
+        },
+        {
+          "title": "The CI pipeline",
+          "translateTitle": "持续集成管道",
+          "anchor": "sigil_toc_id_155",
+          "level": 3
+        },
+        {
+          "title": "The CD pipeline",
+          "translateTitle": "CD发行渠道",
+          "anchor": "sigil_toc_id_156",
+          "level": 3
+        },
+        {
+          "title": "Test out the CI/CD pipeline",
+          "translateTitle": "测试CI/CD管道。",
+          "anchor": "sigil_toc_id_157",
+          "level": 3
+        },
+        {
+          "title": "The CT pipeline",
+          "translateTitle": "CT管道",
+          "anchor": "sigil_toc_id_158",
+          "level": 3
+        },
+        {
+          "title": "Prompt monitoring",
+          "translateTitle": "及时监控",
+          "anchor": "sigil_toc_id_159",
+          "level": 3
+        },
+        {
+          "title": "Alerting",
+          "translateTitle": "发出警报",
+          "anchor": "sigil_toc_id_160",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "Summary",
+      "level": 2,
+      "wordCount": 1931,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "References",
+      "level": 2,
+      "wordCount": 1932,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "Appendix MLOps Principles",
+      "level": 1,
+      "wordCount": 511,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "1 Automation or operationalization",
+      "level": 2,
+      "wordCount": 2200,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "2 Versioning",
+      "level": 2,
+      "wordCount": 2087,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "3 Experiment tracking",
+      "level": 2,
+      "wordCount": 476,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "4 Testing",
+      "level": 2,
+      "wordCount": 5767,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Test types",
+          "translateTitle": "测试类型",
+          "anchor": "sigil_toc_id_161",
+          "level": 3
+        },
+        {
+          "title": "What do we test?",
+          "translateTitle": "我们要测试什么？",
+          "anchor": "sigil_toc_id_162",
+          "level": 3
+        },
+        {
+          "title": "Test examples",
+          "translateTitle": "测试用例",
+          "anchor": "sigil_toc_id_163",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "5 Monitoring",
+      "level": 2,
+      "wordCount": 9037,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "Logs",
+          "translateTitle": "日志记录",
+          "anchor": "sigil_toc_id_164",
+          "level": 3
+        },
+        {
+          "title": "Metrics",
+          "translateTitle": "指标",
+          "anchor": "sigil_toc_id_165",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "6 Reproducibility",
+      "level": 2,
+      "wordCount": 1287,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "Other Books You May Enjoy",
+      "level": 1,
+      "wordCount": 1845,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "Index",
+      "level": 1,
+      "wordCount": 14136,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300181050&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=54"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 34,
+      "chapterTitle": "Monolithic versus microservices architecture in model serving",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300181050_34_2779-2891",
+          "range": "2779-2891",
+          "rangeStart": 2779,
+          "rangeEnd": 2891,
+          "markText": "monolithic architecture is the difficulty of scaling components independently. The LLM typically requires GPU po",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1771514850,
+          "createTimeFormatted": "2026-02-19 23:27:30",
+          "chapterUid": 34,
+          "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=34&rangeStart=2779&rangeEnd=2891",
+          "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=34&rangeStart=2779&rangeEnd=2891"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300181050_37_6261-6310",
+      "chapterUid": 37,
+      "range": "6261-6310",
+      "markText": "This is where creating a scaling policy comes in.",
+      "totalCount": 625,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=37&rangeStart=6261&rangeEnd=6310",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=37&rangeStart=6261&rangeEnd=6310"
+    },
+    {
+      "bookmarkId": "3300181050_37_9126-9160",
+      "chapterUid": 37,
+      "range": "9126-9160",
+      "markText": "Minimum and maximum scaling limits",
+      "totalCount": 520,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=37&rangeStart=9126&rangeEnd=9160",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=37&rangeStart=9126&rangeEnd=9160"
+    },
+    {
+      "bookmarkId": "3300181050_8_5783-5943",
+      "chapterUid": 8,
+      "range": "5783-5943",
+      "markText": "Now that we have installed the correct Python version using pyenv, let's move on to Poetry, which we will use as our dependency and virtual environment manager.",
+      "totalCount": 516,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=8&rangeStart=5783&rangeEnd=5943",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=8&rangeStart=5783&rangeEnd=5943"
+    },
+    {
+      "bookmarkId": "3300181050_8_3359-3400",
+      "chapterUid": 8,
+      "range": "3359-3400",
+      "markText": "Python ecosystem and project installation",
+      "totalCount": 515,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=8&rangeStart=3359&rangeEnd=3400",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=8&rangeStart=3359&rangeEnd=3400"
+    },
+    {
+      "bookmarkId": "3300181050_12_47155-47229",
+      "chapterUid": 12,
+      "range": "47155-47229",
+      "markText": "In this section, we will DPO fine-tune the TwinLlama-3.",
+      "totalCount": 502,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=12&rangeStart=47155&rangeEnd=47229",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=12&rangeStart=47155&rangeEnd=47229"
+    },
+    {
+      "bookmarkId": "3300181050_8_53884-53971",
+      "chapterUid": 8,
+      "range": "53884-53971",
+      "markText": "The last topic of this chapter is understanding SageMaker and why we decided to use it.",
+      "totalCount": 472,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=8&rangeStart=53884&rangeEnd=53971",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=8&rangeStart=53884&rangeEnd=53971"
+    },
+    {
+      "bookmarkId": "3300181050_37_9914-9929",
+      "chapterUid": 37,
+      "range": "9914-9929",
+      "markText": "Cooldown period",
+      "totalCount": 465,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=37&rangeStart=9914&rangeEnd=9929",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=37&rangeStart=9914&rangeEnd=9929"
+    },
+    {
+      "bookmarkId": "3300181050_37_355-405",
+      "chapterUid": 37,
+      "range": "355-405",
+      "markText": "Autoscaling capabilities to handle spikes in usage",
+      "totalCount": 456,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=37&rangeStart=355&rangeEnd=405",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=37&rangeStart=355&rangeEnd=405"
+    },
+    {
+      "bookmarkId": "3300181050_42_12155-12176",
+      "chapterUid": 42,
+      "range": "12155-12176",
+      "markText": "USE_QDRANT_CLOUD=true",
+      "totalCount": 438,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=42&rangeStart=12155&rangeEnd=12176",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=42&rangeStart=12155&rangeEnd=12176"
+    },
+    {
+      "bookmarkId": "3300181050_51_12236-12305",
+      "chapterUid": 51,
+      "range": "12236-12305",
+      "markText": "Once we define our monitoring metrics, we need a way to get notified.",
+      "totalCount": 404,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=51&rangeStart=12236&rangeEnd=12305",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=51&rangeStart=12236&rangeEnd=12305"
+    },
+    {
+      "bookmarkId": "3300181050_8_41407-41620",
+      "chapterUid": 8,
+      "range": "41407-41620",
+      "markText": "An experiment tracking tool allows you to log all the necessary information, such as metrics and visual representations of your model predictions, to compare all your experiments and quickly select the best model.",
+      "totalCount": 349,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=8&rangeStart=41407&rangeEnd=41620",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=8&rangeStart=41407&rangeEnd=41620"
+    },
+    {
+      "bookmarkId": "3300181050_12_36745-36765",
+      "chapterUid": 12,
+      "range": "36745-36765",
+      "markText": "Preference alignment",
+      "totalCount": 340,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=12&rangeStart=36745&rangeEnd=36765",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=12&rangeStart=36745&rangeEnd=36765"
+    },
+    {
+      "bookmarkId": "3300181050_6_5473-5532",
+      "chapterUid": 6,
+      "range": "5473-5532",
+      "markText": "Sign in to your Packt account or create a new one for free.",
+      "totalCount": 317,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=6&rangeStart=5473&rangeEnd=5532",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=6&rangeStart=5473&rangeEnd=5532"
+    },
+    {
+      "bookmarkId": "3300181050_8_43802-43829",
+      "chapterUid": 8,
+      "range": "43802-43829",
+      "markText": "Opik for prompt monitoring.",
+      "totalCount": 310,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=8&rangeStart=43802&rangeEnd=43829",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=8&rangeStart=43802&rangeEnd=43829"
+    },
+    {
+      "bookmarkId": "3300181050_8_19077-19123",
+      "chapterUid": 8,
+      "range": "19077-19123",
+      "markText": "ZenML acts as the bridge between ML and MLOps.",
+      "totalCount": 246,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=8&rangeStart=19077&rangeEnd=19123",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=8&rangeStart=19077&rangeEnd=19123"
+    },
+    {
+      "bookmarkId": "3300181050_51_2865-2942",
+      "chapterUid": 51,
+      "range": "2865-2942",
+      "markText": "To quantify your application's healthiness, you must define a set of metrics.",
+      "totalCount": 243,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=51&rangeStart=2865&rangeEnd=2942",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=51&rangeStart=2865&rangeEnd=2942"
+    },
+    {
+      "bookmarkId": "3300181050_42_39899-39931",
+      "chapterUid": 42,
+      "range": "39899-39931",
+      "markText": "poetry poe delete-settings-zenml",
+      "totalCount": 220,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=42&rangeStart=39899&rangeEnd=39931",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=42&rangeStart=39899&rangeEnd=39931"
+    },
+    {
+      "bookmarkId": "3300181050_8_16429-16524",
+      "chapterUid": 8,
+      "range": "16429-16524",
+      "markText": "A model registry is a centralized repository that manages ML models throughout their lifecycle.",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=8&rangeStart=16429&rangeEnd=16524",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=8&rangeStart=16429&rangeEnd=16524"
+    },
+    {
+      "bookmarkId": "3300181050_51_854-952",
+      "chapterUid": 51,
+      "range": "854-952",
+      "markText": "This happens because the data from production might differ from the data the model was trained on.",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=51&rangeStart=854&rangeEnd=952",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=51&rangeStart=854&rangeEnd=952"
+    },
+    {
+      "bookmarkId": "3300181050_12_3963-4102",
+      "chapterUid": 12,
+      "range": "3963-4102",
+      "markText": "Preference datasets lack the standardization of instruction datasets due to varying data requirements across different training algorithms.",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=3300181050&chapterUid=12&rangeStart=3963&rangeEnd=4102",
+      "webLink": "https://weread.qq.com/web/reader/3d4325b0813abad39g010504?chapterUid=12&rangeStart=3963&rangeEnd=4102"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

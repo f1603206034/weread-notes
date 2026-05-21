@@ -1,0 +1,859 @@
+{
+  "meta": {
+    "bookId": "23303662",
+    "title": "童年 在人间 我的大学",
+    "author": "[苏]高尔基",
+    "translator": "刘辽逸,楼适夷,陆风",
+    "cover": "https://cdn.weread.qq.com/weread/cover/1/YueWen_23303662/t6_YueWen_23303662.jpg",
+    "intro": "《童年 在人间 我的大学》是高尔基著名的自传体小说三部曲，它是高尔基根据自己的生活道路，和俄罗斯19世纪70—80年代的社会生活所描绘的一幅多彩的历史画卷，是一部卓越的艺术珍品。作品中的主人公阿廖沙不仅是高尔基早年生活的写照，同时也是俄国劳动人民经过艰苦复杂的磨炼后走向新生活道路的具有概括性意义的艺术典型。",
+    "category": "文学-外国文学",
+    "publisher": "人民文学出版社",
+    "publishTime": "2016-03-01 00:00:00",
+    "isbn": "9787020104369",
+    "wordCount": 0,
+    "newRating": 879,
+    "newRatingCount": 286,
+    "newRatingDetail": {
+      "good": 257,
+      "fair": 19,
+      "poor": 10,
+      "recent": 3,
+      "deepV": 35,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=23303662",
+    "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94",
+    "lastSync": "2026-05-21T11:47:26Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 0,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "fb2cf3afcbe5268fa714483f691d5aa080215dd9368e33f3911d9ec7495b1266"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 141,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 498,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "出版说明",
+      "level": 1,
+      "wordCount": 338,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 4004,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "童年",
+      "level": 1,
+      "wordCount": 7512,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "给我的儿子",
+          "anchor": "bw1",
+          "level": 2
+        },
+        {
+          "title": "一",
+          "anchor": "bw2",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "二",
+      "level": 3,
+      "wordCount": 9072,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二",
+          "anchor": "bw3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "三",
+      "level": 3,
+      "wordCount": 12044,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "三",
+          "anchor": "bw4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "四",
+      "level": 3,
+      "wordCount": 9224,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "四",
+          "anchor": "bw5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "五",
+      "level": 3,
+      "wordCount": 9495,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "五",
+          "anchor": "bw6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "六",
+      "level": 3,
+      "wordCount": 5352,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "六",
+          "anchor": "bw7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "七",
+      "level": 3,
+      "wordCount": 8619,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "七",
+          "anchor": "bw8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "八",
+      "level": 3,
+      "wordCount": 10515,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "八",
+          "anchor": "bw9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "九",
+      "level": 3,
+      "wordCount": 11780,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "九",
+          "anchor": "bw10",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "十",
+      "level": 3,
+      "wordCount": 13481,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "十",
+          "anchor": "bw11",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "十一",
+      "level": 3,
+      "wordCount": 13919,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "十一",
+          "anchor": "bw12",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "十二",
+      "level": 3,
+      "wordCount": 15020,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "十二",
+          "anchor": "bw13",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "十三",
+      "level": 3,
+      "wordCount": 11008,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "十三",
+          "anchor": "bw14",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "在人间",
+      "level": 1,
+      "wordCount": 12064,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23303662&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "二",
+      "level": 2,
+      "wordCount": 10581,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "三",
+      "level": 2,
+      "wordCount": 7674,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "四",
+      "level": 2,
+      "wordCount": 19121,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "五",
+      "level": 2,
+      "wordCount": 9786,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "六",
+      "level": 2,
+      "wordCount": 7085,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "七",
+      "level": 2,
+      "wordCount": 11032,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "八",
+      "level": 2,
+      "wordCount": 10733,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "九",
+      "level": 2,
+      "wordCount": 11093,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "十",
+      "level": 2,
+      "wordCount": 13818,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "十一",
+      "level": 2,
+      "wordCount": 12313,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "十二",
+      "level": 2,
+      "wordCount": 15069,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "十三",
+      "level": 2,
+      "wordCount": 8344,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "十四",
+      "level": 2,
+      "wordCount": 10035,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "十五",
+      "level": 2,
+      "wordCount": 8448,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "十六",
+      "level": 2,
+      "wordCount": 9332,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "十七",
+      "level": 2,
+      "wordCount": 10029,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "十八",
+      "level": 2,
+      "wordCount": 9126,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "十九",
+      "level": 2,
+      "wordCount": 8299,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "二十",
+      "level": 2,
+      "wordCount": 9460,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "我的大学",
+      "level": 1,
+      "wordCount": 93302,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "名著名译丛书（第一辑）书目",
+      "level": 1,
+      "wordCount": 42,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23303662&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=40"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "童年",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_84WpkD4zj",
+          "range": "1714-1980",
+          "chapterName": "童年",
+          "content": "阿廖沙·彼什科夫（即高尔基）三岁时（1871年）在阿斯特拉罕流行霍乱，他父亲马克西姆看护他，不幸染病身亡。",
+          "abstract": "我得过一场大病。才刚下地。我病着的时候记得很清楚：父亲高高兴兴地看护我，可是后来，他忽然不见了，却换了一个奇怪的人——外祖母来看护我。",
+          "star": -1,
+          "createTime": 1764124925,
+          "createTimeFormatted": "2025-11-26 10:42:05",
+          "isFinish": false,
+          "chapterUid": 6
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "23303662_14_418-516",
+      "chapterUid": 14,
+      "range": "418-516",
+      "markText": "小的时候，我想象自己是一个蜂窝，各式各样普通的粗人，全像蜜蜂似的把蜜——生活的知识和思想，送进蜂窝里，他们尽自己所能做到的慷慨大量地丰富我的心灵。这种蜂蜜常常是肮脏而味苦的，但只要是知识，就是蜜。",
+      "totalCount": 238,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=14&rangeStart=418&rangeEnd=516",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=14&rangeStart=418&rangeEnd=516"
+    },
+    {
+      "bookmarkId": "23303662_30_16058-16116",
+      "chapterUid": 30,
+      "range": "16058-16116",
+      "markText": "我想明白，是什么东西，使这班蠢笨的生铁般的人，围住了这么一个可怜的小伙子，为什么，这个害馋痨病的人会使他们感到快乐？",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=30&rangeStart=16058&rangeEnd=16116",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=30&rangeStart=16058&rangeEnd=16116"
+    },
+    {
+      "bookmarkId": "23303662_8_16423-16431",
+      "chapterUid": 8,
+      "range": "16423-16431",
+      "markText": "过后不久，他死了",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=8&rangeStart=16423&rangeEnd=16431",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=8&rangeStart=16423&rangeEnd=16431"
+    },
+    {
+      "bookmarkId": "23303662_8_20684-20706",
+      "chapterUid": 8,
+      "range": "20684-20706",
+      "markText": "……“小茨冈”无声无臭地、被人遗忘地埋掉了。",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=8&rangeStart=20684&rangeEnd=20706",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=8&rangeStart=20684&rangeEnd=20706"
+    },
+    {
+      "bookmarkId": "23303662_24_5366-5455",
+      "chapterUid": 24,
+      "range": "5366-5455",
+      "markText": "这种行为使我产生了一种说不出的侮辱人和欺侮人的感觉，他们的行为使我很不平静，感到深深的忧郁。为什么这种讨厌的事情，这种痛心的事情，会使他们感到快乐呢？什么东西逗得他们这样高兴呢？",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=24&rangeStart=5366&rangeEnd=5455",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=24&rangeStart=5366&rangeEnd=5455"
+    },
+    {
+      "bookmarkId": "23303662_20_11285-11351",
+      "chapterUid": 20,
+      "range": "11285-11351",
+      "markText": "她又用简单明白的话告诉我们，什么叫做“胡闹”。她说得很美很动人，使我深刻懂得，花没有开放是不可以摘的，要不就没有香味，也不会结果了。",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=20&rangeStart=11285&rangeEnd=11351",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=20&rangeStart=11285&rangeEnd=11351"
+    },
+    {
+      "bookmarkId": "23303662_7_417-496",
+      "chapterUid": 7,
+      "range": "417-496",
+      "markText": "一种浓厚的、色彩斑驳的、离奇得难以形容的生活，以惊人的速度开始奔流了。在我的记忆中，那段生活，仿佛是由一个善良而且极端诚实的天才美妙地讲出来的一个悲惨的童话。",
+      "totalCount": 135,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=7&rangeStart=417&rangeEnd=496",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=7&rangeStart=417&rangeEnd=496"
+    },
+    {
+      "bookmarkId": "23303662_7_15842-15915",
+      "chapterUid": 7,
+      "range": "15842-15915",
+      "markText": "他一直讲到晚上，临走的时候，他亲切地和我告别，我才知道外祖父并不凶恶，也不可怕。我一想起他曾这么残酷地毒打我，就难过地流泪，并且总也忘不了这件事。",
+      "totalCount": 135,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=7&rangeStart=15842&rangeEnd=15915",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=7&rangeStart=15842&rangeEnd=15915"
+    },
+    {
+      "bookmarkId": "23303662_38_4998-5039",
+      "chapterUid": 38,
+      "range": "4998-5039",
+      "markText": "但是书愈读得多，就愈觉得不愿去过那种一般人所过的在我看来毫无意味、毫无必要的生活。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=38&rangeStart=4998&rangeEnd=5039",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=38&rangeStart=4998&rangeEnd=5039"
+    },
+    {
+      "bookmarkId": "23303662_39_5558-5649",
+      "chapterUid": 39,
+      "range": "5558-5649",
+      "markText": "我并不期待别人的救助和偶然的幸运，我的意志逐渐磨练得顽强起来；生活条件越是困难，我就觉得自己越发坚强，甚至越发聪明了。我很小的时候就已经懂得，人是在对周围环境的不断反抗中成长起来的。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=39&rangeStart=5558&rangeEnd=5649",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=39&rangeStart=5558&rangeEnd=5649"
+    },
+    {
+      "bookmarkId": "23303662_18_18359-18482",
+      "chapterUid": 18,
+      "range": "18359-18482",
+      "markText": "埋过母亲几天以后，外祖父对我说： “喂，列克谢，你不是一枚奖章，我脖子上不是挂你的地方，你到人间混饭吃去吧……” 于是我就到人间去了。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=18&rangeStart=18359&rangeEnd=18482",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=18&rangeStart=18359&rangeEnd=18482"
+    },
+    {
+      "bookmarkId": "23303662_14_10613-10659",
+      "chapterUid": 14,
+      "range": "10613-10659",
+      "markText": "这一切做得这样快，我看了看那个我蹬着跳到院子的树枝，它还在摇晃着呢，一片黄叶从那上面落下来。",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=14&rangeStart=10613&rangeEnd=10659",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=14&rangeStart=10613&rangeEnd=10659"
+    },
+    {
+      "bookmarkId": "23303662_9_4388-4428",
+      "chapterUid": 9,
+      "range": "4388-4428",
+      "markText": "“他不是劲儿大，是岁数大！再说，他是我的丈夫！上帝叫他管我，我命定该忍受的……”",
+      "totalCount": 117,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=9&rangeStart=4388&rangeEnd=4428",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=9&rangeStart=4388&rangeEnd=4428"
+    },
+    {
+      "bookmarkId": "23303662_32_795-818",
+      "chapterUid": 32,
+      "range": "795-818",
+      "markText": "“莫斯科不相信眼泪，在那里一切都得小心谨慎！”",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=32&rangeStart=795&rangeEnd=818",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=32&rangeStart=795&rangeEnd=818"
+    },
+    {
+      "bookmarkId": "23303662_7_12764-12835",
+      "chapterUid": 7,
+      "range": "12764-12835",
+      "markText": "从那时起，我怀着不安的心情观察人们，仿佛我心上的外皮给人撕掉了，于是，这颗心就变得对于一切屈辱和痛苦，不论是自己的或别人的，都难以忍受的敏感。",
+      "totalCount": 110,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=7&rangeStart=12764&rangeEnd=12835",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=7&rangeStart=12764&rangeEnd=12835"
+    },
+    {
+      "bookmarkId": "23303662_15_24353-24402",
+      "chapterUid": 15,
+      "range": "24353-24402",
+      "markText": "由于生活的穷苦贫困，俄罗斯人大抵都像小孩子似的喜欢拿忧伤来逗乐，拿它来玩弄，不因做不幸的人而羞愧。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=15&rangeStart=24353&rangeEnd=24402",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=15&rangeStart=24353&rangeEnd=24402"
+    },
+    {
+      "bookmarkId": "23303662_24_11985-12013",
+      "chapterUid": 24,
+      "range": "11985-12013",
+      "markText": "后来，我还遇到过多少像他这样善良、孤独而愤世的人啊！……",
+      "totalCount": 105,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=24&rangeStart=11985&rangeEnd=12013",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=24&rangeStart=11985&rangeEnd=12013"
+    },
+    {
+      "bookmarkId": "23303662_7_597-668",
+      "chapterUid": 7,
+      "range": "597-668",
+      "markText": "但真理比怜悯更高，要知道，我不是在讲我自己，而是讲那令人窒息的、充满可怕景象的狭小天地。在这里，普通的俄国人曾生活过，而且直到现在还在生活着。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=7&rangeStart=597&rangeEnd=668",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=7&rangeStart=597&rangeEnd=668"
+    },
+    {
+      "bookmarkId": "23303662_7_4027-4074",
+      "chapterUid": 7,
+      "range": "4027-4074",
+      "markText": "我觉得外祖父脾气很坏；他不论和谁讲话，总是嘲笑人，欺负人，摆出一副挑战的架势，极力惹对方生气。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=7&rangeStart=4027&rangeEnd=4074",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=7&rangeStart=4027&rangeEnd=4074"
+    },
+    {
+      "bookmarkId": "23303662_8_645-724",
+      "chapterUid": 8,
+      "range": "645-724",
+      "markText": "有时用火烧热他的剪子把儿，有时在他坐的椅子上插一个尖朝上的钉子，或者把颜色不同的料子偷偷地放在这个半瞎的老人手边。他拿它们缝成一匹布，这样他就会挨外祖父的骂。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=23303662&chapterUid=8&rangeStart=645&rangeEnd=724",
+      "webLink": "https://weread.qq.com/web/reader/a79324d0716395eea79cf94?chapterUid=8&rangeStart=645&rangeEnd=724"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 7,
+    "chapterOffset": 15806,
+    "progress": 0,
+    "updateTime": 1764129361,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

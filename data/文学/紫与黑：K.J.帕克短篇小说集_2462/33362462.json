@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "bookId": "33362462",
+    "title": "紫与黑：K.J.帕克短篇小说集",
+    "author": "K.J.帕克",
+    "translator": "沈恺宇等",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/462/33362462/t6_33362462.jpg",
+    "intro": "K.J.帕克在《紫与黑》的八个短篇中向读者充分展示了他拥有的独特知识以及他对人性的深刻洞悉——前者使他笔下世界观的建构坚实而完整，后者则赋予了角色生命。",
+    "category": "文学-经典作品",
+    "publisher": "四川科学技术出版社",
+    "publishTime": "2020-02-01 00:00:00",
+    "isbn": "9787536496101",
+    "wordCount": 0,
+    "newRating": 894,
+    "newRatingCount": 1395,
+    "newRatingDetail": {
+      "good": 1267,
+      "fair": 113,
+      "poor": 15,
+      "recent": 29,
+      "deepV": 340,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=33362462",
+    "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8",
+    "lastSync": "2026-05-21T11:56:34Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33362462&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 138,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33362462&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "紫与黑",
+      "level": 1,
+      "wordCount": 45017,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33362462&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "借人以图",
+      "level": 1,
+      "wordCount": 47051,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33362462&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "婴儿与洗澡水",
+      "level": 1,
+      "wordCount": 37365,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33362462&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "胜者恒强",
+      "level": 1,
+      "wordCount": 19917,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33362462&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "蓝与金",
+      "level": 1,
+      "wordCount": 46293,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33362462&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "以爱之名",
+      "level": 1,
+      "wordCount": 46189,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33362462&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "艺术家的肖像",
+      "level": 1,
+      "wordCount": 18965,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33362462&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "最熟悉的魔鬼",
+      "level": 1,
+      "wordCount": 48754,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=33362462&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=10"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 3,
+      "chapterTitle": "紫与黑",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "33362462_3_19266-19356",
+          "range": "19266-19356",
+          "rangeStart": 19266,
+          "rangeEnd": 19356,
+          "markText": "这就像人们总在争论该吃肉还是吃素，可如果城里的每个人都得亲自屠宰自己的食物，那他们也许会变成素食主义者。然而，这是不可能的。只要让他们连续吃上几星期的素，也许每个人就都变成屠夫了。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1724112205,
+          "createTimeFormatted": "2024-08-20 08:03:25",
+          "chapterUid": 3,
+          "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=19266&rangeEnd=19356",
+          "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=19266&rangeEnd=19356"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "33362462_3_58663-58717",
+      "chapterUid": 3,
+      "range": "58663-58717",
+      "markText": "这里也许是我待过的最好的地方了。只有在很久以前的某处，我才享受过比这儿更快乐的日子。有空的时候，请给我回信。",
+      "totalCount": 2656,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=58663&rangeEnd=58717",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=58663&rangeEnd=58717"
+    },
+    {
+      "bookmarkId": "33362462_3_4719-4757",
+      "chapterUid": 3,
+      "range": "4719-4757",
+      "markText": "给你提个有用的建议，当你骑在马上的时候，如果能看见马尾巴，那就说明你骑反了。",
+      "totalCount": 2167,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=4719&rangeEnd=4757",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=4719&rangeEnd=4757"
+    },
+    {
+      "bookmarkId": "33362462_3_33677-33716",
+      "chapterUid": 3,
+      "range": "33677-33716",
+      "markText": "一个人可以背叛他的荣誉、祖国和朋友，但他绝不会背叛两人对于色情文学的共同热爱。",
+      "totalCount": 2086,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=33677&rangeEnd=33716",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=33677&rangeEnd=33716"
+    },
+    {
+      "bookmarkId": "33362462_3_42537-42608",
+      "chapterUid": 3,
+      "range": "42537-42608",
+      "markText": "弗尔米奥十分遗憾地禀告皇帝陛下，拉马卡斯将军不幸于战斗中牺牲。拉马卡斯将军在率军冲击敌阵时不幸中伏，死得光荣而勇敢。我方取得了这场战斗的胜利。",
+      "totalCount": 1734,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=42537&rangeEnd=42608",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=42537&rangeEnd=42608"
+    },
+    {
+      "bookmarkId": "33362462_5_53276-53314",
+      "chapterUid": 5,
+      "range": "53276-53314",
+      "markText": "我猜那个宏大计划会以某种形式继续下去，直到永远，阿门。但在我眼皮底下可没门。",
+      "totalCount": 1632,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=5&rangeStart=53276&rangeEnd=53314",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=5&rangeStart=53276&rangeEnd=53314"
+    },
+    {
+      "bookmarkId": "33362462_3_3677-3733",
+      "chapterUid": 3,
+      "range": "3677-3733",
+      "markText": "我忽然灵机一动。如果你真是无敌骄阳的兄弟，也许能说服你哥哥到我们这儿来一趟，只要把公共厕所里结的冰给融化了就行。",
+      "totalCount": 1350,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=3677&rangeEnd=3733",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=3677&rangeEnd=3733"
+    },
+    {
+      "bookmarkId": "33362462_3_15770-15828",
+      "chapterUid": 3,
+      "range": "15770-15828",
+      "markText": "地图和景物之间的关系有点像新鲜无花果和无花果干，后者只不过被晒干压平了。一旦你看懂了，地图就是一个完全脱水后的世界。",
+      "totalCount": 1332,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=15770&rangeEnd=15828",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=15770&rangeEnd=15828"
+    },
+    {
+      "bookmarkId": "33362462_3_4338-4380",
+      "chapterUid": 3,
+      "range": "4338-4380",
+      "markText": "当了皇帝显然不是我的错，要怪就怪我所有可恶的亲戚们都死于互相残杀了，只剩下我能登基。",
+      "totalCount": 1088,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=4338&rangeEnd=4380",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=4338&rangeEnd=4380"
+    },
+    {
+      "bookmarkId": "33362462_4_61218-61273",
+      "chapterUid": 4,
+      "range": "61218-61273",
+      "markText": "我说过那艘克拉克帆船的货物里有水果。的确如此。但我没有提到的是，船上装着的是整整三吨质量上乘、新鲜采摘的柠檬。",
+      "totalCount": 1020,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=4&rangeStart=61218&rangeEnd=61273",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=4&rangeStart=61218&rangeEnd=61273"
+    },
+    {
+      "bookmarkId": "33362462_3_2379-2431",
+      "chapterUid": 3,
+      "range": "2379-2431",
+      "markText": "一想到你在那里受冻的样子——缩在毛毯里簌簌发抖，冻得通红的小手放在忽明忽暗的蜡烛上取暖——我就寝食难安。",
+      "totalCount": 990,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=2379&rangeEnd=2431",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=2379&rangeEnd=2431"
+    },
+    {
+      "bookmarkId": "33362462_3_7288-7318",
+      "chapterUid": 3,
+      "range": "7288-7318",
+      "markText": "这意味着内阁中的重要职位都已经掌握在我们一三班同学的手里了。",
+      "totalCount": 870,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=7288&rangeEnd=7318",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=7288&rangeEnd=7318"
+    },
+    {
+      "bookmarkId": "33362462_3_58290-58314",
+      "chapterUid": 3,
+      "range": "58290-58314",
+      "markText": "我放过了他，三个答案中只有一个是谎言，还算不错。",
+      "totalCount": 858,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=58290&rangeEnd=58314",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=58290&rangeEnd=58314"
+    },
+    {
+      "bookmarkId": "33362462_4_19428-19464",
+      "chapterUid": 4,
+      "range": "19428-19464",
+      "markText": "只有他和我知道真相，只有因为相互憎恨和痴迷而纠缠在一起的我们两人才知道。",
+      "totalCount": 816,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=4&rangeStart=19428&rangeEnd=19464",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=4&rangeStart=19428&rangeEnd=19464"
+    },
+    {
+      "bookmarkId": "33362462_3_58553-58601",
+      "chapterUid": 3,
+      "range": "58553-58601",
+      "markText": "我知道高尔吉斯差不多已经放弃了做出改变的努力。从今以后，他就是皇帝了，我想他会成为一个好皇帝的。",
+      "totalCount": 774,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=58553&rangeEnd=58601",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=58553&rangeEnd=58601"
+    },
+    {
+      "bookmarkId": "33362462_3_16420-16453",
+      "chapterUid": 3,
+      "range": "16420-16453",
+      "markText": "再说，又不是我们自己要去死，不过是些士兵而已，他们就是吃这碗饭的。",
+      "totalCount": 752,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=16420&rangeEnd=16453",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=16420&rangeEnd=16453"
+    },
+    {
+      "bookmarkId": "33362462_8_62970-63016",
+      "chapterUid": 8,
+      "range": "62970-63016",
+      "markText": "我说：我得好好想想。 我至今仍在想。",
+      "totalCount": 740,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=8&rangeStart=62970&rangeEnd=63016",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=8&rangeStart=62970&rangeEnd=63016"
+    },
+    {
+      "bookmarkId": "33362462_3_26429-26472",
+      "chapterUid": 3,
+      "range": "26429-26472",
+      "markText": "你想想看，有没有人能在没有任何战争经验和军事背景的情况下，光凭读懂兵书就能运筹帷幄呢？",
+      "totalCount": 738,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=26429&rangeEnd=26472",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=26429&rangeEnd=26472"
+    },
+    {
+      "bookmarkId": "33362462_3_3120-3171",
+      "chapterUid": 3,
+      "range": "3120-3171",
+      "markText": "政权绝不能交到利欲熏心的人手中，所有重要的政府部门都应该让不愿意从政的人来掌握。好吧，我给自己下了套。",
+      "totalCount": 715,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=3120&rangeEnd=3171",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=3120&rangeEnd=3171"
+    },
+    {
+      "bookmarkId": "33362462_3_30614-30662",
+      "chapterUid": 3,
+      "range": "30614-30662",
+      "markText": "你现在的首要任务是立即找到并抓获叛乱分子的首领，给他好吃好喝再给他一份工作。我们需要这样的人才。",
+      "totalCount": 702,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=30614&rangeEnd=30662",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=30614&rangeEnd=30662"
+    },
+    {
+      "bookmarkId": "33362462_3_46933-46960",
+      "chapterUid": 3,
+      "range": "46933-46960",
+      "markText": "因此，请把这封信看作我正式的宣战公告。对不起了，尼可。",
+      "totalCount": 702,
+      "appLink": "weread://bestbookmark?bookId=33362462&chapterUid=3&rangeStart=46933&rangeEnd=46960",
+      "webLink": "https://weread.qq.com/web/reader/ca23295071fd121eca275e8?chapterUid=3&rangeStart=46933&rangeEnd=46960"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

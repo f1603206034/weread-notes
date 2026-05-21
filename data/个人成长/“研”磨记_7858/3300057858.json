@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "bookId": "3300057858",
+    "title": "“研”磨记",
+    "author": "Philip J. Guo",
+    "translator": "Nalatieer 慕尼星 地质妞",
+    "cover": "https://cdn.weread.qq.com/weread/cover/26/cpplatform_12lhm76u7kpjcjxaujn5nq/t6_cpplatform_12lhm76u7kpjcjxaujn5nq1683338285.jpg",
+    "intro": "斯坦福大学计算机博士Philip Guo写的一本关于他的博士经历的小书，对他在斯坦福大学的六年博士生涯（2006年至2012年）做了一个编年形式的记载。所谓“横看成岭侧成峰，远近高低各不同”，各行各业的人看过此书以后虽然会各有不同的体会，但是总归都会对“博士生过的是怎样的生活，会有怎样的思绪”有一个大致的了解。其中一些人群会受益更多，包括但不限于：有志读博的本科生、正在寻找帮助和他人激励的在读博士生、想更好理解博士生的教授们、想雇佣和管理博士生的雇主们、在创造性和竞争性比较强的领域工作，亟需自我激励来不断前进的专家们以及受过教育，想了解学术研究成果是如何产生的成年人们（或者好奇心旺盛的孩子们）。",
+    "category": "个人成长-励志成长",
+    "publisher": "",
+    "publishTime": "2023-04-26 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 897,
+    "newRatingCount": 1756,
+    "newRatingDetail": {
+      "good": 1608,
+      "fair": 135,
+      "poor": 13,
+      "recent": 35,
+      "deepV": 596,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=3300057858",
+    "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa",
+    "lastSync": "2026-05-21T11:50:53Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 137,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "简介",
+      "level": 1,
+      "wordCount": 245,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "译后记",
+      "level": 1,
+      "wordCount": 1534,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 1094,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "序曲",
+      "level": 1,
+      "wordCount": 1872,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "博一 坠落谷底",
+      "level": 1,
+      "wordCount": 8954,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "博二 造梦空间",
+      "level": 1,
+      "wordCount": 7063,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "博三 重蹈覆辙",
+      "level": 1,
+      "wordCount": 13220,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "博四 再整旗鼓",
+      "level": 1,
+      "wordCount": 9725,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "博五 马力全开",
+      "level": 1,
+      "wordCount": 9927,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "博六 完美落幕",
+      "level": 1,
+      "wordCount": 8970,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "尾声",
+      "level": 1,
+      "wordCount": 5584,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "编后记",
+      "level": 1,
+      "wordCount": 3737,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300057858&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=14"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 8,
+      "chapterTitle": "博二 造梦空间",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300057858_8_1725-1838",
+          "range": "1725-1838",
+          "rangeStart": 1725,
+          "rangeEnd": 1838,
+          "markText": "1.存在的问题是什么？\n2.我建议的解决方案是什么？\n3.我可以用什么方法来做实验，使结果令人信服，可以证明上述解决方案的有效性？",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1747475488,
+          "createTimeFormatted": "2025-05-17 17:51:28",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=8&rangeStart=1725&rangeEnd=1838",
+          "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=8&rangeStart=1725&rangeEnd=1838"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300057858_9_2913-2955",
+      "chapterUid": 9,
+      "range": "2913-2955",
+      "markText": "这两段全然不同的经历教会我，在共事之前，深入了解未来共事者的动力与动机是非常重要的。",
+      "totalCount": 1568,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=9&rangeStart=2913&rangeEnd=2955",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=9&rangeStart=2913&rangeEnd=2955"
+    },
+    {
+      "bookmarkId": "3300057858_10_4088-4166",
+      "chapterUid": 10,
+      "range": "4088-4166",
+      "markText": "尽管我对前几年在本科和研究生阶段所做的研究项目全无好感，但通过这些项目，我才练就了技术能力与辨识能力，我现在才能够有实力做我自己真正在乎的、属于自己的研究。",
+      "totalCount": 1152,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=10&rangeStart=4088&rangeEnd=4166",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=10&rangeStart=4088&rangeEnd=4166"
+    },
+    {
+      "bookmarkId": "3300057858_7_7128-7196",
+      "chapterUid": 7,
+      "range": "7128-7196",
+      "markText": "相对于一个博士生（就是我！）花长时间设置Klee来找错误，Klee-UC更好用，因为它能在几分钟内自动找到所有的错误，不需任何额外设置。",
+      "totalCount": 1054,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=7&rangeStart=7128&rangeEnd=7196",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=7&rangeStart=7128&rangeEnd=7196"
+    },
+    {
+      "bookmarkId": "3300057858_7_8447-8500",
+      "chapterUid": 7,
+      "range": "8447-8500",
+      "markText": "于是，我仍然让Dawson做我的导师，但是我离开了Klee项目组。我决定，从零开始，创造我自己的研究计划。",
+      "totalCount": 936,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=7&rangeStart=8447&rangeEnd=8500",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=7&rangeStart=8447&rangeEnd=8500"
+    },
+    {
+      "bookmarkId": "3300057858_9_12327-12379",
+      "chapterUid": 9,
+      "range": "12327-12379",
+      "markText": "这段经历告诉我，背后有大人物支持，非常重要；在竞争激烈的学界中，想要被伯乐相中，光能做出好结果是不够的。",
+      "totalCount": 896,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=9&rangeStart=12327&rangeEnd=12379",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=9&rangeStart=12327&rangeEnd=12379"
+    },
+    {
+      "bookmarkId": "3300057858_4_1198-1213",
+      "chapterUid": 4,
+      "range": "1198-1213",
+      "markText": "不知道前人站在哪里，谈何创新。",
+      "totalCount": 810,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=4&rangeStart=1198&rangeEnd=1213",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=4&rangeStart=1198&rangeEnd=1213"
+    },
+    {
+      "bookmarkId": "3300057858_8_1086-1131",
+      "chapterUid": 8,
+      "range": "1086-1131",
+      "markText": "一定要积极和教授讨论，以找到你们彼此都感兴趣的研究项目；不论如何，都不要躲在自己的小世界里",
+      "totalCount": 790,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=8&rangeStart=1086&rangeEnd=1131",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=8&rangeStart=1086&rangeEnd=1131"
+    },
+    {
+      "bookmarkId": "3300057858_7_9020-9108",
+      "chapterUid": 7,
+      "range": "9020-9108",
+      "markText": "最后，闭关科研的日子反而是我浪费时间最多的日子：我看电视剧，睡觉，在网上闲晃。和那些朝九晚五工作的同学不一样，我没有老板天天监视，于是我在自由幻想的海洋畅游，却完全看不到海岸。",
+      "totalCount": 741,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=7&rangeStart=9020&rangeEnd=9108",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=7&rangeStart=9020&rangeEnd=9108"
+    },
+    {
+      "bookmarkId": "3300057858_7_4430-4510",
+      "chapterUid": 7,
+      "range": "4430-4510",
+      "markText": "然而在读博士研究生时，研究是我唯一的工作，没有优秀的研究成果，就拿不到学位。于是我的心情完全和每天的研究进展紧密相关，而在那些日子里，研究进展真是慢得让我痛苦。",
+      "totalCount": 663,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=7&rangeStart=4430&rangeEnd=4510",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=7&rangeStart=4430&rangeEnd=4510"
+    },
+    {
+      "bookmarkId": "3300057858_9_6730-6767",
+      "chapterUid": 9,
+      "range": "6730-6767",
+      "markText": "如果Dawson能和一个自己年轻时期的克隆人一起工作，进展想必会迅猛得多！",
+      "totalCount": 640,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=9&rangeStart=6730&rangeEnd=6767",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=9&rangeStart=6730&rangeEnd=6767"
+    },
+    {
+      "bookmarkId": "3300057858_12_4039-4087",
+      "chapterUid": 12,
+      "range": "4039-4087",
+      "markText": "上天给了我很多机会，我很幸运。但是如果没能主动去抓住这些机会，我也就不会踏上最后一年的冒险之旅。",
+      "totalCount": 630,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=12&rangeStart=4039&rangeEnd=4087",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=12&rangeStart=4039&rangeEnd=4087"
+    },
+    {
+      "bookmarkId": "3300057858_9_12971-13025",
+      "chapterUid": 9,
+      "range": "12971-13025",
+      "markText": "相比而言，在学校时，理论上，只要我头脑是清醒的，就可以一刻不停地工作，这样一来，我时常担忧自己是否足够努力。",
+      "totalCount": 629,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=9&rangeStart=12971&rangeEnd=13025",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=9&rangeStart=12971&rangeEnd=13025"
+    },
+    {
+      "bookmarkId": "3300057858_13_1663-1760",
+      "chapterUid": 13,
+      "range": "1663-1760",
+      "markText": "相反，在写博士论文时，我为撰写综述所做的阅读就非常有效率，这是因为这时读论文，我有非常明确的目标，而我的阅读也紧密围绕了这个目标：找出同领域中的“竞争者”，从他们的文章中吸收好的点子，为己所用。",
+      "totalCount": 624,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=13&rangeStart=1663&rangeEnd=1760",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=13&rangeStart=1663&rangeEnd=1760"
+    },
+    {
+      "bookmarkId": "3300057858_9_13574-13630",
+      "chapterUid": 9,
+      "range": "13574-13630",
+      "markText": "由于这两次经历的结果有天壤之别，而我的智力又没什么变化，因此我实习项目成功的最大功臣，莫过于微软公司与Tom了。",
+      "totalCount": 612,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=9&rangeStart=13574&rangeEnd=13630",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=9&rangeStart=13574&rangeEnd=13630"
+    },
+    {
+      "bookmarkId": "3300057858_9_2420-2479",
+      "chapterUid": 9,
+      "range": "2420-2479",
+      "markText": "经过这样的事后反省，我现在能明白，项目失败，是因为参与者之间志不同道不合。可惜当时，我没有足够智慧预见这样的失败结果。",
+      "totalCount": 578,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=9&rangeStart=2420&rangeEnd=2479",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=9&rangeStart=2420&rangeEnd=2479"
+    },
+    {
+      "bookmarkId": "3300057858_9_4024-4055",
+      "chapterUid": 9,
+      "range": "4024-4055",
+      "markText": "每天看不到明显的进展时，想要充满干劲地继续科研，真的非常困难。",
+      "totalCount": 561,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=9&rangeStart=4024&rangeEnd=4055",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=9&rangeStart=4024&rangeEnd=4055"
+    },
+    {
+      "bookmarkId": "3300057858_7_10533-10601",
+      "chapterUid": 7,
+      "range": "10533-10601",
+      "markText": "我博士第一年被Klee“研”磨了四个月，留下了巨大心里阴影，自己闭关了十周，毫无目的，博一快结束时，反而些许积极。这，就是我的博一生涯。",
+      "totalCount": 540,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=7&rangeStart=10533&rangeEnd=10601",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=7&rangeStart=10533&rangeEnd=10601"
+    },
+    {
+      "bookmarkId": "3300057858_7_8013-8053",
+      "chapterUid": 7,
+      "range": "8013-8053",
+      "markText": "实习内容和我感兴趣的研究不全相关，但我一点都不在乎。我只是想要远离斯坦福几个月。",
+      "totalCount": 528,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=7&rangeStart=8013&rangeEnd=8053",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=7&rangeStart=8013&rangeEnd=8053"
+    },
+    {
+      "bookmarkId": "3300057858_10_7770-7842",
+      "chapterUid": 10,
+      "range": "7770-7842",
+      "markText": "对每个在那段艰难时光中帮助我的人，我都心存感激。他们明知道帮助我这个陌生博士生，除了我的祝福其它什么都换不来。尽管这样，他们还是慷慨地施以援手。",
+      "totalCount": 527,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=10&rangeStart=7770&rangeEnd=7842",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=10&rangeStart=7770&rangeEnd=7842"
+    },
+    {
+      "bookmarkId": "3300057858_7_5634-5653",
+      "chapterUid": 7,
+      "range": "5634-5653",
+      "markText": "我做的那些工作太难了，又没有任何回报。",
+      "totalCount": 525,
+      "appLink": "weread://bestbookmark?bookId=3300057858&chapterUid=7&rangeStart=5634&rangeEnd=5653",
+      "webLink": "https://weread.qq.com/web/reader/edd32c90813ab7d19g0188aa?chapterUid=7&rangeStart=5634&rangeEnd=5653"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 9,
+    "chapterOffset": 3008,
+    "progress": 0,
+    "updateTime": 1779277492,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

@@ -1,0 +1,1087 @@
+{
+  "meta": {
+    "bookId": "652123",
+    "title": "黄金时代",
+    "author": "王小波",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/95/YueWen_652123/t6_YueWen_652123.jpg",
+    "intro": "《黄金时代》包括中篇小说《黄金时代》、《三十而立》、《似水流年》、《革命时期的爱情》和《我的阴阳两界》等。",
+    "category": "文学-经典作品",
+    "publisher": "中信出版社",
+    "publishTime": "2015-08-01 00:00:00",
+    "isbn": "9787508652597",
+    "wordCount": 0,
+    "newRating": 794,
+    "newRatingCount": 39794,
+    "newRatingDetail": {
+      "good": 31617,
+      "fair": 7550,
+      "poor": 627,
+      "recent": 17,
+      "deepV": 647,
+      "myRating": "",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=652123",
+    "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6",
+    "lastSync": "2026-05-21T11:44:25Z",
+    "readingProgress": "1%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "aea751b2f6e50d4c4e6dad32087ec16999fa5b17f286b44bbf63ea3fb4b9e734"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=652123&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 135,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=652123&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "黄金时代",
+      "level": 1,
+      "wordCount": 32790,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        },
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "六",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        },
+        {
+          "title": "七",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "八",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "九",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "十",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        },
+        {
+          "title": "十一",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "三十而立",
+      "level": 1,
+      "wordCount": 37184,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        },
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        },
+        {
+          "title": "六",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        },
+        {
+          "title": "七",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "似水流年",
+      "level": 1,
+      "wordCount": 46168,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        },
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        },
+        {
+          "title": "六",
+          "anchor": "sigil_toc_id_24",
+          "level": 2
+        },
+        {
+          "title": "七",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        },
+        {
+          "title": "八",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        },
+        {
+          "title": "九",
+          "anchor": "sigil_toc_id_27",
+          "level": 2
+        },
+        {
+          "title": "十",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        },
+        {
+          "title": "十一",
+          "anchor": "sigil_toc_id_29",
+          "level": 2
+        },
+        {
+          "title": "十二",
+          "anchor": "sigil_toc_id_30",
+          "level": 2
+        },
+        {
+          "title": "十三",
+          "anchor": "sigil_toc_id_31",
+          "level": 2
+        },
+        {
+          "title": "十四",
+          "anchor": "sigil_toc_id_32",
+          "level": 2
+        },
+        {
+          "title": "十五",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        },
+        {
+          "title": "十六",
+          "anchor": "sigil_toc_id_34",
+          "level": 2
+        },
+        {
+          "title": "十七",
+          "anchor": "sigil_toc_id_35",
+          "level": 2
+        },
+        {
+          "title": "十八",
+          "anchor": "sigil_toc_id_36",
+          "level": 2
+        },
+        {
+          "title": "十九",
+          "anchor": "sigil_toc_id_37",
+          "level": 2
+        },
+        {
+          "title": "二十",
+          "anchor": "sigil_toc_id_38",
+          "level": 2
+        },
+        {
+          "title": "二十一",
+          "anchor": "sigil_toc_id_39",
+          "level": 2
+        },
+        {
+          "title": "二十二",
+          "anchor": "sigil_toc_id_40",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "革命时期的爱情",
+      "level": 1,
+      "wordCount": 306,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=652123&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第一章",
+      "level": 2,
+      "wordCount": 16916,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        },
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "六",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        },
+        {
+          "title": "七",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "八",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "九",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第二章",
+      "level": 2,
+      "wordCount": 16522,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_50",
+          "level": 3
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_52",
+          "level": 3
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_53",
+          "level": 3
+        },
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        },
+        {
+          "title": "六",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        },
+        {
+          "title": "七",
+          "anchor": "sigil_toc_id_56",
+          "level": 3
+        },
+        {
+          "title": "八",
+          "anchor": "sigil_toc_id_57",
+          "level": 3
+        },
+        {
+          "title": "九",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        },
+        {
+          "title": "十",
+          "anchor": "sigil_toc_id_59",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第三章",
+      "level": 2,
+      "wordCount": 14262,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_60",
+          "level": 3
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_61",
+          "level": 3
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_62",
+          "level": 3
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_63",
+          "level": 3
+        },
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_64",
+          "level": 3
+        },
+        {
+          "title": "六",
+          "anchor": "sigil_toc_id_65",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第四章",
+      "level": 2,
+      "wordCount": 12779,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_66",
+          "level": 3
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_67",
+          "level": 3
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_68",
+          "level": 3
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        },
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_70",
+          "level": 3
+        },
+        {
+          "title": "六",
+          "anchor": "sigil_toc_id_71",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第五章",
+      "level": 2,
+      "wordCount": 15561,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_72",
+          "level": 3
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_73",
+          "level": 3
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_74",
+          "level": 3
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_75",
+          "level": 3
+        },
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_76",
+          "level": 3
+        },
+        {
+          "title": "六",
+          "anchor": "sigil_toc_id_77",
+          "level": 3
+        },
+        {
+          "title": "七",
+          "anchor": "sigil_toc_id_78",
+          "level": 3
+        },
+        {
+          "title": "八",
+          "anchor": "sigil_toc_id_79",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第六章",
+      "level": 2,
+      "wordCount": 9484,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_80",
+          "level": 3
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_81",
+          "level": 3
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_82",
+          "level": 3
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_83",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第七章",
+      "level": 2,
+      "wordCount": 14288,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_84",
+          "level": 3
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_85",
+          "level": 3
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_86",
+          "level": 3
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_87",
+          "level": 3
+        },
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_88",
+          "level": 3
+        },
+        {
+          "title": "六",
+          "anchor": "sigil_toc_id_89",
+          "level": 3
+        },
+        {
+          "title": "七",
+          "anchor": "sigil_toc_id_90",
+          "level": 3
+        },
+        {
+          "title": "八",
+          "anchor": "sigil_toc_id_91",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第八章",
+      "level": 2,
+      "wordCount": 1604,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_92",
+          "level": 3
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_93",
+          "level": 3
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_94",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "我的阴阳两界",
+      "level": 1,
+      "wordCount": 10658,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章",
+          "anchor": "sigil_toc_id_95",
+          "level": 2
+        },
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_96",
+          "level": 3
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_97",
+          "level": 3
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_98",
+          "level": 3
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_99",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第二章",
+      "level": 2,
+      "wordCount": 9017,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_100",
+          "level": 3
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_101",
+          "level": 3
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_102",
+          "level": 3
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_103",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第三章",
+      "level": 2,
+      "wordCount": 7481,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_104",
+          "level": 3
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_105",
+          "level": 3
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_106",
+          "level": 3
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_107",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第四章",
+      "level": 2,
+      "wordCount": 9095,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一",
+          "anchor": "sigil_toc_id_108",
+          "level": 3
+        },
+        {
+          "title": "二",
+          "anchor": "sigil_toc_id_109",
+          "level": 3
+        },
+        {
+          "title": "三",
+          "anchor": "sigil_toc_id_110",
+          "level": 3
+        },
+        {
+          "title": "四",
+          "anchor": "sigil_toc_id_111",
+          "level": 3
+        },
+        {
+          "title": "五",
+          "anchor": "sigil_toc_id_112",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=652123&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "后记",
+      "level": 1,
+      "wordCount": 1048,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=652123&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=19"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 3,
+      "chapterTitle": "黄金时代",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "652123_3_3953-4131",
+          "range": "3953-4131",
+          "rangeStart": 3953,
+          "rangeEnd": 4131,
+          "markText": "天色微微向晚，天上飘着懒洋洋的云彩。下半截沉在黑暗里，上半截仍浮在阳光中。那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消失，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1779165582,
+          "createTimeFormatted": "2026-05-19 12:39:42",
+          "chapterUid": 3,
+          "appLink": "weread://bestbookmark?bookId=652123&chapterUid=3&rangeStart=3953&rangeEnd=4131",
+          "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=3&rangeStart=3953&rangeEnd=4131"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7VeK0KwQI",
+          "range": "3536",
+          "chapterName": "",
+          "content": "",
+          "abstract": "我爬起来看牛，发现它们都卧在远处的河岔里静静地嚼草。那时节万籁无声，田野刮着白色的风。河岸上有几对寨子里的牛在斗架，斗得眼珠通红，口角流涎。这种牛阴囊紧缩，阳具挺直。我们的牛不干这种事。任凭别人上门挑衅，我们的牛依旧安卧不动。为了防止斗架伤身，影响春耕，我们把它们都阉了。\n每次阉牛我都在场。对于一般的公牛，只用刀割去即可。但是对于格外生性者，就须采取锤骟术，也就是割开阴囊，掏出睾丸，一木锤砸个稀烂。从此后受术者只知道吃草干活，别的什么都不知道，连杀都不用捆。掌锤的队长毫不怀疑这种手术施之于人类也能得到同等的效力，每回他都对我们呐喊：你们这些生牛蛋子，就欠砸上一锤才能老实！按他的逻辑，我身上这个通红通红，直不愣登，长约一尺的东西就是罪恶的化身。\n当然，我对此有不同的意见，在我看来，这东西无比重要，就如我之存在本身。天色微微向晚，天上飘着懒洋洋的云彩。下半截沉在黑暗里，上半截仍浮在阳光中。那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消失，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。那天晚上我请陈清扬来吃鱼，所以应该在下午把鱼弄到手。到下午五点多钟我才想起到戽鱼的现场去看看。还没走进那条小河汊，两个景颇族孩子就从里面一路打出来，烂泥横飞，我身上也挨了好几块，直到我拎住他们的耳朵，他们才罢手。我喝问一声：\n“鸡巴，鱼呢？”\n那个年纪大点的说：“都怪鸡巴勒农！他老坐在坝上，把坝坐鸡巴倒了！”\n勒农直着嗓子吼：“王二！坝打得不鸡巴牢！”我说：“放屁！老子砍草皮打的坝，哪个鸡巴敢说不牢？”到里面一看，不管是因为勒农坐的也好，还是因为我的坝没打好也罢，反正坝是倒了，戽出来的水又流回去，鱼全泡了汤，一整天的劳动全都白费。我当然不能承认是我的错，就痛骂勒农，勒都（就是那另一个孩子）也附和我，勒农上了火，一跳三尺高，嘴里吼道：\n“王二！勒都！鸡巴！你们姐夫舅子合伙搞我！我去告诉我家爹，拿铜炮枪打你们！”\n说完这小兔崽子就往河岸上窜，想一走了之。我一把薅住他脚脖子，把他揪下来。\n“你走了我们给你赶牛哇？做你娘的美梦！”\n这小子哇哇叫着要咬我，被我劈开手按在地上。他口吐白沫，杂着汉话、景颇话、傣话骂我，我用正宗京片子回骂。忽然间他不骂了，往我下体看去，脸上露出无限羡慕之情。我低头一看，我的小和尚又直立起来了。只听勒农啧啧赞美道：\n“哇！想日勒都家姐哟！”\n我赶紧扔下他去穿裤子。\n晚上我在水泵房点起汽灯，陈清扬就会忽然到来，谈起她觉得活着很没意思，还说到她在每件事上都是清白无辜。我说她竟敢觉得自己清白无辜，这本身就是最大的罪孽。照我的看法，每个人的本性都是好吃懒做，好色贪淫，假如你克勤克俭，守身如玉，这就犯了矫饰之罪，比好吃懒做好色贪淫更可恶。这些话她好像很听得进去，但是从不附和。\n那天晚上我在河边上点起汽灯，陈清扬却迟迟不至，直到九点钟以后，她才到门前来喊我：王二，混蛋！你出来！我出去一看，她穿了一身白，打扮得格外整齐，但是表情不大轻松。她说道：你请我来吃鱼，做倾心之谈，鱼在哪里？我只好说，鱼还在河里。她说好吧，还剩下一个倾心之谈。",
+          "star": -1,
+          "createTime": 1729950128,
+          "createTimeFormatted": "2024-10-26 21:42:08",
+          "isFinish": false,
+          "chapterUid": 3
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "652123_3_3990-4090",
+      "chapterUid": 3,
+      "range": "3990-4090",
+      "markText": "那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消失，最后变得像挨了锤的牛一样。",
+      "totalCount": 58432,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=3&rangeStart=3990&rangeEnd=4090",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=3&rangeStart=3990&rangeEnd=4090"
+    },
+    {
+      "bookmarkId": "652123_4_36068-36092",
+      "chapterUid": 4,
+      "range": "36068-36092",
+      "markText": "人生是一条寂寞的路，要有一本有趣的书来消磨旅途。",
+      "totalCount": 18976,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=4&rangeStart=36068&rangeEnd=36092",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=4&rangeStart=36068&rangeEnd=36092"
+    },
+    {
+      "bookmarkId": "652123_3_28945-28982",
+      "chapterUid": 3,
+      "range": "28945-28982",
+      "markText": "当我沿着一条路走下去的时候，心里总想着另一条路上的事。这种时候我心里很乱。",
+      "totalCount": 16528,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=3&rangeStart=28945&rangeEnd=28982",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=3&rangeStart=28945&rangeEnd=28982"
+    },
+    {
+      "bookmarkId": "652123_4_16089-16146",
+      "chapterUid": 4,
+      "range": "16089-16146",
+      "markText": "我要抱着草长马发情的伟大真诚去做一切事，而不是在人前羞羞答答的表演。在我看来，人都是为了要表演，失去了自己的存在。",
+      "totalCount": 15296,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=4&rangeStart=16089&rangeEnd=16146",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=4&rangeStart=16089&rangeEnd=16146"
+    },
+    {
+      "bookmarkId": "652123_9_1638-1667",
+      "chapterUid": 9,
+      "range": "1638-1667",
+      "markText": "人活在世界上，快乐和痛苦本就分不清。所以我只求它货真价实。",
+      "totalCount": 13980,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=9&rangeStart=1638&rangeEnd=1667",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=9&rangeStart=1638&rangeEnd=1667"
+    },
+    {
+      "bookmarkId": "652123_14_2144-2236",
+      "chapterUid": 14,
+      "range": "2144-2236",
+      "markText": "我仿佛已经很老了，又好像很年轻。革命时期好像是过去了，又仿佛还没开始。爱情仿佛结束了，又好像还没有到来。我仿佛中过了头彩，又好像还没到开彩的日子。这一切好像是结束了，又仿佛是刚刚开始。",
+      "totalCount": 12988,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=14&rangeStart=2144&rangeEnd=2236",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=14&rangeStart=2144&rangeEnd=2236"
+    },
+    {
+      "bookmarkId": "652123_3_35829-35870",
+      "chapterUid": 3,
+      "range": "35829-35870",
+      "markText": "陈清扬说，人活在世上，就是为了忍受摧残，一直到死。想明了这一点，一切都能泰然处之。",
+      "totalCount": 12924,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=3&rangeStart=35829&rangeEnd=35870",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=3&rangeStart=35829&rangeEnd=35870"
+    },
+    {
+      "bookmarkId": "652123_3_39288-39317",
+      "chapterUid": 3,
+      "range": "39288-39317",
+      "markText": "陈清扬告诉我这件事以后，火车就开走了。以后我再也没见过她。",
+      "totalCount": 12096,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=3&rangeStart=39288&rangeEnd=39317",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=3&rangeStart=39288&rangeEnd=39317"
+    },
+    {
+      "bookmarkId": "652123_7_12761-12779",
+      "chapterUid": 7,
+      "range": "12761-12779",
+      "markText": "指标这种东西，是一切浪漫情调的死敌。",
+      "totalCount": 10905,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=7&rangeStart=12761&rangeEnd=12779",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=7&rangeStart=12761&rangeEnd=12779"
+    },
+    {
+      "bookmarkId": "652123_9_4334-4390",
+      "chapterUid": 9,
+      "range": "4334-4390",
+      "markText": "没被电到的蜻蜓都对正在死去的蜻蜓漠然视之。因此我想到，可能蜻蜓要到电流从身上通过时，才知道中了头彩，如梦方醒吧。",
+      "totalCount": 9008,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=9&rangeStart=4334&rangeEnd=4390",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=9&rangeStart=4334&rangeEnd=4390"
+    },
+    {
+      "bookmarkId": "652123_3_38787-38880",
+      "chapterUid": 3,
+      "range": "38787-38880",
+      "markText": "陈清扬说，那一刻她感到浑身无力，就瘫软下来，挂在我肩上。那一刻她觉得如春藤绕树，小鸟依人，她再也不想理会别的事，而且在那一瞬间把一切都遗忘。在那一瞬间她爱上了我，而且这件事永远不能改变。",
+      "totalCount": 8520,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=3&rangeStart=38787&rangeEnd=38880",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=3&rangeStart=38787&rangeEnd=38880"
+    },
+    {
+      "bookmarkId": "652123_3_12188-12224",
+      "chapterUid": 3,
+      "range": "12188-12224",
+      "markText": "我始终盼着陈清扬来看我，但陈清扬始终没有来。她来的时候，我没有盼着她来。",
+      "totalCount": 8398,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=3&rangeStart=12188&rangeEnd=12224",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=3&rangeStart=12188&rangeEnd=12224"
+    },
+    {
+      "bookmarkId": "652123_3_36167-36195",
+      "chapterUid": 3,
+      "range": "36167-36195",
+      "markText": "放声大哭从一个梦境进入另一个梦境，这是每个人都有的奢望。",
+      "totalCount": 8226,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=3&rangeStart=36167&rangeEnd=36195",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=3&rangeStart=36167&rangeEnd=36195"
+    },
+    {
+      "bookmarkId": "652123_4_16608-16694",
+      "chapterUid": 4,
+      "range": "16608-16694",
+      "markText": "忽然之间心底涌起强烈的渴望，前所未有：我要爱，要生活，把眼前的一世当做一百世一样。这里的道理很明白；我思故我在，既然我存在，就不能装作不存在。无论如何，我要对自己负起责任。",
+      "totalCount": 8172,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=4&rangeStart=16608&rangeEnd=16694",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=4&rangeStart=16608&rangeEnd=16694"
+    },
+    {
+      "bookmarkId": "652123_5_1446-1510",
+      "chapterUid": 5,
+      "range": "1446-1510",
+      "markText": "我向来不怕得罪朋友，因为既是朋友，就不怕得罪，不能得罪的就不是朋友，这是我的一贯作风。由这一点你也可猜出，我的朋友为什么这么少。",
+      "totalCount": 6656,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=5&rangeStart=1446&rangeEnd=1510",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=5&rangeStart=1446&rangeEnd=1510"
+    },
+    {
+      "bookmarkId": "652123_3_17068-17102",
+      "chapterUid": 3,
+      "range": "17068-17102",
+      "markText": "忽然间我感到很烦很累，不像二十一岁的人。我想，这样下去很快就会老了。",
+      "totalCount": 6633,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=3&rangeStart=17068&rangeEnd=17102",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=3&rangeStart=17068&rangeEnd=17102"
+    },
+    {
+      "bookmarkId": "652123_5_12219-12304",
+      "chapterUid": 5,
+      "range": "12219-12304",
+      "markText": "堂堂一个doctor，居然会为了争东西和人打起来，而这些东西居然是些屎，shit！回到大陆来，保卫东，保卫西，最后保卫大粪。“如果这不是做噩梦，那我一定是屎壳郎转世了！”",
+      "totalCount": 6562,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=5&rangeStart=12219&rangeEnd=12304",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=5&rangeStart=12219&rangeEnd=12304"
+    },
+    {
+      "bookmarkId": "652123_3_5035-5094",
+      "chapterUid": 3,
+      "range": "5035-5094",
+      "markText": "照我的看法，每个人的本性都是好吃懒做，好色贪淫，假如你克勤克俭，守身如玉，这就犯了矫饰之罪，比好吃懒做好色贪淫更可恶。",
+      "totalCount": 6435,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=3&rangeStart=5035&rangeEnd=5094",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=3&rangeStart=5035&rangeEnd=5094"
+    },
+    {
+      "bookmarkId": "652123_4_18214-18235",
+      "chapterUid": 4,
+      "range": "18214-18235",
+      "markText": "她尖叫一声，拿被子蒙上头，就在床上游仰泳。",
+      "totalCount": 6372,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=4&rangeStart=18214&rangeEnd=18235",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=4&rangeStart=18214&rangeEnd=18235"
+    },
+    {
+      "bookmarkId": "652123_3_10799-10866",
+      "chapterUid": 3,
+      "range": "10799-10866",
+      "markText": "大家都说存在的东西一定不存在，这是因为眼前的一切都是骗局。大家都说不存在的东西一定存在，比如王二，假如他不存在，这个名字是从哪里来的？",
+      "totalCount": 6120,
+      "appLink": "weread://bestbookmark?bookId=652123&chapterUid=3&rangeStart=10799&rangeEnd=10866",
+      "webLink": "https://weread.qq.com/web/reader/bb0323c059f35bbb09128b6?chapterUid=3&rangeStart=10799&rangeEnd=10866"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 3,
+    "chapterOffset": 3753,
+    "progress": 1,
+    "updateTime": 1779165610,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

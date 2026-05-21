@@ -1,0 +1,833 @@
+{
+  "meta": {
+    "bookId": "922736",
+    "title": "世界史纲",
+    "author": "赫伯特·乔治·威尔斯",
+    "translator": "孙丽娟",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/736/922736/t6_922736.jpg",
+    "intro": "作为一本由集文学家、史学家于一身的著名作者撰写的，历史上第一部世界通史，《世界史纲》叙述了从地球生命起源直到第一次世界大战结束的历史，实现了历史的真实与文学的想像之间完美的结合。自从问世以来，受到全世界历史专家和历史爱好者近百年的推崇。",
+    "category": "历史-世界史",
+    "publisher": "北京理工大学出版社",
+    "publishTime": "2016-01-01 00:00:00",
+    "isbn": "9787568214636",
+    "wordCount": 0,
+    "newRating": 783,
+    "newRatingCount": 445,
+    "newRatingDetail": {
+      "good": 345,
+      "fair": 85,
+      "poor": 15,
+      "recent": 13,
+      "deepV": 72,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=922736",
+    "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8",
+    "lastSync": "2026-05-21T11:44:41Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 140,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "译者序",
+      "level": 1,
+      "wordCount": 1307,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "List Ⅰ The World before the Emergence of Mankind 第一辑 人类出现以前的世界",
+      "level": 1,
+      "wordCount": 2297,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 地球所在的空间与时间 The Earth in Space and Time",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=922736&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第二章 岩石中的记载 The Record of the Rocks",
+      "level": 2,
+      "wordCount": 4108,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第三章 生命的产生 The First Living Things",
+      "level": 2,
+      "wordCount": 2295,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第四章 爬行动物的天堂 The Age of Reptiles",
+      "level": 2,
+      "wordCount": 4132,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第五章 哺乳动物时代 The Age of Mammals",
+      "level": 2,
+      "wordCount": 3195,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "List Ⅱ The Origin of Mankind第二辑 人类的发源",
+      "level": 1,
+      "wordCount": 3552,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第六章 人类的祖先 The Ancestry of Man",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=922736&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第七章 消失的尼安德特人 The Neanderthal Man, an Extinct Race",
+      "level": 2,
+      "wordCount": 2620,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第八章 旧石器时代及智人 The Later Postglacial Paleolithic Men, the First True Men",
+      "level": 2,
+      "wordCount": 5108,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第九章 欧洲新石器时代的人类 Neolithic Man in Europe",
+      "level": 2,
+      "wordCount": 6049,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第十章 早期人类思想 Early Thought",
+      "level": 2,
+      "wordCount": 7091,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第十一章 人类的种族 The Races of Mankind",
+      "level": 2,
+      "wordCount": 2445,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第十二章 人类的语言 The Languages of Mankind",
+      "level": 2,
+      "wordCount": 5678,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "List Ⅲ The Early Civilization of Mankind第三辑 人类的早期文明",
+      "level": 1,
+      "wordCount": 13621,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十三章 早期的国家 The First Civilizations",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=922736&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第十四章 航海之人和经商之人 Sea Peoples and Trading Peoples",
+      "level": 2,
+      "wordCount": 7543,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第十五章 文字 Writing",
+      "level": 2,
+      "wordCount": 3610,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第十六章 神灵和星星，僧侣与国王 Gods and Stars, Priests and Kings",
+      "level": 2,
+      "wordCount": 10017,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第十七章 农奴、奴隶、自由人——社会阶级的概述 Serfs, Slaves, Social Classes and Free Individuals",
+      "level": 2,
+      "wordCount": 10395,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "List Ⅳ Jew, Greece and India第四辑 犹太、希腊和印度",
+      "level": 1,
+      "wordCount": 10360,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十八章 希伯来圣书与先知 The Hebrew Scriptures and the Prophets",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=922736&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第十九章 文字出现前的雅利安语种人 The Aryan-speaking Peoples in Prehistoric Times",
+      "level": 2,
+      "wordCount": 6361,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第二十章 希腊人与波斯人 The Greeks and the Persians",
+      "level": 2,
+      "wordCount": 18532,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第二十一章 希腊哲学与人类社会 Greek Thought in Relation to Human Society",
+      "level": 2,
+      "wordCount": 12024,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第二十二章 亚历山大大帝的功业 The Career of Alexander the Great",
+      "level": 2,
+      "wordCount": 19071,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第二十三章 亚历山大城的科学和宗教 Science and Religion at Alexandria",
+      "level": 2,
+      "wordCount": 7111,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第二十四章 佛教的兴起与传播 The Rise and Spread of Buddhism",
+      "level": 2,
+      "wordCount": 13353,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "List Ⅴ The Rising and Declining of Roman Empire第五辑 罗马帝国的兴亡",
+      "level": 1,
+      "wordCount": 22135,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二十五章 西方的两个共和国 The Two Western Republics",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=922736&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第二十六章 从提比里乌斯·格拉古到罗马神皇 From Tiberius Gracchus to the God-Emperor in Rome",
+      "level": 2,
+      "wordCount": 13426,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第二十七章 恺撒 Julius Caesar",
+      "level": 2,
+      "wordCount": 22143,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "List Ⅵ The Medieval Period of Christianity第六辑 中世纪的基督教世界",
+      "level": 1,
+      "wordCount": 25034,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二十八章 基督教的起源、发展和分支 The Beginnings, the Rise and the Divisions of Christianity",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=922736&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第二十九章 亚洲700年史（公元前50—公元650年） Seven Centuries in Asia（Circa 50 B.C. to A.D. 650）",
+      "level": 2,
+      "wordCount": 17175,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第三十章 穆罕默德与伊斯兰教 Muhammad and Islam",
+      "level": 2,
+      "wordCount": 19101,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第三十一章 基督教与十字军东征 Christendom and the Crusades",
+      "level": 2,
+      "wordCount": 32338,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "List Ⅶ Mongol Empire and Renaissance of European civilization第七辑 蒙古帝国和欧洲文明的复兴",
+      "level": 1,
+      "wordCount": 16321,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第三十二章 成吉思汗的伟大帝国及其继承者 The Great Empire of Jengis Khan and Its Successors",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=922736&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "第三十三章 西方文明的复兴 Renascence of Western Civilization",
+      "level": 2,
+      "wordCount": 33766,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "List Ⅷ The Age of Imperialism 第八辑 帝国主义时代",
+      "level": 1,
+      "wordCount": 29492,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第三十四章 君主、国会和列强 Princes Parliaments and Powers",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=922736&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "第三十五章 美国、法国的新民主共和国 The New Democratic Republics of America and France",
+      "level": 2,
+      "wordCount": 35006,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "第三十六章 拿破仑的生平 The Career of Napoleon Bonaparte",
+      "level": 2,
+      "wordCount": 14770,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "第三十七章 19世纪的现实与理想 The Realities and Imaginations of the Nineteenth Century",
+      "level": 2,
+      "wordCount": 31233,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "第三十八章 1914年开始的世界浩劫——第一次世界大战 The International Catastrophe of 1914",
+      "level": 2,
+      "wordCount": 26638,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=922736&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=41"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 23,
+      "chapterTitle": "第二十章 希腊人与波斯人 The Greeks and the Persians",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "922736_23_6431-6483",
+          "range": "6431-6483",
+          "rangeStart": 6431,
+          "rangeEnd": 6483,
+          "markText": "现代帝国主义一直被对手认为是富有阶层对世界的剥削，可雅典的帝国主义却相反，是雅典的贫穷阶层对世界的剥削。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1778544130,
+          "createTimeFormatted": "2026-05-12 08:02:10",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=922736&chapterUid=23&rangeStart=6431&rangeEnd=6483",
+          "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=23&rangeStart=6431&rangeEnd=6483"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "922736_4_848-867",
+      "chapterUid": 4,
+      "range": "848-867",
+      "markText": "宇宙其实是一个真空的环境，什么都没有。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=4&rangeStart=848&rangeEnd=867",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=4&rangeStart=848&rangeEnd=867"
+    },
+    {
+      "bookmarkId": "922736_5_3555-3590",
+      "chapterUid": 5,
+      "range": "3555-3590",
+      "markText": "直到16世纪，达·芬奇才成为第一个关注化石并研究出其蕴含意义的欧洲人。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=5&rangeStart=3555&rangeEnd=3590",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=5&rangeStart=3555&rangeEnd=3590"
+    },
+    {
+      "bookmarkId": "922736_23_6431-6483",
+      "chapterUid": 23,
+      "range": "6431-6483",
+      "markText": "现代帝国主义一直被对手认为是富有阶层对世界的剥削，可雅典的帝国主义却相反，是雅典的贫穷阶层对世界的剥削。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=23&rangeStart=6431&rangeEnd=6483",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=23&rangeStart=6431&rangeEnd=6483"
+    },
+    {
+      "bookmarkId": "922736_40_33643-33690",
+      "chapterUid": 40,
+      "range": "33643-33690",
+      "markText": "不过，中国建立类似美国那样的合众国，进而与欧洲握手言和，共同担当世界和平重任，相信为时不远了。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=40&rangeStart=33643&rangeEnd=33690",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=40&rangeStart=33643&rangeEnd=33690"
+    },
+    {
+      "bookmarkId": "922736_7_544-605",
+      "chapterUid": 7,
+      "range": "544-605",
+      "markText": "古生代的温暖湿润气候持续了几百万年。在这个漫长的年代里，原始植物大量繁殖、死亡并堆积，其结果就是形成了现在广布世界的煤矿。",
+      "totalCount": 143,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=7&rangeStart=544&rangeEnd=605",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=7&rangeStart=544&rangeEnd=605"
+    },
+    {
+      "bookmarkId": "922736_4_3608-3629",
+      "chapterUid": 4,
+      "range": "3608-3629",
+      "markText": "所以，那时候地球将不是被冻死，而是被烧掉。",
+      "totalCount": 140,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=4&rangeStart=3608&rangeEnd=3629",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=4&rangeStart=3608&rangeEnd=3629"
+    },
+    {
+      "bookmarkId": "922736_12_8675-8706",
+      "chapterUid": 12,
+      "range": "8675-8706",
+      "markText": "就这样，人类文明史中最精彩的早期场景，被大水彻底掩盖在了海底。",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=12&rangeStart=8675&rangeEnd=8706",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=12&rangeStart=8675&rangeEnd=8706"
+    },
+    {
+      "bookmarkId": "922736_16_1956-2000",
+      "chapterUid": 16,
+      "range": "1956-2000",
+      "markText": "当然，有些部落也会留下一个人看守庄稼——那个人往往是被杀死，然后留下尸体充作“看守”的。",
+      "totalCount": 135,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=16&rangeStart=1956&rangeEnd=2000",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=16&rangeStart=1956&rangeEnd=2000"
+    },
+    {
+      "bookmarkId": "922736_4_2819-2907",
+      "chapterUid": 4,
+      "range": "2819-2907",
+      "markText": "生命存在的范围很狭窄，只有在地面以上4英里、地面以下几百英尺内和海水里才有生命活动。除此以外，我们不知道哪里还有生命。科学家认为在火星或其他行星上会有生命，可那还没有得到证实。",
+      "totalCount": 130,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=4&rangeStart=2819&rangeEnd=2907",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=4&rangeStart=2819&rangeEnd=2907"
+    },
+    {
+      "bookmarkId": "922736_11_1926-2000",
+      "chapterUid": 11,
+      "range": "1926-2000",
+      "markText": "更具特色的是，智人没有像其他人类种族一样，把战败者的妇女占为己有，而是坚决和尼安德特人划清了界限。有这种结论是因为，我们没有发现任何种族杂交的痕迹。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=11&rangeStart=1926&rangeEnd=2000",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=11&rangeStart=1926&rangeEnd=2000"
+    },
+    {
+      "bookmarkId": "922736_16_2320-2338",
+      "chapterUid": 16,
+      "range": "2320-2338",
+      "markText": "农业不是一种文明，但农业催生了文明。",
+      "totalCount": 117,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=16&rangeStart=2320&rangeEnd=2338",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=16&rangeStart=2320&rangeEnd=2338"
+    },
+    {
+      "bookmarkId": "922736_3_930-956",
+      "chapterUid": 3,
+      "range": "930-956",
+      "markText": "1920年，世界上第一本世界通史《世界史纲》问世了。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=3&rangeStart=930&rangeEnd=956",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=3&rangeStart=930&rangeEnd=956"
+    },
+    {
+      "bookmarkId": "922736_3_1792-1820",
+      "chapterUid": 3,
+      "range": "1792-1820",
+      "markText": "“不读史而无以行。”一部好的史书可以让人明智慧，通事理。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=3&rangeStart=1792&rangeEnd=1820",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=3&rangeStart=1792&rangeEnd=1820"
+    },
+    {
+      "bookmarkId": "922736_13_8350-8445",
+      "chapterUid": 13,
+      "range": "8350-8445",
+      "markText": "从那时起，人类进入了一个有统一目标，并能够为这个目标而努力的时代。这个统一目标就是：所有人都能够愉快地生活，能够创造共同认可的思想意识，能够积累可包含全社会的知识储备。这是人类发展的大方向。",
+      "totalCount": 105,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=13&rangeStart=8350&rangeEnd=8445",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=13&rangeStart=8350&rangeEnd=8445"
+    },
+    {
+      "bookmarkId": "922736_21_11421-11499",
+      "chapterUid": 21,
+      "range": "11421-11499",
+      "markText": "在被囚禁的几十年间，犹太人逐渐融合成了一个有独特传统的民族，这是文字对人类历史产生巨大影响的明证。文字带来的思想上的统一促使返回耶路撒冷的犹太民族更为团结。",
+      "totalCount": 105,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=21&rangeStart=11421&rangeEnd=11499",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=21&rangeStart=11421&rangeEnd=11499"
+    },
+    {
+      "bookmarkId": "922736_3_1836-1926",
+      "chapterUid": 3,
+      "range": "1836-1926",
+      "markText": "许多人认为威尔斯在他的书中表现出的期盼人类“大同”的理想乍一看显得有些幼稚，但人类未来的发展趋势并不一定就没有那种日趋完美的可能。至少在现在，他和他的这部著作足以启迪我们的智慧了！",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=3&rangeStart=1836&rangeEnd=1926",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=3&rangeStart=1836&rangeEnd=1926"
+    },
+    {
+      "bookmarkId": "922736_16_2378-2434",
+      "chapterUid": 16,
+      "range": "2378-2434",
+      "markText": "什么是人类的文明？所谓文明就是人类集群定居在农田附近，拥有可长期居住的正式房屋、城郭，并且有集群内部的共同守则。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=16&rangeStart=2378&rangeEnd=2434",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=16&rangeStart=2378&rangeEnd=2434"
+    },
+    {
+      "bookmarkId": "922736_32_18273-18368",
+      "chapterUid": 32,
+      "range": "18273-18368",
+      "markText": "中国的文明在7世纪唐朝达到了发展的巅峰，此后绵延千年而不衰落，并且还随着时间的推移逐渐影响了越南、柬埔寨、尼泊尔、朝鲜、蒙古等地。可遗憾的是，从那以后，中国文明的进步不过是疆域上的进步罢了！",
+      "totalCount": 98,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=32&rangeStart=18273&rangeEnd=18368",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=32&rangeStart=18273&rangeEnd=18368"
+    },
+    {
+      "bookmarkId": "922736_5_2919-2956",
+      "chapterUid": 5,
+      "range": "2919-2956",
+      "markText": "接下来是持续了6500万年之久的新生代。直到现在，我们也还处于新生代之中。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=5&rangeStart=2919&rangeEnd=2956",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=5&rangeStart=2919&rangeEnd=2956"
+    },
+    {
+      "bookmarkId": "922736_15_4209-4269",
+      "chapterUid": 15,
+      "range": "4209-4269",
+      "markText": "例如，中国人仅用四个字“事何必古”就表示了“为什么要遵从古代的道路和方法”的意思，这种语言的质朴凝练远远超过西方的语言。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=922736&chapterUid=15&rangeStart=4209&rangeEnd=4269",
+      "webLink": "https://weread.qq.com/web/reader/1af327305e14701afa681c8?chapterUid=15&rangeStart=4209&rangeEnd=4269"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 23,
+    "chapterOffset": 6227,
+    "progress": 0,
+    "updateTime": 1778688807,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

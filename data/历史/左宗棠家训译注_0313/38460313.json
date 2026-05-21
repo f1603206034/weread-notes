@@ -1,0 +1,1553 @@
+{
+  "meta": {
+    "bookId": "38460313",
+    "title": "左宗棠家训译注",
+    "author": "左宗棠著 彭昊 张四连选编译注",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/48/YueWen_38460313/t6_YueWen_38460313.jpg",
+    "intro": "本书以1920年上海铅印版《左文襄公家书》为底本，并参考《左宗棠全集》《左宗棠教子书》等著作，选编左宗棠分别写给儿子、周夫人和侄儿的家书共计八十二则，按照写作时间的先后顺序编排，基本保持了家书原貌。少数篇目只选取精华部分，将无关主旨的冗长部分做了删减。全书遵循丛书体例，在每段家训原文后，依次按照今译、简注、实践要点的结构，全面解读左宗棠修身、为学、齐家、处世的思想内涵和风格特点，重点揭示家训文本隐含的深层意蕴及其在当代语境下的实践价值。",
+    "category": "历史-历史典籍",
+    "publisher": "上海古籍出版社",
+    "publishTime": "2021-05-01 00:00:00",
+    "isbn": "9787532596768",
+    "wordCount": 0,
+    "newRating": 945,
+    "newRatingCount": 26,
+    "newRatingDetail": {
+      "good": 24,
+      "fair": 2,
+      "poor": 0,
+      "recent": 1,
+      "deepV": 7,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=38460313",
+    "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8",
+    "lastSync": "2026-05-21T11:51:39Z",
+    "readingProgress": "81%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "56d90071c7fd2974f75768be3aa5326eb6e96d5db2a6bab51a3d9fb7e9ab153f"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "“中华家训导读译注丛书”出版缘起",
+      "level": 1,
+      "wordCount": 6175,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "导读",
+      "level": 1,
+      "wordCount": 8170,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "道光十七年",
+      "level": 1,
+      "wordCount": 785,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与周夫人（先从“寡言”“养静”二条做起，实下工夫）",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "与周夫人（与陶澍纵论古今，至于达旦，竟订忘年之交）",
+      "level": 2,
+      "wordCount": 1937,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "道光十八年",
+      "level": 1,
+      "wordCount": 883,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与周夫人（从此款段出都，不复再踏软红）",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "道光二十一年",
+      "level": 1,
+      "wordCount": 1473,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与周夫人（谈教育之法与读书之乐）",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "道光二十七年",
+      "level": 1,
+      "wordCount": 816,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与周夫人（措大生涯，荆布亦非容易）",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "咸丰二年",
+      "level": 1,
+      "wordCount": 2294,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝威（读《小学》，领悟事父母、事君、事兄长之道）",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "咸丰六年",
+      "level": 1,
+      "wordCount": 7152,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与癸叟①侄（务实学之君子必敦实行，丈夫事业非刚莫济）",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "咸丰七年",
+      "level": 1,
+      "wordCount": 1317,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与周夫人（有不虞之誉，斯有求全之毁）",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "咸丰十年",
+      "level": 1,
+      "wordCount": 6913,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝威孝宽（读书要目到、口到、心到）",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "与孝威（大一岁须立一岁志气长一岁学问）",
+      "level": 2,
+      "wordCount": 644,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "与孝威（读书亦可以养身）",
+      "level": 2,
+      "wordCount": 749,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "咸丰十一年",
+      "level": 1,
+      "wordCount": 3188,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝威（品端学优之君子，即不得科第亦自尊贵）",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "与孝威（尔今年小试，原可不必）",
+      "level": 2,
+      "wordCount": 498,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "与孝威（家中除尔母药饵、先生饮馔之外，一切均从简省，断不可浪用）",
+      "level": 2,
+      "wordCount": 2295,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "与周夫人（《小学》《女诫》可令诸姊勤为讲明也）",
+      "level": 2,
+      "wordCount": 1056,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "与周夫人（世事日艰，责寄日重）",
+      "level": 2,
+      "wordCount": 1306,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "与孝威（潦草即是不敬，虽小节必宜慎之）",
+      "level": 2,
+      "wordCount": 1794,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "与孝威（谈兵燹之酷，接仗不过如入场就试耳）",
+      "level": 2,
+      "wordCount": 1913,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "与孝威（无论是何贴，细心学之，自有长进）",
+      "level": 2,
+      "wordCount": 703,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "与孝威（写字看人终身，切宜深自敛抑）",
+      "level": 2,
+      "wordCount": 2070,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "与孝威（当翻刻《小学》《孝经》《四书》《近思录》四种以惠吾湘士人）",
+      "level": 2,
+      "wordCount": 1103,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "与孝威（读书可以养性，亦可养身）",
+      "level": 2,
+      "wordCount": 571,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "同治元年",
+      "level": 1,
+      "wordCount": 859,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝威（尽瘁报国，望思父苦心）",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "与孝威（世事方艰，各宜努力学好）",
+      "level": 2,
+      "wordCount": 1305,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "与孝威（目睹浙民流离颠沛的惨状，无泪可挥一刻难安）",
+      "level": 2,
+      "wordCount": 870,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "与孝威（世胄之致身易于寒酸）",
+      "level": 2,
+      "wordCount": 3449,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "与孝威（苦心力学，无坠门风）",
+      "level": 2,
+      "wordCount": 661,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "与孝威（早成者必早毁，以其气未厚积而先泄也）",
+      "level": 2,
+      "wordCount": 3614,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "与孝威（请二伯来城专课尔读）",
+      "level": 2,
+      "wordCount": 1329,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "与孝威（宗、潘之留意正人，见义之勇，亦非寻常可及矣）",
+      "level": 2,
+      "wordCount": 6475,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "同治二年",
+      "level": 1,
+      "wordCount": 4227,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝威（真作八股者必体玩书理）",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "与孝威孝宽（惟崇俭乃可广惠）",
+      "level": 2,
+      "wordCount": 1265,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "与孝威（天下事不难办，总是得人为难尔）",
+      "level": 2,
+      "wordCount": 534,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "与孝威（亏体辱亲，不孝之大者）",
+      "level": 2,
+      "wordCount": 1267,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "与孝威（浙民凋耗已极，当为谋及长久，以尽此心）",
+      "level": 2,
+      "wordCount": 1600,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "同治三年",
+      "level": 1,
+      "wordCount": 1178,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝威（读书之宜预也，待兄弟总要尽其亲爱之意）",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "与孝威（少云光景原可不必作官）",
+      "level": 2,
+      "wordCount": 864,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "与孝威（带兵五年，不私一钱；任疆圻三年，所余养廉不过一万数千金）",
+      "level": 2,
+      "wordCount": 3691,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "与孝威（天道非翕聚不能发舒，人事非历练不能通晓）",
+      "level": 2,
+      "wordCount": 4658,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "与周夫人（督饬诸儿及家人妇子，格外谨严）",
+      "level": 2,
+      "wordCount": 925,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "同治四年",
+      "level": 1,
+      "wordCount": 1222,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝威（惧家族由盛转衰）",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "与孝威（少交游，内重外轻则寡过）",
+      "level": 2,
+      "wordCount": 676,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "与孝威（给长辈写信应注意礼节）",
+      "level": 2,
+      "wordCount": 1636,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "与孝威（不可轻言时政得失和人物臧否）",
+      "level": 2,
+      "wordCount": 1189,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "与孝威（不以仕宦望子弟，望诗书世泽引之弗替）",
+      "level": 2,
+      "wordCount": 4110,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "同治六年",
+      "level": 1,
+      "wordCount": 578,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与周夫人（家下事一切以谨厚朴俭为主）",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "与孝威（读书增其识解，治事长其阅历）",
+      "level": 2,
+      "wordCount": 903,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "同治七年",
+      "level": 1,
+      "wordCount": 1123,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝威（屡饬尔家居奉母课弟，毋急求仕进，何竟忘之）",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "与孝威（天下有父履危地、母病在床，而其子犹从容就试者乎）",
+      "level": 2,
+      "wordCount": 1118,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "与孝威（读书非求高中进士，谢麟伯学行可为尔师）",
+      "level": 2,
+      "wordCount": 1164,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "与孝威（儿之志趣异于寻常纨绔）",
+      "level": 2,
+      "wordCount": 2449,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "与孝威（不即归省视知尔之忍于忘亲也）",
+      "level": 2,
+      "wordCount": 2688,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "与孝宽（侥幸青衿，切勿沾沾自满）",
+      "level": 2,
+      "wordCount": 1402,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "同治八年",
+      "level": 1,
+      "wordCount": 1381,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝威（时时存一覆巢之想，存一籍没之想，庶受祸不至太酷耳）",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "与孝威（欲受尽苦楚，留点福泽与儿孙，留点榜样在人世间耳）",
+      "level": 2,
+      "wordCount": 1874,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "与孝威（捐廉万两助赈不敢以之为功）",
+      "level": 2,
+      "wordCount": 1583,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "同治九年",
+      "level": 1,
+      "wordCount": 3808,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与威宽勋同（周夫人去世，左宗棠写墓志铭寄托哀思）",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "与孝威（丧礼、祭礼当于此时讲明切究）",
+      "level": 2,
+      "wordCount": 1016,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "与孝威（告诫子孙，俭朴持家）",
+      "level": 2,
+      "wordCount": 2511,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "与诸子（募勇劝捐，从我做起）",
+      "level": 2,
+      "wordCount": 1819,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "同治十年",
+      "level": 1,
+      "wordCount": 1198,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝威孝宽（母仪淑慎，家道以成）",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "同治十一年",
+      "level": 1,
+      "wordCount": 1729,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝威（反对家中铺张浪费，养口体不如养心志）",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "与孝威（慎爱其身，庶免数千里老人牵挂）",
+      "level": 2,
+      "wordCount": 942,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "与孝威（谈曾国藩去世及君臣朋友之道）",
+      "level": 2,
+      "wordCount": 3183,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "与威宽勋同（凡可博老人欢者极力为之，兄弟相为师友勿比匪人）",
+      "level": 2,
+      "wordCount": 1654,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "与孝威（须时常在意服内兄弟子侄）",
+      "level": 2,
+      "wordCount": 1575,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "与威宽勋同（以近名为耻）",
+      "level": 2,
+      "wordCount": 1725,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "与威宽勋同（名之传不传，声称之美不美，何足计较）",
+      "level": 2,
+      "wordCount": 3933,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "title": "与威宽勋同（世泽之兴隆要多出勤耕苦读子弟）",
+      "level": 2,
+      "wordCount": 1447,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "title": "同治十二年",
+      "level": 1,
+      "wordCount": 731,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝威（不以廉俸多寄尔曹）",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 74,
+      "title": "光绪元年",
+      "level": 1,
+      "wordCount": 1203,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与宽勋同（将葬事放在心上、不草率了事即可）",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=74"
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 75,
+      "title": "光绪二年",
+      "level": 1,
+      "wordCount": 3278,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝宽（耕读务本，读书宜有恒无间）",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=75",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=75"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 76,
+      "title": "与宽勋同（告诫儿孙，毋过于注重科名）",
+      "level": 2,
+      "wordCount": 454,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 77,
+      "title": "光绪三年",
+      "level": 1,
+      "wordCount": 1096,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝勋孝同（不欲其俊达多能，亦不望其能文章取科第）",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 78,
+      "title": "光绪四年",
+      "level": 1,
+      "wordCount": 2054,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝勋孝同（诸孙之贤不肖，则尔兄弟夫妇之贤不肖也）",
+          "anchor": "sigil_toc_id_24",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 79,
+      "title": "与孝宽（以廉项买田分家，周济孤侄）",
+      "level": 2,
+      "wordCount": 1581,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=79"
+    },
+    {
+      "chapterUid": 80,
+      "chapterIdx": 80,
+      "title": "与孝宽（解囊赠金，资助故交儿子）",
+      "level": 2,
+      "wordCount": 1141,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=80",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=80"
+    },
+    {
+      "chapterUid": 81,
+      "chapterIdx": 81,
+      "title": "光绪五年",
+      "level": 1,
+      "wordCount": 1578,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝宽孝勋（七八个月不寄家信是何心肝）",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=81",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=81"
+    },
+    {
+      "chapterUid": 82,
+      "chapterIdx": 82,
+      "title": "与孝同（不可沾染官场习气、少爷排场）",
+      "level": 2,
+      "wordCount": 738,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=82",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=82"
+    },
+    {
+      "chapterUid": 83,
+      "chapterIdx": 83,
+      "title": "光绪六年",
+      "level": 1,
+      "wordCount": 1143,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "与孝同（多读书则义理不隔，肯用心则题蕴毕宣）",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=38460313&chapterUid=83",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=83"
+    },
+    {
+      "chapterUid": 84,
+      "chapterIdx": 84,
+      "title": "与孝同（不失寒素佳子弟规模）",
+      "level": 2,
+      "wordCount": 808,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=84",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=84"
+    },
+    {
+      "chapterUid": 85,
+      "chapterIdx": 85,
+      "title": "与孝同（世延处以千金与之）",
+      "level": 2,
+      "wordCount": 1938,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38460313&chapterUid=85",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=85"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 67,
+      "chapterTitle": "与孝威（谈曾国藩去世及君臣朋友之道）",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "38460313_67_521-591",
+          "range": "521-591",
+          "rangeStart": 521,
+          "rangeEnd": 591,
+          "markText": "知人之明，谋国之忠，自愧不如元辅；同心若金，攻错若石，相期无负平生。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1744179200,
+          "createTimeFormatted": "2025-04-09 14:13:20",
+          "chapterUid": 67,
+          "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=67&rangeStart=521&rangeEnd=591",
+          "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=67&rangeStart=521&rangeEnd=591"
+        }
+      ]
+    },
+    {
+      "chapterUid": 10,
+      "chapterTitle": "咸丰六年",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "38460313_10_7306-7399",
+          "range": "7306-7399",
+          "rangeStart": 7306,
+          "rangeEnd": 7399,
+          "markText": "家庭之间，以和顺为贵。严急烦细者，肃杀之气，非长养气也。和而有节，顺而不失其贞，其庶乎 ？",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1744177897,
+          "createTimeFormatted": "2025-04-09 13:51:37",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=10&rangeStart=7306&rangeEnd=7399",
+          "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=10&rangeStart=7306&rangeEnd=7399"
+        }
+      ]
+    },
+    {
+      "chapterUid": 3,
+      "chapterTitle": "导读",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7Zhf2jJoh",
+          "range": "374-377",
+          "chapterName": "",
+          "content": "zuǒ zōnɡ tánɡ\n（1812—1885）清末洋务派和湘军首领。字季高，湖南湘阴人。道光举人。初入湖南巡抚张亮基、骆秉章幕。1860年（咸丰十年）由曾国藩推荐，率湘军五千人赴江西、皖南与太平军作战。1862年（同治元年）初任浙江巡抚。次年升闽浙总督。1864年率军攻占杭州，控制全浙。1865年奉命节制赣、粤、闽三省军务，镇压太平军余部李世贤、汪海洋。1866年创办马尾船政局，同年调陕甘总督。次年以钦差大臣督办陕甘军务，镇压捻军和回民起义。1868年会同李鸿章击灭西捻军后，又率军返回西北，于1873年攻占肃州（治今甘肃酒泉）等处，击灭回民军。1875年（光绪元年）以钦差大臣督办新疆军务，率军讨伐阿古柏，收复迪化（今乌鲁木齐）、和阗（今和田）等地，阻遏俄、英对新疆的侵略。后在西北创办兰州机器织呢局等新式企业。1881年任军机大臣，调两江总督兼南洋通商大臣。中法战争时督办福建军务，病死于福州。有《左文襄公全集》，今辑有《左宗棠全集》。",
+          "abstract": "左宗棠",
+          "star": -1,
+          "createTime": 1744178611,
+          "createTimeFormatted": "2025-04-09 14:03:31",
+          "isFinish": false,
+          "chapterUid": 3
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "38460313_10_7306-7399",
+      "chapterUid": 10,
+      "range": "7306-7399",
+      "markText": "家庭之间，以和顺为贵。严急烦细①者，肃杀②之气，非长养气也。和而有节，顺而不失其贞③，其庶乎④ ？",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=10&rangeStart=7306&rangeEnd=7399",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=10&rangeStart=7306&rangeEnd=7399"
+    },
+    {
+      "bookmarkId": "38460313_48_4362-4440",
+      "chapterUid": 48,
+      "range": "4362-4440",
+      "markText": "古人经济学问都在萧闲①寂寞中练习出来。积之既久，一旦事权②到手，随时举而措之，有一二桩大节目事办得妥当，便足名世",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=48&rangeStart=4362&rangeEnd=4440",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=48&rangeStart=4362&rangeEnd=4440"
+    },
+    {
+      "bookmarkId": "38460313_56_702-820",
+      "chapterUid": 56,
+      "range": "702-820",
+      "markText": "从来人说“佳人命薄，才人福薄”，非天赋之薄也，其自戕自贼⑪、自暴自弃⑫，早将先人余荫、自己根基斫削⑬尽以。又何怪坎坷不遇、憔悴⑭伤身乎？戒之！戒之！",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=56&rangeStart=702&rangeEnd=820",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=56&rangeStart=702&rangeEnd=820"
+    },
+    {
+      "bookmarkId": "38460313_3_7038-7091",
+      "chapterUid": 3,
+      "range": "7038-7091",
+      "markText": "他经常举自己中年后命运才开始转折的例子，要儿子安心在家磨炼，去浮躁，笃根本，人生中自然会出现实现抱负的时机",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=3&rangeStart=7038&rangeEnd=7091",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=3&rangeStart=7038&rangeEnd=7091"
+    },
+    {
+      "bookmarkId": "38460313_36_609-624",
+      "chapterUid": 36,
+      "range": "609-624",
+      "markText": "天下事不难办，总是得人为难尔。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=36&rangeStart=609&rangeEnd=624",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=36&rangeStart=609&rangeEnd=624"
+    },
+    {
+      "bookmarkId": "38460313_75_3973-4032",
+      "chapterUid": 75,
+      "range": "3973-4032",
+      "markText": "小时拘束太严，大来纵肆⑤，反多不可收拾⑥；或渐近憨呆，不晓世事，皆必有之患",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=75&rangeStart=3973&rangeEnd=4032",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=75&rangeStart=3973&rangeEnd=4032"
+    },
+    {
+      "bookmarkId": "38460313_10_7433-7488",
+      "chapterUid": 10,
+      "range": "7433-7488",
+      "markText": "用财有道，自奉宁过于俭，待人宁过于厚，寻常酬应则酌于施报可也。济人之道，先其亲者，后其疏者；先其急者，次其缓者",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=10&rangeStart=7433&rangeEnd=7488",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=10&rangeStart=7433&rangeEnd=7488"
+    },
+    {
+      "bookmarkId": "38460313_12_9157-9236",
+      "chapterUid": 12,
+      "range": "9157-9236",
+      "markText": "同学之友，如果诚实发愤，无妄言妄动，固宜引为同类。倘或不然，则同斋①割席②，勿与亲昵③为要。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=12&rangeStart=9157&rangeEnd=9236",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=12&rangeStart=9157&rangeEnd=9236"
+    },
+    {
+      "bookmarkId": "38460313_53_456-485",
+      "chapterUid": 53,
+      "range": "456-485",
+      "markText": "尔年轻学浅，无阅历，凡事以少开口、莫高兴为主，记之，记之。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=53&rangeStart=456&rangeEnd=485",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=53&rangeStart=456&rangeEnd=485"
+    },
+    {
+      "bookmarkId": "38460313_78_757-793",
+      "chapterUid": 78,
+      "range": "757-793",
+      "markText": "诸孙之贤不肖，则尔兄弟夫妇之贤不肖⑤也，尚慎之哉！",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=78&rangeStart=757&rangeEnd=793",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=78&rangeStart=757&rangeEnd=793"
+    },
+    {
+      "bookmarkId": "38460313_3_5029-5061",
+      "chapterUid": 3,
+      "range": "5029-5061",
+      "markText": "读书不必急求进功，只要有恒无间，养得此心纯一专静，自然所学日进耳",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=3&rangeStart=5029&rangeEnd=5061",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=3&rangeStart=5029&rangeEnd=5061"
+    },
+    {
+      "bookmarkId": "38460313_30_494-589",
+      "chapterUid": 30,
+      "range": "494-589",
+      "markText": "尔年十六七，正是读书时候，能苦心力学，作一明白秀才，无坠门风②，即是幸事。如其不然③，即少年登科④，有何好处？且正古人所忧也",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=30&rangeStart=494&rangeEnd=589",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=30&rangeStart=494&rangeEnd=589"
+    },
+    {
+      "bookmarkId": "38460313_72_710-770",
+      "chapterUid": 72,
+      "range": "710-770",
+      "markText": "吾总以世泽之兴隆要多出勤耕苦读子弟，家祚③之昌盛总在忠孝节义④，他不足贵也。",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=72&rangeStart=710&rangeEnd=770",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=72&rangeStart=710&rangeEnd=770"
+    },
+    {
+      "bookmarkId": "38460313_3_6829-6910",
+      "chapterUid": 3,
+      "range": "6829-6910",
+      "markText": "不求早达，只愿厚积薄发。他告诫孝威：“自古功名振世之人，大都早年备尝辛苦，至晚岁事权到手乃有建树，未闻早达而能大有所成者。天道非翕聚不能发舒，人事非历练不能通晓。",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=3&rangeStart=6829&rangeEnd=6910",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=3&rangeStart=6829&rangeEnd=6910"
+    },
+    {
+      "bookmarkId": "38460313_3_7611-7650",
+      "chapterUid": 3,
+      "range": "7611-7650",
+      "markText": "以有恒治学，不要一曝十寒，根据各自身体和心性因材施教，这是符合儿童教育规律的。",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=3&rangeStart=7611&rangeEnd=7650",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=3&rangeStart=7611&rangeEnd=7650"
+    },
+    {
+      "bookmarkId": "38460313_3_7401-7472",
+      "chapterUid": 3,
+      "range": "7401-7472",
+      "markText": "以体质非佳，苦读能伤气，久坐能伤血。小时拘束太严，大来纵肆，反多不可收拾；或渐近憨呆，不晓世事，皆必有之患”。只要有恒，不必追促，以养身为要。",
+      "totalCount": 30,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=3&rangeStart=7401&rangeEnd=7472",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=3&rangeStart=7401&rangeEnd=7472"
+    },
+    {
+      "bookmarkId": "38460313_7_643-732",
+      "chapterUid": 7,
+      "range": "643-732",
+      "markText": "吾所以教之者，先以义理⑪正其心，继以经济⑫廓其志⑬，至文章之工拙⑭、科名之得失，非所急也。",
+      "totalCount": 30,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=7&rangeStart=643&rangeEnd=732",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=7&rangeStart=643&rangeEnd=732"
+    },
+    {
+      "bookmarkId": "38460313_12_2913-3030",
+      "chapterUid": 12,
+      "range": "2913-3030",
+      "markText": "志患不立，尤患不坚。偶然听一段好话，听一件好事，亦知歆动④羡慕，当时亦说我要与他一样。不过几日几时，此念就不知如何销歇⑤去了，此是尔志不坚，还由不能立志之故。如果一心向上，有何事业不能做成？",
+      "totalCount": 30,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=12&rangeStart=2913&rangeEnd=3030",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=12&rangeStart=2913&rangeEnd=3030"
+    },
+    {
+      "bookmarkId": "38460313_21_748-793",
+      "chapterUid": 21,
+      "range": "748-793",
+      "markText": "吾湘在东南最为福地，尔辈未经兵燹之酷，直不知人世间危险困苦有非言语所能尽者，故略为尔道之。",
+      "totalCount": 30,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=21&rangeStart=748&rangeEnd=793",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=21&rangeStart=748&rangeEnd=793"
+    },
+    {
+      "bookmarkId": "38460313_34_692-802",
+      "chapterUid": 34,
+      "range": "692-802",
+      "markText": "间有一二曾由八股得科名者，其心思较之他人尚易入理，与之说几句《四书》，说几句《大注》④，即目前事物随时指点，是较未读书之人容易开悟许多。可见真作八股者必体玩书理，时有几句圣贤话头留在口边究是不同也。",
+      "totalCount": 30,
+      "appLink": "weread://bestbookmark?bookId=38460313&chapterUid=34&rangeStart=692&rangeEnd=802",
+      "webLink": "https://weread.qq.com/web/reader/0a332ce0724adb990a3c8f8?chapterUid=34&rangeStart=692&rangeEnd=802"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 67,
+    "chapterOffset": 4302,
+    "progress": 81,
+    "updateTime": 1744179536,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

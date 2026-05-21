@@ -1,0 +1,901 @@
+{
+  "meta": {
+    "bookId": "3300025476",
+    "title": "黄克诚自述",
+    "author": "黄克诚",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/47/cpPlatform_uVPVUkpisV3WkbFFwYo1MU/t6_cpPlatform_uVPVUkpisV3WkbFFwYo1MU.jpg",
+    "intro": "黄克诚对自己一生革命经历的回忆。",
+    "category": "人物传记-军政领袖",
+    "publisher": "人民出版社",
+    "publishTime": "2019-07-01 00:00:00",
+    "isbn": "9787010020426",
+    "wordCount": 0,
+    "newRating": 942,
+    "newRatingCount": 455,
+    "newRatingDetail": {
+      "good": 443,
+      "fair": 12,
+      "poor": 0,
+      "recent": 12,
+      "deepV": 216,
+      "myRating": "",
+      "title": "神作潜力"
+    },
+    "appLink": "weread://reading?bId=3300025476",
+    "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03",
+    "lastSync": "2026-05-21T11:49:48Z",
+    "readingProgress": "86%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 7,
+    "reviewCount": 13,
+    "bookmarkCount": 0,
+    "contentHash": "6937e0e5a3a85e1c2e37d25dfdfd7eda3c288e299d2290741cfae85cba009d41"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 118,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "章前内容",
+      "level": 1,
+      "wordCount": 7,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "再版说明",
+      "level": 1,
+      "wordCount": 298,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "自述",
+      "level": 1,
+      "wordCount": 2671,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1 我的家庭情况",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "2 上学",
+      "level": 2,
+      "wordCount": 6569,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "3 加入中国共产党",
+      "level": 2,
+      "wordCount": 3233,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "4 北伐前后",
+      "level": 2,
+      "wordCount": 7558,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "5 湘南暴动",
+      "level": 2,
+      "wordCount": 12184,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "6 千里奔波找党 辗转白区一年",
+      "level": 2,
+      "wordCount": 13949,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "7 来到红三军团 两次打长沙",
+      "level": 2,
+      "wordCount": 10098,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "8 第一、二、三次反“围剿”",
+      "level": 2,
+      "wordCount": 9767,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "9 赣州、水口、乐宜诸役",
+      "level": 2,
+      "wordCount": 10517,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "10 第四次至第五次反“围剿”",
+      "level": 2,
+      "wordCount": 8523,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "11 长征",
+      "level": 2,
+      "wordCount": 15775,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "12 在陕北和华北",
+      "level": 2,
+      "wordCount": 15712,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "13 苏北抗战",
+      "level": 2,
+      "wordCount": 15856,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "14 在东北战场",
+      "level": 2,
+      "wordCount": 15910,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "15 迎来新中国",
+      "level": 2,
+      "wordCount": 3819,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "16 调任湖南",
+      "level": 2,
+      "wordCount": 9532,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "17 在中央军委、总参、总后工作",
+      "level": 2,
+      "wordCount": 10515,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "18 庐山风云",
+      "level": 2,
+      "wordCount": 15683,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "19 在“文化大革命”期间",
+      "level": 2,
+      "wordCount": 12649,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "补篇",
+      "level": 1,
+      "wordCount": 1431,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "在庐山会议第五小组会上的发言",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "关于对毛主席评价和对毛泽东思想的态度问题",
+      "level": 2,
+      "wordCount": 11451,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "对《中国大百科全书》“林彪”条释文的意见",
+      "level": 2,
+      "wordCount": 2726,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "后记",
+      "level": 1,
+      "wordCount": 164,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300025476&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=27"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 13,
+      "chapterTitle": "9 赣州、水口、乐宜诸役",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300025476_13_8595-8735",
+          "range": "8595-8735",
+          "rangeStart": 8595,
+          "rangeEnd": 8735,
+          "markText": "毛泽东是不赞成打赣州的。他主张中央红军应在支援第十九路军抗战的口号下，集中力量向敌人统治比较薄弱、党和群众基础比较好、地形条件比较有利的赣东北方向发展，在赣江以东、闽浙沿海以西、长江以南、五岭山脉以北广大地区发展革命战争，消灭白色据点，逐步扩大巩固根据地。但这一正确主张未被采纳。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1738995858,
+          "createTimeFormatted": "2025-02-08 14:24:18",
+          "chapterUid": 13,
+          "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=13&rangeStart=8595&rangeEnd=8735",
+          "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=13&rangeStart=8595&rangeEnd=8735"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_81BqY1Ozr",
+          "range": "2845-3466",
+          "chapterName": "",
+          "content": "虽然是深秋夜凉，豆大的汗珠却从丁汝昌额头渗出。\n李鸿章看他一眼，不满地说：“不就是一个弹劾吗？这么紧张干什么？老夫一年四季被他们弹劾，照你这样子，那都不要活了！何况他这是项庄舞剑，意在沛公！你看，这里翁同龢就在质问，为什么老夫要把北洋水师的指挥权交给你，就因为你是淮军旧部，又是安徽人。”\n丁汝昌站起来，不安地说：“中堂，汝昌请求辞去北洋水师提督之职！”\n李鸿章眼一瞪说：“为什么？”\n丁汝昌：“不能因汝昌而连累中堂！”\n李鸿章一愣，随即爆发出一阵大笑，“连累我？贼娘！亏你想得出来。连累我什么？不就说我培植私人势力，任人唯亲吗？笑话，不任人唯亲，老子任人唯疏不成？非要让我的部下不听话，处处和我作对，那才不叫培植私人势力了？贼娘！老子一辈子玩的这个，会上他的当？你给我听着！这个提督你不能辞！非但是不能辞，你还得给我牢牢占着这个位置！北洋海军是朝廷的命根子，也是我李鸿章的命根子，我不能让它捏在别人手里，懂了吗？”\n\n-- 《走向共和》张建伟",
+          "abstract": "何笃才是湖北黄冈人，大革命时期在南昌第一师范加入共产党，参加过南昌起义。井冈山会师以后，他任红二十八团迫击炮连党代表。当红二十八团第二营营长袁崇全胁迫该营及机关枪连、迫击炮连叛逃时，在团长王尔琢被叛徒打死的情况下，何笃才等同志设法把部队拉了回来，叛徒只身逃跑。在这件事情上，何笃才是有功的干部之一。但由于他在古田会议之前朱、毛的争论当中，反对毛泽东的正确意见，从此便不受重用。后来就将他调出红一军团，到红三军团我那个师里当了宣传科长。按照他的资历和水平，让他当宣传科长是不适当的。但当时上级把他当做犯了错误的干部来使用，他本人也无所谓，工作起来很认真负责，也很有魄力。平时与同志们交谈中，对他自己的观点从不掩饰。他曾对我说过，毛泽东这个人很了不起！论本事，还没有一个人能超过毛泽东；论政治主张，毛泽东的政治主张毫无疑问是最正确的。我问他：既然如此，你为什么要站到反对毛泽东的一边呢？他说，他不反对毛泽东的政治路线，而是反对毛泽东的组织路线。我说：政治路线正确，组织路线上有点偏差关系不大吧？他说：不行！政治路线、组织路线都不应该有偏差，都是左不得，右不得的。我问他：毛泽东的组织路线究竟有什么问题？他说：毛泽东过于信用顺从自己的人，对持不同意见的人不能一视同仁，不及朱老总宽厚坦诚。何笃才还举例说，像李韶九这个人，品质很坏，就是因为会顺从，骗取了信任，因而受到重用，被赋予很大的权力。结果，干坏了事情也不被追究。像这样的组织路线，何以能服人？",
+          "star": -1,
+          "createTime": 1752368774,
+          "createTimeFormatted": "2025-07-13 09:06:14",
+          "isFinish": false,
+          "chapterUid": 13
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7WNP3jAtT",
+          "range": "11018-11020",
+          "chapterName": "",
+          "content": "hè chānɡ\n（1906—1935）中国工农红军高级指挥员。原名其颖，字伯聪，山西柳林人。1921年加入中国社会主义青年团。1923年转为中国共产党党员。同年在上海大学学习。曾任共青团太原地委、中共江浙区委书记。参与组织发动上海工人三次武装起义。1927年7月中旬被指定为中共前敌军委委员，赴九江组织武装起义。8月参加南昌起义。1928年参与重建中共湖南省委。曾任中共中央南方局宣传部部长、中共中央北方局书记兼顺直省委书记，湘鄂赣边红军第五军政治委员、红三军团政治部主任和红军总政治部副主任。参加中央革命根据地历次反“围剿”作战。是中华苏维埃共和国第二届中央执行委员，共青团第三、第四届中央委员，中共第五、第六届中央委员。红一方面军主力长征后，留在赣南坚持游击战争，任中共苏区中央分局委员、中央军区政治部主任。1935年3月率部向粤赣边突围，10日在江西会昌与国民党军作战时牺牲。",
+          "abstract": "贺昌",
+          "star": -1,
+          "createTime": 1735464370,
+          "createTimeFormatted": "2024-12-29 17:26:10",
+          "isFinish": false,
+          "chapterUid": 13
+        }
+      ]
+    },
+    {
+      "chapterUid": 11,
+      "chapterTitle": "7 来到红三军团 两次打长沙",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300025476_11_10714-10847",
+          "range": "10714-10847",
+          "rangeStart": 10714,
+          "rangeEnd": 10847,
+          "markText": "毛泽东在吉安城里搜集到大量报刊资料，进行研究分析，从中发现蒋、冯、阎中原大战已结束，冯玉祥、阎锡山败北下野，所部被蒋介石收编。毛泽东从这一形势中判断，蒋介石解决了冯玉祥、阎锡山之后，已腾出手来，将要转移兵力，大举进攻苏区。后来事变的发展，完全证实了毛泽东的这一判断。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1735461573,
+          "createTimeFormatted": "2024-12-29 16:39:33",
+          "chapterUid": 11,
+          "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=11&rangeStart=10714&rangeEnd=10847",
+          "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=11&rangeStart=10714&rangeEnd=10847"
+        }
+      ]
+    },
+    {
+      "chapterUid": 8,
+      "chapterTitle": "4 北伐前后",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300025476_8_7678-7893",
+          "range": "7678-7893",
+          "rangeStart": 7678,
+          "rangeEnd": 7893,
+          "markText": "南昌起义部队撤离南昌之后，南下广东，原打算占领海口，取得国际援助，恢复广东革命根据地，再行北伐。但却不懂得改变战略战术，仍采用北伐时打北洋军阀时的方式，一路攻坚，打硬仗，加之孤军无援，使部队遭到很大伤亡。不久蔡廷锴率所部第十师脱离起义军，部队中病、逃、减员剧增。在攻占广东三河坝地区和潮汕一带后，起义军在敌人优势兵力的围攻之下，遭到失败，队伍被打散。后来，朱德、陈毅收拢了余部几百人，转入湘南，后来上了井冈山，保留下来一部分骨干。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1728804786,
+          "createTimeFormatted": "2024-10-13 15:33:06",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=8&rangeStart=7678&rangeEnd=7893",
+          "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=8&rangeStart=7678&rangeEnd=7893"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7UUzTpZ1p",
+          "range": "7908-7911",
+          "chapterName": "4 北伐前后",
+          "content": "lú dé mínɡ\n\n（1905—1927）　湘赣边界秋收起义领导人。字邦鼎，号又新，又名继雄，四川宜宾狮子湾（今属自贡）人。1924年加入中国共产党。黄埔军校第二期毕业。后留校任政治部组织科科员。曾参加东征。1925年11月起，先后任国民革命军第四军叶挺独立团连长、营长，第七十三团参谋长，国民革命军第二方面军总指挥部警卫团团长，参加北伐战争。1927年9月参与领导湘赣边界秋收起义，任工农革命军第一军第一师总指挥。9月25日，起义军向井冈山进军途经江西萍乡芦溪山口岩时，遭国民党军袭击牺牲。",
+          "abstract": "卢德铭",
+          "star": -1,
+          "createTime": 1728804854,
+          "createTimeFormatted": "2024-10-13 15:34:14",
+          "isFinish": false,
+          "chapterUid": 8
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7UUzAxRWe",
+          "range": "6703-6704",
+          "chapterName": "4 北伐前后",
+          "content": "pán\n\n劈开的竹木片。\n量词。多用于商店、客栈等。",
+          "abstract": "爿",
+          "star": -1,
+          "createTime": 1728804575,
+          "createTimeFormatted": "2024-10-13 15:29:35",
+          "isFinish": false,
+          "chapterUid": 8
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7UUzvL3er",
+          "range": "6281-6283",
+          "chapterName": "4 北伐前后",
+          "content": "chén ɡēnɡ\n\n（1903—1961）　中国无产阶级革命家、军事家，中国人民解放军高级将领。原名庶康，字传瑾，湖南湘乡人。1922年加入中国共产党。黄埔军校第一期毕业。曾留校任连长、副队长。1926年赴苏联学习，翌年回国并参加南昌起义。1928年在上海中共中央特科工作。1931年任红四方面军第十二师师长。1932年负伤到上海就医，1933年3月因叛徒出卖被捕，5月经中共组织和宋庆龄等营救脱险到中央革命根据地，任中国工农红军第一步兵学校校长。长征中任中央纵队干部团团长，到陕北后任红一军团第一师师长。抗日战争全面爆发后，任八路军第一二九师三八六旅旅长，太岳军区、太岳纵队、晋冀鲁豫军区第四纵队、中原野战军第四纵队司令员，第二野战军第四兵团司令员兼政治委员，西南军区副司令员兼云南军区司令员，云南省人民政府主席。1950年7月作为中共中央代表应邀赴越南，帮助越南军民进行抗法战争。1951年任中国人民志愿军副司令员兼第三兵团司令员、政治委员，后代理彭德怀在志愿军的职务。1952年7月起，任解放军军事工程学院院长兼政治委员、解放军副总参谋长、国防科委副主任，国防部副部长等职。1955年被授予大将军衔和一级八一勋章、一级独立自由勋章、一级解放勋章。是中共第七届中央候补委员、第八届中央委员，第一、二届国防委员会委员。主要著作编为《陈赓军事文选》，著有《陈赓日记》。",
+          "abstract": "陈赓",
+          "star": -1,
+          "createTime": 1728804504,
+          "createTimeFormatted": "2024-10-13 15:28:24",
+          "isFinish": false,
+          "chapterUid": 8
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7UUz4lwwx",
+          "range": "3277-3279",
+          "chapterName": "4 北伐前后",
+          "content": "tónɡ ɡuān\n\n古关名。周、春秋为桃林塞地，东汉末置潼关。在今陕西潼关县东北。武周天授时移于今县东北港口。当陕西、山西、河南三省要冲，历来为军事要地。\n县名。在陕西省东部、渭河下游，邻接河南、山西两省。属渭南市。面积429平方千米。人口17万（2017年）。县人民政府驻城关街道。东汉设潼关。唐置潼津县，后废。明置潼关卫。清置潼关县，后升厅，1913年复改县。因关名县。地处晋、陕、豫三省交通要冲。农产以粮、棉为主，并产酱笋。南部山区森林茂盛，并产核桃、苍术、菖蒲、远志等。矿产有金、铅、大理石、石墨。有采矿、矿山机械修造、农机、建材等工业。陇海高铁及陇海、同蒲铁路和连霍高速公路经此。古迹有潼关、秦王城、佛头崖等。",
+          "abstract": "潼关",
+          "star": -1,
+          "createTime": 1728804099,
+          "createTimeFormatted": "2024-10-13 15:21:39",
+          "isFinish": false,
+          "chapterUid": 8
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7UUyYZYBa",
+          "range": "3074-3076",
+          "chapterName": "4 北伐前后",
+          "content": "yǎn chénɡ\n\n区名。在河南省漯河市西北部、沙河流域。市人民政府驻地。面积413平方千米。人口52万（2017年）。区人民政府驻城关镇。战国魏郾邑。西汉置郾县，隋改郾城县。以古郾子国得名。2005年改区。2006年漯河市人民政府由源汇区迁此。农产有小麦、高粱、甘薯、烟草、瓜类。工业有机械、造纸、酿酒、水泥、化肥等。京广高铁及京广、漯南、漯宝等铁路和京港澳、宁洛高速公路经此。古迹有文庙、彼岸寺石幢。",
+          "abstract": "郾城",
+          "star": -1,
+          "createTime": 1728804020,
+          "createTimeFormatted": "2024-10-13 15:20:20",
+          "isFinish": false,
+          "chapterUid": 8
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7UUyNp9dt",
+          "range": "2253-2255",
+          "chapterName": "4 北伐前后",
+          "content": "hàn yánɡ\n\n区名。在湖北省武汉市中部，东南邻长江，地处汉江入长江口南岸。面积108平方千米。人口84万（2020年）。区人民政府驻琴断口街道。隋置汉津县，后改汉阳县。清为汉阳县治。1949年析汉阳县城区划归武汉市。1950年为武汉市第六区。1952年改称汉阳区。为近代中国工业发祥地之一，曾建有汉阳铁厂、汉阳兵工厂等。以机械电子、文化旅游、现代服务业等产业为主导。建有鹦鹉洲、武汉、杨泗港等长江大桥。汉蔡高速公路经此。有轨道线（地铁）。名胜古迹有龟山、莲花湖、古琴台、归元禅寺、汉阳树、晴川阁等。\n古城名。在今福建浦城北。《史记·东越列传》：西汉元封元年（前110年）武帝用兵东越，故“越衍侯吴阳以其邑七百人反，攻越军于汉阳”，即此。\n古县名。（1）西汉置。以在汉水（今贵州三岔河）之北得名。治今贵州威宁、水城一带。南朝梁废。西汉为犍为郡都尉治。（2）北魏置。治今陕西汉阴西南，为魏明郡治。北周废。（3）西魏改兰仓县置。治今甘肃礼县。隋开皇十八年（598年）改为长道县，并移治今礼县东。西魏为汉阳郡治。\n郡名。（1）东汉永平十七年（74年）改天水郡置。治冀县（今甘谷东南）。辖境相当今甘肃定西市、陇西、礼县以东，静宁、庄浪以西，黄河以南，嶓冢山以北地。三国魏初复名天水。（2）北魏太平真君五年（444年）置。治兰仓（西魏改汉阳，今礼县）。辖境相当今甘肃礼县一带。北周废。（3）北魏太平真君七年分天水郡置。治黄瓜（今天水南）。辖境相当今甘肃天水市与武山县之间地区。隋初废。（4）隋大业三年（607年）改成州置。治上禄（今礼县西南）。辖境相当今甘肃礼县、西和及成县西北部地。唐武德元年（618年）复改成州。\n军、府名。五代周显德五年（958年）置军。治汉阳（今武汉）。宋辖境相当今湖北汉川市及武汉市长江以西地区。元改为府。清辖境扩大，相当今湖北长江以北，武汉市黄陂区以西，孝感市、汉川市以南，仙桃市以东地区。1912年废。清末在此设兵工厂、铁厂。\n旧县名。在湖北省东部、汉江下游南岸。隋由汉津县改称。1992年撤销，改设武汉市蔡甸区。",
+          "abstract": "汉阳",
+          "star": -1,
+          "createTime": 1728803849,
+          "createTimeFormatted": "2024-10-13 15:17:29",
+          "isFinish": false,
+          "chapterUid": 8
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7UUyLrwTF",
+          "range": "2256-2258",
+          "chapterName": "4 北伐前后",
+          "content": "hàn kǒu\n\n区片名。在湖北省武汉市区长江与汉江交汇处之北、京广铁路线上。古名汉皋。明、清时与佛山、朱仙、景德并称中国四大名镇。向为商业与交通重镇。1926年设汉口特别市，1931年改普通市。1949年与武昌、汉阳合并设武汉市。为武汉市的主要商业区。",
+          "abstract": "汉口",
+          "star": -1,
+          "createTime": 1728803820,
+          "createTimeFormatted": "2024-10-13 15:17:00",
+          "isFinish": false,
+          "chapterUid": 8
+        }
+      ]
+    },
+    {
+      "chapterUid": 7,
+      "chapterTitle": "3 加入中国共产党",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300025476_7_2374-2488",
+          "range": "2374-2488",
+          "rangeStart": 2374,
+          "rangeEnd": 2488,
+          "markText": "他来广州比我们晚到几天。当时雷克长把我和黄庭芳拉到讲习班附近的空坪上，很严肃地说道：“你们连组织关系都不带，就跑到广州来，这是违反组织纪律的行为。现在我把你们的组织关系带来了，已经交给这里的党组织，以后你们可不许再这样随便了。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1727313115,
+          "createTimeFormatted": "2024-09-26 09:11:55",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=7&rangeStart=2374&rangeEnd=2488",
+          "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=7&rangeStart=2374&rangeEnd=2488"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7Utm424uk",
+          "range": "2706-2712",
+          "chapterName": "3 加入中国共产党",
+          "content": "1926年3月16日下午一时，英、美、法、意、日、荷、比、西等八国公使在荷兰使馆集会，会议决定为维护辛丑条约，八国共同就大沽口问题向北京提出最后通牒。通牒提出五项要求：天津航道停止所有战斗行为，排除水雷及一切障碍物，恢复所有航路标志，对外国船舶不加任何干涉，停止对外船的一切检查。以上各项，要求北京政府在四十八小时内兑现，至迟不超过3月18日正午。如若不得满足，八国\"决采取所认为必要之手段\"。此所谓\"八国通牒\"。通牒当日下午四时被送到北京执政府外交部。",
+          "abstract": "“八国通牒”",
+          "star": -1,
+          "createTime": 1727258578,
+          "createTimeFormatted": "2024-09-25 18:02:58",
+          "isFinish": false,
+          "chapterUid": 7
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7UtlP0NG0",
+          "range": "2793-2815",
+          "chapterName": "3 加入中国共产党",
+          "content": "《纪念刘和珍君》",
+          "abstract": "鲁迅称3月18日是“民国以来最黑暗的一天”。",
+          "star": -1,
+          "createTime": 1727258356,
+          "createTimeFormatted": "2024-09-25 17:59:16",
+          "isFinish": false,
+          "chapterUid": 7
+        }
+      ]
+    },
+    {
+      "chapterUid": 25,
+      "chapterTitle": "关于对毛主席评价和对毛泽东思想的态度问题",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300025476_25_4928-4966",
+          "range": "4928-4966",
+          "rangeStart": 4928,
+          "rangeEnd": 4966,
+          "markText": "那时，我们的侦察工作很差，毛主席就是通过看报纸，分析出国民党要向我们大举进攻",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1726406080,
+          "createTimeFormatted": "2024-09-15 21:14:40",
+          "chapterUid": 25,
+          "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=25&rangeStart=4928&rangeEnd=4966",
+          "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=25&rangeStart=4928&rangeEnd=4966"
+        }
+      ]
+    },
+    {
+      "chapterUid": 21,
+      "chapterTitle": "17 在中央军委、总参、总后工作",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300025476_21_947-1015",
+          "range": "947-1015",
+          "rangeStart": 947,
+          "rangeEnd": 1015,
+          "markText": "我一向认为：领导任何工作，都必须掌握主动，决不能被工作推着走；搞成被动应付局面，就办不好事情。无论事情有多么杂乱、困难，也得把局面打开。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1725353792,
+          "createTimeFormatted": "2024-09-03 16:56:32",
+          "chapterUid": 21,
+          "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=21&rangeStart=947&rangeEnd=1015",
+          "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=21&rangeStart=947&rangeEnd=1015"
+        }
+      ]
+    },
+    {
+      "chapterUid": 14,
+      "chapterTitle": "10 第四次至第五次反“围剿”",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7WNPSTxxP",
+          "range": "7697-7701",
+          "chapterName": "",
+          "content": "fú jiàn shì biàn\n1933年国民党第十九路军在福建发动的抗日反蒋事变。1932年5月，在上海抗击日军的十九路军被蒋介石调到福建进行反共内战。次年3月，长城抗战爆发。在中国共产党抗日主张影响下，该军将领蒋光鼐、蔡廷锴、陈铭枢等要求北上抗日，遭蒋介石拒绝后决定抗日反蒋。10月26日，十九路军派代表与中共领导的中华苏维埃共和国临时中央政府签订了《反日反蒋的初步协定》。随后，又联合国民党内的李济深、冯玉祥及第三党等反蒋力量，于11月20日在福州发起召开中国全国人民临时代表大会，发表《人民权利宣言》，成立中华共和国人民革命政府，推李济深为主席。事变一度打乱了蒋介石对中央革命根据地的第五次“围剿”计划。1934年1月，福建人民革命政府在蒋介石15万军队的进攻下失败。",
+          "abstract": "福建事变",
+          "star": -1,
+          "createTime": 1735465132,
+          "createTimeFormatted": "2024-12-29 17:38:52",
+          "isFinish": false,
+          "chapterUid": 14
+        }
+      ]
+    },
+    {
+      "chapterUid": 9,
+      "chapterTitle": "5 湘南暴动",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7Ut4MR6Hh",
+          "range": "493-497",
+          "chapterName": "5 湘南暴动",
+          "content": "马日事变是1927年5月21日发生在湖南长沙的一次反革命政变，由国民革命军第三十五军第三十三团团长许克祥率兵发动。这次政变是蒋介石“四一二”反革命政变后，湖南地区的一次重大反动事件。\n\n事件经过\n\n许克祥在长沙的部队在何键的策动下，袭击了湖南省工会、省农会等革命组织，并解除工人纠察队和农民自卫军的武装，捕杀共产党员、国民党左派人士及工农群众百余人。由于21日的电报代日韵目是“马”字，因此这次事件被称为“马日事变”或“马夜事变”。\n\n影响和后果\n\n马日事变标志着湖南大革命的低潮，对中共湖南党组织造成了严重破坏。事变后，毛泽东被任命为湖南省委书记，前往长沙组织新的湖南省委。毛泽东在湖南期间，强调对不能合作的反动分子要严加处置，各县工农武装应迅速集中，用武力对付反动军队。\n\n历史意义\n\n马日事变是蒋介石、汪精卫两个反革命集团公开叛变革命、开始同流合污的信号，对后来的反革命政变有着深远的影响。它表明，蒋介石集团与武汉的汪精卫集团已经开始勾结，共同对抗革命力量。",
+          "abstract": "马日事变",
+          "star": -1,
+          "createTime": 1727242750,
+          "createTimeFormatted": "2024-09-25 13:39:10",
+          "isFinish": false,
+          "chapterUid": 9
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300025476_22_7855-7927",
+      "chapterUid": 22,
+      "range": "7855-7927",
+      "markText": "林彪发言说彭是“野心家”、“阴谋家”、“伪君子”；说彭自己有一套纲领、路线，独断专行，攻击主席，用心很深等。这个发言很厉害，以后成了定性的基调。",
+      "totalCount": 323,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=22&rangeStart=7855&rangeEnd=7927",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=22&rangeStart=7855&rangeEnd=7927"
+    },
+    {
+      "bookmarkId": "3300025476_5_1546-1630",
+      "chapterUid": 5,
+      "range": "1546-1630",
+      "markText": "这是我第一次接触到的实际社会问题，亲眼看见环境是怎样把人逼上绝路，人与人之间的关系是何等淡薄，甚至父母子女之间竟会变得如此冷酷无情。但这种事情在那时的农村又是十分平常！",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=5&rangeStart=1546&rangeEnd=1630",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=5&rangeStart=1546&rangeEnd=1630"
+    },
+    {
+      "bookmarkId": "3300025476_12_8849-8873",
+      "chapterUid": 12,
+      "range": "8849-8873",
+      "markText": "事有凑巧，这颗炸弹落地之后竟没有爆炸，实属侥幸。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=12&rangeStart=8849&rangeEnd=8873",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=12&rangeStart=8849&rangeEnd=8873"
+    },
+    {
+      "bookmarkId": "3300025476_10_5091-5117",
+      "chapterUid": 10,
+      "range": "5091-5117",
+      "markText": "天下事贵在坚持，最困难的时候也往往是出现转机的时候。",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=10&rangeStart=5091&rangeEnd=5117",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=10&rangeStart=5091&rangeEnd=5117"
+    },
+    {
+      "bookmarkId": "3300025476_18_12099-12154",
+      "chapterUid": 18,
+      "range": "12099-12154",
+      "markText": "毛泽东说：“固守四平当时是我决定的。”我说：“是你决定的也是不对的。”毛泽东说：“那就让历史和后人去评说吧。”",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=18&rangeStart=12099&rangeEnd=12154",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=18&rangeStart=12099&rangeEnd=12154"
+    },
+    {
+      "bookmarkId": "3300025476_14_3469-3542",
+      "chapterUid": 14,
+      "range": "3469-3542",
+      "markText": "从我们党的历史上看，凡是推行“左”倾路线的时候，总是把肥皂泡吹得满大，虚张声势，尽干那种自欺欺人的蠢事。其结果，无不以革命事业遭受巨大损失而告终。",
+      "totalCount": 264,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=14&rangeStart=3469&rangeEnd=3542",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=14&rangeStart=3469&rangeEnd=3542"
+    },
+    {
+      "bookmarkId": "3300025476_8_8525-8580",
+      "chapterUid": 8,
+      "range": "8525-8580",
+      "markText": "我认识到，作为一个革命者，自己应该有独立的思考和见解，不能够一味地盲从，人云亦云。这样才是真正对革命事业负责。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=8&rangeStart=8525&rangeEnd=8580",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=8&rangeStart=8525&rangeEnd=8580"
+    },
+    {
+      "bookmarkId": "3300025476_5_1478-1518",
+      "chapterUid": 5,
+      "range": "1478-1518",
+      "markText": "姐姐死后，父亲感到松了一口气。母亲有些难过，但也感到姐姐还是死了好，也松了口气。",
+      "totalCount": 238,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=5&rangeStart=1478&rangeEnd=1518",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=5&rangeStart=1478&rangeEnd=1518"
+    },
+    {
+      "bookmarkId": "3300025476_13_3650-3700",
+      "chapterUid": 13,
+      "range": "3650-3700",
+      "markText": "但是，如果不是毛泽东在组织路线上失掉了一部分人心，要想在中央苏区排斥毛泽东，当不会是一件容易的事情。",
+      "totalCount": 220,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=13&rangeStart=3650&rangeEnd=3700",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=13&rangeStart=3650&rangeEnd=3700"
+    },
+    {
+      "bookmarkId": "3300025476_22_12624-12710",
+      "chapterUid": 22,
+      "range": "12624-12710",
+      "markText": "庐山会议这一场悲剧有偶然的因素，但实非偶然。这个事件对我国历史发展的影响巨大深远。这不是一个人或几个人的悲剧，而是我党的悲剧。从此，党内失了敢言之士，而迁就、逢迎之风日盛。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=22&rangeStart=12624&rangeEnd=12710",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=22&rangeStart=12624&rangeEnd=12710"
+    },
+    {
+      "bookmarkId": "3300025476_13_9612-9676",
+      "chapterUid": 13,
+      "range": "9612-9676",
+      "markText": "贺昌不愧是个真正的共产党人，他作为上级，我无论怎样同他争吵，他都不在乎。争吵归争吵，吵过之后，照样相处，毫不计较，也不影响工作。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=13&rangeStart=9612&rangeEnd=9676",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=13&rangeStart=9612&rangeEnd=9676"
+    },
+    {
+      "bookmarkId": "3300025476_5_1342-1407",
+      "chapterUid": 5,
+      "range": "1342-1407",
+      "markText": "有一次她偷偷上吊自杀，脚下踩的凳子还没有踢倒，恰巧被父亲进屋看见了。但父亲并没有去解救她，而是上前将她脚下的凳子推倒，好让她快死。",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=5&rangeStart=1342&rangeEnd=1407",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=5&rangeStart=1342&rangeEnd=1407"
+    },
+    {
+      "bookmarkId": "3300025476_6_1433-1500",
+      "chapterUid": 6,
+      "range": "1433-1500",
+      "markText": "人到底是为什么活着？似这样一年到头受苦受累，勉强维持个半饥不饱的生活，岂不是活着就是受罪，受罪是为了求活？那么，生活的意义究竟何在呢？",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=6&rangeStart=1433&rangeEnd=1500",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=6&rangeStart=1433&rangeEnd=1500"
+    },
+    {
+      "bookmarkId": "3300025476_21_947-1015",
+      "chapterUid": 21,
+      "range": "947-1015",
+      "markText": "我一向认为：领导任何工作，都必须掌握主动，决不能被工作推着走；搞成被动应付局面，就办不好事情。无论事情有多么杂乱、困难，也得把局面打开。",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=21&rangeStart=947&rangeEnd=1015",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=21&rangeStart=947&rangeEnd=1015"
+    },
+    {
+      "bookmarkId": "3300025476_5_1655-1750",
+      "chapterUid": 5,
+      "range": "1655-1750",
+      "markText": "我还记得有一个堂婶母，仅仅因为连生好几胎都养不活，虽然她丈夫并没有抱怨，她就自怨自艾，自叹命苦而上吊自杀了。农村妇女的性命，不但被别人看得贱，连她们自己也看得贱，上吊、投水而死，不算一回事。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=5&rangeStart=1655&rangeEnd=1750",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=5&rangeStart=1655&rangeEnd=1750"
+    },
+    {
+      "bookmarkId": "3300025476_19_4504-4564",
+      "chapterUid": 19,
+      "range": "4504-4564",
+      "markText": "我有幸登上天安门城楼，参加了这一具有历史意义的盛典，心中有说不出的高兴和愉快！可以说这是我有生以来最高兴、最欢悦的时刻。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=19&rangeStart=4504&rangeEnd=4564",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=19&rangeStart=4504&rangeEnd=4564"
+    },
+    {
+      "bookmarkId": "3300025476_15_13485-13570",
+      "chapterUid": 15,
+      "range": "13485-13570",
+      "markText": "当时还传闻张国焘密令在右路军的陈昌浩扣留毛泽东等中央领导人，以胁迫党中央和右路军南下。当时任右路军参谋长的叶剑英，携带陕甘地图，脱离前敌指挥部，向毛泽东及党中央作了报告。",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=15&rangeStart=13485&rangeEnd=13570",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=15&rangeStart=13485&rangeEnd=13570"
+    },
+    {
+      "bookmarkId": "3300025476_9_9809-9842",
+      "chapterUid": 9,
+      "range": "9809-9842",
+      "markText": "思想的涣散竟然会起到如此大的破坏作用，这对我的教训实在是太深刻了！",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=9&rangeStart=9809&rangeEnd=9842",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=9&rangeStart=9809&rangeEnd=9842"
+    },
+    {
+      "bookmarkId": "3300025476_15_2065-2149",
+      "chapterUid": 15,
+      "range": "2065-2149",
+      "markText": "当时红军部队中，政治委员有最后的决定权。我对张宗逊说，你迅速指挥部队撤离，去追赶主力，一切由我负全部责任。这样，才勉强着张宗逊把部队撤走，使第四师得以避免被歼灭的危险。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=15&rangeStart=2065&rangeEnd=2149",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=15&rangeStart=2065&rangeEnd=2149"
+    },
+    {
+      "bookmarkId": "3300025476_23_15341-15437",
+      "chapterUid": 23,
+      "range": "15341-15437",
+      "markText": "不幸的是，主席晚年在急于建设社会主义和保卫社会主义的主观愿望驱使下，犯了一个又一个的错误。但不管他晚年的失误有多么严重，后人还可以用大力量和长时间来补救。而主席已建立的功绩，则是无人可代替的。",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=3300025476&chapterUid=23&rangeStart=15341&rangeEnd=15437",
+      "webLink": "https://weread.qq.com/web/reader/43832f60813ab7073g016e03?chapterUid=23&rangeStart=15341&rangeEnd=15437"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 14,
+    "chapterOffset": 8452,
+    "progress": 86,
+    "updateTime": 1757987630,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

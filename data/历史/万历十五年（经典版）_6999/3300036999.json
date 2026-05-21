@@ -1,0 +1,616 @@
+{
+  "meta": {
+    "bookId": "3300036999",
+    "title": "万历十五年（经典版）",
+    "author": "[美]黄仁宇",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/44/cpPlatform_wFh3Z1Xnp72HsAox1y9nUb/t6_cpPlatform_wFh3Z1Xnp72HsAox1y9nUb.jpg",
+    "intro": "万历十五年，亦即公元1587年，在西欧历史上为西班牙舰队全部出动征英的前一年；而在中国，这平平淡淡的一年中，发生了若干为历史学家所易于忽视的事件。这些事件，表面看来虽似末端小节，但实质上却是以前发生大事的症结，也是将在以后掀起波澜的机缘。在历史学家黄仁宇的眼中，其间的关系因果，恰为历史的重点，而我们的大历史之旅，也自此开始……\r\r\n\r\r\n《万历十五年》是黄仁宇的成名之作，也是他的代表作之一。这本书融会了他数十年人生经历与治学体会，首次以“大历史观”分析明代社会之症结，观察现代中国之来路，给人启发良多。英文原本推出后，被美国多所大学采用为教科书，并两次获得美国书卷奖历史类好书的提名。\r\r\n\r\r\n中华书局的增订版，重新核校全部文字，增收黄仁宇《1619年的辽东战役》等数篇文字，精选彩色历史图片10余幅。",
+    "category": "历史-中国古代",
+    "publisher": "中华书局有限公司",
+    "publishTime": "2022-08-01 00:00:00",
+    "isbn": "9787101101621",
+    "wordCount": 0,
+    "newRating": 866,
+    "newRatingCount": 5878,
+    "newRatingDetail": {
+      "good": 5185,
+      "fair": 552,
+      "poor": 141,
+      "recent": 174,
+      "deepV": 2440,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=3300036999",
+    "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd",
+    "lastSync": "2026-05-21T11:53:33Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "2023-07-28",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 135,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "《万历十五年》纪事",
+      "level": 1,
+      "wordCount": 719,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "名家推荐",
+      "level": 1,
+      "wordCount": 2838,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "《万历十五年》出版始末",
+      "level": 1,
+      "wordCount": 6093,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "两声欢呼，一声倒彩",
+      "level": 1,
+      "wordCount": 6691,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "《万历十五年》的读法",
+      "level": 1,
+      "wordCount": 1371,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "增订纪念本出版说明",
+      "level": 1,
+      "wordCount": 1365,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "自序",
+      "level": 1,
+      "wordCount": 3940,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "经典版出版缘起",
+      "level": 1,
+      "wordCount": 422,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第一章 万历皇帝",
+      "level": 1,
+      "wordCount": 27699,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第二章 首辅申时行",
+      "level": 1,
+      "wordCount": 21347,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第三章 世间已无张居正",
+      "level": 1,
+      "wordCount": 19861,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第四章 活着的祖宗",
+      "level": 1,
+      "wordCount": 16084,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第五章 海瑞",
+      "level": 1,
+      "wordCount": 19202,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第六章 戚继光",
+      "level": 1,
+      "wordCount": 23610,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第七章 李贽",
+      "level": 1,
+      "wordCount": 24898,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "参考书目",
+      "level": 1,
+      "wordCount": 4161,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "附录一",
+      "level": 1,
+      "wordCount": 1919,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《神宗实录》一",
+          "anchor": "A6b5f0171-6a42-4dfd-9ff5-a3953e53ab49",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "《神宗实录》二",
+      "level": 2,
+      "wordCount": 2635,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "附录二",
+      "level": 1,
+      "wordCount": 11824,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "《万历十五年》和我的大历史观",
+          "anchor": "A280b017a-989f-486a-8f7d-21941be1cf9a",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "1619年的辽东战役",
+      "level": 2,
+      "wordCount": 14042,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "附录三",
+      "level": 1,
+      "wordCount": 484,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "英文版序言",
+          "anchor": "A64c201ab-dec6-41a6-80ab-eec97758f772",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "万历：漫长的怠政时代",
+      "level": 2,
+      "wordCount": 5434,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "皇帝只是个牌位",
+      "level": 2,
+      "wordCount": 1320,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300036999&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=25"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 5,
+      "chapterTitle": "《万历十五年》出版始末",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300036999_5_3292-3309",
+          "range": "3292-3309",
+          "rangeStart": 3292,
+          "rangeEnd": 3309,
+          "markText": "人的见识，往往在关键之处表现出来。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1736151493,
+          "createTimeFormatted": "2025-01-06 16:18:13",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=5&rangeStart=3292&rangeEnd=3309",
+          "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=5&rangeStart=3292&rangeEnd=3309"
+        }
+      ]
+    },
+    {
+      "chapterUid": 15,
+      "chapterTitle": "第五章 海瑞",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300036999_15_29297-29387",
+          "range": "29297-29387",
+          "rangeStart": 29297,
+          "rangeEnd": 29387,
+          "markText": "接近1587年年底亦即万历十五年丁亥的岁暮，海瑞的死讯传出，无疑使北京负责人事的官员大大地松了一口气，因为他们再也用不着去为这位大众心目中的英雄—到处惹是生非的人物去操心作安排了。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1732190591,
+          "createTimeFormatted": "2024-11-21 20:03:11",
+          "chapterUid": 15,
+          "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=15&rangeStart=29297&rangeEnd=29387",
+          "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=15&rangeStart=29297&rangeEnd=29387"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300036999_11_3571-3625",
+      "chapterUid": 11,
+      "range": "3571-3625",
+      "markText": "到第三次，他才以群臣所说的应当以社稷为重作为理由，勉如所请。这一番推辞和接受的过程，有条不紊，有如经过预习。",
+      "totalCount": 7242,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=11&rangeStart=3571&rangeEnd=3625",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=11&rangeStart=3571&rangeEnd=3625"
+    },
+    {
+      "bookmarkId": "3300036999_11_25628-25664",
+      "chapterUid": 11,
+      "range": "25628-25664",
+      "markText": "皇室的情谊不同于世俗，它不具有世俗友谊的那种由于互相关怀而产生的永久性。",
+      "totalCount": 5490,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=11&rangeStart=25628&rangeEnd=25664",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=11&rangeStart=25628&rangeEnd=25664"
+    },
+    {
+      "bookmarkId": "3300036999_12_15732-15779",
+      "chapterUid": 12,
+      "range": "15732-15779",
+      "markText": "因之我们的政事，注重体制的安定，而不计较对一人一事的绝对公允。牺牲少数人，正是维持大局的办法。",
+      "totalCount": 4730,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=12&rangeStart=15732&rangeEnd=15779",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=12&rangeStart=15732&rangeEnd=15779"
+    },
+    {
+      "bookmarkId": "3300036999_13_16121-16221",
+      "chapterUid": 13,
+      "range": "16121-16221",
+      "markText": "一个具有高度行政效率的政府，具备体制上技术上的周密，则不致接二连三地在紧急情况下依赖于道德观念作救命的符箓。说得严重一点，后者已不是一种好现象，而是组织机构违反时代，不能在复杂的社会中推陈出新的结果。",
+      "totalCount": 4680,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=13&rangeStart=16121&rangeEnd=16221",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=13&rangeStart=16121&rangeEnd=16221"
+    },
+    {
+      "bookmarkId": "3300036999_11_15189-15237",
+      "chapterUid": 11,
+      "range": "15189-15237",
+      "markText": "在这些事例中，张居正的主张无疑都很正确，但是这种铁面无私的态度，在以后也并不是不需要付出代价的。",
+      "totalCount": 4590,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=11&rangeStart=15189&rangeEnd=15237",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=11&rangeStart=15189&rangeEnd=15237"
+    },
+    {
+      "bookmarkId": "3300036999_12_9738-9834",
+      "chapterUid": 12,
+      "range": "9738-9834",
+      "markText": "他的老成来自长期处理各种人事经验；这种经验，使他深知我们这个帝国有一个特点：一项政策能否付诸实施，实施后或成或败，全靠看它与所有文官的共同习惯是否相安无扰，否则理论上的完美，仍不过是空中楼阁。",
+      "totalCount": 4400,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=12&rangeStart=9738&rangeEnd=9834",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=12&rangeStart=9738&rangeEnd=9834"
+    },
+    {
+      "bookmarkId": "3300036999_11_5573-5634",
+      "chapterUid": 11,
+      "range": "5573-5634",
+      "markText": "这种珠帘是一种有趣的道具，它们在皇帝的眼前脑后来回晃动，使他极不舒服，其目的就在于提醒他必须具有端庄的仪态，不能轻浮造次。",
+      "totalCount": 4320,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=11&rangeStart=5573&rangeEnd=5634",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=11&rangeStart=5573&rangeEnd=5634"
+    },
+    {
+      "bookmarkId": "3300036999_11_22087-22163",
+      "chapterUid": 11,
+      "range": "22087-22163",
+      "markText": "统治我们这个庞大帝国，专靠严刑峻法是不可能的，其秘诀在于运用伦理道德的力量使卑下者服从尊上，女人听男人的吩咐，而未受教育的愚民则以读书识字的人作为楷模。",
+      "totalCount": 4128,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=11&rangeStart=22087&rangeEnd=22163",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=11&rangeStart=22087&rangeEnd=22163"
+    },
+    {
+      "bookmarkId": "3300036999_14_21478-21525",
+      "chapterUid": 14,
+      "range": "21478-21525",
+      "markText": "万历皇帝缺乏坚强的意志和决心，但并不缺乏清醒和机灵的头脑，然而他竟欣然接受了这种精神上的活埋。",
+      "totalCount": 4128,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=14&rangeStart=21478&rangeEnd=21525",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=14&rangeStart=21478&rangeEnd=21525"
+    },
+    {
+      "bookmarkId": "3300036999_17_40192-40235",
+      "chapterUid": 17,
+      "range": "40192-40235",
+      "markText": "因此我们的故事只好在这里作悲剧性的结束。万历丁亥年的年鉴，是为历史上一部失败的总记录。",
+      "totalCount": 4104,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=17&rangeStart=40192&rangeEnd=40235",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=17&rangeStart=40192&rangeEnd=40235"
+    },
+    {
+      "bookmarkId": "3300036999_11_5358-5416",
+      "chapterUid": 11,
+      "range": "5358-5416",
+      "markText": "谁也没有想到，这一小小的插曲，竟是一场影响深远的政治斗争的契机，导致了今后数十年皇帝与臣僚的对立，而且涉及整个帝国。",
+      "totalCount": 3990,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=11&rangeStart=5358&rangeEnd=5416",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=11&rangeStart=5358&rangeEnd=5416"
+    },
+    {
+      "bookmarkId": "3300036999_15_1839-1933",
+      "chapterUid": 15,
+      "range": "1839-1933",
+      "markText": "凡讼之可疑者，与其屈兄，宁屈其弟；与其屈叔伯，宁屈其侄。与其屈贫民，宁屈富民；与其屈愚直，宁屈刁顽。事在争产业，与其屈小民，宁屈乡宦，以救弊也。事在争言貌，与其屈乡宦，宁屈小民，以存体也。",
+      "totalCount": 3726,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=15&rangeStart=1839&rangeEnd=1933",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=15&rangeStart=1839&rangeEnd=1933"
+    },
+    {
+      "bookmarkId": "3300036999_15_29297-29387",
+      "chapterUid": 15,
+      "range": "29297-29387",
+      "markText": "接近1587年年底亦即万历十五年丁亥的岁暮，海瑞的死讯传出，无疑使北京负责人事的官员大大地松了一口气，因为他们再也用不着去为这位大众心目中的英雄—到处惹是生非的人物去操心作安排了。",
+      "totalCount": 3689,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=15&rangeStart=29297&rangeEnd=29387",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=15&rangeStart=29297&rangeEnd=29387"
+    },
+    {
+      "bookmarkId": "3300036999_11_964-1025",
+      "chapterUid": 11,
+      "range": "964-1025",
+      "markText": "这些事件，表面看来虽似末端小节，但实质上却是以前发生大事的症结，也是将在以后掀起波澜的机缘。其间关系因果，恰为历史的重点。",
+      "totalCount": 3552,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=11&rangeStart=964&rangeEnd=1025",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=11&rangeStart=964&rangeEnd=1025"
+    },
+    {
+      "bookmarkId": "3300036999_12_17840-18001",
+      "chapterUid": 12,
+      "range": "17840-18001",
+      "markText": "万历的看法是，邹元标和其他诤谏者并非对他尽忠，而是出于自私自利，即所谓“讪君卖直”。这些人把正直当作商品，甚至不惜用诽谤讪议人君的方法作本钱，然后招摇贩卖他正直的声望。",
+      "totalCount": 3486,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=12&rangeStart=17840&rangeEnd=18001",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=12&rangeStart=17840&rangeEnd=18001"
+    },
+    {
+      "bookmarkId": "3300036999_13_24134-24289",
+      "chapterUid": 13,
+      "range": "24134-24289",
+      "markText": "在征途中，他又降下敕旨，封自己为镇国公，岁支俸米五千石。五个月之后，他又再次加封自己为太师。至此，他就成了他自己手下最高级的文官，位居大学士之上。",
+      "totalCount": 3470,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=13&rangeStart=24134&rangeEnd=24289",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=13&rangeStart=24134&rangeEnd=24289"
+    },
+    {
+      "bookmarkId": "3300036999_11_41237-41303",
+      "chapterUid": 11,
+      "range": "41237-41303",
+      "markText": "大约史官认为记载了这道上谕，已经可以表明皇帝当时微妙复杂的思绪，至于房屋或卖或租，对国家大事则无关紧要，就不必琐碎饾饤地加以记录了。",
+      "totalCount": 3420,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=11&rangeStart=41237&rangeEnd=41303",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=11&rangeStart=41237&rangeEnd=41303"
+    },
+    {
+      "bookmarkId": "3300036999_11_40425-40510",
+      "chapterUid": 11,
+      "range": "40425-40510",
+      "markText": "但是不久以后，他就会发觉他摆脱了张、冯之后所得到的自主之权仍然受到种种约束，即使贵为天子，也不过是一种制度所需要的产物。他逐渐明白，倒掉张居正，真正的受益者并不是他自己。",
+      "totalCount": 3315,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=11&rangeStart=40425&rangeEnd=40510",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=11&rangeStart=40425&rangeEnd=40510"
+    },
+    {
+      "bookmarkId": "3300036999_11_29801-29881",
+      "chapterUid": 11,
+      "range": "29801-29881",
+      "markText": "郑氏之所以能赢得万岁的欢心，并不是具有闭月羞花的美貌，而是由于聪明机警，意志坚决，喜欢读书，因而符合皇帝感情上的需要。如果专恃色相，则宠爱决不能如此地历久不衰。",
+      "totalCount": 3262,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=11&rangeStart=29801&rangeEnd=29881",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=11&rangeStart=29801&rangeEnd=29881"
+    },
+    {
+      "bookmarkId": "3300036999_11_12587-12761",
+      "chapterUid": 11,
+      "range": "12587-12761",
+      "markText": "他又针对万历关心宫内妇女喜欢珠玉玩好一事，指出为人主者，应当随时注意天下臣民的衣食，至于珠玉玩好，饥不能食，寒不能衣，不值得陛下亲垂关注。",
+      "totalCount": 3255,
+      "appLink": "weread://bestbookmark?bookId=3300036999&chapterUid=11&rangeStart=12587&rangeEnd=12761",
+      "webLink": "https://weread.qq.com/web/reader/af732390813ab74f3g019ddd?chapterUid=11&rangeStart=12587&rangeEnd=12761"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 11,
+    "chapterOffset": 3742,
+    "progress": 0,
+    "updateTime": 1743300542,
+    "recordReadingTime": 0,
+    "finishTime": 1690531342
+  }
+}

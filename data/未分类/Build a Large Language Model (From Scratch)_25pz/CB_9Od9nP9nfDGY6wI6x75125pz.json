@@ -1,0 +1,1017 @@
+{
+  "meta": {
+    "bookId": "CB_9Od9nP9nfDGY6wI6x75125pz",
+    "title": "Build a Large Language Model (From Scratch)",
+    "author": "Sebastian Raschka",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_9Od9nP9nfDGY6wI6x75125pz_parsecover",
+    "intro": "",
+    "category": "",
+    "publisher": "Manning Publications Co.",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz",
+    "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962",
+    "lastSync": "2026-05-21T11:50:27Z",
+    "readingProgress": "91%",
+    "readingTime": "0分钟",
+    "finishedDate": "2025-06-12",
+    "noteCount": 2,
+    "reviewCount": 2,
+    "bookmarkCount": 0,
+    "contentHash": "1fcefddcacc217666506948d10a09b0df85bcdc39400cfcad517fa8aae282d5e"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "Build a Large Language Model (From Scratch)",
+      "level": 1,
+      "wordCount": 194,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "copyright",
+      "level": 1,
+      "wordCount": 1855,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "contents",
+      "level": 1,
+      "wordCount": 3615,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "preface",
+      "level": 1,
+      "wordCount": 1867,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "acknowledgments",
+      "level": 1,
+      "wordCount": 1838,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "about this book",
+      "level": 1,
+      "wordCount": 7750,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "about the author",
+      "level": 1,
+      "wordCount": 590,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "about the cover illustration",
+      "level": 1,
+      "wordCount": 536,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "1 Understanding large language models",
+      "level": 1,
+      "wordCount": 25997,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.1 What is an LLM?",
+          "translateTitle": "1.1什么是LLM？",
+          "anchor": "p12",
+          "level": 2
+        },
+        {
+          "title": "1.2 Applications of LLMs",
+          "translateTitle": "1.2 LLMs的应用",
+          "anchor": "p23",
+          "level": 2
+        },
+        {
+          "title": "1.3 Stages of building and using LLMs",
+          "translateTitle": "1.3 LLMs的建设和使用阶段",
+          "anchor": "p30",
+          "level": 2
+        },
+        {
+          "title": "1.4 Introducing the transformer architecture",
+          "translateTitle": "1.4介绍变压器体系结构",
+          "anchor": "p43",
+          "level": 2
+        },
+        {
+          "title": "1.5 Utilizing large datasets",
+          "translateTitle": "1.5利用大型数据集",
+          "anchor": "p56",
+          "level": 2
+        },
+        {
+          "title": "1.6 A closer look at the GPT architecture",
+          "translateTitle": "1.6 更深入地了解 GPT 架构",
+          "anchor": "p68",
+          "level": 2
+        },
+        {
+          "title": "1.7 Building a large language model",
+          "translateTitle": "1.7 构建大型语言模型",
+          "anchor": "p78",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "2 Working with text data",
+      "level": 1,
+      "wordCount": 44082,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1 Understanding word embeddings",
+          "translateTitle": "2.1理解词嵌入",
+          "anchor": "p11",
+          "level": 2
+        },
+        {
+          "title": "2.2 Tokenizing text",
+          "translateTitle": "2.2文本代币化",
+          "anchor": "p24",
+          "level": 2
+        },
+        {
+          "title": "2.3 Converting tokens into token IDs",
+          "translateTitle": "2.3 将令牌转换为令牌ID",
+          "anchor": "p63",
+          "level": 2
+        },
+        {
+          "title": "2.4 Adding special context tokens",
+          "translateTitle": "2.4添加特殊上下文标记",
+          "anchor": "p95",
+          "level": 2
+        },
+        {
+          "title": "2.5 Byte pair encoding",
+          "translateTitle": "2.5字节对编码",
+          "anchor": "p130",
+          "level": 2
+        },
+        {
+          "title": "2.6 Data sampling with a sliding window",
+          "translateTitle": "2.6 使用滑动窗口的数据采样",
+          "anchor": "p154",
+          "level": 2
+        },
+        {
+          "title": "2.7 Creating token embeddings",
+          "translateTitle": "2.7创建令牌嵌入",
+          "anchor": "p203",
+          "level": 2
+        },
+        {
+          "title": "2.8 Encoding word positions",
+          "translateTitle": "2.8编码字的位置",
+          "anchor": "p230",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "3 Coding attention mechanisms",
+      "level": 1,
+      "wordCount": 52200,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.1 The problem with modeling long sequences",
+          "translateTitle": "3.1 长序列建模的问题",
+          "anchor": "p12",
+          "level": 2
+        },
+        {
+          "title": "3.2 Capturing data dependencies with attention mechanisms",
+          "translateTitle": "3.2 使用注意力机制捕获数据依赖关系",
+          "anchor": "p22",
+          "level": 2
+        },
+        {
+          "title": "3.3 Attending to different parts of the input with self-attention",
+          "translateTitle": "3.3 使用自注意力处理输入的不同部分",
+          "anchor": "p30",
+          "level": 2
+        },
+        {
+          "title": "3.3.1 A simple self-attention mechanism without trainable weights",
+          "translateTitle": "3.3.1 一个简单的自注意机制，没有可训练的权重",
+          "anchor": "p36",
+          "level": 3
+        },
+        {
+          "title": "3.3.2 Computing attention weights for all input tokens",
+          "translateTitle": "3.3.2 为所有输入标记计算注意力权重",
+          "anchor": "p78",
+          "level": 3
+        },
+        {
+          "title": "3.4 Implementing self-attention with trainable weights",
+          "translateTitle": "3.4 使用可训练权重实现自注意",
+          "anchor": "p109",
+          "level": 2
+        },
+        {
+          "title": "3.4.1 Computing the attention weights step by step",
+          "translateTitle": "3.4.1 逐步计算注意力权重",
+          "anchor": "p115",
+          "level": 3
+        },
+        {
+          "title": "3.4.2 Implementing a compact self-attention Python class",
+          "translateTitle": "3.4.2 实现紧凑型自注意 Python 类",
+          "anchor": "p168",
+          "level": 3
+        },
+        {
+          "title": "3.5 Hiding future words with causal attention",
+          "translateTitle": "3.5 使用因果注意隐藏未来单词",
+          "anchor": "p193",
+          "level": 2
+        },
+        {
+          "title": "3.5.1 Applying a causal attention mask",
+          "translateTitle": "3.5.1 应用因果注意掩模",
+          "anchor": "p197",
+          "level": 3
+        },
+        {
+          "title": "3.5.2 Masking additional attention weights with dropout",
+          "translateTitle": "3.5.2 用 dropout 屏蔽额外的注意力权重",
+          "anchor": "p233",
+          "level": 3
+        },
+        {
+          "title": "3.5.3 Implementing a compact causal attention class",
+          "translateTitle": "3.5.3 实现紧凑因果注意力类",
+          "anchor": "p248",
+          "level": 3
+        },
+        {
+          "title": "3.6 Extending single-head attention to multi-head attention",
+          "translateTitle": "3.6 将单头注意力扩展到多头注意力",
+          "anchor": "p264",
+          "level": 2
+        },
+        {
+          "title": "3.6.1 Stacking multiple single-head attention layers",
+          "translateTitle": "3.6.1 堆叠多个单头注意力层",
+          "anchor": "p268",
+          "level": 3
+        },
+        {
+          "title": "3.6.2 Implementing multi-head attention with weight splits",
+          "translateTitle": "3.6.2 使用权重分裂实现多头注意",
+          "anchor": "p284",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "Build a Large Language Model (From Scratch)_1",
+      "level": 2,
+      "wordCount": 9047,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "4 Implementing a GPT model from scratch to generate text",
+      "level": 1,
+      "wordCount": 51749,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.1 Coding an LLM architecture",
+          "translateTitle": "4.1编码一个LLM体系结构",
+          "anchor": "p10",
+          "level": 2
+        },
+        {
+          "title": "4.2 Normalizing activations with layer normalization",
+          "translateTitle": "4.2 使用层归一化对激活进行归一化",
+          "anchor": "p49",
+          "level": 2
+        },
+        {
+          "title": "4.3 Implementing a feed forward network with GELU activations",
+          "translateTitle": "4.3 使用 GELU 激活实现前馈网络",
+          "anchor": "p90",
+          "level": 2
+        },
+        {
+          "title": "4.4 Adding shortcut connections",
+          "translateTitle": "4.4添加快捷连接",
+          "anchor": "p117",
+          "level": 2
+        },
+        {
+          "title": "4.5 Connecting attention and linear layers in a transformer block",
+          "translateTitle": "4.5 在变压器块中连接注意力层和线性层",
+          "anchor": "p143",
+          "level": 2
+        },
+        {
+          "title": "4.6 Coding the GPT model",
+          "translateTitle": "4.6编码GPT模型",
+          "anchor": "p161",
+          "level": 2
+        },
+        {
+          "title": "4.7 Generating text",
+          "translateTitle": "4.7生成文本",
+          "anchor": "p203",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "5 Pretraining on unlabeled data",
+      "level": 1,
+      "wordCount": 51674,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1 Evaluating generative text models",
+          "translateTitle": "5.1 评估生成文本模型",
+          "anchor": "p10",
+          "level": 2
+        },
+        {
+          "title": "5.1.1 Using GPT to generate text",
+          "translateTitle": "5.1.1 使用 GPT 生成文本",
+          "anchor": "p13",
+          "level": 3
+        },
+        {
+          "title": "5.1.2 Calculating the text generation loss",
+          "translateTitle": "5.1.2 计算文本生成损失",
+          "anchor": "p27",
+          "level": 3
+        },
+        {
+          "title": "5.1.3 Calculating the training and validation set losses",
+          "translateTitle": "5.1.3 计算训练和验证集损失",
+          "anchor": "p101",
+          "level": 3
+        },
+        {
+          "title": "5.2 Training an LLM",
+          "translateTitle": "5.2 培训一名 LLM",
+          "anchor": "p141",
+          "level": 2
+        },
+        {
+          "title": "5.3 Decoding strategies to control randomness",
+          "translateTitle": "5.3 控制随机性的解码策略",
+          "anchor": "p171",
+          "level": 2
+        },
+        {
+          "title": "5.3.1 Temperature scaling",
+          "translateTitle": "5.3.1温度标度",
+          "anchor": "p180",
+          "level": 3
+        },
+        {
+          "title": "5.3.2 Top-k sampling",
+          "translateTitle": "5.3.2Top-k采样",
+          "anchor": "p206",
+          "level": 3
+        },
+        {
+          "title": "5.3.3 Modifying the text generation function",
+          "translateTitle": "5.3.3 修改文本生成函数",
+          "anchor": "p224",
+          "level": 3
+        },
+        {
+          "title": "5.4 Loading and saving model weights in PyTorch",
+          "translateTitle": "5.4 在 PyTorch 中加载和保存模型权重",
+          "anchor": "p236",
+          "level": 2
+        },
+        {
+          "title": "5.5 Loading pretrained weights from OpenAI",
+          "translateTitle": "5.5 从 OpenAI 加载预训练权重",
+          "anchor": "p252",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "Build a Large Language Model (From Scratch)_1",
+      "level": 2,
+      "wordCount": 9359,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "6 Fine-tuning for classification",
+      "level": 1,
+      "wordCount": 43687,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.1 Different categories of fine-tuning",
+          "translateTitle": "6.1不同类别的微调",
+          "anchor": "p10",
+          "level": 2
+        },
+        {
+          "title": "6.2 Preparing the dataset",
+          "translateTitle": "6.2编制数据集",
+          "anchor": "p20",
+          "level": 2
+        },
+        {
+          "title": "6.3 Creating data loaders",
+          "translateTitle": "6.3创建数据加载器",
+          "anchor": "p48",
+          "level": 2
+        },
+        {
+          "title": "6.4 Initializing a model with pretrained weights",
+          "translateTitle": "6.4 使用预训练权重初始化模型",
+          "anchor": "p83",
+          "level": 2
+        },
+        {
+          "title": "6.5 Adding a classification head",
+          "translateTitle": "6.5增加一个分类头",
+          "anchor": "p99",
+          "level": 2
+        },
+        {
+          "title": "6.6 Calculating the classification loss and accuracy",
+          "translateTitle": "6.6 计算分类损失和准确度",
+          "anchor": "p143",
+          "level": 2
+        },
+        {
+          "title": "6.7 Fine-tuning the model on supervised data",
+          "translateTitle": "6.7 在监督数据上微调模型",
+          "anchor": "p174",
+          "level": 2
+        },
+        {
+          "title": "6.8 Using the LLM as a spam classifier",
+          "translateTitle": "6.8 使用 LLM 作为垃圾邮件分类器",
+          "anchor": "p201",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "7 Fine-tuning to follow instructions",
+      "level": 1,
+      "wordCount": 52335,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.1 Introduction to instruction fine-tuning",
+          "translateTitle": "7.1指令微调入门",
+          "anchor": "p11",
+          "level": 2
+        },
+        {
+          "title": "7.2 Preparing a dataset for supervised instruction fine-tuning",
+          "translateTitle": "7.2 为监督式教学微调准备数据集",
+          "anchor": "p16",
+          "level": 2
+        },
+        {
+          "title": "7.3 Organizing data into training batches",
+          "translateTitle": "7.3 将数据组织成培训批次",
+          "anchor": "p50",
+          "level": 2
+        },
+        {
+          "title": "7.4 Creating data loaders for an instruction dataset",
+          "translateTitle": "7.4 为指令数据集创建数据加载程序",
+          "anchor": "p109",
+          "level": 2
+        },
+        {
+          "title": "7.5 Loading a pretrained LLM",
+          "translateTitle": "7.5 加载一个预训练的 LLM",
+          "anchor": "p127",
+          "level": 2
+        },
+        {
+          "title": "7.6 Fine-tuning the LLM on instruction data",
+          "translateTitle": "7.6 对指令数据进行微调",
+          "anchor": "p148",
+          "level": 2
+        },
+        {
+          "title": "7.7 Extracting and saving responses",
+          "translateTitle": "7.7提取和保存答复",
+          "anchor": "p174",
+          "level": 2
+        },
+        {
+          "title": "7.8 Evaluating the fine-tuned LLM",
+          "translateTitle": "7.8 评估微调的 LLM",
+          "anchor": "p203",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "7.9 Conclusions",
+      "level": 2,
+      "wordCount": 5698,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.9 Conclusions",
+          "translateTitle": "7.9结论",
+          "anchor": "p260",
+          "level": 2
+        },
+        {
+          "title": "7.9.1 What’s next?",
+          "translateTitle": "7.9.1下一步是什么？",
+          "anchor": "p263",
+          "level": 3
+        },
+        {
+          "title": "7.9.2 Staying up to date in a fast-moving field",
+          "translateTitle": "7.9.2 在瞬息万变的行业中与时俱进",
+          "anchor": "p266",
+          "level": 3
+        },
+        {
+          "title": "7.9.3 Final words",
+          "translateTitle": "7.9.3最后的词语",
+          "anchor": "p268",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "appendix A Introduction to PyTorch",
+      "level": 1,
+      "wordCount": 48398,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "A.1 What is PyTorch?",
+          "translateTitle": "什么是PyTorch？",
+          "anchor": "p5",
+          "level": 2
+        },
+        {
+          "title": "A.1.1 The three core components of PyTorch",
+          "translateTitle": "A.1.1 PyTorch 的三个核心组件",
+          "anchor": "p8",
+          "level": 3
+        },
+        {
+          "title": "A.1.2 Defining deep learning",
+          "translateTitle": "A.1.2深度学习的定义",
+          "anchor": "p12",
+          "level": 3
+        },
+        {
+          "title": "A.1.3 Installing PyTorch",
+          "translateTitle": "安装PyTorch",
+          "anchor": "p23",
+          "level": 3
+        },
+        {
+          "title": "A.2 Understanding tensors",
+          "translateTitle": "A.2理解张量",
+          "anchor": "p58",
+          "level": 2
+        },
+        {
+          "title": "A.2.1 Scalars, vectors, matrices, and tensors",
+          "translateTitle": "A.2.1 标量、向量、矩阵和张量",
+          "anchor": "p65",
+          "level": 3
+        },
+        {
+          "title": "A.2.2 Tensor data types",
+          "translateTitle": "A.2.2张量数据类型",
+          "anchor": "p68",
+          "level": 3
+        },
+        {
+          "title": "A.2.3 Common PyTorch tensor operations",
+          "translateTitle": "常用的PyTorch张量运算",
+          "anchor": "p83",
+          "level": 3
+        },
+        {
+          "title": "A.3 Seeing models as computation graphs",
+          "translateTitle": "A.3 将模型视为计算图",
+          "anchor": "p115",
+          "level": 2
+        },
+        {
+          "title": "A.4 Automatic differentiation made easy",
+          "translateTitle": "A.4简化自动鉴别",
+          "anchor": "p123",
+          "level": 2
+        },
+        {
+          "title": "A.5 Implementing multilayer neural networks",
+          "translateTitle": "A.5实现多层神经网络",
+          "anchor": "p140",
+          "level": 2
+        },
+        {
+          "title": "A.6 Setting up efficient data loaders",
+          "translateTitle": "A.6 设置高效的数据加载器",
+          "anchor": "p191",
+          "level": 2
+        },
+        {
+          "title": "A.7 A typical training loop",
+          "translateTitle": "A.7 一个典型的培训循环",
+          "anchor": "p224",
+          "level": 2
+        },
+        {
+          "title": "A.8 Saving and loading models",
+          "translateTitle": "A.8节约和装载模型",
+          "anchor": "p273",
+          "level": 2
+        },
+        {
+          "title": "A.9 Optimizing training performance with GPUs",
+          "translateTitle": "A.9 使用 GPU 优化训练性能",
+          "anchor": "p281",
+          "level": 2
+        },
+        {
+          "title": "A.9.1 PyTorch computations on GPU devices",
+          "translateTitle": "A.9.1 在 GPU 设备上使用 PyTorch 进行计算",
+          "anchor": "p283",
+          "level": 3
+        },
+        {
+          "title": "A.9.2 Single-GPU training",
+          "translateTitle": "A.9.2单GPU培训",
+          "anchor": "p303",
+          "level": 3
+        },
+        {
+          "title": "A.9.3 Training with multiple GPUs",
+          "translateTitle": "A.9.3 使用多个GPU进行培训",
+          "anchor": "p319",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "Build a Large Language Model (From Scratch)_1",
+      "level": 2,
+      "wordCount": 12226,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "appendix B References and further reading",
+      "level": 1,
+      "wordCount": 19619,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "appendix C Exercise solutions",
+      "level": 1,
+      "wordCount": 16566,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "appendix D Adding bells and whistles to the training loop",
+      "level": 1,
+      "wordCount": 12509,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "D.1 Learning rate warmup",
+          "translateTitle": "D.1学习率预热",
+          "anchor": "p9",
+          "level": 2
+        },
+        {
+          "title": "D.2 Cosine decay",
+          "translateTitle": "D.2余弦衰变",
+          "anchor": "p23",
+          "level": 2
+        },
+        {
+          "title": "D.3 Gradient clipping",
+          "translateTitle": "D.3梯度剪裁",
+          "anchor": "p32",
+          "level": 2
+        },
+        {
+          "title": "D.4 The modified training function",
+          "translateTitle": "D.4经修改的培训职能",
+          "anchor": "p54",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "appendix E Parameter-efficient fine-tuning with LoRA",
+      "level": 1,
+      "wordCount": 26870,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "E.1 Introduction to LoRA",
+          "translateTitle": "E.1 LoRA简介",
+          "anchor": "p3",
+          "level": 2
+        },
+        {
+          "title": "E.2 Preparing the dataset",
+          "translateTitle": "E.2编制数据集",
+          "anchor": "p24",
+          "level": 2
+        },
+        {
+          "title": "E.3 Initializing the model",
+          "translateTitle": "E.3初始化模型",
+          "anchor": "p40",
+          "level": 2
+        },
+        {
+          "title": "E.4 Parameter-efficient fine-tuning with LoRA",
+          "translateTitle": "E.4利用LoRA进行参数高效的微调",
+          "anchor": "p53",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=24"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 13,
+      "chapterTitle": "4 Implementing a GPT model from scratch to generate text",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_9Od9nP9nfDGY6wI6x75125pz_13_9193-9387",
+          "range": "9193-9387",
+          "rangeStart": 9193,
+          "rangeEnd": 9387,
+          "markText": "截至撰写本文时，GPT-3 的权重尚未公开。GPT-2 也是学习如何实现 LLM 的更好选择，因为它可以在单台笔记本电脑上运行，而 GPT-3 需要 GPU 集群进行训练和推理。根据 Lambda Labs（https://lambdalabs.com/），在单个 V100 数据中心 GPU 上训练 GPT-3 需要 355 年，在消费级 RTX 8000 GPU 上需要 665 年。",
+          "colorStyle": 5,
+          "colorLabel": "",
+          "createTime": 1749010008,
+          "createTimeFormatted": "2025-06-04 12:06:48",
+          "chapterUid": 13,
+          "appLink": "weread://bestbookmark?bookId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=13&rangeStart=9193&rangeEnd=9387",
+          "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=13&rangeStart=9193&rangeEnd=9387"
+        }
+      ]
+    },
+    {
+      "chapterUid": 12,
+      "chapterTitle": "Build a Large Language Model (From Scratch)_1",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_9Od9nP9nfDGY6wI6x75125pz_12_2253-2578",
+          "range": "2253-2578",
+          "rangeStart": 2253,
+          "rangeEnd": 2578,
+          "markText": "keys = keys.view(b, num_tokens, self.num_heads, self.head_dim)      ﻿ #4         values = values.view(b, num_tokens, self.num_heads, self.head_dim)           queries = queries.view(                                                          b, num_tokens, self.num_heads, self.head_dim                             )",
+          "colorStyle": 5,
+          "colorLabel": "",
+          "createTime": 1748945800,
+          "createTimeFormatted": "2025-06-03 18:16:40",
+          "chapterUid": 12,
+          "appLink": "weread://bestbookmark?bookId=CB_9Od9nP9nfDGY6wI6x75125pz&chapterUid=12&rangeStart=2253&rangeEnd=2578",
+          "webLink": "https://weread.qq.com/web/reader/12342ea3643425f394f64396e50396e6644475936774936783735313235707a962?chapterUid=12&rangeStart=2253&rangeEnd=2578"
+        }
+      ]
+    },
+    {
+      "chapterUid": 10,
+      "chapterTitle": "2 Working with text data",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_80ulZpUgG",
+          "range": "45817-45838",
+          "chapterName": "",
+          "content": "你问到了一个非常关键的点！r'\\1' 是正则表达式替换操作中的一个特殊语法，它与模式（pattern）中的**捕获组（capturing group）**紧密相关。\n\n让我们再次回顾这行代码：\n\ntext = re.sub(r'\\s+([,.:;?!\"()\\'])', r'\\1', text)    #2\n\n\n模式（Pattern）: r'\\s+([,.:;?!\"()\\'])'\n\n\\s+: 匹配一个或多个空白字符（空格、制表符等）。\n\n([,.:;?!\"()\\']): 这是关键！括号 () 在正则表达式中创建了一个捕获组。\n\n这个捕获组 ([,.:;?!\"()\\']) 会匹配并“捕获”（记住）列表 ',.:;?!\"()\\'' 中的任何一个标点符号。\n\n因为这是模式中从左到右的第一个括号对 ()，所以它被称为捕获组 1。\n\n替换字符串（Replacement String）: r'\\1'\n\n在 re.sub 的替换字符串中，\\1 (或者在某些正则表达式引擎中是 $1) 是一个反向引用（backreference）。\n\n它指的是在模式匹配过程中，第一个捕获组所捕获到的实际文本。\n\n同理，\\2 会引用第二个捕获组，\\3 引用第三个，以此类推。\\0 通常引用整个匹配到的字符串。\n\n作用解释：\n\n这行代码的目的是：\n\n查找：文本中所有“一个或多个空格后面紧跟着一个特定标点符号”的组合。\n\n例如，找到 \" ,\" (空格后跟逗号) 或者 \" !\" (空格后跟感叹号) 或者 \" .\" (多个空格后跟句号)。\n\n替换：将整个找到的组合（例如 \" ,\"）替换为仅仅那个标点符号本身（例如 \",\"）。\n\n它是如何做到的？\n\n当 re.sub 找到一个匹配 r'\\s+([,.:;?!\"()\\'])' 的地方时：\n\n\\s+ 部分会匹配空格。\n\n([,.:;?!\"()\\']) 部分会匹配紧随其后的标点符号，并且因为它是捕获组 1，这个标点符号会被“记住”。\n\n然后，re.sub 会用 r'\\1' 来替换整个匹配到的字符串。\n\n\\1 告诉 re.sub：“把我刚才在捕获组 1 中捕获到的那个标点符号放到这里。”\n\n举例：\n\n假设 text 是 \"Hello , world !\"\n\n第一次匹配：\n\nre.sub 找到 \" ,\" (一个空格后跟一个逗号)。\n\n\\s+ 匹配了空格 。\n\n([,.:;?!\"()\\']) 匹配并捕获了逗号 ,。所以，捕获组 1 的内容是 ,。\n\n整个匹配是 \" ,\".\n\n替换操作：用 \\1 (也就是 ,) 来替换 \" ,\".\n\ntext 变成 \"Hello, world !\"\n\n第二次匹配：\n\nre.sub 在新的 text 中继续查找，找到 \" !\" (一个空格后跟一个感叹号)。\n\n\\s+ 匹配了空格 。\n\n([,.:;?!\"()\\']) 匹配并捕获了感叹号 !。所以，捕获组 1 的内容是 !。\n\n整个匹配是 \" !\".\n\n替换操作：用 \\1 (也就是 !) 来替换 \" !\".\n\ntext 变成 \"Hello, world!\"\n\n最终结果是 \"Hello, world!\"，标点符号前的多余空格被清除了。\n\n总结一下 r'\\1' 的作用：\n它告诉 re.sub 函数，在执行替换时，使用模式中第一个捕获组 (...) 所匹配到的具体内容作为替换结果的一部分（在这个例子中是全部）。这使得我们可以保留匹配到的模式中的一部分（这里是标点符号），而丢弃另一部分（这里是标点符号前的空格）。\n\nr 前缀表示这是一个“原始字符串 (raw string)”，这在处理包含反斜杠 \\ 的字符串（如正则表达式和文件路径）时很有用，可以防止反斜杠被解释为转义字符。对于 \\1 这种简单的反向引用，r 不是绝对必需的，但对于包含其他可能被误解为转义序列的模式，使用 r 是个好习惯。",
+          "abstract": "清单 2.4 处理未知单词的简单文本分词器",
+          "star": -1,
+          "createTime": 1748444999,
+          "createTimeFormatted": "2025-05-28 23:09:59",
+          "isFinish": false,
+          "chapterUid": 10
+        }
+      ]
+    },
+    {
+      "chapterUid": 19,
+      "chapterTitle": "appendix A Introduction to PyTorch",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_80tH3zlfg",
+          "range": "60247-60267",
+          "chapterName": "",
+          "content": "这段代码定义了一个名为 NeuralNetwork 的神经网络模型类，它继承自 torch.nn.Module。下面是这段代码的详细解释：\n这是一个 Python 类定义，用于创建一个神经网络模型。\nclass NeuralNetwork(torch.nn.Module):\nclass NeuralNetwork: 定义了一个名为 NeuralNetwork 的类。\n(torch.nn.Module): 表示这个类继承自 torch.nn.Module。在 PyTorch 中，所有神经网络模块（层、模型等）都应该继承自 nn.Module。这样做的好处是可以使用 nn.Module 提供的许多便利功能，例如参数管理 (parameters())、自动求导 (backward()) 和模型保存/加载等。\ndef __init__(self, num_inputs, num_outputs):\n这是一个特殊的方法，称为构造函数。当创建一个 NeuralNetwork 类的实例时，会自动调用这个方法。\nself: 表示类的实例本身。\nnum_inputs: 这个参数表示网络的输入特征的数量。\nnum_outputs: 这个参数表示网络的输出特征（或类别）的数量。\nsuper().__init__()\n这行代码调用父类 torch.nn.Module 的构造函数。这是继承 nn.Module 时必须要做的事情，以确保父类得到正确的初始化。\nself.layers = torch.nn.Sequential(...)\nself.layers: 在类的实例中创建一个名为 layers 的属性。\ntorch.nn.Sequential(...): nn.Sequential 是一个容器模块，它可以按顺序地将多个层组合在一起。当输入数据通过 Sequential 容器时，它会依次通过容器中的每一个层。这使得构建和管理多个层的网络变得非常方便。\n在 nn.Sequential 容器中定义了网络的各个层：\ntorch.nn.Linear(num_inputs, 30): 这是一个全连接（或称为线性）层。它执行的操作是线性的：output = input * weight + bias。\nnum_inputs: 指定输入特征的数量，与构造函数的参数一致。\n30: 指定这一层的输出特征数量，也是下一个隐藏层的输入数量。这是第一个隐藏层。\ntorch.nn.ReLU(): 这是一个 ReLU (Rectified Linear Unit) 激活函数。它是一个非线性函数，对输入应用 max(0, x) 操作。在神经网络中引入非线性是至关重要的，因为它允许网络学习更复杂的模式。它通常跟在全连接层后面。\ntorch.nn.Linear(30, 20): 这是第二个全连接层。\n30: 指定输入特征的数量，与前一个 ReLU 层的输出数量一致。\n20: 指定这一层的输出特征数量，也是输出层的输入数量。这是第二个隐藏层。\ntorch.nn.ReLU(): 第二个 ReLU 激活函数，跟在第二个全连接层后面。\ntorch.nn.Linear(20, num_outputs): 这是网络的输出层。\n20: 指定输入特征的数量，与前一个 ReLU 层的输出数量一致。\nnum_outputs: 指定输出特征的数量，与构造函数的参数一致。这取决于你的任务，例如对于分类任务，这可能是类别的数量；对于回归任务，这可能是预测值的数量。\ndef forward(self, x):\n这是一个特殊的方法，定义了网络的前向传播过程。当你在一个 nn.Module 实例上调用它时（例如 model(input_data)），实际上就是调用了这个 forward 方法。\nself: 表示类的实例本身。\nx: 表示网络的输入数据，通常是一个 PyTorch 张量。\nlogits = self.layers(x)\n这行代码将输入张量 x 传递给 self.layers（也就是我们用 nn.Sequential 定义的层序列）。\nnn.Sequential 会按顺序执行其中的所有层，并将最终的输出赋值给 logits 变量。logits 通常是模型在应用最终激活函数（如果需要的话，例如 softmax 或 sigmoid）之前的原始输出值。\nreturn logits\n这行代码返回前向传播的最终结果 logits。\n总结:\n这个 NeuralNetwork 类定义了一个简单的全连接神经网络，包含两个隐藏层（每个隐藏层后都有一个 ReLU 激活函数）和一个输出层。网络的输入和输出维度由构造函数 __init__ 的参数 num_inputs 和 num_outputs 决定。forward 方法描述了数据如何通过网络从输入层流向输出层。",
+          "abstract": "清单 A.4 具有两个隐藏层的多层感知器",
+          "star": -1,
+          "createTime": 1748407498,
+          "createTimeFormatted": "2025-05-28 12:44:58",
+          "isFinish": false,
+          "chapterUid": 19
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 23,
+    "chapterOffset": 18032,
+    "progress": 91,
+    "updateTime": 1765808833,
+    "recordReadingTime": 0,
+    "finishTime": 1749714022
+  }
+}

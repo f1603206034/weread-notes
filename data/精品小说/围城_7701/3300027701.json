@@ -1,0 +1,668 @@
+{
+  "meta": {
+    "bookId": "3300027701",
+    "title": "围城",
+    "author": "钱钟书",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/82/cpPlatform_12Rg6HdoLL1B6tBpvGCHbs/t6_cpPlatform_12Rg6HdoLL1B6tBpvGCHbs.jpg",
+    "intro": "是钱钟书所著的长篇小说，是中国现代文学史上一部风格独特的讽刺小说。被誉为“新儒林外史”。描写民国时期知识分子的灰色生活和爱情。",
+    "category": "精品小说-社会小说",
+    "publisher": "人民文学出版社",
+    "publishTime": "2022-08-05 00:00:00",
+    "isbn": "9787020172214",
+    "wordCount": 0,
+    "newRating": 886,
+    "newRatingCount": 340,
+    "newRatingDetail": {
+      "good": 309,
+      "fair": 25,
+      "poor": 6,
+      "recent": 2,
+      "deepV": 52,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300027701",
+    "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4",
+    "lastSync": "2026-05-21T11:48:30Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "2025-03-21",
+    "noteCount": 11,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 129,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "文前插图",
+      "level": 1,
+      "wordCount": 88,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "文前辅文",
+      "level": 1,
+      "wordCount": 63,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "重印前记",
+      "level": 1,
+      "wordCount": 1287,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "序",
+      "level": 1,
+      "wordCount": 312,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "一",
+      "level": 1,
+      "wordCount": 15183,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "二",
+      "level": 1,
+      "wordCount": 14231,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "三",
+      "level": 1,
+      "wordCount": 40866,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "四",
+      "level": 1,
+      "wordCount": 14954,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "五",
+      "level": 1,
+      "wordCount": 37669,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "六",
+      "level": 1,
+      "wordCount": 24844,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "七",
+      "level": 1,
+      "wordCount": 30441,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "八",
+      "level": 1,
+      "wordCount": 19670,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "九",
+      "level": 1,
+      "wordCount": 31759,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "附录 记钱锺书与《围城》",
+      "level": 1,
+      "wordCount": 15716,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "前言",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "一 钱锺书写《围城》",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "二 写《围城》的钱锺书",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300027701&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=16"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 11,
+      "chapterTitle": "五",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300027701_11_41216-41230",
+          "range": "41217-41231",
+          "rangeStart": 41217,
+          "rangeEnd": 41231,
+          "markText": "“你不讨厌，可是全无用处。”",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1759416851,
+          "createTimeFormatted": "2025-10-02 22:54:11",
+          "chapterUid": 11,
+          "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=11&rangeStart=41217&rangeEnd=41231",
+          "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=11&rangeStart=41217&rangeEnd=41231"
+        }
+      ]
+    },
+    {
+      "chapterUid": 14,
+      "chapterTitle": "八",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300027701_14_1865-1995",
+          "range": "1865-1995",
+          "rangeStart": 1865,
+          "rangeEnd": 1995,
+          "markText": "天下只有两种人。譬如一串葡萄到手，一种人挑最好的先吃，另一种人把最好的留在最后吃。照例第一种人应该乐观，因为他每吃一颗都是吃剩的葡萄里最好的；第二种人应该悲观，因为他每吃一颗都是吃剩的葡萄里最坏的。不过事实上适得其反，缘故是第二种人还有希望，第一种人只有回忆。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1749460855,
+          "createTimeFormatted": "2025-06-09 17:20:55",
+          "chapterUid": 14,
+          "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=14&rangeStart=1865&rangeEnd=1995",
+          "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=14&rangeStart=1865&rangeEnd=1995"
+        }
+      ]
+    },
+    {
+      "chapterUid": 13,
+      "chapterTitle": "七",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300027701_13_18609-18635",
+          "range": "18609-18635",
+          "rangeStart": 18609,
+          "rangeEnd": 18635,
+          "markText": "女人出门，照例忘掉东西，所以一次出门事实上等于两次。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1749443800,
+          "createTimeFormatted": "2025-06-09 12:36:40",
+          "chapterUid": 13,
+          "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=13&rangeStart=18609&rangeEnd=18635",
+          "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=13&rangeStart=18609&rangeEnd=18635"
+        }
+      ]
+    },
+    {
+      "chapterUid": 9,
+      "chapterTitle": "三",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300027701_9_48487-48542",
+          "range": "48489-48544",
+          "rangeStart": 48489,
+          "rangeEnd": 48544,
+          "markText": "这一分钟好长，她等不及了，正要分付女用人，鸿渐忽然回过脸来，狗抖毛似的抖擞身子，像把周围的雨抖出去，开步走了。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1749292310,
+          "createTimeFormatted": "2025-06-07 18:31:50",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=9&rangeStart=48489&rangeEnd=48544",
+          "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=9&rangeStart=48489&rangeEnd=48544"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300027701_9_48290-48349",
+          "range": "48292-48351",
+          "rangeStart": 48292,
+          "rangeEnd": 48351,
+          "markText": "有时候，“不再坐一会么？”可以撵走人，有时候“再会”可以挽留人；唐小姐挽不住方鸿渐，所以加一句“希望你远行一路平安”。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1749292265,
+          "createTimeFormatted": "2025-06-07 18:31:05",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=9&rangeStart=48292&rangeEnd=48351",
+          "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=9&rangeStart=48292&rangeEnd=48351"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300027701_9_47965-48038",
+          "range": "47967-48040",
+          "rangeStart": 47967,
+          "rangeEnd": 48040,
+          "markText": "鸿渐身心仿佛通电似的发麻，只知道唐小姐在说自己，没心思来领会她话里的意义，好比头脑里蒙上一层油纸，她的话雨点似的渗不进，可是油纸震颤着雨打的重量。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1749292176,
+          "createTimeFormatted": "2025-06-07 18:29:36",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=9&rangeStart=47967&rangeEnd=48040",
+          "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=9&rangeStart=47967&rangeEnd=48040"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300027701_9_37844-37889",
+          "range": "37845-37890",
+          "rangeStart": 37845,
+          "rangeEnd": 37890,
+          "markText": "结婚仿佛金漆的鸟笼，笼子外面的鸟想住进去，笼内的鸟想飞出来；所以结而离，离而结，没有了局。",
+          "colorStyle": 5,
+          "colorLabel": "",
+          "createTime": 1749186024,
+          "createTimeFormatted": "2025-06-06 13:00:24",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=9&rangeStart=37845&rangeEnd=37890",
+          "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=9&rangeStart=37845&rangeEnd=37890"
+        }
+      ]
+    },
+    {
+      "chapterUid": 10,
+      "chapterTitle": "四",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300027701_10_15068-15157",
+          "range": "15068-15157",
+          "rangeStart": 15068,
+          "rangeEnd": 15157,
+          "markText": "从前愚民政策是不许人民受教育，现代愚民政策是只许人民受某一种教育。不受教育的人，因为不识字，上人的当，受教育的人，因为识了字，上印刷品的当，像你们的报纸宣传品、训练干部讲义之类。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1742517817,
+          "createTimeFormatted": "2025-03-21 08:43:37",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=10&rangeStart=15068&rangeEnd=15157",
+          "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=10&rangeStart=15068&rangeEnd=15157"
+        }
+      ]
+    },
+    {
+      "chapterUid": 7,
+      "chapterTitle": "一",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300027701_7_3031-3070",
+          "range": "3031-3070",
+          "rangeStart": 3031,
+          "rangeEnd": 3070,
+          "markText": "忠厚老实人的恶毒，像饭里的砂砾或者出骨鱼片里未净的刺，会给人一种不期待的伤痛。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1742517801,
+          "createTimeFormatted": "2025-03-21 08:43:21",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=7&rangeStart=3031&rangeEnd=3070",
+          "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=7&rangeStart=3031&rangeEnd=3070"
+        }
+      ]
+    },
+    {
+      "chapterUid": 15,
+      "chapterTitle": "九",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300027701_15_22506-22540",
+          "range": "22506-22540",
+          "rangeStart": 22506,
+          "rangeEnd": 22540,
+          "markText": "不管你跟谁结婚，结婚以后，你总发现你娶的不是原来的人，换了另外一个。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1741786062,
+          "createTimeFormatted": "2025-03-12 21:27:42",
+          "chapterUid": 15,
+          "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=15&rangeStart=22506&rangeEnd=22540",
+          "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=15&rangeStart=22506&rangeEnd=22540"
+        }
+      ]
+    },
+    {
+      "chapterUid": 4,
+      "chapterTitle": "文前辅文",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300027701_4_406-528",
+          "range": "406-528",
+          "rangeStart": 406,
+          "rangeEnd": 528,
+          "markText": "围在城里的人想逃出来，\n城外的人想冲进去，\n对婚姻也罢，职业也罢，\n人生的愿望大都如此。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1741785848,
+          "createTimeFormatted": "2025-03-12 21:24:08",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=4&rangeStart=406&rangeEnd=528",
+          "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=4&rangeStart=406&rangeEnd=528"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300027701_4_406-528",
+      "chapterUid": 4,
+      "range": "406-528",
+      "markText": "围在城里的人想逃出来， 城外的人想冲进去， 对婚姻也罢，职业也罢， 人生的愿望大都如此。",
+      "totalCount": 910,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=4&rangeStart=406&rangeEnd=528",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=4&rangeStart=406&rangeEnd=528"
+    },
+    {
+      "bookmarkId": "3300027701_7_8214-8237",
+      "chapterUid": 7,
+      "range": "8214-8237",
+      "markText": "这事也许是中国自有外交或订商约以来唯一的胜利。",
+      "totalCount": 432,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=7&rangeStart=8214&rangeEnd=8237",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=7&rangeStart=8214&rangeEnd=8237"
+    },
+    {
+      "bookmarkId": "3300027701_7_5342-5363",
+      "chapterUid": 7,
+      "range": "5342-5363",
+      "markText": "汝托词悲秋，吾知汝实为怀春，难逃老夫洞鉴也",
+      "totalCount": 342,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=7&rangeStart=5342&rangeEnd=5363",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=7&rangeStart=5342&rangeEnd=5363"
+    },
+    {
+      "bookmarkId": "3300027701_7_419-501",
+      "chapterUid": 7,
+      "range": "419-501",
+      "markText": "但是太阳依然不饶人地迟落早起，侵占去大部分的夜。夜仿佛纸浸了油，变成半透明体；它给太阳拥抱住了，分不出身来，也许是给太阳陶醉了，所以夕照晚霞隐褪后的夜色也带着酡红。",
+      "totalCount": 308,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=7&rangeStart=419&rangeEnd=501",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=7&rangeStart=419&rangeEnd=501"
+    },
+    {
+      "bookmarkId": "3300027701_11_16546-16604",
+      "chapterUid": 11,
+      "range": "16546-16604",
+      "markText": "每逢它不肯走，汽车夫就破口臭骂，此刻骂得更利害了。骂来骂去，只有一个意思：汽车夫愿意跟汽车的母亲和祖母发生肉体恋爱。",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=11&rangeStart=16546&rangeEnd=16604",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=11&rangeStart=16546&rangeEnd=16604"
+    },
+    {
+      "bookmarkId": "3300027701_12_22548-22627",
+      "chapterUid": 12,
+      "range": "22548-22627",
+      "markText": "事实上，一个人的缺点正像猴子的尾巴，猴子蹲在地面的时候，尾巴是看不见的，直到他向树上爬，就把后部供大众瞻仰，可是这红臀长尾巴本来就有，并非地位爬高了的新标识。",
+      "totalCount": 225,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=12&rangeStart=22548&rangeEnd=22627",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=12&rangeStart=22548&rangeEnd=22627"
+    },
+    {
+      "bookmarkId": "3300027701_9_10994-11021",
+      "chapterUid": 9,
+      "range": "10994-11021",
+      "markText": "苏小姐道：“好东西不用你去记，它自会留下很深的印象。”",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=9&rangeStart=10994&rangeEnd=11021",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=9&rangeStart=10994&rangeEnd=11021"
+    },
+    {
+      "bookmarkId": "3300027701_15_35589-35626",
+      "chapterUid": 15,
+      "range": "35589-35626",
+      "markText": "这个时间落伍的计时机无意中包涵对人生的讽刺和感伤，深于一切语言、一切啼笑。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=15&rangeStart=35589&rangeEnd=35626",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=15&rangeStart=35589&rangeEnd=35626"
+    },
+    {
+      "bookmarkId": "3300027701_8_6460-6500",
+      "chapterUid": 8,
+      "range": "6460-6500",
+      "markText": "许多人谈婚姻，语气仿佛是同性恋爱，不是看中女孩子本人，是羡慕她的老子或她的哥哥。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=8&rangeStart=6460&rangeEnd=6500",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=8&rangeStart=6460&rangeEnd=6500"
+    },
+    {
+      "bookmarkId": "3300027701_7_3031-3070",
+      "chapterUid": 7,
+      "range": "3031-3070",
+      "markText": "忠厚老实人的恶毒，像饭里的砂砾或者出骨鱼片里未净的刺，会给人一种不期待的伤痛。",
+      "totalCount": 220,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=7&rangeStart=3031&rangeEnd=3070",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=7&rangeStart=3031&rangeEnd=3070"
+    },
+    {
+      "bookmarkId": "3300027701_11_40827-40917",
+      "chapterUid": 11,
+      "range": "40827-40917",
+      "markText": "且慢，你听我说——结婚以后的蜜月旅行是次序颠倒的，应该先同旅行一个月，一个月舟车仆仆以后，双方还没有彼此看破，彼此厌恶，还没有吵嘴翻脸，还要维持原来的婚约，这种夫妇保证不会离婚。”",
+      "totalCount": 220,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=11&rangeStart=40827&rangeEnd=40917",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=11&rangeStart=40827&rangeEnd=40917"
+    },
+    {
+      "bookmarkId": "3300027701_10_15068-15157",
+      "chapterUid": 10,
+      "range": "15068-15157",
+      "markText": "从前愚民政策是不许人民受教育，现代愚民政策是只许人民受某一种教育。不受教育的人，因为不识字，上人的当，受教育的人，因为识了字，上印刷品的当，像你们的报纸宣传品、训练干部讲义之类。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=10&rangeStart=15068&rangeEnd=15157",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=10&rangeStart=15068&rangeEnd=15157"
+    },
+    {
+      "bookmarkId": "3300027701_11_37052-37145",
+      "chapterUid": 11,
+      "range": "37052-37145",
+      "markText": "鸿渐，你看那位女同志长得真丑，喝了酒更吓得死人，居然也有男人爱她。”鸿渐道：“我知道她难看，可是因为她是我们的恩人，我不忍细看她。对于丑人，细看是一种残忍——除非他是坏人，你要惩罚他。”",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=11&rangeStart=37052&rangeEnd=37145",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=11&rangeStart=37052&rangeEnd=37145"
+    },
+    {
+      "bookmarkId": "3300027701_7_5588-5635",
+      "chapterUid": 7,
+      "range": "5588-5635",
+      "markText": "方鸿渐从此死心不敢妄想，开始读叔本华，常聪明地对同学们说：“世间哪有恋爱？压根儿是生殖冲动。”",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=7&rangeStart=5588&rangeEnd=5635",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=7&rangeStart=5588&rangeEnd=5635"
+    },
+    {
+      "bookmarkId": "3300027701_8_8204-8227",
+      "chapterUid": 8,
+      "range": "8204-8227",
+      "markText": "这种预备并不费心血，身血倒赔了些，因为蚊子多。",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=8&rangeStart=8204&rangeEnd=8227",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=8&rangeStart=8204&rangeEnd=8227"
+    },
+    {
+      "bookmarkId": "3300027701_11_41217-41231",
+      "chapterUid": 11,
+      "range": "41217-41231",
+      "markText": "“你不讨厌，可是全无用处。”",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=11&rangeStart=41217&rangeEnd=41231",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=11&rangeStart=41217&rangeEnd=41231"
+    },
+    {
+      "bookmarkId": "3300027701_14_5028-5117",
+      "chapterUid": 14,
+      "range": "5028-5117",
+      "markText": "鸿渐暗笑女人真是天生的政治家，她们俩背后彼此诽谤，面子上这样多情，两个政敌在香槟酒会上碰杯的一套工夫，怕也不过如此。假使不是亲耳朵听见她们的互相刻薄，自己也以为她们真是好朋友了。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=14&rangeStart=5028&rangeEnd=5117",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=14&rangeStart=5028&rangeEnd=5117"
+    },
+    {
+      "bookmarkId": "3300027701_7_8539-8617",
+      "chapterUid": 7,
+      "range": "8539-8617",
+      "markText": "那时候苏小姐把自己的爱情看得太名贵了，不肯随便施与。现在呢，宛如做了好衣服，舍不得穿，锁在箱里，过一两年忽然发见这衣服的样子和花色都不时髦了，有些自怅自悔。",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=7&rangeStart=8539&rangeEnd=8617",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=7&rangeStart=8539&rangeEnd=8617"
+    },
+    {
+      "bookmarkId": "3300027701_8_14568-14626",
+      "chapterUid": 8,
+      "range": "14568-14626",
+      "markText": "鸿渐暗想，享受了最新的西洋科学设备，而竟抱这种信仰，坐在热水管烘暖的客堂里念佛，可见“西学为用，中学为体”并非难事。",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=8&rangeStart=14568&rangeEnd=14626",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=8&rangeStart=14568&rangeEnd=14626"
+    },
+    {
+      "bookmarkId": "3300027701_10_14613-14697",
+      "chapterUid": 10,
+      "range": "14613-14697",
+      "markText": "辛楣道：“办报是开发民智，教书也是开发民智，两者都是‘精神动员’，无分彼此。论影响的范围，是办报来得广；不过，论影响的程度，是教育来得深。我这次去也是添一个人生经验。”",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=3300027701&chapterUid=10&rangeStart=14613&rangeEnd=14697",
+      "webLink": "https://weread.qq.com/web/reader/67632fe0813ab7152g011ed4?chapterUid=10&rangeStart=14613&rangeEnd=14697"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 9,
+    "chapterOffset": 48154,
+    "progress": 0,
+    "updateTime": 1759416952,
+    "recordReadingTime": 0,
+    "finishTime": 1742553978
+  }
+}

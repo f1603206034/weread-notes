@@ -1,0 +1,3126 @@
+{
+  "meta": {
+    "bookId": "3300017294",
+    "title": "李商隐诗集",
+    "author": "李商隐 朱鹤龄 田松青",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/94/3300017294/t6_3300017294.jpg",
+    "intro": "李商隐是晚唐最杰出的诗人，与杜牧合称“小李杜”，其诗构思新奇，风格秾丽，尤其是爱情诗和无题诗写得缠绵悱恻，广为传诵。其诗用典较多，故而晦涩迷离，这也成为他的独特风格。今存诗约600首，有《李义山诗集》。此《李商隐诗集》清代学者朱鹤龄注。",
+    "category": "文学-古代诗词",
+    "publisher": "上海古籍出版社有限公司",
+    "publishTime": "2015-07-10 00:00:00",
+    "isbn": "9787532576357",
+    "wordCount": 0,
+    "newRating": 918,
+    "newRatingCount": 91,
+    "newRatingDetail": {
+      "good": 85,
+      "fair": 6,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 30,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300017294",
+    "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501",
+    "lastSync": "2026-05-21T11:51:26Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017294&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 151,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017294&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 12102,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017294&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "序",
+      "level": 1,
+      "wordCount": 1077,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300017294&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "卷一上",
+      "level": 1,
+      "wordCount": 33567,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "锦瑟",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "重过圣女祠",
+          "anchor": "heading_id_4",
+          "level": 2
+        },
+        {
+          "title": "寄罗劭兴",
+          "anchor": "heading_id_5",
+          "level": 2
+        },
+        {
+          "title": "令狐舍人说昨夜西掖玩月因戏赠",
+          "anchor": "heading_id_6",
+          "level": 2
+        },
+        {
+          "title": "崔处士",
+          "anchor": "heading_id_7",
+          "level": 2
+        },
+        {
+          "title": "自喜",
+          "anchor": "heading_id_8",
+          "level": 2
+        },
+        {
+          "title": "题僧壁",
+          "anchor": "heading_id_9",
+          "level": 2
+        },
+        {
+          "title": "霜月",
+          "anchor": "heading_id_10",
+          "level": 2
+        },
+        {
+          "title": "异俗二首",
+          "anchor": "heading_id_11",
+          "level": 2
+        },
+        {
+          "title": "归墅",
+          "anchor": "heading_id_12",
+          "level": 2
+        },
+        {
+          "title": "商於",
+          "anchor": "heading_id_13",
+          "level": 2
+        },
+        {
+          "title": "和孙朴韦蟾孔雀咏",
+          "anchor": "heading_id_14",
+          "level": 2
+        },
+        {
+          "title": "人欲",
+          "anchor": "heading_id_15",
+          "level": 2
+        },
+        {
+          "title": "华山题王母祠",
+          "anchor": "heading_id_16",
+          "level": 2
+        },
+        {
+          "title": "华清宫",
+          "anchor": "heading_id_17",
+          "level": 2
+        },
+        {
+          "title": "楚泽",
+          "anchor": "heading_id_18",
+          "level": 2
+        },
+        {
+          "title": "蝉",
+          "anchor": "heading_id_19",
+          "level": 2
+        },
+        {
+          "title": "江亭散席循柳路吟归官舍",
+          "anchor": "heading_id_20",
+          "level": 2
+        },
+        {
+          "title": "潭州",
+          "anchor": "heading_id_21",
+          "level": 2
+        },
+        {
+          "title": "赠刘司户",
+          "anchor": "heading_id_22",
+          "level": 2
+        },
+        {
+          "title": "哭刘司户二首",
+          "anchor": "heading_id_23",
+          "level": 2
+        },
+        {
+          "title": "悼伤后赴东蜀辟至散关遇雪",
+          "anchor": "heading_id_24",
+          "level": 2
+        },
+        {
+          "title": "乐游原",
+          "anchor": "heading_id_25",
+          "level": 2
+        },
+        {
+          "title": "北齐二首",
+          "anchor": "heading_id_26",
+          "level": 2
+        },
+        {
+          "title": "街西池馆",
+          "anchor": "heading_id_27",
+          "level": 2
+        },
+        {
+          "title": "南朝",
+          "anchor": "heading_id_28",
+          "level": 2
+        },
+        {
+          "title": "复京",
+          "anchor": "heading_id_29",
+          "level": 2
+        },
+        {
+          "title": "浑河中",
+          "anchor": "heading_id_30",
+          "level": 2
+        },
+        {
+          "title": "鄠杜马上念汉书",
+          "anchor": "heading_id_31",
+          "level": 2
+        },
+        {
+          "title": "柳",
+          "anchor": "heading_id_32",
+          "level": 2
+        },
+        {
+          "title": "巴江柳",
+          "anchor": "heading_id_33",
+          "level": 2
+        },
+        {
+          "title": "咸阳",
+          "anchor": "heading_id_34",
+          "level": 2
+        },
+        {
+          "title": "同崔八诣药山访融禅师",
+          "anchor": "heading_id_35",
+          "level": 2
+        },
+        {
+          "title": "闻著明凶问哭寄飞卿",
+          "anchor": "heading_id_36",
+          "level": 2
+        },
+        {
+          "title": "听鼓",
+          "anchor": "heading_id_37",
+          "level": 2
+        },
+        {
+          "title": "送崔珏往西川",
+          "anchor": "heading_id_38",
+          "level": 2
+        },
+        {
+          "title": "代赠",
+          "anchor": "heading_id_39",
+          "level": 2
+        },
+        {
+          "title": "桂林",
+          "anchor": "heading_id_40",
+          "level": 2
+        },
+        {
+          "title": "夜雨寄北",
+          "anchor": "heading_id_41",
+          "level": 2
+        },
+        {
+          "title": "陈后宫",
+          "anchor": "heading_id_42",
+          "level": 2
+        },
+        {
+          "title": "属疾",
+          "anchor": "heading_id_43",
+          "level": 2
+        },
+        {
+          "title": "石榴",
+          "anchor": "heading_id_44",
+          "level": 2
+        },
+        {
+          "title": "明日",
+          "anchor": "heading_id_45",
+          "level": 2
+        },
+        {
+          "title": "饮席戏赠同舍",
+          "anchor": "heading_id_46",
+          "level": 2
+        },
+        {
+          "title": "西溪",
+          "anchor": "heading_id_47",
+          "level": 2
+        },
+        {
+          "title": "忆梅",
+          "anchor": "heading_id_48",
+          "level": 2
+        },
+        {
+          "title": "赠柳",
+          "anchor": "heading_id_49",
+          "level": 2
+        },
+        {
+          "title": "谑柳",
+          "anchor": "heading_id_50",
+          "level": 2
+        },
+        {
+          "title": "北禽",
+          "anchor": "heading_id_51",
+          "level": 2
+        },
+        {
+          "title": "初起",
+          "anchor": "heading_id_52",
+          "level": 2
+        },
+        {
+          "title": "楚宫",
+          "anchor": "heading_id_53",
+          "level": 2
+        },
+        {
+          "title": "柳",
+          "anchor": "heading_id_54",
+          "level": 2
+        },
+        {
+          "title": "石城",
+          "anchor": "heading_id_55",
+          "level": 2
+        },
+        {
+          "title": "韩碑",
+          "anchor": "heading_id_56",
+          "level": 2
+        },
+        {
+          "title": "令狐八拾遗绹见招送裴十四归华州",
+          "anchor": "heading_id_57",
+          "level": 2
+        },
+        {
+          "title": "离思",
+          "anchor": "heading_id_58",
+          "level": 2
+        },
+        {
+          "title": "宿骆氏亭寄怀崔雍崔衮",
+          "anchor": "heading_id_59",
+          "level": 2
+        },
+        {
+          "title": "风雨",
+          "anchor": "heading_id_60",
+          "level": 2
+        },
+        {
+          "title": "梦泽",
+          "anchor": "heading_id_61",
+          "level": 2
+        },
+        {
+          "title": "赠歌妓二首",
+          "anchor": "heading_id_62",
+          "level": 2
+        },
+        {
+          "title": "谢书",
+          "anchor": "heading_id_63",
+          "level": 2
+        },
+        {
+          "title": "寄令狐学士",
+          "anchor": "heading_id_64",
+          "level": 2
+        },
+        {
+          "title": "酬令狐郎中见寄",
+          "anchor": "heading_id_65",
+          "level": 2
+        },
+        {
+          "title": "七月二十八日夜与王郑二秀才听雨梦后作",
+          "anchor": "heading_id_66",
+          "level": 2
+        },
+        {
+          "title": "寄令狐郎中",
+          "anchor": "heading_id_67",
+          "level": 2
+        },
+        {
+          "title": "漫成三首",
+          "anchor": "heading_id_68",
+          "level": 2
+        },
+        {
+          "title": "无题",
+          "anchor": "heading_id_69",
+          "level": 2
+        },
+        {
+          "title": "槿花二首",
+          "anchor": "heading_id_70",
+          "level": 2
+        },
+        {
+          "title": "哭刘蕡",
+          "anchor": "heading_id_71",
+          "level": 2
+        },
+        {
+          "title": "杜司勋",
+          "anchor": "heading_id_72",
+          "level": 2
+        },
+        {
+          "title": "荆门西下",
+          "anchor": "heading_id_73",
+          "level": 2
+        },
+        {
+          "title": "碧瓦",
+          "anchor": "heading_id_74",
+          "level": 2
+        },
+        {
+          "title": "蜨",
+          "anchor": "heading_id_75",
+          "level": 2
+        },
+        {
+          "title": "蝇蜨鸡麝鸾凤等成篇",
+          "anchor": "heading_id_76",
+          "level": 2
+        },
+        {
+          "title": "韩翃舍人即事",
+          "anchor": "heading_id_77",
+          "level": 2
+        },
+        {
+          "title": "公子",
+          "anchor": "heading_id_78",
+          "level": 2
+        },
+        {
+          "title": "子初全溪作",
+          "anchor": "heading_id_79",
+          "level": 2
+        },
+        {
+          "title": "杨本胜说于长安见小男阿衮",
+          "anchor": "heading_id_80",
+          "level": 2
+        },
+        {
+          "title": "西溪",
+          "anchor": "heading_id_81",
+          "level": 2
+        },
+        {
+          "title": "柳下暗记",
+          "anchor": "heading_id_82",
+          "level": 2
+        },
+        {
+          "title": "妓席",
+          "anchor": "heading_id_83",
+          "level": 2
+        },
+        {
+          "title": "少年",
+          "anchor": "heading_id_84",
+          "level": 2
+        },
+        {
+          "title": "无题",
+          "anchor": "heading_id_85",
+          "level": 2
+        },
+        {
+          "title": "玄微先生",
+          "anchor": "heading_id_86",
+          "level": 2
+        },
+        {
+          "title": "药转",
+          "anchor": "heading_id_87",
+          "level": 2
+        },
+        {
+          "title": "岳阳楼",
+          "anchor": "heading_id_88",
+          "level": 2
+        },
+        {
+          "title": "岳阳楼",
+          "anchor": "heading_id_89",
+          "level": 2
+        },
+        {
+          "title": "寄成都高苗二从事",
+          "anchor": "heading_id_90",
+          "level": 2
+        },
+        {
+          "title": "越燕二首",
+          "anchor": "heading_id_91",
+          "level": 2
+        },
+        {
+          "title": "杜工部蜀中离席",
+          "anchor": "heading_id_92",
+          "level": 2
+        },
+        {
+          "title": "隋宫",
+          "anchor": "heading_id_93",
+          "level": 2
+        },
+        {
+          "title": "二月二日",
+          "anchor": "heading_id_94",
+          "level": 2
+        },
+        {
+          "title": "筹笔驿",
+          "anchor": "heading_id_95",
+          "level": 2
+        },
+        {
+          "title": "屏风",
+          "anchor": "heading_id_96",
+          "level": 2
+        },
+        {
+          "title": "春日",
+          "anchor": "heading_id_97",
+          "level": 2
+        },
+        {
+          "title": "武侯庙古柏",
+          "anchor": "heading_id_98",
+          "level": 2
+        },
+        {
+          "title": "风",
+          "anchor": "heading_id_99",
+          "level": 2
+        },
+        {
+          "title": "即日",
+          "anchor": "heading_id_100",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300017294&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "卷一下",
+      "level": 1,
+      "wordCount": 27774,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "九成宫",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "少将",
+          "anchor": "heading_id_4",
+          "level": 2
+        },
+        {
+          "title": "咏史",
+          "anchor": "heading_id_5",
+          "level": 2
+        },
+        {
+          "title": "赠白道者",
+          "anchor": "heading_id_6",
+          "level": 2
+        },
+        {
+          "title": "无题二首",
+          "anchor": "heading_id_7",
+          "level": 2
+        },
+        {
+          "title": "汉宫词",
+          "anchor": "heading_id_8",
+          "level": 2
+        },
+        {
+          "title": "无题四首",
+          "anchor": "heading_id_9",
+          "level": 2
+        },
+        {
+          "title": "赴职梓潼留别畏之员外同年",
+          "anchor": "heading_id_10",
+          "level": 2
+        },
+        {
+          "title": "桂林路中作",
+          "anchor": "heading_id_11",
+          "level": 2
+        },
+        {
+          "title": "无题",
+          "anchor": "heading_id_12",
+          "level": 2
+        },
+        {
+          "title": "蝶三首",
+          "anchor": "heading_id_13",
+          "level": 2
+        },
+        {
+          "title": "无题二首",
+          "anchor": "heading_id_14",
+          "level": 2
+        },
+        {
+          "title": "王十二兄与畏之员外相访见招小饮时予以悼亡日近不去因寄",
+          "anchor": "heading_id_15",
+          "level": 2
+        },
+        {
+          "title": "隋宫",
+          "anchor": "heading_id_16",
+          "level": 2
+        },
+        {
+          "title": "落花",
+          "anchor": "heading_id_17",
+          "level": 2
+        },
+        {
+          "title": "月",
+          "anchor": "heading_id_18",
+          "level": 2
+        },
+        {
+          "title": "赠宗鲁笻竹杖",
+          "anchor": "heading_id_19",
+          "level": 2
+        },
+        {
+          "title": "垂柳",
+          "anchor": "heading_id_20",
+          "level": 2
+        },
+        {
+          "title": "曲池",
+          "anchor": "heading_id_21",
+          "level": 2
+        },
+        {
+          "title": "代应二首",
+          "anchor": "heading_id_22",
+          "level": 2
+        },
+        {
+          "title": "席上作",
+          "anchor": "heading_id_23",
+          "level": 2
+        },
+        {
+          "title": "访隐者不遇成二绝",
+          "anchor": "heading_id_24",
+          "level": 2
+        },
+        {
+          "title": "破镜",
+          "anchor": "heading_id_25",
+          "level": 2
+        },
+        {
+          "title": "无题",
+          "anchor": "heading_id_26",
+          "level": 2
+        },
+        {
+          "title": "赠庾十二朱版",
+          "anchor": "heading_id_27",
+          "level": 2
+        },
+        {
+          "title": "李花",
+          "anchor": "heading_id_28",
+          "level": 2
+        },
+        {
+          "title": "柳",
+          "anchor": "heading_id_29",
+          "level": 2
+        },
+        {
+          "title": "三月十日流杯亭",
+          "anchor": "heading_id_30",
+          "level": 2
+        },
+        {
+          "title": "过招国李家南园二首",
+          "anchor": "heading_id_31",
+          "level": 2
+        },
+        {
+          "title": "留赠畏之〔三首〕",
+          "anchor": "heading_id_32",
+          "level": 2
+        },
+        {
+          "title": "为有",
+          "anchor": "heading_id_33",
+          "level": 2
+        },
+        {
+          "title": "无题",
+          "anchor": "heading_id_34",
+          "level": 2
+        },
+        {
+          "title": "碧城三首",
+          "anchor": "heading_id_35",
+          "level": 2
+        },
+        {
+          "title": "对雪二首",
+          "anchor": "heading_id_36",
+          "level": 2
+        },
+        {
+          "title": "蜂",
+          "anchor": "heading_id_37",
+          "level": 2
+        },
+        {
+          "title": "公子",
+          "anchor": "heading_id_38",
+          "level": 2
+        },
+        {
+          "title": "赋得鸡",
+          "anchor": "heading_id_39",
+          "level": 2
+        },
+        {
+          "title": "明神",
+          "anchor": "heading_id_40",
+          "level": 2
+        },
+        {
+          "title": "辛未七夕",
+          "anchor": "heading_id_41",
+          "level": 2
+        },
+        {
+          "title": "壬申七夕",
+          "anchor": "heading_id_42",
+          "level": 2
+        },
+        {
+          "title": "壬申闰秋题赠乌鹊",
+          "anchor": "heading_id_43",
+          "level": 2
+        },
+        {
+          "title": "端居",
+          "anchor": "heading_id_44",
+          "level": 2
+        },
+        {
+          "title": "夜半",
+          "anchor": "heading_id_45",
+          "level": 2
+        },
+        {
+          "title": "玉山",
+          "anchor": "heading_id_46",
+          "level": 2
+        },
+        {
+          "title": "张恶子庙",
+          "anchor": "heading_id_47",
+          "level": 2
+        },
+        {
+          "title": "雨",
+          "anchor": "heading_id_48",
+          "level": 2
+        },
+        {
+          "title": "菊",
+          "anchor": "heading_id_49",
+          "level": 2
+        },
+        {
+          "title": "牡丹",
+          "anchor": "heading_id_50",
+          "level": 2
+        },
+        {
+          "title": "北楼",
+          "anchor": "heading_id_51",
+          "level": 2
+        },
+        {
+          "title": "拟沈下贤",
+          "anchor": "heading_id_52",
+          "level": 2
+        },
+        {
+          "title": "蝶",
+          "anchor": "heading_id_53",
+          "level": 2
+        },
+        {
+          "title": "饮席代官妓赠两从事",
+          "anchor": "heading_id_54",
+          "level": 2
+        },
+        {
+          "title": "代魏宫私赠",
+          "anchor": "heading_id_55",
+          "level": 2
+        },
+        {
+          "title": "代元城吴令暗为答",
+          "anchor": "heading_id_56",
+          "level": 2
+        },
+        {
+          "title": "牡丹",
+          "anchor": "heading_id_57",
+          "level": 2
+        },
+        {
+          "title": "百果嘲樱桃",
+          "anchor": "heading_id_58",
+          "level": 2
+        },
+        {
+          "title": "樱桃答",
+          "anchor": "heading_id_59",
+          "level": 2
+        },
+        {
+          "title": "晓坐",
+          "anchor": "heading_id_60",
+          "level": 2
+        },
+        {
+          "title": "咏史",
+          "anchor": "heading_id_61",
+          "level": 2
+        },
+        {
+          "title": "一片",
+          "anchor": "heading_id_62",
+          "level": 2
+        },
+        {
+          "title": "日射",
+          "anchor": "heading_id_63",
+          "level": 2
+        },
+        {
+          "title": "题鹅",
+          "anchor": "heading_id_64",
+          "level": 2
+        },
+        {
+          "title": "华清宫",
+          "anchor": "heading_id_65",
+          "level": 2
+        },
+        {
+          "title": "梓潼望长卿山至巴西复怀谯秀",
+          "anchor": "heading_id_66",
+          "level": 2
+        },
+        {
+          "title": "齐宫词",
+          "anchor": "heading_id_67",
+          "level": 2
+        },
+        {
+          "title": "十一月中旬至扶风界见梅花",
+          "anchor": "heading_id_68",
+          "level": 2
+        },
+        {
+          "title": "青陵台",
+          "anchor": "heading_id_69",
+          "level": 2
+        },
+        {
+          "title": "东还",
+          "anchor": "heading_id_70",
+          "level": 2
+        },
+        {
+          "title": "酬崔八早梅有赠兼示之作",
+          "anchor": "heading_id_71",
+          "level": 2
+        },
+        {
+          "title": "春风",
+          "anchor": "heading_id_72",
+          "level": 2
+        },
+        {
+          "title": "蜀桐",
+          "anchor": "heading_id_73",
+          "level": 2
+        },
+        {
+          "title": "蜀桐",
+          "anchor": "heading_id_74",
+          "level": 2
+        },
+        {
+          "title": "判春",
+          "anchor": "heading_id_75",
+          "level": 2
+        },
+        {
+          "title": "促漏",
+          "anchor": "heading_id_76",
+          "level": 2
+        },
+        {
+          "title": "江东",
+          "anchor": "heading_id_77",
+          "level": 2
+        },
+        {
+          "title": "读任彦升碑",
+          "anchor": "heading_id_78",
+          "level": 2
+        },
+        {
+          "title": "荷花",
+          "anchor": "heading_id_79",
+          "level": 2
+        },
+        {
+          "title": "五松驿",
+          "anchor": "heading_id_80",
+          "level": 2
+        },
+        {
+          "title": "灞岸",
+          "anchor": "heading_id_81",
+          "level": 2
+        },
+        {
+          "title": "送臻师二首",
+          "anchor": "heading_id_82",
+          "level": 2
+        },
+        {
+          "title": "七夕",
+          "anchor": "heading_id_83",
+          "level": 2
+        },
+        {
+          "title": "谢先辈防记念拙诗甚多异日偶有此寄",
+          "anchor": "heading_id_84",
+          "level": 2
+        },
+        {
+          "title": "马嵬二首",
+          "anchor": "heading_id_85",
+          "level": 2
+        },
+        {
+          "title": "可叹",
+          "anchor": "heading_id_86",
+          "level": 2
+        },
+        {
+          "title": "望喜驿别嘉陵江水二绝",
+          "anchor": "heading_id_87",
+          "level": 2
+        },
+        {
+          "title": "别薛岩宾",
+          "anchor": "heading_id_88",
+          "level": 2
+        },
+        {
+          "title": "富平少侯",
+          "anchor": "heading_id_89",
+          "level": 2
+        },
+        {
+          "title": "肠",
+          "anchor": "heading_id_90",
+          "level": 2
+        },
+        {
+          "title": "赠宇文中丞",
+          "anchor": "heading_id_91",
+          "level": 2
+        },
+        {
+          "title": "晓起",
+          "anchor": "heading_id_92",
+          "level": 2
+        },
+        {
+          "title": "闺情",
+          "anchor": "heading_id_93",
+          "level": 2
+        },
+        {
+          "title": "月夕",
+          "anchor": "heading_id_94",
+          "level": 2
+        },
+        {
+          "title": "杏花",
+          "anchor": "heading_id_95",
+          "level": 2
+        },
+        {
+          "title": "灯",
+          "anchor": "heading_id_96",
+          "level": 2
+        },
+        {
+          "title": "清河",
+          "anchor": "heading_id_97",
+          "level": 2
+        },
+        {
+          "title": "袜",
+          "anchor": "heading_id_98",
+          "level": 2
+        },
+        {
+          "title": "追代卢家人嘲堂内",
+          "anchor": "heading_id_99",
+          "level": 2
+        },
+        {
+          "title": "代应",
+          "anchor": "heading_id_100",
+          "level": 2
+        },
+        {
+          "title": "离亭赋得折杨柳二首",
+          "anchor": "heading_id_101",
+          "level": 2
+        },
+        {
+          "title": "寄永道士",
+          "anchor": "heading_id_102",
+          "level": 2
+        },
+        {
+          "title": "华州周大夫宴席",
+          "anchor": "heading_id_103",
+          "level": 2
+        },
+        {
+          "title": "荆山",
+          "anchor": "heading_id_104",
+          "level": 2
+        },
+        {
+          "title": "次陕州先寄源从事",
+          "anchor": "heading_id_105",
+          "level": 2
+        },
+        {
+          "title": "过郑广文旧居",
+          "anchor": "heading_id_106",
+          "level": 2
+        },
+        {
+          "title": "东下三旬苦于风土马上戏作",
+          "anchor": "heading_id_107",
+          "level": 2
+        },
+        {
+          "title": "莫愁",
+          "anchor": "heading_id_108",
+          "level": 2
+        },
+        {
+          "title": "梦令狐学士",
+          "anchor": "heading_id_109",
+          "level": 2
+        },
+        {
+          "title": "涉洛川",
+          "anchor": "heading_id_110",
+          "level": 2
+        },
+        {
+          "title": "有感",
+          "anchor": "heading_id_111",
+          "level": 2
+        },
+        {
+          "title": "宫妓",
+          "anchor": "heading_id_112",
+          "level": 2
+        },
+        {
+          "title": "柳",
+          "anchor": "heading_id_113",
+          "level": 2
+        },
+        {
+          "title": "寄在朝郑曹独孤李四同年",
+          "anchor": "heading_id_114",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300017294&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "卷二上",
+      "level": 1,
+      "wordCount": 24902,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "南朝",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "题汉祖庙",
+          "anchor": "heading_id_4",
+          "level": 2
+        },
+        {
+          "title": "韩冬郎即席为诗相送一座尽惊他日余方追吟连宵侍坐徘徊久之句有老成之风因成二绝寄酬兼呈畏之员外",
+          "anchor": "heading_id_5",
+          "level": 2
+        },
+        {
+          "title": "评事翁寄赐饧粥走笔为答",
+          "anchor": "heading_id_6",
+          "level": 2
+        },
+        {
+          "title": "东阿王",
+          "anchor": "heading_id_7",
+          "level": 2
+        },
+        {
+          "title": "圣女祠",
+          "anchor": "heading_id_8",
+          "level": 2
+        },
+        {
+          "title": "独居有怀",
+          "anchor": "heading_id_9",
+          "level": 2
+        },
+        {
+          "title": "过景陵",
+          "anchor": "heading_id_10",
+          "level": 2
+        },
+        {
+          "title": "临发崇让宅紫薇",
+          "anchor": "heading_id_11",
+          "level": 2
+        },
+        {
+          "title": "及第东归次灞上却寄同年",
+          "anchor": "heading_id_12",
+          "level": 2
+        },
+        {
+          "title": "野菊",
+          "anchor": "heading_id_13",
+          "level": 2
+        },
+        {
+          "title": "板桥晓别",
+          "anchor": "heading_id_14",
+          "level": 2
+        },
+        {
+          "title": "过伊仆射旧宅",
+          "anchor": "heading_id_15",
+          "level": 2
+        },
+        {
+          "title": "关门柳",
+          "anchor": "heading_id_16",
+          "level": 2
+        },
+        {
+          "title": "酬别令狐补阙",
+          "anchor": "heading_id_17",
+          "level": 2
+        },
+        {
+          "title": "银河吹笙",
+          "anchor": "heading_id_18",
+          "level": 2
+        },
+        {
+          "title": "与同年李定言曲水闲话戏作",
+          "anchor": "heading_id_19",
+          "level": 2
+        },
+        {
+          "title": "彭城公薨后赠杜二十七胜李十七潘二君并与愚同出故尚书安平公门下",
+          "anchor": "heading_id_20",
+          "level": 2
+        },
+        {
+          "title": "闻歌",
+          "anchor": "heading_id_21",
+          "level": 2
+        },
+        {
+          "title": "赠华阳宋真人兼寄清都刘先生",
+          "anchor": "heading_id_22",
+          "level": 2
+        },
+        {
+          "title": "楚宫二首",
+          "anchor": "heading_id_23",
+          "level": 2
+        },
+        {
+          "title": "和友人戏赠二首",
+          "anchor": "heading_id_24",
+          "level": 2
+        },
+        {
+          "title": "题二首后重有戏赠任秀才",
+          "anchor": "heading_id_25",
+          "level": 2
+        },
+        {
+          "title": "有感二首",
+          "anchor": "heading_id_26",
+          "level": 2
+        },
+        {
+          "title": "重有感",
+          "anchor": "heading_id_27",
+          "level": 2
+        },
+        {
+          "title": "寿安公主出降",
+          "anchor": "heading_id_28",
+          "level": 2
+        },
+        {
+          "title": "夕阳楼",
+          "anchor": "heading_id_29",
+          "level": 2
+        },
+        {
+          "title": "春雨",
+          "anchor": "heading_id_30",
+          "level": 2
+        },
+        {
+          "title": "中元作",
+          "anchor": "heading_id_31",
+          "level": 2
+        },
+        {
+          "title": "鸳鸯",
+          "anchor": "heading_id_32",
+          "level": 2
+        },
+        {
+          "title": "楚宫",
+          "anchor": "heading_id_33",
+          "level": 2
+        },
+        {
+          "title": "妓席暗记送同年独孤云之武昌",
+          "anchor": "heading_id_34",
+          "level": 2
+        },
+        {
+          "title": "宿晋昌亭闻惊禽",
+          "anchor": "heading_id_35",
+          "level": 2
+        },
+        {
+          "title": "深宫",
+          "anchor": "heading_id_36",
+          "level": 2
+        },
+        {
+          "title": "明禅师院酬从兄见寄",
+          "anchor": "heading_id_37",
+          "level": 2
+        },
+        {
+          "title": "寄裴衡",
+          "anchor": "heading_id_38",
+          "level": 2
+        },
+        {
+          "title": "即日",
+          "anchor": "heading_id_39",
+          "level": 2
+        },
+        {
+          "title": "淮阳路",
+          "anchor": "heading_id_40",
+          "level": 2
+        },
+        {
+          "title": "崇让宅东亭醉后沔然有作",
+          "anchor": "heading_id_41",
+          "level": 2
+        },
+        {
+          "title": "晚晴",
+          "anchor": "heading_id_42",
+          "level": 2
+        },
+        {
+          "title": "迎寄韩瞻鲁州同年",
+          "anchor": "heading_id_43",
+          "level": 2
+        },
+        {
+          "title": "武夷山",
+          "anchor": "heading_id_44",
+          "level": 2
+        },
+        {
+          "title": "一片",
+          "anchor": "heading_id_45",
+          "level": 2
+        },
+        {
+          "title": "寄成都高苗二从事",
+          "anchor": "heading_id_46",
+          "level": 2
+        },
+        {
+          "title": "郑州献从叔舍人褎",
+          "anchor": "heading_id_47",
+          "level": 2
+        },
+        {
+          "title": "西南行却寄相送者",
+          "anchor": "heading_id_48",
+          "level": 2
+        },
+        {
+          "title": "四皓庙",
+          "anchor": "heading_id_49",
+          "level": 2
+        },
+        {
+          "title": "题白石莲花寄楚公",
+          "anchor": "heading_id_50",
+          "level": 2
+        },
+        {
+          "title": "安定城楼",
+          "anchor": "heading_id_51",
+          "level": 2
+        },
+        {
+          "title": "隋宫守岁",
+          "anchor": "heading_id_52",
+          "level": 2
+        },
+        {
+          "title": "利州江潭作",
+          "anchor": "heading_id_53",
+          "level": 2
+        },
+        {
+          "title": "即目",
+          "anchor": "heading_id_54",
+          "level": 2
+        },
+        {
+          "title": "相思",
+          "anchor": "heading_id_55",
+          "level": 2
+        },
+        {
+          "title": "茂陵",
+          "anchor": "heading_id_56",
+          "level": 2
+        },
+        {
+          "title": "镜槛",
+          "anchor": "heading_id_57",
+          "level": 2
+        },
+        {
+          "title": "送郑大台文南觐",
+          "anchor": "heading_id_58",
+          "level": 2
+        },
+        {
+          "title": "风",
+          "anchor": "heading_id_59",
+          "level": 2
+        },
+        {
+          "title": "洞庭鱼",
+          "anchor": "heading_id_60",
+          "level": 2
+        },
+        {
+          "title": "天涯",
+          "anchor": "heading_id_61",
+          "level": 2
+        },
+        {
+          "title": "喜舍弟羲叟及第上礼部魏公",
+          "anchor": "heading_id_62",
+          "level": 2
+        },
+        {
+          "title": "哀筝",
+          "anchor": "heading_id_63",
+          "level": 2
+        },
+        {
+          "title": "自南山北归经分水岭",
+          "anchor": "heading_id_64",
+          "level": 2
+        },
+        {
+          "title": "旧顿",
+          "anchor": "heading_id_65",
+          "level": 2
+        },
+        {
+          "title": "代董秀才却扇",
+          "anchor": "heading_id_66",
+          "level": 2
+        },
+        {
+          "title": "有感",
+          "anchor": "heading_id_67",
+          "level": 2
+        },
+        {
+          "title": "骊山有感",
+          "anchor": "heading_id_68",
+          "level": 2
+        },
+        {
+          "title": "别智玄法师",
+          "anchor": "heading_id_69",
+          "level": 2
+        },
+        {
+          "title": "赠孙绮新及第",
+          "anchor": "heading_id_70",
+          "level": 2
+        },
+        {
+          "title": "代秘书赠弘文馆诸校书",
+          "anchor": "heading_id_71",
+          "level": 2
+        },
+        {
+          "title": "乱石",
+          "anchor": "heading_id_72",
+          "level": 2
+        },
+        {
+          "title": "日日",
+          "anchor": "heading_id_73",
+          "level": 2
+        },
+        {
+          "title": "过楚宫",
+          "anchor": "heading_id_74",
+          "level": 2
+        },
+        {
+          "title": "龙池",
+          "anchor": "heading_id_75",
+          "level": 2
+        },
+        {
+          "title": "泪",
+          "anchor": "heading_id_76",
+          "level": 2
+        },
+        {
+          "title": "十字水期韦潘侍御同年不至时韦寓居水次故郭汾宁宅",
+          "anchor": "heading_id_77",
+          "level": 2
+        },
+        {
+          "title": "流莺",
+          "anchor": "heading_id_78",
+          "level": 2
+        },
+        {
+          "title": "出关宿盘豆馆对丛芦有感",
+          "anchor": "heading_id_79",
+          "level": 2
+        },
+        {
+          "title": "和韩录事送宫人入道",
+          "anchor": "heading_id_80",
+          "level": 2
+        },
+        {
+          "title": "即目",
+          "anchor": "heading_id_81",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300017294&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "卷二下",
+      "level": 1,
+      "wordCount": 27801,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "圣女祠",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "七月二十九日崇让宅讌作",
+          "anchor": "heading_id_4",
+          "level": 2
+        },
+        {
+          "title": "赠从兄阆之",
+          "anchor": "heading_id_5",
+          "level": 2
+        },
+        {
+          "title": "吴宫",
+          "anchor": "heading_id_6",
+          "level": 2
+        },
+        {
+          "title": "常娥",
+          "anchor": "heading_id_7",
+          "level": 2
+        },
+        {
+          "title": "残花",
+          "anchor": "heading_id_8",
+          "level": 2
+        },
+        {
+          "title": "天津西望",
+          "anchor": "heading_id_9",
+          "level": 2
+        },
+        {
+          "title": "西亭",
+          "anchor": "heading_id_10",
+          "level": 2
+        },
+        {
+          "title": "忆住一师",
+          "anchor": "heading_id_11",
+          "level": 2
+        },
+        {
+          "title": "昨夜",
+          "anchor": "heading_id_12",
+          "level": 2
+        },
+        {
+          "title": "海客",
+          "anchor": "heading_id_13",
+          "level": 2
+        },
+        {
+          "title": "初食笋呈座中",
+          "anchor": "heading_id_14",
+          "level": 2
+        },
+        {
+          "title": "早起",
+          "anchor": "heading_id_15",
+          "level": 2
+        },
+        {
+          "title": "寄蜀客",
+          "anchor": "heading_id_16",
+          "level": 2
+        },
+        {
+          "title": "行至金牛驿寄兴元渤海尚书",
+          "anchor": "heading_id_17",
+          "level": 2
+        },
+        {
+          "title": "深树见一颗樱桃尚在",
+          "anchor": "heading_id_18",
+          "level": 2
+        },
+        {
+          "title": "细雨",
+          "anchor": "heading_id_19",
+          "level": 2
+        },
+        {
+          "title": "歌舞",
+          "anchor": "heading_id_20",
+          "level": 2
+        },
+        {
+          "title": "海上",
+          "anchor": "heading_id_21",
+          "level": 2
+        },
+        {
+          "title": "魏侯第东北楼堂郢叔言别聊用书所见成篇",
+          "anchor": "heading_id_22",
+          "level": 2
+        },
+        {
+          "title": "白云夫旧居",
+          "anchor": "heading_id_23",
+          "level": 2
+        },
+        {
+          "title": "同学彭道士参寥",
+          "anchor": "heading_id_24",
+          "level": 2
+        },
+        {
+          "title": "到秋",
+          "anchor": "heading_id_25",
+          "level": 2
+        },
+        {
+          "title": "华师",
+          "anchor": "heading_id_26",
+          "level": 2
+        },
+        {
+          "title": "华岳下题西王母庙",
+          "anchor": "heading_id_27",
+          "level": 2
+        },
+        {
+          "title": "过华清内厩门",
+          "anchor": "heading_id_28",
+          "level": 2
+        },
+        {
+          "title": "乐游原",
+          "anchor": "heading_id_29",
+          "level": 2
+        },
+        {
+          "title": "赠荷花",
+          "anchor": "heading_id_30",
+          "level": 2
+        },
+        {
+          "title": "丹丘",
+          "anchor": "heading_id_31",
+          "level": 2
+        },
+        {
+          "title": "房君珊瑚散",
+          "anchor": "heading_id_32",
+          "level": 2
+        },
+        {
+          "title": "小桃园",
+          "anchor": "heading_id_33",
+          "level": 2
+        },
+        {
+          "title": "嘲樱桃",
+          "anchor": "heading_id_34",
+          "level": 2
+        },
+        {
+          "title": "和张秀才落花有感",
+          "anchor": "heading_id_35",
+          "level": 2
+        },
+        {
+          "title": "代越公房妓嘲徐公主",
+          "anchor": "heading_id_36",
+          "level": 2
+        },
+        {
+          "title": "代贵公主",
+          "anchor": "heading_id_37",
+          "level": 2
+        },
+        {
+          "title": "凤",
+          "anchor": "heading_id_38",
+          "level": 2
+        },
+        {
+          "title": "昭肃皇帝挽歌辞三首",
+          "anchor": "heading_id_39",
+          "level": 2
+        },
+        {
+          "title": "梓州罢吟寄同舍",
+          "anchor": "heading_id_40",
+          "level": 2
+        },
+        {
+          "title": "无题二首",
+          "anchor": "heading_id_41",
+          "level": 2
+        },
+        {
+          "title": "病中早访招国李十将军遇挈家游曲江",
+          "anchor": "heading_id_42",
+          "level": 2
+        },
+        {
+          "title": "昨日",
+          "anchor": "heading_id_43",
+          "level": 2
+        },
+        {
+          "title": "樱桃花下",
+          "anchor": "heading_id_44",
+          "level": 2
+        },
+        {
+          "title": "故驿迎吊故桂府常侍有感",
+          "anchor": "heading_id_45",
+          "level": 2
+        },
+        {
+          "title": "槿花",
+          "anchor": "heading_id_46",
+          "level": 2
+        },
+        {
+          "title": "暮秋独游曲江",
+          "anchor": "heading_id_47",
+          "level": 2
+        },
+        {
+          "title": "任弘农尉献州刺史乞假还京",
+          "anchor": "heading_id_48",
+          "level": 2
+        },
+        {
+          "title": "赠勾芒神",
+          "anchor": "heading_id_49",
+          "level": 2
+        },
+        {
+          "title": "无愁果有愁曲北齐歌",
+          "anchor": "heading_id_50",
+          "level": 2
+        },
+        {
+          "title": "房中曲",
+          "anchor": "heading_id_51",
+          "level": 2
+        },
+        {
+          "title": "齐梁晴云",
+          "anchor": "heading_id_52",
+          "level": 2
+        },
+        {
+          "title": "效徐陵体赠更衣",
+          "anchor": "heading_id_53",
+          "level": 2
+        },
+        {
+          "title": "又效江南曲",
+          "anchor": "heading_id_54",
+          "level": 2
+        },
+        {
+          "title": "月夜重寄宋华阳姊妹",
+          "anchor": "heading_id_55",
+          "level": 2
+        },
+        {
+          "title": "访人不遇留别馆",
+          "anchor": "heading_id_56",
+          "level": 2
+        },
+        {
+          "title": "雨中长乐水馆送赵十五滂不及",
+          "anchor": "heading_id_57",
+          "level": 2
+        },
+        {
+          "title": "汴上送李郢之苏州",
+          "anchor": "heading_id_58",
+          "level": 2
+        },
+        {
+          "title": "赠郑谠处士",
+          "anchor": "heading_id_59",
+          "level": 2
+        },
+        {
+          "title": "复至裴明府所居",
+          "anchor": "heading_id_60",
+          "level": 2
+        },
+        {
+          "title": "览古",
+          "anchor": "heading_id_61",
+          "level": 2
+        },
+        {
+          "title": "子初郊墅",
+          "anchor": "heading_id_62",
+          "level": 2
+        },
+        {
+          "title": "汉南书事",
+          "anchor": "heading_id_63",
+          "level": 2
+        },
+        {
+          "title": "当句有对",
+          "anchor": "heading_id_64",
+          "level": 2
+        },
+        {
+          "title": "井络",
+          "anchor": "heading_id_65",
+          "level": 2
+        },
+        {
+          "title": "写意",
+          "anchor": "heading_id_66",
+          "level": 2
+        },
+        {
+          "title": "随师东",
+          "anchor": "heading_id_67",
+          "level": 2
+        },
+        {
+          "title": "宋玉",
+          "anchor": "heading_id_68",
+          "level": 2
+        },
+        {
+          "title": "韩同年新居饯韩西迎家室戏赠",
+          "anchor": "heading_id_69",
+          "level": 2
+        },
+        {
+          "title": "奉和太原公送前杨秀才戴兼招杨正字戎",
+          "anchor": "heading_id_70",
+          "level": 2
+        },
+        {
+          "title": "池边",
+          "anchor": "heading_id_71",
+          "level": 2
+        },
+        {
+          "title": "贾生",
+          "anchor": "heading_id_72",
+          "level": 2
+        },
+        {
+          "title": "送王十三校书分司",
+          "anchor": "heading_id_73",
+          "level": 2
+        },
+        {
+          "title": "寄恼韩同年时韩住萧洞二首",
+          "anchor": "heading_id_74",
+          "level": 2
+        },
+        {
+          "title": "谒山",
+          "anchor": "heading_id_75",
+          "level": 2
+        },
+        {
+          "title": "钧天",
+          "anchor": "heading_id_76",
+          "level": 2
+        },
+        {
+          "title": "失猿",
+          "anchor": "heading_id_77",
+          "level": 2
+        },
+        {
+          "title": "戏题友人壁",
+          "anchor": "heading_id_78",
+          "level": 2
+        },
+        {
+          "title": "假日",
+          "anchor": "heading_id_79",
+          "level": 2
+        },
+        {
+          "title": "寄远",
+          "anchor": "heading_id_80",
+          "level": 2
+        },
+        {
+          "title": "王昭君",
+          "anchor": "heading_id_81",
+          "level": 2
+        },
+        {
+          "title": "旧将军",
+          "anchor": "heading_id_82",
+          "level": 2
+        },
+        {
+          "title": "曼倩辞",
+          "anchor": "heading_id_83",
+          "level": 2
+        },
+        {
+          "title": "所居",
+          "anchor": "heading_id_84",
+          "level": 2
+        },
+        {
+          "title": "高松",
+          "anchor": "heading_id_85",
+          "level": 2
+        },
+        {
+          "title": "访秋",
+          "anchor": "heading_id_86",
+          "level": 2
+        },
+        {
+          "title": "昭州",
+          "anchor": "heading_id_87",
+          "level": 2
+        },
+        {
+          "title": "哭刘司户蕡",
+          "anchor": "heading_id_88",
+          "level": 2
+        },
+        {
+          "title": "裴明府居止",
+          "anchor": "heading_id_89",
+          "level": 2
+        },
+        {
+          "title": "陆发荆南始至商洛",
+          "anchor": "heading_id_90",
+          "level": 2
+        },
+        {
+          "title": "陈后宫",
+          "anchor": "heading_id_91",
+          "level": 2
+        },
+        {
+          "title": "乐游原",
+          "anchor": "heading_id_92",
+          "level": 2
+        },
+        {
+          "title": "赠子直花下",
+          "anchor": "heading_id_93",
+          "level": 2
+        },
+        {
+          "title": "小园独酌",
+          "anchor": "heading_id_94",
+          "level": 2
+        },
+        {
+          "title": "思归",
+          "anchor": "heading_id_95",
+          "level": 2
+        },
+        {
+          "title": "献寄旧府开封公",
+          "anchor": "heading_id_96",
+          "level": 2
+        },
+        {
+          "title": "向晩",
+          "anchor": "heading_id_97",
+          "level": 2
+        },
+        {
+          "title": "春游",
+          "anchor": "heading_id_98",
+          "level": 2
+        },
+        {
+          "title": "离席",
+          "anchor": "heading_id_99",
+          "level": 2
+        },
+        {
+          "title": "俳 谐",
+          "anchor": "heading_id_100",
+          "level": 2
+        },
+        {
+          "title": "细雨",
+          "anchor": "heading_id_101",
+          "level": 2
+        },
+        {
+          "title": "商於新开路",
+          "anchor": "heading_id_102",
+          "level": 2
+        },
+        {
+          "title": "题郑大有隐居",
+          "anchor": "heading_id_103",
+          "level": 2
+        },
+        {
+          "title": "夜饮",
+          "anchor": "heading_id_104",
+          "level": 2
+        },
+        {
+          "title": "江上",
+          "anchor": "heading_id_105",
+          "level": 2
+        },
+        {
+          "title": "凉思",
+          "anchor": "heading_id_106",
+          "level": 2
+        },
+        {
+          "title": "鸾凤",
+          "anchor": "heading_id_107",
+          "level": 2
+        },
+        {
+          "title": "李卫公",
+          "anchor": "heading_id_108",
+          "level": 2
+        },
+        {
+          "title": "韦蟾",
+          "anchor": "heading_id_109",
+          "level": 2
+        },
+        {
+          "title": "自贶",
+          "anchor": "heading_id_110",
+          "level": 2
+        },
+        {
+          "title": "蝶",
+          "anchor": "heading_id_111",
+          "level": 2
+        },
+        {
+          "title": "夜意",
+          "anchor": "heading_id_112",
+          "level": 2
+        },
+        {
+          "title": "因书",
+          "anchor": "heading_id_113",
+          "level": 2
+        },
+        {
+          "title": "奉寄安国大师兼简子蒙",
+          "anchor": "heading_id_114",
+          "level": 2
+        },
+        {
+          "title": "闲游",
+          "anchor": "heading_id_115",
+          "level": 2
+        },
+        {
+          "title": "县中恼饮席",
+          "anchor": "heading_id_116",
+          "level": 2
+        },
+        {
+          "title": "题李上謩壁",
+          "anchor": "heading_id_117",
+          "level": 2
+        },
+        {
+          "title": "江村题壁",
+          "anchor": "heading_id_118",
+          "level": 2
+        },
+        {
+          "title": "即日",
+          "anchor": "heading_id_119",
+          "level": 2
+        },
+        {
+          "title": "漫成五章",
+          "anchor": "heading_id_120",
+          "level": 2
+        },
+        {
+          "title": "射鱼曲",
+          "anchor": "heading_id_121",
+          "level": 2
+        },
+        {
+          "title": "日高",
+          "anchor": "heading_id_122",
+          "level": 2
+        },
+        {
+          "title": "宫中曲",
+          "anchor": "heading_id_123",
+          "level": 2
+        },
+        {
+          "title": "海上谣",
+          "anchor": "heading_id_124",
+          "level": 2
+        },
+        {
+          "title": "李夫人三首",
+          "anchor": "heading_id_125",
+          "level": 2
+        },
+        {
+          "title": "景阳宫井双桐",
+          "anchor": "heading_id_126",
+          "level": 2
+        },
+        {
+          "title": "秋日晚思",
+          "anchor": "heading_id_127",
+          "level": 2
+        },
+        {
+          "title": "春宵自遣",
+          "anchor": "heading_id_128",
+          "level": 2
+        },
+        {
+          "title": "七夕偶题",
+          "anchor": "heading_id_129",
+          "level": 2
+        },
+        {
+          "title": "灵仙阁晚眺寄郓州韦评事",
+          "anchor": "heading_id_130",
+          "level": 2
+        },
+        {
+          "title": "幽居冬暮",
+          "anchor": "heading_id_131",
+          "level": 2
+        },
+        {
+          "title": "过姚孝子庐偶书",
+          "anchor": "heading_id_132",
+          "level": 2
+        },
+        {
+          "title": "赋得月照冰池",
+          "anchor": "heading_id_133",
+          "level": 2
+        },
+        {
+          "title": "永乐县所居一草一木无非自栽今春悉已芳茂因书即事一章",
+          "anchor": "heading_id_134",
+          "level": 2
+        },
+        {
+          "title": "南潭上亭讌集以疾后至因而抒情",
+          "anchor": "heading_id_135",
+          "level": 2
+        },
+        {
+          "title": "寒食行次冷泉驿",
+          "anchor": "heading_id_136",
+          "level": 2
+        },
+        {
+          "title": "寄华岳孙逸人",
+          "anchor": "heading_id_137",
+          "level": 2
+        },
+        {
+          "title": "戏题赠稷山驿吏王全",
+          "anchor": "heading_id_138",
+          "level": 2
+        },
+        {
+          "title": "和韦潘前辈七月十二日夜泊池州城下先寄上李使君",
+          "anchor": "heading_id_139",
+          "level": 2
+        },
+        {
+          "title": "花下醉",
+          "anchor": "heading_id_140",
+          "level": 2
+        },
+        {
+          "title": "所居永乐县久旱县宰祈祷得雨因赋诗",
+          "anchor": "heading_id_141",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300017294&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "卷三上",
+      "level": 1,
+      "wordCount": 32054,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "正月十五夜闻京有灯恨不得观",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "赠赵协律晳",
+          "anchor": "heading_id_4",
+          "level": 2
+        },
+        {
+          "title": "摇落",
+          "anchor": "heading_id_5",
+          "level": 2
+        },
+        {
+          "title": "滞雨",
+          "anchor": "heading_id_6",
+          "level": 2
+        },
+        {
+          "title": "偶题二首",
+          "anchor": "heading_id_7",
+          "level": 2
+        },
+        {
+          "title": "月",
+          "anchor": "heading_id_8",
+          "level": 2
+        },
+        {
+          "title": "夜冷",
+          "anchor": "heading_id_9",
+          "level": 2
+        },
+        {
+          "title": "正月崇让宅",
+          "anchor": "heading_id_10",
+          "level": 2
+        },
+        {
+          "title": "城外",
+          "anchor": "heading_id_11",
+          "level": 2
+        },
+        {
+          "title": "撰彭阳公志文毕有感",
+          "anchor": "heading_id_12",
+          "level": 2
+        },
+        {
+          "title": "北青萝",
+          "anchor": "heading_id_13",
+          "level": 2
+        },
+        {
+          "title": "戏赠张书记",
+          "anchor": "heading_id_14",
+          "level": 2
+        },
+        {
+          "title": "幽人",
+          "anchor": "heading_id_15",
+          "level": 2
+        },
+        {
+          "title": "念远",
+          "anchor": "heading_id_16",
+          "level": 2
+        },
+        {
+          "title": "过故崔兖海宅与崔明秀才话旧因寄旧僚杜赵李三掾",
+          "anchor": "heading_id_17",
+          "level": 2
+        },
+        {
+          "title": "微雨",
+          "anchor": "heading_id_18",
+          "level": 2
+        },
+        {
+          "title": "南山赵行军新诗盛称游讌之洽因寄一绝",
+          "anchor": "heading_id_19",
+          "level": 2
+        },
+        {
+          "title": "曲江",
+          "anchor": "heading_id_20",
+          "level": 2
+        },
+        {
+          "title": "景阳井",
+          "anchor": "heading_id_21",
+          "level": 2
+        },
+        {
+          "title": "故番禺侯以赃罪致不辜事觉母者他日过其门",
+          "anchor": "heading_id_22",
+          "level": 2
+        },
+        {
+          "title": "咏云",
+          "anchor": "heading_id_23",
+          "level": 2
+        },
+        {
+          "title": "夜出西溪",
+          "anchor": "heading_id_24",
+          "level": 2
+        },
+        {
+          "title": "效长吉",
+          "anchor": "heading_id_25",
+          "level": 2
+        },
+        {
+          "title": "柳",
+          "anchor": "heading_id_26",
+          "level": 2
+        },
+        {
+          "title": "九月於东逢雪",
+          "anchor": "heading_id_27",
+          "level": 2
+        },
+        {
+          "title": "四皓庙",
+          "anchor": "heading_id_28",
+          "level": 2
+        },
+        {
+          "title": "送阿龟归华",
+          "anchor": "heading_id_29",
+          "level": 2
+        },
+        {
+          "title": "九日",
+          "anchor": "heading_id_30",
+          "level": 2
+        },
+        {
+          "title": "僧院牡丹",
+          "anchor": "heading_id_31",
+          "level": 2
+        },
+        {
+          "title": "赠司勋杜十三员外",
+          "anchor": "heading_id_32",
+          "level": 2
+        },
+        {
+          "title": "高花",
+          "anchor": "heading_id_33",
+          "level": 2
+        },
+        {
+          "title": "嘲桃",
+          "anchor": "heading_id_34",
+          "level": 2
+        },
+        {
+          "title": "送丰都李尉",
+          "anchor": "heading_id_35",
+          "level": 2
+        },
+        {
+          "title": "天平公座中呈令狐令公时蔡京在坐京曾为僧徒故有第五句",
+          "anchor": "heading_id_36",
+          "level": 2
+        },
+        {
+          "title": "江上忆严五广休",
+          "anchor": "heading_id_37",
+          "level": 2
+        },
+        {
+          "title": "饯席重送从叔余之梓州",
+          "anchor": "heading_id_38",
+          "level": 2
+        },
+        {
+          "title": "访隐",
+          "anchor": "heading_id_39",
+          "level": 2
+        },
+        {
+          "title": "寓兴",
+          "anchor": "heading_id_40",
+          "level": 2
+        },
+        {
+          "title": "东南",
+          "anchor": "heading_id_41",
+          "level": 2
+        },
+        {
+          "title": "归来",
+          "anchor": "heading_id_42",
+          "level": 2
+        },
+        {
+          "title": "子直晋昌李花",
+          "anchor": "heading_id_43",
+          "level": 2
+        },
+        {
+          "title": "河清与赵氏昆季讌集得拟杜工部",
+          "anchor": "heading_id_44",
+          "level": 2
+        },
+        {
+          "title": "寓目",
+          "anchor": "heading_id_45",
+          "level": 2
+        },
+        {
+          "title": "题道静院院在中条山故王颜中丞所置虢州刺史舍官居此今写真存焉",
+          "anchor": "heading_id_46",
+          "level": 2
+        },
+        {
+          "title": "赋得桃李无言",
+          "anchor": "heading_id_47",
+          "level": 2
+        },
+        {
+          "title": "登霍山驿楼",
+          "anchor": "heading_id_48",
+          "level": 2
+        },
+        {
+          "title": "寄和水部马郎中题兴德驿",
+          "anchor": "heading_id_49",
+          "level": 2
+        },
+        {
+          "title": "题小松",
+          "anchor": "heading_id_50",
+          "level": 2
+        },
+        {
+          "title": "行次昭应县道上送户部李郎中充昭义攻讨",
+          "anchor": "heading_id_51",
+          "level": 2
+        },
+        {
+          "title": "水斋",
+          "anchor": "heading_id_52",
+          "level": 2
+        },
+        {
+          "title": "奉同诸公题河中任中丞新创河亭四韵之作",
+          "anchor": "heading_id_53",
+          "level": 2
+        },
+        {
+          "title": "过故府中武威公交城旧庄感事",
+          "anchor": "heading_id_54",
+          "level": 2
+        },
+        {
+          "title": "赠田叟",
+          "anchor": "heading_id_55",
+          "level": 2
+        },
+        {
+          "title": "赠别前蔚州契苾使君",
+          "anchor": "heading_id_56",
+          "level": 2
+        },
+        {
+          "title": "和人题真娘墓",
+          "anchor": "heading_id_57",
+          "level": 2
+        },
+        {
+          "title": "人日即事",
+          "anchor": "heading_id_58",
+          "level": 2
+        },
+        {
+          "title": "春日寄怀",
+          "anchor": "heading_id_59",
+          "level": 2
+        },
+        {
+          "title": "和刘评事永乐闲居见寄",
+          "anchor": "heading_id_60",
+          "level": 2
+        },
+        {
+          "title": "和马郎中移白菊见示",
+          "anchor": "heading_id_61",
+          "level": 2
+        },
+        {
+          "title": "喜闻太原同院崔侍御台拜兼寄在台三二同年之什",
+          "anchor": "heading_id_62",
+          "level": 2
+        },
+        {
+          "title": "喜雪",
+          "anchor": "heading_id_63",
+          "level": 2
+        },
+        {
+          "title": "柳枝五首有序",
+          "anchor": "heading_id_64",
+          "level": 2
+        },
+        {
+          "title": "燕台四首",
+          "anchor": "heading_id_65",
+          "level": 2
+        },
+        {
+          "title": "河内诗二首",
+          "anchor": "heading_id_66",
+          "level": 2
+        },
+        {
+          "title": "赠送前刘五经映三十四韵",
+          "anchor": "heading_id_67",
+          "level": 2
+        },
+        {
+          "title": "哭遂州萧侍郎二十四韵",
+          "anchor": "heading_id_68",
+          "level": 2
+        },
+        {
+          "title": "送千牛李将军赴阙五十韵",
+          "anchor": "heading_id_69",
+          "level": 2
+        },
+        {
+          "title": "咏怀寄秘阁旧僚二十六韵",
+          "anchor": "heading_id_70",
+          "level": 2
+        },
+        {
+          "title": "戊辰会静中出贻同志二十韵",
+          "anchor": "heading_id_71",
+          "level": 2
+        },
+        {
+          "title": "和郑愚赠汝阳王孙家筝妓二十韵",
+          "anchor": "heading_id_72",
+          "level": 2
+        },
+        {
+          "title": "四年冬以退居蒲之永乐渴然有农夫望岁之志遂作忆雪又作残雪诗各一百言以寄情于游旧",
+          "anchor": "heading_id_73",
+          "level": 2
+        },
+        {
+          "title": "大卤平后移家到永乐县居书怀十韵寄刘韦二前辈二公尝于此县寄居",
+          "anchor": "heading_id_74",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300017294&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "卷三下",
+      "level": 1,
+      "wordCount": 19456,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "河阳诗",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "自桂林奉使江陵途中感怀寄献尚书",
+          "anchor": "heading_id_4",
+          "level": 2
+        },
+        {
+          "title": "送从翁从东川弘农尚书幕",
+          "anchor": "heading_id_5",
+          "level": 2
+        },
+        {
+          "title": "李肱所遗画松诗书两纸得四十韵",
+          "anchor": "heading_id_6",
+          "level": 2
+        },
+        {
+          "title": "戏题枢言草阁三十二韵",
+          "anchor": "heading_id_7",
+          "level": 2
+        },
+        {
+          "title": "偶成转韵七十二句赠四同舍",
+          "anchor": "heading_id_8",
+          "level": 2
+        },
+        {
+          "title": "五言述德抒情诗一首四十韵献上杜七兄仆射相公",
+          "anchor": "heading_id_9",
+          "level": 2
+        },
+        {
+          "title": "今月二日不自量度辄以诗一首四十韵干渎尊严伏蒙仁恩俯赐披览奖逾其实情溢于辞顾惟疏芜曷用酬戴辄复五言四十韵诗献上亦诗人咏叹不足之义也",
+          "anchor": "heading_id_10",
+          "level": 2
+        },
+        {
+          "title": "骄儿诗",
+          "anchor": "heading_id_11",
+          "level": 2
+        },
+        {
+          "title": "行次西郊作一百韵",
+          "anchor": "heading_id_12",
+          "level": 2
+        },
+        {
+          "title": "井泥四十韵",
+          "anchor": "heading_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300017294&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "新添集外诗",
+      "level": 1,
+      "wordCount": 15529,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "夜思",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "思贤顿",
+          "anchor": "heading_id_4",
+          "level": 2
+        },
+        {
+          "title": "无题",
+          "anchor": "heading_id_5",
+          "level": 2
+        },
+        {
+          "title": "有怀在蒙飞卿",
+          "anchor": "heading_id_6",
+          "level": 2
+        },
+        {
+          "title": "春深脱衣",
+          "anchor": "heading_id_7",
+          "level": 2
+        },
+        {
+          "title": "怀求古翁",
+          "anchor": "heading_id_8",
+          "level": 2
+        },
+        {
+          "title": "五月十五夜忆往岁秋与彻师同宿",
+          "anchor": "heading_id_9",
+          "level": 2
+        },
+        {
+          "title": "城上",
+          "anchor": "heading_id_10",
+          "level": 2
+        },
+        {
+          "title": "如有",
+          "anchor": "heading_id_11",
+          "level": 2
+        },
+        {
+          "title": "朱槿花二首",
+          "anchor": "heading_id_12",
+          "level": 2
+        },
+        {
+          "title": "寓怀",
+          "anchor": "heading_id_13",
+          "level": 2
+        },
+        {
+          "title": "木兰",
+          "anchor": "heading_id_14",
+          "level": 2
+        },
+        {
+          "title": "细雨成咏献尚书河东公",
+          "anchor": "heading_id_15",
+          "level": 2
+        },
+        {
+          "title": "病中闻河东公乐营置酒口占寄上",
+          "anchor": "heading_id_16",
+          "level": 2
+        },
+        {
+          "title": "回中牡丹为雨所败二首",
+          "anchor": "heading_id_17",
+          "level": 2
+        },
+        {
+          "title": "拟意",
+          "anchor": "heading_id_18",
+          "level": 2
+        },
+        {
+          "title": "谢往桂林至彤庭窃咏",
+          "anchor": "heading_id_19",
+          "level": 2
+        },
+        {
+          "title": "烧香曲",
+          "anchor": "heading_id_20",
+          "level": 2
+        },
+        {
+          "title": "送从翁东川弘农尚书幕",
+          "anchor": "heading_id_21",
+          "level": 2
+        },
+        {
+          "title": "晋昌晚归马上赠",
+          "anchor": "heading_id_22",
+          "level": 2
+        },
+        {
+          "title": "哭虔州杨侍郎虞卿",
+          "anchor": "heading_id_23",
+          "level": 2
+        },
+        {
+          "title": "寄太原卢司空三十韵",
+          "anchor": "heading_id_24",
+          "level": 2
+        },
+        {
+          "title": "安平公诗",
+          "anchor": "heading_id_25",
+          "level": 2
+        },
+        {
+          "title": "赤壁",
+          "anchor": "heading_id_26",
+          "level": 2
+        },
+        {
+          "title": "垂柳",
+          "anchor": "heading_id_27",
+          "level": 2
+        },
+        {
+          "title": "清夜怨",
+          "anchor": "heading_id_28",
+          "level": 2
+        },
+        {
+          "title": "定子",
+          "anchor": "heading_id_29",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300017294&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "附录",
+      "level": 1,
+      "wordCount": 670,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "四库全书总目提要",
+          "anchor": "heading_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300017294&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=12"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 5,
+      "chapterTitle": "卷一上",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300017294_5_40935-40951",
+          "range": "40935-40951",
+          "rangeStart": 40935,
+          "rangeEnd": 40951,
+          "markText": "秋阴不散霜飞晩，留得枯荷听雨声。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745068116,
+          "createTimeFormatted": "2025-04-19 21:08:36",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=5&rangeStart=40935&rangeEnd=40951",
+          "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=5&rangeStart=40935&rangeEnd=40951"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300017294_5_771-787",
+          "range": "771-787",
+          "rangeStart": 771,
+          "rangeEnd": 787,
+          "markText": "此情可待成追忆，只是当时已惘然。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745068081,
+          "createTimeFormatted": "2025-04-19 21:08:01",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=5&rangeStart=771&rangeEnd=787",
+          "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=5&rangeStart=771&rangeEnd=787"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300017294_5_40935-40951",
+      "chapterUid": 5,
+      "range": "40935-40951",
+      "markText": "秋阴不散霜飞晩，留得枯荷听雨声。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=5&rangeStart=40935&rangeEnd=40951",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=5&rangeStart=40935&rangeEnd=40951"
+    },
+    {
+      "bookmarkId": "3300017294_5_570-787",
+      "chapterUid": 5,
+      "range": "570-787",
+      "markText": "锦瑟无端五十弦①。一弦一柱思华年。 庄生晓梦迷蝴蝶②，望帝春心托杜鹃③。 沧海月明珠有泪④，蓝田日暖玉生烟⑤。 此情可待成追忆，只是当时已惘然。",
+      "totalCount": 121,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=5&rangeStart=570&rangeEnd=787",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=5&rangeStart=570&rangeEnd=787"
+    },
+    {
+      "bookmarkId": "3300017294_3_7006-7085",
+      "chapterUid": 3,
+      "range": "7006-7085",
+      "markText": "李商隐善写梦。人生如梦，梦也如人生，商隐把这两种境界搅动得水乳不分，将梦与人生打成了一片。这其实是很可悲的，现实的窒息与碰壁，使他不得不在梦中求得慰藉与解脱。",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=3&rangeStart=7006&rangeEnd=7085",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=3&rangeStart=7006&rangeEnd=7085"
+    },
+    {
+      "bookmarkId": "3300017294_5_28040-28103",
+      "chapterUid": 5,
+      "range": "28040-28103",
+      "markText": "君问归期未有期，巴山夜雨涨秋池。 何当共剪西窗烛，却话巴山夜雨时。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=5&rangeStart=28040&rangeEnd=28103",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=5&rangeStart=28040&rangeEnd=28103"
+    },
+    {
+      "bookmarkId": "3300017294_3_1024-1040",
+      "chapterUid": 3,
+      "range": "1024-1040",
+      "markText": "四海无可归之地，九族无可倚之亲。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=3&rangeStart=1024&rangeEnd=1040",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=3&rangeStart=1024&rangeEnd=1040"
+    },
+    {
+      "bookmarkId": "3300017294_8_18219-18294",
+      "chapterUid": 8,
+      "range": "18219-18294",
+      "markText": "荷叶生时春恨生①，荷叶枯时秋恨成。 深知身在情长在，怅望江头江水声。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=8&rangeStart=18219&rangeEnd=18294",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=8&rangeStart=18219&rangeEnd=18294"
+    },
+    {
+      "bookmarkId": "3300017294_3_11818-11852",
+      "chapterUid": 3,
+      "range": "11818-11852",
+      "markText": "当然，用典过多，造成读者阅读和理解上“隔”的弊端，商隐诗也难辞其咎。",
+      "totalCount": 78,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=3&rangeStart=11818&rangeEnd=11852",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=3&rangeStart=11818&rangeEnd=11852"
+    },
+    {
+      "bookmarkId": "3300017294_3_2122-2178",
+      "chapterUid": 3,
+      "range": "2122-2178",
+      "markText": "秘省清资，可通天阶，一因母丧，一因驾崩，失尽时机，商隐懊丧不已：“谁料苏卿老归国，茂陵松柏雨萧萧。”（《茂陵》）",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=3&rangeStart=2122&rangeEnd=2178",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=3&rangeStart=2122&rangeEnd=2178"
+    },
+    {
+      "bookmarkId": "3300017294_3_8832-8848",
+      "chapterUid": 3,
+      "range": "8832-8848",
+      "markText": "刘郎已恨蓬山远，更隔蓬山一万重。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=3&rangeStart=8832&rangeEnd=8848",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=3&rangeStart=8832&rangeEnd=8848"
+    },
+    {
+      "bookmarkId": "3300017294_5_18272-18374",
+      "chapterUid": 5,
+      "range": "18272-18374",
+      "markText": "乐游原① 向晩意不适，驱车登古原。 夕阳无限好，只是近黄昏。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=5&rangeStart=18272&rangeEnd=18374",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=5&rangeStart=18272&rangeEnd=18374"
+    },
+    {
+      "bookmarkId": "3300017294_3_11015-11028",
+      "chapterUid": 3,
+      "range": "11015-11028",
+      "markText": "旧谓商隐堆垛辏砌，号獭祭鱼",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=3&rangeStart=11015&rangeEnd=11028",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=3&rangeStart=11015&rangeEnd=11028"
+    },
+    {
+      "bookmarkId": "3300017294_6_5554-5561",
+      "chapterUid": 6,
+      "range": "5554-5561",
+      "markText": "一寸相思一寸灰",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=6&rangeStart=5554&rangeEnd=5561",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=6&rangeStart=5554&rangeEnd=5561"
+    },
+    {
+      "bookmarkId": "3300017294_5_27645-27662",
+      "chapterUid": 5,
+      "range": "27645-27662",
+      "markText": "灵川、兴安之间有严关，朔雪至此辄止",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=5&rangeStart=27645&rangeEnd=27662",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=5&rangeStart=27645&rangeEnd=27662"
+    },
+    {
+      "bookmarkId": "3300017294_5_25908-25935",
+      "chapterUid": 5,
+      "range": "25908-25935",
+      "markText": "一条雪浪吼巫峡②，千里火云烧益州",
+      "totalCount": 65,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=5&rangeStart=25908&rangeEnd=25935",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=5&rangeStart=25908&rangeEnd=25935"
+    },
+    {
+      "bookmarkId": "3300017294_3_7137-7145",
+      "chapterUid": 3,
+      "range": "7137-7145",
+      "markText": "至今云雨暗丹枫。",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=3&rangeStart=7137&rangeEnd=7145",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=3&rangeStart=7137&rangeEnd=7145"
+    },
+    {
+      "bookmarkId": "3300017294_3_1601-1629",
+      "chapterUid": 3,
+      "range": "1601-1629",
+      "markText": "开成三年（838），商隐二十七岁，入泾原节度使王茂元幕。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=3&rangeStart=1601&rangeEnd=1629",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=3&rangeStart=1601&rangeEnd=1629"
+    },
+    {
+      "bookmarkId": "3300017294_5_41449-41460",
+      "chapterUid": 5,
+      "range": "41449-41460",
+      "markText": "新知遭薄俗，旧好隔良缘",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=5&rangeStart=41449&rangeEnd=41460",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=5&rangeStart=41449&rangeEnd=41460"
+    },
+    {
+      "bookmarkId": "3300017294_8_5684-5693",
+      "chapterUid": 8,
+      "range": "5684-5693",
+      "markText": "深树见一颗樱桃尚在",
+      "totalCount": 52,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=8&rangeStart=5684&rangeEnd=5693",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=8&rangeStart=5684&rangeEnd=5693"
+    },
+    {
+      "bookmarkId": "3300017294_5_17674-17741",
+      "chapterUid": 5,
+      "range": "17674-17741",
+      "markText": "湓浦应分派②，荆江有会源。 并将添恨泪，一洒问乾坤。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=5&rangeStart=17674&rangeEnd=17741",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=5&rangeStart=17674&rangeEnd=17741"
+    },
+    {
+      "bookmarkId": "3300017294_3_3170-3186",
+      "chapterUid": 3,
+      "range": "3170-3186",
+      "markText": "虚负凌云万丈才，一生襟抱未曾开。",
+      "totalCount": 50,
+      "appLink": "weread://bestbookmark?bookId=3300017294&chapterUid=3&rangeStart=3170&rangeEnd=3186",
+      "webLink": "https://weread.qq.com/web/reader/e1632660813ab6d41g014501?chapterUid=3&rangeStart=3170&rangeEnd=3186"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 4,
+    "chapterOffset": 1628,
+    "progress": 0,
+    "updateTime": 1750034777,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

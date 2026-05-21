@@ -1,0 +1,703 @@
+{
+  "meta": {
+    "bookId": "25916281",
+    "title": "高等数学（下册）",
+    "author": "同济大学数学系",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/32/yuewen_25916281/t6_yuewen_259162811741078870.jpg",
+    "intro": "本书是按照教育部大学数学课程教学指导委员会的基本要求，充分吸取当前高等数学教材的精华，并结合同济大学数学系多年来的教学实践经验，针对当前学生的知识结构和习惯特点而编写的。全书分为上、下两册。本书为下册，是多元函数微积分部分，共四章，主要内容包括向量与空间解析几何，多元函数微分学，多元函数积分学，无穷级数。每节前面配有课前导读，核心知识点配备微课，每章后面附有章节测试和拓展阅读。本书注重知识点的引入方法，使之符合认知规律，更易于读者接受。同时，本书精炼了主要内容，对部分内容调整了顺序，使结构更加简洁，思路更加清晰。本书还注重知识的连贯性，例题的多样性和习题的丰富性、层次性，使读者在学习数学知识点的同时拓宽视野，欣赏数学之美。本书可作为高等院校理工科类各专业的教材，也可作为社会从业人员的自学参考用书。",
+    "category": "科学技术-自然科学",
+    "publisher": "人民邮电出版社",
+    "publishTime": "2017-01-01 00:00:00",
+    "isbn": "9787115426406",
+    "wordCount": 0,
+    "newRating": 859,
+    "newRatingCount": 244,
+    "newRatingDetail": {
+      "good": 208,
+      "fair": 25,
+      "poor": 11,
+      "recent": 0,
+      "deepV": 13,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=25916281",
+    "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33",
+    "lastSync": "2026-05-21T11:50:44Z",
+    "readingProgress": "66%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 0,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "734d09d911cb76a2c0505e41a57bf915a62b43d039c5f98c1656dbc87de20be2"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 131,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "内容提要",
+      "level": 1,
+      "wordCount": 367,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第五章 向量与空间解析几何",
+      "level": 1,
+      "wordCount": 10596,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 向量及其运算",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25916281&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第二节 平面及其方程",
+      "level": 2,
+      "wordCount": 4532,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第三节 直线及其方程",
+      "level": 2,
+      "wordCount": 4373,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第四节 曲面与曲线",
+      "level": 2,
+      "wordCount": 6761,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "本章小结",
+      "level": 2,
+      "wordCount": 15,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "章节测试五",
+      "level": 2,
+      "wordCount": 695,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "拓展阅读",
+      "level": 2,
+      "wordCount": 1945,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第六章 多元函数微分学",
+      "level": 1,
+      "wordCount": 4782,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 多元函数的概念、极限与连续",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25916281&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第二节 多元函数的偏导数与全微分",
+      "level": 2,
+      "wordCount": 7330,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第三节 复合求导、隐函数求导及方向导数",
+      "level": 2,
+      "wordCount": 9833,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第四节 多元函数微分学的应用",
+      "level": 2,
+      "wordCount": 11381,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "本章小结",
+      "level": 2,
+      "wordCount": 15,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "章节测试六",
+      "level": 2,
+      "wordCount": 856,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "拓展阅读",
+      "level": 2,
+      "wordCount": 2530,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第七章 多元函数积分学",
+      "level": 1,
+      "wordCount": 13621,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 二重积分的概念、计算和应用",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25916281&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第二节 三重积分的概念、计算和应用",
+      "level": 2,
+      "wordCount": 5010,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第三节 对弧长的曲线积分与对坐标的曲线积分",
+      "level": 2,
+      "wordCount": 9811,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第四节 对面积的曲面积分与对坐标的曲面积分",
+      "level": 2,
+      "wordCount": 8994,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第五节 格林公式、高斯公式和斯托克斯公式",
+      "level": 2,
+      "wordCount": 10382,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "本章小结",
+      "level": 2,
+      "wordCount": 15,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "章节测试七",
+      "level": 2,
+      "wordCount": 618,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "拓展阅读",
+      "level": 2,
+      "wordCount": 726,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第八章 无穷级数",
+      "level": 1,
+      "wordCount": 3318,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 常数项级数的概念与性质",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=25916281&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第二节 常数项级数的审敛准则",
+      "level": 2,
+      "wordCount": 5836,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第三节 幂级数的收敛及函数的展开式",
+      "level": 2,
+      "wordCount": 6089,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第四节 傅里叶级数",
+      "level": 2,
+      "wordCount": 3827,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "本章小结",
+      "level": 2,
+      "wordCount": 15,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "章节测试八",
+      "level": 2,
+      "wordCount": 587,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "拓展阅读",
+      "level": 2,
+      "wordCount": 2066,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "习题答案",
+      "level": 1,
+      "wordCount": 7493,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25916281&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=33"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 13,
+      "chapterTitle": "第三节 复合求导、隐函数求导及方向导数",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_80l9K1rLu",
+          "range": "64744-64746",
+          "chapterName": "",
+          "content": "tī dù\n对于函数f（x，y，z），向量场称为f（x，y，z）的梯度，记作gradf或▽f。它的方向是f的变化率（方向导数）最大的方向，它的长度表示f的最大变化率。例如，f表示电势，则－gradf表示电场强度。\n关键点：\n梯度是一个向量。\n梯度的正方向是函数在该点增长最快的方向。梯度的反方向是函数在该点下降最快的方向。\n梯度的大小（模）是函数在该方向上的增长速率（坡度）。\n想象你在一个山坡上，你想知道哪个方向是最陡峭的向上爬的路。梯度就能告诉你这个方向，并且告诉你这个方向有多陡。\n在数学上，对于一个多变量函数（比如 f(x, y)，它的值会随着 x 和 y 的变化而变化），梯度是一个向量（vector），它指向函数值增长最快的方向，并且这个向量的长度（或称为模）代表了在这个方向上函数值增长的速率（即坡度有多陡）。\n一个简单的数学例子：\n假设我们有一个二维函数 f(x, y) = x² + y²。\n这个函数可以想象成一个三维空间中的碗状曲面，碗底在原点 (0,0)。f(x,y) 的值代表了在点 (x,y) 处的高度。\n计算偏导数：\n为了找到梯度，我们首先需要计算函数 f 对每个变量的偏导数：\n∂f/∂x (f对x的偏导数)：表示当y保持不变时，f随x变化的速率。\n∂f/∂x = d(x² + y²)/dx = 2x (把y²看作常数)\n∂f/∂y (f对y的偏导数)：表示当x保持不变时，f随y变化的速率。\n∂f/∂y = d(x² + y²)/dy = 2y (把x²看作常数)\n梯度的表示：\n函数 f(x, y) 的梯度，通常用 ∇f (读作 \"nabla f\" 或 \"del f\") 表示，是一个由这些偏导数组成的向量：\n∇f(x, y) = [∂f/∂x, ∂f/∂y] = [2x, 2y]\n在特定点计算梯度：\n让我们选一个具体的点，比如说点 P(1, 2)。\n在这个点，函数的值是 f(1, 2) = 1² + 2² = 1 + 4 = 5。\n这个点上的梯度是：\n∇f(1, 2) = [2*1, 2*2] = [2, 4]\n解释梯度向量 [2, 4] 的含义：\n方向 (Direction)： 向量 [2, 4] 指向从点 (1, 2) 出发，使函数 f(x, y) 值增长最快的方向。如果我们在 xy 平面上的点 (1, 2) 处，沿着向量 [2, 4] 代表的方向（即x方向移动2个单位，y方向移动4个单位的那个方向）移动一小步，函数值 f（即高度）的增加会是最大的。对于 f(x,y) = x^2 + y^2 这个碗状曲面，这个方向就是从 (1,2) 直接指向远离原点的方向。\n大小/模 (Magnitude)： 向量 [2, 4] 的大小（或模）是 ||∇f(1, 2)|| = √(2² + 4²) = √(4 + 16) = √20 ≈ 4.47。\n这个值 √20 表示在点 (1, 2) 处，沿着梯度方向（即最陡峭的上升方向）移动时，函数值 f 的增长速率。也就是说，如果你在最陡峭的方向上移动一个极小的单位距离，函数值 f 大约会增加 √20。\n梯度的实际意义：\n梯度在许多领域都有非常重要的实际意义：\n优化问题 (Optimization)：\n梯度下降法 (Gradient Descent)： 这是机器学习和深度学习中最核心的算法之一。当我们要最小化一个损失函数（cost function）时，我们会计算损失函数相对于模型参数的梯度。然后，我们沿着梯度的相反方向（因为梯度指向增长最快的方向，相反方向就是下降最快的方向）更新参数，从而逐步找到损失函数的最小值。想象你在山谷里，想走到谷底，每一步你都会选择当前位置最陡峭的下坡方向走。\n梯度上升法 (Gradient Ascent)： 如果目标是最大化一个函数（比如奖励函数），则会沿着梯度的方向更新参数。\n物理学：\n热传导： 热量总是从温度高的地方流向温度低的地方。温度的梯度指向温度增长最快的方向，所以热流的方向与温度梯度的方向相反。\n电场与电势： 电场强度是电势的负梯度。电场线指向电势下降最快的方向。该点的梯度的模就是电场强度的大小。\n流体力学： 压力梯度驱动流体的流动。\n图像处理：\n边缘检测： 图像中的边缘通常是像素强度发生剧烈变化的地方。计算图像强度函数的梯度，梯度值大的地方就可能对应着图像的边缘。\n地理信息系统 (GIS) 和地形分析：\n坡度与坡向： 地形表面某一点的梯度可以给出该点的坡度（梯度的大小）和坡向（梯度的方向），这对于分析水流方向、滑坡风险等非常重要。\n寻找函数的极值点：\n在单变量微积分中，我们通过令导数等于零来找极值点。在多变量微积分中，函数在某个点取得极值（最大值或最小值）的必要条件是该点的梯度为零向量（即所有偏导数都为零）。这样的点称为驻点或临界点。\n---\n数学中，梯度可不可以理解为电场线垂直为等势线？ - 三川啦啦啦的回答 - 知乎\nhttps://www.zhihu.com/question/521251840/answer/2383895898",
+          "abstract": "梯度",
+          "star": -1,
+          "createTime": 1747922576,
+          "createTimeFormatted": "2025-05-22 22:02:56",
+          "isFinish": false,
+          "chapterUid": 13
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "25916281_12_38008-38317",
+      "chapterUid": 12,
+      "range": "38008-38317",
+      "markText": "如果函数z=f（x，y）的偏导数在点（x，y）存在且连续，则函数在该点处可微分.",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=12&rangeStart=38008&rangeEnd=38317",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=12&rangeStart=38008&rangeEnd=38317"
+    },
+    {
+      "bookmarkId": "25916281_18_51269-51431",
+      "chapterUid": 18,
+      "range": "51269-51431",
+      "markText": "极坐标系下的面积微元 dσ=rdrdθ.",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=18&rangeStart=51269&rangeEnd=51431",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=18&rangeStart=51269&rangeEnd=51431"
+    },
+    {
+      "bookmarkId": "25916281_12_16462-16501",
+      "chapterUid": 12,
+      "range": "16462-16501",
+      "markText": "但对多元函数而言，即使函数在某点的各个偏导数都存在，也不能保证函数在该点连续.",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=12&rangeStart=16462&rangeEnd=16501",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=12&rangeStart=16462&rangeEnd=16501"
+    },
+    {
+      "bookmarkId": "25916281_5_14607-14651",
+      "chapterUid": 5,
+      "range": "14607-14651",
+      "markText": "两平面的法向量所夹的锐角（或直角）称为两平面的夹角",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=5&rangeStart=14607&rangeEnd=14651",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=5&rangeStart=14607&rangeEnd=14651"
+    },
+    {
+      "bookmarkId": "25916281_12_1240-1636",
+      "chapterUid": 12,
+      "range": "1240-1636",
+      "markText": "在二元函数f（x，y）中，当一个自变量在变化（例如自变量x由x0变为x0+Δx），而另一个自变量不变化（自变量y保持定值y0），则函数关于这个自变量的变化率叫作这个二元函数对这个自变量的偏导数.",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=12&rangeStart=1240&rangeEnd=1636",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=12&rangeStart=1240&rangeEnd=1636"
+    },
+    {
+      "bookmarkId": "25916281_12_37784-37815",
+      "chapterUid": 12,
+      "range": "37784-37815",
+      "markText": "二元函数的各偏导数存在只是全微分存在的必要条件而不是充分条件.",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=12&rangeStart=37784&rangeEnd=37815",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=12&rangeStart=37784&rangeEnd=37815"
+    },
+    {
+      "bookmarkId": "25916281_13_66745-66801",
+      "chapterUid": 13,
+      "range": "66745-66801",
+      "markText": "由此可知，函数在一点的梯度是这样一个向量，它的方向是函数在这点的方向导数取得最大值的方向，且最大值等于梯度的模.",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=13&rangeStart=66745&rangeEnd=66801",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=13&rangeStart=66745&rangeEnd=66801"
+    },
+    {
+      "bookmarkId": "25916281_22_14063-14308",
+      "chapterUid": 22,
+      "range": "14063-14308",
+      "markText": "在格林公式中取Q=x，P=－y，则得到计算平面区域面积的公式：",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=22&rangeStart=14063&rangeEnd=14308",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=22&rangeStart=14063&rangeEnd=14308"
+    },
+    {
+      "bookmarkId": "25916281_4_91593-91978",
+      "chapterUid": 4,
+      "range": "91593-91978",
+      "markText": "v的方向垂直于通过M点与l轴的平面，即v垂直于ω与v；又v的指向是使ω、r、v符合右手规则",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=4&rangeStart=91593&rangeEnd=91978",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=4&rangeStart=91593&rangeEnd=91978"
+    },
+    {
+      "bookmarkId": "25916281_12_33140-33168",
+      "chapterUid": 12,
+      "range": "33140-33168",
+      "markText": "如果函数在某一点可微，则在该点处必连续，且在该点处可导.",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=12&rangeStart=33140&rangeEnd=33168",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=12&rangeStart=33140&rangeEnd=33168"
+    },
+    {
+      "bookmarkId": "25916281_12_23663-24156",
+      "chapterUid": 12,
+      "range": "23663-24156",
+      "markText": "方程称为拉普拉斯方程，它代表数学物理方程中的一类很重要的方程，若引入记号（算子），则拉普拉斯方程可写成Δu=0. 上述算子也称为拉普拉斯算子.",
+      "totalCount": 44,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=12&rangeStart=23663&rangeEnd=24156",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=12&rangeStart=23663&rangeEnd=24156"
+    },
+    {
+      "bookmarkId": "25916281_20_62056-62102",
+      "chapterUid": 20,
+      "range": "62056-62102",
+      "markText": "在本题中被积函数、积分曲线的起点及终点均相同，虽然积分曲线（路径）不同，但积分的结果却相同.",
+      "totalCount": 44,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=20&rangeStart=62056&rangeEnd=62102",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=20&rangeStart=62056&rangeEnd=62102"
+    },
+    {
+      "bookmarkId": "25916281_5_7814-8055",
+      "chapterUid": 5,
+      "range": "7814-8055",
+      "markText": "方程Ax+By+Cz+D=0称为平面的一般方程，其中n=（A，B，C）即为该平面的一个法向量.",
+      "totalCount": 40,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=5&rangeStart=7814&rangeEnd=8055",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=5&rangeStart=7814&rangeEnd=8055"
+    },
+    {
+      "bookmarkId": "25916281_4_3562-3637",
+      "chapterUid": 4,
+      "range": "3562-3637",
+      "markText": "在xOy平面上面逆时针依次为Ⅰ、Ⅱ、Ⅲ、Ⅳ卦限，下面依次为Ⅴ、Ⅵ、Ⅶ、Ⅷ卦限，如图5-4所示.",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=4&rangeStart=3562&rangeEnd=3637",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=4&rangeStart=3562&rangeEnd=3637"
+    },
+    {
+      "bookmarkId": "25916281_4_16516-16574",
+      "chapterUid": 4,
+      "range": "16516-16574",
+      "markText": "当一非零向量与其投影轴成锐角时，向量的投影为正；成钝角时，向量的投影为负；成直角时，向量的投影为零（见图5-12）.",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=4&rangeStart=16516&rangeEnd=16574",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=4&rangeStart=16516&rangeEnd=16574"
+    },
+    {
+      "bookmarkId": "25916281_4_107800-107953",
+      "chapterUid": 4,
+      "range": "107800-107953",
+      "markText": "一向量与x轴和y轴的夹角相等，而与z轴的夹角是与x轴的夹角的两倍，求向量的方向角.",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=4&rangeStart=107800&rangeEnd=107953",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=4&rangeStart=107800&rangeEnd=107953"
+    },
+    {
+      "bookmarkId": "25916281_5_589-606",
+      "chapterUid": 5,
+      "range": "589-606",
+      "markText": "平面是空间中最简单而且最重要的曲面",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=5&rangeStart=589&rangeEnd=606",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=5&rangeStart=589&rangeEnd=606"
+    },
+    {
+      "bookmarkId": "25916281_18_8798-8875",
+      "chapterUid": 18,
+      "range": "8798-8875",
+      "markText": "在区域D上的连续函数一定是D上的可积函数.",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=18&rangeStart=8798&rangeEnd=8875",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=18&rangeStart=8798&rangeEnd=8875"
+    },
+    {
+      "bookmarkId": "25916281_11_587-622",
+      "chapterUid": 11,
+      "range": "587-622",
+      "markText": "大量的情况往往是多变量的变化，即一个变量需要依赖于多个因素（多个变量）",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=11&rangeStart=587&rangeEnd=622",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=11&rangeStart=587&rangeEnd=622"
+    },
+    {
+      "bookmarkId": "25916281_11_5436-5556",
+      "chapterUid": 11,
+      "range": "5436-5556",
+      "markText": "对于D中的任意两点，都能用包含在D中的折线连接起来，即折线上的点都在D中",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=25916281&chapterUid=11&rangeStart=5436&rangeEnd=5556",
+      "webLink": "https://weread.qq.com/web/reader/99a32f70718b737999add33?chapterUid=11&rangeStart=5436&rangeEnd=5556"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 13,
+    "chapterOffset": 59827,
+    "progress": 66,
+    "updateTime": 1747922593,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

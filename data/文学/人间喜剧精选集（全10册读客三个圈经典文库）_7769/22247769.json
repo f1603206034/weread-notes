@@ -1,0 +1,3632 @@
+{
+  "meta": {
+    "bookId": "22247769",
+    "title": "人间喜剧精选集（全10册|读客三个圈经典文库）",
+    "author": "[法]巴尔扎克",
+    "translator": "傅雷,罗新璋",
+    "cover": "https://cdn.weread.qq.com/weread/cover/93/YueWen_22247769/t6_YueWen_22247769.jpg",
+    "intro": "一部人性百科全书，写尽你一生可能遇到的所有人！法语翻译界泰斗傅雷历时25年，精选精译15篇，全收录！遗失的一篇《猫球商店》由“傅译传人”罗新璋精译精校。作者巴尔扎克，文学界的拿破仑、法国社会的一面镜子，雨果、普鲁斯特、茨威格、哈代、毛姆、木心等众多文学大家的精神领袖！在人类共同的精神世界，《人间喜剧》用91部小说、2400多个典型形象，融汇人间百态，写尽你一生可能遇到的所有人。这是一部人性百科全书，一座罕见的文学丰碑！",
+    "category": "文学-经典作品",
+    "publisher": "文汇出版社",
+    "publishTime": "2018-04-01 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 875,
+    "newRatingCount": 840,
+    "newRatingDetail": {
+      "good": 743,
+      "fair": 70,
+      "poor": 27,
+      "recent": 10,
+      "deepV": 73,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=22247769",
+    "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00",
+    "lastSync": "2026-05-21T11:59:23Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=1"
+    },
+    {
+      "chapterUid": 418,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 606,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=418",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=418"
+    },
+    {
+      "chapterUid": 419,
+      "chapterIdx": 3,
+      "title": "文前",
+      "level": 1,
+      "wordCount": 221,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=419",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=419"
+    },
+    {
+      "chapterUid": 420,
+      "chapterIdx": 4,
+      "title": "译者",
+      "level": 1,
+      "wordCount": 2634,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=420",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=420"
+    },
+    {
+      "chapterUid": 421,
+      "chapterIdx": 5,
+      "title": "高老头",
+      "level": 1,
+      "wordCount": 27641,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 伏盖公寓",
+          "anchor": "heading3_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=421",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421"
+    },
+    {
+      "chapterUid": 422,
+      "chapterIdx": 6,
+      "title": "02 两处访问",
+      "level": 2,
+      "wordCount": 19765,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=422",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=422"
+    },
+    {
+      "chapterUid": 423,
+      "chapterIdx": 7,
+      "title": "03 初次世面",
+      "level": 2,
+      "wordCount": 31833,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=423",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=423"
+    },
+    {
+      "chapterUid": 424,
+      "chapterIdx": 8,
+      "title": "04 鬼上当",
+      "level": 2,
+      "wordCount": 35189,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=424",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=424"
+    },
+    {
+      "chapterUid": 425,
+      "chapterIdx": 9,
+      "title": "05 两个女儿",
+      "level": 2,
+      "wordCount": 20439,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=425",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=425"
+    },
+    {
+      "chapterUid": 426,
+      "chapterIdx": 10,
+      "title": "06 父亲的死",
+      "level": 2,
+      "wordCount": 14545,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=426",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=426"
+    },
+    {
+      "chapterUid": 427,
+      "chapterIdx": 11,
+      "title": "亚尔培·萨伐龙",
+      "level": 1,
+      "wordCount": 70286,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=427",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=427"
+    },
+    {
+      "chapterUid": 428,
+      "chapterIdx": 12,
+      "title": "欧也妮·葛朗台",
+      "level": 1,
+      "wordCount": 18642,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 中产阶级的面目",
+          "anchor": "heading3_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=428",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=428"
+    },
+    {
+      "chapterUid": 429,
+      "chapterIdx": 13,
+      "title": "02 巴黎的堂兄弟",
+      "level": 2,
+      "wordCount": 10665,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=429",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=429"
+    },
+    {
+      "chapterUid": 430,
+      "chapterIdx": 14,
+      "title": "03 内地的爱情",
+      "level": 2,
+      "wordCount": 20024,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=430",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=430"
+    },
+    {
+      "chapterUid": 431,
+      "chapterIdx": 15,
+      "title": "04 吝啬鬼许的愿·情人起的誓",
+      "level": 2,
+      "wordCount": 25458,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=431",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=431"
+    },
+    {
+      "chapterUid": 432,
+      "chapterIdx": 16,
+      "title": "05 家庭的苦难",
+      "level": 2,
+      "wordCount": 19634,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=432",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=432"
+    },
+    {
+      "chapterUid": 433,
+      "chapterIdx": 17,
+      "title": "06 如此人生",
+      "level": 2,
+      "wordCount": 12023,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=433",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=433"
+    },
+    {
+      "chapterUid": 434,
+      "chapterIdx": 18,
+      "title": "结局",
+      "level": 2,
+      "wordCount": 1534,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=434",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=434"
+    },
+    {
+      "chapterUid": 435,
+      "chapterIdx": 19,
+      "title": "比哀兰德",
+      "level": 1,
+      "wordCount": 4072,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 比哀兰德·洛兰",
+          "anchor": "heading3_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=435",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=435"
+    },
+    {
+      "chapterUid": 436,
+      "chapterIdx": 20,
+      "title": "02 洛兰家的历史",
+      "level": 2,
+      "wordCount": 2475,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=436",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=436"
+    },
+    {
+      "chapterUid": 437,
+      "chapterIdx": 21,
+      "title": "03 洛格龙家的历史",
+      "level": 2,
+      "wordCount": 7296,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=437",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=437"
+    },
+    {
+      "chapterUid": 438,
+      "chapterIdx": 22,
+      "title": "04 退休针线商的病理",
+      "level": 2,
+      "wordCount": 14523,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=438",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=438"
+    },
+    {
+      "chapterUid": 439,
+      "chapterIdx": 23,
+      "title": "05 比哀兰德初见世面",
+      "level": 2,
+      "wordCount": 7273,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=439",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=439"
+    },
+    {
+      "chapterUid": 440,
+      "chapterIdx": 24,
+      "title": "06 穷表妹投靠阔亲戚的故事",
+      "level": 2,
+      "wordCount": 11598,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=440",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=440"
+    },
+    {
+      "chapterUid": 441,
+      "chapterIdx": 25,
+      "title": "07 家庭中的专制",
+      "level": 2,
+      "wordCount": 15971,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=441",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=441"
+    },
+    {
+      "chapterUid": 442,
+      "chapterIdx": 26,
+      "title": "08 比哀兰德和布里谷的爱情",
+      "level": 2,
+      "wordCount": 7540,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=442",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=442"
+    },
+    {
+      "chapterUid": 443,
+      "chapterIdx": 27,
+      "title": "09 家族会议",
+      "level": 2,
+      "wordCount": 10964,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=443",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=443"
+    },
+    {
+      "chapterUid": 444,
+      "chapterIdx": 28,
+      "title": "10 判决",
+      "level": 2,
+      "wordCount": 6371,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=444",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=444"
+    },
+    {
+      "chapterUid": 445,
+      "chapterIdx": 29,
+      "title": "贝姨",
+      "level": 1,
+      "wordCount": 15755,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01",
+          "anchor": "heading2_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=445",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=445"
+    },
+    {
+      "chapterUid": 446,
+      "chapterIdx": 30,
+      "title": "02",
+      "level": 1,
+      "wordCount": 13196,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=446",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=446"
+    },
+    {
+      "chapterUid": 447,
+      "chapterIdx": 31,
+      "title": "03",
+      "level": 1,
+      "wordCount": 12798,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=447",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=447"
+    },
+    {
+      "chapterUid": 448,
+      "chapterIdx": 32,
+      "title": "04",
+      "level": 1,
+      "wordCount": 13089,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=448",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=448"
+    },
+    {
+      "chapterUid": 449,
+      "chapterIdx": 33,
+      "title": "05",
+      "level": 1,
+      "wordCount": 15393,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=449",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=449"
+    },
+    {
+      "chapterUid": 450,
+      "chapterIdx": 34,
+      "title": "06",
+      "level": 1,
+      "wordCount": 13174,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=450",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=450"
+    },
+    {
+      "chapterUid": 451,
+      "chapterIdx": 35,
+      "title": "07",
+      "level": 1,
+      "wordCount": 14923,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=451",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=451"
+    },
+    {
+      "chapterUid": 452,
+      "chapterIdx": 36,
+      "title": "08",
+      "level": 1,
+      "wordCount": 17678,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=452",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=452"
+    },
+    {
+      "chapterUid": 453,
+      "chapterIdx": 37,
+      "title": "09",
+      "level": 1,
+      "wordCount": 16148,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=453",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=453"
+    },
+    {
+      "chapterUid": 454,
+      "chapterIdx": 38,
+      "title": "10",
+      "level": 1,
+      "wordCount": 19243,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=454",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=454"
+    },
+    {
+      "chapterUid": 455,
+      "chapterIdx": 39,
+      "title": "11",
+      "level": 1,
+      "wordCount": 11468,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=455",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=455"
+    },
+    {
+      "chapterUid": 456,
+      "chapterIdx": 40,
+      "title": "12",
+      "level": 1,
+      "wordCount": 16317,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=456",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=456"
+    },
+    {
+      "chapterUid": 457,
+      "chapterIdx": 41,
+      "title": "13",
+      "level": 1,
+      "wordCount": 16559,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=457",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=457"
+    },
+    {
+      "chapterUid": 458,
+      "chapterIdx": 42,
+      "title": "14",
+      "level": 1,
+      "wordCount": 18543,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=458",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=458"
+    },
+    {
+      "chapterUid": 459,
+      "chapterIdx": 43,
+      "title": "15",
+      "level": 1,
+      "wordCount": 20586,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=459",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=459"
+    },
+    {
+      "chapterUid": 460,
+      "chapterIdx": 44,
+      "title": "16",
+      "level": 1,
+      "wordCount": 16628,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=460",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=460"
+    },
+    {
+      "chapterUid": 461,
+      "chapterIdx": 45,
+      "title": "邦斯舅舅",
+      "level": 1,
+      "wordCount": 1737,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 一个帝政时代的老古董",
+          "anchor": "heading2_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=461",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=461"
+    },
+    {
+      "chapterUid": 462,
+      "chapterIdx": 46,
+      "title": "02 一套少见的服装",
+      "level": 1,
+      "wordCount": 947,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=462",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=462"
+    },
+    {
+      "chapterUid": 463,
+      "chapterIdx": 47,
+      "title": "03 一个得罗马奖的人的下场",
+      "level": 1,
+      "wordCount": 3713,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=463",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=463"
+    },
+    {
+      "chapterUid": 464,
+      "chapterIdx": 48,
+      "title": "04 好事有时候是白做的",
+      "level": 1,
+      "wordCount": 2597,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=464",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=464"
+    },
+    {
+      "chapterUid": 465,
+      "chapterIdx": 49,
+      "title": "05 一对榛子钳",
+      "level": 1,
+      "wordCount": 2874,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=465",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=465"
+    },
+    {
+      "chapterUid": 466,
+      "chapterIdx": 50,
+      "title": "06 一个到处看得见的被剥削者",
+      "level": 1,
+      "wordCount": 3359,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=466",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=466"
+    },
+    {
+      "chapterUid": 467,
+      "chapterIdx": 51,
+      "title": "07 收藏家的得意",
+      "level": 1,
+      "wordCount": 1223,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=467",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=467"
+    },
+    {
+      "chapterUid": 468,
+      "chapterIdx": 52,
+      "title": "08 倒霉的舅舅不受欢迎",
+      "level": 1,
+      "wordCount": 1947,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=468",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=468"
+    },
+    {
+      "chapterUid": 469,
+      "chapterIdx": 53,
+      "title": "09 信手拈来的宝物",
+      "level": 1,
+      "wordCount": 3326,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=469",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=469"
+    },
+    {
+      "chapterUid": 470,
+      "chapterIdx": 54,
+      "title": "10 一个待嫁的女儿",
+      "level": 1,
+      "wordCount": 1753,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=470",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=470"
+    },
+    {
+      "chapterUid": 471,
+      "chapterIdx": 55,
+      "title": "11 食客所受的百般羞辱，这不过是一例",
+      "level": 1,
+      "wordCount": 1081,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=471",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=471"
+    },
+    {
+      "chapterUid": 472,
+      "chapterIdx": 56,
+      "title": "12 男女门房的标本",
+      "level": 1,
+      "wordCount": 2008,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=472",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=472"
+    },
+    {
+      "chapterUid": 473,
+      "chapterIdx": 57,
+      "title": "13 大为惊奇",
+      "level": 1,
+      "wordCount": 1161,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=473",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=473"
+    },
+    {
+      "chapterUid": 474,
+      "chapterIdx": 58,
+      "title": "14 两只鸽子的寓言成了事实",
+      "level": 1,
+      "wordCount": 2977,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=474",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=474"
+    },
+    {
+      "chapterUid": 475,
+      "chapterIdx": 59,
+      "title": "15 一心想在遗嘱上有个名字",
+      "level": 1,
+      "wordCount": 1589,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=475",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=475"
+    },
+    {
+      "chapterUid": 476,
+      "chapterIdx": 60,
+      "title": "16 德国人中的一个典型",
+      "level": 1,
+      "wordCount": 1383,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=476",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=476"
+    },
+    {
+      "chapterUid": 477,
+      "chapterIdx": 61,
+      "title": "17 生在法兰克福的浪子会一变而为百万富翁的银行家",
+      "level": 1,
+      "wordCount": 2997,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=477",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=477"
+    },
+    {
+      "chapterUid": 478,
+      "chapterIdx": 62,
+      "title": "18 发财的经过",
+      "level": 1,
+      "wordCount": 912,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=478",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=478"
+    },
+    {
+      "chapterUid": 479,
+      "chapterIdx": 63,
+      "title": "19 从扇子说起",
+      "level": 1,
+      "wordCount": 2301,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=479",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=479"
+    },
+    {
+      "chapterUid": 480,
+      "chapterIdx": 64,
+      "title": "20 好日子回来了",
+      "level": 1,
+      "wordCount": 1870,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=480",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=480"
+    },
+    {
+      "chapterUid": 481,
+      "chapterIdx": 65,
+      "title": "21 一个妻子要多少开支",
+      "level": 1,
+      "wordCount": 2272,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=481",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=481"
+    },
+    {
+      "chapterUid": 482,
+      "chapterIdx": 66,
+      "title": "22 邦斯送了庭长太太一件比篷巴杜夫人的扇子更名贵的艺术品",
+      "level": 1,
+      "wordCount": 2496,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=482",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=482"
+    },
+    {
+      "chapterUid": 483,
+      "chapterIdx": 67,
+      "title": "23 一个德国念头",
+      "level": 1,
+      "wordCount": 2144,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=483",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=483"
+    },
+    {
+      "chapterUid": 484,
+      "chapterIdx": 68,
+      "title": "24 空中楼阁",
+      "level": 1,
+      "wordCount": 4277,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=484",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=484"
+    },
+    {
+      "chapterUid": 485,
+      "chapterIdx": 69,
+      "title": "25 邦斯给结石压倒了",
+      "level": 1,
+      "wordCount": 2121,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=485",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=485"
+    },
+    {
+      "chapterUid": 486,
+      "chapterIdx": 70,
+      "title": "26 最后的打击",
+      "level": 1,
+      "wordCount": 2418,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=486",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=486"
+    },
+    {
+      "chapterUid": 487,
+      "chapterIdx": 71,
+      "title": "27 从忧郁变为黄疸病",
+      "level": 1,
+      "wordCount": 1280,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=487",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=487"
+    },
+    {
+      "chapterUid": 488,
+      "chapterIdx": 72,
+      "title": "28 黄金梦",
+      "level": 1,
+      "wordCount": 1555,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=488",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=488"
+    },
+    {
+      "chapterUid": 489,
+      "chapterIdx": 73,
+      "title": "29 古董商的肖像",
+      "level": 1,
+      "wordCount": 2575,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=489",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=489"
+    },
+    {
+      "chapterUid": 490,
+      "chapterIdx": 74,
+      "title": "30 西卜女人的第一次攻势",
+      "level": 1,
+      "wordCount": 1933,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=490",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=490"
+    },
+    {
+      "chapterUid": 491,
+      "chapterIdx": 75,
+      "title": "31 贞节的表现",
+      "level": 1,
+      "wordCount": 1556,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=491",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=491"
+    },
+    {
+      "chapterUid": 492,
+      "chapterIdx": 76,
+      "title": "32 论占卜星相之学",
+      "level": 1,
+      "wordCount": 3831,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=492",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=492"
+    },
+    {
+      "chapterUid": 493,
+      "chapterIdx": 77,
+      "title": "33 大课",
+      "level": 1,
+      "wordCount": 1234,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=493",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=493"
+    },
+    {
+      "chapterUid": 494,
+      "chapterIdx": 78,
+      "title": "34 一个霍夫曼传奇中的人物",
+      "level": 1,
+      "wordCount": 2997,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=494",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=494"
+    },
+    {
+      "chapterUid": 495,
+      "chapterIdx": 79,
+      "title": "35 懂画的人并不都在美术院",
+      "level": 1,
+      "wordCount": 2990,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=495",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=495"
+    },
+    {
+      "chapterUid": 496,
+      "chapterIdx": 80,
+      "title": "36 看门老婆子的唠叨与手段",
+      "level": 1,
+      "wordCount": 2638,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=496",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=496"
+    },
+    {
+      "chapterUid": 497,
+      "chapterIdx": 81,
+      "title": "37 一条美丽的手臂能有多少效果",
+      "level": 1,
+      "wordCount": 2169,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=497",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=497"
+    },
+    {
+      "chapterUid": 498,
+      "chapterIdx": 82,
+      "title": "38 初步的暗示",
+      "level": 1,
+      "wordCount": 2007,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=498",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=498"
+    },
+    {
+      "chapterUid": 499,
+      "chapterIdx": 83,
+      "title": "39 狼狈为奸",
+      "level": 1,
+      "wordCount": 2209,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=499",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=499"
+    },
+    {
+      "chapterUid": 500,
+      "chapterIdx": 84,
+      "title": "40 狡猾的攻击",
+      "level": 1,
+      "wordCount": 1795,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=500",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=500"
+    },
+    {
+      "chapterUid": 501,
+      "chapterIdx": 85,
+      "title": "41 关系更密切了",
+      "level": 1,
+      "wordCount": 1717,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=501",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=501"
+    },
+    {
+      "chapterUid": 502,
+      "chapterIdx": 86,
+      "title": "42 巴黎所有初出道的人的历史",
+      "level": 1,
+      "wordCount": 3571,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=502",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=502"
+    },
+    {
+      "chapterUid": 503,
+      "chapterIdx": 87,
+      "title": "43 只要耐心等待，自会水到渠成",
+      "level": 1,
+      "wordCount": 2756,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=503",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=503"
+    },
+    {
+      "chapterUid": 504,
+      "chapterIdx": 88,
+      "title": "44 一个吃法律饭的",
+      "level": 1,
+      "wordCount": 1605,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=504",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=504"
+    },
+    {
+      "chapterUid": 505,
+      "chapterIdx": 89,
+      "title": "45 不大体面的屋子",
+      "level": 1,
+      "wordCount": 1964,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=505",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=505"
+    },
+    {
+      "chapterUid": 506,
+      "chapterIdx": 90,
+      "title": "46 律师的谈话是有代价的",
+      "level": 1,
+      "wordCount": 2228,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=506",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=506"
+    },
+    {
+      "chapterUid": 507,
+      "chapterIdx": 91,
+      "title": "47 弗莱齐埃的用意",
+      "level": 1,
+      "wordCount": 2939,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=507",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=507"
+    },
+    {
+      "chapterUid": 508,
+      "chapterIdx": 92,
+      "title": "48 西卜女人中了自己的计",
+      "level": 1,
+      "wordCount": 1942,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=508",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=508"
+    },
+    {
+      "chapterUid": 509,
+      "chapterIdx": 93,
+      "title": "49 西卜女人上戏院去",
+      "level": 1,
+      "wordCount": 1822,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=509",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=509"
+    },
+    {
+      "chapterUid": 510,
+      "chapterIdx": 94,
+      "title": "50 生意兴隆的戏院",
+      "level": 1,
+      "wordCount": 3273,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=510",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=510"
+    },
+    {
+      "chapterUid": 511,
+      "chapterIdx": 95,
+      "title": "51 空中楼阁",
+      "level": 1,
+      "wordCount": 2607,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=511",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=511"
+    },
+    {
+      "chapterUid": 512,
+      "chapterIdx": 96,
+      "title": "52 容光焕发的弗莱齐埃",
+      "level": 1,
+      "wordCount": 2827,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=512",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=512"
+    },
+    {
+      "chapterUid": 513,
+      "chapterIdx": 97,
+      "title": "53 买卖的条件",
+      "level": 1,
+      "wordCount": 3449,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=513",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=513"
+    },
+    {
+      "chapterUid": 514,
+      "chapterIdx": 98,
+      "title": "54 给老鳏夫的警告",
+      "level": 1,
+      "wordCount": 2951,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=514",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=514"
+    },
+    {
+      "chapterUid": 515,
+      "chapterIdx": 99,
+      "title": "55 西卜女人叫屈",
+      "level": 1,
+      "wordCount": 2881,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=515",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=515"
+    },
+    {
+      "chapterUid": 516,
+      "chapterIdx": 100,
+      "title": "56 弱肉强食",
+      "level": 1,
+      "wordCount": 3063,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=516",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=516"
+    },
+    {
+      "chapterUid": 517,
+      "chapterIdx": 101,
+      "title": "57 许模克至诚格天",
+      "level": 1,
+      "wordCount": 3890,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=517",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=517"
+    },
+    {
+      "chapterUid": 518,
+      "chapterIdx": 102,
+      "title": "58 不可恕的罪恶",
+      "level": 1,
+      "wordCount": 3743,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=518",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=518"
+    },
+    {
+      "chapterUid": 519,
+      "chapterIdx": 103,
+      "title": "59 遗嘱人的妙计",
+      "level": 1,
+      "wordCount": 2796,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=519",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=519"
+    },
+    {
+      "chapterUid": 520,
+      "chapterIdx": 104,
+      "title": "60 假遗嘱",
+      "level": 1,
+      "wordCount": 3222,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=520",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=520"
+    },
+    {
+      "chapterUid": 521,
+      "chapterIdx": 105,
+      "title": "61 大失所望",
+      "level": 1,
+      "wordCount": 2651,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=521",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=521"
+    },
+    {
+      "chapterUid": 522,
+      "chapterIdx": 106,
+      "title": "62 初次失风",
+      "level": 1,
+      "wordCount": 1865,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=522",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=522"
+    },
+    {
+      "chapterUid": 523,
+      "chapterIdx": 107,
+      "title": "63 荒唐的提议",
+      "level": 1,
+      "wordCount": 2245,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=523",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=523"
+    },
+    {
+      "chapterUid": 524,
+      "chapterIdx": 108,
+      "title": "64 梭伐女人再度出现",
+      "level": 1,
+      "wordCount": 2057,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=524",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=524"
+    },
+    {
+      "chapterUid": 525,
+      "chapterIdx": 109,
+      "title": "65 他这样的死了",
+      "level": 1,
+      "wordCount": 2140,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=525",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=525"
+    },
+    {
+      "chapterUid": 526,
+      "chapterIdx": 110,
+      "title": "66 看护女人趁火打劫",
+      "level": 1,
+      "wordCount": 2085,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=526",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=526"
+    },
+    {
+      "chapterUid": 527,
+      "chapterIdx": 111,
+      "title": "67 只有死人不受骚扰",
+      "level": 1,
+      "wordCount": 1764,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=527",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=527"
+    },
+    {
+      "chapterUid": 528,
+      "chapterIdx": 112,
+      "title": "68 巴黎的丧事是这样办的",
+      "level": 1,
+      "wordCount": 2489,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=528",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=528"
+    },
+    {
+      "chapterUid": 529,
+      "chapterIdx": 113,
+      "title": "69 老鳏夫的葬礼",
+      "level": 1,
+      "wordCount": 1475,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=529",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=529"
+    },
+    {
+      "chapterUid": 530,
+      "chapterIdx": 114,
+      "title": "70 巴黎有多少人靠死人吃饭",
+      "level": 1,
+      "wordCount": 1502,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=530",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=530"
+    },
+    {
+      "chapterUid": 531,
+      "chapterIdx": 115,
+      "title": "71 继承开始，先得封门",
+      "level": 1,
+      "wordCount": 2659,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=531",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=531"
+    },
+    {
+      "chapterUid": 532,
+      "chapterIdx": 116,
+      "title": "72 干预人家的官司是危险的",
+      "level": 1,
+      "wordCount": 1564,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=532",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=532"
+    },
+    {
+      "chapterUid": 533,
+      "chapterIdx": 117,
+      "title": "73 三个穿黑衣服的人",
+      "level": 1,
+      "wordCount": 1843,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=533",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=533"
+    },
+    {
+      "chapterUid": 534,
+      "chapterIdx": 118,
+      "title": "74 弗莱齐埃的成绩",
+      "level": 1,
+      "wordCount": 2380,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=534",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=534"
+    },
+    {
+      "chapterUid": 535,
+      "chapterIdx": 119,
+      "title": "75 一个不大舒服的家",
+      "level": 1,
+      "wordCount": 1950,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=535",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=535"
+    },
+    {
+      "chapterUid": 536,
+      "chapterIdx": 120,
+      "title": "76 高狄沙的慷慨",
+      "level": 1,
+      "wordCount": 1497,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=536",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=536"
+    },
+    {
+      "chapterUid": 537,
+      "chapterIdx": 121,
+      "title": "77 夺回遗产的办法",
+      "level": 1,
+      "wordCount": 2539,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=537",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=537"
+    },
+    {
+      "chapterUid": 538,
+      "chapterIdx": 122,
+      "title": "结局",
+      "level": 1,
+      "wordCount": 2849,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=538",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=538"
+    },
+    {
+      "chapterUid": 539,
+      "chapterIdx": 123,
+      "title": "猫球商店",
+      "level": 1,
+      "wordCount": 35027,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "猫球商店",
+          "anchor": "heading2_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=539",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=539"
+    },
+    {
+      "chapterUid": 540,
+      "chapterIdx": 124,
+      "title": "夏倍上校",
+      "level": 1,
+      "wordCount": 14959,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 诉讼代理人的事务所",
+          "anchor": "heading3_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=540",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=540"
+    },
+    {
+      "chapterUid": 541,
+      "chapterIdx": 125,
+      "title": "02 谈判",
+      "level": 2,
+      "wordCount": 20738,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=541",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=541"
+    },
+    {
+      "chapterUid": 542,
+      "chapterIdx": 126,
+      "title": "03 养老院",
+      "level": 2,
+      "wordCount": 3596,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=542",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=542"
+    },
+    {
+      "chapterUid": 543,
+      "chapterIdx": 127,
+      "title": "奥诺丽纳",
+      "level": 1,
+      "wordCount": 684,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 法国人怎样的不喜欢旅行",
+          "anchor": "heading3_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=543",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=543"
+    },
+    {
+      "chapterUid": 544,
+      "chapterIdx": 128,
+      "title": "02 一幅兼有意大利与法国风味的画",
+      "level": 2,
+      "wordCount": 1150,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=544",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=544"
+    },
+    {
+      "chapterUid": 545,
+      "chapterIdx": 129,
+      "title": "03 一个总领事的谜",
+      "level": 2,
+      "wordCount": 1317,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=545",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=545"
+    },
+    {
+      "chapterUid": 546,
+      "chapterIdx": 130,
+      "title": "04 伯爵夫人",
+      "level": 2,
+      "wordCount": 799,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=546",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=546"
+    },
+    {
+      "chapterUid": 547,
+      "chapterIdx": 131,
+      "title": "05 社会的解剖",
+      "level": 2,
+      "wordCount": 395,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=547",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=547"
+    },
+    {
+      "chapterUid": 548,
+      "chapterIdx": 132,
+      "title": "06 神甫的主意",
+      "level": 2,
+      "wordCount": 1030,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=548",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=548"
+    },
+    {
+      "chapterUid": 549,
+      "chapterIdx": 133,
+      "title": "07 一个青年人的画像",
+      "level": 2,
+      "wordCount": 1328,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=549",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=549"
+    },
+    {
+      "chapterUid": 550,
+      "chapterIdx": 134,
+      "title": "08 一所老屋子",
+      "level": 2,
+      "wordCount": 813,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=550",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=550"
+    },
+    {
+      "chapterUid": 551,
+      "chapterIdx": 135,
+      "title": "09 一幅肖像",
+      "level": 2,
+      "wordCount": 991,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=551",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=551"
+    },
+    {
+      "chapterUid": 552,
+      "chapterIdx": 136,
+      "title": "10 年轻的老人",
+      "level": 2,
+      "wordCount": 1106,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=552",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=552"
+    },
+    {
+      "chapterUid": 553,
+      "chapterIdx": 137,
+      "title": "11 无人知道的内心的斗争",
+      "level": 2,
+      "wordCount": 2328,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=553",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=553"
+    },
+    {
+      "chapterUid": 554,
+      "chapterIdx": 138,
+      "title": "12 坚固的友谊",
+      "level": 2,
+      "wordCount": 1261,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=554",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=554"
+    },
+    {
+      "chapterUid": 555,
+      "chapterIdx": 139,
+      "title": "13 幕启以前的讯号",
+      "level": 2,
+      "wordCount": 820,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=555",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=555"
+    },
+    {
+      "chapterUid": 556,
+      "chapterIdx": 140,
+      "title": "14 枢密会议中的一场辩论",
+      "level": 2,
+      "wordCount": 1910,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=556",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=556"
+    },
+    {
+      "chapterUid": 557,
+      "chapterIdx": 141,
+      "title": "15 泄露秘密",
+      "level": 2,
+      "wordCount": 969,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=557",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=557"
+    },
+    {
+      "chapterUid": 558,
+      "chapterIdx": 142,
+      "title": "16 一位国务部长的自白",
+      "level": 2,
+      "wordCount": 601,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=558",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=558"
+    },
+    {
+      "chapterUid": 559,
+      "chapterIdx": 143,
+      "title": "17 门当户对而又情投意合的亲事",
+      "level": 2,
+      "wordCount": 1215,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=559",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=559"
+    },
+    {
+      "chapterUid": 560,
+      "chapterIdx": 144,
+      "title": "18 一股可怕而正当的痴情",
+      "level": 2,
+      "wordCount": 2193,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=560",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=560"
+    },
+    {
+      "chapterUid": 561,
+      "chapterIdx": 145,
+      "title": "19 一个异想天开的丈夫",
+      "level": 2,
+      "wordCount": 1420,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=561",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=561"
+    },
+    {
+      "chapterUid": 562,
+      "chapterIdx": 146,
+      "title": "20 尝试失败了",
+      "level": 2,
+      "wordCount": 1191,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=562",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=562"
+    },
+    {
+      "chapterUid": 563,
+      "chapterIdx": 147,
+      "title": "21 一个古怪的提议",
+      "level": 2,
+      "wordCount": 1856,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=563",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=563"
+    },
+    {
+      "chapterUid": 564,
+      "chapterIdx": 148,
+      "title": "22 开始行动",
+      "level": 2,
+      "wordCount": 1542,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=564",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=564"
+    },
+    {
+      "chapterUid": 565,
+      "chapterIdx": 149,
+      "title": "23 一幅速写",
+      "level": 2,
+      "wordCount": 1154,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=565",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=565"
+    },
+    {
+      "chapterUid": 566,
+      "chapterIdx": 150,
+      "title": "24 第一次的会面是怎么结束的",
+      "level": 2,
+      "wordCount": 1305,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=566",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=566"
+    },
+    {
+      "chapterUid": 567,
+      "chapterIdx": 151,
+      "title": "25 奥诺丽纳的樊笼",
+      "level": 2,
+      "wordCount": 457,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=567",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=567"
+    },
+    {
+      "chapterUid": 568,
+      "chapterIdx": 152,
+      "title": "26 论女性的工作",
+      "level": 2,
+      "wordCount": 1692,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=568",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=568"
+    },
+    {
+      "chapterUid": 569,
+      "chapterIdx": 153,
+      "title": "27 奥诺丽纳的一段自白",
+      "level": 2,
+      "wordCount": 1363,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=569",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=569"
+    },
+    {
+      "chapterUid": 570,
+      "chapterIdx": 154,
+      "title": "28 一语伤人",
+      "level": 2,
+      "wordCount": 1113,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=570",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=570"
+    },
+    {
+      "chapterUid": 571,
+      "chapterIdx": 155,
+      "title": "29 挑战",
+      "level": 2,
+      "wordCount": 1535,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=571",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=571"
+    },
+    {
+      "chapterUid": 572,
+      "chapterIdx": 156,
+      "title": "30 揭晓",
+      "level": 2,
+      "wordCount": 3147,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=572",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=572"
+    },
+    {
+      "chapterUid": 573,
+      "chapterIdx": 157,
+      "title": "31 一封信",
+      "level": 2,
+      "wordCount": 3362,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=573",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=573"
+    },
+    {
+      "chapterUid": 574,
+      "chapterIdx": 158,
+      "title": "32 青年人的感想与已婚的人的感想",
+      "level": 2,
+      "wordCount": 1151,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=574",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=574"
+    },
+    {
+      "chapterUid": 575,
+      "chapterIdx": 159,
+      "title": "33 教会的告诫",
+      "level": 2,
+      "wordCount": 1162,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=575",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=575"
+    },
+    {
+      "chapterUid": 576,
+      "chapterIdx": 160,
+      "title": "34 复信",
+      "level": 2,
+      "wordCount": 1594,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=576",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=576"
+    },
+    {
+      "chapterUid": 577,
+      "chapterIdx": 161,
+      "title": "35 可怜的莫利斯",
+      "level": 2,
+      "wordCount": 592,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=577",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=577"
+    },
+    {
+      "chapterUid": 578,
+      "chapterIdx": 162,
+      "title": "36 徒有其名的团圆",
+      "level": 2,
+      "wordCount": 2009,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=578",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=578"
+    },
+    {
+      "chapterUid": 579,
+      "chapterIdx": 163,
+      "title": "37 奥诺丽纳最后的叹息",
+      "level": 2,
+      "wordCount": 1650,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=579",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=579"
+    },
+    {
+      "chapterUid": 580,
+      "chapterIdx": 164,
+      "title": "38 两个结局",
+      "level": 2,
+      "wordCount": 623,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=580",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=580"
+    },
+    {
+      "chapterUid": 581,
+      "chapterIdx": 165,
+      "title": "39 一个问题",
+      "level": 2,
+      "wordCount": 354,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=581",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=581"
+    },
+    {
+      "chapterUid": 582,
+      "chapterIdx": 166,
+      "title": "40 最后的一句话",
+      "level": 2,
+      "wordCount": 471,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=582",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=582"
+    },
+    {
+      "chapterUid": 583,
+      "chapterIdx": 167,
+      "title": "禁治产",
+      "level": 1,
+      "wordCount": 4122,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 两个朋友",
+          "anchor": "heading3_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=583",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=583"
+    },
+    {
+      "chapterUid": 584,
+      "chapterIdx": 168,
+      "title": "02 大家判断错误的一个法官",
+      "level": 2,
+      "wordCount": 10025,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=584",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=584"
+    },
+    {
+      "chapterUid": 585,
+      "chapterIdx": 169,
+      "title": "03 状子",
+      "level": 2,
+      "wordCount": 4394,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=585",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=585"
+    },
+    {
+      "chapterUid": 586,
+      "chapterIdx": 170,
+      "title": "04 一位时髦太太与包比诺法官的谈话",
+      "level": 2,
+      "wordCount": 13063,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=586",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=586"
+    },
+    {
+      "chapterUid": 587,
+      "chapterIdx": 171,
+      "title": "05 疯子",
+      "level": 2,
+      "wordCount": 5659,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=587",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=587"
+    },
+    {
+      "chapterUid": 588,
+      "chapterIdx": 172,
+      "title": "06 讯问",
+      "level": 2,
+      "wordCount": 7881,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=588",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=588"
+    },
+    {
+      "chapterUid": 589,
+      "chapterIdx": 173,
+      "title": "于絮尔·弥罗埃",
+      "level": 1,
+      "wordCount": 7832,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 惊慌的承继人",
+          "anchor": "heading3_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=589",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=589"
+    },
+    {
+      "chapterUid": 590,
+      "chapterIdx": 174,
+      "title": "02 有遗产的叔父",
+      "level": 2,
+      "wordCount": 6950,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=590",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=590"
+    },
+    {
+      "chapterUid": 591,
+      "chapterIdx": 175,
+      "title": "03 医生的几位朋友",
+      "level": 2,
+      "wordCount": 7218,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=591",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=591"
+    },
+    {
+      "chapterUid": 592,
+      "chapterIdx": 176,
+      "title": "04 才莉",
+      "level": 2,
+      "wordCount": 6235,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=592",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=592"
+    },
+    {
+      "chapterUid": 593,
+      "chapterIdx": 177,
+      "title": "05 于絮尔",
+      "level": 2,
+      "wordCount": 6160,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=593",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=593"
+    },
+    {
+      "chapterUid": 594,
+      "chapterIdx": 178,
+      "title": "06 催眠术概要",
+      "level": 2,
+      "wordCount": 7218,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=594",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=594"
+    },
+    {
+      "chapterUid": 595,
+      "chapterIdx": 179,
+      "title": "07 信了这项，也就信了那项",
+      "level": 2,
+      "wordCount": 5858,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=595",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=595"
+    },
+    {
+      "chapterUid": 596,
+      "chapterIdx": 180,
+      "title": "08 这边商量，那边也商量",
+      "level": 2,
+      "wordCount": 7432,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=596",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=596"
+    },
+    {
+      "chapterUid": 597,
+      "chapterIdx": 181,
+      "title": "09 初次泄露",
+      "level": 2,
+      "wordCount": 4640,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=597",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=597"
+    },
+    {
+      "chapterUid": 598,
+      "chapterIdx": 182,
+      "title": "10 包当丢埃母子",
+      "level": 2,
+      "wordCount": 6421,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=598",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=598"
+    },
+    {
+      "chapterUid": 599,
+      "chapterIdx": 183,
+      "title": "11 萨维尼昂得救了",
+      "level": 2,
+      "wordCount": 8465,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=599",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=599"
+    },
+    {
+      "chapterUid": 600,
+      "chapterIdx": 184,
+      "title": "12 情人之间的障碍",
+      "level": 2,
+      "wordCount": 5673,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=600",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=600"
+    },
+    {
+      "chapterUid": 601,
+      "chapterIdx": 185,
+      "title": "13 两心相许",
+      "level": 2,
+      "wordCount": 5586,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=601",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=601"
+    },
+    {
+      "chapterUid": 602,
+      "chapterIdx": 186,
+      "title": "14 于絮尔又做了孤儿",
+      "level": 2,
+      "wordCount": 8290,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=602",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=602"
+    },
+    {
+      "chapterUid": 603,
+      "chapterIdx": 187,
+      "title": "15 医生的遗嘱",
+      "level": 2,
+      "wordCount": 4394,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=603",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=603"
+    },
+    {
+      "chapterUid": 604,
+      "chapterIdx": 188,
+      "title": "16 两个敌人",
+      "level": 2,
+      "wordCount": 7211,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=604",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=604"
+    },
+    {
+      "chapterUid": 605,
+      "chapterIdx": 189,
+      "title": "17 内地人的恶毒",
+      "level": 2,
+      "wordCount": 10445,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=605",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=605"
+    },
+    {
+      "chapterUid": 606,
+      "chapterIdx": 190,
+      "title": "18 两方面的报复",
+      "level": 2,
+      "wordCount": 5910,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=606",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=606"
+    },
+    {
+      "chapterUid": 607,
+      "chapterIdx": 191,
+      "title": "19 托梦",
+      "level": 2,
+      "wordCount": 8516,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=607",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=607"
+    },
+    {
+      "chapterUid": 608,
+      "chapterIdx": 192,
+      "title": "20 决斗",
+      "level": 2,
+      "wordCount": 4212,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=608",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=608"
+    },
+    {
+      "chapterUid": 609,
+      "chapterIdx": 193,
+      "title": "21 最容易偷的东西原来是最难偷的",
+      "level": 2,
+      "wordCount": 5755,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=609",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=609"
+    },
+    {
+      "chapterUid": 610,
+      "chapterIdx": 194,
+      "title": "都尔的本堂神甫",
+      "level": 1,
+      "wordCount": 40606,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=22247769&chapterUid=610",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=610"
+    },
+    {
+      "chapterUid": 611,
+      "chapterIdx": 195,
+      "title": "赛查·皮罗多盛衰记",
+      "level": 1,
+      "wordCount": 92908,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一部 赛查登峰造极",
+          "anchor": "heading2_1",
+          "level": 2
+        },
+        {
+          "title": "01 夫妇之间的一场争论",
+          "anchor": "heading3_2",
+          "level": 3
+        },
+        {
+          "title": "02 赛查·皮罗多的出身",
+          "anchor": "heading3_3",
+          "level": 3
+        },
+        {
+          "title": "03 苦难的萌芽",
+          "anchor": "heading3_4",
+          "level": 3
+        },
+        {
+          "title": "04 铺张浪费",
+          "anchor": "heading3_5",
+          "level": 3
+        },
+        {
+          "title": "05 一个真正的哲人，一个伟大的化学家",
+          "anchor": "heading3_6",
+          "level": 3
+        },
+        {
+          "title": "06 两个明星",
+          "anchor": "heading3_7",
+          "level": 3
+        },
+        {
+          "title": "07 跳舞会",
+          "anchor": "heading3_8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=611",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=611"
+    },
+    {
+      "chapterUid": 612,
+      "chapterIdx": 196,
+      "title": "第二部 赛查与苦难搏斗",
+      "level": 1,
+      "wordCount": 57730,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "08 几道闪电",
+          "anchor": "heading3_1",
+          "level": 2
+        },
+        {
+          "title": "09 一声霹雳",
+          "anchor": "heading3_2",
+          "level": 2
+        },
+        {
+          "title": "10 高级银行界",
+          "anchor": "heading3_3",
+          "level": 2
+        },
+        {
+          "title": "11 一个朋友",
+          "anchor": "heading3_4",
+          "level": 2
+        },
+        {
+          "title": "12 破产前夜",
+          "anchor": "heading3_5",
+          "level": 2
+        },
+        {
+          "title": "13 交出清账",
+          "anchor": "heading3_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=612",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=612"
+    },
+    {
+      "chapterUid": 613,
+      "chapterIdx": 197,
+      "title": "第三部 赛查的胜利",
+      "level": 1,
+      "wordCount": 26478,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14 破产概况",
+          "anchor": "heading3_1",
+          "level": 2
+        },
+        {
+          "title": "15 最精彩的表现",
+          "anchor": "heading3_2",
+          "level": 2
+        },
+        {
+          "title": "16 在天上",
+          "anchor": "heading3_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=613",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=613"
+    },
+    {
+      "chapterUid": 614,
+      "chapterIdx": 198,
+      "title": "第一部 两兄弟",
+      "level": 1,
+      "wordCount": 54543,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 台戈安家和罗日家",
+          "anchor": "heading3_1",
+          "level": 2
+        },
+        {
+          "title": "02 勃里杜家",
+          "anchor": "heading3_2",
+          "level": 2
+        },
+        {
+          "title": "03 两个倒霉的寡妇",
+          "anchor": "heading3_3",
+          "level": 2
+        },
+        {
+          "title": "04 志趣",
+          "anchor": "heading3_4",
+          "level": 2
+        },
+        {
+          "title": "05 家庭中的大人物",
+          "anchor": "heading3_5",
+          "level": 2
+        },
+        {
+          "title": "06 玛丽埃德",
+          "anchor": "heading3_6",
+          "level": 2
+        },
+        {
+          "title": "07 腓列普顺手牵羊",
+          "anchor": "heading3_7",
+          "level": 2
+        },
+        {
+          "title": "08 为娘的心怎么冷下来的",
+          "anchor": "heading3_8",
+          "level": 2
+        },
+        {
+          "title": "09 腓列普的最后几手",
+          "anchor": "heading3_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=614",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=614"
+    },
+    {
+      "chapterUid": 615,
+      "chapterIdx": 199,
+      "title": "第二部 一个内地单身汉的生活",
+      "level": 1,
+      "wordCount": 77336,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 伊苏屯",
+          "anchor": "heading3_1",
+          "level": 2
+        },
+        {
+          "title": "02 逍遥骑士",
+          "anchor": "heading3_2",
+          "level": 2
+        },
+        {
+          "title": "03 高涅德酒店",
+          "anchor": "heading3_3",
+          "level": 2
+        },
+        {
+          "title": "04 搅水女人",
+          "anchor": "heading3_4",
+          "level": 2
+        },
+        {
+          "title": "05 丑恶而平凡的故事",
+          "anchor": "heading3_5",
+          "level": 2
+        },
+        {
+          "title": "06 法里沃的大车",
+          "anchor": "heading3_6",
+          "level": 2
+        },
+        {
+          "title": "07 五个奥勋",
+          "anchor": "heading3_7",
+          "level": 2
+        },
+        {
+          "title": "08 马基雅弗利式的玛克桑斯",
+          "anchor": "heading3_8",
+          "level": 2
+        },
+        {
+          "title": "09 戳了一刀",
+          "anchor": "heading3_9",
+          "level": 2
+        },
+        {
+          "title": "10 刑事案子",
+          "anchor": "heading3_10",
+          "level": 2
+        },
+        {
+          "title": "11 腓列普在伊苏屯",
+          "anchor": "heading3_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=615",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=615"
+    },
+    {
+      "chapterUid": 616,
+      "chapterIdx": 200,
+      "title": "第三部 遗产归谁",
+      "level": 1,
+      "wordCount": 37749,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 承继人的参考资料",
+          "anchor": "heading3_1",
+          "level": 2
+        },
+        {
+          "title": "02 你死我活的决斗",
+          "anchor": "heading3_2",
+          "level": 2
+        },
+        {
+          "title": "03 罗日太太",
+          "anchor": "heading3_3",
+          "level": 2
+        },
+        {
+          "title": "04 圣女的忏悔",
+          "anchor": "heading3_4",
+          "level": 2
+        },
+        {
+          "title": "05 结局",
+          "anchor": "heading3_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=616",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=616"
+    },
+    {
+      "chapterUid": 617,
+      "chapterIdx": 201,
+      "title": "第一部 两个诗人",
+      "level": 1,
+      "wordCount": 84142,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 一家内地印刷",
+          "anchor": "heading3_1",
+          "level": 2
+        },
+        {
+          "title": "02 特·巴日东太太",
+          "anchor": "heading3_2",
+          "level": 2
+        },
+        {
+          "title": "03 客厅里的夜晚，河边的夜晚",
+          "anchor": "heading3_3",
+          "level": 2
+        },
+        {
+          "title": "04 内地的爱情风波",
+          "anchor": "heading3_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=617",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=617"
+    },
+    {
+      "chapterUid": 618,
+      "chapterIdx": 202,
+      "title": "第二部 内地大人物在巴黎",
+      "level": 1,
+      "wordCount": 118963,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 巴黎的第一批果实",
+          "anchor": "heading3_1",
+          "level": 2
+        },
+        {
+          "title": "02 弗利谷多",
+          "anchor": "heading3_2",
+          "level": 2
+        },
+        {
+          "title": "03 两种不同的书店老板",
+          "anchor": "heading3_3",
+          "level": 2
+        },
+        {
+          "title": "04 第一个朋友",
+          "anchor": "heading3_4",
+          "level": 2
+        },
+        {
+          "title": "05 小团体",
+          "anchor": "heading3_5",
+          "level": 2
+        },
+        {
+          "title": "06 贫穷的花朵",
+          "anchor": "heading3_6",
+          "level": 2
+        },
+        {
+          "title": "07 报馆的外表",
+          "anchor": "heading3_7",
+          "level": 2
+        },
+        {
+          "title": "08 十四行诗",
+          "anchor": "heading3_8",
+          "level": 2
+        },
+        {
+          "title": "09 忠告",
+          "anchor": "heading3_9",
+          "level": 2
+        },
+        {
+          "title": "10 第三种书店老板",
+          "anchor": "heading3_10",
+          "level": 2
+        },
+        {
+          "title": "11 木廊商场",
+          "anchor": "heading3_11",
+          "level": 2
+        },
+        {
+          "title": "12 一家木廊书店的外表",
+          "anchor": "heading3_12",
+          "level": 2
+        },
+        {
+          "title": "13 第四种书店老板",
+          "anchor": "heading3_13",
+          "level": 2
+        },
+        {
+          "title": "14 后台",
+          "anchor": "heading3_14",
+          "level": 2
+        },
+        {
+          "title": "15 药材商的用处",
+          "anchor": "heading3_15",
+          "level": 2
+        },
+        {
+          "title": "16 高拉莉",
+          "anchor": "heading3_16",
+          "level": 2
+        },
+        {
+          "title": "17 小报是怎么编的",
+          "anchor": "heading3_17",
+          "level": 2
+        },
+        {
+          "title": "18 半夜餐",
+          "anchor": "heading3_18",
+          "level": 2
+        },
+        {
+          "title": "19 女演员的住家",
+          "anchor": "heading3_19",
+          "level": 2
+        },
+        {
+          "title": "20 最后一次访问小团体",
+          "anchor": "heading3_20",
+          "level": 2
+        },
+        {
+          "title": "21 另外一种记者",
+          "anchor": "heading3_21",
+          "level": 2
+        },
+        {
+          "title": "22 靴子对私生活的影响",
+          "anchor": "heading3_22",
+          "level": 2
+        },
+        {
+          "title": "23 报纸的秘密",
+          "anchor": "heading3_23",
+          "level": 2
+        },
+        {
+          "title": "24 又是道利阿",
+          "anchor": "heading3_24",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=618",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=618"
+    },
+    {
+      "chapterUid": 619,
+      "chapterIdx": 203,
+      "title": "第二部 内地大人物在巴黎",
+      "level": 1,
+      "wordCount": 70550,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "25 初试身手",
+          "anchor": "heading4_1",
+          "level": 2
+        },
+        {
+          "title": "26 出版商拜访作家",
+          "anchor": "heading4_2",
+          "level": 2
+        },
+        {
+          "title": "27 出尔反尔的技术",
+          "anchor": "heading4_3",
+          "level": 2
+        },
+        {
+          "title": "28 报纸的威风与屈辱",
+          "anchor": "heading4_4",
+          "level": 2
+        },
+        {
+          "title": "29 戏剧作家的钱庄老板",
+          "anchor": "heading4_5",
+          "level": 2
+        },
+        {
+          "title": "30 新闻记者的洗礼",
+          "anchor": "heading4_6",
+          "level": 2
+        },
+        {
+          "title": "31 上流社会",
+          "anchor": "heading4_7",
+          "level": 2
+        },
+        {
+          "title": "32 浪子",
+          "anchor": "heading4_8",
+          "level": 2
+        },
+        {
+          "title": "33 第五种书店老板",
+          "anchor": "heading4_9",
+          "level": 2
+        },
+        {
+          "title": "34 敲竹杠",
+          "anchor": "heading4_10",
+          "level": 2
+        },
+        {
+          "title": "35 贴现商",
+          "anchor": "heading4_11",
+          "level": 2
+        },
+        {
+          "title": "36 转移阵地",
+          "anchor": "heading4_12",
+          "level": 2
+        },
+        {
+          "title": "37 弄神捣鬼",
+          "anchor": "heading4_13",
+          "level": 2
+        },
+        {
+          "title": "38 生死关头",
+          "anchor": "heading4_14",
+          "level": 2
+        },
+        {
+          "title": "39 一文不名",
+          "anchor": "heading4_15",
+          "level": 2
+        },
+        {
+          "title": "40 告别",
+          "anchor": "heading4_16",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=619",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=619"
+    },
+    {
+      "chapterUid": 620,
+      "chapterIdx": 204,
+      "title": "第三部 发明家的苦难",
+      "level": 1,
+      "wordCount": 4609,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "引言 一个时髦青年的惨痛的忏悔",
+          "anchor": "heading4_1",
+          "level": 2
+        },
+        {
+          "title": "打落水狗",
+          "anchor": "heading4_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=620",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=620"
+    },
+    {
+      "chapterUid": 621,
+      "chapterIdx": 205,
+      "title": "上编 追偿债务的故事",
+      "level": 2,
+      "wordCount": 52334,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 需要解决的问题",
+          "anchor": "heading4_1",
+          "level": 3
+        },
+        {
+          "title": "02 勇气十足的妻子",
+          "anchor": "heading4_2",
+          "level": 3
+        },
+        {
+          "title": "03 未来的犹大",
+          "anchor": "heading4_3",
+          "level": 3
+        },
+        {
+          "title": "04 戈安得弟兄",
+          "anchor": "heading4_4",
+          "level": 3
+        },
+        {
+          "title": "05 第一声霹雳",
+          "anchor": "heading4_5",
+          "level": 3
+        },
+        {
+          "title": "06 造纸业一瞥",
+          "anchor": "heading4_6",
+          "level": 3
+        },
+        {
+          "title": "07 介绍一般的内地诉讼代理人，尤其是柏蒂–格劳",
+          "anchor": "heading4_7",
+          "level": 3
+        },
+        {
+          "title": "08 给付不出款子的出票人义务上一课",
+          "anchor": "heading4_8",
+          "level": 3
+        },
+        {
+          "title": "09 一张五十生丁印花税票的射程和威力不下于一颗炮弹",
+          "anchor": "heading4_9",
+          "level": 3
+        },
+        {
+          "title": "10 所谓局势险恶",
+          "anchor": "heading4_10",
+          "level": 3
+        },
+        {
+          "title": "11 父亲和两个仆人",
+          "anchor": "heading4_11",
+          "level": 3
+        },
+        {
+          "title": "12 两个代理人怎样放火，杜布隆怎样从旁帮助",
+          "anchor": "heading4_12",
+          "level": 3
+        },
+        {
+          "title": "13 控诉的高潮",
+          "anchor": "heading4_13",
+          "level": 3
+        },
+        {
+          "title": "14 为什么羁押债务人在内地是绝无仅有之事",
+          "anchor": "heading4_14",
+          "level": 3
+        },
+        {
+          "title": "15 两桩试验，一桩成功，一桩失败",
+          "anchor": "heading4_15",
+          "level": 3
+        },
+        {
+          "title": "16 利之所在，虎视眈眈",
+          "anchor": "heading4_16",
+          "level": 3
+        },
+        {
+          "title": "17 柏蒂–格劳的对象",
+          "anchor": "heading4_17",
+          "level": 3
+        },
+        {
+          "title": "18 神甫的一句话",
+          "anchor": "heading4_18",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=621",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=621"
+    },
+    {
+      "chapterUid": 622,
+      "chapterIdx": 206,
+      "title": "下编 家庭的晦气星",
+      "level": 2,
+      "wordCount": 56864,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "01 浪子回家",
+          "anchor": "heading4_1",
+          "level": 3
+        },
+        {
+          "title": "02 意想不到的荣誉",
+          "anchor": "heading4_2",
+          "level": 3
+        },
+        {
+          "title": "03 捧场的阴谋",
+          "anchor": "heading4_3",
+          "level": 3
+        },
+        {
+          "title": "04 如此好心，我们一生也能碰上几回",
+          "anchor": "heading4_4",
+          "level": 3
+        },
+        {
+          "title": "05 吕西安把内地的荣誉当真",
+          "anchor": "heading4_5",
+          "level": 3
+        },
+        {
+          "title": "06 隔墙有耳",
+          "anchor": "heading4_6",
+          "level": 3
+        },
+        {
+          "title": "07 吕西安在巴日东府上扬眉吐气",
+          "anchor": "heading4_7",
+          "level": 3
+        },
+        {
+          "title": "08 痛心之极",
+          "anchor": "heading4_8",
+          "level": 3
+        },
+        {
+          "title": "09 诀别",
+          "anchor": "heading4_9",
+          "level": 3
+        },
+        {
+          "title": "10 大路上的奇遇",
+          "anchor": "heading4_10",
+          "level": 3
+        },
+        {
+          "title": "11 一个亲信的故事",
+          "anchor": "heading4_11",
+          "level": 3
+        },
+        {
+          "title": "12 马基雅弗利的信徒专为野心家讲的历史课",
+          "anchor": "heading4_12",
+          "level": 3
+        },
+        {
+          "title": "13 埃斯科巴的信徒讲的道德课",
+          "anchor": "heading4_13",
+          "level": 3
+        },
+        {
+          "title": "14 西班牙人的侧影",
+          "anchor": "heading4_14",
+          "level": 3
+        },
+        {
+          "title": "15 为什么罪犯总要诱人堕落",
+          "anchor": "heading4_15",
+          "level": 3
+        },
+        {
+          "title": "16 斗争到了招架不住的时候",
+          "anchor": "heading4_16",
+          "level": 3
+        },
+        {
+          "title": "17 坐监的影响",
+          "anchor": "heading4_17",
+          "level": 3
+        },
+        {
+          "title": "18 晚了一天",
+          "anchor": "heading4_18",
+          "level": 3
+        },
+        {
+          "title": "19 合伙经营的故事",
+          "anchor": "heading4_19",
+          "level": 3
+        },
+        {
+          "title": "20 结局",
+          "anchor": "heading4_20",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=22247769&chapterUid=622",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=622"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 423,
+      "chapterTitle": "03 初次世面",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "22247769_16_2118-2161",
+          "range": "15059-15102",
+          "rangeStart": 15059,
+          "rangeEnd": 15102,
+          "markText": "世界上没有原则，只有事故；没有法律，只有时势；高明的人同事故跟时势打成一片，任意支配。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1713273774,
+          "createTimeFormatted": "2024-04-16 21:22:54",
+          "chapterUid": 423,
+          "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=423&rangeStart=15059&rangeEnd=15102",
+          "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=423&rangeStart=15059&rangeEnd=15102"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "22247769_421_2224-2256",
+      "chapterUid": 421,
+      "range": "2224-2256",
+      "markText": "谁又能说，枯萎的心灵和空无一物的骷髅，究竟哪一样看上去更可怕呢？",
+      "totalCount": 3438,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=421&rangeStart=2224&rangeEnd=2256",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421&rangeStart=2224&rangeEnd=2256"
+    },
+    {
+      "bookmarkId": "22247769_421_4753-4831",
+      "chapterUid": 421,
+      "range": "4753-4831",
+      "markText": "总之，这儿是一派毫无诗意的贫穷，那种锱铢必较的，浓缩的，百孔千疮的贫穷；即使还没有泥浆，却已有了污迹；即使还没有破洞，还不曾褴褛，却快要崩溃腐朽，变成垃圾。",
+      "totalCount": 1054,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=421&rangeStart=4753&rangeEnd=4831",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421&rangeStart=4753&rangeEnd=4831"
+    },
+    {
+      "bookmarkId": "22247769_421_2832-2883",
+      "chapterUid": 421,
+      "range": "2832-2883",
+      "markText": "不论你是谁，她总是你的师傅，现在是，曾经是，或者将来是。",
+      "totalCount": 952,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=421&rangeStart=2832&rangeEnd=2883",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421&rangeStart=2832&rangeEnd=2883"
+    },
+    {
+      "bookmarkId": "22247769_421_6439-6515",
+      "chapterUid": 421,
+      "range": "6439-6515",
+      "markText": "他是那种因家境清寒而不得不用功的青年，从小就懂得父母的期望，自己在那里打点美妙的前程，考虑学业的影响，把学科迎合社会未来的动向，以便捷足先登，榨取社会。",
+      "totalCount": 928,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=421&rangeStart=6439&rangeEnd=6515",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421&rangeStart=6439&rangeEnd=6515"
+    },
+    {
+      "bookmarkId": "22247769_421_16338-16367",
+      "chapterUid": 421,
+      "range": "16338-16367",
+      "markText": "小人许多最可鄙的习惯中间，有一桩是以为别人跟他们一样小气。",
+      "totalCount": 828,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=421&rangeStart=16338&rangeEnd=16367",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421&rangeStart=16338&rangeEnd=16367"
+    },
+    {
+      "bookmarkId": "22247769_421_1353-1403",
+      "chapterUid": 421,
+      "range": "1353-1403",
+      "markText": "你们读者大概也是如此：雪白的手捧了这本书，埋在软绵绵的安乐椅里，想道：也许这部小说能够让我消遣一下。",
+      "totalCount": 735,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=421&rangeStart=1353&rangeEnd=1403",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421&rangeStart=1353&rangeEnd=1403"
+    },
+    {
+      "bookmarkId": "22247769_421_4690-4726",
+      "chapterUid": 421,
+      "range": "4690-4726",
+      "markText": "倘使详细描写，势必长篇累牍，妨碍读者对本书的兴趣，恐非性急的人所能原谅。",
+      "totalCount": 629,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=421&rangeStart=4690&rangeEnd=4726",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421&rangeStart=4690&rangeEnd=4726"
+    },
+    {
+      "bookmarkId": "22247769_421_1469-1664",
+      "chapterUid": 421,
+      "range": "1469-1664",
+      "markText": "一切都是真情实事，真实到每个人都能在自己身上或者心里发现剧中的要素。",
+      "totalCount": 600,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=421&rangeStart=1469&rangeEnd=1664",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421&rangeStart=1469&rangeEnd=1664"
+    },
+    {
+      "bookmarkId": "22247769_421_11345-11416",
+      "chapterUid": 421,
+      "range": "11345-11416",
+      "markText": "也许人的天性就喜欢教那些为了谦卑，为了懦弱，或者为了满不在乎而忍受一切的人，忍受一切。我们不是都喜欢把什么人或物做牺牲品，来证明我们的力量吗？",
+      "totalCount": 595,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=421&rangeStart=11345&rangeEnd=11416",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421&rangeStart=11345&rangeEnd=11416"
+    },
+    {
+      "bookmarkId": "22247769_426_4849-4930",
+      "chapterUid": 426,
+      "range": "4849-4930",
+      "markText": "朋友，你别结婚，别生孩子！你给他们生命，他们给你死。你带他们到世界上来，他们把你从世界上赶出去。她们不会来的！我已经知道了十年。有时我心里这么想，只是不敢相信。”",
+      "totalCount": 576,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=426&rangeStart=4849&rangeEnd=4930",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=426&rangeStart=4849&rangeEnd=4930"
+    },
+    {
+      "bookmarkId": "22247769_420_17043-17140",
+      "chapterUid": 420,
+      "range": "17043-17140",
+      "markText": "巴尔扎克的《人间喜剧》一共包括91部小说，塑造了2400多个典型人物，描摹了一个时代、一个世界的人间百态。因其数量之庞大，内容之广阔，成为人类文学史上罕见的文学丰碑，被誉为一部“社会百科全书”。",
+      "totalCount": 570,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=420&rangeStart=17043&rangeEnd=17140",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=420&rangeStart=17043&rangeEnd=17140"
+    },
+    {
+      "bookmarkId": "22247769_421_6848-6902",
+      "chapterUid": 421,
+      "range": "6848-6902",
+      "markText": "这七位房客好比伏盖太太特别宠爱的孩子，她按照膳宿费的数目，对各人定下照顾和尊敬的分寸，像天文家一般不差毫厘。",
+      "totalCount": 544,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=421&rangeStart=6848&rangeEnd=6902",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421&rangeStart=6848&rangeEnd=6902"
+    },
+    {
+      "bookmarkId": "22247769_444_8877-8914",
+      "chapterUid": 444,
+      "range": "8877-8914",
+      "markText": "总之，我们之间不妨这样说：要没有上帝的话，法律倒是为非作歹的人极好的保障。",
+      "totalCount": 544,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=444&rangeStart=8877&rangeEnd=8914",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=444&rangeStart=8877&rangeEnd=8914"
+    },
+    {
+      "bookmarkId": "22247769_421_24925-24960",
+      "chapterUid": 421,
+      "range": "24925-24960",
+      "markText": "年轻人发狠要在夜里读书，十有九夜是睡觉完事的。要熬夜，一定要过二十岁。",
+      "totalCount": 517,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=421&rangeStart=24925&rangeEnd=24960",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421&rangeStart=24925&rangeEnd=24960"
+    },
+    {
+      "bookmarkId": "22247769_423_953-1033",
+      "chapterUid": 423,
+      "range": "953-1033",
+      "markText": "难道你的前途，你的幸福，就在于装出你没有的身份，花费你负担不起的本钱，浪费你宝贵的求学的光阴，去见识那个社会吗？孩子，相信你母亲吧，拐弯抹角的路决无伟大的成就。",
+      "totalCount": 504,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=423&rangeStart=953&rangeEnd=1033",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=423&rangeStart=953&rangeEnd=1033"
+    },
+    {
+      "bookmarkId": "22247769_428_22402-22430",
+      "chapterUid": 428,
+      "range": "22402-22430",
+      "markText": "人类的处境就是这一点可怕！没有一宗幸福不是靠糊涂得来的。",
+      "totalCount": 470,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=428&rangeStart=22402&rangeEnd=22430",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=428&rangeStart=22402&rangeEnd=22430"
+    },
+    {
+      "bookmarkId": "22247769_421_15663-15698",
+      "chapterUid": 421,
+      "range": "15663-15698",
+      "markText": "个人向感情的高峰攀登，可能中途休息；从怨恨的险坡往下走，就难得留步了。",
+      "totalCount": 459,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=421&rangeStart=15663&rangeEnd=15698",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421&rangeStart=15663&rangeEnd=15698"
+    },
+    {
+      "bookmarkId": "22247769_421_1045-1128",
+      "chapterUid": 421,
+      "range": "1045-1128",
+      "markText": "然而也有些东零西碎的痛苦，因为罪恶与德行混在一块而变得伟大庄严，使自私自利的人也要定一定神，生出一点同情心；可是他们的感触不过是一刹那的事，像匆匆忙忙吞下的一颗美果。",
+      "totalCount": 450,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=421&rangeStart=1045&rangeEnd=1128",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=421&rangeStart=1045&rangeEnd=1128"
+    },
+    {
+      "bookmarkId": "22247769_424_7989-8029",
+      "chapterUid": 424,
+      "range": "7989-8029",
+      "markText": "人总喜欢小小的抗拒一下，对自己的良心有个交代，替以后的不正当行为找个开脱的理由。",
+      "totalCount": 418,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=424&rangeStart=7989&rangeEnd=8029",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=424&rangeStart=7989&rangeEnd=8029"
+    },
+    {
+      "bookmarkId": "22247769_423_15059-15102",
+      "chapterUid": 423,
+      "range": "15059-15102",
+      "markText": "世界上没有原则，只有事故；没有法律，只有时势；高明的人同事故跟时势打成一片，任意支配。",
+      "totalCount": 416,
+      "appLink": "weread://bestbookmark?bookId=22247769&chapterUid=423&rangeStart=15059&rangeEnd=15102",
+      "webLink": "https://weread.qq.com/web/reader/5a132560715379595a1db00?chapterUid=423&rangeStart=15059&rangeEnd=15102"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

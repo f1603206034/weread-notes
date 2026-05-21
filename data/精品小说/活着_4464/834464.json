@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "bookId": "834464",
+    "title": "活着",
+    "author": "余华",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/1/yuewen_834464/t6_yuewen_8344641758521403.jpg",
+    "intro": "《活着》是当代作家余华的代表作，讲述了一个人历尽世间沧桑和磨难的一生，亦将中国大半个世纪的社会变迁凝缩其间。《活着》还讲述了眼泪的宽广和丰富；讲述了绝望的不存在；讲述了人是为了活着本身而活着的，而不是为了活着之外的任何事物而活着。\r\n《活着》出版30年来打动了无数读者，经过时间的沉淀，已成为20世纪中国文学当之无愧的经典之作。",
+    "category": "精品小说-年代小说",
+    "publisher": "北京出版集团北京十月文艺出版社",
+    "publishTime": "2021-07-15 00:00:00",
+    "isbn": "9787530221532",
+    "wordCount": 0,
+    "newRating": 920,
+    "newRatingCount": 209705,
+    "newRatingDetail": {
+      "good": 195096,
+      "fair": 13279,
+      "poor": 1330,
+      "recent": 1192,
+      "deepV": 8066,
+      "myRating": "",
+      "title": "神作"
+    },
+    "appLink": "weread://reading?bId=834464",
+    "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4",
+    "lastSync": "2026-05-21T11:59:45Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "2023-11-23",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=834464&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=1"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 387,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=834464&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 3,
+      "title": "自序",
+      "level": 1,
+      "wordCount": 1309,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=834464&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 4,
+      "title": "一",
+      "level": 1,
+      "wordCount": 15219,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=834464&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 5,
+      "title": "二",
+      "level": 1,
+      "wordCount": 16306,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=834464&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 6,
+      "title": "三",
+      "level": 1,
+      "wordCount": 27487,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=834464&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 7,
+      "title": "四",
+      "level": 1,
+      "wordCount": 18650,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=834464&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 8,
+      "title": "五",
+      "level": 1,
+      "wordCount": 8560,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=834464&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 9,
+      "title": "附录",
+      "level": 1,
+      "wordCount": 3,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=834464&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 10,
+      "title": "韩文版自序",
+      "level": 2,
+      "wordCount": 513,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=834464&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 11,
+      "title": "日文版自序",
+      "level": 2,
+      "wordCount": 1959,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=834464&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 12,
+      "title": "英文版自序",
+      "level": 2,
+      "wordCount": 519,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=834464&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 13,
+      "title": "麦田新版自序",
+      "level": 2,
+      "wordCount": 1365,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=834464&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=35"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 29,
+      "chapterTitle": "四",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "834464_22_1240-1254",
+          "range": "1550-1564",
+          "rangeStart": 1550,
+          "rangeEnd": 1564,
+          "markText": "月光照在路上，像是撒满了盐。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1706878991,
+          "createTimeFormatted": "2024-02-02 21:03:11",
+          "chapterUid": 29,
+          "appLink": "weread://bestbookmark?bookId=834464&chapterUid=29&rangeStart=1550&rangeEnd=1564",
+          "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=29&rangeStart=1550&rangeEnd=1564"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "834464_35_1937-1962",
+      "chapterUid": 35,
+      "range": "1937-1962",
+      "markText": "生活是属于每个人自己的感受，不属于任何别人的看法。",
+      "totalCount": 83214,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=35&rangeStart=1937&rangeEnd=1962",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=35&rangeStart=1937&rangeEnd=1962"
+    },
+    {
+      "bookmarkId": "834464_25_1907-1937",
+      "chapterUid": 25,
+      "range": "1907-1937",
+      "markText": "人是为活着本身而活着的，而不是为了活着之外的任何事物所活着。",
+      "totalCount": 71370,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=25&rangeStart=1907&rangeEnd=1937",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=25&rangeStart=1907&rangeEnd=1937"
+    },
+    {
+      "bookmarkId": "834464_29_30022-30115",
+      "chapterUid": 29,
+      "range": "30022-30115",
+      "markText": "谁料到我一走凤霞就出事了，我走了才几分钟，好几个医生跑进了产房，还拖着氧气瓶。凤霞生下了孩子后大出血，天黑前断了气。我的一双儿女都是生孩子上死的，有庆死是别人生孩子，凤霞死在自己生孩子。",
+      "totalCount": 42444,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=29&rangeStart=30022&rangeEnd=30115",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=29&rangeStart=30022&rangeEnd=30115"
+    },
+    {
+      "bookmarkId": "834464_30_4614-4680",
+      "chapterUid": 30,
+      "range": "4614-4680",
+      "markText": "这样的日子过到苦根四岁那年，二喜死了。二喜是被两排水泥板夹死的。干搬运这活，一不小心就磕破碰伤，可丢了命的只有二喜，徐家的人命都苦。",
+      "totalCount": 38790,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=30&rangeStart=4614&rangeEnd=4680",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=30&rangeStart=4614&rangeEnd=4680"
+    },
+    {
+      "bookmarkId": "834464_26_4060-4115",
+      "chapterUid": 26,
+      "range": "4060-4115",
+      "markText": "“我怕它知道只有自己在耕田，就多叫出几个名字去骗它，它听到还有别的牛也在耕田，就不会不高兴，耕田也就起劲啦。”",
+      "totalCount": 34080,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=26&rangeStart=4060&rangeEnd=4115",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=26&rangeStart=4060&rangeEnd=4115"
+    },
+    {
+      "bookmarkId": "834464_29_29723-29852",
+      "chapterUid": 29,
+      "range": "29723-29852",
+      "markText": "“生啦，是儿子。” 二喜一听急了，跳起来叫道： “我没要小的。” 医生说：“大的也没事。”",
+      "totalCount": 32850,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=29&rangeStart=29723&rangeEnd=29852",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=29&rangeStart=29723&rangeEnd=29852"
+    },
+    {
+      "bookmarkId": "834464_28_28703-28774",
+      "chapterUid": 28,
+      "range": "28703-28774",
+      "markText": "“你给我、给你娘你姐姐争了口气，我很高兴。可我从没听说过跑步也能挣饭吃，送你去学校，是要你好好念书，不是让你去学跑步，跑步还用学？鸡都会跑！”",
+      "totalCount": 31348,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=28&rangeStart=28703&rangeEnd=28774",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=28&rangeStart=28703&rangeEnd=28774"
+    },
+    {
+      "bookmarkId": "834464_30_14667-14758",
+      "chapterUid": 30,
+      "range": "14667-14758",
+      "markText": "“今天有庆、二喜耕了一亩，家珍、凤霞耕了也有七八分田，苦根还小都耕了半亩。你嘛，耕了多少我就不说了，说出来你会觉得我是要羞你。话还得说回来，你年纪大了，能耕这么些田也是尽心尽力了。”",
+      "totalCount": 29631,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=30&rangeStart=14667&rangeEnd=14758",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=30&rangeStart=14667&rangeEnd=14758"
+    },
+    {
+      "bookmarkId": "834464_30_14871-14889",
+      "chapterUid": 30,
+      "range": "14871-14889",
+      "markText": "少年去游荡，中年想掘藏，老年做和尚。",
+      "totalCount": 27417,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=30&rangeStart=14871&rangeEnd=14889",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=30&rangeStart=14871&rangeEnd=14889"
+    },
+    {
+      "bookmarkId": "834464_29_1520-1564",
+      "chapterUid": 29,
+      "range": "1520-1564",
+      "markText": "我看着那条弯曲着通向城里的小路，听不到我儿子赤脚跑来的声音，月光照在路上，像是撒满了盐。",
+      "totalCount": 25905,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=29&rangeStart=1520&rangeEnd=1564",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=29&rangeStart=1520&rangeEnd=1564"
+    },
+    {
+      "bookmarkId": "834464_32_541-621",
+      "chapterUid": 32,
+      "range": "541-621",
+      "markText": "“活着”在我们中国的语言里充满了力量，它的力量不是来自于喊叫，也不是来自于进攻，而是忍受，去忍受生命赋予我们的责任，去忍受现实给予我们的幸福和苦难、无聊和平庸。",
+      "totalCount": 20859,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=32&rangeStart=541&rangeEnd=621",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=32&rangeStart=541&rangeEnd=621"
+    },
+    {
+      "bookmarkId": "834464_27_6810-6879",
+      "chapterUid": 27,
+      "range": "6810-6879",
+      "markText": "长根那天走后，还来过一次，那次他给凤霞带来一根扎头发的红绸，是他捡来的，洗干净后放在胸口专门来送给凤霞。长根那次走后，我就再没有见到他了。",
+      "totalCount": 20576,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=27&rangeStart=6810&rangeEnd=6879",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=27&rangeStart=6810&rangeEnd=6879"
+    },
+    {
+      "bookmarkId": "834464_27_1590-1676",
+      "chapterUid": 27,
+      "range": "1590-1676",
+      "markText": "他们时常流出混浊的眼泪，这倒不是因为他们时常悲伤，他们在高兴时甚至是在什么事都没有的平静时刻，也会泪流而出，然后举起和乡间泥路一样粗糙的手指，擦去眼泪，如同掸去身上的稻草。",
+      "totalCount": 19499,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=27&rangeStart=1590&rangeEnd=1676",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=27&rangeStart=1590&rangeEnd=1676"
+    },
+    {
+      "bookmarkId": "834464_26_24187-24202",
+      "chapterUid": 26,
+      "range": "24187-24202",
+      "markText": "“人只要活得高兴，穷也不怕。”",
+      "totalCount": 17622,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=26&rangeStart=24187&rangeEnd=24202",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=26&rangeStart=24187&rangeEnd=24202"
+    },
+    {
+      "bookmarkId": "834464_29_2030-2067",
+      "chapterUid": 29,
+      "range": "2030-2067",
+      "markText": "“做人不能忘记四条，话不要说错，床不要睡错，门槛不要踏错，口袋不要摸错。”",
+      "totalCount": 17240,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=29&rangeStart=2030&rangeEnd=2067",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=29&rangeStart=2030&rangeEnd=2067"
+    },
+    {
+      "bookmarkId": "834464_34_857-925",
+      "chapterUid": 34,
+      "range": "857-925",
+      "markText": "人的体验和欲望还有想象和理解，会取消所有不同的界限，会让一个人从他人的经历里感受到自己的命运，就像是在不同的镜子里看到的都是自己的形象。",
+      "totalCount": 16650,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=34&rangeStart=857&rangeEnd=925",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=34&rangeStart=857&rangeEnd=925"
+    },
+    {
+      "bookmarkId": "834464_26_2139-2174",
+      "chapterUid": 26,
+      "range": "2139-2174",
+      "markText": "当我望着到处都充满绿色的土地时，我就会进一步明白庄稼为何长得如此旺盛。",
+      "totalCount": 16533,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=26&rangeStart=2139&rangeEnd=2174",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=26&rangeStart=2139&rangeEnd=2174"
+    },
+    {
+      "bookmarkId": "834464_26_2999-3052",
+      "chapterUid": 26,
+      "range": "2999-3052",
+      "markText": "“做牛耕田，做狗看家，做和尚化缘，做鸡报晓，做女人织布，哪头牛不耕田？这可是自古就有的道理，走呀，走呀。”",
+      "totalCount": 16394,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=26&rangeStart=2999&rangeEnd=3052",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=26&rangeStart=2999&rangeEnd=3052"
+    },
+    {
+      "bookmarkId": "834464_28_42948-43007",
+      "chapterUid": 28,
+      "range": "42948-43007",
+      "markText": "医生点点头，表示知道了，可他又说： “你为什么只生一个儿子？”",
+      "totalCount": 16392,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=28&rangeStart=42948&rangeEnd=43007",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=28&rangeStart=42948&rangeEnd=43007"
+    },
+    {
+      "bookmarkId": "834464_26_1098-1133",
+      "chapterUid": 26,
+      "range": "1098-1133",
+      "markText": "我比现在年轻十岁的时候，获得了一个游手好闲的职业，去乡间收集民间歌谣。",
+      "totalCount": 15526,
+      "appLink": "weread://bestbookmark?bookId=834464&chapterUid=26&rangeStart=1098&rangeEnd=1133",
+      "webLink": "https://weread.qq.com/web/reader/33332bf05cbba0333b1efb4?chapterUid=26&rangeStart=1098&rangeEnd=1133"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 22,
+    "chapterOffset": 883,
+    "progress": 0,
+    "updateTime": 1751550922,
+    "recordReadingTime": 0,
+    "finishTime": 1700750513
+  }
+}

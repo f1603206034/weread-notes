@@ -1,0 +1,929 @@
+{
+  "meta": {
+    "bookId": "38119173",
+    "title": "文治帝国：大宋300年的世运与人物",
+    "author": "艾公子",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/65/YueWen_38119173/t6_YueWen_38119173.jpg",
+    "intro": "本书按照时间顺序，从陈桥兵变，写到崖山王国，用34个人物串起两宋大事件，包括开国、北伐、文化盛况、党争漩涡、靖康之变、南渡偏安、崖山亡国等历史。全书结构清晰、文章耐读，适合普通读者梳理宋史脉络，了解宋朝人物。",
+    "category": "历史-中国古代",
+    "publisher": "北京联合出版公司",
+    "publishTime": "2021-05-01 00:00:00",
+    "isbn": "9787559651631",
+    "wordCount": 0,
+    "newRating": 840,
+    "newRatingCount": 971,
+    "newRatingDetail": {
+      "good": 817,
+      "fair": 130,
+      "poor": 24,
+      "recent": 6,
+      "deepV": 105,
+      "myRating": "",
+      "title": "脍炙人口"
+    },
+    "appLink": "weread://reading?bId=38119173",
+    "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571",
+    "lastSync": "2026-05-21T11:58:06Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 464,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "北宋篇",
+      "level": 1,
+      "wordCount": 28,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "北宋篇",
+          "anchor": "isbn9787559651631_1",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=38119173&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一章 皇帝的失眠症",
+      "level": 2,
+      "wordCount": 6873,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "做了开国皇帝后，赵匡胤失眠了",
+          "anchor": "isbn9787559651631_1_1_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=38119173&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "死在大宋的五代君主们",
+      "level": 3,
+      "wordCount": 6349,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "宋真宗：失了体面的皇权",
+      "level": 3,
+      "wordCount": 7429,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "宋仁宗：虽不自由，但值了",
+      "level": 3,
+      "wordCount": 8719,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "本章参考文献",
+      "level": 3,
+      "wordCount": 537,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第二章 更想用钱买和平",
+      "level": 2,
+      "wordCount": 5776,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "大宋两次北伐，都败给了一个女人",
+          "anchor": "isbn9787559651631_1_2_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=38119173&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "历史上真实的“潘仁美”",
+      "level": 3,
+      "wordCount": 5149,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "李元昊：他开创的王朝存在了190年",
+      "level": 3,
+      "wordCount": 7424,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "本章参考文献",
+      "level": 3,
+      "wordCount": 559,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第三章 文化盛世的底色",
+      "level": 2,
+      "wordCount": 8565,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "曾巩：一代大神沦为透明人",
+          "anchor": "isbn9787559651631_1_3_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=38119173&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "苏洵：大宋最牛老爸",
+      "level": 3,
+      "wordCount": 6173,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "柳永：大宋第一浪子，整个时代边骂边学",
+      "level": 3,
+      "wordCount": 8066,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "黄庭坚：江湖夜雨十年灯",
+      "level": 3,
+      "wordCount": 6220,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "周敦颐：那个写《爱莲说》的人",
+      "level": 3,
+      "wordCount": 5937,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "张载：他的22字格言，影响千年",
+      "level": 3,
+      "wordCount": 7145,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "本章参考文献",
+      "level": 3,
+      "wordCount": 1166,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第四章 党争黑洞",
+      "level": 2,
+      "wordCount": 5642,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "欧阳修：一代精神领袖，被乱伦传闻击垮",
+          "anchor": "isbn9787559651631_1_4_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=38119173&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "王安石：孤独的改革家，被妖魔化了",
+      "level": 3,
+      "wordCount": 7446,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "司马光毁了帝国中兴？",
+      "level": 3,
+      "wordCount": 7491,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "她被捧为“女中尧舜”，却把大宋带入深渊",
+      "level": 3,
+      "wordCount": 7629,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "章惇：史上最该平反的奸臣",
+      "level": 3,
+      "wordCount": 8382,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "本章参考文献",
+      "level": 3,
+      "wordCount": 925,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第五章 靖康耻",
+      "level": 2,
+      "wordCount": 8019,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "北宋末年两根硬骨头",
+          "anchor": "isbn9787559651631_1_5_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=38119173&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "被遗忘的种家将",
+      "level": 3,
+      "wordCount": 6220,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "本章参考文献",
+      "level": 3,
+      "wordCount": 426,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "南宋篇",
+      "level": 1,
+      "wordCount": 28,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "南宋篇",
+          "anchor": "isbn9787559651631_2",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=38119173&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第六章 南渡偏安：北人归北，南人归南",
+      "level": 2,
+      "wordCount": 4080,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "南宋病人赵构",
+          "anchor": "isbn9787559651631_2_6_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=38119173&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "秦桧的真面目",
+      "level": 3,
+      "wordCount": 8057,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "岳飞的特种部队：背嵬军",
+      "level": 3,
+      "wordCount": 3839,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "没有这对兄弟，南宋或许早就亡了",
+      "level": 3,
+      "wordCount": 5997,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "本章参考文献",
+      "level": 3,
+      "wordCount": 444,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第七章 再战中原，壮志难酬",
+      "level": 2,
+      "wordCount": 8810,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "宋孝宗：南宋最有作为的皇帝",
+          "anchor": "isbn9787559651631_2_7_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=38119173&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "虞允文：一个书生拯救了南宋",
+      "level": 3,
+      "wordCount": 5041,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "韩侂胄：铁血宰相，被自己人干掉了",
+      "level": 3,
+      "wordCount": 7956,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "陆游：一个生不逢时的“打虎英雄”",
+      "level": 3,
+      "wordCount": 5493,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "本章参考文献",
+      "level": 3,
+      "wordCount": 696,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "第八章 金亡，宋危，蒙古人南下",
+      "level": 2,
+      "wordCount": 5767,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "孟珙：13世纪的防御大师，为南宋续命40年",
+          "anchor": "isbn9787559651631_2_8_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=38119173&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "贾似道：被骂了700多年，细思恐极",
+      "level": 3,
+      "wordCount": 4875,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "宋恭帝：大宋幸存者，出家为僧",
+      "level": 3,
+      "wordCount": 6477,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "赵孟：一个伟大的懦夫",
+      "level": 3,
+      "wordCount": 4793,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "本章参考文献",
+      "level": 3,
+      "wordCount": 685,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "第九章 守护王朝最后的尊严",
+      "level": 2,
+      "wordCount": 7702,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "文天祥：大宋最后的风骨，死于1283年",
+          "anchor": "isbn9787559651631_2_9_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=38119173&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "陆秀夫：海国孤忠，惊世之死",
+      "level": 3,
+      "wordCount": 7392,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "本章参考文献",
+      "level": 3,
+      "wordCount": 379,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=38119173&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=47"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "宋真宗：失了体面的皇权",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "38119173_6_3164-3237",
+          "range": "3164-3237",
+          "rangeStart": 3164,
+          "rangeEnd": 3237,
+          "markText": "北宋时人汪洙写诗道：“天子重英豪，文章教尔曹；万般皆下品，唯有读书高……别人怀宝剑，我有笔如刀。朝为田舍郎，暮登天子堂。将相本无种，男儿当自强。”",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1718759776,
+          "createTimeFormatted": "2024-06-19 09:16:16",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=6&rangeStart=3164&rangeEnd=3237",
+          "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=6&rangeStart=3164&rangeEnd=3237"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "38119173_11_3735-3779",
+      "chapterUid": 11,
+      "range": "3735-3779",
+      "markText": "纵观历史，只要三代人连续有作为，基本上什么事都能干成。这个定律适用于家族、族群乃至国家。",
+      "totalCount": 496,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=11&rangeStart=3735&rangeEnd=3779",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=11&rangeStart=3735&rangeEnd=3779"
+    },
+    {
+      "bookmarkId": "38119173_18_10406-10483",
+      "chapterUid": 18,
+      "range": "10406-10483",
+      "markText": "又大约400年后，一个浙江人在书中击赏张载，击赏“横渠四句”，他最终活成了榜样的模样，少年刺奸，中年抗清，晚年鸿儒，抨击君主专制，成为千年一遇的大思想家；",
+      "totalCount": 486,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=18&rangeStart=10406&rangeEnd=10483",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=18&rangeStart=10406&rangeEnd=10483"
+    },
+    {
+      "bookmarkId": "38119173_7_1384-1452",
+      "chapterUid": 7,
+      "range": "1384-1452",
+      "markText": "宋仁宗倒是看得开，他回答说：“你知道吗，正是因为我宫中如此冷落，外面人民才会如此快乐。我宫中若像外面如此快乐，那么民间就会冷冷落落也。”",
+      "totalCount": 444,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=7&rangeStart=1384&rangeEnd=1452",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=7&rangeStart=1384&rangeEnd=1452"
+    },
+    {
+      "bookmarkId": "38119173_10_7681-7717",
+      "chapterUid": 10,
+      "range": "7681-7717",
+      "markText": "一个社会不能没有道德，但道德如果凌驾于一切之上，社会就会陷入空谈的境地。",
+      "totalCount": 414,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=10&rangeStart=7681&rangeEnd=7717",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=10&rangeStart=7681&rangeEnd=7717"
+    },
+    {
+      "bookmarkId": "38119173_17_6770-6797",
+      "chapterUid": 17,
+      "range": "6770-6797",
+      "markText": "静不是不动，而是不妄动；无欲不是不要欲，而是不要妄欲。",
+      "totalCount": 345,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=17&rangeStart=6770&rangeEnd=6797",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=17&rangeStart=6770&rangeEnd=6797"
+    },
+    {
+      "bookmarkId": "38119173_23_11326-11346",
+      "chapterUid": 23,
+      "range": "11326-11346",
+      "markText": "从来都是人，而不仅仅是事实，在构建历史。",
+      "totalCount": 340,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=23&rangeStart=11326&rangeEnd=11346",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=23&rangeStart=11326&rangeEnd=11346"
+    },
+    {
+      "bookmarkId": "38119173_7_5501-5572",
+      "chapterUid": 7,
+      "range": "5501-5572",
+      "markText": "也正是如此，宋仁宗在位的1022年至1063年共42年的统治时期，其人才爆发程度堪称空前绝后，超越了此后千年间封建帝国的任何一个帝王统治时期。",
+      "totalCount": 323,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=7&rangeStart=5501&rangeEnd=5572",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=7&rangeStart=5501&rangeEnd=5572"
+    },
+    {
+      "bookmarkId": "38119173_11_7599-7657",
+      "chapterUid": 11,
+      "range": "7599-7657",
+      "markText": "宋朝不喜欢用兵，在宋初，连兵书都被皇帝列为禁书。宋朝只相信道德、制度与经济优势，认定这三种优势足以碾轧一切敌对势力。",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=11&rangeStart=7599&rangeEnd=7657",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=11&rangeStart=7599&rangeEnd=7657"
+    },
+    {
+      "bookmarkId": "38119173_18_10290-10371",
+      "chapterUid": 18,
+      "range": "10290-10371",
+      "markText": "张载死后大约180年，一个江西人在殿试时，一字一画写下了“为天地立心，为生民立命，为往圣继绝学，为万世开太平”，他成为那一年的状元，最后也成为一个朝代最后的脊梁；",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=18&rangeStart=10290&rangeEnd=10371",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=18&rangeStart=10290&rangeEnd=10371"
+    },
+    {
+      "bookmarkId": "38119173_6_10607-10637",
+      "chapterUid": 6,
+      "range": "10607-10637",
+      "markText": "对于君王来说，瞎折腾和自我沉醉，或许也是一种深层的自我安慰。",
+      "totalCount": 275,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=6&rangeStart=10607&rangeEnd=10637",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=6&rangeStart=10607&rangeEnd=10637"
+    },
+    {
+      "bookmarkId": "38119173_16_6436-6481",
+      "chapterUid": 16,
+      "range": "6436-6481",
+      "markText": "四海之内，皆为兄弟，浮生若梦，来去无迹。凡有日月星辰明耀之地，无处不可寄此一生，又有何忧？",
+      "totalCount": 266,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=16&rangeStart=6436&rangeEnd=6481",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=16&rangeStart=6436&rangeEnd=6481"
+    },
+    {
+      "bookmarkId": "38119173_6_4144-4236",
+      "chapterUid": 6,
+      "range": "4144-4236",
+      "markText": "在对待辽国的问题上，李沆更是认为不可与敌讲和，他曾对王旦说：“我死后，你一定会做宰相，切记不要同敌讲和。我听说出则无敌国外患，国恒亡，如果同敌讲和，从此以后国家武备废弛，必然多事了。”",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=6&rangeStart=4144&rangeEnd=4236",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=6&rangeStart=4144&rangeEnd=4236"
+    },
+    {
+      "bookmarkId": "38119173_18_503-530",
+      "chapterUid": 18,
+      "range": "503-530",
+      "markText": "为天地立心，为生民立命，为往圣继绝学，为万世开太平。”",
+      "totalCount": 238,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=18&rangeStart=503&rangeEnd=530",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=18&rangeStart=503&rangeEnd=530"
+    },
+    {
+      "bookmarkId": "38119173_16_5012-5032",
+      "chapterUid": 16,
+      "range": "5012-5032",
+      "markText": "尔俸尔禄，民膏民脂，下民易虐，上天难欺。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=16&rangeStart=5012&rangeEnd=5032",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=16&rangeStart=5012&rangeEnd=5032"
+    },
+    {
+      "bookmarkId": "38119173_26_13138-13213",
+      "chapterUid": 26,
+      "range": "13138-13213",
+      "markText": "任何一个时代，都不缺李纲、宗泽这样的硬骨头。 可又有多少时代，容得下这样的硬骨头？",
+      "totalCount": 228,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=26&rangeStart=13138&rangeEnd=13213",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=26&rangeStart=13138&rangeEnd=13213"
+    },
+    {
+      "bookmarkId": "38119173_10_7811-7846",
+      "chapterUid": 10,
+      "range": "7811-7846",
+      "markText": "希望将道德的还给道德，功业的还给功业，历史的还给历史，人性的还给人性。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=10&rangeStart=7811&rangeEnd=7846",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=10&rangeStart=7811&rangeEnd=7846"
+    },
+    {
+      "bookmarkId": "38119173_4_4997-5016",
+      "chapterUid": 4,
+      "range": "4997-5016",
+      "markText": "赵匡胤多次隐忍不发，因为，他需要赵普。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=4&rangeStart=4997&rangeEnd=5016",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=4&rangeStart=4997&rangeEnd=5016"
+    },
+    {
+      "bookmarkId": "38119173_31_11408-11426",
+      "chapterUid": 31,
+      "range": "11408-11426",
+      "markText": "只是这里面，似乎还缺了一个人的跪像。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=31&rangeStart=11408&rangeEnd=11426",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=31&rangeStart=11408&rangeEnd=11426"
+    },
+    {
+      "bookmarkId": "38119173_26_5284-5330",
+      "chapterUid": 26,
+      "range": "5284-5330",
+      "markText": "靖康二年（1127），金人纵火焚城，烧杀掳掠，挟持徽钦二帝、宗室、妃嫔、大臣等三千多人北归。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=26&rangeStart=5284&rangeEnd=5330",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=26&rangeStart=5284&rangeEnd=5330"
+    },
+    {
+      "bookmarkId": "38119173_10_5579-5603",
+      "chapterUid": 10,
+      "range": "5579-5603",
+      "markText": "我相信他是为了保全晚节，留恋权位，而变得懦弱的。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=38119173&chapterUid=10&rangeStart=5579&rangeEnd=5603",
+      "webLink": "https://weread.qq.com/web/reader/87a326a07245a70587a7571?chapterUid=10&rangeStart=5579&rangeEnd=5603"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

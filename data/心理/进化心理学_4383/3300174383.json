@@ -1,0 +1,1176 @@
+{
+  "meta": {
+    "bookId": "3300174383",
+    "title": "进化心理学",
+    "author": "[美]戴维·巴斯",
+    "translator": "张勇 蒋柯 译 熊哲宏 审校",
+    "cover": "https://cdn.weread.qq.com/weread/cover/20/cpplatform_qqjsdvzbgvmq32q3pfepta/t6_cpplatform_qqjsdvzbgvmq32q3pfepta1762152333.jpg",
+    "intro": "进化心理学是一门革命性的新科学，它提供了一个有趣而独特的视角来观察人类的心理和行为，是现代心理学和进化生物学在理论上的真正融合。作者戴维·巴斯是进化心理学领域的权威学者和领军人物，他在本书中对进化心理学这一日新月异的领域进行了全面而深入的回顾和展望。全书论述的主题是按照适应性问题来展开的，从生存挑战、择偶、抚育、亲属到群体生活的挑战，包括合作、攻击、性冲突、地位以及社会等级。各章不仅介绍必备的理论背景，而且还提供了生动具体的实例，帮助读者透彻地理解这一领域。作者的写作风格清晰简洁，轻松易读，逻辑严密，引人入胜，即便是普通读者也可以将书中学到的相关知识应用于理解自身和他人的生活。\r\n自1999年首版以来，本书一直是进化心理学领域里程碑式的著作，是了解和学习进化心理学的必读书。第4版不仅增添了400余条新文献，而且增加了大量内容，包括：跨文化研究、生理学研究、遗传学和脑成像等研究方法；进化形成的导航机制理论；火和烹饪；凶杀；模仿择偶行为；男性择偶偏好对他们实际择偶行为的影响；等等。",
+    "category": "心理-心理学研究",
+    "publisher": "",
+    "publishTime": "2025-11-03 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 873,
+    "newRatingCount": 797,
+    "newRatingDetail": {
+      "good": 699,
+      "fair": 76,
+      "poor": 22,
+      "recent": 22,
+      "deepV": 262,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=3300174383",
+    "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699",
+    "lastSync": "2026-05-21T11:47:48Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 4,
+    "bookmarkCount": 0,
+    "contentHash": "5852f69104eb88201a511f82e7260f79390df47a545830596676cd7c694205cd"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=1"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 951,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 3,
+      "title": "献词",
+      "level": 1,
+      "wordCount": 205,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 4,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 395,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 5,
+      "title": "中文版序言",
+      "level": 1,
+      "wordCount": 1425,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=39"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 6,
+      "title": "序言",
+      "level": 1,
+      "wordCount": 6319,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=61"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 7,
+      "title": "第一编 进化心理学的基础理论",
+      "level": 1,
+      "wordCount": 418,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 8,
+      "title": "第1章 导致进化心理学出现的科学运动",
+      "level": 2,
+      "wordCount": 31229,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "进化思想史上的里程碑事件",
+          "translateTitle": "进化思想史上的里程碑事件",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        },
+        {
+          "title": "对进化论的常见误解",
+          "translateTitle": "对进化论的常见误解",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "现代人类起源的里程碑事件",
+          "translateTitle": "现代人类起源的里程碑事件",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        },
+        {
+          "title": "心理学领域的里程碑",
+          "translateTitle": "心理学领域的里程碑",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "translateTitle": "总结",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 9,
+      "title": "第2章 作为新科学的进化心理学",
+      "level": 2,
+      "wordCount": 32881,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "人性的起源",
+          "translateTitle": "人性的起源",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        },
+        {
+          "title": "人性的核心：进化心理机制的基本原理",
+          "translateTitle": "人性的核心：进化心理机制的基本原理",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        },
+        {
+          "title": "检验进化假设的方法",
+          "translateTitle": "检验进化假设的方法",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "检验进化假设的数据来源",
+          "translateTitle": "检验进化假设的数据来源",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        },
+        {
+          "title": "确定适应性问题",
+          "translateTitle": "确定适应性问题",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "translateTitle": "总结",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 10,
+      "title": "第二编 生存问题",
+      "level": 1,
+      "wordCount": 357,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=44"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 11,
+      "title": "第3章 克服恶劣的自然条件——人类的生存问题",
+      "level": 2,
+      "wordCount": 31560,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "食物的获得和选择",
+          "translateTitle": "食物的获得和选择",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "寻找栖息之所：对居所和风景的偏好",
+          "translateTitle": "寻找栖息之所：对居所和风景的偏好",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        },
+        {
+          "title": "抵御捕食者和环境中的其他危险：害怕、恐惧症、焦虑和“适应性偏差”",
+          "translateTitle": "抵御捕食者和环境中的其他危险：害怕、恐惧症、焦虑和“适应性偏差”",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "人为什么会死亡",
+          "translateTitle": "人为什么会死亡",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "translateTitle": "总结",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=62"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 12,
+      "title": "第三编 性行为和择偶行为的挑战",
+      "level": 1,
+      "wordCount": 648,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 13,
+      "title": "第4章 女性的长期择偶策略",
+      "level": 2,
+      "wordCount": 31662,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "择偶偏好的进化理论背景",
+          "translateTitle": "择偶偏好的进化理论背景",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "女性择偶偏好的内容",
+          "translateTitle": "女性择偶偏好的内容",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        },
+        {
+          "title": "影响女性择偶偏好的背景因素",
+          "translateTitle": "影响女性择偶偏好的背景因素",
+          "anchor": "sigil_toc_id_22",
+          "level": 3
+        },
+        {
+          "title": "女性的择偶偏好如何影响实际的择偶行为",
+          "translateTitle": "女性的择偶偏好如何影响实际的择偶行为",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "translateTitle": "总结",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 14,
+      "title": "第5章 男性的长期择偶策略",
+      "level": 2,
+      "wordCount": 29845,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "男性择偶偏好的进化理论背景",
+          "translateTitle": "男性择偶偏好的进化理论背景",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        },
+        {
+          "title": "男性择偶偏好的内容",
+          "translateTitle": "男性择偶偏好的内容",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        },
+        {
+          "title": "影响男性择偶行为的背景因素",
+          "translateTitle": "影响男性择偶行为的背景因素",
+          "anchor": "sigil_toc_id_28",
+          "level": 3
+        },
+        {
+          "title": "男性的择偶偏好对实际择偶行为的影响",
+          "translateTitle": "男性的择偶偏好对实际择偶行为的影响",
+          "anchor": "sigil_toc_id_29",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "translateTitle": "总结",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 15,
+      "title": "第6章 短期的性关系策略",
+      "level": 2,
+      "wordCount": 23970,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "男性短期择偶的理论",
+          "translateTitle": "男性短期择偶的理论",
+          "anchor": "sigil_toc_id_32",
+          "level": 3
+        },
+        {
+          "title": "短期择偶的心理机制的进化证据",
+          "translateTitle": "短期择偶的心理机制的进化证据",
+          "anchor": "sigil_toc_id_33",
+          "level": 3
+        },
+        {
+          "title": "女性的短期择偶行为",
+          "translateTitle": "女性的短期择偶行为",
+          "anchor": "sigil_toc_id_34",
+          "level": 3
+        },
+        {
+          "title": "影响短期择偶的背景因素",
+          "translateTitle": "影响短期择偶的背景因素",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "translateTitle": "总结",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 16,
+      "title": "第四编 亲代抚育和亲属关系的挑战",
+      "level": 1,
+      "wordCount": 417,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 17,
+      "title": "第7章 亲代抚育问题",
+      "level": 2,
+      "wordCount": 30025,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "为什么母亲对子女的照顾比父亲更多",
+          "translateTitle": "为什么母亲对子女的照顾比父亲更多",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "从进化的视角来解释亲代抚育",
+          "translateTitle": "从进化的视角来解释亲代抚育",
+          "anchor": "sigil_toc_id_39",
+          "level": 3
+        },
+        {
+          "title": "亲子冲突的理论",
+          "translateTitle": "亲子冲突的理论",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "translateTitle": "总结",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 18,
+      "title": "第8章 亲属关系问题",
+      "level": 2,
+      "wordCount": 30916,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "广义适合度的理论和推论",
+          "translateTitle": "广义适合度的理论和推论",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        },
+        {
+          "title": "支持广义适合度理论的推论的实证依据",
+          "translateTitle": "支持广义适合度理论的推论的实证依据",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "translateTitle": "总结",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 19,
+      "title": "第五编 群居问题",
+      "level": 1,
+      "wordCount": 733,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 20,
+      "title": "第9章 合作联盟",
+      "level": 2,
+      "wordCount": 29941,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "合作行为的进化",
+          "translateTitle": "合作行为的进化",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "互惠式的利他主义理论",
+          "translateTitle": "互惠式的利他主义理论",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "其他物种的合作行为",
+          "translateTitle": "其他物种的合作行为",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        },
+        {
+          "title": "人类的合作行为和利他行为",
+          "translateTitle": "人类的合作行为和利他行为",
+          "anchor": "sigil_toc_id_50",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "translateTitle": "总结",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 21,
+      "title": "第10章 攻击与战争",
+      "level": 2,
+      "wordCount": 31013,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "攻击用于解决适应性问题",
+          "translateTitle": "攻击用于解决适应性问题",
+          "anchor": "sigil_toc_id_53",
+          "level": 3
+        },
+        {
+          "title": "为什么男性比女性更具攻击性",
+          "translateTitle": "为什么男性比女性更具攻击性",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        },
+        {
+          "title": "关于攻击行为的不同适应性模式的研究证据",
+          "translateTitle": "关于攻击行为的不同适应性模式的研究证据",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "translateTitle": "总结",
+          "anchor": "sigil_toc_id_56",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 22,
+      "title": "第11章 两性冲突",
+      "level": 2,
+      "wordCount": 31029,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "策略冲突理论",
+          "translateTitle": "策略冲突理论",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        },
+        {
+          "title": "关于是否发生性行为以及何时发生性行为的冲突",
+          "translateTitle": "关于是否发生性行为以及何时发生性行为的冲突",
+          "anchor": "sigil_toc_id_59",
+          "level": 3
+        },
+        {
+          "title": "性侵犯与进化形成的防御方式",
+          "translateTitle": "性侵犯与进化形成的防御方式",
+          "anchor": "sigil_toc_id_60",
+          "level": 3
+        },
+        {
+          "title": "性嫉妒中的冲突",
+          "translateTitle": "性嫉妒中的冲突",
+          "anchor": "sigil_toc_id_61",
+          "level": 3
+        },
+        {
+          "title": "从警惕到暴力：留住配偶的策略",
+          "translateTitle": "从警惕到暴力：留住配偶的策略",
+          "anchor": "sigil_toc_id_62",
+          "level": 3
+        },
+        {
+          "title": "关于资源的冲突",
+          "translateTitle": "关于资源的冲突",
+          "anchor": "sigil_toc_id_63",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "translateTitle": "总结",
+          "anchor": "sigil_toc_id_64",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 23,
+      "title": "第12章 地位、声望和社会等级",
+      "level": 2,
+      "wordCount": 30093,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "支配等级的形成过程",
+          "translateTitle": "支配等级的形成过程",
+          "anchor": "sigil_toc_id_66",
+          "level": 3
+        },
+        {
+          "title": "人类以外的动物的社会等级",
+          "translateTitle": "人类以外的动物的社会等级",
+          "anchor": "sigil_toc_id_67",
+          "level": 3
+        },
+        {
+          "title": "支配和地位的进化理论",
+          "translateTitle": "支配和地位的进化理论",
+          "anchor": "sigil_toc_id_68",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "translateTitle": "总结",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 24,
+      "title": "第六编 一门整合的心理科学",
+      "level": 1,
+      "wordCount": 246,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=58"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 25,
+      "title": "第13章 走向统一的进化心理学",
+      "level": 2,
+      "wordCount": 42203,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "进化认知心理学",
+          "translateTitle": "进化认知心理学",
+          "anchor": "sigil_toc_id_71",
+          "level": 3
+        },
+        {
+          "title": "进化社会心理学",
+          "translateTitle": "进化社会心理学",
+          "anchor": "sigil_toc_id_72",
+          "level": 3
+        },
+        {
+          "title": "进化发展心理学",
+          "translateTitle": "进化发展心理学",
+          "anchor": "sigil_toc_id_73",
+          "level": 3
+        },
+        {
+          "title": "进化人格心理学",
+          "translateTitle": "进化人格心理学",
+          "anchor": "sigil_toc_id_74",
+          "level": 3
+        },
+        {
+          "title": "进化临床心理学",
+          "translateTitle": "进化临床心理学",
+          "anchor": "sigil_toc_id_75",
+          "level": 3
+        },
+        {
+          "title": "进化文化心理学",
+          "translateTitle": "进化文化心理学",
+          "anchor": "sigil_toc_id_76",
+          "level": 3
+        },
+        {
+          "title": "走向统一的心理学",
+          "translateTitle": "走向统一的心理学",
+          "anchor": "sigil_toc_id_77",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=63"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 26,
+      "title": "推荐阅读",
+      "level": 1,
+      "wordCount": 16037,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=60"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 27,
+      "title": "参考文献（一）",
+      "level": 1,
+      "wordCount": 29275,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 28,
+      "title": "参考文献（二）",
+      "level": 1,
+      "wordCount": 19539,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 29,
+      "title": "参考文献（三）",
+      "level": 1,
+      "wordCount": 15563,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 30,
+      "title": "参考文献（四）",
+      "level": 1,
+      "wordCount": 24164,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 31,
+      "title": "参考文献（五）",
+      "level": 1,
+      "wordCount": 50464,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 32,
+      "title": "参考文献（六）",
+      "level": 1,
+      "wordCount": 31408,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 33,
+      "title": "参考文献（七）",
+      "level": 1,
+      "wordCount": 14378,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 34,
+      "title": "索引",
+      "level": 1,
+      "wordCount": 46783,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300174383&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=33"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 43,
+      "chapterTitle": "第2章 作为新科学的进化心理学",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300174383_9_32286-32455",
+          "range": "39717-39949",
+          "rangeStart": 39717,
+          "rangeEnd": 39949,
+          "markText": "比较数据得到了下面的结果。雄性大猩猩的睾丸重量占体重的0.02%；猩猩的是0.05%；人类的是0.08%；而在黑猩猩样本中，睾丸重量占到体重的0.27%（Short, 1979; Smith, 1984）。总之，精子竞争最为激烈的物种拥有最大的睾丸容量，而精子竞争最少的物种则拥有最小的睾丸容量。所以，比较法的研究结果支持了精子竞争假设。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1762228898,
+          "createTimeFormatted": "2025-11-04 12:01:38",
+          "chapterUid": 43,
+          "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=43&rangeStart=39717&rangeEnd=39949",
+          "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=43&rangeStart=39717&rangeEnd=39949"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_84p1OSwHn",
+          "range": "39750-39752",
+          "chapterName": "第2章 作为新科学的进化心理学",
+          "content": "xīnɡ xinɡ\n灵长类哺乳动物。体毛赤褐毛。体高可达1.4米。上肢甚长，直立时可达脚踝。无尾和颊囊。头尖，眼小，耳小，口大。树栖，白昼活动，杂食果实、植物嫩芽、蜂蜜、鸟蛋等。产于加里曼丹和苏门答腊的森林中。又称红猩猩、褐猿。",
+          "abstract": "猩猩",
+          "star": -1,
+          "createTime": 1762228977,
+          "createTimeFormatted": "2025-11-04 12:02:57",
+          "isFinish": false,
+          "chapterUid": 43
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_84p1NHH5v",
+          "range": "39772-39775",
+          "chapterName": "第2章 作为新科学的进化心理学",
+          "content": "hēi xīnɡ xīnɡ\n（Pantroglodytes）亦称“黑猿”。哺乳纲，灵长目，人科。体高1.2～1.5米。毛黑色，头较圆，耳大，向两边突出，眉骨高，两眼深陷；鼻小，唇长而薄；前肢长过膝部。生活在非洲中部和西部的热带森林中。成小群，常下地活动，能直立行走。晚间在树上筑巢过夜。杂食性，嗜食果实，也吃昆虫、鸟类。从小饲养者可教以较复杂的动作，适于作动物心理试验。",
+          "abstract": "黑猩猩",
+          "star": -1,
+          "createTime": 1762228960,
+          "createTimeFormatted": "2025-11-04 12:02:40",
+          "isFinish": false,
+          "chapterUid": 43
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_84p1MPTLi",
+          "range": "39732-39735",
+          "chapterName": "第2章 作为新科学的进化心理学",
+          "content": "dà xīnɡ xīnɡ\n（Gorillagorilla）亦称“大猿”。哺乳纲，灵长目，人科。躯体魁梧，是最大的类人猿。雄性高约1.65米，雌性高约1.40米。前肢比后肢长，𧿹趾靠近其他四趾，适于在地上生活。犬齿特别发达。脑比人脑小得多，但结构和人脑最为相似。毛黑褐色，略发灰，老年时灰毛增多。栖息于密林中，雌性和幼仔常树居，雄性多在地面生活；通常3～5只在一起生活。主要以植物嫩芽、野果为食。分布于非洲西部和东部的赤道地区。",
+          "abstract": "大猩猩",
+          "star": -1,
+          "createTime": 1762228947,
+          "createTimeFormatted": "2025-11-04 12:02:27",
+          "isFinish": false,
+          "chapterUid": 43
+        }
+      ]
+    },
+    {
+      "chapterUid": 42,
+      "chapterTitle": "第1章 导致进化心理学出现的科学运动",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300174383_8_8376-8421",
+          "range": "9640-9685",
+          "rangeStart": 9640,
+          "rangeEnd": 9685,
+          "markText": "孔雀的尾巴之所以得以进化，是因为异性选择的缘故，雌孔雀更喜欢挑选羽毛艳丽的雄性孔雀做配偶。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1762187392,
+          "createTimeFormatted": "2025-11-04 00:29:52",
+          "chapterUid": 42,
+          "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=9640&rangeEnd=9685",
+          "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=9640&rangeEnd=9685"
+        }
+      ]
+    },
+    {
+      "chapterUid": 62,
+      "chapterTitle": "第3章 克服恶劣的自然条件——人类的生存问题",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_84y6uK7IU",
+          "range": "11344-11347",
+          "chapterName": "第3章 克服恶劣的自然条件——人类的生存问题",
+          "content": "zōnɡ hé zhēnɡ\n曾称“症候群”。代表一些相互关联的器官病变或功能紊乱而同时出现的一群症状。常可出现于几种疾病或由于几种不同原因所引起的疾病。如有显著的全身水肿、大量蛋白尿、血浆白蛋白降低和血胆固醇增高时，称“肾病综合征”。不少综合征用首先发现的一个或几个学者的姓氏命名，如阿-斯综合征等。中医学中的病证，如脏腑分证、六经分证等，其表现的症状，类似综合征。",
+          "abstract": "综合征",
+          "star": -1,
+          "createTime": 1762744462,
+          "createTimeFormatted": "2025-11-10 11:14:22",
+          "isFinish": false,
+          "chapterUid": 62
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300174383_39_940-1035",
+      "chapterUid": 39,
+      "range": "940-1035",
+      "markText": "其中最有趣的发现是，中国参与者对婚姻伴侣的贞洁特别重视。",
+      "totalCount": 400,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=39&rangeStart=940&rangeEnd=1035",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=39&rangeStart=940&rangeEnd=1035"
+    },
+    {
+      "bookmarkId": "3300174383_42_11365-11417",
+      "chapterUid": 42,
+      "range": "11365-11417",
+      "markText": "自然选择只是对那些碰巧存活下来的遗传变异发挥作用。进化不是一个有目的的过程，更不会预知生物体未来的需要。",
+      "totalCount": 377,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=11365&rangeEnd=11417",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=11365&rangeEnd=11417"
+    },
+    {
+      "bookmarkId": "3300174383_47_60966-61054",
+      "chapterUid": 47,
+      "range": "60966-61054",
+      "markText": "有时，这些男性满足于短期的性关系，不愿意给出长期的承诺，这就让女性面临一个难题。对于这个问题，解决手段之一是寻求对方的爱情。爱情往往标志着一个男性从事实上对某个女性作出了承诺。",
+      "totalCount": 342,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=47&rangeStart=60966&rangeEnd=61054",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=47&rangeStart=60966&rangeEnd=61054"
+    },
+    {
+      "bookmarkId": "3300174383_42_21709-21793",
+      "chapterUid": 42,
+      "range": "21709-21793",
+      "markText": "假如你是一个基因，你会怎样来促进自己的复制？首先，你得保证你的宿主的生存。其次，你需要促使宿主繁殖。第三，你还可以帮助那些携带有你一部分基因拷贝的其他个体的生存和繁衍。",
+      "totalCount": 324,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=21709&rangeEnd=21793",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=21709&rangeEnd=21793"
+    },
+    {
+      "bookmarkId": "3300174383_42_60101-60148",
+      "chapterUid": 42,
+      "range": "60101-60148",
+      "markText": "人可能与生俱来就已经拥有了某些预置程序或特定装备，规定了对某些特定信息做出反应而忽略其他信息。",
+      "totalCount": 324,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=60101&rangeEnd=60148",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=60101&rangeEnd=60148"
+    },
+    {
+      "bookmarkId": "3300174383_42_7646-7684",
+      "chapterUid": 42,
+      "range": "7646-7684",
+      "markText": "达尔文有一个非常好的科学习惯，他很乐于关注那些看起来与他的理论不一致的证据。",
+      "totalCount": 280,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=7646&rangeEnd=7684",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=7646&rangeEnd=7684"
+    },
+    {
+      "bookmarkId": "3300174383_42_9551-9579",
+      "chapterUid": 42,
+      "range": "9551-9579",
+      "markText": "在动物界中，绝大多数动物都是由雌性来挑选她们的潜在配偶。",
+      "totalCount": 256,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=9551&rangeEnd=9579",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=9551&rangeEnd=9579"
+    },
+    {
+      "bookmarkId": "3300174383_42_57058-57092",
+      "chapterUid": 42,
+      "range": "57058-57092",
+      "markText": "即人类心理被设计出来是为了解决特殊的信息加工问题——生存和繁衍问题。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=57058&rangeEnd=57092",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=57058&rangeEnd=57092"
+    },
+    {
+      "bookmarkId": "3300174383_42_18867-18901",
+      "chapterUid": 42,
+      "range": "18867-18901",
+      "markText": "我们的认知和知觉范畴是先于个体经验而存在的，它们能够适应外部的环境。",
+      "totalCount": 253,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=18867&rangeEnd=18901",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=18867&rangeEnd=18901"
+    },
+    {
+      "bookmarkId": "3300174383_42_33381-33428",
+      "chapterUid": 42,
+      "range": "33381-33428",
+      "markText": "如果某种设计相对于其他设计而言具有相对较大的收益和较小的代价，那么自然选择就会青睐这样的机制。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=33381&rangeEnd=33428",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=33381&rangeEnd=33428"
+    },
+    {
+      "bookmarkId": "3300174383_42_49102-49126",
+      "chapterUid": 42,
+      "range": "49102-49126",
+      "markText": "行为主义宣称，人性的本质就在于人类没有任何天性。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=49102&rangeEnd=49126",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=49102&rangeEnd=49126"
+    },
+    {
+      "bookmarkId": "3300174383_42_40118-40195",
+      "chapterUid": 42,
+      "range": "40118-40195",
+      "markText": "弗洛伊德认为，性不仅仅是成年人独有的动机，而是人在所有年龄阶段的基本驱力，从初生的婴儿直到耄耋老人，概莫能外。而我们所有的心理结构，都不过是性的宣泄渠道。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=40118&rangeEnd=40195",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=40118&rangeEnd=40195"
+    },
+    {
+      "bookmarkId": "3300174383_42_9640-9684",
+      "chapterUid": 42,
+      "range": "9640-9684",
+      "markText": "孔雀的尾巴之所以得以进化，是因为异性选择的缘故，雌孔雀更喜欢挑选羽毛艳丽的雄性孔雀做配偶",
+      "totalCount": 195,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=9640&rangeEnd=9684",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=9640&rangeEnd=9684"
+    },
+    {
+      "bookmarkId": "3300174383_42_14174-14220",
+      "chapterUid": 42,
+      "range": "14174-14220",
+      "markText": "所以他迟迟不出版自己的著作，部分原因在于他担心会引起妻子艾玛的不安，她是一个虔诚的宗教信徒。",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=14174&rangeEnd=14220",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=14174&rangeEnd=14220"
+    },
+    {
+      "bookmarkId": "3300174383_43_31571-31662",
+      "chapterUid": 43,
+      "range": "31571-31662",
+      "markText": "我们大多数人通常都认为，如果拥有大量先天的心理机制，那么行为一定会变得非常死板。然而，实际情况却恰恰相反。我们拥有的这种机制越多，我们能够执行的行为就越多，我们行为的灵活性也就越高。",
+      "totalCount": 190,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=43&rangeStart=31571&rangeEnd=31662",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=43&rangeStart=31571&rangeEnd=31662"
+    },
+    {
+      "bookmarkId": "3300174383_42_31580-31645",
+      "chapterUid": 42,
+      "range": "31580-31645",
+      "markText": "当女性对他们微笑时，并不一定意味着女性对他们有性兴趣，那么他们就能够利用这些知识来规范自己的行为，减少对女性做出唐突或冒犯的举动。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=31580&rangeEnd=31645",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=31580&rangeEnd=31645"
+    },
+    {
+      "bookmarkId": "3300174383_43_25726-25881",
+      "chapterUid": 43,
+      "range": "25726-25881",
+      "markText": "我们的主要观点并不是说心理机制的输出结果总是会成功地解决问题，而是说心理机制的输出结果平均来看会比当时的进化环境中存在的其他策略更为有效地解决问题。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=43&rangeStart=25726&rangeEnd=25881",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=43&rangeStart=25726&rangeEnd=25881"
+    },
+    {
+      "bookmarkId": "3300174383_42_50047-50103",
+      "chapterUid": 42,
+      "range": "50047-50103",
+      "markText": "米德描述了一个天堂般的热带岛屿，那里的人们和平相处，大方地共享伴侣，自由开放地恋爱，没有竞争、强奸、暴力和凶杀。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=42&rangeStart=50047&rangeEnd=50103",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=42&rangeStart=50047&rangeEnd=50103"
+    },
+    {
+      "bookmarkId": "3300174383_47_24810-24887",
+      "chapterUid": 47,
+      "range": "24810-24887",
+      "markText": "她发现，雌狒狒经常和某些雄狒狒形成“特别的友谊”，因为这些雄狒狒能为她们及其子女提供人身保护。作为回报，雌狒狒在发情期到来时会优先考虑这些特别的“朋友”。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=47&rangeStart=24810&rangeEnd=24887",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=47&rangeStart=24810&rangeEnd=24887"
+    },
+    {
+      "bookmarkId": "3300174383_48_631-644",
+      "chapterUid": 48,
+      "range": "631-644",
+      "markText": "为什么少女会让人神魂颠倒？",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300174383&chapterUid=48&rangeStart=631&rangeEnd=644",
+      "webLink": "https://weread.qq.com/web/reader/f9632d30813abaa9eg013699?chapterUid=48&rangeStart=631&rangeEnd=644"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 61,
+    "chapterOffset": 1801,
+    "progress": 0,
+    "updateTime": 1769585258,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

@@ -1,0 +1,661 @@
+{
+  "meta": {
+    "bookId": "814849",
+    "title": "孙子兵法",
+    "author": "[春秋]孙武",
+    "translator": "",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/849/814849/t6_814849.jpg",
+    "intro": "    《孙子兵法》是世界公认的现存最古老的军事理论著作，共分13篇，总计5900余字，被人们尊奉为“兵经”、是春秋时期最伟大的军事家孙武所著，被尊奉为“百世谈兵之祖”。\n",
+    "category": "政治军事-军事",
+    "publisher": "阅文集团",
+    "publishTime": "2016-03-22 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 897,
+    "newRatingCount": 3918,
+    "newRatingDetail": {
+      "good": 3570,
+      "fair": 298,
+      "poor": 50,
+      "recent": 20,
+      "deepV": 417,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=814849",
+    "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077",
+    "lastSync": "2026-05-21T11:49:25Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "2024-08-31",
+    "noteCount": 5,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=814849&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 52,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=814849&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "上卷",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=814849&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "计篇",
+      "level": 2,
+      "wordCount": 466,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "计篇",
+          "anchor": "Chapter1_00002",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "作战篇",
+      "level": 2,
+      "wordCount": 436,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "作战篇",
+          "anchor": "Chapter1_00003",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "谋攻篇",
+      "level": 2,
+      "wordCount": 538,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "谋攻篇",
+          "anchor": "Chapter1_00004",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "形篇",
+      "level": 2,
+      "wordCount": 397,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "形篇",
+          "anchor": "Chapter1_00005",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "中卷",
+      "level": 1,
+      "wordCount": 4,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=814849&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "势篇",
+      "level": 2,
+      "wordCount": 443,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "势篇",
+          "anchor": "Chapter2_00002",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "虚实篇",
+      "level": 2,
+      "wordCount": 753,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "虚实篇",
+          "anchor": "Chapter2_00003",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "军争篇",
+      "level": 2,
+      "wordCount": 614,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "军争篇",
+          "anchor": "Chapter2_00004",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "九变篇",
+      "level": 2,
+      "wordCount": 323,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "九变篇",
+          "anchor": "Chapter2_00005",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "行军篇",
+      "level": 2,
+      "wordCount": 809,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "行军篇",
+          "anchor": "Chapter2_00006",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "下卷",
+      "level": 1,
+      "wordCount": 4,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=814849&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "地形篇",
+      "level": 2,
+      "wordCount": 709,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "地形篇",
+          "anchor": "Chapter3_00002",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "九地篇",
+      "level": 2,
+      "wordCount": 1368,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "九地篇",
+          "anchor": "Chapter3_00003",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "火攻篇",
+      "level": 2,
+      "wordCount": 365,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "火攻篇",
+          "anchor": "Chapter3_00004",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "用间篇",
+      "level": 2,
+      "wordCount": 594,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "用间篇",
+          "anchor": "Chapter3_00005",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "附录",
+      "level": 1,
+      "wordCount": 562,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "附录",
+          "anchor": "Appendix1_00001",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=814849&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=19"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "谋攻篇",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "814849_6_1031-1070",
+          "range": "1031-1070",
+          "rangeStart": 1031,
+          "rangeEnd": 1070,
+          "markText": "用兵之法，十则围之，五则攻之，倍则分之，敌则能战之，少则能逃之，不若则能避之。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1754068069,
+          "createTimeFormatted": "2025-08-02 01:07:49",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=814849&chapterUid=6&rangeStart=1031&rangeEnd=1070",
+          "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=6&rangeStart=1031&rangeEnd=1070"
+        }
+      ]
+    },
+    {
+      "chapterUid": 16,
+      "chapterTitle": "九地篇",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "814849_16_2178-2190",
+          "range": "2178-2190",
+          "rangeStart": 2178,
+          "rangeEnd": 2190,
+          "markText": "不用乡导者，不能得地利。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1734599874,
+          "createTimeFormatted": "2024-12-19 17:17:54",
+          "chapterUid": 16,
+          "appLink": "weread://bestbookmark?bookId=814849&chapterUid=16&rangeStart=2178&rangeEnd=2190",
+          "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=16&rangeStart=2178&rangeEnd=2190"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "814849_16_547-798",
+          "range": "547-798",
+          "rangeStart": 547,
+          "rangeEnd": 798,
+          "markText": "孙子曰：用兵之法，有散地，有轻地，有争地，有交地，有衢地，有重地，有圮地，有围地，有死地。诸侯自战其地，为散地；入人之地而不深者，为轻地；我得则利，彼得亦利者，为争地；我可以往，彼可以来者，为交地；诸侯之地三属，先至而得天下之众者，为衢地；入人之地深，背城邑多者，为重地；行山林、险阻、沮泽，凡难行之道者，为圮地；所由入者隘，所从归者迂，彼寡可以击吾之众者，为围地；疾战则存，不疾战则亡者，为死地。是故散地则无战，轻地则无止，争地则无攻，交地则无绝，衢地则合交，重地则掠，圮地则行，围地则谋，死地则战。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1725109068,
+          "createTimeFormatted": "2024-08-31 20:57:48",
+          "chapterUid": 16,
+          "appLink": "weread://bestbookmark?bookId=814849&chapterUid=16&rangeStart=547&rangeEnd=798",
+          "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=16&rangeStart=547&rangeEnd=798"
+        }
+      ]
+    },
+    {
+      "chapterUid": 11,
+      "chapterTitle": "军争篇",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "814849_11_951-963",
+          "range": "951-963",
+          "rangeStart": 951,
+          "rangeEnd": 963,
+          "markText": "不用乡导者，不能得地利。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1734599865,
+          "createTimeFormatted": "2024-12-19 17:17:45",
+          "chapterUid": 11,
+          "appLink": "weread://bestbookmark?bookId=814849&chapterUid=11&rangeStart=951&rangeEnd=963",
+          "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=11&rangeStart=951&rangeEnd=963"
+        }
+      ]
+    },
+    {
+      "chapterUid": 9,
+      "chapterTitle": "势篇",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "814849_9_1353-1432",
+          "range": "1353-1432",
+          "rangeStart": 1353,
+          "rangeEnd": 1432,
+          "markText": "故善战者，求之于势，不责于人，故能择人而任势。任势者，其战人也，如转木石。木石之性，安则静，危则动，方则止，圆则行。故善战人之势，如转圆石于千仞之山者，势也。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1734487059,
+          "createTimeFormatted": "2024-12-18 09:57:39",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=814849&chapterUid=9&rangeStart=1353&rangeEnd=1432",
+          "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=9&rangeStart=1353&rangeEnd=1432"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "814849_4_1142-1216",
+      "chapterUid": 4,
+      "range": "1142-1216",
+      "markText": "兵者，诡道也。故能而示之不能，用而示之不用，近而示之远，远而示之近。利而诱之，乱而取之，实而备之，强而避之，怒而挠之，卑而骄之，佚而劳之，亲而离之。",
+      "totalCount": 4830,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=4&rangeStart=1142&rangeEnd=1216",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=4&rangeStart=1142&rangeEnd=1216"
+    },
+    {
+      "bookmarkId": "814849_4_687-717",
+      "chapterUid": 4,
+      "range": "687-717",
+      "markText": "道者，令民与上同意也，故可以与之死，可以与之生，而不畏危也。",
+      "totalCount": 3104,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=4&rangeStart=687&rangeEnd=717",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=4&rangeStart=687&rangeEnd=717"
+    },
+    {
+      "bookmarkId": "814849_4_1398-1453",
+      "chapterUid": 4,
+      "range": "1398-1453",
+      "markText": "夫未战而庙算胜者，得算多也；未战而庙算不胜者，得算少也。多算胜，少算不胜，而况于无算乎！吾以此观之，胜负见矣。",
+      "totalCount": 2607,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=4&rangeStart=1398&rangeEnd=1453",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=4&rangeStart=1398&rangeEnd=1453"
+    },
+    {
+      "bookmarkId": "814849_5_547-612",
+      "chapterUid": 5,
+      "range": "547-612",
+      "markText": "孙子曰：凡用兵之法，驰车千驷，革车千乘，带甲十万，千里馈粮。则内外之费，宾客之用，胶漆之材，车甲之奉，日费千金，然后十万之师举矣。",
+      "totalCount": 2587,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=5&rangeStart=547&rangeEnd=612",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=5&rangeStart=547&rangeEnd=612"
+    },
+    {
+      "bookmarkId": "814849_4_542-570",
+      "chapterUid": 4,
+      "range": "542-570",
+      "markText": "孙子曰：兵者，国之大事，死生之地，存亡之道，不可不察也。",
+      "totalCount": 2540,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=4&rangeStart=542&rangeEnd=570",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=4&rangeStart=542&rangeEnd=570"
+    },
+    {
+      "bookmarkId": "814849_5_782-803",
+      "chapterUid": 5,
+      "range": "782-803",
+      "markText": "故不尽知用兵之害者，则不能尽知用兵之利也。",
+      "totalCount": 2400,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=5&rangeStart=782&rangeEnd=803",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=5&rangeStart=782&rangeEnd=803"
+    },
+    {
+      "bookmarkId": "814849_6_607-635",
+      "chapterUid": 6,
+      "range": "607-635",
+      "markText": "是故百战百胜，非善之善者也；不战而屈人之兵，善之善者也。",
+      "totalCount": 2210,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=6&rangeStart=607&rangeEnd=635",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=6&rangeStart=607&rangeEnd=635"
+    },
+    {
+      "bookmarkId": "814849_4_874-930",
+      "chapterUid": 4,
+      "range": "874-930",
+      "markText": "故校之以计，而索其情。曰：主孰有道？将孰有能？天地孰得？法令孰行？兵众孰强？士卒孰练？赏罚孰明？吾以此知胜负矣。",
+      "totalCount": 2032,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=4&rangeStart=874&rangeEnd=930",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=4&rangeStart=874&rangeEnd=930"
+    },
+    {
+      "bookmarkId": "814849_7_546-611",
+      "chapterUid": 7,
+      "range": "546-611",
+      "markText": "孙子曰：昔之善战者，先为不可胜，以待敌之可胜。不可胜在己，可胜在敌。故善战者，能为不可胜，不能使敌之可胜。故曰：胜可知，而不可为。",
+      "totalCount": 1990,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=7&rangeStart=546&rangeEnd=611",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=7&rangeStart=546&rangeEnd=611"
+    },
+    {
+      "bookmarkId": "814849_4_1296-1318",
+      "chapterUid": 4,
+      "range": "1296-1318",
+      "markText": "攻其无备，出其不意。此兵家之胜，不可先传也。",
+      "totalCount": 1872,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=4&rangeStart=1296&rangeEnd=1318",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=4&rangeStart=1296&rangeEnd=1318"
+    },
+    {
+      "bookmarkId": "814849_4_667-687",
+      "chapterUid": 4,
+      "range": "667-687",
+      "markText": "一曰道，二曰天，三曰地，四曰将，五曰法。",
+      "totalCount": 1632,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=4&rangeStart=667&rangeEnd=687",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=4&rangeStart=667&rangeEnd=687"
+    },
+    {
+      "bookmarkId": "814849_5_756-769",
+      "chapterUid": 5,
+      "range": "756-769",
+      "markText": "故兵闻拙速，未睹巧之久也。",
+      "totalCount": 1602,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=5&rangeStart=756&rangeEnd=769",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=5&rangeStart=756&rangeEnd=769"
+    },
+    {
+      "bookmarkId": "814849_5_1010-1176",
+      "chapterUid": 5,
+      "range": "1010-1176",
+      "markText": "故智将务食于敌，食敌一钟，当吾二十钟；秆一石，当吾二十石。",
+      "totalCount": 1364,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=5&rangeStart=1010&rangeEnd=1176",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=5&rangeStart=1010&rangeEnd=1176"
+    },
+    {
+      "bookmarkId": "814849_9_911-1096",
+      "chapterUid": 9,
+      "range": "911-1096",
+      "markText": "激水之疾，至于漂石者，势也；鸷鸟之疾，至于毁折者，节也。是故善战者，其势险，其节短。势如弩，节如发机。",
+      "totalCount": 1302,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=9&rangeStart=911&rangeEnd=1096",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=9&rangeStart=911&rangeEnd=1096"
+    },
+    {
+      "bookmarkId": "814849_6_1030-1082",
+      "chapterUid": 6,
+      "range": "1030-1082",
+      "markText": "故用兵之法，十则围之，五则攻之，倍则分之，敌则能战之，少则能逃之，不若则能避之。故小敌之坚，大敌之擒也。",
+      "totalCount": 1240,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=6&rangeStart=1030&rangeEnd=1082",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=6&rangeStart=1030&rangeEnd=1082"
+    },
+    {
+      "bookmarkId": "814849_5_887-919",
+      "chapterUid": 5,
+      "range": "887-919",
+      "markText": "善用兵者，役不再籍，粮不三载，取用于国，因粮于敌，故军食可足也。",
+      "totalCount": 1200,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=5&rangeStart=887&rangeEnd=919",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=5&rangeStart=887&rangeEnd=919"
+    },
+    {
+      "bookmarkId": "814849_6_1438-1473",
+      "chapterUid": 6,
+      "range": "1438-1473",
+      "markText": "知彼知己也，百战不殆；不知彼而知己，一胜一负；不知彼不知己，每战必殆。",
+      "totalCount": 1190,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=6&rangeStart=1438&rangeEnd=1473",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=6&rangeStart=1438&rangeEnd=1473"
+    },
+    {
+      "bookmarkId": "814849_4_1052-1062",
+      "chapterUid": 4,
+      "range": "1052-1062",
+      "markText": "势者，因利而制权也。",
+      "totalCount": 1188,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=4&rangeStart=1052&rangeEnd=1062",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=4&rangeStart=1052&rangeEnd=1062"
+    },
+    {
+      "bookmarkId": "814849_9_546-610",
+      "chapterUid": 9,
+      "range": "546-610",
+      "markText": "孙子曰：凡治众如治寡，分数是也。斗众如斗寡，形名是也。三军之众，可使必受敌而无败者，奇正是也。兵之所加，如以碫投卵者，虚实是也。",
+      "totalCount": 1139,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=9&rangeStart=546&rangeEnd=610",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=9&rangeStart=546&rangeEnd=610"
+    },
+    {
+      "bookmarkId": "814849_11_1576-1629",
+      "chapterUid": 11,
+      "range": "1576-1629",
+      "markText": "故用兵之法，高陵勿向，背丘勿逆，佯北勿从，锐卒勿攻，饵兵勿食，归师勿遏，围师必阙，穷寇勿迫，此用兵之法也。",
+      "totalCount": 1068,
+      "appLink": "weread://bestbookmark?bookId=814849&chapterUid=11&rangeStart=1576&rangeEnd=1629",
+      "webLink": "https://weread.qq.com/web/reader/e7f321405c6f01e7f51f077?chapterUid=11&rangeStart=1576&rangeEnd=1629"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 6,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": 1754108608,
+    "recordReadingTime": 0,
+    "finishTime": 1725109075
+  }
+}

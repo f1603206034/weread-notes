@@ -1,0 +1,826 @@
+{
+  "meta": {
+    "bookId": "3300192324",
+    "title": "透过地理看中国",
+    "author": "史念海",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/36/cpplatform_wezt8wqau6snwrxvpldmue/t6_cpplatform_wezt8wqau6snwrxvpldmue1768474349.jpg",
+    "intro": "大地不仅是历史的舞台，也成山成水成人世。\n本书作者史念海先生是“中国历史地理学之一代宗师”，与谭其骧、侯仁之并称中国历史地理学界“三杰”。\n史念海先生以独特笔触重现千年沧桑，将枯燥的地名化为生动的场景，让沉默的山河开口。\n本书精选历史地理学泰斗史念海先生经典作品，透过文章的字里行间，我们不仅看到大国疆域发展的历史截面，也看到人口、民族的流动与融合；从长安城到沿边、沿海地区，那些留在大地上的足迹见证了历史，也共同塑造了都邑与边郡。\n历史从不抽象，它就嵌刻在每一道山脉、每一条河流和每一座城市的肌理中。",
+    "category": "历史-历史地理",
+    "publisher": "",
+    "publishTime": "2026-01-21 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 816,
+    "newRatingCount": 75,
+    "newRatingDetail": {
+      "good": 61,
+      "fair": 7,
+      "poor": 7,
+      "recent": 4,
+      "deepV": 26,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300192324",
+    "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6",
+    "lastSync": "2026-05-21T11:46:20Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "1a329876814835f55db6e307f24fd58f02a67b1a576b8cb903430359f4064af0"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 362,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "出版说明",
+      "level": 1,
+      "wordCount": 391,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "西汉帝国国力的巩固与扩张",
+      "level": 1,
+      "wordCount": 13,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "一 文景以后至武帝初年社会的富庶",
+      "level": 2,
+      "wordCount": 18555,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 武帝以前的外患",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "三 武帝时对于匈奴的征讨与西域的经营",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "四 西羌、西南夷的开发与岭南、朝鲜各地的内附",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        },
+        {
+          "title": "五 帝国的最大版图及其区划",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "汉帝国的再建",
+      "level": 1,
+      "wordCount": 7,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "一 东汉初年的社会及其小康的局面",
+      "level": 2,
+      "wordCount": 15286,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 东汉初年对于制度的改革",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "三 东汉国都的东迁与两汉立国精神的差异",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "唐宋两代广州之对外贸易",
+      "level": 1,
+      "wordCount": 12,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "一 唐宋以前广州对外贸易概论",
+      "level": 2,
+      "wordCount": 23604,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 唐宋两代广州对外贸易之范围",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "三 唐宋两代广州贸易中之重要物品及榷货",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "四 唐宋两代贸易中之货币及禁钱出口",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        },
+        {
+          "title": "五 唐宋两代广州之市舶司",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        },
+        {
+          "title": "六 唐宋两代流寓广州之外人",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        },
+        {
+          "title": "七 唐宋两代制裁外人之法律",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "关中水利与西北盛衰之史的研究",
+      "level": 1,
+      "wordCount": 15,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "一 关中的形势",
+      "level": 2,
+      "wordCount": 12151,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 秦汉时关中的水利事业",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        },
+        {
+          "title": "三 秦汉时关中的繁荣和食粮的不足",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        },
+        {
+          "title": "四 关中的萧条时代",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        },
+        {
+          "title": "五 隋唐时关中的水利和漕运",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        },
+        {
+          "title": "六 结论",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "开元天宝时期长安的文化",
+      "level": 1,
+      "wordCount": 12,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "一 文化的繁荣建立在经济繁荣的基础上",
+      "level": 2,
+      "wordCount": 210,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "二 长安多诗人",
+      "level": 2,
+      "wordCount": 17791,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 长安多诗人",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        },
+        {
+          "title": "三 曲江、杏园和慈恩寺",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        },
+        {
+          "title": "四 书法和绘画",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        },
+        {
+          "title": "五 音乐和舞蹈",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        },
+        {
+          "title": "六 小结",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "保卫大西北的外围的地理形势",
+      "level": 1,
+      "wordCount": 3351,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "隋唐时期域外地理的探索及世界认识的再扩大",
+      "level": 1,
+      "wordCount": 21,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "一 魏晋以来域外交往的回顾",
+      "level": 2,
+      "wordCount": 22970,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 隋唐时期的域外探索",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        },
+        {
+          "title": "三 隋唐时期通往域外的道路",
+          "anchor": "sigil_toc_id_24",
+          "level": 2
+        },
+        {
+          "title": "四 贾耽所记从边州入四夷的道路",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        },
+        {
+          "title": "五 隋唐时期世界认识的再扩大",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "黑水白山间人口的增殖及其分布",
+      "level": 1,
+      "wordCount": 15,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "一 辽河流域人口的分布和变迁",
+      "level": 2,
+      "wordCount": 7084,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 清朝政府的封禁政策",
+          "anchor": "sigil_toc_id_27",
+          "level": 2
+        },
+        {
+          "title": "三 松花江流域的人口分布",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        },
+        {
+          "title": "四 松辽平原以外各地的人口分布",
+          "anchor": "sigil_toc_id_29",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "关陇地区的生态环境与关陇集团的建立和巩固",
+      "level": 1,
+      "wordCount": 21,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "一 关陇集团的形成和发展",
+      "level": 2,
+      "wordCount": 9662,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 关陇集团解决关中粮食供应的措施及其成效",
+          "anchor": "sigil_toc_id_30",
+          "level": 2
+        },
+        {
+          "title": "三 关陇集团对于战马的培育",
+          "anchor": "sigil_toc_id_31",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "上古时代的交通、道路和都会",
+      "level": 1,
+      "wordCount": 14,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "一 由新石器时期的遗址分布推测交通的起源和当时道路的雏形",
+      "level": 2,
+      "wordCount": 42822,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 夏、商、周三代的都邑及其间的交通道路",
+          "anchor": "sigil_toc_id_32",
+          "level": 2
+        },
+        {
+          "title": "三 春秋时期纵贯南北和横通东西的交通道路",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        },
+        {
+          "title": "四 战国时期以各国都城为中心向外辐射的交通道路",
+          "anchor": "sigil_toc_id_34",
+          "level": 2
+        },
+        {
+          "title": "五 经济都会的兴起及其有关的交通道路",
+          "anchor": "sigil_toc_id_35",
+          "level": 2
+        },
+        {
+          "title": "六 《禹贡》建立水上交通道路网的思想",
+          "anchor": "sigil_toc_id_36",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "中古时期民族之迁徙与五胡乱华",
+      "level": 1,
+      "wordCount": 6002,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "河西与敦煌",
+      "level": 1,
+      "wordCount": 6,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "一 远古时期有关河西的记载及其解释",
+      "level": 2,
+      "wordCount": 112,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "二 独特的自然环境及其演变",
+      "level": 2,
+      "wordCount": 35569,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二 独特的自然环境及其演变",
+          "anchor": "sigil_toc_id_37",
+          "level": 2
+        },
+        {
+          "title": "三 居住于河西的族类和人口数字的增损",
+          "anchor": "sigil_toc_id_38",
+          "level": 2
+        },
+        {
+          "title": "四 农牧业和城市经济发展的基础和成效",
+          "anchor": "sigil_toc_id_39",
+          "level": 2
+        },
+        {
+          "title": "五 经过河西的交通道路",
+          "anchor": "sigil_toc_id_40",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300192324&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=27"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 5,
+      "chapterTitle": "一 文景以后至武帝初年社会的富庶",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300192324_5_6075-6124",
+          "range": "6075-6124",
+          "rangeStart": 6075,
+          "rangeEnd": 6124,
+          "markText": "高帝因使娄敬奉宗室女为公主，往妻单于，结和亲，岁奉匈奴絮缯酒米食物各有数，约为昆弟以博暂时的安宁。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1768967503,
+          "createTimeFormatted": "2026-01-21 11:51:43",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=5&rangeStart=6075&rangeEnd=6124",
+          "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=5&rangeStart=6075&rangeEnd=6124"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_86jFezAel",
+          "range": "6133-6135",
+          "chapterName": "一 文景以后至武帝初年社会的富庶",
+          "content": "mò dú\n\n匈奴单于。挛鞮氏。秦二世元年（前209年）杀父头曼自立。加强内部组织，建立军政制度，东灭东胡，西逐月支，并夺取楼兰、乌孙、呼揭及其旁二十六国地，北服丁零，南服楼烦、白羊，并进占秦的河南地（今河套一带），势力强大。西汉初年，常南下侵扰，对西汉王朝形成严重威胁。后复与汉和亲。",
+          "abstract": "冒顿",
+          "star": -1,
+          "createTime": 1768967514,
+          "createTimeFormatted": "2026-01-21 11:51:54",
+          "isFinish": false,
+          "chapterUid": 5
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300192324_23_1337-1370",
+      "chapterUid": 23,
+      "range": "1337-1370",
+      "markText": "一苇之航远较翻山越岭为容易，河流沿岸遗址较为繁多，就是具体的说明。",
+      "totalCount": 2169,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=23&rangeStart=1337&rangeEnd=1370",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=23&rangeStart=1337&rangeEnd=1370"
+    },
+    {
+      "bookmarkId": "3300192324_5_21753-21812",
+      "chapterUid": 5,
+      "range": "21753-21812",
+      "markText": "至于西南夷，则其种类最为复杂，《史记·西南夷列传》首载其分布的情形，谓：“西南夷君长以什数，夜郎（今贵州桐梓县）最大。",
+      "totalCount": 2158,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=5&rangeStart=21753&rangeEnd=21812",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=5&rangeStart=21753&rangeEnd=21812"
+    },
+    {
+      "bookmarkId": "3300192324_14_16514-16540",
+      "chapterUid": 14,
+      "range": "16514-16540",
+      "markText": "唐文宗以张旭等人为三绝，唐玄宗却早已郑虔一人有三绝。",
+      "totalCount": 2155,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=14&rangeStart=16514&rangeEnd=16540",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=14&rangeStart=16514&rangeEnd=16540"
+    },
+    {
+      "bookmarkId": "3300192324_23_4702-4722",
+      "chapterUid": 23,
+      "range": "4702-4722",
+      "markText": "也许长江过于浩渺，不如淮水的较易于利用。",
+      "totalCount": 2151,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=23&rangeStart=4702&rangeEnd=4722",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=23&rangeStart=4702&rangeEnd=4722"
+    },
+    {
+      "bookmarkId": "3300192324_11_12902-12933",
+      "chapterUid": 11,
+      "range": "12902-12933",
+      "markText": "广德二年，户部侍郎李栖筠等奏，拆京城北白渠上王公寺观碾硙，……",
+      "totalCount": 2144,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=11&rangeStart=12902&rangeEnd=12933",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=11&rangeStart=12902&rangeEnd=12933"
+    },
+    {
+      "bookmarkId": "3300192324_14_22639-22661",
+      "chapterUid": 14,
+      "range": "22639-22661",
+      "markText": "当时还有所谓别教院，为太常专教供奉新曲而设。",
+      "totalCount": 2133,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=14&rangeStart=22639&rangeEnd=22661",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=14&rangeStart=22639&rangeEnd=22661"
+    },
+    {
+      "bookmarkId": "3300192324_23_4406-4438",
+      "chapterUid": 23,
+      "range": "4406-4438",
+      "markText": "经过现在陕西延安、黄陵等县市，可能在当时也是一条南北通行的大道。",
+      "totalCount": 2133,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=23&rangeStart=4406&rangeEnd=4438",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=23&rangeStart=4406&rangeEnd=4438"
+    },
+    {
+      "bookmarkId": "3300192324_17_32563-32586",
+      "chapterUid": 17,
+      "range": "32563-32586",
+      "markText": "各地物产虽是细事，亦皆纤悉毕陈，不使稍失阙遗。",
+      "totalCount": 2129,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=17&rangeStart=32563&rangeEnd=32586",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=17&rangeStart=32563&rangeEnd=32586"
+    },
+    {
+      "bookmarkId": "3300192324_27_41336-41378",
+      "chapterUid": 27,
+      "range": "41336-41378",
+      "markText": "用现在地理来说，就是经过陕西彬县、甘肃泾川、平凉、宁夏固原和甘肃靖远诸县，而至凉州。",
+      "totalCount": 2129,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=27&rangeStart=41336&rangeEnd=41378",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=27&rangeStart=41336&rangeEnd=41378"
+    },
+    {
+      "bookmarkId": "3300192324_19_3949-4074",
+      "chapterUid": 19,
+      "range": "3949-4074",
+      "markText": "金时咸平（治平郭县，今辽宁铁岭县东北）和东京（即辽东京道）两路，共有户二十一万四千五百四十九。",
+      "totalCount": 2115,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=19&rangeStart=3949&rangeEnd=4074",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=19&rangeStart=3949&rangeEnd=4074"
+    },
+    {
+      "bookmarkId": "3300192324_21_6662-6694",
+      "chapterUid": 21,
+      "range": "6662-6694",
+      "markText": "最初有关的记载，见于《周书·薛善传》：“时欲广置屯田，以供军费。",
+      "totalCount": 2111,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=21&rangeStart=6662&rangeEnd=6694",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=21&rangeStart=6662&rangeEnd=6694"
+    },
+    {
+      "bookmarkId": "3300192324_14_26613-26724",
+      "chapterUid": 14,
+      "range": "26613-26724",
+      "markText": "玄宗的球技尤精妙，在其作临淄王时就已经战胜过来自吐蕃的劲旅。",
+      "totalCount": 2108,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=14&rangeStart=26613&rangeEnd=26724",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=14&rangeStart=26613&rangeEnd=26724"
+    },
+    {
+      "bookmarkId": "3300192324_17_15961-15999",
+      "chapterUid": 17,
+      "range": "15961-15999",
+      "markText": "据说：“耽好地理学，凡四夷之使及使四夷还者，必与之从容，讯其山川土地之终始。",
+      "totalCount": 2108,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=17&rangeStart=15961&rangeEnd=15999",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=17&rangeStart=15961&rangeEnd=15999"
+    },
+    {
+      "bookmarkId": "3300192324_21_1416-1481",
+      "chapterUid": 21,
+      "range": "1416-1481",
+      "markText": "尔朱家族终于覆没，贺拔岳遂联合时为秦州（今甘肃天水市）刺史侯莫陈悦，率军下陇，共袭长安，擒尔朱天光之弟尔朱显寿，因得据有关中各地。",
+      "totalCount": 2089,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=21&rangeStart=1416&rangeEnd=1481",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=21&rangeStart=1416&rangeEnd=1481"
+    },
+    {
+      "bookmarkId": "3300192324_11_12796-12840",
+      "chapterUid": 11,
+      "range": "12796-12840",
+      "markText": "永徽六年，雍州长史长孙祥奏言：往日郑白渠，溉田四万余顷，今为富商大贾竞造碾硙，堰遏费水。",
+      "totalCount": 2064,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=11&rangeStart=12796&rangeEnd=12840",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=11&rangeStart=12796&rangeEnd=12840"
+    },
+    {
+      "bookmarkId": "3300192324_21_2113-2210",
+      "chapterUid": 21,
+      "range": "2113-2210",
+      "markText": "贺拔岳后来为侯莫陈悦所害死，宇文泰以夏州刺史为武川镇旧人所拥戴，得承贺拔岳的余绪，仍以六镇鲜卑军人为主体，继续联合关陇地区的高门望族及其他入关的胡汉大姓，使关陇集团正式形成，并进而控制关陇地区。",
+      "totalCount": 2064,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=21&rangeStart=2113&rangeEnd=2210",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=21&rangeStart=2113&rangeEnd=2210"
+    },
+    {
+      "bookmarkId": "3300192324_5_14836-14861",
+      "chapterUid": 5,
+      "range": "14836-14861",
+      "markText": "汉之发动是役，因单于用翕侯赵信计，远居漠北以诱汉。",
+      "totalCount": 2060,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=5&rangeStart=14836&rangeEnd=14861",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=5&rangeStart=14836&rangeEnd=14861"
+    },
+    {
+      "bookmarkId": "3300192324_14_23180-23208",
+      "chapterUid": 14,
+      "range": "23180-23208",
+      "markText": "这三章《清平词》当是特制的乐曲，故能声声入扣，丝竹合拍。",
+      "totalCount": 2060,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=14&rangeStart=23180&rangeEnd=23208",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=14&rangeStart=23180&rangeEnd=23208"
+    },
+    {
+      "bookmarkId": "3300192324_14_2438-2570",
+      "chapterUid": 14,
+      "range": "2438-2570",
+      "markText": "南向越秦岭而至成都平原，再南或出雅州（今四川雅安县），或出戎州（今四川宜宾市），皆可至今云南的洱海上。",
+      "totalCount": 2028,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=14&rangeStart=2438&rangeEnd=2570",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=14&rangeStart=2438&rangeEnd=2570"
+    },
+    {
+      "bookmarkId": "3300192324_15_4251-4308",
+      "chapterUid": 15,
+      "range": "4251-4308",
+      "markText": "可巧这块地方正斜横着贺兰山脉，贺兰山脉也是我们先民耀武扬威的地方，汉朝的霍去病和卫青不是常常打从这儿来征讨匈奴的？",
+      "totalCount": 2028,
+      "appLink": "weread://bestbookmark?bookId=3300192324&chapterUid=15&rangeStart=4251&rangeEnd=4308",
+      "webLink": "https://weread.qq.com/web/reader/c3632db0813abb1a0g0142c6?chapterUid=15&rangeStart=4251&rangeEnd=4308"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 5,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": 1769934415,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

@@ -1,0 +1,1836 @@
+{
+  "meta": {
+    "bookId": "3300048020",
+    "title": "人工智能：现代方法（第4版）（上下册）",
+    "author": "斯图尔特·罗素",
+    "translator": "张博雅 陈坤 田超 顾卓尔 吴凡 赵申剑",
+    "cover": "https://cdn.weread.qq.com/weread/cover/33/cpplatform_8rthznqfhsjuz5fswwn6kx/t6_cpplatform_8rthznqfhsjuz5fswwn6kx1675928213.jpg",
+    "intro": "本书系统、深入地探讨了人工智能（AI）领域的理论和实践，以统一的风格将当今流行的人工智能思想和术语融合到引起广泛关注的应用中，真正做到理论和实践相结合。全书分7个部分，共28章，理论部分介绍了人工智能研究的主要理论和方法并追溯了两千多年前的相关思想，内容主要包括逻辑、概率和连续数学，感知、推理、学习和行动，公平、信任、社会公益和安全；实践部分完美地践行了“现代”理念，实际应用选择当下热度较高的微电子设备、机器人行星探测器、拥有几十亿用户的在线服务、AlphaZero、人形机器人、自动驾驶、人工智能辅助医疗等。本书适合作为高等院校人工智能相关专业本科生和研究生的教材，也可以作为相关领域专业人员的参考书。",
+    "category": "计算机-人工智能",
+    "publisher": "人民邮电出版社有限公司",
+    "publishTime": "2022-12-01 00:00:00",
+    "isbn": "9787115598103",
+    "wordCount": 0,
+    "newRating": 853,
+    "newRatingCount": 283,
+    "newRatingDetail": {
+      "good": 249,
+      "fair": 18,
+      "poor": 16,
+      "recent": 2,
+      "deepV": 101,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300048020",
+    "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad",
+    "lastSync": "2026-05-21T11:52:40Z",
+    "readingProgress": "96%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 864,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "人工智能：现代方法（第4版）（上册）",
+      "level": 1,
+      "wordCount": 6,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "内容提要",
+      "level": 2,
+      "wordCount": 318,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "献词",
+      "level": 2,
+      "wordCount": 56,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "对本书的赞誉",
+      "level": 2,
+      "wordCount": 4616,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "序",
+      "level": 2,
+      "wordCount": 2272,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "方法不止，智能无疆",
+      "level": 2,
+      "wordCount": 1896,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "唯思想永恒",
+      "level": 2,
+      "wordCount": 1818,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "中文版致谢",
+      "level": 2,
+      "wordCount": 711,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "前言",
+      "level": 2,
+      "wordCount": 3371,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "彩插",
+      "level": 2,
+      "wordCount": 14130,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第一部分 人工智能基础",
+      "level": 2,
+      "wordCount": 43473,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1章 绪论",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        },
+        {
+          "title": "1.1 什么是人工智能",
+          "anchor": "sigil_toc_id_2",
+          "level": 4
+        },
+        {
+          "title": "1.2 人工智能的基础",
+          "anchor": "sigil_toc_id_3",
+          "level": 4
+        },
+        {
+          "title": "1.3 人工智能的历史",
+          "anchor": "sigil_toc_id_4",
+          "level": 4
+        },
+        {
+          "title": "1.4 目前的先进技术",
+          "anchor": "sigil_toc_id_5",
+          "level": 4
+        },
+        {
+          "title": "1.5 人工智能的风险和收益",
+          "anchor": "sigil_toc_id_6",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_7",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第2章 智能体",
+      "level": 3,
+      "wordCount": 21786,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1 智能体和环境",
+          "anchor": "sigil_toc_id_8",
+          "level": 4
+        },
+        {
+          "title": "2.2 良好行为：理性的概念",
+          "anchor": "sigil_toc_id_9",
+          "level": 4
+        },
+        {
+          "title": "2.3 环境的本质",
+          "anchor": "sigil_toc_id_10",
+          "level": 4
+        },
+        {
+          "title": "2.4 智能体的结构",
+          "anchor": "sigil_toc_id_11",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_12",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第二部分 问题求解",
+      "level": 2,
+      "wordCount": 38251,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第3章 通过搜索进行问题求解",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        },
+        {
+          "title": "3.1 问题求解智能体",
+          "anchor": "sigil_toc_id_14",
+          "level": 4
+        },
+        {
+          "title": "3.2 问题示例",
+          "anchor": "sigil_toc_id_15",
+          "level": 4
+        },
+        {
+          "title": "3.3 搜索算法",
+          "anchor": "sigil_toc_id_16",
+          "level": 4
+        },
+        {
+          "title": "3.4 无信息搜索策略",
+          "anchor": "sigil_toc_id_17",
+          "level": 4
+        },
+        {
+          "title": "3.5 有信息（启发式）搜索策略",
+          "anchor": "sigil_toc_id_18",
+          "level": 4
+        },
+        {
+          "title": "3.6 启发式函数",
+          "anchor": "sigil_toc_id_19",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_20",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第4章 复杂环境中的搜索",
+      "level": 3,
+      "wordCount": 26007,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.1 局部搜索和最优化问题",
+          "anchor": "sigil_toc_id_21",
+          "level": 4
+        },
+        {
+          "title": "4.2 连续空间中的局部搜索",
+          "anchor": "sigil_toc_id_22",
+          "level": 4
+        },
+        {
+          "title": "4.3 使用非确定性动作的搜索",
+          "anchor": "sigil_toc_id_23",
+          "level": 4
+        },
+        {
+          "title": "4.4 部分可观测环境中的搜索",
+          "anchor": "sigil_toc_id_24",
+          "level": 4
+        },
+        {
+          "title": "4.5 在线搜索智能体和未知环境",
+          "anchor": "sigil_toc_id_25",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_26",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第5章 对抗搜索和博弈",
+      "level": 3,
+      "wordCount": 25925,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1 博弈论",
+          "anchor": "sigil_toc_id_27",
+          "level": 4
+        },
+        {
+          "title": "5.2 博弈中的优化决策",
+          "anchor": "sigil_toc_id_28",
+          "level": 4
+        },
+        {
+          "title": "5.3 启发式树搜索",
+          "anchor": "sigil_toc_id_29",
+          "level": 4
+        },
+        {
+          "title": "5.4 蒙特卡罗树搜索",
+          "anchor": "sigil_toc_id_30",
+          "level": 4
+        },
+        {
+          "title": "5.5 随机博弈",
+          "anchor": "sigil_toc_id_31",
+          "level": 4
+        },
+        {
+          "title": "5.6 部分可观测博弈",
+          "anchor": "sigil_toc_id_32",
+          "level": 4
+        },
+        {
+          "title": "5.7 博弈搜索算法的局限性",
+          "anchor": "sigil_toc_id_33",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_34",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第6章 约束满足问题",
+      "level": 3,
+      "wordCount": 22034,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.1 定义约束满足问题",
+          "anchor": "sigil_toc_id_35",
+          "level": 4
+        },
+        {
+          "title": "6.2 约束传播：CSP中的推断",
+          "anchor": "sigil_toc_id_36",
+          "level": 4
+        },
+        {
+          "title": "6.3 CSP的回溯搜索",
+          "anchor": "sigil_toc_id_37",
+          "level": 4
+        },
+        {
+          "title": "6.4 CSP的局部搜索",
+          "anchor": "sigil_toc_id_38",
+          "level": 4
+        },
+        {
+          "title": "6.5 问题的结构",
+          "anchor": "sigil_toc_id_39",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_40",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第三部分 知识、推理和规划",
+      "level": 2,
+      "wordCount": 33267,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第7章 逻辑智能体",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        },
+        {
+          "title": "7.1 基于知识的智能体",
+          "anchor": "sigil_toc_id_42",
+          "level": 4
+        },
+        {
+          "title": "7.2 wumpus世界",
+          "anchor": "sigil_toc_id_43",
+          "level": 4
+        },
+        {
+          "title": "7.3 逻辑",
+          "anchor": "sigil_toc_id_44",
+          "level": 4
+        },
+        {
+          "title": "7.4 命题逻辑：一种非常简单的逻辑",
+          "anchor": "sigil_toc_id_45",
+          "level": 4
+        },
+        {
+          "title": "7.5 命题定理证明",
+          "anchor": "sigil_toc_id_46",
+          "level": 4
+        },
+        {
+          "title": "7.6 高效命题模型检验",
+          "anchor": "sigil_toc_id_47",
+          "level": 4
+        },
+        {
+          "title": "7.7 基于命题逻辑的智能体",
+          "anchor": "sigil_toc_id_48",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_49",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第8章 一阶逻辑",
+      "level": 3,
+      "wordCount": 23025,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.1 回顾表示",
+          "anchor": "sigil_toc_id_50",
+          "level": 4
+        },
+        {
+          "title": "8.2 一阶逻辑的语法和语义",
+          "anchor": "sigil_toc_id_51",
+          "level": 4
+        },
+        {
+          "title": "8.3 使用一阶逻辑",
+          "anchor": "sigil_toc_id_52",
+          "level": 4
+        },
+        {
+          "title": "8.4 一阶逻辑中的知识工程",
+          "anchor": "sigil_toc_id_53",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_54",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第9章 一阶逻辑中的推断",
+      "level": 3,
+      "wordCount": 25047,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.1 命题推断与一阶推断",
+          "anchor": "sigil_toc_id_55",
+          "level": 4
+        },
+        {
+          "title": "9.2 合一与一阶推断",
+          "anchor": "sigil_toc_id_56",
+          "level": 4
+        },
+        {
+          "title": "9.3 前向链接",
+          "anchor": "sigil_toc_id_57",
+          "level": 4
+        },
+        {
+          "title": "9.4 反向链接",
+          "anchor": "sigil_toc_id_58",
+          "level": 4
+        },
+        {
+          "title": "9.5 归结",
+          "anchor": "sigil_toc_id_59",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_60",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第10章 知识表示",
+      "level": 3,
+      "wordCount": 21458,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10.1 本体论工程",
+          "anchor": "sigil_toc_id_61",
+          "level": 4
+        },
+        {
+          "title": "10.2 类别与对象",
+          "anchor": "sigil_toc_id_62",
+          "level": 4
+        },
+        {
+          "title": "10.3 事件",
+          "anchor": "sigil_toc_id_63",
+          "level": 4
+        },
+        {
+          "title": "10.4 精神对象和模态逻辑",
+          "anchor": "sigil_toc_id_64",
+          "level": 4
+        },
+        {
+          "title": "10.5 类别的推理系统",
+          "anchor": "sigil_toc_id_65",
+          "level": 4
+        },
+        {
+          "title": "10.6 用缺省信息推理",
+          "anchor": "sigil_toc_id_66",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_67",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第11章 自动规划",
+      "level": 3,
+      "wordCount": 32533,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11.1 经典规划的定义",
+          "anchor": "sigil_toc_id_68",
+          "level": 4
+        },
+        {
+          "title": "11.2 经典规划的算法",
+          "anchor": "sigil_toc_id_69",
+          "level": 4
+        },
+        {
+          "title": "11.3 规划的启发式方法",
+          "anchor": "sigil_toc_id_70",
+          "level": 4
+        },
+        {
+          "title": "11.4 分层规划",
+          "anchor": "sigil_toc_id_71",
+          "level": 4
+        },
+        {
+          "title": "11.5 非确定性域的规划和行动",
+          "anchor": "sigil_toc_id_72",
+          "level": 4
+        },
+        {
+          "title": "11.6 时间、调度和资源",
+          "anchor": "sigil_toc_id_73",
+          "level": 4
+        },
+        {
+          "title": "11.7 规划方法分析",
+          "anchor": "sigil_toc_id_74",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_75",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第四部分 不确定知识和不确定推理",
+      "level": 2,
+      "wordCount": 20444,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第12章 不确定性的量化",
+          "anchor": "sigil_toc_id_76",
+          "level": 3
+        },
+        {
+          "title": "12.1 不确定性下的动作",
+          "anchor": "sigil_toc_id_77",
+          "level": 4
+        },
+        {
+          "title": "12.2 基本概率记号",
+          "anchor": "sigil_toc_id_78",
+          "level": 4
+        },
+        {
+          "title": "12.3 使用完全联合分布进行推断",
+          "anchor": "sigil_toc_id_79",
+          "level": 4
+        },
+        {
+          "title": "12.4 独立性",
+          "anchor": "sigil_toc_id_80",
+          "level": 4
+        },
+        {
+          "title": "12.5 贝叶斯法则及其应用",
+          "anchor": "sigil_toc_id_81",
+          "level": 4
+        },
+        {
+          "title": "12.6 朴素贝叶斯模型",
+          "anchor": "sigil_toc_id_82",
+          "level": 4
+        },
+        {
+          "title": "12.7 重游wumpus世界",
+          "anchor": "sigil_toc_id_83",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_84",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第13章 概率推理",
+      "level": 3,
+      "wordCount": 34744,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "13.1 不确定域的知识表示",
+          "anchor": "sigil_toc_id_85",
+          "level": 4
+        },
+        {
+          "title": "13.2 贝叶斯网络的语义",
+          "anchor": "sigil_toc_id_86",
+          "level": 4
+        },
+        {
+          "title": "13.3 贝叶斯网络中的精确推断",
+          "anchor": "sigil_toc_id_87",
+          "level": 4
+        },
+        {
+          "title": "13.4 贝叶斯网络中的近似推理",
+          "anchor": "sigil_toc_id_88",
+          "level": 4
+        },
+        {
+          "title": "13.5 因果网络",
+          "anchor": "sigil_toc_id_89",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_90",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第14章 时间上的概率推理",
+      "level": 3,
+      "wordCount": 30368,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14.1 时间与不确定性",
+          "anchor": "sigil_toc_id_91",
+          "level": 4
+        },
+        {
+          "title": "14.2 时序模型中的推断",
+          "anchor": "sigil_toc_id_92",
+          "level": 4
+        },
+        {
+          "title": "14.3 隐马尔可夫模型",
+          "anchor": "sigil_toc_id_93",
+          "level": 4
+        },
+        {
+          "title": "14.4 卡尔曼滤波器",
+          "anchor": "sigil_toc_id_94",
+          "level": 4
+        },
+        {
+          "title": "14.5 动态贝叶斯网络",
+          "anchor": "sigil_toc_id_95",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_96",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第15章 概率编程",
+      "level": 3,
+      "wordCount": 20593,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15.1 关系概率模型",
+          "anchor": "sigil_toc_id_97",
+          "level": 4
+        },
+        {
+          "title": "15.2 开宇宙概率模型",
+          "anchor": "sigil_toc_id_98",
+          "level": 4
+        },
+        {
+          "title": "15.3 追踪复杂世界",
+          "anchor": "sigil_toc_id_99",
+          "level": 4
+        },
+        {
+          "title": "15.4 作为概率模型的程序",
+          "anchor": "sigil_toc_id_100",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_101",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第16章 做简单决策",
+      "level": 3,
+      "wordCount": 27765,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "16.1 在不确定性下结合信念与愿望",
+          "anchor": "sigil_toc_id_102",
+          "level": 4
+        },
+        {
+          "title": "16.2 效用理论基础",
+          "anchor": "sigil_toc_id_103",
+          "level": 4
+        },
+        {
+          "title": "16.3 效用函数",
+          "anchor": "sigil_toc_id_104",
+          "level": 4
+        },
+        {
+          "title": "16.4 多属性效用函数",
+          "anchor": "sigil_toc_id_105",
+          "level": 4
+        },
+        {
+          "title": "16.5 决策网络",
+          "anchor": "sigil_toc_id_106",
+          "level": 4
+        },
+        {
+          "title": "16.6 信息价值",
+          "anchor": "sigil_toc_id_107",
+          "level": 4
+        },
+        {
+          "title": "16.7 未知偏好",
+          "anchor": "sigil_toc_id_108",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_109",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第17章 做复杂决策",
+      "level": 3,
+      "wordCount": 29589,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "17.1 序贯决策问题",
+          "anchor": "sigil_toc_id_110",
+          "level": 4
+        },
+        {
+          "title": "17.2 MDP的算法",
+          "anchor": "sigil_toc_id_111",
+          "level": 4
+        },
+        {
+          "title": "17.3 老虎机问题",
+          "anchor": "sigil_toc_id_112",
+          "level": 4
+        },
+        {
+          "title": "17.4 部分可观测MDP",
+          "anchor": "sigil_toc_id_113",
+          "level": 4
+        },
+        {
+          "title": "17.5 求解POMDP的算法",
+          "anchor": "sigil_toc_id_114",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_115",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第18章 多智能体决策",
+      "level": 3,
+      "wordCount": 49968,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "18.1 多智能体环境的特性",
+          "anchor": "sigil_toc_id_116",
+          "level": 4
+        },
+        {
+          "title": "18.2 非合作博弈论",
+          "anchor": "sigil_toc_id_117",
+          "level": 4
+        },
+        {
+          "title": "18.3 合作博弈论",
+          "anchor": "sigil_toc_id_118",
+          "level": 4
+        },
+        {
+          "title": "18.4 做集体决策",
+          "anchor": "sigil_toc_id_119",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_120",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "人工智能：现代方法（第4版）（下册）",
+      "level": 1,
+      "wordCount": 2,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第五部分 机器学习",
+      "level": 2,
+      "wordCount": 61547,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第19章 样例学习",
+          "anchor": "sigil_toc_id_121",
+          "level": 3
+        },
+        {
+          "title": "19.1 学习的形式",
+          "anchor": "sigil_toc_id_122",
+          "level": 4
+        },
+        {
+          "title": "19.2 监督学习",
+          "anchor": "sigil_toc_id_123",
+          "level": 4
+        },
+        {
+          "title": "19.3 决策树学习",
+          "anchor": "sigil_toc_id_124",
+          "level": 4
+        },
+        {
+          "title": "19.4 模型选择与模型优化",
+          "anchor": "sigil_toc_id_125",
+          "level": 4
+        },
+        {
+          "title": "19.5 学习理论",
+          "anchor": "sigil_toc_id_126",
+          "level": 4
+        },
+        {
+          "title": "19.6 线性回归与分类",
+          "anchor": "sigil_toc_id_127",
+          "level": 4
+        },
+        {
+          "title": "19.7 非参数模型",
+          "anchor": "sigil_toc_id_128",
+          "level": 4
+        },
+        {
+          "title": "19.8 集成学习",
+          "anchor": "sigil_toc_id_129",
+          "level": 4
+        },
+        {
+          "title": "19.9 开发机器学习系统",
+          "anchor": "sigil_toc_id_130",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_131",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第20章 概率模型学习",
+      "level": 3,
+      "wordCount": 21752,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "20.1 统计学习",
+          "anchor": "sigil_toc_id_132",
+          "level": 4
+        },
+        {
+          "title": "20.2 完全数据学习",
+          "anchor": "sigil_toc_id_133",
+          "level": 4
+        },
+        {
+          "title": "20.3 隐变量学习：EM算法",
+          "anchor": "sigil_toc_id_134",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_135",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第21章 深度学习",
+      "level": 3,
+      "wordCount": 33981,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "21.1 简单前馈网络",
+          "anchor": "sigil_toc_id_136",
+          "level": 4
+        },
+        {
+          "title": "21.2 深度学习的计算图",
+          "anchor": "sigil_toc_id_137",
+          "level": 4
+        },
+        {
+          "title": "21.3 卷积网络",
+          "anchor": "sigil_toc_id_138",
+          "level": 4
+        },
+        {
+          "title": "21.4 学习算法",
+          "anchor": "sigil_toc_id_139",
+          "level": 4
+        },
+        {
+          "title": "21.5 泛化",
+          "anchor": "sigil_toc_id_140",
+          "level": 4
+        },
+        {
+          "title": "21.6 循环神经网络",
+          "anchor": "sigil_toc_id_141",
+          "level": 4
+        },
+        {
+          "title": "21.7 无监督学习与迁移学习",
+          "anchor": "sigil_toc_id_142",
+          "level": 4
+        },
+        {
+          "title": "21.8 应用",
+          "anchor": "sigil_toc_id_143",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_144",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第22章 强化学习",
+      "level": 3,
+      "wordCount": 31487,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "22.1 从奖励中学习",
+          "anchor": "sigil_toc_id_145",
+          "level": 4
+        },
+        {
+          "title": "22.2 被动强化学习",
+          "anchor": "sigil_toc_id_146",
+          "level": 4
+        },
+        {
+          "title": "22.3 主动强化学习",
+          "anchor": "sigil_toc_id_147",
+          "level": 4
+        },
+        {
+          "title": "22.4 强化学习中的泛化",
+          "anchor": "sigil_toc_id_148",
+          "level": 4
+        },
+        {
+          "title": "22.5 策略搜索",
+          "anchor": "sigil_toc_id_149",
+          "level": 4
+        },
+        {
+          "title": "22.6 学徒学习与逆强化学习",
+          "anchor": "sigil_toc_id_150",
+          "level": 4
+        },
+        {
+          "title": "22.7 强化学习的应用",
+          "anchor": "sigil_toc_id_151",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_152",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "第六部分 沟通、感知和行动",
+      "level": 2,
+      "wordCount": 31384,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第23章 自然语言处理",
+          "anchor": "sigil_toc_id_153",
+          "level": 3
+        },
+        {
+          "title": "23.1 语言模型",
+          "anchor": "sigil_toc_id_154",
+          "level": 4
+        },
+        {
+          "title": "23.2 文法",
+          "anchor": "sigil_toc_id_155",
+          "level": 4
+        },
+        {
+          "title": "23.3 句法分析",
+          "anchor": "sigil_toc_id_156",
+          "level": 4
+        },
+        {
+          "title": "23.4 扩展文法",
+          "anchor": "sigil_toc_id_157",
+          "level": 4
+        },
+        {
+          "title": "23.5 真实自然语言的复杂性",
+          "anchor": "sigil_toc_id_158",
+          "level": 4
+        },
+        {
+          "title": "23.6 自然语言任务",
+          "anchor": "sigil_toc_id_159",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_160",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "第24章 自然语言处理中的深度学习",
+      "level": 3,
+      "wordCount": 20255,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "24.1 词嵌入",
+          "anchor": "sigil_toc_id_161",
+          "level": 4
+        },
+        {
+          "title": "24.2 自然语言处理中的循环神经网络",
+          "anchor": "sigil_toc_id_162",
+          "level": 4
+        },
+        {
+          "title": "24.3 序列到序列模型",
+          "anchor": "sigil_toc_id_163",
+          "level": 4
+        },
+        {
+          "title": "24.4 Transformer架构",
+          "anchor": "sigil_toc_id_164",
+          "level": 4
+        },
+        {
+          "title": "24.5 预训练和迁移学习",
+          "anchor": "sigil_toc_id_165",
+          "level": 4
+        },
+        {
+          "title": "24.6 最高水平(SOTA)",
+          "anchor": "sigil_toc_id_166",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_167",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "第25章 计算机视觉",
+      "level": 3,
+      "wordCount": 35636,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "25.1 引言",
+          "anchor": "sigil_toc_id_168",
+          "level": 4
+        },
+        {
+          "title": "25.2 图像形成",
+          "anchor": "sigil_toc_id_169",
+          "level": 4
+        },
+        {
+          "title": "25.3 简单图像特征",
+          "anchor": "sigil_toc_id_170",
+          "level": 4
+        },
+        {
+          "title": "25.4 图像分类",
+          "anchor": "sigil_toc_id_171",
+          "level": 4
+        },
+        {
+          "title": "25.5 物体检测",
+          "anchor": "sigil_toc_id_172",
+          "level": 4
+        },
+        {
+          "title": "25.6 三维世界",
+          "anchor": "sigil_toc_id_173",
+          "level": 4
+        },
+        {
+          "title": "25.7 计算机视觉的应用",
+          "anchor": "sigil_toc_id_174",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_175",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "第26章 机器人学",
+      "level": 3,
+      "wordCount": 42687,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "26.1 机器人",
+          "anchor": "sigil_toc_id_176",
+          "level": 4
+        },
+        {
+          "title": "26.2 机器人硬件",
+          "anchor": "sigil_toc_id_177",
+          "level": 4
+        },
+        {
+          "title": "26.3 机器人学解决哪些问题",
+          "anchor": "sigil_toc_id_178",
+          "level": 4
+        },
+        {
+          "title": "26.4 机器人感知",
+          "anchor": "sigil_toc_id_179",
+          "level": 4
+        },
+        {
+          "title": "26.5 规划与控制",
+          "anchor": "sigil_toc_id_180",
+          "level": 4
+        },
+        {
+          "title": "26.6 规划不确定的运动",
+          "anchor": "sigil_toc_id_181",
+          "level": 4
+        },
+        {
+          "title": "26.7 机器人学中的强化学习",
+          "anchor": "sigil_toc_id_182",
+          "level": 4
+        },
+        {
+          "title": "26.8 人类与机器人",
+          "anchor": "sigil_toc_id_183",
+          "level": 4
+        },
+        {
+          "title": "26.9 其他机器人框架",
+          "anchor": "sigil_toc_id_184",
+          "level": 4
+        },
+        {
+          "title": "26.10 应用领域",
+          "anchor": "sigil_toc_id_185",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_186",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "第七部分 总结",
+      "level": 2,
+      "wordCount": 29956,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第27章 人工智能的哲学、伦理和安全性",
+          "anchor": "sigil_toc_id_187",
+          "level": 3
+        },
+        {
+          "title": "27.1 人工智能的极限",
+          "anchor": "sigil_toc_id_188",
+          "level": 4
+        },
+        {
+          "title": "27.2 机器能真正地思考吗",
+          "anchor": "sigil_toc_id_189",
+          "level": 4
+        },
+        {
+          "title": "27.3 人工智能的伦理",
+          "anchor": "sigil_toc_id_190",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_191",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "第28章 人工智能的未来",
+      "level": 3,
+      "wordCount": 11554,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "28.1 人工智能组件",
+          "anchor": "sigil_toc_id_192",
+          "level": 4
+        },
+        {
+          "title": "28.2 人工智能架构",
+          "anchor": "sigil_toc_id_193",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "附录A 数学背景知识",
+      "level": 2,
+      "wordCount": 5407,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "A.1 复杂性分析和O()记号",
+          "anchor": "sigil_toc_id_194",
+          "level": 3
+        },
+        {
+          "title": "A.2 向量，矩阵和线性代数",
+          "anchor": "sigil_toc_id_195",
+          "level": 3
+        },
+        {
+          "title": "A.3 概率分布",
+          "anchor": "sigil_toc_id_196",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "附录B 关于语言与算法的说明",
+      "level": 2,
+      "wordCount": 2322,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "B.1 用巴克斯-诺尔范式(BNF)定义语言",
+          "anchor": "sigil_toc_id_197",
+          "level": 3
+        },
+        {
+          "title": "B.2 用伪代码描述算法",
+          "anchor": "sigil_toc_id_198",
+          "level": 3
+        },
+        {
+          "title": "B.3 在线补充材料",
+          "anchor": "sigil_toc_id_199",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300048020&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=43"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 13,
+      "chapterTitle": "第一部分 人工智能基础",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300048020_13_7768-7875",
+          "range": "7768-7875",
+          "rangeStart": 7768,
+          "rangeEnd": 7875,
+          "markText": "在我们的真实需求和施加给机器的目标之间达成一致的问题称为价值对齐问题(value alignment problem)，即施加给机器的价值或目标必须与人类的一致。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1739747902,
+          "createTimeFormatted": "2025-02-17 07:18:22",
+          "chapterUid": 13,
+          "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=7768&rangeEnd=7875",
+          "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=7768&rangeEnd=7875"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300048020_13_7768-7875",
+      "chapterUid": 13,
+      "range": "7768-7875",
+      "markText": "在我们的真实需求和施加给机器的目标之间达成一致的问题称为价值对齐问题(value alignment problem)，即施加给机器的价值或目标必须与人类的一致。",
+      "totalCount": 792,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=7768&rangeEnd=7875",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=7768&rangeEnd=7875"
+    },
+    {
+      "bookmarkId": "3300048020_14_4945-5037",
+      "chapterUid": 14,
+      "range": "4945-5037",
+      "markText": "作为一般规则，更好的做法是根据一个人在环境中真正想要实现的目标，而不是根据一个人认为智能体应该如何表现来设计性能度量。",
+      "totalCount": 620,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=14&rangeStart=4945&rangeEnd=5037",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=14&rangeStart=4945&rangeEnd=5037"
+    },
+    {
+      "bookmarkId": "3300048020_14_937-1115",
+      "chapterUid": 14,
+      "range": "937-1115",
+      "markText": "任何通过传感器(sensor)感知环境(environment)并通过执行器(actuator)作用于该环境的事物都可以被视为智能体(agent)。",
+      "totalCount": 495,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=14&rangeStart=937&rangeEnd=1115",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=14&rangeStart=937&rangeEnd=1115"
+    },
+    {
+      "bookmarkId": "3300048020_13_6698-6750",
+      "chapterUid": 13,
+      "range": "6698-6750",
+      "markText": "人工智能专注于研究和构建做正确的事情的智能体，其中正确的事情是我们提供给智能体的目标定义。",
+      "totalCount": 442,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=6698&rangeEnd=6750",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=6698&rangeEnd=6750"
+    },
+    {
+      "bookmarkId": "3300048020_14_19248-19295",
+      "chapterUid": 14,
+      "range": "19248-19295",
+      "markText": "人工智能面临的关键挑战是找出编写程序的方法，尽可能从一个小程序而不是从一个大表中产生理性行为。",
+      "totalCount": 432,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=14&rangeStart=19248&rangeEnd=19295",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=14&rangeStart=19248&rangeEnd=19295"
+    },
+    {
+      "bookmarkId": "3300048020_13_8321-8394",
+      "chapterUid": 13,
+      "range": "8321-8394",
+      "markText": "这些行为不是“愚蠢”或“疯狂”的，这些行为是将获胜定义为机器唯一目标的逻辑结果。",
+      "totalCount": 418,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=8321&rangeEnd=8394",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=8321&rangeEnd=8394"
+    },
+    {
+      "bookmarkId": "3300048020_8_1298-1381",
+      "chapterUid": 8,
+      "range": "1298-1381",
+      "markText": "人工智能研究是应该寻求理论基础，还是应该探索实现更强智能的新方法？两者都该做，但后者是主旋律：先有方法和实现，后有理论解释，先有智能技术，后有智能科学，如此迭代发展。",
+      "totalCount": 403,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=8&rangeStart=1298&rangeEnd=1381",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=8&rangeStart=1298&rangeEnd=1381"
+    },
+    {
+      "bookmarkId": "3300048020_13_6099-6162",
+      "chapterUid": 13,
+      "range": "6099-6162",
+      "markText": "但是，理性行为的有些方式并不能说与推断有关。例如，从火炉前退缩是一种反射作用，这通常比经过深思熟虑后采取的较慢的动作更为成功。",
+      "totalCount": 384,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=6099&rangeEnd=6162",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=6099&rangeEnd=6162"
+    },
+    {
+      "bookmarkId": "3300048020_13_22202-22243",
+      "chapterUid": 13,
+      "range": "22202-22243",
+      "markText": "大脑能够自我调整，使自己成功与外部设备进行交互，就像对待另一个感觉器官或肢体一样。",
+      "totalCount": 352,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=22202&rangeEnd=22243",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=22202&rangeEnd=22243"
+    },
+    {
+      "bookmarkId": "3300048020_11_2414-2494",
+      "chapterUid": 11,
+      "range": "2414-2494",
+      "markText": "阅读本书唯一的先修要求是对计算机科学基本概念（算法、数据结构、复杂性）的熟悉程度达到大学二年级的水平。大学一年级的微积分和线性代数知识对一些主题的阅读很有帮助。",
+      "totalCount": 351,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=11&rangeStart=2414&rangeEnd=2494",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=11&rangeStart=2414&rangeEnd=2494"
+    },
+    {
+      "bookmarkId": "3300048020_13_7987-8025",
+      "chapterUid": 13,
+      "range": "7987-8025",
+      "markText": "部署了错误目标的系统将会导致负面影响，而且，系统越智能，其负面影响就越严重。",
+      "totalCount": 336,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=7987&rangeEnd=8025",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=7987&rangeEnd=8025"
+    },
+    {
+      "bookmarkId": "3300048020_13_44216-44285",
+      "chapterUid": 13,
+      "range": "44216-44285",
+      "markText": "事实证明，为复杂领域构建和维护专家系统是困难的，一部分原因是系统使用的推理方法在面临不确定性时会崩溃，另一部分原因是系统无法从经验中学习。",
+      "totalCount": 324,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=44216&rangeEnd=44285",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=44216&rangeEnd=44285"
+    },
+    {
+      "bookmarkId": "3300048020_13_39009-39082",
+      "chapterUid": 13,
+      "range": "39009-39082",
+      "markText": "一般而言，程序可以找到解的事实并不意味着该程序具备任何在实践中找到解所需的机制。",
+      "totalCount": 322,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=39009&rangeEnd=39082",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=39009&rangeEnd=39082"
+    },
+    {
+      "bookmarkId": "3300048020_13_2331-2380",
+      "chapterUid": 13,
+      "range": "2331-2380",
+      "markText": "如果人类提问者在提出一些书面问题后无法分辨书面回答是来自人还是来自计算机，那么计算机就能通过测试。",
+      "totalCount": 320,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=2331&rangeEnd=2380",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=2331&rangeEnd=2380"
+    },
+    {
+      "bookmarkId": "3300048020_13_18378-18404",
+      "chapterUid": 13,
+      "range": "18378-18404",
+      "markText": "经济学不再是研究金钱的学科，而是对欲望和偏好的研究。",
+      "totalCount": 319,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=18378&rangeEnd=18404",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=18378&rangeEnd=18404"
+    },
+    {
+      "bookmarkId": "3300048020_13_3321-3415",
+      "chapterUid": 13,
+      "range": "3321-3415",
+      "markText": "当工程师和发明家停止模仿鸟类，转而使用风洞并学习空气动力学时，对“人工飞行”的探索取得了成功。航空工程学著作并未将其领域的目标定义为制造“能像鸽子一样飞行，甚至可以骗过其他真鸽子的机器”。",
+      "totalCount": 308,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=3321&rangeEnd=3415",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=3321&rangeEnd=3415"
+    },
+    {
+      "bookmarkId": "3300048020_14_5231-5305",
+      "chapterUid": 14,
+      "range": "5231-5305",
+      "markText": "大起大落、不计后果的生活，和安全但单调的生活，哪个更好？一个人人都生活在中度贫困的经济体，和一个有些人生活富裕而另一些人非常贫困的经济体，哪个更好？",
+      "totalCount": 308,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=14&rangeStart=5231&rangeEnd=5305",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=14&rangeStart=5231&rangeEnd=5305"
+    },
+    {
+      "bookmarkId": "3300048020_13_6238-6325",
+      "chapterUid": 13,
+      "range": "6238-6325",
+      "markText": "我们需要具备生成易于理解的自然语言句子的能力，以便在复杂的社会中生存。我们需要学习不仅是为了博学多才，也是为了提升我们产生高效行为的能力，尤其是在新环境下，这种能力更加重要。",
+      "totalCount": 300,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=6238&rangeEnd=6325",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=6238&rangeEnd=6325"
+    },
+    {
+      "bookmarkId": "3300048020_13_1488-1624",
+      "chapterUid": 13,
+      "range": "1488-1624",
+      "markText": "智能主题的本身也各不相同：一些人将智能视为内部思维过程和推理的属性，而另一些人则关注智能的外部特征，也就是智能行为。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=13&rangeStart=1488&rangeEnd=1624",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=13&rangeStart=1488&rangeEnd=1624"
+    },
+    {
+      "bookmarkId": "3300048020_8_1005-1043",
+      "chapterUid": 8,
+      "range": "1005-1043",
+      "markText": "技术发明和科学发现是两种独立的原始创新活动，把科学视为技术的基础，这是偏见。",
+      "totalCount": 285,
+      "appLink": "weread://bestbookmark?bookId=3300048020&chapterUid=8&rangeStart=1005&rangeEnd=1043",
+      "webLink": "https://weread.qq.com/web/reader/fc332020813ab7942g0102ad?chapterUid=8&rangeStart=1005&rangeEnd=1043"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 38,
+    "chapterOffset": 72509,
+    "progress": 96,
+    "updateTime": 1748512581,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

@@ -1,0 +1,922 @@
+{
+  "meta": {
+    "bookId": "3300072386",
+    "title": "抵达：一部政治演化史",
+    "author": "包刚升",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/78/cpplatform_uuqsxad1jzgrtvtgrjm12m/t6_cpplatform_uuqsxad1jzgrtvtgrjm12m1695718127.jpg",
+    "intro": "“人类政治从何而来？”\n“人类政治在哪里？”\n“人类政治向何处去？”\n对于政治领域的关键三问，本书从演化论视角给出了回应。聚焦人类政治演化的基本脉络，本书将不同政体与政治模式视为一个个“政治物种”，分析早期国家诞生的社会条件，从国家分化与演化的维度阐述城邦国家、一般国家、帝国的兴起与衰落，从政体分化与演化的维度讨论君主政体、封建政体、立宪政体、民主政体的差异与转换，以及人类不同群体在塑造有效国家与有效约束国家上的一系列差异如何形塑了不同时空的政治模式。\n如果将人类政治演化比喻为一条大河，那么理解这条大河过去的基本流向后，或许就会更加明了今天我们所处的位置以及未来要抵达的方向。",
+    "category": "政治军事-政治",
+    "publisher": "上海三联书店",
+    "publishTime": "2023-07-01 00:00:00",
+    "isbn": "9787542681126",
+    "wordCount": 0,
+    "newRating": 785,
+    "newRatingCount": 447,
+    "newRatingDetail": {
+      "good": 348,
+      "fair": 74,
+      "poor": 25,
+      "recent": 2,
+      "deepV": 185,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300072386",
+    "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3",
+    "lastSync": "2026-05-21T11:58:47Z",
+    "readingProgress": "1%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 126,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "抵达 一部政治演化史（上）",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "导言",
+      "level": 2,
+      "wordCount": 10566,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "概念性框架",
+      "level": 2,
+      "wordCount": 25751,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第一部 霍布斯问题",
+      "level": 2,
+      "wordCount": 224,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 从自然状态到利维坦",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "从人类个体到群体生活",
+      "level": 4,
+      "wordCount": 22861,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "国家起源的理论问题",
+          "anchor": "sigil_toc_id_2",
+          "level": 4
+        },
+        {
+          "title": "早期国家兴起的社会条件",
+          "anchor": "sigil_toc_id_3",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第二章 国家与战争的互相塑造",
+      "level": 3,
+      "wordCount": 198,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "中国古代国家的兴起",
+      "level": 4,
+      "wordCount": 29071,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "欧洲近现代国家的兴起",
+          "anchor": "sigil_toc_id_4",
+          "level": 4
+        },
+        {
+          "title": "国家构建与扩散的逻辑",
+          "anchor": "sigil_toc_id_5",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第三章 帝国兴起、统治与衰落的逻辑",
+      "level": 3,
+      "wordCount": 209,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "帝国的兴起",
+      "level": 4,
+      "wordCount": 31114,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "战争模式与蒙古帝国的崛起",
+          "anchor": "sigil_toc_id_6",
+          "level": 4
+        },
+        {
+          "title": "帝国的政治统治及其衰落",
+          "anchor": "sigil_toc_id_7",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第二部 阿克顿问题",
+      "level": 2,
+      "wordCount": 169,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第四章 选择统治者的难题：理想与现实",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "理想统治者的模型",
+      "level": 4,
+      "wordCount": 27400,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "人类历史上的统治者：好与坏",
+          "anchor": "sigil_toc_id_9",
+          "level": 4
+        },
+        {
+          "title": "统治者的目标函数与约束条件",
+          "anchor": "sigil_toc_id_10",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第五章 君主统治模型的困境",
+      "level": 3,
+      "wordCount": 155,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "统治者自身的困境",
+      "level": 4,
+      "wordCount": 36778,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "控制武力的困境",
+          "anchor": "sigil_toc_id_11",
+          "level": 4
+        },
+        {
+          "title": "管理官僚体制的困境",
+          "anchor": "sigil_toc_id_12",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第六章 君主统治模型的社会成本",
+      "level": 3,
+      "wordCount": 118,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "治乱兴衰的周期",
+      "level": 4,
+      "wordCount": 30503,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "民众福祉与社会风尚",
+          "anchor": "sigil_toc_id_13",
+          "level": 4
+        },
+        {
+          "title": "马尔萨斯陷阱",
+          "anchor": "sigil_toc_id_14",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第七章 古代世界的政体选择",
+      "level": 3,
+      "wordCount": 215,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "古希腊的城邦民主制",
+      "level": 4,
+      "wordCount": 28238,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "古罗马的共和政体",
+          "anchor": "sigil_toc_id_15",
+          "level": 4
+        },
+        {
+          "title": "为何君主统治能够长久？",
+          "anchor": "sigil_toc_id_16",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "抵达 一部政治演化史（下）",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第三部 洛克问题",
+      "level": 2,
+      "wordCount": 155,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第八章 作为一种模式的封建主义",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "欧洲危机与封建主义的兴起",
+      "level": 4,
+      "wordCount": 17173,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "封建主义是一种政治发明",
+          "anchor": "sigil_toc_id_18",
+          "level": 4
+        },
+        {
+          "title": "封建主义的实力结构、制度规则与观念体系",
+          "anchor": "sigil_toc_id_19",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第九章 从封建主义到立宪政体",
+      "level": 3,
+      "wordCount": 94,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "《大宪章》何以成为可能？",
+      "level": 4,
+      "wordCount": 21342,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "英国立宪政体的确立",
+          "anchor": "sigil_toc_id_20",
+          "level": 4
+        },
+        {
+          "title": "绝对君主制与立宪君主制的分化",
+          "anchor": "sigil_toc_id_21",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第十章 现代分权制衡政体",
+      "level": 3,
+      "wordCount": 155,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "美国政治的历史基础",
+      "level": 4,
+      "wordCount": 18590,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "美国制宪与混合政体",
+          "anchor": "sigil_toc_id_22",
+          "level": 4
+        },
+        {
+          "title": "法治与司法审查制度",
+          "anchor": "sigil_toc_id_23",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第十一章 工业革命与古代政治的终结",
+      "level": 3,
+      "wordCount": 283,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "立宪政体与工业革命",
+      "level": 4,
+      "wordCount": 22513,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "工业革命与古今政治的转换",
+          "anchor": "sigil_toc_id_24",
+          "level": 4
+        },
+        {
+          "title": "文明范式的竞争、切换与演化",
+          "anchor": "sigil_toc_id_25",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第四部 托克维尔问题",
+      "level": 2,
+      "wordCount": 210,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十二章 现代民主的兴起",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "保守、进步与普选权",
+      "level": 4,
+      "wordCount": 18146,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "现代民主兴起的逻辑",
+          "anchor": "sigil_toc_id_27",
+          "level": 4
+        },
+        {
+          "title": "民主论战的托克维尔拐点",
+          "anchor": "sigil_toc_id_28",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "第十三章 民主政体与现代政治的塑造",
+      "level": 3,
+      "wordCount": 137,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "民主如何约束利维坦？",
+      "level": 4,
+      "wordCount": 19229,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "民主与大政府的兴起",
+          "anchor": "sigil_toc_id_29",
+          "level": 4
+        },
+        {
+          "title": "民主的历史坐标及其未来",
+          "anchor": "sigil_toc_id_30",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第十四章 后发展国家的政治演化",
+      "level": 3,
+      "wordCount": 148,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "全球体系中的后发展国家",
+      "level": 4,
+      "wordCount": 22159,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "制造利维坦：后发展国家的国家构建",
+          "anchor": "sigil_toc_id_31",
+          "level": 4
+        },
+        {
+          "title": "约束利维坦：后发展国家的政体演化",
+          "anchor": "sigil_toc_id_32",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第十五章 新的历史时刻：从现在到未来",
+      "level": 3,
+      "wordCount": 125,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "人类的政治演化：成就与差异",
+      "level": 4,
+      "wordCount": 21853,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "国家、政体与文明维度上的全球分裂",
+          "anchor": "sigil_toc_id_33",
+          "level": 4
+        },
+        {
+          "title": "超越民族国家？抑或可能的永久和平？",
+          "anchor": "sigil_toc_id_34",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "参考文献",
+      "level": 2,
+      "wordCount": 25510,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072386&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=37"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 5,
+      "chapterTitle": "概念性框架",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300072386_5_12220-12252",
+          "range": "12220-12252",
+          "rangeStart": 12220,
+          "rangeEnd": 12252,
+          "markText": "任何国家构建过程都离不开三个系统：权威系统、武力系统与资源系统。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1716346127,
+          "createTimeFormatted": "2024-05-22 10:48:47",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=5&rangeStart=12220&rangeEnd=12252",
+          "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=5&rangeStart=12220&rangeEnd=12252"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300072386_4_753-819",
+      "chapterUid": 4,
+      "range": "753-819",
+      "markText": "实际上，谁第一个对众人说“我要统治你们，你们应当服从我，我是你们的王”，而且找到了一些居然服从了他的人，谁才是文明社会的真正奠基者。",
+      "totalCount": 357,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=4&rangeStart=753&rangeEnd=819",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=4&rangeStart=753&rangeEnd=819"
+    },
+    {
+      "bookmarkId": "3300072386_4_1369-1404",
+      "chapterUid": 4,
+      "range": "1369-1404",
+      "markText": "没有王，就没有国家；没有国家，就无所谓法律；没有法律，就无所谓财产权。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=4&rangeStart=1369&rangeEnd=1404",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=4&rangeStart=1369&rangeEnd=1404"
+    },
+    {
+      "bookmarkId": "3300072386_4_3811-3854",
+      "chapterUid": 4,
+      "range": "3811-3854",
+      "markText": "历史地看，任何君主的首要工作之一，就是为社会制定法律或规则，以便提供基本的安全与秩序。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=4&rangeStart=3811&rangeEnd=3854",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=4&rangeStart=3811&rangeEnd=3854"
+    },
+    {
+      "bookmarkId": "3300072386_4_2177-2201",
+      "chapterUid": 4,
+      "range": "2177-2201",
+      "markText": "“我要统治你们，你们应当服从我，我是你们的王。”",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=4&rangeStart=2177&rangeEnd=2201",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=4&rangeStart=2177&rangeEnd=2201"
+    },
+    {
+      "bookmarkId": "3300072386_4_1060-1111",
+      "chapterUid": 4,
+      "range": "1060-1111",
+      "markText": "一个人自我宣称的土地财产权都是靠不住的，而当不同的人同时宣称拥有同一块土地的财产权时，难免会引发冲突。",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=4&rangeStart=1060&rangeEnd=1111",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=4&rangeStart=1060&rangeEnd=1111"
+    },
+    {
+      "bookmarkId": "3300072386_4_1157-1199",
+      "chapterUid": 4,
+      "range": "1157-1199",
+      "markText": "任何财产权都是依赖于法律的。没有法律，就没有所谓的财产权。而没有国家，就不会有法律。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=4&rangeStart=1157&rangeEnd=1199",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=4&rangeStart=1157&rangeEnd=1199"
+    },
+    {
+      "bookmarkId": "3300072386_4_12554-12612",
+      "chapterUid": 4,
+      "range": "12554-12612",
+      "markText": "在结构上，本书将用四个概念来勾勒人类迄今为止的政治演化过程，分别是：霍布斯问题、阿克顿问题、洛克问题与托克维尔问题。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=4&rangeStart=12554&rangeEnd=12612",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=4&rangeStart=12554&rangeEnd=12612"
+    },
+    {
+      "bookmarkId": "3300072386_7_11978-12076",
+      "chapterUid": 7,
+      "range": "11978-12076",
+      "markText": "美德其实就是人和人之间基于自利的目的进行反复博弈并经过长期演化过程的产物，是人类合作机制不断进化的结果。换言之，美德乃是自利的个体经由长期博弈，发展出了一套有利于人类个体之间彼此合作的行为与惯例。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=7&rangeStart=11978&rangeEnd=12076",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=7&rangeStart=11978&rangeEnd=12076"
+    },
+    {
+      "bookmarkId": "3300072386_4_420-462",
+      "chapterUid": 4,
+      "range": "420-462",
+      "markText": "从古至今，人类政治演化究竟经历了一个怎样的过程？促成这种人类政治演化的原因又是什么？",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=4&rangeStart=420&rangeEnd=462",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=4&rangeStart=420&rangeEnd=462"
+    },
+    {
+      "bookmarkId": "3300072386_4_8918-9016",
+      "chapterUid": 4,
+      "range": "8918-9016",
+      "markText": "为什么人类不同群体的政治演化都产生了国家这种统治形式？为什么不同人类群体的国家都呈现出类似的特征？为什么国家政治权力的分配与分享方式在许多地区都经历了一个从统治者到统治精英再到平民的不断下移过程？",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=4&rangeStart=8918&rangeEnd=9016",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=4&rangeStart=8918&rangeEnd=9016"
+    },
+    {
+      "bookmarkId": "3300072386_5_29913-29956",
+      "chapterUid": 5,
+      "range": "29913-29956",
+      "markText": "平民阶层的组织和动员能力，也是进一步考察尚未民主化的国家未来是否会走向民主的关键指标。",
+      "totalCount": 135,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=5&rangeStart=29913&rangeEnd=29956",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=5&rangeStart=29913&rangeEnd=29956"
+    },
+    {
+      "bookmarkId": "3300072386_4_1489-1509",
+      "chapterUid": 4,
+      "range": "1489-1509",
+      "markText": "国家诞生的时刻，才是文明社会的真正开始。",
+      "totalCount": 130,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=4&rangeStart=1489&rangeEnd=1509",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=4&rangeStart=1489&rangeEnd=1509"
+    },
+    {
+      "bookmarkId": "3300072386_4_580-641",
+      "chapterUid": 4,
+      "range": "580-641",
+      "markText": "“谁第一个把一块土地圈起来并想到说：这是我的，而且找到一些头脑十分简单的人居然相信了他的话，谁就是文明社会的真正奠基者。”",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=4&rangeStart=580&rangeEnd=641",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=4&rangeStart=580&rangeEnd=641"
+    },
+    {
+      "bookmarkId": "3300072386_5_15107-15190",
+      "chapterUid": 5,
+      "range": "15107-15190",
+      "markText": "政治权力有四个最重要的基本特性，分别是：权威性(authoritative)、强制性(coercive)、扩张性(extensive)与渗透性(intensive)。",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=5&rangeStart=15107&rangeEnd=15190",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=5&rangeStart=15107&rangeEnd=15190"
+    },
+    {
+      "bookmarkId": "3300072386_4_2306-2375",
+      "chapterUid": 4,
+      "range": "2306-2375",
+      "markText": "我是大流士王、伟大的王、众王之王、万邦万民之王、这辽阔大地之王，希斯塔斯普之子、阿契美尼德族人、波斯人、波斯人之子、雅利安血统的雅利安人。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=4&rangeStart=2306&rangeEnd=2375",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=4&rangeStart=2306&rangeEnd=2375"
+    },
+    {
+      "bookmarkId": "3300072386_9_29551-29642",
+      "chapterUid": 9,
+      "range": "29551-29642",
+      "markText": "以今天的政治理论而言，贵族共和制是一种比绝对君主制更进步的政体类型，但在当时欧洲的政治格局中，波兰—立陶宛联邦的政体模式在政治军事上几乎无所作为，所以就无法加强该联邦的政治军事力量。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=9&rangeStart=29551&rangeEnd=29642",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=9&rangeStart=29551&rangeEnd=29642"
+    },
+    {
+      "bookmarkId": "3300072386_22_14085-14106",
+      "chapterUid": 22,
+      "range": "14085-14106",
+      "markText": "可见，凡封建，必不专制；凡专制，必不封建。",
+      "totalCount": 104,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=22&rangeStart=14085&rangeEnd=14106",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=22&rangeStart=14085&rangeEnd=14106"
+    },
+    {
+      "bookmarkId": "3300072386_24_17854-17901",
+      "chapterUid": 24,
+      "range": "17854-17901",
+      "markText": "封建主义体制下君主与贵族在武力资源上的势均力敌结构是约束王权的立宪主义政体得以兴起的关键原因。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=24&rangeStart=17854&rangeEnd=17901",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=24&rangeStart=17854&rangeEnd=17901"
+    },
+    {
+      "bookmarkId": "3300072386_30_24841-24927",
+      "chapterUid": 30,
+      "range": "24841-24927",
+      "markText": "自此，几乎所有人都开始号称自己是民主的支持者或是民主派的政治家，而给对手贴上“独裁”或“反民主”的标签。这是第二次世界大战之后的政治新现象，意味着民主观念大转向的基本完成。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=30&rangeStart=24841&rangeEnd=24927",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=30&rangeStart=24841&rangeEnd=24927"
+    },
+    {
+      "bookmarkId": "3300072386_5_7489-7524",
+      "chapterUid": 5,
+      "range": "7489-7524",
+      "markText": "国家是一个在特定疆域内成功地宣称拥有合法行使暴力的垄断权的人类共同体。",
+      "totalCount": 98,
+      "appLink": "weread://bestbookmark?bookId=3300072386&chapterUid=5&rangeStart=7489&rangeEnd=7524",
+      "webLink": "https://weread.qq.com/web/reader/a7f32680813ab82c6g016aa3?chapterUid=5&rangeStart=7489&rangeEnd=7524"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 5,
+    "chapterOffset": 12229,
+    "progress": 1,
+    "updateTime": 1716925369,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

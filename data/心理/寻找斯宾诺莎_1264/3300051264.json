@@ -1,0 +1,499 @@
+{
+  "meta": {
+    "bookId": "3300051264",
+    "title": "寻找斯宾诺莎",
+    "author": "安东尼奥·达马西奥",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/38/cpplatform_ot8wvsiifpmfiwjkmyibnq/t6_cpplatform_ot8wvsiifpmfiwjkmyibnq1678084271.jpg",
+    "intro": "快乐、悲伤、嫉妒和敬畏这样或那样的情感体验是我们日常生活的基本素材。它们通常被认为过于私密，以至于科学不能解释，与此同时又对我们理解认知活动并非不可或缺，而被人所忽略。但斯宾诺莎和安东尼奥·达马西奥对此并不认同。\n在《寻找斯宾诺莎》中，世界公认的神经科学研究权威达马西奥揭秘了情绪的本质，他运用创造性的科学探索以及他与神经疾病患者接触所获得的经验，探索了情感的神经生物学基础以及它是如何塑造我们的生活的。这本书能够改变我们对情感的一般认知，比如书中对情绪和感受的区分，足以刷新我们对这些看似简单的问题的理解，《寻找斯宾诺莎》也因此成为《笛卡尔的错误》之后又一部心理学经典之作。\n《寻找斯宾诺莎》也是对伟大的思想家斯宾诺莎的重新发现，几乎没有人意识到，斯宾诺莎的工作与现代神经科学的研究彼此契合，这不仅表现于他对情绪和感受的思考，而且体现在他对分裂身心关系观点的拒斥。科学家和哲学家的共同努力有助于我们领会我们是由什么构成的，我们何以在此。",
+    "category": "心理-心理学研究",
+    "publisher": "中国纺织出版社有限公司",
+    "publishTime": "2022-03-31 00:00:00",
+    "isbn": "9787518093748",
+    "wordCount": 0,
+    "newRating": 767,
+    "newRatingCount": 197,
+    "newRatingDetail": {
+      "good": 141,
+      "fair": 41,
+      "poor": 15,
+      "recent": 3,
+      "deepV": 82,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300051264",
+    "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c",
+    "lastSync": "2026-05-21T11:54:28Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 8,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 155,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 1648,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "献词",
+      "level": 1,
+      "wordCount": 24,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "赞誉",
+      "level": 1,
+      "wordCount": 1865,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "推荐序 从理性和感性走向演化理性",
+      "level": 1,
+      "wordCount": 2694,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "中文版序 探索情绪与感受的世界",
+      "level": 1,
+      "wordCount": 1297,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "测一测 你了解斯宾诺莎眼中的情感世界吗",
+      "level": 1,
+      "wordCount": 211,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第1章 走近感受",
+      "level": 1,
+      "wordCount": 14446,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第2章 欲望与情绪",
+      "level": 1,
+      "wordCount": 28868,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第3章 感受",
+      "level": 1,
+      "wordCount": 26165,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第4章 感受之后",
+      "level": 1,
+      "wordCount": 22605,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第5章 身体、脑与心智",
+      "level": 1,
+      "wordCount": 20915,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第6章 造访斯宾诺莎",
+      "level": 1,
+      "wordCount": 26237,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第7章 谁在那儿",
+      "level": 1,
+      "wordCount": 12766,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 967,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "译者后记",
+      "level": 1,
+      "wordCount": 2068,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "附录1 斯宾诺莎时代和上下200年",
+      "level": 1,
+      "wordCount": 1475,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "附录2 术语和脑图",
+      "level": 1,
+      "wordCount": 2743,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300051264&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=19"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 9,
+      "chapterTitle": "第1章 走近感受",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300051264_9_7928-7979",
+          "range": "7928-7979",
+          "rangeStart": 7928,
+          "rangeEnd": 7979,
+          "markText": "抑制激情，要靠理性所引导的情绪，而非纯粹的理智。这绝非易事，但斯宾诺莎认为任何容易的事都没有什么价值。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1730160100,
+          "createTimeFormatted": "2024-10-29 08:01:40",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=9&rangeStart=7928&rangeEnd=7979",
+          "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=9&rangeStart=7928&rangeEnd=7979"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300051264_11_18938-18963",
+      "chapterUid": 11,
+      "range": "18938-18963",
+      "markText": "除了作为一种令人感到愉悦的状态之外，爱什么也不是。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=11&rangeStart=18938&rangeEnd=18963",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=11&rangeStart=18938&rangeEnd=18963"
+    },
+    {
+      "bookmarkId": "3300051264_9_7928-7979",
+      "chapterUid": 9,
+      "range": "7928-7979",
+      "markText": "抑制激情，要靠理性所引导的情绪，而非纯粹的理智。这绝非易事，但斯宾诺莎认为任何容易的事都没有什么价值。",
+      "totalCount": 117,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=9&rangeStart=7928&rangeEnd=7979",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=9&rangeStart=7928&rangeEnd=7979"
+    },
+    {
+      "bookmarkId": "3300051264_10_28823-28843",
+      "chapterUid": 10,
+      "range": "28823-28843",
+      "markText": "与情绪有关的想法是在情绪开始后才会出现。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=10&rangeStart=28823&rangeEnd=28843",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=10&rangeStart=28823&rangeEnd=28843"
+    },
+    {
+      "bookmarkId": "3300051264_3_934-957",
+      "chapterUid": 3,
+      "range": "934-957",
+      "markText": "他认为人类的理性决策离不开对身体情绪状态的感受",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=3&rangeStart=934&rangeEnd=957",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=3&rangeStart=934&rangeEnd=957"
+    },
+    {
+      "bookmarkId": "3300051264_10_20661-20687",
+      "chapterUid": 10,
+      "range": "20661-20687",
+      "markText": "但随着年龄的增长，请尽量避免使用它。这非常消耗能量。",
+      "totalCount": 98,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=10&rangeStart=20661&rangeEnd=20687",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=10&rangeStart=20661&rangeEnd=20687"
+    },
+    {
+      "bookmarkId": "3300051264_9_16224-16288",
+      "chapterUid": 9,
+      "range": "16224-16288",
+      "markText": "我们必须感谢生活在不同的时代，即使在今天，一想到这些来之不易的自由所受到的威胁，我们就会不寒而栗。也许谨言慎行依然是默认的秩序。",
+      "totalCount": 91,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=9&rangeStart=16224&rangeEnd=16288",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=9&rangeStart=16224&rangeEnd=16288"
+    },
+    {
+      "bookmarkId": "3300051264_9_11954-12083",
+      "chapterUid": 9,
+      "range": "11954-12083",
+      "markText": "知识和经济背景下诞生的11。克服有害的情感，比如非理性的激情的唯一希望是用另一种由理性触发的更强的积极情感去压倒它。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=9&rangeStart=11954&rangeEnd=12083",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=9&rangeStart=11954&rangeEnd=12083"
+    },
+    {
+      "bookmarkId": "3300051264_10_15172-15268",
+      "chapterUid": 10,
+      "range": "15172-15268",
+      "markText": "为什么一些人会成为领导，而另一些人则成为下属？为什么一些人值得尊重，而另一些人则畏缩不前？这与知识或技能关系不大，而与某个人的某些身体特征和行为方式，以及如何激起他人的某些情绪反应有很大关系。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=10&rangeStart=15172&rangeEnd=15268",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=10&rangeStart=15172&rangeEnd=15268"
+    },
+    {
+      "bookmarkId": "3300051264_10_2999-3029",
+      "chapterUid": 10,
+      "range": "2999-3029",
+      "markText": "我们先有情绪，再有感受，因为进化首先产生情绪，然后才有感受。",
+      "totalCount": 88,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=10&rangeStart=2999&rangeEnd=3029",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=10&rangeStart=2999&rangeEnd=3029"
+    },
+    {
+      "bookmarkId": "3300051264_10_7137-7169",
+      "chapterUid": 10,
+      "range": "7137-7169",
+      "markText": "用斯宾诺莎自己的话说：“每个事物莫不尽其所能，以努力保持其存在”",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=10&rangeStart=7137&rangeEnd=7169",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=10&rangeStart=7137&rangeEnd=7169"
+    },
+    {
+      "bookmarkId": "3300051264_9_3002-3048",
+      "chapterUid": 9,
+      "range": "3002-3048",
+      "markText": "情绪与感受是一对双胞胎，情绪是头生子，感受是次生子，并且，感受永远尾随于情绪之后，如影随形。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=9&rangeStart=3002&rangeEnd=3048",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=9&rangeStart=3002&rangeEnd=3048"
+    },
+    {
+      "bookmarkId": "3300051264_9_13986-14080",
+      "chapterUid": 9,
+      "range": "13986-14080",
+      "markText": "斯宾诺莎告诉我们，每个人都有权思考自己感兴趣的话题，说出自己思考的内容，然而这并非一件短期内就能做到的事，至少目前不行。当心，小心你所说的（以及你所写的），否则，连你的遗骨都将不再属于你。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=9&rangeStart=13986&rangeEnd=14080",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=9&rangeStart=13986&rangeEnd=14080"
+    },
+    {
+      "bookmarkId": "3300051264_11_1150-1227",
+      "chapterUid": 11,
+      "range": "1150-1227",
+      "markText": "请你想象自己躺在沙滩上，傍晚的阳光轻轻地温暖着你的皮肤，大海的波浪拍打着你的脚背，松针在你身后沙沙作响，夏日的微风拂过，气温是温和的25摄氏度，万里无云。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=11&rangeStart=1150&rangeEnd=1227",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=11&rangeStart=1150&rangeEnd=1227"
+    },
+    {
+      "bookmarkId": "3300051264_9_3767-3851",
+      "chapterUid": 9,
+      "range": "3767-3851",
+      "markText": "生活如同一场高空钢索表演，大部分感受都体现出为保持平衡所做出的努力，以及进行细微调节、纠错的想法，倘若没有感受，即使是一个微小的失误也会铸成大错，整个表演都将宣告失败。",
+      "totalCount": 70,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=9&rangeStart=3767&rangeEnd=3851",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=9&rangeStart=3767&rangeEnd=3851"
+    },
+    {
+      "bookmarkId": "3300051264_6_3452-3526",
+      "chapterUid": 6,
+      "range": "3452-3526",
+      "markText": "归根结底，还是个体要处理它与“整全”之间的关系问题。这套关系是连续的谱系，从低级的细胞膜行为——称为“情绪”，演化为高级的信仰行为——称为“精神”。",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=6&rangeStart=3452&rangeEnd=3526",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=6&rangeStart=3452&rangeEnd=3526"
+    },
+    {
+      "bookmarkId": "3300051264_12_2717-2752",
+      "chapterUid": 12,
+      "range": "2717-2752",
+      "markText": "然而长期来看，长年累月的悲伤是有害的，会导致“癌症”，而且是灵魂之癌。",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=12&rangeStart=2717&rangeEnd=2752",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=12&rangeStart=2717&rangeEnd=2752"
+    },
+    {
+      "bookmarkId": "3300051264_6_952-1037",
+      "chapterUid": 6,
+      "range": "952-1037",
+      "markText": "笛卡尔是近代西方思想传统的“理性建构主义”宗师，所以哈耶克追溯“社会主义的谬误”至360年前的笛卡尔也不算“过火”。索罗斯喜爱达马西奥，与哈耶克批判笛卡尔的理由是同源的。",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=6&rangeStart=952&rangeEnd=1037",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=6&rangeStart=952&rangeEnd=1037"
+    },
+    {
+      "bookmarkId": "3300051264_9_1652-1732",
+      "chapterUid": 9,
+      "range": "1652-1732",
+      "markText": "尽管我们可以用药物、酒精饮料、温泉按摩、身体锻炼以及精神训练来调节我们的情绪，然而迄今为止，无论是公众还是科学都无法从生物学意义上准确地把握什么是感受这一问题。",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=9&rangeStart=1652&rangeEnd=1732",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=9&rangeStart=1652&rangeEnd=1732"
+    },
+    {
+      "bookmarkId": "3300051264_10_16852-16879",
+      "chapterUid": 10,
+      "range": "16852-16879",
+      "markText": "描述当情绪反应发生时身体发生的变化以及由此产生的感受。",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=10&rangeStart=16852&rangeEnd=16879",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=10&rangeStart=16852&rangeEnd=16879"
+    },
+    {
+      "bookmarkId": "3300051264_11_6173-6228",
+      "chapterUid": 11,
+      "range": "6173-6228",
+      "markText": "一幅壮观的海景是一种能激发情绪的客体，看到海景X而产生的身体状态是原点X处的实际客体，然后在感受状态中被感知。",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=3300051264&chapterUid=11&rangeStart=6173&rangeEnd=6228",
+      "webLink": "https://weread.qq.com/web/reader/23b32c20813ab7a86g014c6c?chapterUid=11&rangeStart=6173&rangeEnd=6228"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

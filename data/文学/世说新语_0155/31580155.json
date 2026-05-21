@@ -1,0 +1,842 @@
+{
+  "meta": {
+    "bookId": "31580155",
+    "title": "世说新语",
+    "author": "[南朝宋]刘义庆著 [南朝梁]刘孝标注 徐传武校点",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/18/YueWen_31580155/t6_YueWen_31580155.jpg",
+    "intro": "《世说新语》是一部主要记述魏晋人物言谈轶事的笔记小说，由南朝刘宋宗室临川王刘义庆组织一批文人编写的。全书原八卷，刘峻注本分为十卷，今传本皆作三卷，分为德行、言语、政事、文学、方正、雅量等三十六门，共一千多则，记述自汉末到刘宋时名士贵族的遗闻轶事，主要为有关人物评论、清谈玄言和机智应对的故事，是研究魏晋历史、人物、文学、语言的极好史料。这次整理，选取光绪十七年王先谦思贤讲舍所刻本为底本，校本则用宋本、唐写本、沈校本等为主，并征引了李慈铭、李详、程炎震、余嘉锡、徐震堮等学者的校语。书后附人名释名和龚斌的《人名索引》，以便读者阅读。",
+    "category": "文学-古典文学",
+    "publisher": "上海古籍出版社",
+    "publishTime": "2013-10-15 00:00:00",
+    "isbn": "9787532569465",
+    "wordCount": 0,
+    "newRating": 902,
+    "newRatingCount": 326,
+    "newRatingDetail": {
+      "good": 298,
+      "fair": 21,
+      "poor": 7,
+      "recent": 8,
+      "deepV": 76,
+      "myRating": "",
+      "title": "神作潜力"
+    },
+    "appLink": "weread://reading?bId=31580155",
+    "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a",
+    "lastSync": "2026-05-21T11:49:31Z",
+    "readingProgress": "10%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 112,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 3861,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "世说新语卷上之上",
+      "level": 1,
+      "wordCount": 12044,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "德行第一",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580155&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "言语第二",
+      "level": 2,
+      "wordCount": 26627,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "世说新语卷上之下",
+      "level": 1,
+      "wordCount": 5705,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "政事第三",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580155&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "文学第四",
+      "level": 2,
+      "wordCount": 22135,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "世说新语卷中之上",
+      "level": 1,
+      "wordCount": 16734,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "方正第五",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580155&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "雅量第六",
+      "level": 2,
+      "wordCount": 8034,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "识鉴第七",
+      "level": 2,
+      "wordCount": 7075,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "世说新语卷中之下",
+      "level": 1,
+      "wordCount": 6184,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "赏誉第八上",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580155&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "赏誉第八下",
+      "level": 2,
+      "wordCount": 13136,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "品藻第九",
+      "level": 2,
+      "wordCount": 12183,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "规箴第十",
+      "level": 2,
+      "wordCount": 6558,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "捷悟第十一",
+      "level": 2,
+      "wordCount": 1399,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "夙惠第十二",
+      "level": 2,
+      "wordCount": 959,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "豪爽第十三",
+      "level": 2,
+      "wordCount": 2051,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "世说新语卷下之上",
+      "level": 1,
+      "wordCount": 3721,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "容止第十四",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580155&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "自新第十五",
+      "level": 2,
+      "wordCount": 773,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "企羡第十六",
+      "level": 2,
+      "wordCount": 600,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "伤逝第十七",
+      "level": 2,
+      "wordCount": 3156,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "栖逸第十八",
+      "level": 2,
+      "wordCount": 3280,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "贤媛第十九",
+      "level": 2,
+      "wordCount": 7861,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "术解第二十",
+      "level": 2,
+      "wordCount": 1771,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "巧艺第二十一",
+      "level": 2,
+      "wordCount": 1750,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "宠礼第二十二",
+      "level": 2,
+      "wordCount": 611,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "任诞第二十三",
+      "level": 2,
+      "wordCount": 8491,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "简傲第二十四",
+      "level": 2,
+      "wordCount": 2850,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "世说新语卷下之下",
+      "level": 1,
+      "wordCount": 10523,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "排调第二十五",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580155&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "轻诋第二十六",
+      "level": 2,
+      "wordCount": 5119,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "假谲第二十七",
+      "level": 2,
+      "wordCount": 2982,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "黜免第二十八",
+      "level": 2,
+      "wordCount": 1584,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "俭啬第二十九",
+      "level": 2,
+      "wordCount": 1023,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "汰侈第三十",
+      "level": 2,
+      "wordCount": 2266,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "忿狷第三十一",
+      "level": 2,
+      "wordCount": 948,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "谗险第三十二",
+      "level": 2,
+      "wordCount": 747,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "尤悔第三十三",
+      "level": 2,
+      "wordCount": 3318,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "纰漏第三十四",
+      "level": 2,
+      "wordCount": 1410,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "惑溺第三十五",
+      "level": 2,
+      "wordCount": 1775,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "仇隙第三十六",
+      "level": 2,
+      "wordCount": 2446,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "附 人名释名",
+      "level": 1,
+      "wordCount": 1699,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580155&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=41"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 5,
+      "chapterTitle": "言语第二",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "31580155_5_1494-1717",
+          "range": "1494-1696",
+          "rangeStart": 1494,
+          "rangeEnd": 1696,
+          "markText": "孔文举年十岁，随父到洛。时李元礼有盛名，为司隶校尉，诣门者皆俊才清称及中表亲戚乃通。文举至门，谓吏曰：“我是李府君亲。”既通，前坐。元礼问曰：“君与仆有何亲？”对曰：“昔先君仲尼与君先人伯阳有师资之尊，是仆与君奕世为通好也。”元礼及宾客莫不奇之。太中大夫陈韪后至，人以其语语之，韪曰：“小时了了，大未必佳。”文举曰：“想君小时必当了了！”韪大踧踖。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1753590002,
+          "createTimeFormatted": "2025-07-27 12:20:02",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=5&rangeStart=1494&rangeEnd=1696",
+          "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=5&rangeStart=1494&rangeEnd=1696"
+        }
+      ]
+    },
+    {
+      "chapterUid": 4,
+      "chapterTitle": "世说新语卷上之上",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "31580155_4_4042-4111",
+          "range": "4042-4111",
+          "rangeStart": 4042,
+          "rangeEnd": 4111,
+          "markText": "吾家君譬如桂树生泰山之阿，上有万仞之高，下有不测之深；上为甘露所沾，下为渊泉所润。当斯之时，桂树焉知泰山之高、渊泉之深，不知有功德与无也！",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745455217,
+          "createTimeFormatted": "2025-04-24 08:40:17",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=4042&rangeEnd=4111",
+          "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=4042&rangeEnd=4111"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "31580155_4_477-486",
+      "chapterUid": 4,
+      "range": "477-486",
+      "markText": "言为士则，行为世范",
+      "totalCount": 576,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=477&rangeEnd=486",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=477&rangeEnd=486"
+    },
+    {
+      "bookmarkId": "31580155_4_4859-4892",
+      "chapterUid": 4,
+      "range": "4859-4892",
+      "markText": "贼相谓曰：“我辈无义之人，而入有义之国！”遂班军而还，一郡并获全。",
+      "totalCount": 561,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=4859&rangeEnd=4892",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=4859&rangeEnd=4892"
+    },
+    {
+      "bookmarkId": "31580155_4_4042-4111",
+      "chapterUid": 4,
+      "range": "4042-4111",
+      "markText": "吾家君譬如桂树生泰山之阿，上有万仞之高，下有不测之深；上为甘露所沾，下为渊泉所润。当斯之时，桂树焉知泰山之高、渊泉之深，不知有功德与无也！",
+      "totalCount": 540,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=4042&rangeEnd=4111",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=4042&rangeEnd=4111"
+    },
+    {
+      "bookmarkId": "31580155_3_2417-2468",
+      "chapterUid": 3,
+      "range": "2417-2468",
+      "markText": "所以《世说新语》中的人物王姓很多，大多是王羲之一家的，谢姓很多，大多是谢安一家的。这就是所谓门阀制度。",
+      "totalCount": 527,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=3&rangeStart=2417&rangeEnd=2468",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=3&rangeStart=2417&rangeEnd=2468"
+    },
+    {
+      "bookmarkId": "31580155_4_1607-1637",
+      "chapterUid": 4,
+      "range": "1607-1637",
+      "markText": "叔度汪汪如万顷之陂，澄之不清，扰之不浊，其器深广，难测量也。",
+      "totalCount": 512,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=1607&rangeEnd=1637",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=1607&rangeEnd=1637"
+    },
+    {
+      "bookmarkId": "31580155_4_4341-4355",
+      "chapterUid": 4,
+      "range": "4341-4355",
+      "markText": "“元方难为兄，季方难为弟。”",
+      "totalCount": 480,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=4341&rangeEnd=4355",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=4341&rangeEnd=4355"
+    },
+    {
+      "bookmarkId": "31580155_4_5338-5461",
+      "chapterUid": 4,
+      "range": "5338-5461",
+      "markText": "管宁、华歆共园中锄菜，①见地有片金，管挥锄与瓦石不异，华捉而掷去之。又尝同席读书，有乘轩冕过门者，宁读如故，歆废书出看。宁割席分坐曰：“子非吾友也。”②",
+      "totalCount": 480,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=5338&rangeEnd=5461",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=5338&rangeEnd=5461"
+    },
+    {
+      "bookmarkId": "31580155_4_1227-1245",
+      "chapterUid": 4,
+      "range": "1227-1245",
+      "markText": "吾时月不见黄叔度，则鄙吝之心已复生矣",
+      "totalCount": 468,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=1227&rangeEnd=1245",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=1227&rangeEnd=1245"
+    },
+    {
+      "bookmarkId": "31580155_3_2862-2931",
+      "chapterUid": 3,
+      "range": "2862-2931",
+      "markText": "当清谈称为上流社会的时尚，官员相聚不谈国事，带兵的不讲打仗，理政的不谈民生，视正业为俗事，张口《周易》，闭口老庄，这样的社会就是病态的了。",
+      "totalCount": 465,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=3&rangeStart=2862&rangeEnd=2931",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=3&rangeStart=2862&rangeEnd=2931"
+    },
+    {
+      "bookmarkId": "31580155_4_8689-8711",
+      "chapterUid": 4,
+      "range": "8689-8711",
+      "markText": "王戎云：“与嵇康居二十年，未尝见其喜愠之色。",
+      "totalCount": 459,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=8689&rangeEnd=8711",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=8689&rangeEnd=8711"
+    },
+    {
+      "bookmarkId": "31580155_4_14458-14568",
+      "chapterUid": 4,
+      "range": "14458-14568",
+      "markText": "邓攸始避难，于道中弃己子，全弟子。①既过江，取一妾，甚宠爱。历年后讯其所由，妾具说是北人遭乱，忆父母姓名，乃攸之甥也。攸素有德业，言行无玷，闻之哀恨终身，遂不复畜妾。",
+      "totalCount": 448,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=14458&rangeEnd=14568",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=14458&rangeEnd=14568"
+    },
+    {
+      "bookmarkId": "31580155_5_8291-8337",
+      "chapterUid": 5,
+      "range": "8291-8337",
+      "markText": "既而问毓何以拜，毓曰：“酒以成礼，不敢不拜。”又问会何以不拜，会曰：“偷本非礼，所以不拜。”",
+      "totalCount": 408,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=5&rangeStart=8291&rangeEnd=8337",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=5&rangeStart=8291&rangeEnd=8337"
+    },
+    {
+      "bookmarkId": "31580155_4_758-782",
+      "chapterUid": 4,
+      "range": "758-782",
+      "markText": "有室，荒芜不扫除，曰：‘大丈夫当为国家扫天下。’",
+      "totalCount": 407,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=758&rangeEnd=782",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=758&rangeEnd=782"
+    },
+    {
+      "bookmarkId": "31580155_4_9936-9949",
+      "chapterUid": 4,
+      "range": "9936-9949",
+      "markText": "损有余，补不足，天之道也。",
+      "totalCount": 396,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=9936&rangeEnd=9949",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=9936&rangeEnd=9949"
+    },
+    {
+      "bookmarkId": "31580155_4_7698-7724",
+      "chapterUid": 4,
+      "range": "7698-7724",
+      "markText": "晋文王称阮嗣宗至慎，每与之言，言皆玄远，未尝臧否人物",
+      "totalCount": 390,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=7698&rangeEnd=7724",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=7698&rangeEnd=7724"
+    },
+    {
+      "bookmarkId": "31580155_5_2330-2385",
+      "chapterUid": 5,
+      "range": "2330-2385",
+      "markText": "孔文举有二子，大者六岁，小者五岁。昼日父眠，小者床头盗酒饮之。大儿谓曰：“何以不拜？”答曰：“偷，那得行礼！”",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=5&rangeStart=2330&rangeEnd=2385",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=5&rangeStart=2330&rangeEnd=2385"
+    },
+    {
+      "bookmarkId": "31580155_4_12572-12657",
+      "chapterUid": 4,
+      "range": "12572-12657",
+      "markText": "25 顾荣在洛阳，尝应人请，觉行炙人有欲炙之色，因辍己施焉。同坐嗤之，荣曰：“岂有终日执之，而不知其味者乎？”后遭乱渡江，每经危急，常有一人左右己，问其所以，乃受炙人也。",
+      "totalCount": 325,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=4&rangeStart=12572&rangeEnd=12657",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=4&rangeStart=12572&rangeEnd=12657"
+    },
+    {
+      "bookmarkId": "31580155_3_567-651",
+      "chapterUid": 3,
+      "range": "567-651",
+      "markText": "然而，对于《世说新语》来说，刘义庆未必是它实际的作者，这些拥有权力和财富的人物，更经常是做主编的，其中文字未必亲力亲为，正如淮南王刘安的《淮南子》也是集聚门客之力而成。",
+      "totalCount": 312,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=3&rangeStart=567&rangeEnd=651",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=3&rangeStart=567&rangeEnd=651"
+    },
+    {
+      "bookmarkId": "31580155_5_30251-30300",
+      "chapterUid": 5,
+      "range": "30251-30300",
+      "markText": "桓公北征，经金城，见前为琅邪时种柳，皆已十围，慨然曰：“木犹如此，人何以堪！”攀枝执条，泫然流泪。",
+      "totalCount": 312,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=5&rangeStart=30251&rangeEnd=30300",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=5&rangeStart=30251&rangeEnd=30300"
+    },
+    {
+      "bookmarkId": "31580155_5_37405-37522",
+      "chapterUid": 5,
+      "range": "37405-37522",
+      "markText": "谢太傅寒雪日内集，与儿女讲论文义。俄而雪骤，公欣然曰：“白雪纷纷何所似？”兄子胡儿曰：①“撒盐空中差可拟。”兄女曰：“未若柳絮因风起。”公大笑乐。即公大兄无奕女，左将军王凝之妻也。",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=31580155&chapterUid=5&rangeStart=37405&rangeEnd=37522",
+      "webLink": "https://weread.qq.com/web/reader/83e325e071e1dffb83e989a?chapterUid=5&rangeStart=37405&rangeEnd=37522"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 5,
+    "chapterOffset": 10332,
+    "progress": 10,
+    "updateTime": 1756397299,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

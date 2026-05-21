@@ -1,0 +1,726 @@
+{
+  "meta": {
+    "bookId": "26631346",
+    "title": "论语集注 【四书章句集注】（繁体横排版）",
+    "author": "[宋]朱熹 鄒寰宇",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/65/YueWen_26631346/t6_YueWen_26631346.jpg",
+    "intro": "本書爲朱子對《論語》的註釋。\n朱子論語集注，以程子觀點爲主，增損改易漢唐古注，融合訓詁和義理，注重探求經文之本義。\n是論語學最具有影響力的著作。\n本書制書標準如下：\n①追求完美的閱讀體驗，原文及註差異化顯示。\n②精校。用字力求準確，拒絕亂碼、錯字；拒絕內容的脫、衍、誤、倒。\n③推動古籍電子化，做專業的通鑑電子版本。\n另外，古本論語中，正體字、俗體字及異體字混用頻繁。甚至在一句話中都會出現同一字的正俗異混用。\n本着無知者不可無畏、存在即有道理的原則，本書電子版用字完全遵從古本，不做標準用字或是一刀切。如：於于、彊强、祿禄、跡迹、饑飢、閒閑、修脩、略畧，等。",
+    "category": "历史-历史典籍",
+    "publisher": "浙江出版集团数字传媒有限公司",
+    "publishTime": "2017-12-28 00:00:00",
+    "isbn": "9787950007518",
+    "wordCount": 0,
+    "newRating": 889,
+    "newRatingCount": 253,
+    "newRatingDetail": {
+      "good": 230,
+      "fair": 18,
+      "poor": 5,
+      "recent": 1,
+      "deepV": 36,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=26631346",
+    "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85",
+    "lastSync": "2026-05-21T11:48:23Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 6,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26631346&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 161,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26631346&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "論語序說",
+      "level": 1,
+      "wordCount": 1635,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26631346&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "論語集注卷一",
+      "level": 1,
+      "wordCount": 4696,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "學而第一 此為書之首篇，故所記多務本之意，乃入道之門、積德之基、學者之先務也。凡十六章。",
+          "translateTitle": "学而第一 此为书之首篇，故所记多务本之意，乃入道之门、积德之基、学者之先务也。凡十六章。",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=26631346&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "為政第二 凡二十四章。",
+      "level": 2,
+      "wordCount": 4871,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26631346&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "論語集注卷二",
+      "level": 1,
+      "wordCount": 5950,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "八佾第三 凡二十六章。通前篇末二章，皆論禮樂之事。",
+          "translateTitle": "八佾第三 凡二十六章。通前篇末二章，皆论礼乐之事。",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=26631346&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "里仁第四 凡二十六章。",
+      "level": 2,
+      "wordCount": 3804,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26631346&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "論語集注卷三",
+      "level": 1,
+      "wordCount": 6025,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "公冶長第五 此篇皆論古今人物賢否得失，蓋格物窮理之一端也。凡二十七章。胡氏以為疑多子貢之徒所記云。",
+          "translateTitle": "公冶长第五 此篇皆论古今人物贤否得失，盖格物穷理之一端也。凡二十七章。胡氏以为疑多子贡之徒所记云。",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=26631346&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "雍也第六 凡二十八章。篇內第十四章以前，大意與前篇同。",
+      "level": 2,
+      "wordCount": 6621,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26631346&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "論語集注卷四",
+      "level": 1,
+      "wordCount": 6580,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "述而第七 此篇多記聖人謙己誨人之辭及其容貌行事之實。凡三十七章。",
+          "translateTitle": "述而第七 此篇多记圣人谦己诲人之辞及其容貌行事之实。凡三十七章。",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=26631346&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "泰伯第八 凡二十一章。",
+      "level": 2,
+      "wordCount": 4330,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26631346&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "論語集注卷五",
+      "level": 1,
+      "wordCount": 5463,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "子罕第九 凡三十章。",
+          "translateTitle": "子罕第九 凡三十章。",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=26631346&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "鄉黨第十 楊氏曰︰「聖人之所謂道者，不離乎日用之間也。故夫子之平日，一動一靜，門人皆審視而詳記之。」尹氏曰︰「甚矣孔門諸子之嗜學也！於聖人之容色言動，無不謹書而備錄之，以貽後世。今讀其書，卽其事，宛然如聖人之在目也。雖然，聖人豈拘拘而為之者哉？蓋盛德之至，動容周旋，自中乎禮耳。學者欲潛心於聖人，宜於此求焉。」舊說凡一章，今分為十七︹一︺節。",
+      "level": 2,
+      "wordCount": 4489,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26631346&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "論語集注卷六",
+      "level": 1,
+      "wordCount": 6104,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "先進第十一 此篇多評弟子賢否。凡二十五︹一︺章。胡氏曰︰「此篇記閔子騫言行者四，而其一直稱閔子，疑閔氏門人所記也。」",
+          "translateTitle": "先进第十一 此篇多评弟子贤否。凡二十五︹一︺章。胡氏曰︰「此篇记闵子骞言行者四，而其一直称闵子，疑闵氏门人所记也。」",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=26631346&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "顏淵第十二 凡二十四章。",
+      "level": 2,
+      "wordCount": 6239,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26631346&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "論語集注卷七",
+      "level": 1,
+      "wordCount": 5311,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "子路第十三 凡三十章。",
+          "translateTitle": "子路第十三 凡三十章。",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=26631346&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "憲問第十四 胡氏曰︰「此篇疑原憲所記。」凡四十七章。",
+      "level": 2,
+      "wordCount": 8265,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26631346&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "論語集注卷八",
+      "level": 1,
+      "wordCount": 5428,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "衛靈公第十五 凡四十一章。",
+          "translateTitle": "卫灵公第十五 凡四十一章。",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=26631346&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "季氏第十六 洪氏曰︰「此篇或以為齊論。」凡十四章。",
+      "level": 2,
+      "wordCount": 3431,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26631346&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "論語集注卷九",
+      "level": 1,
+      "wordCount": 5287,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "陽貨第十七 凡二十六章。",
+          "translateTitle": "阳货第十七 凡二十六章。",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=26631346&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "微子第十八 此篇多記聖賢之出處，凡十一章。",
+      "level": 2,
+      "wordCount": 3318,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26631346&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "論語集注卷十",
+      "level": 1,
+      "wordCount": 3445,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "子張第十九 此篇皆記弟子之言，而子夏為多，子貢次之。蓋孔門自顏子以下，穎悟莫若子貢；自曾子以下，篤實無若子夏。故特記之詳焉。凡二十五章。",
+          "translateTitle": "子张第十九 此篇皆记弟子之言，而子夏为多，子贡次之。盖孔门自颜子以下，颖悟莫若子贡；自曾子以下，笃实无若子夏。故特记之详焉。凡二十五章。",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=26631346&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "堯曰第二十 凡三章。",
+      "level": 2,
+      "wordCount": 1435,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26631346&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=23"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 11,
+      "chapterTitle": "泰伯第八 凡二十一章。",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "26631346_11_6702-6740",
+          "range": "6702-6740",
+          "rangeStart": 6702,
+          "rangeEnd": 6740,
+          "markText": "曰︰「民可使由之，不可使知之。」",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1760246804,
+          "createTimeFormatted": "2025-10-12 13:26:44",
+          "chapterUid": 11,
+          "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=11&rangeStart=6702&rangeEnd=6740",
+          "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=11&rangeStart=6702&rangeEnd=6740"
+        }
+      ]
+    },
+    {
+      "chapterUid": 7,
+      "chapterTitle": "里仁第四 凡二十六章。",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "26631346_7_5495-5533",
+          "range": "11399-11415",
+          "rangeStart": 11399,
+          "rangeEnd": 11415,
+          "markText": "子曰︰「君子欲訥於言而敏於行。」",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1738991914,
+          "createTimeFormatted": "2025-02-08 13:18:34",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=7&rangeStart=11399&rangeEnd=11415",
+          "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=7&rangeStart=11399&rangeEnd=11415"
+        }
+      ]
+    },
+    {
+      "chapterUid": 18,
+      "chapterTitle": "論語集注卷八",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "26631346_18_3805-3842",
+          "range": "7707-7722",
+          "rangeStart": 7707,
+          "rangeEnd": 7722,
+          "markText": "子曰︰「人無遠慮，必有近憂。」",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1738991882,
+          "createTimeFormatted": "2025-02-08 13:18:02",
+          "chapterUid": 18,
+          "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=18&rangeStart=7707&rangeEnd=7722",
+          "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=18&rangeStart=7707&rangeEnd=7722"
+        }
+      ]
+    },
+    {
+      "chapterUid": 15,
+      "chapterTitle": "顏淵第十二 凡二十四章。",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "26631346_15_4719-4730",
+          "range": "9419-9430",
+          "rangeStart": 9419,
+          "rangeEnd": 9430,
+          "markText": "愛之欲其生，惡之欲其死",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1736917232,
+          "createTimeFormatted": "2025-01-15 13:00:32",
+          "chapterUid": 15,
+          "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=15&rangeStart=9419&rangeEnd=9430",
+          "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=15&rangeStart=9419&rangeEnd=9430"
+        }
+      ]
+    },
+    {
+      "chapterUid": 5,
+      "chapterTitle": "為政第二 凡二十四章。",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "26631346_5_4418-4450",
+          "range": "8933-8943",
+          "rangeStart": 8933,
+          "rangeEnd": 8943,
+          "markText": "子曰︰「君子不器。」",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1733963612,
+          "createTimeFormatted": "2024-12-12 08:33:32",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=5&rangeStart=8933&rangeEnd=8943",
+          "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=5&rangeStart=8933&rangeEnd=8943"
+        }
+      ]
+    },
+    {
+      "chapterUid": 17,
+      "chapterTitle": "憲問第十四 胡氏曰︰「此篇疑原憲所記。」凡四十七章。",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "26631346_17_11699-11725",
+          "range": "24330-24356",
+          "rangeStart": 24330,
+          "rangeEnd": 24356,
+          "markText": "子曰︰「幼而不孫弟，長而無述焉，老而不死，是為賊！」",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1733962836,
+          "createTimeFormatted": "2024-12-12 08:20:36",
+          "chapterUid": 17,
+          "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=17&rangeStart=24330&rangeEnd=24356",
+          "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=17&rangeStart=24330&rangeEnd=24356"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "26631346_4_2283-2320",
+      "chapterUid": 4,
+      "range": "2283-2320",
+      "markText": "有子曰︰「其為人也孝弟，而好犯上者，鮮矣；不好犯上，而好作亂者，未之有也。",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=4&rangeStart=2283&rangeEnd=2320",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=4&rangeStart=2283&rangeEnd=2320"
+    },
+    {
+      "bookmarkId": "26631346_4_917-928",
+      "chapterUid": 4,
+      "range": "917-928",
+      "markText": "學而時習之，不亦說乎？",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=4&rangeStart=917&rangeEnd=928",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=4&rangeStart=917&rangeEnd=928"
+    },
+    {
+      "bookmarkId": "26631346_10_4389-4408",
+      "chapterUid": 10,
+      "range": "4389-4408",
+      "markText": "子曰︰「自行束脩以上，吾未嘗無誨焉。」",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=10&rangeStart=4389&rangeEnd=4408",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=10&rangeStart=4389&rangeEnd=4408"
+    },
+    {
+      "bookmarkId": "26631346_6_6215-6261",
+      "chapterUid": 6,
+      "range": "6215-6261",
+      "markText": "子曰︰「夏禮吾能言之，杞不足徵也；殷禮吾能言之，宋不足徵也。文獻不足故也，足則吾能徵之矣。」",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=6&rangeStart=6215&rangeEnd=6261",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=6&rangeStart=6215&rangeEnd=6261"
+    },
+    {
+      "bookmarkId": "26631346_4_1175-1187",
+      "chapterUid": 4,
+      "range": "1175-1187",
+      "markText": "有朋自遠方來，不亦樂乎？",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=4&rangeStart=1175&rangeEnd=1187",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=4&rangeStart=1175&rangeEnd=1187"
+    },
+    {
+      "bookmarkId": "26631346_4_7195-7202",
+      "chapterUid": 4,
+      "range": "7195-7202",
+      "markText": "無友不如己者。",
+      "totalCount": 169,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=4&rangeStart=7195&rangeEnd=7202",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=4&rangeStart=7195&rangeEnd=7202"
+    },
+    {
+      "bookmarkId": "26631346_5_8933-9004",
+      "chapterUid": 5,
+      "range": "8933-9004",
+      "markText": "子曰︰「君子不器。」器者，各適其用而不能相通。成德之士，體無不具，故用無不周，非特為一才一藝而已。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=5&rangeStart=8933&rangeEnd=9004",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=5&rangeStart=8933&rangeEnd=9004"
+    },
+    {
+      "bookmarkId": "26631346_16_4863-4899",
+      "chapterUid": 16,
+      "range": "4863-4899",
+      "markText": "子曰︰「誦詩三百，授之以政，不達；使於四方，不能專對；雖多，亦奚以為？」",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=16&rangeStart=4863&rangeEnd=4899",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=16&rangeStart=4863&rangeEnd=4899"
+    },
+    {
+      "bookmarkId": "26631346_4_13073-13092",
+      "chapterUid": 4,
+      "range": "13073-13092",
+      "markText": "子曰︰「不患人之不己知，患不知人也。」",
+      "totalCount": 143,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=4&rangeStart=13073&rangeEnd=13092",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=4&rangeStart=13073&rangeEnd=13092"
+    },
+    {
+      "bookmarkId": "26631346_6_10767-10785",
+      "chapterUid": 6,
+      "range": "10767-10785",
+      "markText": "子曰︰「賜也，爾愛其羊，我愛其禮。」",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=6&rangeStart=10767&rangeEnd=10785",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=6&rangeStart=10767&rangeEnd=10785"
+    },
+    {
+      "bookmarkId": "26631346_9_7183-7227",
+      "chapterUid": 9,
+      "range": "7183-7227",
+      "markText": "伯牛有疾，子問之，自牖執其手，曰︰「亡之，命矣夫！斯人也而有斯疾也！斯人也而有斯疾也！」",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=9&rangeStart=7183&rangeEnd=7227",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=9&rangeStart=7183&rangeEnd=7227"
+    },
+    {
+      "bookmarkId": "26631346_3_5477-5519",
+      "chapterUid": 3,
+      "range": "5477-5519",
+      "markText": "程子曰︰「今人不會讀書。如讀論語，未讀時是此等人，讀了後又只是此等人，便是不曾讀。」",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=3&rangeStart=5477&rangeEnd=5519",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=3&rangeStart=5477&rangeEnd=5519"
+    },
+    {
+      "bookmarkId": "26631346_4_1276-1289",
+      "chapterUid": 4,
+      "range": "1276-1289",
+      "markText": "人不知而不慍，不亦君子乎？",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=4&rangeStart=1276&rangeEnd=1289",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=4&rangeStart=1276&rangeEnd=1289"
+    },
+    {
+      "bookmarkId": "26631346_6_12699-12721",
+      "chapterUid": 6,
+      "range": "12699-12721",
+      "markText": "子聞之曰︰「成事不說，遂事不諫，既往不咎。」",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=6&rangeStart=12699&rangeEnd=12721",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=6&rangeStart=12699&rangeEnd=12721"
+    },
+    {
+      "bookmarkId": "26631346_7_6253-6267",
+      "chapterUid": 7,
+      "range": "6253-6267",
+      "markText": "子曰︰「放於利而行，多怨。」",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=7&rangeStart=6253&rangeEnd=6267",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=7&rangeStart=6253&rangeEnd=6267"
+    },
+    {
+      "bookmarkId": "26631346_4_6336-6355",
+      "chapterUid": 4,
+      "range": "6336-6355",
+      "markText": "賢人之賢，而易其好色之心，好善有誠也。",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=4&rangeStart=6336&rangeEnd=6355",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=4&rangeStart=6336&rangeEnd=6355"
+    },
+    {
+      "bookmarkId": "26631346_5_11749-11790",
+      "chapterUid": 5,
+      "range": "11749-11790",
+      "markText": "哀公問曰︰「何為則民服？」孔子對曰︰「舉直錯諸枉，則民服；舉枉錯諸直，則民不服。」",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=5&rangeStart=11749&rangeEnd=11790",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=5&rangeStart=11749&rangeEnd=11790"
+    },
+    {
+      "bookmarkId": "26631346_6_11705-11742",
+      "chapterUid": 6,
+      "range": "11705-11742",
+      "markText": "定公問︰「君使臣，臣事君，如之何？」孔子對曰︰「君使臣以禮，臣事君以忠。」",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=6&rangeStart=11705&rangeEnd=11742",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=6&rangeStart=11705&rangeEnd=11742"
+    },
+    {
+      "bookmarkId": "26631346_22_2401-2428",
+      "chapterUid": 22,
+      "range": "2401-2428",
+      "markText": "子夏曰︰「日知其所亡，月無忘其所能，可謂好學也已矣。」",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=22&rangeStart=2401&rangeEnd=2428",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=22&rangeStart=2401&rangeEnd=2428"
+    },
+    {
+      "bookmarkId": "26631346_11_6527-6544",
+      "chapterUid": 11,
+      "range": "6527-6544",
+      "markText": "子曰︰「民可使由之，不可使知之。」",
+      "totalCount": 117,
+      "appLink": "weread://bestbookmark?bookId=26631346&chapterUid=11&rangeStart=6527&rangeEnd=6544",
+      "webLink": "https://weread.qq.com/web/reader/6fe320f071965cb26fe0e85?chapterUid=11&rangeStart=6527&rangeEnd=6544"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

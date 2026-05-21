@@ -1,0 +1,657 @@
+{
+  "meta": {
+    "bookId": "3300016711",
+    "title": "凡人之心",
+    "author": "威廉·博伊德",
+    "translator": "王一凡",
+    "cover": "https://cdn.weread.qq.com/weread/cover/11/3300016711/t6_3300016711.jpg",
+    "intro": "我必须尽快开始真正的生活了，在我死于无聊和沮丧之前。\n以个人的生活经历串联起20世纪社会的历史，记录下生命中最重要的主题：爱与怜悯，激情与背叛，谎言与梦想，失去与惦念，乃至消隐与死亡。一本书，一面镜子，一颗烧灼的心，字里行间不断刺痛着读者：渴望伟大却又渐趋“平凡”的人生，该如何勇敢前行？\n在伦敦初出茅庐，与伍尔夫、伊夫林·沃一同探寻文学的灵感；在爵士时代的巴黎，与乔伊斯、毕加索共赴流动的盛宴；在西班牙内战中，和海明威搭档冒险；在第二次世界大战时，被伊恩·弗莱明招募为间谍，又在异国他乡突遭背叛；在纽约，作为艺术品商人，经历风起云涌的先锋艺术运动。故事的主人公洛根·蒙斯图尔特，一生和同时代的弄潮儿多有交集，几乎游历了世界各地，但和我们一样，他也是凡人，在追求幸福时也犯下各种错误。",
+    "category": "文学-经典作品",
+    "publisher": "湖南文艺出版社",
+    "publishTime": "2020-10-01 00:00:00",
+    "isbn": "9787540498016",
+    "wordCount": 0,
+    "newRating": 840,
+    "newRatingCount": 218,
+    "newRatingDetail": {
+      "good": 183,
+      "fair": 30,
+      "poor": 5,
+      "recent": 0,
+      "deepV": 83,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300016711",
+    "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88",
+    "lastSync": "2026-05-21T12:00:20Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 154,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "日记序言",
+      "level": 1,
+      "wordCount": 3995,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "学校日记",
+      "level": 1,
+      "wordCount": 33309,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1923年",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "1924年",
+          "anchor": "heading_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "牛津日记",
+      "level": 1,
+      "wordCount": 28907,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1925年",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "1926年",
+          "anchor": "heading_id_4",
+          "level": 2
+        },
+        {
+          "title": "1927年",
+          "anchor": "heading_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第一本伦敦日记",
+      "level": 1,
+      "wordCount": 69215,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1928年",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "1929年",
+          "anchor": "heading_id_4",
+          "level": 2
+        },
+        {
+          "title": "1930年",
+          "anchor": "heading_id_5",
+          "level": 2
+        },
+        {
+          "title": "1931年",
+          "anchor": "heading_id_6",
+          "level": 2
+        },
+        {
+          "title": "1932年",
+          "anchor": "heading_id_7",
+          "level": 2
+        },
+        {
+          "title": "1933年",
+          "anchor": "heading_id_8",
+          "level": 2
+        },
+        {
+          "title": "1934年",
+          "anchor": "heading_id_9",
+          "level": 2
+        },
+        {
+          "title": "1935年",
+          "anchor": "heading_id_10",
+          "level": 2
+        },
+        {
+          "title": "1936年",
+          "anchor": "heading_id_11",
+          "level": 2
+        },
+        {
+          "title": "1937年",
+          "anchor": "heading_id_12",
+          "level": 2
+        },
+        {
+          "title": "1938年",
+          "anchor": "heading_id_13",
+          "level": 2
+        },
+        {
+          "title": "1939年",
+          "anchor": "heading_id_14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二次世界大战日记",
+      "level": 1,
+      "wordCount": 43430,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1940年",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "1941年",
+          "anchor": "heading_id_4",
+          "level": 2
+        },
+        {
+          "title": "1942年",
+          "anchor": "heading_id_5",
+          "level": 2
+        },
+        {
+          "title": "1943年",
+          "anchor": "heading_id_6",
+          "level": 2
+        },
+        {
+          "title": "1944年",
+          "anchor": "heading_id_7",
+          "level": 2
+        },
+        {
+          "title": "1945年",
+          "anchor": "heading_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "战后日记",
+      "level": 1,
+      "wordCount": 14031,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1946年",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "1947年",
+          "anchor": "heading_id_4",
+          "level": 2
+        },
+        {
+          "title": "1948年",
+          "anchor": "heading_id_5",
+          "level": 2
+        },
+        {
+          "title": "1949年",
+          "anchor": "heading_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "纽约日记",
+      "level": 1,
+      "wordCount": 48662,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1951年",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "1952年",
+          "anchor": "heading_id_4",
+          "level": 2
+        },
+        {
+          "title": "1955年",
+          "anchor": "heading_id_5",
+          "level": 2
+        },
+        {
+          "title": "1956年",
+          "anchor": "heading_id_6",
+          "level": 2
+        },
+        {
+          "title": "1957年",
+          "anchor": "heading_id_7",
+          "level": 2
+        },
+        {
+          "title": "1958年",
+          "anchor": "heading_id_8",
+          "level": 2
+        },
+        {
+          "title": "1959年",
+          "anchor": "heading_id_9",
+          "level": 2
+        },
+        {
+          "title": "1960年",
+          "anchor": "heading_id_10",
+          "level": 2
+        },
+        {
+          "title": "1961年",
+          "anchor": "heading_id_11",
+          "level": 2
+        },
+        {
+          "title": "1963年",
+          "anchor": "heading_id_12",
+          "level": 2
+        },
+        {
+          "title": "1964年",
+          "anchor": "heading_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "非洲日记",
+      "level": 1,
+      "wordCount": 12993,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1969年",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "1970年",
+          "anchor": "heading_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第二本伦敦日记",
+      "level": 1,
+      "wordCount": 36962,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1975年",
+          "anchor": "heading_id_3",
+          "level": 2
+        },
+        {
+          "title": "1976年",
+          "anchor": "heading_id_4",
+          "level": 2
+        },
+        {
+          "title": "1977年",
+          "anchor": "heading_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "法国日记",
+      "level": 1,
+      "wordCount": 22753,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "后记",
+      "level": 1,
+      "wordCount": 694,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "洛根·蒙斯图尔特作品列表",
+      "level": 1,
+      "wordCount": 89,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300016711&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=14"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "学校日记",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300016711_4_38211-38237",
+          "range": "38211-38237",
+          "rangeStart": 38211,
+          "rangeEnd": 38237,
+          "markText": "我必须尽快开始真正的生活了，在我死于无聊和沮丧之前。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1687956921,
+          "createTimeFormatted": "2023-06-28 20:55:21",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=4&rangeStart=38211&rangeEnd=38237",
+          "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=4&rangeStart=38211&rangeEnd=38237"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300016711_3_2899-2929",
+      "chapterUid": 3,
+      "range": "2899-2929",
+      "markText": "我爱大海，可我只爱在海滩上看着它；我的双脚必须始终站在岸上。",
+      "totalCount": 228,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=3&rangeStart=2899&rangeEnd=2929",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=3&rangeStart=2899&rangeEnd=2929"
+    },
+    {
+      "bookmarkId": "3300016711_8_1543-1611",
+      "chapterUid": 8,
+      "range": "1543-1611",
+      "markText": "一九四五年一月底，芙蕾雅发现自己怀孕了。两天后，在从幼儿园走回家的路上，她和史黛拉被一枚V-2火箭弹炸死。在爆炸中丧生的还有另外十三人。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=8&rangeStart=1543&rangeEnd=1611",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=8&rangeStart=1543&rangeEnd=1611"
+    },
+    {
+      "bookmarkId": "3300016711_3_2200-2234",
+      "chapterUid": 3,
+      "range": "2200-2234",
+      "markText": "我们写日记，是为了记录不同自我的集合——它构成了我们每一个不同的人。",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=3&rangeStart=2200&rangeEnd=2234",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=3&rangeStart=2200&rangeEnd=2234"
+    },
+    {
+      "bookmarkId": "3300016711_4_38208-38237",
+      "chapterUid": 4,
+      "range": "38208-38237",
+      "markText": "天哪，我必须尽快开始真正的生活了，在我死于无聊和沮丧之前。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=4&rangeStart=38208&rangeEnd=38237",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=4&rangeStart=38208&rangeEnd=38237"
+    },
+    {
+      "bookmarkId": "3300016711_4_1951-1984",
+      "chapterUid": 4,
+      "range": "1951-1984",
+      "markText": "那天晚上在寝室，我在对露西的美好想象中手淫。本学期第一百二十七次。",
+      "totalCount": 135,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=4&rangeStart=1951&rangeEnd=1984",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=4&rangeStart=1951&rangeEnd=1984"
+    },
+    {
+      "bookmarkId": "3300016711_3_1934-1993",
+      "chapterUid": 3,
+      "range": "1934-1993",
+      "markText": "我们生活中真的有些东西——有些所做、所感、所想——是我们不敢承认的吗？即便是对我们自己，即便是在绝对隐秘的私人日记中？",
+      "totalCount": 130,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=3&rangeStart=1934&rangeEnd=1993",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=3&rangeStart=1934&rangeEnd=1993"
+    },
+    {
+      "bookmarkId": "3300016711_3_2634-2669",
+      "chapterUid": 3,
+      "range": "2634-2669",
+      "markText": "每个人的人生既平凡也不凡，是这两种类别各自的比例让人生显得有趣或无趣。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=3&rangeStart=2634&rangeEnd=2669",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=3&rangeStart=2634&rangeEnd=2669"
+    },
+    {
+      "bookmarkId": "3300016711_4_4858-4913",
+      "chapterUid": 4,
+      "range": "4858-4913",
+      "markText": "露西：没关系。我知道你现在在想这件事。我就是想让你知道，我永远不会嫁人的。永远。不会嫁给你，也不会嫁给任何人。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=4&rangeStart=4858&rangeEnd=4913",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=4&rangeStart=4858&rangeEnd=4913"
+    },
+    {
+      "bookmarkId": "3300016711_11_20531-20612",
+      "chapterUid": 11,
+      "range": "20531-20612",
+      "markText": "现在，我都去逛宠物食品的货架，比较各种价格和优惠商品。当我开始厌倦一种肉类后，我就换一种。通常我不会选牛肉——猪肝、鸡肉和兔肉是我的最爱。我的节俭已到了一定程度。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=11&rangeStart=20531&rangeEnd=20612",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=11&rangeStart=20531&rangeEnd=20612"
+    },
+    {
+      "bookmarkId": "3300016711_6_33330-33406",
+      "chapterUid": 6,
+      "range": "33330-33406",
+      "markText": "原来，没有明显的理由，人与人也会逐渐疏远：这是真的。我们都很忙，我们不可能把时间都用来保持联络。对友谊的考验就是要看它能否经受得住这些不可避免的间隔期。",
+      "totalCount": 110,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=6&rangeStart=33330&rangeEnd=33406",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=6&rangeStart=33330&rangeEnd=33406"
+    },
+    {
+      "bookmarkId": "3300016711_4_17232-17256",
+      "chapterUid": 4,
+      "range": "17232-17256",
+      "markText": "我们为什么要把生命中宝贵的三年浪费在这种地方呢？",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=4&rangeStart=17232&rangeEnd=17256",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=4&rangeStart=17232&rangeEnd=17256"
+    },
+    {
+      "bookmarkId": "3300016711_4_7696-7755",
+      "chapterUid": 4,
+      "range": "7696-7755",
+      "markText": "我敏锐地察觉到自己的弱点和缺陷，我感觉我需要露西的坚强来弥补——来帮助我茁壮成长，帮助我实现我知道自己能够实现的一切。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=4&rangeStart=7696&rangeEnd=7755",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=4&rangeStart=7696&rangeEnd=7755"
+    },
+    {
+      "bookmarkId": "3300016711_12_9516-9582",
+      "chapterUid": 12,
+      "range": "9516-9582",
+      "markText": "重读以前的日记让我既意外又震惊。我找不到昔日那个学生和今天的我之间的联系。我曾是个多么孤僻、多么惆怅、多么困惑的人。那不是我，是吗？",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=12&rangeStart=9516&rangeEnd=9582",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=12&rangeStart=9516&rangeEnd=9582"
+    },
+    {
+      "bookmarkId": "3300016711_3_4968-4998",
+      "chapterUid": 3,
+      "range": "4968-4998",
+      "markText": "一九二三年，我十七岁，我最早的日记，我一生的故事，由此开始。",
+      "totalCount": 84,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=3&rangeStart=4968&rangeEnd=4998",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=3&rangeStart=4968&rangeEnd=4998"
+    },
+    {
+      "bookmarkId": "3300016711_6_90436-90447",
+      "chapterUid": 6,
+      "range": "90436-90447",
+      "markText": "苔丝·斯卡比尔斯死了。",
+      "totalCount": 80,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=6&rangeStart=90436&rangeEnd=90447",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=6&rangeStart=90436&rangeEnd=90447"
+    },
+    {
+      "bookmarkId": "3300016711_4_20693-20728",
+      "chapterUid": 4,
+      "range": "20693-20728",
+      "markText": "只是对我来说，我知道自己必须坚持下去。我会获得成功：我会赢下这场挑战。",
+      "totalCount": 78,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=4&rangeStart=20693&rangeEnd=20728",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=4&rangeStart=20693&rangeEnd=20728"
+    },
+    {
+      "bookmarkId": "3300016711_4_28575-28670",
+      "chapterUid": 4,
+      "range": "28575-28670",
+      "markText": "每个人都像我一样撒这么多谎吗？我们的人生是否只是我们所有谎言的集合？（“人生”，就是谎言。）有没有可能不撒谎又能正常生活？谎言是一切人际关系的自然基础，是将我们独立的自我缝合在一起的针线吗？",
+      "totalCount": 78,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=4&rangeStart=28575&rangeEnd=28670",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=4&rangeStart=28575&rangeEnd=28670"
+    },
+    {
+      "bookmarkId": "3300016711_8_3456-3522",
+      "chapterUid": 8,
+      "range": "3456-3522",
+      "markText": "我说，你不能拿我的妻子孩子跟你的腿相提并论。我他妈的当然能，他冲着我咆哮。对我——对我来说——我失去的腿比你失去的老婆孩子重要多了。",
+      "totalCount": 78,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=8&rangeStart=3456&rangeEnd=3522",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=8&rangeStart=3456&rangeEnd=3522"
+    },
+    {
+      "bookmarkId": "3300016711_3_478-691",
+      "chapterUid": 3,
+      "range": "478-691",
+      "markText": "“我，洛根·蒙斯图尔特，住弗洛雷斯别墅，巴西大道，蒙得维的亚，乌拉圭，南美洲，地球，太阳系，宇宙。”[1]这是我写下的第一段文字——更准确地说，是我写作的最早记录和写作生涯的开端",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=3&rangeStart=478&rangeEnd=691",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=3&rangeStart=478&rangeEnd=691"
+    },
+    {
+      "bookmarkId": "3300016711_5_9562-9611",
+      "chapterUid": 5,
+      "range": "9562-9611",
+      "markText": "在有限的范围内，过好自己的生活。设定合理的目标，树立可以达成的志向。但不是我们所有人都能做到，唉。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300016711&chapterUid=5&rangeStart=9562&rangeEnd=9611",
+      "webLink": "https://weread.qq.com/web/reader/b8732f10813ab6d07g011b88?chapterUid=5&rangeStart=9562&rangeEnd=9611"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

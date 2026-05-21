@@ -1,0 +1,2307 @@
+{
+  "meta": {
+    "bookId": "3300070176",
+    "title": "数字电子技术基础：微课版：支持AR交互",
+    "author": "华中科技大学电子技术课程组 罗杰 秦臻",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/87/cpplatform_ig5ecaxtcvv9bemuueghrt/t6_cpplatform_ig5ecaxtcvv9bemuueghrt1693823687.jpg",
+    "intro": "本书根据现代数字电子技术的发展和我国高等教育人才培养的需求而编写，以“保证基础，精选内容，重视应用”为目标整合教学内容，力求反映当前数字电子技术发展的主流和趋势。内容覆盖了教育部高等学校“电工电子基础课程教学指导分委员会”于2019年制定的“数字电子技术基础”课程教学基本要求。 全书由数字逻辑基础、逻辑代数、组合逻辑电路、锁存器和触发器、时序逻辑电路、硬件描述语言Verilog HDL、逻辑门电路、半导体存储器、可编程逻辑器件、数模与模数转换器和脉冲波形的产生与变换共11章组成。采用采用先“逻辑”、后“电路”的次序安排教学内容，遵循“由浅入深，循序渐进”的学习规律。既介绍基于逻辑门和触发器的传统设计方法，又介绍基于硬件描述语言、仿真和综合工具等现代数字设计方法。",
+    "category": "科学技术-工业技术",
+    "publisher": "人民邮电出版社有限公司",
+    "publishTime": "2023-06-01 00:00:00",
+    "isbn": "9787115612335",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 1,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 1,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "评分不足"
+    },
+    "appLink": "weread://reading?bId=3300070176",
+    "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0",
+    "lastSync": "2026-05-21T11:48:07Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 148,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "内容提要",
+      "level": 1,
+      "wordCount": 377,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 2349,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第1章 数字逻辑基础",
+      "level": 1,
+      "wordCount": 567,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "1.1 数字信号的基本概念",
+      "level": 2,
+      "wordCount": 1968,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.1.1 模拟信号与数字信号",
+          "anchor": "bw2",
+          "level": 3
+        },
+        {
+          "title": "1.1.2 数字信号的描述方法",
+          "anchor": "bw3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "1.2 数制及其相互转换",
+      "level": 2,
+      "wordCount": 3783,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.2.1 几种常用的数制",
+          "anchor": "bw5",
+          "level": 3
+        },
+        {
+          "title": "1.2.2 数制转换",
+          "anchor": "bw6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "1.3 二进制数的算术运算",
+      "level": 2,
+      "wordCount": 3838,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.3.1 无符号二进制数的算术运算",
+          "anchor": "bw8",
+          "level": 3
+        },
+        {
+          "title": "1.3.2 有符号二进制数的表示",
+          "anchor": "bw9",
+          "level": 3
+        },
+        {
+          "title": "1.3.3 二进制补码的减法运算",
+          "anchor": "bw10",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "1.4 码制",
+      "level": 2,
+      "wordCount": 2888,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.4.1 二—十进制码",
+          "anchor": "bw12",
+          "level": 3
+        },
+        {
+          "title": "1.4.2 格雷码",
+          "anchor": "bw13",
+          "level": 3
+        },
+        {
+          "title": "1.4.3 奇偶校验码",
+          "anchor": "bw14",
+          "level": 3
+        },
+        {
+          "title": "1.4.4 ASCII",
+          "anchor": "bw15",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "1.5 逻辑运算及逻辑门",
+      "level": 2,
+      "wordCount": 4901,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.5.1 基本逻辑运算及对应的逻辑门",
+          "anchor": "bw17",
+          "level": 3
+        },
+        {
+          "title": "1.5.2 常用复合逻辑运算及对应的逻辑门",
+          "anchor": "bw18",
+          "level": 3
+        },
+        {
+          "title": "1.5.3 逻辑门的应用",
+          "anchor": "bw19",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "1.6 集成逻辑门简介",
+      "level": 2,
+      "wordCount": 4201,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.6.1 数字集成电路简介",
+          "anchor": "bw21",
+          "level": 3
+        },
+        {
+          "title": "1.6.2 常用的集成逻辑门",
+          "anchor": "bw22",
+          "level": 3
+        },
+        {
+          "title": "1.6.3 集成逻辑门电路的一般特性",
+          "anchor": "bw23",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "小结",
+      "level": 2,
+      "wordCount": 632,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "自我检验题",
+      "level": 2,
+      "wordCount": 825,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1799,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "实践训练",
+      "level": 2,
+      "wordCount": 260,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第2章 逻辑代数",
+      "level": 1,
+      "wordCount": 258,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "2.1 逻辑代数的基本公式和规则",
+      "level": 2,
+      "wordCount": 1323,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1.1 逻辑代数的基本公式",
+          "anchor": "bw29",
+          "level": 3
+        },
+        {
+          "title": "2.1.2 逻辑代数的基本规则",
+          "anchor": "bw30",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "2.2 逻辑函数的代数化简法",
+      "level": 2,
+      "wordCount": 1425,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.2.1 逻辑函数的最简形式",
+          "anchor": "bw32",
+          "level": 3
+        },
+        {
+          "title": "2.2.2 用代数法化简逻辑函数",
+          "anchor": "bw33",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "2.3 逻辑函数的两种标准形式",
+      "level": 2,
+      "wordCount": 2107,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.3.1 最小项与最小项表达式",
+          "anchor": "bw35",
+          "level": 3
+        },
+        {
+          "title": "∗2.3.2 最大项与最大项表达式",
+          "anchor": "bw36",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "2.4 逻辑函数的卡诺图化简法",
+      "level": 2,
+      "wordCount": 4975,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.4.1 用卡诺图表示逻辑函数",
+          "anchor": "bw38",
+          "level": 3
+        },
+        {
+          "title": "2.4.2 用卡诺图化简逻辑函数",
+          "anchor": "bw39",
+          "level": 3
+        },
+        {
+          "title": "2.4.3 含无关项的逻辑函数及其化简",
+          "anchor": "bw40",
+          "level": 3
+        },
+        {
+          "title": "2.4.4 多输出逻辑函数的化简",
+          "anchor": "bw41",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "2.5 逻辑门符号的等效变换",
+      "level": 2,
+      "wordCount": 885,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "小结",
+      "level": 2,
+      "wordCount": 394,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "自我检验题",
+      "level": 2,
+      "wordCount": 669,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1261,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "实践训练",
+      "level": 2,
+      "wordCount": 376,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第3章 组合逻辑电路",
+      "level": 1,
+      "wordCount": 217,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "3.1 概述",
+      "level": 2,
+      "wordCount": 391,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "3.2 组合逻辑电路的分析",
+      "level": 2,
+      "wordCount": 974,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "3.3 组合逻辑电路的设计",
+      "level": 2,
+      "wordCount": 1856,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "3.4 常用组合逻辑电路",
+      "level": 2,
+      "wordCount": 13868,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.4.1 编码器",
+          "anchor": "bw51",
+          "level": 3
+        },
+        {
+          "title": "3.4.2 译码器/数据分配器",
+          "anchor": "bw52",
+          "level": 3
+        },
+        {
+          "title": "3.4.3 数据选择器",
+          "anchor": "bw53",
+          "level": 3
+        },
+        {
+          "title": "3.4.4 数值比较器",
+          "anchor": "bw54",
+          "level": 3
+        },
+        {
+          "title": "3.4.5 加法器",
+          "anchor": "bw55",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "*3.5 组合逻辑电路的竞争—冒险",
+      "level": 2,
+      "wordCount": 2377,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.5.1 竞争—冒险现象及产生的原因",
+          "anchor": "bw57",
+          "level": 3
+        },
+        {
+          "title": "3.5.2 消去竞争—冒险的方法",
+          "anchor": "bw58",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "3.6 应用举例：抢答器电路",
+      "level": 2,
+      "wordCount": 593,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "小结",
+      "level": 2,
+      "wordCount": 427,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "自我检验题",
+      "level": 2,
+      "wordCount": 758,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 2055,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "实践训练",
+      "level": 2,
+      "wordCount": 604,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "第4章 锁存器和触发器",
+      "level": 1,
+      "wordCount": 252,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "4.1 双稳态电路的基本特性",
+      "level": 2,
+      "wordCount": 560,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "4.2 锁存器",
+      "level": 2,
+      "wordCount": 3586,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.2.1 基本SR锁存器",
+          "anchor": "bw66",
+          "level": 3
+        },
+        {
+          "title": "4.2.2 门控SR锁存器",
+          "anchor": "bw67",
+          "level": 3
+        },
+        {
+          "title": "4.2.3 门控D锁存器",
+          "anchor": "bw68",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "4.3 触发器的电路结构和工作原理",
+      "level": 2,
+      "wordCount": 3243,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.3.1 主从D触发器",
+          "anchor": "bw70",
+          "level": 3
+        },
+        {
+          "title": "4.3.2 有清零输入和置数输入的D触发器",
+          "anchor": "bw71",
+          "level": 3
+        },
+        {
+          "title": "4.3.3 带使能端的D触发器",
+          "anchor": "bw72",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "4.4 触发器的逻辑功能",
+      "level": 2,
+      "wordCount": 2822,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.4.1 D触发器",
+          "anchor": "bw74",
+          "level": 3
+        },
+        {
+          "title": "4.4.2 JK触发器",
+          "anchor": "bw75",
+          "level": 3
+        },
+        {
+          "title": "4.4.3 T触发器",
+          "anchor": "bw76",
+          "level": 3
+        },
+        {
+          "title": "4.4.4 T′触发器",
+          "anchor": "bw77",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "*4.5 触发器的动态特性",
+      "level": 2,
+      "wordCount": 1232,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "4.6 应用举例：会客厅照明灯控制电路",
+      "level": 2,
+      "wordCount": 987,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "小结",
+      "level": 2,
+      "wordCount": 508,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "自我检验题",
+      "level": 2,
+      "wordCount": 1019,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1732,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "实践训练",
+      "level": 2,
+      "wordCount": 313,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "第5章 时序逻辑电路",
+      "level": 1,
+      "wordCount": 374,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "5.1 概述",
+      "level": 2,
+      "wordCount": 1309,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1.1 时序逻辑电路的基本结构及特点",
+          "anchor": "bw85",
+          "level": 3
+        },
+        {
+          "title": "5.1.2 时序逻辑电路的分类",
+          "anchor": "bw86",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "5.2 时序逻辑电路分析",
+      "level": 2,
+      "wordCount": 2835,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.2.1 时序逻辑电路分析的一般步骤",
+          "anchor": "bw88",
+          "level": 3
+        },
+        {
+          "title": "5.2.2 同步时序逻辑电路分析举例",
+          "anchor": "bw89",
+          "level": 3
+        },
+        {
+          "title": "5.2.3 异步时序逻辑电路分析举例",
+          "anchor": "bw90",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "5.3 同步时序逻辑电路设计",
+      "level": 2,
+      "wordCount": 3613,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.3.1 同步时序逻辑电路设计的一般步骤",
+          "anchor": "bw92",
+          "level": 3
+        },
+        {
+          "title": "5.3.2 同步时序逻辑电路设计举例",
+          "anchor": "bw93",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "5.4 寄存器和移位寄存器",
+      "level": 2,
+      "wordCount": 2446,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.4.1 寄存器",
+          "anchor": "bw95",
+          "level": 3
+        },
+        {
+          "title": "5.4.2 移位寄存器",
+          "anchor": "bw96",
+          "level": 3
+        },
+        {
+          "title": "5.4.3 集成移位寄存器及其应用",
+          "anchor": "bw97",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "5.5 计数器",
+      "level": 2,
+      "wordCount": 8143,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.5.1 异步计数器",
+          "anchor": "bw99",
+          "level": 3
+        },
+        {
+          "title": "5.5.2 同步计数器",
+          "anchor": "bw100",
+          "level": 3
+        },
+        {
+          "title": "5.5.3 集成计数器及其应用",
+          "anchor": "bw101",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "*5.6 序列信号发生器",
+      "level": 2,
+      "wordCount": 998,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.6.1 计数型序列信号发生器",
+          "anchor": "bw103",
+          "level": 3
+        },
+        {
+          "title": "5.6.2 移存型序列信号发生器",
+          "anchor": "bw104",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "5.7 应用举例：篮球竞赛24s定时电路",
+      "level": 2,
+      "wordCount": 787,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "小结",
+      "level": 2,
+      "wordCount": 979,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "自我检验题",
+      "level": 2,
+      "wordCount": 744,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1844,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "实践训练",
+      "level": 2,
+      "wordCount": 398,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "第6章 *硬件描述语言Verilog HDL",
+      "level": 1,
+      "wordCount": 308,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "6.1 概述",
+      "level": 2,
+      "wordCount": 626,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "6.2 Verilog HDL入门",
+      "level": 2,
+      "wordCount": 3698,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.2.1 Verilog HDL的基本结构",
+          "anchor": "bw112",
+          "level": 3
+        },
+        {
+          "title": "6.2.2 简单Verilog HDL实例",
+          "anchor": "bw113",
+          "level": 3
+        },
+        {
+          "title": "6.2.3 逻辑功能的仿真与测试",
+          "anchor": "bw114",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "6.3 Verilog HDL基本语法",
+      "level": 2,
+      "wordCount": 4700,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.3.1 词法规定",
+          "anchor": "bw116",
+          "level": 3
+        },
+        {
+          "title": "6.3.2 逻辑值集合与常量的表示",
+          "anchor": "bw117",
+          "level": 3
+        },
+        {
+          "title": "6.3.3 数据类型",
+          "anchor": "bw118",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "6.4 Verilog HDL结构级建模",
+      "level": 2,
+      "wordCount": 3517,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.4.1 多输入门",
+          "anchor": "bw120",
+          "level": 3
+        },
+        {
+          "title": "6.4.2 多输出门",
+          "anchor": "bw121",
+          "level": 3
+        },
+        {
+          "title": "6.4.3 三态门",
+          "anchor": "bw122",
+          "level": 3
+        },
+        {
+          "title": "6.4.4 门级建模举例",
+          "anchor": "bw123",
+          "level": 3
+        },
+        {
+          "title": "6.4.5 分层次的电路设计方法",
+          "anchor": "bw124",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "6.5 Verilog HDL数据流建模",
+      "level": 2,
+      "wordCount": 6849,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.5.1 数据流建模语法",
+          "anchor": "bw126",
+          "level": 3
+        },
+        {
+          "title": "6.5.2 带有参数的组合逻辑电路建模",
+          "anchor": "bw127",
+          "level": 3
+        },
+        {
+          "title": "6.5.3 Verilog HDL运算符",
+          "anchor": "bw128",
+          "level": 3
+        },
+        {
+          "title": "6.5.4 运算符的优先级别",
+          "anchor": "bw129",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "6.6 Verilog HDL行为级建模",
+      "level": 2,
+      "wordCount": 8651,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.6.1 行为级建模基础",
+          "anchor": "bw131",
+          "level": 3
+        },
+        {
+          "title": "6.6.2 触发器与移位寄存器的行为级建模",
+          "anchor": "bw132",
+          "level": 3
+        },
+        {
+          "title": "6.6.3 计数器的行为级建模",
+          "anchor": "bw133",
+          "level": 3
+        },
+        {
+          "title": "6.6.4 状态图的行为级建模",
+          "anchor": "bw134",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "6.7 应用举例：数字钟电路设计",
+      "level": 2,
+      "wordCount": 1797,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "小结",
+      "level": 2,
+      "wordCount": 680,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "自我检验题",
+      "level": 2,
+      "wordCount": 1156,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 3509,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "实践训练",
+      "level": 2,
+      "wordCount": 657,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "title": "第7章 逻辑门电路",
+      "level": 1,
+      "wordCount": 654,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "title": "7.1 CMOS逻辑门电路",
+      "level": 2,
+      "wordCount": 9043,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.1.1 MOS管的开关特性",
+          "anchor": "bw141",
+          "level": 3
+        },
+        {
+          "title": "7.1.2 CMOS反相器",
+          "anchor": "bw142",
+          "level": 3
+        },
+        {
+          "title": "7.1.3 CMOS与非门和或非门",
+          "anchor": "bw143",
+          "level": 3
+        },
+        {
+          "title": "7.1.4 CMOS传输门",
+          "anchor": "bw144",
+          "level": 3
+        },
+        {
+          "title": "7.1.5 CMOS三态输出门和漏极开路输出门",
+          "anchor": "bw145",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 74,
+      "title": "7.2 TTL逻辑门电路",
+      "level": 2,
+      "wordCount": 2699,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.2.1 BJT的开关特性",
+          "anchor": "bw147",
+          "level": 3
+        },
+        {
+          "title": "7.2.2 TTL反相器",
+          "anchor": "bw148",
+          "level": 3
+        },
+        {
+          "title": "7.2.3 TTL与非门和或非门",
+          "anchor": "bw149",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=74"
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 75,
+      "title": "7.3 逻辑门电路使用中的实际问题",
+      "level": 2,
+      "wordCount": 4920,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.3.1 各种逻辑门电路之间的接口问题",
+          "anchor": "bw151",
+          "level": 3
+        },
+        {
+          "title": "7.3.2 逻辑门电路带负载时的接口电路",
+          "anchor": "bw152",
+          "level": 3
+        },
+        {
+          "title": "7.3.3 抗干扰措施",
+          "anchor": "bw153",
+          "level": 3
+        },
+        {
+          "title": "7.3.4 差分信号传输",
+          "anchor": "bw154",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=75",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=75"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 76,
+      "title": "小结",
+      "level": 2,
+      "wordCount": 468,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 77,
+      "title": "自我检验题",
+      "level": 2,
+      "wordCount": 464,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 78,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 1667,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 79,
+      "title": "实践训练",
+      "level": 2,
+      "wordCount": 229,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=79"
+    },
+    {
+      "chapterUid": 80,
+      "chapterIdx": 80,
+      "title": "第8章 半导体存储器",
+      "level": 1,
+      "wordCount": 290,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=80",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=80"
+    },
+    {
+      "chapterUid": 81,
+      "chapterIdx": 81,
+      "title": "8.1 存储器的基本概念",
+      "level": 2,
+      "wordCount": 1130,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.1.1 存储器的基本结构",
+          "anchor": "bw160",
+          "level": 3
+        },
+        {
+          "title": "8.1.2 存储器的分类及性能指标",
+          "anchor": "bw161",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=81",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=81"
+    },
+    {
+      "chapterUid": 82,
+      "chapterIdx": 82,
+      "title": "8.2 只读存储器",
+      "level": 2,
+      "wordCount": 5893,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.2.1 固定ROM",
+          "anchor": "bw163",
+          "level": 3
+        },
+        {
+          "title": "8.2.2 ROM的分类",
+          "anchor": "bw164",
+          "level": 3
+        },
+        {
+          "title": "8.2.3 ROM的应用",
+          "anchor": "bw165",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=82",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=82"
+    },
+    {
+      "chapterUid": 83,
+      "chapterIdx": 83,
+      "title": "8.3 随机存取存储器",
+      "level": 2,
+      "wordCount": 4204,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.3.1 RAM的基本结构",
+          "anchor": "bw167",
+          "level": 3
+        },
+        {
+          "title": "8.3.2 SRAM存储单元",
+          "anchor": "bw168",
+          "level": 3
+        },
+        {
+          "title": "8.3.3 DRAM存储单元",
+          "anchor": "bw169",
+          "level": 3
+        },
+        {
+          "title": "8.3.4 同步RAM",
+          "anchor": "bw170",
+          "level": 3
+        },
+        {
+          "title": "8.3.5 双口RAM",
+          "anchor": "bw171",
+          "level": 3
+        },
+        {
+          "title": "8.3.6 FIFO存储器",
+          "anchor": "bw172",
+          "level": 3
+        },
+        {
+          "title": "8.3.7 存储容量的扩展",
+          "anchor": "bw173",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=83",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=83"
+    },
+    {
+      "chapterUid": 84,
+      "chapterIdx": 84,
+      "title": "8.4 应用举例：用存储器实现字符显示",
+      "level": 2,
+      "wordCount": 401,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=84",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=84"
+    },
+    {
+      "chapterUid": 85,
+      "chapterIdx": 85,
+      "title": "小结",
+      "level": 2,
+      "wordCount": 571,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=85",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=85"
+    },
+    {
+      "chapterUid": 86,
+      "chapterIdx": 86,
+      "title": "自我检验题",
+      "level": 2,
+      "wordCount": 796,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=86",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=86"
+    },
+    {
+      "chapterUid": 87,
+      "chapterIdx": 87,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 965,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=87",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=87"
+    },
+    {
+      "chapterUid": 88,
+      "chapterIdx": 88,
+      "title": "实践训练",
+      "level": 2,
+      "wordCount": 230,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=88",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=88"
+    },
+    {
+      "chapterUid": 89,
+      "chapterIdx": 89,
+      "title": "第9章 *可编程逻辑器件",
+      "level": 1,
+      "wordCount": 229,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=89",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=89"
+    },
+    {
+      "chapterUid": 90,
+      "chapterIdx": 90,
+      "title": "9.1 概述",
+      "level": 2,
+      "wordCount": 1603,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.1.1 PLD的分类",
+          "anchor": "bw180",
+          "level": 3
+        },
+        {
+          "title": "9.1.2 PLD的符号",
+          "anchor": "bw181",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=90",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=90"
+    },
+    {
+      "chapterUid": 91,
+      "chapterIdx": 91,
+      "title": "9.2 简单可编程逻辑器件",
+      "level": 2,
+      "wordCount": 3046,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.2.1 与—或阵列实现组合逻辑函数的原理",
+          "anchor": "bw183",
+          "level": 3
+        },
+        {
+          "title": "9.2.2 SPLD实现时序逻辑电路的原理",
+          "anchor": "bw184",
+          "level": 3
+        },
+        {
+          "title": "9.2.3 GAL器件的基本结构及工作原理",
+          "anchor": "bw185",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=91",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=91"
+    },
+    {
+      "chapterUid": 92,
+      "chapterIdx": 92,
+      "title": "9.3 复杂可编程逻辑器件",
+      "level": 2,
+      "wordCount": 1168,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.3.1 传统CPLD的基本结构",
+          "anchor": "bw187",
+          "level": 3
+        },
+        {
+          "title": "9.3.2 基于查找表的CPLD结构",
+          "anchor": "bw188",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=92",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=92"
+    },
+    {
+      "chapterUid": 93,
+      "chapterIdx": 93,
+      "title": "9.4 现场可编程门阵列",
+      "level": 2,
+      "wordCount": 3976,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.4.1 查找表实现逻辑函数的基本原理",
+          "anchor": "bw190",
+          "level": 3
+        },
+        {
+          "title": "9.4.2 FPGA的一般结构",
+          "anchor": "bw191",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=93",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=93"
+    },
+    {
+      "chapterUid": 94,
+      "chapterIdx": 94,
+      "title": "9.5 可编程逻辑器件的一般开发流程",
+      "level": 2,
+      "wordCount": 1078,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=94",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=94"
+    },
+    {
+      "chapterUid": 95,
+      "chapterIdx": 95,
+      "title": "9.6 应用举例：基于FPGA篮球竞赛24s定时器电路设计",
+      "level": 2,
+      "wordCount": 1692,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=95",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=95"
+    },
+    {
+      "chapterUid": 96,
+      "chapterIdx": 96,
+      "title": "小结",
+      "level": 2,
+      "wordCount": 644,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=96",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=96"
+    },
+    {
+      "chapterUid": 97,
+      "chapterIdx": 97,
+      "title": "自我检验题",
+      "level": 2,
+      "wordCount": 854,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=97",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=97"
+    },
+    {
+      "chapterUid": 98,
+      "chapterIdx": 98,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 662,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=98",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=98"
+    },
+    {
+      "chapterUid": 99,
+      "chapterIdx": 99,
+      "title": "实践训练",
+      "level": 2,
+      "wordCount": 358,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=99",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=99"
+    },
+    {
+      "chapterUid": 100,
+      "chapterIdx": 100,
+      "title": "第10章 数模转换器和模数转换器",
+      "level": 1,
+      "wordCount": 1078,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=100",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=100"
+    },
+    {
+      "chapterUid": 101,
+      "chapterIdx": 101,
+      "title": "10.1 D/A转换器",
+      "level": 2,
+      "wordCount": 5561,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10.1.1 权电阻网络D/A转换器",
+          "anchor": "bw199",
+          "level": 3
+        },
+        {
+          "title": "10.1.2 倒T形电阻网络D/A转换器",
+          "anchor": "bw200",
+          "level": 3
+        },
+        {
+          "title": "10.1.3 权电流型D/A转换器",
+          "anchor": "bw201",
+          "level": 3
+        },
+        {
+          "title": "10.1.4 电阻串联分压式D/A转换器",
+          "anchor": "bw202",
+          "level": 3
+        },
+        {
+          "title": "10.1.5 D/A转换器的主要技术指标",
+          "anchor": "bw203",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=101",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=101"
+    },
+    {
+      "chapterUid": 102,
+      "chapterIdx": 102,
+      "title": "10.2 A/D转换器",
+      "level": 2,
+      "wordCount": 9930,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10.2.1 A/D转换的一般工作过程",
+          "anchor": "bw205",
+          "level": 3
+        },
+        {
+          "title": "10.2.2 并行比较型A/D转换器",
+          "anchor": "bw206",
+          "level": 3
+        },
+        {
+          "title": "10.2.3 逐次比较型A/D转换器",
+          "anchor": "bw207",
+          "level": 3
+        },
+        {
+          "title": "10.2.4 双积分式A/D转换器",
+          "anchor": "bw208",
+          "level": 3
+        },
+        {
+          "title": "10.2.5 A/D转换器的主要技术指标",
+          "anchor": "bw209",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=102",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=102"
+    },
+    {
+      "chapterUid": 103,
+      "chapterIdx": 103,
+      "title": "10.3 应用举例：可编程波形产生器",
+      "level": 2,
+      "wordCount": 794,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=103",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=103"
+    },
+    {
+      "chapterUid": 104,
+      "chapterIdx": 104,
+      "title": "小结",
+      "level": 2,
+      "wordCount": 571,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=104",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=104"
+    },
+    {
+      "chapterUid": 105,
+      "chapterIdx": 105,
+      "title": "自我检验题",
+      "level": 2,
+      "wordCount": 1509,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=105",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=105"
+    },
+    {
+      "chapterUid": 106,
+      "chapterIdx": 106,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 2126,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=106",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=106"
+    },
+    {
+      "chapterUid": 107,
+      "chapterIdx": 107,
+      "title": "实践训练",
+      "level": 2,
+      "wordCount": 404,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=107",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=107"
+    },
+    {
+      "chapterUid": 108,
+      "chapterIdx": 108,
+      "title": "第11章 脉冲波形的变换与产生",
+      "level": 1,
+      "wordCount": 278,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=108",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=108"
+    },
+    {
+      "chapterUid": 109,
+      "chapterIdx": 109,
+      "title": "11.1 555定时器",
+      "level": 2,
+      "wordCount": 1329,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11.1.1 555定时器的电路结构",
+          "anchor": "bw216",
+          "level": 3
+        },
+        {
+          "title": "11.1.2 555定时器的工作原理",
+          "anchor": "bw217",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=109",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=109"
+    },
+    {
+      "chapterUid": 110,
+      "chapterIdx": 110,
+      "title": "11.2 施密特触发电路",
+      "level": 2,
+      "wordCount": 2371,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11.2.1 用555定时器组成的施密特触发电路",
+          "anchor": "bw219",
+          "level": 3
+        },
+        {
+          "title": "11.2.2 集成施密特触发电路",
+          "anchor": "bw220",
+          "level": 3
+        },
+        {
+          "title": "11.2.3 施密特触发电路的应用",
+          "anchor": "bw221",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=110",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=110"
+    },
+    {
+      "chapterUid": 111,
+      "chapterIdx": 111,
+      "title": "11.3 单稳态电路",
+      "level": 2,
+      "wordCount": 3921,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11.3.1 用555定时器组成的单稳态电路",
+          "anchor": "bw223",
+          "level": 3
+        },
+        {
+          "title": "11.3.2 集成单稳态电路",
+          "anchor": "bw224",
+          "level": 3
+        },
+        {
+          "title": "11.3.3 单稳态电路的应用",
+          "anchor": "bw225",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=111",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=111"
+    },
+    {
+      "chapterUid": 112,
+      "chapterIdx": 112,
+      "title": "11.4 多谐振荡电路",
+      "level": 2,
+      "wordCount": 3903,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11.4.1 用555定时器组成的多谐振荡电路",
+          "anchor": "bw227",
+          "level": 3
+        },
+        {
+          "title": "11.4.2 用施密特触发电路组成的多谐振荡电路",
+          "anchor": "bw228",
+          "level": 3
+        },
+        {
+          "title": "11.4.3 石英晶体多谐振荡电路",
+          "anchor": "bw229",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=112",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=112"
+    },
+    {
+      "chapterUid": 113,
+      "chapterIdx": 113,
+      "title": "11.5 应用举例：双音报警电路",
+      "level": 2,
+      "wordCount": 381,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=113",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=113"
+    },
+    {
+      "chapterUid": 114,
+      "chapterIdx": 114,
+      "title": "小结",
+      "level": 2,
+      "wordCount": 567,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=114",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=114"
+    },
+    {
+      "chapterUid": 115,
+      "chapterIdx": 115,
+      "title": "自我检验题",
+      "level": 2,
+      "wordCount": 1151,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=115",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=115"
+    },
+    {
+      "chapterUid": 116,
+      "chapterIdx": 116,
+      "title": "习题",
+      "level": 2,
+      "wordCount": 2458,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=116",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=116"
+    },
+    {
+      "chapterUid": 117,
+      "chapterIdx": 117,
+      "title": "实践训练",
+      "level": 2,
+      "wordCount": 285,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=117",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=117"
+    },
+    {
+      "chapterUid": 118,
+      "chapterIdx": 118,
+      "title": "参考文献",
+      "level": 1,
+      "wordCount": 1233,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300070176&chapterUid=118",
+      "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=118"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 53,
+      "chapterTitle": "5.5 计数器",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300070176_53_19957-22372",
+          "range": "19957-22372",
+          "rangeStart": 19957,
+          "rangeEnd": 22372,
+          "markText": "1)异步清零功能。只要[插图]，无论其他输入的状态如何，计数器都被清零，即Q3Q2Q1Q0=0000，此清零过程为异步清零。如果清零过程是在CP控制下进行的，则称为同步清零。2)同步并行置数功能。当[插图],[插图]时，在CP上升沿到来时，D3～D0并行输入的数据被置入计数器，即Q3Q2Q1Q0=D3D2D1D0。由于该置数过程与CP同步，所以为同步置数。3)二进制加法计数功能。当[插图]，且CEP=CET=1时，计数器在CP的作用下，进行二进制加法计数，其进位信号为TC，且TC=CETQ3Q2Q1Q0。4)保持功能。当[插图]，且CEP和CET两个使能输入端中有一个为0时，不管CP和其他输入的状态如何，计数器都保持原来的状态不变。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1761551266,
+          "createTimeFormatted": "2025-10-27 15:47:46",
+          "chapterUid": 53,
+          "appLink": "weread://bestbookmark?bookId=3300070176&chapterUid=53&rangeStart=19957&rangeEnd=22372",
+          "webLink": "https://weread.qq.com/web/reader/dc332b20813ab81e9g016ef0?chapterUid=53&rangeStart=19957&rangeEnd=22372"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 109,
+    "chapterOffset": 381,
+    "progress": 0,
+    "updateTime": 1761618378,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

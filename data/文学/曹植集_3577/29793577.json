@@ -1,0 +1,799 @@
+{
+  "meta": {
+    "bookId": "29793577",
+    "title": "曹植集",
+    "author": "[三国]曹植 朱绪曾 丁晏 杨焄",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/91/YueWen_29793577/t6_YueWen_29793577.jpg",
+    "intro": "曹植是汉、魏之际才华横溢的诗人、辞赋家和散文家，其诗歌创作尤其受后人推崇。本书将清丁晏《曹集铨评》（为主）、朱绪曾《曹集考异》（为辅）合为一书，，名为《曹植集》。《曹集考异》以《金陵丛书》本为底本，《曹集铨评》金陵书局本为底本。",
+    "category": "文学-经典作品",
+    "publisher": "上海古籍出版社",
+    "publishTime": "2019-07-23 00:00:00",
+    "isbn": "9787532592517",
+    "wordCount": 0,
+    "newRating": 831,
+    "newRatingCount": 119,
+    "newRatingDetail": {
+      "good": 98,
+      "fair": 18,
+      "poor": 3,
+      "recent": 2,
+      "deepV": 18,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=29793577",
+    "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e",
+    "lastSync": "2026-05-21T11:52:07Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "d5c69c1e70ce670363205ca371ebfa3ae72848ba1c6934b30eeddb3179ec0302"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29793577&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 7858,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29793577&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "曹集考异序",
+      "level": 1,
+      "wordCount": 1448,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29793577&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "曹集考异卷一",
+      "level": 1,
+      "wordCount": 5361,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "赋",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "曹集考异卷二",
+      "level": 1,
+      "wordCount": 5906,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "赋",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "曹集考异卷三",
+      "level": 1,
+      "wordCount": 17952,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "赋",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "曹集考异卷四",
+      "level": 1,
+      "wordCount": 10099,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "赋①",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "曹集考异卷五",
+      "level": 1,
+      "wordCount": 32623,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "诗①",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "曹集考异卷六",
+      "level": 1,
+      "wordCount": 28525,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "乐府①",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "曹集考异卷七",
+      "level": 1,
+      "wordCount": 3812,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "颂",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "碑",
+      "level": 2,
+      "wordCount": 3174,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "碑",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "赞",
+      "level": 2,
+      "wordCount": 5796,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "赞",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "铭",
+      "level": 2,
+      "wordCount": 1847,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "铭",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "曹集考异卷八",
+      "level": 1,
+      "wordCount": 1229,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "章①",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "表①",
+      "level": 2,
+      "wordCount": 20713,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "表①",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "令①",
+      "level": 2,
+      "wordCount": 2765,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "令①",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "曹集考异卷九",
+      "level": 1,
+      "wordCount": 2149,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "文",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "七",
+      "level": 2,
+      "wordCount": 6132,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "七",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "骚",
+      "level": 2,
+      "wordCount": 1678,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "骚",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "序",
+      "level": 2,
+      "wordCount": 357,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "序",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "书①",
+      "level": 2,
+      "wordCount": 4358,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "书①",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "诔①",
+      "level": 2,
+      "wordCount": 12893,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "诔①",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "哀辞①",
+      "level": 2,
+      "wordCount": 1103,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "哀辞①",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "曹集考异卷十",
+      "level": 1,
+      "wordCount": 18066,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "论",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "说",
+      "level": 2,
+      "wordCount": 3242,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "说",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "曹集考异卷十一",
+      "level": 1,
+      "wordCount": 11640,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "叙录",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "曹集考异卷十二",
+      "level": 1,
+      "wordCount": 23032,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "年谱",
+          "anchor": "sigil_toc_id_24",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=29793577&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "跋",
+      "level": 1,
+      "wordCount": 1362,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29793577&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "曹集考异跋",
+      "level": 1,
+      "wordCount": 351,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29793577&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "附录",
+      "level": 1,
+      "wordCount": 3212,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=29793577&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=30"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "曹集考异卷三",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "29793577_6_3279-3659",
+          "range": "3279-3659",
+          "rangeStart": 3279,
+          "rangeEnd": 3659,
+          "markText": "翩若惊鸿，婉若游龙。荣曜秋菊，华茂春松￼。髣髴兮若轻云之蔽月，飘飖兮若流风之回雪。远而望之，皎若太阳升朝霞；迫而察之，灼若芙蕖出渌波￼。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1742177882,
+          "createTimeFormatted": "2025-03-17 10:18:02",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=6&rangeStart=3279&rangeEnd=3659",
+          "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=6&rangeStart=3279&rangeEnd=3659"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7YI1eUVi6",
+          "range": "3270-3659",
+          "chapterName": "",
+          "content": "朋友问曹植洛神到底长啥样？曹植说：\n\"比如秋天走在稻田里，忽然听见扑隆、扑隆几声，几只大雁飞了上天；\n再比如在山谷散步时，余光瞥见水潭里银光一闪，好像有青龙游过，扭头刚要细看，却消失了；\n或是晴天在菊花田里，金灿灿的花瓣被太阳照得晃眼；\n好像是春天爬山到半腰，累得慌，四处张望，想要找地方歇脚，却突然看见一棵青翠挺拔的松树，整个人立马精神了大半；\n还有就是晚上月光洒满一地，刚想赞叹，偏巧飘来片薄云把月亮遮住，朦朦胧胧的漏出月亮的轮廓；\n再有就是冬天看鹅毛大的雪花摇摆、打旋儿，忽忽悠悠的落到手心，瞬间消失。\"\n\"要是远远看，就像天边被彩霞托着，快要喷薄欲出的一轮朝日；要是走近细看，又像混浊的池塘里，悄咪咪的冒出来的一朵娇艳动人的荷花。\n可就算把这些大雁、青龙、金菊、松树、月亮、大雪、朝日、荷花全都加起来，也说不尽她那种说不清道不明的美。\"",
+          "abstract": "余告之曰：其形也，翩若惊鸿，婉若游龙。荣曜秋菊，华茂春松。髣髴兮若轻云之蔽月，飘飖兮若流风之回雪。远而望之，皎若太阳升朝霞；迫而察之，灼若芙蕖出渌波。",
+          "star": -1,
+          "createTime": 1742177963,
+          "createTimeFormatted": "2025-03-17 10:19:23",
+          "isFinish": false,
+          "chapterUid": 6
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "29793577_5_14484-14520",
+      "chapterUid": 5,
+      "range": "14484-14520",
+      "markText": "黄初八年正月雨，而北风飘寒，园果堕冰，枝干摧折①。",
+      "totalCount": 810,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=5&rangeStart=14484&rangeEnd=14520",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=5&rangeStart=14484&rangeEnd=14520"
+    },
+    {
+      "bookmarkId": "29793577_9_46512-46524",
+      "chapterUid": 9,
+      "range": "46512-46524",
+      "markText": "陛下临轩笑，左右咸欢康。",
+      "totalCount": 528,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=9&rangeStart=46512&rangeEnd=46524",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=9&rangeStart=46512&rangeEnd=46524"
+    },
+    {
+      "bookmarkId": "29793577_8_4049-4168",
+      "chapterUid": 8,
+      "range": "4049-4168",
+      "markText": "侍太子坐① 白日曜青春，时雨静飞尘②。寒冰辟炎景，凉风飘我身。清醴盈金觞，肴馔纵横陈。齐人进奇乐，歌者出西秦。翩翩我公子，机巧忽若神。",
+      "totalCount": 496,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=8&rangeStart=4049&rangeEnd=4168",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=8&rangeStart=4049&rangeEnd=4168"
+    },
+    {
+      "bookmarkId": "29793577_9_45132-45204",
+      "chapterUid": 9,
+      "range": "45132-45204",
+      "markText": "【丁评】读此诗，如见纯孝之性。秦之扶苏、魏之子建，皆具圣仁之资，使其嗣统，秦、魏安得亡哉！乃天夺其魄，摧抑其贤子，以促国祚。天之厌秦、魏也甚矣！",
+      "totalCount": 408,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=9&rangeStart=45132&rangeEnd=45204",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=9&rangeStart=45132&rangeEnd=45204"
+    },
+    {
+      "bookmarkId": "29793577_9_31564-31600",
+      "chapterUid": 9,
+      "range": "31564-31600",
+      "markText": "昔为同池鱼，今为商与参。往古皆欢遇⑩，我独困于今。",
+      "totalCount": 340,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=9&rangeStart=31564&rangeEnd=31600",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=9&rangeStart=31564&rangeEnd=31600"
+    },
+    {
+      "bookmarkId": "29793577_22_21567-21577",
+      "chapterUid": 22,
+      "range": "21567-21577",
+      "markText": "追慕三良，甘心同穴。",
+      "totalCount": 340,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=22&rangeStart=21567&rangeEnd=21577",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=22&rangeStart=21567&rangeEnd=21577"
+    },
+    {
+      "bookmarkId": "29793577_8_4519-4531",
+      "chapterUid": 8,
+      "range": "4519-4531",
+      "markText": "愿为西南风，长逝入君怀。",
+      "totalCount": 325,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=8&rangeStart=4519&rangeEnd=4531",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=8&rangeStart=4519&rangeEnd=4531"
+    },
+    {
+      "bookmarkId": "29793577_2_3097-3163",
+      "chapterUid": 2,
+      "range": "3097-3163",
+      "markText": "尽管他早就声明此篇乃仿效宋玉《神女赋》而作，但后世对其意旨仍然做过诸多猜测，提出过“感念甄后”、“寄心文帝”、“求贤自辅”等各种说法",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=2&rangeStart=3097&rangeEnd=3163",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=2&rangeStart=3097&rangeEnd=3163"
+    },
+    {
+      "bookmarkId": "29793577_2_580-600",
+      "chapterUid": 2,
+      "range": "580-600",
+      "markText": "而曹丕操弄权术，矫情自饰，最终得以继位。",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=2&rangeStart=580&rangeEnd=600",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=2&rangeStart=580&rangeEnd=600"
+    },
+    {
+      "bookmarkId": "29793577_8_64532-64552",
+      "chapterUid": 8,
+      "range": "64532-64552",
+      "markText": "走马百步，令成四十言。步尽不成，加斩刑。",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=8&rangeStart=64532&rangeEnd=64552",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=8&rangeStart=64532&rangeEnd=64552"
+    },
+    {
+      "bookmarkId": "29793577_27_13445-13540",
+      "chapterUid": 27,
+      "range": "13445-13540",
+      "markText": "魏陈思王曹植与文帝不协。文帝即位，尝欲害之，又以思王太后之爱子，不敢肆心。因召植游华林园，饮酒酣醉之，密遣左右缢杀。使者以弓弦三缢不死，而弦皆顿绝，植即惊觉。左右走白帝，帝自是后不敢复害植。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=27&rangeStart=13445&rangeEnd=13540",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=27&rangeStart=13445&rangeEnd=13540"
+    },
+    {
+      "bookmarkId": "29793577_9_16571-16619",
+      "chapterUid": 9,
+      "range": "16571-16619",
+      "markText": "鸳鸯自用亲③，不若比翼连。他人虽同盟，骨肉天性然④。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=9&rangeStart=16571&rangeEnd=16619",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=9&rangeStart=16571&rangeEnd=16619"
+    },
+    {
+      "bookmarkId": "29793577_8_39684-39702",
+      "chapterUid": 8,
+      "range": "39684-39702",
+      "markText": "丕戕手足，其辜贯盈，魏祚所以不永也。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=8&rangeStart=39684&rangeEnd=39702",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=8&rangeStart=39684&rangeEnd=39702"
+    },
+    {
+      "bookmarkId": "29793577_27_33996-34115",
+      "chapterUid": 27,
+      "range": "33996-34115",
+      "markText": "自是骨肉之祸，兴为晋之甲兵②、宋之鼎镬③、齐之香火④、隋之绞缢⑤、唐之弓矢⑥，尽为管、蔡之很诡，无复《常棣》之友弟，皆丕启之也。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=27&rangeStart=33996&rangeEnd=34115",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=27&rangeStart=33996&rangeEnd=34115"
+    },
+    {
+      "bookmarkId": "29793577_5_12259-12328",
+      "chapterUid": 5,
+      "range": "12259-12328",
+      "markText": "欣公子之高义兮，德芬芳其若兰。扬仁恩于白屋兮，逾周公之弃餐。听仁风而忘忧兮⑤，美酒清而肴甘⑥。",
+      "totalCount": 195,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=5&rangeStart=12259&rangeEnd=12328",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=5&rangeStart=12259&rangeEnd=12328"
+    },
+    {
+      "bookmarkId": "29793577_8_39511-39575",
+      "chapterUid": 8,
+      "range": "39511-39575",
+      "markText": "《世说新语》：“文帝以枣毒死任城，太后曰：‘汝已杀我任城，不得复杀我东阿。’”与当时情事颇合。《魏志》不言毒死，陈氏曲笔讳之也。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=8&rangeStart=39511&rangeEnd=39575",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=8&rangeStart=39511&rangeEnd=39575"
+    },
+    {
+      "bookmarkId": "29793577_2_710-731",
+      "chapterUid": 2,
+      "range": "710-731",
+      "markText": "黄初七年，曹丕去世，其子曹叡继位为魏明帝。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=2&rangeStart=710&rangeEnd=731",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=2&rangeStart=710&rangeEnd=731"
+    },
+    {
+      "bookmarkId": "29793577_2_1136-1187",
+      "chapterUid": 2,
+      "range": "1136-1187",
+      "markText": "吾虽德薄，位为蕃侯，犹庶几戮力上国，流惠下民，建永世之业，留金石之功。岂徒以翰墨为勋绩，辞赋为君子哉！",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=2&rangeStart=1136&rangeEnd=1187",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=2&rangeStart=1136&rangeEnd=1187"
+    },
+    {
+      "bookmarkId": "29793577_4_1878-1962",
+      "chapterUid": 4,
+      "range": "1878-1962",
+      "markText": "静闲居而无事，将游目以自娱。登北观而启路，涉云际之飞除。从熊罴之武士②，荷长戟而先驱。罢若云归，会如雾聚。车不及回，尘不获举。奋袂成风，挥汗如雨。",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=4&rangeStart=1878&rangeEnd=1962",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=4&rangeStart=1878&rangeEnd=1962"
+    },
+    {
+      "bookmarkId": "29793577_4_10710-10724",
+      "chapterUid": 4,
+      "range": "10710-10724",
+      "markText": "念人生之不永，若春日之微霜。",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=29793577&chapterUid=4&rangeStart=10710&rangeEnd=10724",
+      "webLink": "https://weread.qq.com/web/reader/c1432c6071c69d29c14323e?chapterUid=4&rangeStart=10710&rangeEnd=10724"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

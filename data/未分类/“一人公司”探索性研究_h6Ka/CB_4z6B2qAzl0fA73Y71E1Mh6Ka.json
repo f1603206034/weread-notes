@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "bookId": "CB_4z6B2qAzl0fA73Y71E1Mh6Ka",
+    "title": "“一人公司”探索性研究",
+    "author": "",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_4z6B2qAzl0fA73Y71E1Mh6Ka_parsecover",
+    "intro": "",
+    "category": "",
+    "publisher": "",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_4z6B2qAzl0fA73Y71E1Mh6Ka",
+    "webLink": "https://weread.qq.com/web/reader/60d426a3643425f347a36423271417a6c306641373359373145314d68364b61a79",
+    "lastSync": "2026-05-21T11:44:47Z",
+    "readingProgress": "60%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "第1章",
+      "level": 1,
+      "wordCount": 9122,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_4z6B2qAzl0fA73Y71E1Mh6Ka&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/60d426a3643425f347a36423271417a6c306641373359373145314d68364b61a79?chapterUid=1"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 1,
+      "chapterTitle": "第1章",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_4z6B2qAzl0fA73Y71E1Mh6Ka_1_7099-7332",
+          "range": "7099-7332",
+          "rangeStart": 7099,
+          "rangeEnd": 7332,
+          "markText": "尽管架构精妙，但该系统在深水区应用中仍受制于三大工程化硬约束。一是底层能力强依赖：其专业性本质为基于提示词工程的“人格调优”，实际输出质量存在对基础模型（如Claude/GPT）推理上限的绝对依赖；二是动态纠错能力不足：静态设定的工作流难以应对商业执行中的非标突发变数，系统无法完全替代人工决策，仍需人类作为指挥官进行高频监工；三是算力成本激增：多节点、长线程的Agent 交互会导致Token 消耗量呈指数级上升，且在发散性任务中若缺乏强收束机制极易导致逻辑崩溃。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1777969824,
+          "createTimeFormatted": "2026-05-05 16:30:24",
+          "chapterUid": 1,
+          "appLink": "weread://bestbookmark?bookId=CB_4z6B2qAzl0fA73Y71E1Mh6Ka&chapterUid=1&rangeStart=7099&rangeEnd=7332",
+          "webLink": "https://weread.qq.com/web/reader/60d426a3643425f347a36423271417a6c306641373359373145314d68364b61a79?chapterUid=1&rangeStart=7099&rangeEnd=7332"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": -2147473635,
+    "chapterOffset": 0,
+    "progress": 60,
+    "updateTime": 1777970095,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

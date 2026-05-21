@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "bookId": "3300110705",
+    "title": "性命圭旨",
+    "author": "尹真人高北",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/94/cpplatform_s8fulksn4m8emf4bdzlvxt/t6_cpplatform_s8fulksn4m8emf4bdzlvxt1723115198.jpg",
+    "intro": "《性命圭旨》是一部极具影响力的古代道教经典，全名《性命双修万神圭旨》。《性命圭旨》以性命双修为圭旨，主张破除三教（儒、释、道）门户之见，博采众家之长，总结并融合了历代三教的精义。本书自问世以来，便在内丹修炼界产生了深远的影响，被奉为修行经典。道学名家如陈撄宁、南怀瑾等都曾给予高度评价，认为该书理论透辟精湛，法门宽广宏富，对于性命玄机的阐释淋漓尽致。",
+    "category": "哲学宗教-宗教",
+    "publisher": "",
+    "publishTime": "2024-08-15 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 836,
+    "newRatingCount": 110,
+    "newRatingDetail": {
+      "good": 92,
+      "fair": 12,
+      "poor": 6,
+      "recent": 1,
+      "deepV": 29,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300110705",
+    "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4",
+    "lastSync": "2026-05-21T11:56:40Z",
+    "readingProgress": "5%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 90,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=2"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 3,
+      "title": "元集",
+      "level": 1,
+      "wordCount": 2994,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "大道说",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "性命说",
+      "level": 2,
+      "wordCount": 1640,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "死生说",
+      "level": 2,
+      "wordCount": 2234,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "邪正说",
+      "level": 2,
+      "wordCount": 3986,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "火龙水虎说",
+      "level": 2,
+      "wordCount": 228,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "日乌月兔说",
+      "level": 2,
+      "wordCount": 231,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "大小鼎炉说",
+      "level": 2,
+      "wordCount": 262,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "内外二药说",
+      "level": 2,
+      "wordCount": 268,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "顺逆三关说",
+      "level": 2,
+      "wordCount": 263,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "尽性了命说",
+      "level": 2,
+      "wordCount": 243,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "真土根心说",
+      "level": 2,
+      "wordCount": 259,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "魂魄说",
+      "level": 2,
+      "wordCount": 272,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "蟾光说",
+      "level": 2,
+      "wordCount": 218,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "降龙说",
+      "level": 2,
+      "wordCount": 217,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "伏虎说",
+      "level": 2,
+      "wordCount": 218,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "三家相见说",
+      "level": 2,
+      "wordCount": 216,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "和合四象说",
+      "level": 2,
+      "wordCount": 278,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "取坎填离说",
+      "level": 2,
+      "wordCount": 254,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "念观音咒说",
+      "level": 2,
+      "wordCount": 253,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "九鼎炼心说",
+      "level": 2,
+      "wordCount": 246,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "八识归元说",
+      "level": 2,
+      "wordCount": 254,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "五气朝元说",
+      "level": 2,
+      "wordCount": 257,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "待诏说",
+      "level": 2,
+      "wordCount": 256,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "飞升说",
+      "level": 2,
+      "wordCount": 269,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "亨集",
+      "level": 1,
+      "wordCount": 8426,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节口诀",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "第二节口诀",
+      "level": 2,
+      "wordCount": 6200,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第三节口诀",
+      "level": 2,
+      "wordCount": 7746,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "利集",
+      "level": 1,
+      "wordCount": 7384,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第四节口诀",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "第五节口诀",
+      "level": 2,
+      "wordCount": 5912,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "第六节口诀",
+      "level": 2,
+      "wordCount": 3211,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "贞集",
+      "level": 1,
+      "wordCount": 4157,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第七节口诀",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第八节口诀",
+      "level": 2,
+      "wordCount": 3959,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第九节口诀",
+      "level": 2,
+      "wordCount": 3382,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300110705&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=35"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 36,
+      "chapterTitle": "元集",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300110705_3_500-525",
+          "range": "581-606",
+          "rangeStart": 581,
+          "rangeEnd": 606,
+          "markText": "庖羲上圣，画八卦以示人，使万世之下，知有养生之道。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1723616822,
+          "createTimeFormatted": "2024-08-14 14:27:02",
+          "chapterUid": 36,
+          "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=36&rangeStart=581&rangeEnd=606",
+          "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36&rangeStart=581&rangeEnd=606"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300110705_36_635-665",
+      "chapterUid": 36,
+      "range": "635-665",
+      "markText": "广成子谓黄帝曰：至阴肃肃，至阳赫赫。赫赫发乎地，肃肃出乎天。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=36&rangeStart=635&rangeEnd=665",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36&rangeStart=635&rangeEnd=665"
+    },
+    {
+      "bookmarkId": "3300110705_36_1061-1080",
+      "chapterUid": 36,
+      "range": "1061-1080",
+      "markText": "道也者，果何谓也？一言以定之，曰炁也。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=36&rangeStart=1061&rangeEnd=1080",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36&rangeStart=1061&rangeEnd=1080"
+    },
+    {
+      "bookmarkId": "3300110705_36_2970-3002",
+      "chapterUid": 36,
+      "range": "2970-3002",
+      "markText": "儒曰：存心养性。道曰：修心炼性。释曰：明心见性。心性者，本体也。",
+      "totalCount": 77,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=36&rangeStart=2970&rangeEnd=3002",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36&rangeStart=2970&rangeEnd=3002"
+    },
+    {
+      "bookmarkId": "3300110705_4_1344-1384",
+      "chapterUid": 4,
+      "range": "1344-1384",
+      "markText": "命有身累，则有生死。性受心役，则有去来。有生死，不能至命也。有去来，不能尽性也。",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=4&rangeStart=1344&rangeEnd=1384",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=4&rangeStart=1344&rangeEnd=1384"
+    },
+    {
+      "bookmarkId": "3300110705_36_780-787",
+      "chapterUid": 36,
+      "range": "780-787",
+      "markText": "君子终日干干。",
+      "totalCount": 60,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=36&rangeStart=780&rangeEnd=787",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36&rangeStart=780&rangeEnd=787"
+    },
+    {
+      "bookmarkId": "3300110705_14_464-479",
+      "chapterUid": 14,
+      "range": "464-479",
+      "markText": "故圣人以魂运魄，众人以魄摄魂。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=14&rangeStart=464&rangeEnd=479",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=14&rangeStart=464&rangeEnd=479"
+    },
+    {
+      "bookmarkId": "3300110705_36_1874-1898",
+      "chapterUid": 36,
+      "range": "1874-1898",
+      "markText": "取坎中之阳，填离中之阴，离阴既实，则复纯白为干矣",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=36&rangeStart=1874&rangeEnd=1898",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36&rangeStart=1874&rangeEnd=1898"
+    },
+    {
+      "bookmarkId": "3300110705_36_1928-2027",
+      "chapterUid": 36,
+      "range": "1928-2027",
+      "markText": "斯时补足干元，复全浑敦，以全亲之所生，以全天之所赋，是为囫囫囵囵一个完人也。再加向上功夫，精进不怠，则盆丹成而圣胎圆，圣胎圆而真人现。真人出现，变化无穷，隐显莫测，而与钟、吕、王、马并驾，亦又何难？",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=36&rangeStart=1928&rangeEnd=2027",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36&rangeStart=1928&rangeEnd=2027"
+    },
+    {
+      "bookmarkId": "3300110705_4_571-590",
+      "chapterUid": 4,
+      "range": "571-590",
+      "markText": "但以其在天，则谓之命；在人，则谓之性。",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=4&rangeStart=571&rangeEnd=590",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=4&rangeStart=571&rangeEnd=590"
+    },
+    {
+      "bookmarkId": "3300110705_4_1631-1657",
+      "chapterUid": 4,
+      "range": "1631-1657",
+      "markText": "性有气质之性，有天赋之性；命有分定之命，有形气之命。",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=4&rangeStart=1631&rangeEnd=1657",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=4&rangeStart=1631&rangeEnd=1657"
+    },
+    {
+      "bookmarkId": "3300110705_27_10231-10247",
+      "chapterUid": 27,
+      "range": "10231-10247",
+      "markText": "一念动时皆是火，万缘寂处即生春。",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=27&rangeStart=10231&rangeEnd=10247",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=27&rangeStart=10231&rangeEnd=10247"
+    },
+    {
+      "bookmarkId": "3300110705_36_3497-3559",
+      "chapterUid": 36,
+      "range": "3497-3559",
+      "markText": "帝皇之得道者，若羲农、黄帝焉。仕隐而得道者，如老、庄、关令焉。侯王而得道者，若子房、淮南焉。山岩而得道者，若钟、吕、希夷焉。",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=36&rangeStart=3497&rangeEnd=3559",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36&rangeStart=3497&rangeEnd=3559"
+    },
+    {
+      "bookmarkId": "3300110705_36_1190-1275",
+      "chapterUid": 36,
+      "range": "1190-1275",
+      "markText": "夫天地之有始也，一炁动荡，虚无开合，雌雄感召，黑白交凝，有无相射，混混沌沌，冲虚至圣，包元含灵，神明变化，恍惚立报，是为太易，是为有始之始。始也，是谓道生一也，是曰元始。",
+      "totalCount": 44,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=36&rangeStart=1190&rangeEnd=1275",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36&rangeStart=1190&rangeEnd=1275"
+    },
+    {
+      "bookmarkId": "3300110705_4_2525-2621",
+      "chapterUid": 4,
+      "range": "2525-2621",
+      "markText": "岂但如今之导引者流，而以形骸为性命焉已哉。又岂但如今炼神炼气者流，而以神气为性命焉己哉。又岂但如今修性修命者流，而以性命为性命焉己哉。是皆不唯无益于性命，而且有害于性命。不得性命之真，良可叹也",
+      "totalCount": 42,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=4&rangeStart=2525&rangeEnd=2621",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=4&rangeStart=2525&rangeEnd=2621"
+    },
+    {
+      "bookmarkId": "3300110705_5_2365-2387",
+      "chapterUid": 5,
+      "range": "2365-2387",
+      "markText": "方物非欲生，不得不生，万物非欲死，不得不死。",
+      "totalCount": 42,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=5&rangeStart=2365&rangeEnd=2387",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=5&rangeStart=2365&rangeEnd=2387"
+    },
+    {
+      "bookmarkId": "3300110705_36_1383-1410",
+      "chapterUid": 36,
+      "range": "1383-1410",
+      "markText": "阴阳既判，天地位焉，人乃育焉，是谓二生三也，是曰混元。",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=36&rangeStart=1383&rangeEnd=1410",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36&rangeStart=1383&rangeEnd=1410"
+    },
+    {
+      "bookmarkId": "3300110705_36_2253-2272",
+      "chapterUid": 36,
+      "range": "2253-2272",
+      "markText": "儒家之教，教人顺性命以还造化，其道公。",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=36&rangeStart=2253&rangeEnd=2272",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36&rangeStart=2253&rangeEnd=2272"
+    },
+    {
+      "bookmarkId": "3300110705_36_3846-3882",
+      "chapterUid": 36,
+      "range": "3846-3882",
+      "markText": "先哲云：人身难得今已得，大道难明今已明。此身不向今生度，更向何生度此身？",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=36&rangeStart=3846&rangeEnd=3882",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36&rangeStart=3846&rangeEnd=3882"
+    },
+    {
+      "bookmarkId": "3300110705_36_4132-4153",
+      "chapterUid": 36,
+      "range": "4132-4153",
+      "markText": "回光集云：千年铁树开花易，一失人身再复难。",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=36&rangeStart=4132&rangeEnd=4153",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=36&rangeStart=4132&rangeEnd=4153"
+    },
+    {
+      "bookmarkId": "3300110705_4_2334-2346",
+      "chapterUid": 4,
+      "range": "2334-2346",
+      "markText": "非执于有作，则失于无为。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300110705&chapterUid=4&rangeStart=2334&rangeEnd=2346",
+      "webLink": "https://weread.qq.com/web/reader/f4932e40813ab91beg0155d4?chapterUid=4&rangeStart=2334&rangeEnd=2346"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 4,
+    "chapterOffset": 784,
+    "progress": 5,
+    "updateTime": 1723618042,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

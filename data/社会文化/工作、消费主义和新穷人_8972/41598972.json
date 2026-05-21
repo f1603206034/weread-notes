@@ -1,0 +1,597 @@
+{
+  "meta": {
+    "bookId": "41598972",
+    "title": "工作、消费主义和新穷人",
+    "author": "齐格蒙特·鲍曼",
+    "translator": "郭楠",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/972/41598972/t6_41598972.jpg",
+    "intro": "在生产者和普遍就业的社会中，贫穷是一回事。在消费者社会中，穷人是另一回事。在后者社会中，生活项目围绕消费者的选择而建立，而不是围绕工作、专业技能而建立。“贫穷”曾经与失业联系在一起，如今，它主要指向有缺陷消费者的困境。这种差异改变了贫穷的体验方式，对于拯救苦难产生重大影响。著名社会学家和思想家鲍曼的这部作品，对于消费者社会及其影响进行了反思和论述。在本书中，鲍曼书追溯现代历史上发生的这种变化，对其社会后果进行盘点，并考虑了与贫困作斗争和减轻困苦的各种方式的有效性。",
+    "category": "社会文化-社科",
+    "publisher": "上海社会科学院出版社有限公司",
+    "publishTime": "2021-09-10 00:00:00",
+    "isbn": "9787552036107",
+    "wordCount": 0,
+    "newRating": 783,
+    "newRatingCount": 7237,
+    "newRatingDetail": {
+      "good": 5664,
+      "fair": 1296,
+      "poor": 277,
+      "recent": 39,
+      "deepV": 1227,
+      "myRating": "",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=41598972",
+    "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab",
+    "lastSync": "2026-05-21T11:56:57Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "2023-09-05",
+    "noteCount": 2,
+    "reviewCount": 2,
+    "bookmarkCount": 0,
+    "contentHash": "9ec8cabc5cd86b68b66a46bda10863e1c9cd5043d03f78732864424f1821bbab"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=41598972&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=1"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 341,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=41598972&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 3,
+      "title": "导言",
+      "level": 1,
+      "wordCount": 1278,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=41598972&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 4,
+      "title": "第一部分",
+      "level": 1,
+      "wordCount": 8,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=41598972&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 5,
+      "title": "第一章 工作的意义：创造工作伦理",
+      "level": 2,
+      "wordCount": 13926,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "驱使人们去工作",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        },
+        {
+          "title": "要么工作，要么死亡",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "制造生产者",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        },
+        {
+          "title": "从“更好”到“更多”",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=41598972&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 6,
+      "title": "第二章 从工作伦理到消费美学",
+      "level": 2,
+      "wordCount": 15678,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "制造消费者",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        },
+        {
+          "title": "由美学评判的工作",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        },
+        {
+          "title": "使命是一种特权",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        },
+        {
+          "title": "消费者社会的穷人",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=41598972&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 7,
+      "title": "第二部分",
+      "level": 1,
+      "wordCount": 8,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=41598972&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 8,
+      "title": "第三章 福利国家的兴衰",
+      "level": 2,
+      "wordCount": 14586,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "服务大众，还是服务特定人群",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "福利国家的衰败",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        },
+        {
+          "title": "心满意足的大多数",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        },
+        {
+          "title": "招致毁灭的成功",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=41598972&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 9,
+      "title": "第四章 工作伦理和新穷人",
+      "level": 2,
+      "wordCount": 19808,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "定居者与游牧者",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        },
+        {
+          "title": "从“失业”到“过剩”",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "“底层阶级”的浮现",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        },
+        {
+          "title": "用于底层阶级的工作伦理",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "贫穷即犯罪",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        },
+        {
+          "title": "逐出道德义务的世界",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=41598972&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 10,
+      "title": "第五章 全球化之下的工作与过剩",
+      "level": 2,
+      "wordCount": 11712,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "殖民主义，还是剩余劳动力输出",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        },
+        {
+          "title": "解决本土问题的全球化策略之兴衰",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "工作和贫穷问题的全球化新维度",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        },
+        {
+          "title": "社会问题转为法律和秩序问题",
+          "anchor": "sigil_toc_id_22",
+          "level": 3
+        },
+        {
+          "title": "从社会国家到“安全国家”",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=41598972&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 11,
+      "title": "第三部分",
+      "level": 1,
+      "wordCount": 8,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=41598972&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 12,
+      "title": "第六章 新穷人的前景",
+      "level": 2,
+      "wordCount": 13878,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "失去位置的穷人",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "没有位置，没有道德义务",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        },
+        {
+          "title": "工作伦理，还是生活道德",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=41598972&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=23"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 23,
+      "chapterTitle": "第六章 新穷人的前景",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "41598972_23_18755-18890",
+          "range": "18755-18890",
+          "rangeStart": 18755,
+          "rangeEnd": 18890,
+          "markText": "由于缺少反思，它们显得更加神圣）。例如，效率是一件好事，无论它目的何在，也无论它是否会带来痛苦的副作用。再例如，凡是“经济增长”的东西，即统计意义上“今天比昨天多，明天比今天多”的东西，就是好的，而无视其增长过程中对人类生存环境和自然（全人类共享的生存环境）造成的损害。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1693892719,
+          "createTimeFormatted": "2023-09-05 13:45:19",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=23&rangeStart=18755&rangeEnd=18890",
+          "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=23&rangeStart=18755&rangeEnd=18890"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "41598972_23_19223-19378",
+          "range": "19223-19251",
+          "rangeStart": 19223,
+          "rangeEnd": 19251,
+          "markText": "群体自愿的返璞归真，正成为群体贫困的唯一有意义的替代。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1693892711,
+          "createTimeFormatted": "2023-09-05 13:45:11",
+          "chapterUid": 23,
+          "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=23&rangeStart=19223&rangeEnd=19251",
+          "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=23&rangeStart=19223&rangeEnd=19251"
+        }
+      ]
+    },
+    {
+      "chapterUid": 16,
+      "chapterTitle": "第一章 工作的意义：创造工作伦理",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7Talj05Yu",
+          "range": "408-452",
+          "chapterName": "",
+          "content": "\n《流动的时代》上讲后现代生活让人难以建立长久稳定的关系，但我们会更加迫切希望和他人建立长久稳定的关系。\n依我来看：\n我们若要和他人保持长久的关系，就要放弃这种想法。这样我们就可以专心的保持一段短暂关系的稳定。我们可以建立多段短暂的关系，将这一段段的衔接起来，把时间的比例尺缩小。在我们有限的时间里看，这就是一段长久稳定的关系。\n有点像积分思想，以直代曲。\n",
+          "abstract": "什么是工作伦理？简而言之，工作伦理本质上是一条戒律，它有两个外显的前提和两个内隐的假定。",
+          "star": -1,
+          "createTime": 1722657064,
+          "createTimeFormatted": "2024-08-03 11:51:04",
+          "isFinish": false,
+          "chapterUid": 16
+        }
+      ]
+    },
+    {
+      "chapterUid": 13,
+      "chapterTitle": "版权信息",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7Iq1HdHeA",
+          "range": "393-404",
+          "chapterName": "",
+          "content": "1.现代性正从固体阶段向流动阶段过渡\n2.权利与政治的亲密关系即将解体\n3.社群的以及由国家支撑的抵御个体失败和厄运的保障，正在逐渐地、持续不断的收缩以及缩减，这种现象削弱了这种保障从前所具有的种种吸引力，同时也破坏了社会连带的社会基础\n4.长期性的思考、计划及行动日渐崩溃，同时，允许这些活动长期存在的社会结构也在消失或削弱，这一现象导致政治史的断裂，也使得个体的生命历程断裂为一系列的短期的计划和一段段的小插曲\n5.环境总是如此变化多端，没有定式，但解决由此而产生的各种困境之责则落到了个体的头上——个体被期望成为“自由的抉择者”，而且应该为自己得选择付出全责。\n———《流动的时代》",
+          "abstract": "工作、消费主义和新穷人",
+          "star": -1,
+          "createTime": 1684810142,
+          "createTimeFormatted": "2023-05-23 10:49:02",
+          "isFinish": false,
+          "chapterUid": 13
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "41598972_16_477-524",
+      "chapterUid": 16,
+      "range": "477-524",
+      "markText": "第一个前提是：为了维持生活并获取快乐，每个人都必须做一些他人认同的有价值的事，并以之获取回报。",
+      "totalCount": 5899,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=477&rangeEnd=524",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=477&rangeEnd=524"
+    },
+    {
+      "bookmarkId": "41598972_16_18614-18700",
+      "chapterUid": 16,
+      "range": "18614-18700",
+      "markText": "工作不需要被热爱，也不需要被认为是道德的象征，人们可以公开反感工作，这不会招致纪律的崩坏，因为他们相信当下的忍耐（哪怕是最恶劣的境况）是为了并不遥远的自由而暂时付出的代价。",
+      "totalCount": 5525,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=18614&rangeEnd=18700",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=18614&rangeEnd=18700"
+    },
+    {
+      "bookmarkId": "41598972_17_3368-3429",
+      "chapterUid": 17,
+      "range": "3368-3429",
+      "markText": "想要提高消费者的消费能力就不能让他们休息。他们需要不断地接受新的诱惑，持续处于永不枯竭的兴奋之中，持续处于怀疑和不满之中。",
+      "totalCount": 5360,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=17&rangeStart=3368&rangeEnd=3429",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=17&rangeStart=3368&rangeEnd=3429"
+    },
+    {
+      "bookmarkId": "41598972_16_2875-2944",
+      "chapterUid": 16,
+      "range": "2875-2944",
+      "markText": "工作伦理的幌子之下演化出一种纪律伦理：不用在意尊严或荣誉、感受或目的——全力工作就好，日复一日，争分夺秒，即使你完全看不到努力的意义所在。",
+      "totalCount": 4914,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=2875&rangeEnd=2944",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=2875&rangeEnd=2944"
+    },
+    {
+      "bookmarkId": "41598972_16_2969-3040",
+      "chapterUid": 16,
+      "range": "2969-3040",
+      "markText": "在过去，人们通过自己设定目标、自己控制进程，获得工作的意义和动力，但现在，他们只能被动地完成由他人设置和控制的任务，工作对他们而言失去了意义。",
+      "totalCount": 4515,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=2969&rangeEnd=3040",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=2969&rangeEnd=3040"
+    },
+    {
+      "bookmarkId": "41598972_16_1222-1279",
+      "chapterUid": 16,
+      "range": "1222-1279",
+      "markText": "每当有人谈论伦理，你都应当意识到一定有某些人对另一些人的行为方式不满，并希望他们有所改进。谈论工作伦理时更是如此。",
+      "totalCount": 4464,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=1222&rangeEnd=1279",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=1222&rangeEnd=1279"
+    },
+    {
+      "bookmarkId": "41598972_16_10834-10883",
+      "chapterUid": 16,
+      "range": "10834-10883",
+      "markText": "济贫院壁垒之内的流言越是恐怖，工厂工人的奴役看起来就越像自由，他们遭遇的悲惨也越像一种幸运和福祉。",
+      "totalCount": 4176,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=10834&rangeEnd=10883",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=10834&rangeEnd=10883"
+    },
+    {
+      "bookmarkId": "41598972_16_2126-2220",
+      "chapterUid": 16,
+      "range": "2126-2220",
+      "markText": "这场道德改革运动意图在工厂内部，在工厂所有者掌控的纪律之下，重塑全心投入、具有奉献精神的工作态度，以及艺术级的工作表现。然而，这些追求，是过去的工匠在自己掌控工作时，自然而然地表现出来的。",
+      "totalCount": 3757,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=2126&rangeEnd=2220",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=2126&rangeEnd=2220"
+    },
+    {
+      "bookmarkId": "41598972_16_716-878",
+      "chapterUid": 16,
+      "range": "716-878",
+      "markText": "戒律的内容如下：即使你看不到任何得获，你也应该继续工作。工作即正义，不工作是一种罪恶。",
+      "totalCount": 3480,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=716&rangeEnd=878",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=716&rangeEnd=878"
+    },
+    {
+      "bookmarkId": "41598972_17_16852-16932",
+      "chapterUid": 17,
+      "range": "16852-16932",
+      "markText": "消费世界不允许“无聊”存在，消费文化致力于消除它。按照消费文化的定义，幸福的生活是绝缘于无聊的生活，是不断“有什么事发生”的生活，新鲜又刺激，因为新鲜所以刺激。",
+      "totalCount": 2856,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=17&rangeStart=16852&rangeEnd=16932",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=17&rangeStart=16852&rangeEnd=16932"
+    },
+    {
+      "bookmarkId": "41598972_16_19868-19909",
+      "chapterUid": 16,
+      "range": "19868-19909",
+      "markText": "现在，衡量人们声望和社会地位的是工资的差别，而不是勤于工作的道德或惰于工作的罪恶。",
+      "totalCount": 2754,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=19868&rangeEnd=19909",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=19868&rangeEnd=19909"
+    },
+    {
+      "bookmarkId": "41598972_16_11800-11881",
+      "chapterUid": 16,
+      "range": "11800-11881",
+      "markText": "必须强制执行统一的、规范性的、可预测的行为模式，以约束五花八门、本质上不守规矩的囚犯。简而言之，所有这些人都必须被剪除各种各样的习惯和爱好，以适应相同的行为标准。",
+      "totalCount": 2745,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=11800&rangeEnd=11881",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=11800&rangeEnd=11881"
+    },
+    {
+      "bookmarkId": "41598972_17_8895-8934",
+      "chapterUid": 17,
+      "range": "8895-8934",
+      "markText": "诱惑，炫耀未曾经历的奇景，承诺前所未有的体验，贬低尝试过的一切，才是最有效的。",
+      "totalCount": 2702,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=17&rangeStart=8895&rangeEnd=8934",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=17&rangeStart=8895&rangeEnd=8934"
+    },
+    {
+      "bookmarkId": "41598972_17_2772-2842",
+      "chapterUid": 17,
+      "range": "2772-2842",
+      "markText": "如果消费者无法对任何目标保持长期关注和欲望，如果他们没有耐心、焦躁、冲动，尤其是容易激动，又同样容易失去兴趣，“即时满足”就达到了最佳效果。",
+      "totalCount": 2574,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=17&rangeStart=2772&rangeEnd=2842",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=17&rangeStart=2772&rangeEnd=2842"
+    },
+    {
+      "bookmarkId": "41598972_23_19223-19251",
+      "chapterUid": 23,
+      "range": "19223-19251",
+      "markText": "群体自愿的返璞归真，正成为群体贫困的唯一有意义的替代。”",
+      "totalCount": 2484,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=23&rangeStart=19223&rangeEnd=19251",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=23&rangeStart=19223&rangeEnd=19251"
+    },
+    {
+      "bookmarkId": "41598972_16_1395-1452",
+      "chapterUid": 16,
+      "range": "1395-1452",
+      "markText": "大多数人都不愿被工厂雇佣，也拒绝服从由工头、时钟和机器设定的生活节奏。这种恶习被视为建立一个美丽新世界的最大障碍。",
+      "totalCount": 2475,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=1395&rangeEnd=1452",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=1395&rangeEnd=1452"
+    },
+    {
+      "bookmarkId": "41598972_16_3089-3131",
+      "chapterUid": 16,
+      "range": "3089-3131",
+      "markText": "解决方案是机械地训练工人，让他们习惯于不假思索的盲从，并且剥夺他们完善工作的自豪感。",
+      "totalCount": 2368,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=3089&rangeEnd=3131",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=3089&rangeEnd=3131"
+    },
+    {
+      "bookmarkId": "41598972_16_3263-3278",
+      "chapterUid": 16,
+      "range": "3263-3278",
+      "markText": "工作伦理本质上是对自由的摒弃。",
+      "totalCount": 2316,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=3263&rangeEnd=3278",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=3263&rangeEnd=3278"
+    },
+    {
+      "bookmarkId": "41598972_17_5175-5243",
+      "chapterUid": 17,
+      "range": "5175-5243",
+      "markText": "今天流行的口号是“灵活”，这个越来越时髦的概念代表的是一场几乎没有任何规则的雇佣和解雇游戏，而且在游戏进行时，单方面就可以随时更改规则。",
+      "totalCount": 2304,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=17&rangeStart=5175&rangeEnd=5243",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=17&rangeStart=5175&rangeEnd=5243"
+    },
+    {
+      "bookmarkId": "41598972_16_10038-10123",
+      "chapterUid": 16,
+      "range": "10038-10123",
+      "markText": "人们希望，不工作的穷人越是生活堕落，越是深陷赤贫，那些有工作、出卖劳动力换取最微薄工资的穷人的生活就越诱人，至少不至于无法忍受；这样，工作伦理得到了支撑，胜利也触手可及。",
+      "totalCount": 2249,
+      "appLink": "weread://bestbookmark?bookId=41598972&chapterUid=16&rangeStart=10038&rangeEnd=10123",
+      "webLink": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab?chapterUid=16&rangeStart=10038&rangeEnd=10123"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 16,
+    "chapterOffset": 355,
+    "progress": 0,
+    "updateTime": 1774176895,
+    "recordReadingTime": 0,
+    "finishTime": 1693892675
+  }
+}

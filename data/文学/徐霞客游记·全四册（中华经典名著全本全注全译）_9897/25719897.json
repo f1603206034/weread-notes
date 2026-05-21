@@ -1,0 +1,973 @@
+{
+  "meta": {
+    "bookId": "25719897",
+    "title": "徐霞客游记·全四册（中华经典名著全本全注全译）",
+    "author": "朱惠荣 李兴和译注",
+    "translator": "李兴和",
+    "cover": "https://cdn.weread.qq.com/weread/cover/62/YueWen_25719897/t6_YueWen_25719897.jpg",
+    "intro": "《徐霞客游记》是明代伟大的旅行家、地理学家、史学家、文学家徐霞客所著的一部日记体的中国地理名著。徐霞客在34年旅行中记录下了六十余万字的游记资料，死后由他人整理成《徐霞客游记》。这部书既是地理百科全书，也是一部实录性质的历史著作，还是一部文学名著。具有多方面的科学价值。",
+    "category": "文学-古典文学",
+    "publisher": "中华书局有限公司",
+    "publishTime": "2021-06-01 00:00:00",
+    "isbn": "9787101107647",
+    "wordCount": 0,
+    "newRating": 880,
+    "newRatingCount": 65,
+    "newRatingDetail": {
+      "good": 58,
+      "fair": 3,
+      "poor": 4,
+      "recent": 0,
+      "deepV": 15,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=25719897",
+    "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89",
+    "lastSync": "2026-05-21T11:51:20Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 157,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "徐霞客游记 一",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "前言",
+      "level": 2,
+      "wordCount": 11780,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "文前",
+      "level": 2,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "游天台山日记",
+      "level": 2,
+      "wordCount": 6242,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "游雁宕山日记",
+      "level": 2,
+      "wordCount": 5651,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "游白岳山日记",
+      "level": 2,
+      "wordCount": 4513,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "游黄山日记",
+      "level": 2,
+      "wordCount": 7819,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "游武彝山日记",
+      "level": 2,
+      "wordCount": 8828,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "游庐山日记",
+      "level": 2,
+      "wordCount": 8229,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "游黄山日记后",
+      "level": 2,
+      "wordCount": 4761,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "游九鲤湖日记",
+      "level": 2,
+      "wordCount": 6480,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "游嵩山日记",
+      "level": 2,
+      "wordCount": 10053,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "游太华山日记",
+      "level": 2,
+      "wordCount": 4716,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "游太和山日记",
+      "level": 2,
+      "wordCount": 6498,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "闽游日记前",
+      "level": 2,
+      "wordCount": 8203,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "闽游日记后",
+      "level": 2,
+      "wordCount": 11377,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "游天台山日记后",
+      "level": 2,
+      "wordCount": 8129,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "游雁宕山日记后",
+      "level": 2,
+      "wordCount": 12515,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "游五台山日记",
+      "level": 2,
+      "wordCount": 5526,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "游恒山日记",
+      "level": 2,
+      "wordCount": 5398,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "浙游日记",
+      "level": 2,
+      "wordCount": 26170,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "江右游日记",
+      "level": 2,
+      "wordCount": 85892,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "楚游日记",
+      "level": 2,
+      "wordCount": 141484,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "徐霞客游记 二",
+      "level": 1,
+      "wordCount": 4,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "文前",
+      "level": 2,
+      "wordCount": 3,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "粤西游日记一",
+      "level": 2,
+      "wordCount": 132781,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "粤西游日记二",
+      "level": 2,
+      "wordCount": 125778,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "粤西游日记三",
+      "level": 2,
+      "wordCount": 115868,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "粤西游日记四",
+      "level": 2,
+      "wordCount": 126797,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "徐霞客游记 三",
+      "level": 1,
+      "wordCount": 4,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "文前",
+      "level": 2,
+      "wordCount": 3,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "黔游日记一",
+      "level": 2,
+      "wordCount": 49530,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "黔游日记二",
+      "level": 2,
+      "wordCount": 33160,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "滇游日记一",
+      "level": 2,
+      "wordCount": 14505,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "游太华山记",
+          "anchor": "b001",
+          "level": 3
+        },
+        {
+          "title": "滇中花木记",
+          "anchor": "b002",
+          "level": 3
+        },
+        {
+          "title": "游颜洞记",
+          "anchor": "b003",
+          "level": 3
+        },
+        {
+          "title": "随笔二则",
+          "anchor": "b004",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25719897&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "滇游日记二",
+      "level": 2,
+      "wordCount": 39682,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "滇游日记三",
+      "level": 2,
+      "wordCount": 66154,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "盘江考",
+          "anchor": "b005",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25719897&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "滇游日记四",
+      "level": 2,
+      "wordCount": 68001,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "滇游日记五",
+      "level": 2,
+      "wordCount": 43913,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "滇游日记六",
+      "level": 2,
+      "wordCount": 55935,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "徐霞客游记 四",
+      "level": 1,
+      "wordCount": 4,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "滇游日记七",
+      "level": 2,
+      "wordCount": 51199,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "滇游日记八",
+      "level": 2,
+      "wordCount": 67491,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "滇游日记九",
+      "level": 2,
+      "wordCount": 61508,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "滇游日记十",
+      "level": 2,
+      "wordCount": 48031,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "滇游日记十一",
+      "level": 2,
+      "wordCount": 44253,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "永昌志略",
+          "anchor": "b001",
+          "level": 3
+        },
+        {
+          "title": "近腾诸彝说略",
+          "anchor": "b002",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25719897&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "滇游日记十二",
+      "level": 2,
+      "wordCount": 58561,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=25719897&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "滇游日记十三",
+      "level": 2,
+      "wordCount": 28802,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "鸡山志目",
+          "anchor": "b003",
+          "level": 3
+        },
+        {
+          "title": "鸡山志略一",
+          "anchor": "b004",
+          "level": 3
+        },
+        {
+          "title": "鸡山志略二",
+          "anchor": "b005",
+          "level": 3
+        },
+        {
+          "title": "丽江纪略",
+          "anchor": "b006",
+          "level": 3
+        },
+        {
+          "title": "法王缘起",
+          "anchor": "b007",
+          "level": 3
+        },
+        {
+          "title": "溯江纪源（一作《江源考》）",
+          "anchor": "b008",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=25719897&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=49"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "游天台山日记",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "25719897_6_3639-3680",
+          "range": "3639-3680",
+          "rangeStart": 3639,
+          "rangeEnd": 3680,
+          "markText": "卧念晨上峰顶，以朗霁为缘，盖连日晚霁，并无晓晴。及五更梦中，闻明星满天，喜不成寐。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745455201,
+          "createTimeFormatted": "2025-04-24 08:40:01",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=6&rangeStart=3639&rangeEnd=3680",
+          "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=6&rangeStart=3639&rangeEnd=3680"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "25719897_6_1861-1876",
+          "range": "1861-1876",
+          "rangeStart": 1861,
+          "rangeEnd": 1876,
+          "markText": "云散日朗，人意山光，俱有喜态。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745455196,
+          "createTimeFormatted": "2025-04-24 08:39:56",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=6&rangeStart=1861&rangeEnd=1876",
+          "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=6&rangeStart=1861&rangeEnd=1876"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "25719897_6_1861-1876",
+      "chapterUid": 6,
+      "range": "1861-1876",
+      "markText": "云散日朗，人意山光，俱有喜态。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=6&rangeStart=1861&rangeEnd=1876",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=6&rangeStart=1861&rangeEnd=1876"
+    },
+    {
+      "bookmarkId": "25719897_6_3639-3680",
+      "chapterUid": 6,
+      "range": "3639-3680",
+      "markText": "卧念晨上峰顶，以朗霁为缘，盖连日晚霁，并无晓晴。及五更梦中，闻明星满天，喜不成寐。",
+      "totalCount": 220,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=6&rangeStart=3639&rangeEnd=3680",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=6&rangeStart=3639&rangeEnd=3680"
+    },
+    {
+      "bookmarkId": "25719897_4_1494-1584",
+      "chapterUid": 4,
+      "range": "1494-1584",
+      "markText": "他不为政务出行，不为经商奔走，不为求法游方，毕生从事旅游和地理考察，是我国古代难得的专业旅行家。作为自费旅游，徐霞客旅游的条件特别艰苦，安全问题、经费筹措、生活安排等各方面困难重重",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=4&rangeStart=1494&rangeEnd=1584",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=4&rangeStart=1494&rangeEnd=1584"
+    },
+    {
+      "bookmarkId": "25719897_4_1121-1220",
+      "chapterUid": 4,
+      "range": "1121-1220",
+      "markText": "他家有田产，但不追求钱财增值、积累，而是用来进行旅游和地理考察，因此招致乡里的非难，说他是“游手好闲”，“浪荡子”、“败家子”。其实他是把家中的田产用在了最有意义的地方，成就了他旷日持久的旅游考察。",
+      "totalCount": 140,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=4&rangeStart=1121&rangeEnd=1220",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=4&rangeStart=1121&rangeEnd=1220"
+    },
+    {
+      "bookmarkId": "25719897_8_7790-7823",
+      "chapterUid": 8,
+      "range": "7790-7823",
+      "markText": "相与追述所历，始知大龙井正在大溪口，足趾已及，而为僧所阻，亦数也！",
+      "totalCount": 136,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=8&rangeStart=7790&rangeEnd=7823",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=8&rangeStart=7790&rangeEnd=7823"
+    },
+    {
+      "bookmarkId": "25719897_7_7294-7446",
+      "chapterUid": 7,
+      "range": "7294-7446",
+      "markText": "四望白云，迷漫一色，平铺峰下。诸峰朵朵，仅露一顶，日光映之，如冰壶瑶界，不辨海陆。然海中玉环一抹，若可俯而拾也。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=7&rangeStart=7294&rangeEnd=7446",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=7&rangeStart=7294&rangeEnd=7446"
+    },
+    {
+      "bookmarkId": "25719897_6_5173-5299",
+      "chapterUid": 6,
+      "range": "5173-5299",
+      "markText": "余赤足跳草莽中，揉木缘崖，莲舟不能从。暝色四下，始返。停足仙筏桥，观石梁卧虹，飞瀑喷雪，几不欲卧。",
+      "totalCount": 121,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=6&rangeStart=5173&rangeEnd=5299",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=6&rangeStart=5173&rangeEnd=5299"
+    },
+    {
+      "bookmarkId": "25719897_4_2705-2789",
+      "chapterUid": 4,
+      "range": "2705-2789",
+      "markText": "有人称徐霞客为“愚公”，他选择了一条艰辛、漫长的与众不同的奋斗之旅，摒弃浮躁和功利，一步步地走遍全国，一字字地写了一生，实现了自己的人生价值，为优秀的中华文化增光添彩。",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=4&rangeStart=2705&rangeEnd=2789",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=4&rangeStart=2705&rangeEnd=2789"
+    },
+    {
+      "bookmarkId": "25719897_4_1842-1877",
+      "chapterUid": 4,
+      "range": "1842-1877",
+      "markText": "国家旅游局公布以《徐霞客游记》开篇日即每年的5月19日为“中国旅游日”",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=4&rangeStart=1842&rangeEnd=1877",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=4&rangeStart=1842&rangeEnd=1877"
+    },
+    {
+      "bookmarkId": "25719897_4_2366-2385",
+      "chapterUid": 4,
+      "range": "2366-2385",
+      "markText": "他坚持日必有记，与一般人只游不写不同。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=4&rangeStart=2366&rangeEnd=2385",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=4&rangeStart=2366&rangeEnd=2385"
+    },
+    {
+      "bookmarkId": "25719897_6_4356-4389",
+      "chapterUid": 6,
+      "range": "4356-4389",
+      "markText": "荒草靡靡，山高风冽，草上结霜高寸许，而四山回映，琪花玉树，玲珑弥望",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=6&rangeStart=4356&rangeEnd=4389",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=6&rangeStart=4356&rangeEnd=4389"
+    },
+    {
+      "bookmarkId": "25719897_4_1765-1779",
+      "chapterUid": 4,
+      "range": "1765-1779",
+      "markText": "吾荷一锸来，何处不可埋吾骨耶",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=4&rangeStart=1765&rangeEnd=1779",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=4&rangeStart=1765&rangeEnd=1779"
+    },
+    {
+      "bookmarkId": "25719897_8_1766-1832",
+      "chapterUid": 8,
+      "range": "1766-1832",
+      "markText": "里许，入榔梅庵。路经天门、珠帘之胜，俱不暇辨，但闻树间冰响铮铮。入庵后，大霰作，浔阳与奴子俱后。余独卧山房，夜听水声屋溜，竟不能寐。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=8&rangeStart=1766&rangeEnd=1832",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=8&rangeStart=1766&rangeEnd=1832"
+    },
+    {
+      "bookmarkId": "25719897_4_1268-1300",
+      "chapterUid": 4,
+      "range": "1268-1300",
+      "markText": "明代的学风不好，人们多喜欢寻章摘句，从书本到书本，做空疏的学问。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=4&rangeStart=1268&rangeEnd=1300",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=4&rangeStart=1268&rangeEnd=1300"
+    },
+    {
+      "bookmarkId": "25719897_6_932-997",
+      "chapterUid": 6,
+      "range": "932-997",
+      "markText": "天台山在浙江天台县，为我国佛教天台宗的发源地。徐霞客于三月的最末一天自宁海县城起行，四月初一日进入天台县境，四月初九日离开天台山。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=6&rangeStart=932&rangeEnd=997",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=6&rangeStart=932&rangeEnd=997"
+    },
+    {
+      "bookmarkId": "25719897_6_8226-8251",
+      "chapterUid": 6,
+      "range": "8226-8251",
+      "markText": "饭后云阴溃散，新月在天，人在回崖顶上，对之清光溢壁",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=6&rangeStart=8226&rangeEnd=8251",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=6&rangeStart=8226&rangeEnd=8251"
+    },
+    {
+      "bookmarkId": "25719897_4_2502-2547",
+      "chapterUid": 4,
+      "range": "2502-2547",
+      "markText": "逐日作记使内容鲜活、真实，大大提高了研究成果的质量，是若干年后算总账式的回忆录无法比拟的。",
+      "totalCount": 85,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=4&rangeStart=2502&rangeEnd=2547",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=4&rangeStart=2502&rangeEnd=2547"
+    },
+    {
+      "bookmarkId": "25719897_4_1990-2005",
+      "chapterUid": 4,
+      "range": "1990-2005",
+      "markText": "云散日朗，人意山光，俱有喜态。",
+      "totalCount": 78,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=4&rangeStart=1990&rangeEnd=2005",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=4&rangeStart=1990&rangeEnd=2005"
+    },
+    {
+      "bookmarkId": "25719897_6_9241-9248",
+      "chapterUid": 6,
+      "range": "9241-9248",
+      "markText": "信桃源误人也！",
+      "totalCount": 75,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=6&rangeStart=9241&rangeEnd=9248",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=6&rangeStart=9241&rangeEnd=9248"
+    },
+    {
+      "bookmarkId": "25719897_4_766-864",
+      "chapterUid": 4,
+      "range": "766-864",
+      "markText": "他不走科举入仕之途，与当时读书人的追求不同。徐霞客从小喜欢学习，主动学习，“目空万卷”。但对八股文禁锢思想、限制学习内容的做法不感兴趣，只到县上参加过童子试，后来就不再参加科举考试，连秀才都不是。",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=25719897&chapterUid=4&rangeStart=766&rangeEnd=864",
+      "webLink": "https://weread.qq.com/web/reader/7fd32390718874597fd6a89?chapterUid=4&rangeStart=766&rangeEnd=864"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 6,
+    "chapterOffset": 4675,
+    "progress": 0,
+    "updateTime": 1745455436,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

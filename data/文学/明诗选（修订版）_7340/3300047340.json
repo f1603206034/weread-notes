@@ -1,0 +1,5850 @@
+{
+  "meta": {
+    "bookId": "3300047340",
+    "title": "明诗选（修订版）",
+    "author": "杜贵晨",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/14/cpplatform_as9fptx2t46vtetou1aaxr/t6_cpplatform_as9fptx2t46vtetou1aaxr1675244301.jpg",
+    "intro": "明代是中国古典诗歌发展的重要时期，在近三百年的历史中，明代诗歌经历多次变化，其中学习唐诗的理论主张特别突出，“前后七子”甚至提出“诗必盛唐”的口号，但是由于过于僵化，他们的创作成绩反而落入唐人的窠臼，成就并不突出。至明代后期诗歌创作呈现出多元化的景观，这是对复古思想的一种反思。以上是站在文学大历史的角度做的总体评价，但是就具体作品而言，明代诗歌仍有众多佳作。《明诗选》甄选明代199人，562题590首，该书不仅较为完整展现了明诗的风貌和明诗的艺术成就，还把经典精选出来加以注释，对扩大读者的阅读视野极有益处。",
+    "category": "文学-古代诗词",
+    "publisher": "人民文学出版社",
+    "publishTime": "2023-01-10 00:00:00",
+    "isbn": "9787020176106",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 5,
+    "newRatingDetail": {
+      "good": 5,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 2,
+      "myRating": "",
+      "title": "评分不足"
+    },
+    "appLink": "weread://reading?bId=3300047340",
+    "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7",
+    "lastSync": "2026-05-21T11:54:31Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 135,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 14870,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "王冕四首",
+      "level": 1,
+      "wordCount": 644,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "金陵怀古",
+          "anchor": "b001",
+          "level": 2
+        },
+        {
+          "title": "纪梦",
+          "anchor": "b002",
+          "level": 2
+        },
+        {
+          "title": "水竹居",
+          "anchor": "b003",
+          "level": 2
+        },
+        {
+          "title": "墨梅",
+          "anchor": "b004",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "郭奎二首",
+      "level": 1,
+      "wordCount": 419,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "富池江口夜泊（二首选一）",
+          "anchor": "b005",
+          "level": 2
+        },
+        {
+          "title": "新丰市",
+          "anchor": "b006",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "张以宁三首",
+      "level": 1,
+      "wordCount": 508,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "戏马台",
+          "anchor": "b007",
+          "level": 2
+        },
+        {
+          "title": "送重峰阮子敬南还",
+          "anchor": "b008",
+          "level": 2
+        },
+        {
+          "title": "丝瓜",
+          "anchor": "b009",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "危素一首",
+      "level": 1,
+      "wordCount": 380,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "怀母",
+          "anchor": "b010",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "魏观二首",
+      "level": 1,
+      "wordCount": 362,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "都昌怀旧隐（六首选一）",
+          "anchor": "b011",
+          "level": 2
+        },
+        {
+          "title": "滕王阁",
+          "anchor": "b012",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "詹同三首",
+      "level": 1,
+      "wordCount": 551,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "题范原初叩舷图",
+          "anchor": "b013",
+          "level": 2
+        },
+        {
+          "title": "衮弄行",
+          "anchor": "b014",
+          "level": 2
+        },
+        {
+          "title": "秋夜吟",
+          "anchor": "b015",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "甘瑾三首",
+      "level": 1,
+      "wordCount": 348,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "钱塘怀古（二首选一）",
+          "anchor": "b016",
+          "level": 2
+        },
+        {
+          "title": "寄马彦会",
+          "anchor": "b017",
+          "level": 2
+        },
+        {
+          "title": "社日",
+          "anchor": "b018",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "何明远一首",
+      "level": 1,
+      "wordCount": 92,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "寄宿旅邸",
+          "anchor": "b019",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "张绅二首",
+      "level": 1,
+      "wordCount": 350,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "日出行",
+          "anchor": "b020",
+          "level": 2
+        },
+        {
+          "title": "湖中玩月",
+          "anchor": "b021",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "张简一首",
+      "level": 1,
+      "wordCount": 340,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "醉樵歌",
+          "anchor": "b022",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "刘炳一首",
+      "level": 1,
+      "wordCount": 302,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "燕子楼同周伯宁赋",
+          "anchor": "b023",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "王立中二首",
+      "level": 1,
+      "wordCount": 252,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "西湖竹枝词（二首选一）",
+          "anchor": "b024",
+          "level": 2
+        },
+        {
+          "title": "绝句",
+          "anchor": "b025",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "宋濂三首",
+      "level": 1,
+      "wordCount": 539,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "鸳鸯离",
+          "anchor": "b026",
+          "level": 2
+        },
+        {
+          "title": "题倪元镇耕云图",
+          "anchor": "b027",
+          "level": 2
+        },
+        {
+          "title": "凉夜曲",
+          "anchor": "b028",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "袁凯十二首",
+      "level": 1,
+      "wordCount": 1064,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "白燕",
+          "anchor": "b029",
+          "level": 2
+        },
+        {
+          "title": "客中除夕",
+          "anchor": "b030",
+          "level": 2
+        },
+        {
+          "title": "京师得家书",
+          "anchor": "b031",
+          "level": 2
+        },
+        {
+          "title": "京师归别业",
+          "anchor": "b032",
+          "level": 2
+        },
+        {
+          "title": "估客乐",
+          "anchor": "b033",
+          "level": 2
+        },
+        {
+          "title": "老夫（五首选二）",
+          "anchor": "b034",
+          "level": 2
+        },
+        {
+          "title": "大雨书寓所壁二首",
+          "anchor": "b035",
+          "level": 2
+        },
+        {
+          "title": "江上舟中闻笛",
+          "anchor": "b036",
+          "level": 2
+        },
+        {
+          "title": "淮东逢张十二信",
+          "anchor": "b037",
+          "level": 2
+        },
+        {
+          "title": "画虎",
+          "anchor": "b038",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "刘基十九首",
+      "level": 1,
+      "wordCount": 1532,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "薤露歌",
+          "anchor": "b039",
+          "level": 2
+        },
+        {
+          "title": "病妇行",
+          "anchor": "b040",
+          "level": 2
+        },
+        {
+          "title": "感怀（三十一首选二）",
+          "anchor": "b041",
+          "level": 2
+        },
+        {
+          "title": "北风行",
+          "anchor": "b042",
+          "level": 2
+        },
+        {
+          "title": "畦桑词",
+          "anchor": "b043",
+          "level": 2
+        },
+        {
+          "title": "古戍",
+          "anchor": "b044",
+          "level": 2
+        },
+        {
+          "title": "美人烧香词",
+          "anchor": "b045",
+          "level": 2
+        },
+        {
+          "title": "旅兴（五十首选二）",
+          "anchor": "b046",
+          "level": 2
+        },
+        {
+          "title": "秋感",
+          "anchor": "b047",
+          "level": 2
+        },
+        {
+          "title": "江南弄（七首选二）",
+          "anchor": "b048",
+          "level": 2
+        },
+        {
+          "title": "白发",
+          "anchor": "b049",
+          "level": 2
+        },
+        {
+          "title": "长门怨",
+          "anchor": "b050",
+          "level": 2
+        },
+        {
+          "title": "采莲歌",
+          "anchor": "b051",
+          "level": 2
+        },
+        {
+          "title": "有感",
+          "anchor": "b052",
+          "level": 2
+        },
+        {
+          "title": "分赃台",
+          "anchor": "b053",
+          "level": 2
+        },
+        {
+          "title": "题画猫",
+          "anchor": "b054",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "贝琼二首",
+      "level": 1,
+      "wordCount": 330,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "夜泊",
+          "anchor": "b055",
+          "level": 2
+        },
+        {
+          "title": "经故内",
+          "anchor": "b056",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "钱宰三首",
+      "level": 1,
+      "wordCount": 487,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "己亥岁避兵",
+          "anchor": "b057",
+          "level": 2
+        },
+        {
+          "title": "长江伟观图（三首选一）",
+          "anchor": "b058",
+          "level": 2
+        },
+        {
+          "title": "梧桐树",
+          "anchor": "b059",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "蓝仁三首",
+      "level": 1,
+      "wordCount": 463,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "题古木苍藤图",
+          "anchor": "b060",
+          "level": 2
+        },
+        {
+          "title": "次云松长山道中",
+          "anchor": "b061",
+          "level": 2
+        },
+        {
+          "title": "中秋",
+          "anchor": "b062",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "史谨一首",
+      "level": 1,
+      "wordCount": 211,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "湘江夜泊",
+          "anchor": "b063",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "李延兴三首",
+      "level": 1,
+      "wordCount": 357,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "丙申岁咏怀三首",
+          "anchor": "b064",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "刘嵩四首",
+      "level": 1,
+      "wordCount": 648,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "忆鼎儿",
+          "anchor": "b065",
+          "level": 2
+        },
+        {
+          "title": "寒夜",
+          "anchor": "b066",
+          "level": 2
+        },
+        {
+          "title": "啄木鸟",
+          "anchor": "b067",
+          "level": 2
+        },
+        {
+          "title": "采野菜",
+          "anchor": "b068",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "王袆一首",
+      "level": 1,
+      "wordCount": 245,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "渑池道中",
+          "anchor": "b069",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "杨基六首",
+      "level": 1,
+      "wordCount": 711,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "岳阳楼",
+          "anchor": "b070",
+          "level": 2
+        },
+        {
+          "title": "长江万里图",
+          "anchor": "b071",
+          "level": 2
+        },
+        {
+          "title": "故山春日",
+          "anchor": "b072",
+          "level": 2
+        },
+        {
+          "title": "祁阳道中",
+          "anchor": "b073",
+          "level": 2
+        },
+        {
+          "title": "春草",
+          "anchor": "b074",
+          "level": 2
+        },
+        {
+          "title": "闻邻船吹笛",
+          "anchor": "b075",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "蓝智二首",
+      "level": 1,
+      "wordCount": 323,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "破屋（二首选一）",
+          "anchor": "b076",
+          "level": 2
+        },
+        {
+          "title": "雨中同孟原佥宪登嘉鱼亭",
+          "anchor": "b077",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "汪广洋四首",
+      "level": 1,
+      "wordCount": 562,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "长歌行",
+          "anchor": "b078",
+          "level": 2
+        },
+        {
+          "title": "九日",
+          "anchor": "b079",
+          "level": 2
+        },
+        {
+          "title": "滩行（五首选一）",
+          "anchor": "b080",
+          "level": 2
+        },
+        {
+          "title": "过高邮有感",
+          "anchor": "b081",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "王行二首",
+      "level": 1,
+      "wordCount": 353,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "题画（二首选一）",
+          "anchor": "b082",
+          "level": 2
+        },
+        {
+          "title": "秋景小幅",
+          "anchor": "b083",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "张羽三首",
+      "level": 1,
+      "wordCount": 433,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "寺中书所见（二首选一）",
+          "anchor": "b084",
+          "level": 2
+        },
+        {
+          "title": "观《魏武纪》有感",
+          "anchor": "b085",
+          "level": 2
+        },
+        {
+          "title": "百索词",
+          "anchor": "b086",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "韩奕四首",
+      "level": 1,
+      "wordCount": 488,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "晓发",
+          "anchor": "b087",
+          "level": 2
+        },
+        {
+          "title": "湖州道中",
+          "anchor": "b088",
+          "level": 2
+        },
+        {
+          "title": "逢故人夜饮话旧",
+          "anchor": "b089",
+          "level": 2
+        },
+        {
+          "title": "二月二日寄友",
+          "anchor": "b090",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "徐贲三首",
+      "level": 1,
+      "wordCount": 481,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "柳短短送陈舜道",
+          "anchor": "b091",
+          "level": 2
+        },
+        {
+          "title": "七夕有雨",
+          "anchor": "b092",
+          "level": 2
+        },
+        {
+          "title": "悼亡",
+          "anchor": "b093",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "胡奎三首",
+      "level": 1,
+      "wordCount": 306,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "江上漫兴二首",
+          "anchor": "b094",
+          "level": 2
+        },
+        {
+          "title": "题睡猫图",
+          "anchor": "b095",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "高启二十二首",
+      "level": 1,
+      "wordCount": 3084,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "听教坊旧妓郭芳卿弟子陈氏歌",
+          "anchor": "b096",
+          "level": 2
+        },
+        {
+          "title": "忆远曲",
+          "anchor": "b097",
+          "level": 2
+        },
+        {
+          "title": "明皇秉烛夜游图",
+          "anchor": "b098",
+          "level": 2
+        },
+        {
+          "title": "悲歌",
+          "anchor": "b099",
+          "level": 2
+        },
+        {
+          "title": "青丘子歌有序",
+          "anchor": "b100",
+          "level": 2
+        },
+        {
+          "title": "步至东皋",
+          "anchor": "b101",
+          "level": 2
+        },
+        {
+          "title": "兵后出郭",
+          "anchor": "b102",
+          "level": 2
+        },
+        {
+          "title": "登金陵雨花台望大江",
+          "anchor": "b103",
+          "level": 2
+        },
+        {
+          "title": "送沈左司从汪参政分省陕西，汪由御史中丞出",
+          "anchor": "b104",
+          "level": 2
+        },
+        {
+          "title": "清明呈馆中诸公",
+          "anchor": "b105",
+          "level": 2
+        },
+        {
+          "title": "养蚕词",
+          "anchor": "b106",
+          "level": 2
+        },
+        {
+          "title": "登西城门",
+          "anchor": "b107",
+          "level": 2
+        },
+        {
+          "title": "月林清影",
+          "anchor": "b108",
+          "level": 2
+        },
+        {
+          "title": "钓雪滩",
+          "anchor": "b109",
+          "level": 2
+        },
+        {
+          "title": "送谢恭",
+          "anchor": "b110",
+          "level": 2
+        },
+        {
+          "title": "秋柳",
+          "anchor": "b111",
+          "level": 2
+        },
+        {
+          "title": "梅花九首（选一）",
+          "anchor": "b112",
+          "level": 2
+        },
+        {
+          "title": "宫女图",
+          "anchor": "b113",
+          "level": 2
+        },
+        {
+          "title": "秋望",
+          "anchor": "b114",
+          "level": 2
+        },
+        {
+          "title": "寻胡隐君",
+          "anchor": "b115",
+          "level": 2
+        },
+        {
+          "title": "郊野杂赋（四首选一）",
+          "anchor": "b116",
+          "level": 2
+        },
+        {
+          "title": "牧",
+          "anchor": "b117",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "朱同二首",
+      "level": 1,
+      "wordCount": 426,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "发新城至浙江书怀",
+          "anchor": "b118",
+          "level": 2
+        },
+        {
+          "title": "归故宅",
+          "anchor": "b119",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "孙□三首",
+      "level": 1,
+      "wordCount": 647,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "捕鱼图",
+          "anchor": "b120",
+          "level": 2
+        },
+        {
+          "title": "平原田家行",
+          "anchor": "b121",
+          "level": 2
+        },
+        {
+          "title": "闺怨（一百二十四首选一）",
+          "anchor": "b122",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "朱朴一首",
+      "level": 1,
+      "wordCount": 281,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "歌风台",
+          "anchor": "b123",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "管时敏二首",
+      "level": 1,
+      "wordCount": 261,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "画菜",
+          "anchor": "b124",
+          "level": 2
+        },
+        {
+          "title": "出郭",
+          "anchor": "b125",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "林鸿三首",
+      "level": 1,
+      "wordCount": 398,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "拟古（七首选一）",
+          "anchor": "b126",
+          "level": 2
+        },
+        {
+          "title": "塞上逢故人",
+          "anchor": "b127",
+          "level": 2
+        },
+        {
+          "title": "夕阳",
+          "anchor": "b128",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "浦源二首",
+      "level": 1,
+      "wordCount": 210,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "送人之荆门",
+          "anchor": "b129",
+          "level": 2
+        },
+        {
+          "title": "汾上旅怀",
+          "anchor": "b130",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "郑嘉一首",
+      "level": 1,
+      "wordCount": 80,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "幼女词",
+          "anchor": "b131",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "郑定二首",
+      "level": 1,
+      "wordCount": 266,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "高邮女儿歌",
+          "anchor": "b132",
+          "level": 2
+        },
+        {
+          "title": "渭上观猎",
+          "anchor": "b133",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "瞿佑四首",
+      "level": 1,
+      "wordCount": 720,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "乌镇酒舍歌",
+          "anchor": "b134",
+          "level": 2
+        },
+        {
+          "title": "汴梁怀古",
+          "anchor": "b135",
+          "level": 2
+        },
+        {
+          "title": "过苏州",
+          "anchor": "b136",
+          "level": 2
+        },
+        {
+          "title": "清明即事",
+          "anchor": "b137",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "许继三首",
+      "level": 1,
+      "wordCount": 368,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "怀友",
+          "anchor": "b138",
+          "level": 2
+        },
+        {
+          "title": "自遣",
+          "anchor": "b139",
+          "level": 2
+        },
+        {
+          "title": "赋蜘蛛落叶",
+          "anchor": "b140",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "王璲三首",
+      "level": 1,
+      "wordCount": 393,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "送别",
+          "anchor": "b141",
+          "level": 2
+        },
+        {
+          "title": "山行",
+          "anchor": "b142",
+          "level": 2
+        },
+        {
+          "title": "商贾行",
+          "anchor": "b143",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "高棅二首",
+      "level": 1,
+      "wordCount": 270,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "夏谷云泉",
+          "anchor": "b144",
+          "level": 2
+        },
+        {
+          "title": "衡江夕露",
+          "anchor": "b145",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "王恭二首",
+      "level": 1,
+      "wordCount": 315,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "去妇词",
+          "anchor": "b146",
+          "level": 2
+        },
+        {
+          "title": "春雁",
+          "anchor": "b147",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "钱晔二首",
+      "level": 1,
+      "wordCount": 205,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "过江",
+          "anchor": "b148",
+          "level": 2
+        },
+        {
+          "title": "赠澄江周岐凤",
+          "anchor": "b149",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "许伯旅二首",
+      "level": 1,
+      "wordCount": 251,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "松山道中贻林左氏",
+          "anchor": "b150",
+          "level": 2
+        },
+        {
+          "title": "题扇面小景为王微冲赋",
+          "anchor": "b151",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "方孝孺二首",
+      "level": 1,
+      "wordCount": 324,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "谈诗（五首选二）",
+          "anchor": "b152",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "程本立一首",
+      "level": 1,
+      "wordCount": 314,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "送景德辉教授归越中",
+          "anchor": "b153",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "黄福一首",
+      "level": 1,
+      "wordCount": 192,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "送人回广西",
+          "anchor": "b154",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "杨士奇三首",
+      "level": 1,
+      "wordCount": 737,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘伯川席上作",
+          "anchor": "b155",
+          "level": 2
+        },
+        {
+          "title": "发淮安",
+          "anchor": "b156",
+          "level": 2
+        },
+        {
+          "title": "高邮",
+          "anchor": "b157",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "解缙二首",
+      "level": 1,
+      "wordCount": 474,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "送刘绣衣按交阯",
+          "anchor": "b158",
+          "level": 2
+        },
+        {
+          "title": "寄内",
+          "anchor": "b159",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "曾棨一首",
+      "level": 1,
+      "wordCount": 238,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "维扬怀古",
+          "anchor": "b160",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "杨溥一首",
+      "level": 1,
+      "wordCount": 280,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "从征诗",
+          "anchor": "b161",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "李昌祺三首",
+      "level": 1,
+      "wordCount": 467,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "归自南阳",
+          "anchor": "b162",
+          "level": 2
+        },
+        {
+          "title": "周原幽居",
+          "anchor": "b163",
+          "level": 2
+        },
+        {
+          "title": "送子生还乡",
+          "anchor": "b164",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "罗亨信二首",
+      "level": 1,
+      "wordCount": 189,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "戍妇词",
+          "anchor": "b165",
+          "level": 2
+        },
+        {
+          "title": "古意",
+          "anchor": "b166",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "龚诩四首",
+      "level": 1,
+      "wordCount": 1263,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "甲戌乡中民情长句寄彦文布政",
+          "anchor": "b167",
+          "level": 2
+        },
+        {
+          "title": "饥鼠行",
+          "anchor": "b168",
+          "level": 2
+        },
+        {
+          "title": "咏蚊",
+          "anchor": "b169",
+          "level": 2
+        },
+        {
+          "title": "鹭",
+          "anchor": "b170",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "薛瑄二首",
+      "level": 1,
+      "wordCount": 308,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "仪真",
+          "anchor": "b171",
+          "level": 2
+        },
+        {
+          "title": "徐州见黄河",
+          "anchor": "b172",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "黎扩一首",
+      "level": 1,
+      "wordCount": 92,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "山茶",
+          "anchor": "b173",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "于谦五首",
+      "level": 1,
+      "wordCount": 549,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "石灰吟",
+          "anchor": "b174",
+          "level": 2
+        },
+        {
+          "title": "无题",
+          "anchor": "b175",
+          "level": 2
+        },
+        {
+          "title": "拟吴侬曲（三首选一）",
+          "anchor": "b176",
+          "level": 2
+        },
+        {
+          "title": "荒村",
+          "anchor": "b177",
+          "level": 2
+        },
+        {
+          "title": "观书",
+          "anchor": "b178",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "刘绩三首",
+      "level": 1,
+      "wordCount": 277,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "送王内敬重戍辽海",
+          "anchor": "b179",
+          "level": 2
+        },
+        {
+          "title": "古筑城词",
+          "anchor": "b180",
+          "level": 2
+        },
+        {
+          "title": "听胡琴",
+          "anchor": "b181",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "郑文康二首",
+      "level": 1,
+      "wordCount": 287,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刺牡丹",
+          "anchor": "b182",
+          "level": 2
+        },
+        {
+          "title": "刺鼠",
+          "anchor": "b183",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "刘泰二首",
+      "level": 1,
+      "wordCount": 163,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "湖上暮归",
+          "anchor": "b184",
+          "level": 2
+        },
+        {
+          "title": "小景",
+          "anchor": "b185",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "王清一首",
+      "level": 1,
+      "wordCount": 136,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "塞上感怀",
+          "anchor": "b186",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "郭登五首",
+      "level": 1,
+      "wordCount": 798,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "送岳季方还京",
+          "anchor": "b187",
+          "level": 2
+        },
+        {
+          "title": "暮春登大同西北城楼，同仰寺丞瞻、潘御史洪赋",
+          "anchor": "b188",
+          "level": 2
+        },
+        {
+          "title": "飞蝗",
+          "anchor": "b189",
+          "level": 2
+        },
+        {
+          "title": "西屯女",
+          "anchor": "b190",
+          "level": 2
+        },
+        {
+          "title": "题蒋廷晖小景",
+          "anchor": "b191",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "王怿一首",
+      "level": 1,
+      "wordCount": 131,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "隔谷歌",
+          "anchor": "b192",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "丘濬四首",
+      "level": 1,
+      "wordCount": 391,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "秋思",
+          "anchor": "b193",
+          "level": 2
+        },
+        {
+          "title": "题虞美人墓",
+          "anchor": "b194",
+          "level": 2
+        },
+        {
+          "title": "咏史（二首选一）",
+          "anchor": "b195",
+          "level": 2
+        },
+        {
+          "title": "戏答友人论诗",
+          "anchor": "b196",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "王越三首",
+      "level": 1,
+      "wordCount": 525,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "丁亥中秋",
+          "anchor": "b197",
+          "level": 2
+        },
+        {
+          "title": "过红石山",
+          "anchor": "b198",
+          "level": 2
+        },
+        {
+          "title": "自咏",
+          "anchor": "b199",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "刘溥二首",
+      "level": 1,
+      "wordCount": 316,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "晚过扬州",
+          "anchor": "b200",
+          "level": 2
+        },
+        {
+          "title": "题福山曹氏画",
+          "anchor": "b201",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "title": "张弼三首",
+      "level": 1,
+      "wordCount": 387,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "假髻曲",
+          "anchor": "b202",
+          "level": 2
+        },
+        {
+          "title": "渡江",
+          "anchor": "b203",
+          "level": 2
+        },
+        {
+          "title": "胡陵城",
+          "anchor": "b204",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "title": "童轩二首",
+      "level": 1,
+      "wordCount": 507,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "门有车马客行",
+          "anchor": "b205",
+          "level": 2
+        },
+        {
+          "title": "清明书感",
+          "anchor": "b206",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 74,
+      "title": "燕遗民二首",
+      "level": 1,
+      "wordCount": 181,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "感兴（二首选一）",
+          "anchor": "b207",
+          "level": 2
+        },
+        {
+          "title": "九日",
+          "anchor": "b208",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=74"
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 75,
+      "title": "沈周三首",
+      "level": 1,
+      "wordCount": 318,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "杏花",
+          "anchor": "b209",
+          "level": 2
+        },
+        {
+          "title": "题画（三首选一）",
+          "anchor": "b210",
+          "level": 2
+        },
+        {
+          "title": "桃源图",
+          "anchor": "b211",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=75",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=75"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 76,
+      "title": "陈献章四首",
+      "level": 1,
+      "wordCount": 642,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "阅马氏均田文",
+          "anchor": "b212",
+          "level": 2
+        },
+        {
+          "title": "厓山大忠祠",
+          "anchor": "b213",
+          "level": 2
+        },
+        {
+          "title": "对酒（二首选一）",
+          "anchor": "b214",
+          "level": 2
+        },
+        {
+          "title": "社西村（四首选一）",
+          "anchor": "b215",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 77,
+      "title": "祁顺一首",
+      "level": 1,
+      "wordCount": 173,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "登临江清风楼",
+          "anchor": "b216",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 78,
+      "title": "黄仲昭二首",
+      "level": 1,
+      "wordCount": 280,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "明妃词（六首选二）",
+          "anchor": "b217",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 79,
+      "title": "谢铎二首",
+      "level": 1,
+      "wordCount": 278,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "邸报",
+          "anchor": "b218",
+          "level": 2
+        },
+        {
+          "title": "绝句",
+          "anchor": "b219",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=79"
+    },
+    {
+      "chapterUid": 80,
+      "chapterIdx": 80,
+      "title": "张泰三首",
+      "level": 1,
+      "wordCount": 317,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "江南春和杜牧韵",
+          "anchor": "b220",
+          "level": 2
+        },
+        {
+          "title": "宿雁图",
+          "anchor": "b221",
+          "level": 2
+        },
+        {
+          "title": "海城春望",
+          "anchor": "b222",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=80",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=80"
+    },
+    {
+      "chapterUid": 81,
+      "chapterIdx": 81,
+      "title": "程敏政二首",
+      "level": 1,
+      "wordCount": 513,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "家畜一犬甚驯，每出入必随，至山斗宗侄希达家戏作",
+          "anchor": "b223",
+          "level": 2
+        },
+        {
+          "title": "题田家娶妇图",
+          "anchor": "b224",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=81",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=81"
+    },
+    {
+      "chapterUid": 82,
+      "chapterIdx": 82,
+      "title": "李进一首",
+      "level": 1,
+      "wordCount": 151,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "西湖夜宿",
+          "anchor": "b225",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=82",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=82"
+    },
+    {
+      "chapterUid": 83,
+      "chapterIdx": 83,
+      "title": "马中锡四首",
+      "level": 1,
+      "wordCount": 548,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "晚渡咸阳",
+          "anchor": "b226",
+          "level": 2
+        },
+        {
+          "title": "谒元世祖庙",
+          "anchor": "b227",
+          "level": 2
+        },
+        {
+          "title": "春怨",
+          "anchor": "b228",
+          "level": 2
+        },
+        {
+          "title": "题小画",
+          "anchor": "b229",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=83",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=83"
+    },
+    {
+      "chapterUid": 84,
+      "chapterIdx": 84,
+      "title": "屠勋一首",
+      "level": 1,
+      "wordCount": 220,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "再游南山",
+          "anchor": "b230",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=84",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=84"
+    },
+    {
+      "chapterUid": 85,
+      "chapterIdx": 85,
+      "title": "李东阳七首",
+      "level": 1,
+      "wordCount": 1225,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "马船行",
+          "anchor": "b231",
+          "level": 2
+        },
+        {
+          "title": "新丰行",
+          "anchor": "b232",
+          "level": 2
+        },
+        {
+          "title": "九日渡江",
+          "anchor": "b233",
+          "level": 2
+        },
+        {
+          "title": "游岳麓寺",
+          "anchor": "b234",
+          "level": 2
+        },
+        {
+          "title": "寄彭民望",
+          "anchor": "b235",
+          "level": 2
+        },
+        {
+          "title": "柯敬仲墨竹",
+          "anchor": "b236",
+          "level": 2
+        },
+        {
+          "title": "见月",
+          "anchor": "b237",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=85",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=85"
+    },
+    {
+      "chapterUid": 86,
+      "chapterIdx": 86,
+      "title": "储巏三首",
+      "level": 1,
+      "wordCount": 348,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "屡卜居未遂",
+          "anchor": "b238",
+          "level": 2
+        },
+        {
+          "title": "老米店有感",
+          "anchor": "b239",
+          "level": 2
+        },
+        {
+          "title": "村舍前杏花烂开",
+          "anchor": "b240",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=86",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=86"
+    },
+    {
+      "chapterUid": 87,
+      "chapterIdx": 87,
+      "title": "杨循吉二首",
+      "level": 1,
+      "wordCount": 679,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "抄书",
+          "anchor": "b241",
+          "level": 2
+        },
+        {
+          "title": "酷吏行",
+          "anchor": "b242",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=87",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=87"
+    },
+    {
+      "chapterUid": 88,
+      "chapterIdx": 88,
+      "title": "朱诚泳二首",
+      "level": 1,
+      "wordCount": 313,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "杨白花",
+          "anchor": "b243",
+          "level": 2
+        },
+        {
+          "title": "折杨柳",
+          "anchor": "b244",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=88",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=88"
+    },
+    {
+      "chapterUid": 89,
+      "chapterIdx": 89,
+      "title": "朱应祥二首",
+      "level": 1,
+      "wordCount": 136,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "绝句",
+          "anchor": "b245",
+          "level": 2
+        },
+        {
+          "title": "麟溪道中",
+          "anchor": "b246",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=89",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=89"
+    },
+    {
+      "chapterUid": 90,
+      "chapterIdx": 90,
+      "title": "祝允明四首",
+      "level": 1,
+      "wordCount": 499,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "暮春山行",
+          "anchor": "b247",
+          "level": 2
+        },
+        {
+          "title": "秋日闲居",
+          "anchor": "b248",
+          "level": 2
+        },
+        {
+          "title": "秋香便面",
+          "anchor": "b249",
+          "level": 2
+        },
+        {
+          "title": "戏咏金银",
+          "anchor": "b250",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=90",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=90"
+    },
+    {
+      "chapterUid": 91,
+      "chapterIdx": 91,
+      "title": "文森一首",
+      "level": 1,
+      "wordCount": 170,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "九日",
+          "anchor": "b251",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=91",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=91"
+    },
+    {
+      "chapterUid": 92,
+      "chapterIdx": 92,
+      "title": "陈沂一首",
+      "level": 1,
+      "wordCount": 247,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "江上呈华玉",
+          "anchor": "b252",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=92",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=92"
+    },
+    {
+      "chapterUid": 93,
+      "chapterIdx": 93,
+      "title": "唐寅六首",
+      "level": 1,
+      "wordCount": 838,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "把酒对月歌",
+          "anchor": "b253",
+          "level": 2
+        },
+        {
+          "title": "妒花歌",
+          "anchor": "b254",
+          "level": 2
+        },
+        {
+          "title": "阊门即事",
+          "anchor": "b255",
+          "level": 2
+        },
+        {
+          "title": "无题",
+          "anchor": "b256",
+          "level": 2
+        },
+        {
+          "title": "桃花庵歌",
+          "anchor": "b257",
+          "level": 2
+        },
+        {
+          "title": "言志",
+          "anchor": "b258",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=93",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=93"
+    },
+    {
+      "chapterUid": 94,
+      "chapterIdx": 94,
+      "title": "文徵明二首",
+      "level": 1,
+      "wordCount": 401,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "感怀",
+          "anchor": "b259",
+          "level": 2
+        },
+        {
+          "title": "月下独坐有怀伯虎",
+          "anchor": "b260",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=94",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=94"
+    },
+    {
+      "chapterUid": 95,
+      "chapterIdx": 95,
+      "title": "王阳明三首",
+      "level": 1,
+      "wordCount": 418,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "泛海",
+          "anchor": "b261",
+          "level": 2
+        },
+        {
+          "title": "山中示诸生（五首选二）",
+          "anchor": "b262",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=95",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=95"
+    },
+    {
+      "chapterUid": 96,
+      "chapterIdx": 96,
+      "title": "陈鉴一首",
+      "level": 1,
+      "wordCount": 137,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "雨中喜西邨诸君见过",
+          "anchor": "b263",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=96",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=96"
+    },
+    {
+      "chapterUid": 97,
+      "chapterIdx": 97,
+      "title": "罗焘二首",
+      "level": 1,
+      "wordCount": 178,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "野兴",
+          "anchor": "b264",
+          "level": 2
+        },
+        {
+          "title": "秋晚秣陵道中",
+          "anchor": "b265",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=97",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=97"
+    },
+    {
+      "chapterUid": 98,
+      "chapterIdx": 98,
+      "title": "钱百川一首",
+      "level": 1,
+      "wordCount": 156,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "村晚",
+          "anchor": "b266",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=98",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=98"
+    },
+    {
+      "chapterUid": 99,
+      "chapterIdx": 99,
+      "title": "李梦阳十二首",
+      "level": 1,
+      "wordCount": 2017,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "河之水歌二章有序",
+          "anchor": "b267",
+          "level": 2
+        },
+        {
+          "title": "林良画两角鹰歌",
+          "anchor": "b268",
+          "level": 2
+        },
+        {
+          "title": "朝饮马送陈子出塞",
+          "anchor": "b269",
+          "level": 2
+        },
+        {
+          "title": "戏作放歌寄别吴子",
+          "anchor": "b270",
+          "level": 2
+        },
+        {
+          "title": "土兵行",
+          "anchor": "b271",
+          "level": 2
+        },
+        {
+          "title": "朱仙镇",
+          "anchor": "b272",
+          "level": 2
+        },
+        {
+          "title": "泰山",
+          "anchor": "b273",
+          "level": 2
+        },
+        {
+          "title": "秋望",
+          "anchor": "b274",
+          "level": 2
+        },
+        {
+          "title": "汴中元夕（五首选一）",
+          "anchor": "b275",
+          "level": 2
+        },
+        {
+          "title": "塞上",
+          "anchor": "b276",
+          "level": 2
+        },
+        {
+          "title": "送人",
+          "anchor": "b277",
+          "level": 2
+        },
+        {
+          "title": "赠客",
+          "anchor": "b278",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=99",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=99"
+    },
+    {
+      "chapterUid": 100,
+      "chapterIdx": 100,
+      "title": "王廷相一首",
+      "level": 1,
+      "wordCount": 218,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "古陵",
+          "anchor": "b279",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=100",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=100"
+    },
+    {
+      "chapterUid": 101,
+      "chapterIdx": 101,
+      "title": "宸濠翠妃一首",
+      "level": 1,
+      "wordCount": 61,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "梅花",
+          "anchor": "b280",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=101",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=101"
+    },
+    {
+      "chapterUid": 102,
+      "chapterIdx": 102,
+      "title": "顾璘三首",
+      "level": 1,
+      "wordCount": 370,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "度枫木岭",
+          "anchor": "b281",
+          "level": 2
+        },
+        {
+          "title": "遣怀绝句（七首选二）",
+          "anchor": "b282",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=102",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=102"
+    },
+    {
+      "chapterUid": 103,
+      "chapterIdx": 103,
+      "title": "徐祯卿六首",
+      "level": 1,
+      "wordCount": 777,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "大道曲",
+          "anchor": "b283",
+          "level": 2
+        },
+        {
+          "title": "济上作",
+          "anchor": "b284",
+          "level": 2
+        },
+        {
+          "title": "寄华玉",
+          "anchor": "b285",
+          "level": 2
+        },
+        {
+          "title": "月",
+          "anchor": "b286",
+          "level": 2
+        },
+        {
+          "title": "王昭君",
+          "anchor": "b287",
+          "level": 2
+        },
+        {
+          "title": "在武昌作",
+          "anchor": "b288",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=103",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=103"
+    },
+    {
+      "chapterUid": 104,
+      "chapterIdx": 104,
+      "title": "胡缵宗二首",
+      "level": 1,
+      "wordCount": 323,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "拟古二首",
+          "anchor": "b289",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=104",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=104"
+    },
+    {
+      "chapterUid": 105,
+      "chapterIdx": 105,
+      "title": "骆用卿一首",
+      "level": 1,
+      "wordCount": 123,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "题韩信庙",
+          "anchor": "b290",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=105",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=105"
+    },
+    {
+      "chapterUid": 106,
+      "chapterIdx": 106,
+      "title": "何景明十一首",
+      "level": 1,
+      "wordCount": 1265,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "津市打渔歌",
+          "anchor": "b291",
+          "level": 2
+        },
+        {
+          "title": "秋江词",
+          "anchor": "b292",
+          "level": 2
+        },
+        {
+          "title": "岁晏行",
+          "anchor": "b293",
+          "level": 2
+        },
+        {
+          "title": "岳阳",
+          "anchor": "b294",
+          "level": 2
+        },
+        {
+          "title": "答望之",
+          "anchor": "b295",
+          "level": 2
+        },
+        {
+          "title": "武关",
+          "anchor": "b296",
+          "level": 2
+        },
+        {
+          "title": "竹枝词",
+          "anchor": "b297",
+          "level": 2
+        },
+        {
+          "title": "送韩汝度还关中",
+          "anchor": "b298",
+          "level": 2
+        },
+        {
+          "title": "秋日杂兴二首",
+          "anchor": "b299",
+          "level": 2
+        },
+        {
+          "title": "小景（四首选一）",
+          "anchor": "b300",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=106",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=106"
+    },
+    {
+      "chapterUid": 107,
+      "chapterIdx": 107,
+      "title": "孙一元四首",
+      "level": 1,
+      "wordCount": 444,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "收菊花贮枕",
+          "anchor": "b301",
+          "level": 2
+        },
+        {
+          "title": "独往",
+          "anchor": "b302",
+          "level": 2
+        },
+        {
+          "title": "访樵者",
+          "anchor": "b303",
+          "level": 2
+        },
+        {
+          "title": "至日携榼登道场山",
+          "anchor": "b304",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=107",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=107"
+    },
+    {
+      "chapterUid": 108,
+      "chapterIdx": 108,
+      "title": "颜木一首",
+      "level": 1,
+      "wordCount": 216,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "出塞",
+          "anchor": "b305",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=108",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=108"
+    },
+    {
+      "chapterUid": 109,
+      "chapterIdx": 109,
+      "title": "郑善夫三首",
+      "level": 1,
+      "wordCount": 509,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "古意",
+          "anchor": "b306",
+          "level": 2
+        },
+        {
+          "title": "闻道",
+          "anchor": "b307",
+          "level": 2
+        },
+        {
+          "title": "秋夜",
+          "anchor": "b308",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=109",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=109"
+    },
+    {
+      "chapterUid": 110,
+      "chapterIdx": 110,
+      "title": "张綖二首",
+      "level": 1,
+      "wordCount": 353,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "香奁诗（三首选一）",
+          "anchor": "b309",
+          "level": 2
+        },
+        {
+          "title": "秋词",
+          "anchor": "b310",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=110",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=110"
+    },
+    {
+      "chapterUid": 111,
+      "chapterIdx": 111,
+      "title": "杨慎七首",
+      "level": 1,
+      "wordCount": 934,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "峡东曲",
+          "anchor": "b311",
+          "level": 2
+        },
+        {
+          "title": "三岔驿",
+          "anchor": "b312",
+          "level": 2
+        },
+        {
+          "title": "送余学官归罗江",
+          "anchor": "b313",
+          "level": 2
+        },
+        {
+          "title": "塞垣鹧鸪词",
+          "anchor": "b314",
+          "level": 2
+        },
+        {
+          "title": "宿金沙江",
+          "anchor": "b315",
+          "level": 2
+        },
+        {
+          "title": "杨柳枝词",
+          "anchor": "b316",
+          "level": 2
+        },
+        {
+          "title": "梅花落",
+          "anchor": "b317",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=111",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=111"
+    },
+    {
+      "chapterUid": 112,
+      "chapterIdx": 112,
+      "title": "薛蕙三首",
+      "level": 1,
+      "wordCount": 479,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "驾幸南海子",
+          "anchor": "b318",
+          "level": 2
+        },
+        {
+          "title": "北征",
+          "anchor": "b319",
+          "level": 2
+        },
+        {
+          "title": "赠继之",
+          "anchor": "b320",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=112",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=112"
+    },
+    {
+      "chapterUid": 113,
+      "chapterIdx": 113,
+      "title": "黄佐二首",
+      "level": 1,
+      "wordCount": 559,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "南征词（六首选一）",
+          "anchor": "b321",
+          "level": 2
+        },
+        {
+          "title": "彭城怀古",
+          "anchor": "b322",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=113",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=113"
+    },
+    {
+      "chapterUid": 114,
+      "chapterIdx": 114,
+      "title": "王讴二首",
+      "level": 1,
+      "wordCount": 297,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "秋日山行",
+          "anchor": "b323",
+          "level": 2
+        },
+        {
+          "title": "识野别",
+          "anchor": "b324",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=114",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=114"
+    },
+    {
+      "chapterUid": 115,
+      "chapterIdx": 115,
+      "title": "丰坊二首",
+      "level": 1,
+      "wordCount": 277,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "杂诗",
+          "anchor": "b325",
+          "level": 2
+        },
+        {
+          "title": "送人",
+          "anchor": "b326",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=115",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=115"
+    },
+    {
+      "chapterUid": 116,
+      "chapterIdx": 116,
+      "title": "常伦一首",
+      "level": 1,
+      "wordCount": 264,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "过韩信岭",
+          "anchor": "b327",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=116",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=116"
+    },
+    {
+      "chapterUid": 117,
+      "chapterIdx": 117,
+      "title": "陆粲二首",
+      "level": 1,
+      "wordCount": 507,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "边军谣",
+          "anchor": "b328",
+          "level": 2
+        },
+        {
+          "title": "感事",
+          "anchor": "b329",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=117",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=117"
+    },
+    {
+      "chapterUid": 118,
+      "chapterIdx": 118,
+      "title": "华察二首",
+      "level": 1,
+      "wordCount": 324,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "秋晚过英侄园居",
+          "anchor": "b330",
+          "level": 2
+        },
+        {
+          "title": "荆溪晓发",
+          "anchor": "b331",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=118",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=118"
+    },
+    {
+      "chapterUid": 119,
+      "chapterIdx": 119,
+      "title": "王问二首",
+      "level": 1,
+      "wordCount": 381,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "赠吴之山",
+          "anchor": "b332",
+          "level": 2
+        },
+        {
+          "title": "彼倭行",
+          "anchor": "b333",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=119",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=119"
+    },
+    {
+      "chapterUid": 120,
+      "chapterIdx": 120,
+      "title": "强锐一首",
+      "level": 1,
+      "wordCount": 104,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "题画",
+          "anchor": "b334",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=120",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=120"
+    },
+    {
+      "chapterUid": 121,
+      "chapterIdx": 121,
+      "title": "谢榛九首",
+      "level": 1,
+      "wordCount": 746,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "榆河晓发",
+          "anchor": "b335",
+          "level": 2
+        },
+        {
+          "title": "渡黄河",
+          "anchor": "b336",
+          "level": 2
+        },
+        {
+          "title": "捣衣曲",
+          "anchor": "b337",
+          "level": 2
+        },
+        {
+          "title": "苦雨后感怀",
+          "anchor": "b338",
+          "level": 2
+        },
+        {
+          "title": "秋日怀弟",
+          "anchor": "b339",
+          "level": 2
+        },
+        {
+          "title": "送刘将军赴南都",
+          "anchor": "b340",
+          "level": 2
+        },
+        {
+          "title": "远别曲",
+          "anchor": "b341",
+          "level": 2
+        },
+        {
+          "title": "塞下曲（五首选一）",
+          "anchor": "b342",
+          "level": 2
+        },
+        {
+          "title": "春柳",
+          "anchor": "b343",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=121",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=121"
+    },
+    {
+      "chapterUid": 122,
+      "chapterIdx": 122,
+      "title": "朱曰藩三首",
+      "level": 1,
+      "wordCount": 325,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "竹枝词",
+          "anchor": "b344",
+          "level": 2
+        },
+        {
+          "title": "感旧",
+          "anchor": "b345",
+          "level": 2
+        },
+        {
+          "title": "秋闺怨",
+          "anchor": "b346",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=122",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=122"
+    },
+    {
+      "chapterUid": 123,
+      "chapterIdx": 123,
+      "title": "张时彻三首",
+      "level": 1,
+      "wordCount": 330,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "闾阎曲",
+          "anchor": "b347",
+          "level": 2
+        },
+        {
+          "title": "广陵晓发",
+          "anchor": "b348",
+          "level": 2
+        },
+        {
+          "title": "宝刀吟",
+          "anchor": "b349",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=123",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=123"
+    },
+    {
+      "chapterUid": 124,
+      "chapterIdx": 124,
+      "title": "高叔嗣四首",
+      "level": 1,
+      "wordCount": 544,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "明月引",
+          "anchor": "b350",
+          "level": 2
+        },
+        {
+          "title": "行至车骑关河南尽处，与亲知别",
+          "anchor": "b351",
+          "level": 2
+        },
+        {
+          "title": "得张子家书",
+          "anchor": "b352",
+          "level": 2
+        },
+        {
+          "title": "仲春山行",
+          "anchor": "b353",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=124",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=124"
+    },
+    {
+      "chapterUid": 125,
+      "chapterIdx": 125,
+      "title": "李开先三首",
+      "level": 1,
+      "wordCount": 621,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "归休家居，病起，蒙诸友邀入词社",
+          "anchor": "b354",
+          "level": 2
+        },
+        {
+          "title": "夜宴观戏",
+          "anchor": "b355",
+          "level": 2
+        },
+        {
+          "title": "寓言",
+          "anchor": "b356",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=125",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=125"
+    },
+    {
+      "chapterUid": 126,
+      "chapterIdx": 126,
+      "title": "何御二首",
+      "level": 1,
+      "wordCount": 296,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "粤中杂咏",
+          "anchor": "b357",
+          "level": 2
+        },
+        {
+          "title": "独坐念海寇未除",
+          "anchor": "b358",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=126",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=126"
+    },
+    {
+      "chapterUid": 127,
+      "chapterIdx": 127,
+      "title": "俞大猷二首",
+      "level": 1,
+      "wordCount": 277,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "秋日山行",
+          "anchor": "b359",
+          "level": 2
+        },
+        {
+          "title": "咏牡丹",
+          "anchor": "b360",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=127",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=127"
+    },
+    {
+      "chapterUid": 128,
+      "chapterIdx": 128,
+      "title": "皇甫汸三首",
+      "level": 1,
+      "wordCount": 398,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "舟中对月书情",
+          "anchor": "b361",
+          "level": 2
+        },
+        {
+          "title": "对月答子浚兄见怀诸弟之作",
+          "anchor": "b362",
+          "level": 2
+        },
+        {
+          "title": "有所思",
+          "anchor": "b363",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=128",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=128"
+    },
+    {
+      "chapterUid": 129,
+      "chapterIdx": 129,
+      "title": "沈炼二首",
+      "level": 1,
+      "wordCount": 304,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "感怀",
+          "anchor": "b364",
+          "level": 2
+        },
+        {
+          "title": "秋夜感怀",
+          "anchor": "b365",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=129",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=129"
+    },
+    {
+      "chapterUid": 130,
+      "chapterIdx": 130,
+      "title": "归有光四首",
+      "level": 1,
+      "wordCount": 468,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "甲寅十月纪事（二首选一）",
+          "anchor": "b366",
+          "level": 2
+        },
+        {
+          "title": "海上纪事（十四首选三）",
+          "anchor": "b367",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=130",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=130"
+    },
+    {
+      "chapterUid": 131,
+      "chapterIdx": 131,
+      "title": "高岱二首",
+      "level": 1,
+      "wordCount": 299,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "招李伯承夜过",
+          "anchor": "b368",
+          "level": 2
+        },
+        {
+          "title": "灯蛾",
+          "anchor": "b369",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=131",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=131"
+    },
+    {
+      "chapterUid": 132,
+      "chapterIdx": 132,
+      "title": "尹耕二首",
+      "level": 1,
+      "wordCount": 339,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "秋兴（八首选一）",
+          "anchor": "b370",
+          "level": 2
+        },
+        {
+          "title": "蔚州歌",
+          "anchor": "b371",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=132",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=132"
+    },
+    {
+      "chapterUid": 133,
+      "chapterIdx": 133,
+      "title": "李攀龙十首",
+      "level": 1,
+      "wordCount": 983,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "寄许殿卿",
+          "anchor": "b372",
+          "level": 2
+        },
+        {
+          "title": "于郡城送明卿之江西（四首选一）",
+          "anchor": "b373",
+          "level": 2
+        },
+        {
+          "title": "塞上曲四首送元美（四首选一）",
+          "anchor": "b374",
+          "level": 2
+        },
+        {
+          "title": "录别（又十一首选一）",
+          "anchor": "b375",
+          "level": 2
+        },
+        {
+          "title": "岁杪放歌",
+          "anchor": "b376",
+          "level": 2
+        },
+        {
+          "title": "登黄榆、马陵诸山，是太行绝顶处（四首选一）",
+          "anchor": "b377",
+          "level": 2
+        },
+        {
+          "title": "和聂仪部明妃曲（四首选一）",
+          "anchor": "b378",
+          "level": 2
+        },
+        {
+          "title": "平凉",
+          "anchor": "b379",
+          "level": 2
+        },
+        {
+          "title": "和许殿卿春日梁园即事",
+          "anchor": "b380",
+          "level": 2
+        },
+        {
+          "title": "初春，元美席上赠谢茂秦，得关字",
+          "anchor": "b381",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=133",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=133"
+    },
+    {
+      "chapterUid": 134,
+      "chapterIdx": 134,
+      "title": "黎民表二首",
+      "level": 1,
+      "wordCount": 374,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "泛石门溪",
+          "anchor": "b382",
+          "level": 2
+        },
+        {
+          "title": "燕京书事（五首选一）",
+          "anchor": "b383",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=134",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=134"
+    },
+    {
+      "chapterUid": 135,
+      "chapterIdx": 135,
+      "title": "陈鹤二首",
+      "level": 1,
+      "wordCount": 310,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "寄金子坤",
+          "anchor": "b384",
+          "level": 2
+        },
+        {
+          "title": "送张舍人还永嘉",
+          "anchor": "b385",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=135",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=135"
+    },
+    {
+      "chapterUid": 136,
+      "chapterIdx": 136,
+      "title": "欧大任三首",
+      "level": 1,
+      "wordCount": 355,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "九江官舍除夕",
+          "anchor": "b386",
+          "level": 2
+        },
+        {
+          "title": "乌栖曲",
+          "anchor": "b387",
+          "level": 2
+        },
+        {
+          "title": "登宣武门楼",
+          "anchor": "b388",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=136",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=136"
+    },
+    {
+      "chapterUid": 137,
+      "chapterIdx": 137,
+      "title": "徐中行三首",
+      "level": 1,
+      "wordCount": 329,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "暮发滁阳",
+          "anchor": "b389",
+          "level": 2
+        },
+        {
+          "title": "感旧",
+          "anchor": "b390",
+          "level": 2
+        },
+        {
+          "title": "初入滇关",
+          "anchor": "b391",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=137",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=137"
+    },
+    {
+      "chapterUid": 138,
+      "chapterIdx": 138,
+      "title": "杨巍三首",
+      "level": 1,
+      "wordCount": 451,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "雁门九日无兴登高作诗二首",
+          "anchor": "b392",
+          "level": 2
+        },
+        {
+          "title": "过石岭关",
+          "anchor": "b393",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=138",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=138"
+    },
+    {
+      "chapterUid": 139,
+      "chapterIdx": 139,
+      "title": "沈明臣五首",
+      "level": 1,
+      "wordCount": 459,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "萧皋别业竹枝词三首",
+          "anchor": "b394",
+          "level": 2
+        },
+        {
+          "title": "宿福山港候发",
+          "anchor": "b395",
+          "level": 2
+        },
+        {
+          "title": "凯歌",
+          "anchor": "b396",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=139",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=139"
+    },
+    {
+      "chapterUid": 140,
+      "chapterIdx": 140,
+      "title": "马继龙二首",
+      "level": 1,
+      "wordCount": 226,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "草堂漫兴",
+          "anchor": "b397",
+          "level": 2
+        },
+        {
+          "title": "雨中忆梁大峨",
+          "anchor": "b398",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=140",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=140"
+    },
+    {
+      "chapterUid": 141,
+      "chapterIdx": 141,
+      "title": "梁有誉三首",
+      "level": 1,
+      "wordCount": 336,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "汉宫词",
+          "anchor": "b399",
+          "level": 2
+        },
+        {
+          "title": "送同年张子畏使代（二首选一）",
+          "anchor": "b400",
+          "level": 2
+        },
+        {
+          "title": "东林寺",
+          "anchor": "b401",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=141",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=141"
+    },
+    {
+      "chapterUid": 142,
+      "chapterIdx": 142,
+      "title": "徐渭八首",
+      "level": 1,
+      "wordCount": 781,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "龛山凯歌（九首选一）",
+          "anchor": "b402",
+          "level": 2
+        },
+        {
+          "title": "山阴景孟刘侯乘舆过访，闭门",
+          "anchor": "b403",
+          "level": 2
+        },
+        {
+          "title": "严先生祠",
+          "anchor": "b404",
+          "level": 2
+        },
+        {
+          "title": "王元章倒枝梅画",
+          "anchor": "b405",
+          "level": 2
+        },
+        {
+          "title": "内子亡十年，其家以甥在，稍还母所服潞州红衫，颈汗尚泚。余为泣数行下，时夜天大雨雪",
+          "anchor": "b406",
+          "level": 2
+        },
+        {
+          "title": "边词（二十六首选二）",
+          "anchor": "b407",
+          "level": 2
+        },
+        {
+          "title": "胡市",
+          "anchor": "b408",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=142",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=142"
+    },
+    {
+      "chapterUid": 143,
+      "chapterIdx": 143,
+      "title": "方逢时二首",
+      "level": 1,
+      "wordCount": 439,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "烧荒行",
+          "anchor": "b409",
+          "level": 2
+        },
+        {
+          "title": "岔道",
+          "anchor": "b410",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=143",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=143"
+    },
+    {
+      "chapterUid": 144,
+      "chapterIdx": 144,
+      "title": "龚勗一首",
+      "level": 1,
+      "wordCount": 155,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "立秋",
+          "anchor": "b411",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=144",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=144"
+    },
+    {
+      "chapterUid": 145,
+      "chapterIdx": 145,
+      "title": "黄克晦二首",
+      "level": 1,
+      "wordCount": 293,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "桃溪夜泊",
+          "anchor": "b412",
+          "level": 2
+        },
+        {
+          "title": "后出塞送陈季立防秋",
+          "anchor": "b413",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=145",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=145"
+    },
+    {
+      "chapterUid": 146,
+      "chapterIdx": 146,
+      "title": "吴国伦三首",
+      "level": 1,
+      "wordCount": 563,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "寄远曲",
+          "anchor": "b414",
+          "level": 2
+        },
+        {
+          "title": "次奢香驿，因咏其事",
+          "anchor": "b415",
+          "level": 2
+        },
+        {
+          "title": "高州杂咏",
+          "anchor": "b416",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=146",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=146"
+    },
+    {
+      "chapterUid": 147,
+      "chapterIdx": 147,
+      "title": "宗臣三首",
+      "level": 1,
+      "wordCount": 379,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "登云门诸山",
+          "anchor": "b417",
+          "level": 2
+        },
+        {
+          "title": "郊行（六首选一）",
+          "anchor": "b418",
+          "level": 2
+        },
+        {
+          "title": "送吴山人",
+          "anchor": "b419",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=147",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=147"
+    },
+    {
+      "chapterUid": 148,
+      "chapterIdx": 148,
+      "title": "王世贞十四首",
+      "level": 1,
+      "wordCount": 1396,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "乱后初入吴，与舍弟小酌",
+          "anchor": "b420",
+          "level": 2
+        },
+        {
+          "title": "登太白楼",
+          "anchor": "b421",
+          "level": 2
+        },
+        {
+          "title": "过长平作长平行",
+          "anchor": "b422",
+          "level": 2
+        },
+        {
+          "title": "酒品前后二十绝（选一）",
+          "anchor": "b423",
+          "level": 2
+        },
+        {
+          "title": "送妻弟魏生还里",
+          "anchor": "b424",
+          "level": 2
+        },
+        {
+          "title": "上谷杂咏（三首选一）",
+          "anchor": "b425",
+          "level": 2
+        },
+        {
+          "title": "西城宫词（十二首选二）",
+          "anchor": "b426",
+          "level": 2
+        },
+        {
+          "title": "戚将军赠宝剑歌（十首选二）",
+          "anchor": "b427",
+          "level": 2
+        },
+        {
+          "title": "酹孙太初墓",
+          "anchor": "b428",
+          "level": 2
+        },
+        {
+          "title": "寄家弟振美",
+          "anchor": "b429",
+          "level": 2
+        },
+        {
+          "title": "别弟",
+          "anchor": "b430",
+          "level": 2
+        },
+        {
+          "title": "暮秋村居即事",
+          "anchor": "b431",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=148",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=148"
+    },
+    {
+      "chapterUid": 149,
+      "chapterIdx": 149,
+      "title": "李贽四首",
+      "level": 1,
+      "wordCount": 436,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "独坐",
+          "anchor": "b432",
+          "level": 2
+        },
+        {
+          "title": "石潭即事四绝（选一）",
+          "anchor": "b433",
+          "level": 2
+        },
+        {
+          "title": "客吟",
+          "anchor": "b434",
+          "level": 2
+        },
+        {
+          "title": "老病始苏",
+          "anchor": "b435",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=149",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=149"
+    },
+    {
+      "chapterUid": 150,
+      "chapterIdx": 150,
+      "title": "戚继光四首",
+      "level": 1,
+      "wordCount": 501,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "韬钤深处",
+          "anchor": "b436",
+          "level": 2
+        },
+        {
+          "title": "登盘山绝顶",
+          "anchor": "b437",
+          "level": 2
+        },
+        {
+          "title": "过文登营",
+          "anchor": "b438",
+          "level": 2
+        },
+        {
+          "title": "马上作",
+          "anchor": "b439",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=150",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=150"
+    },
+    {
+      "chapterUid": 151,
+      "chapterIdx": 151,
+      "title": "盛时泰一首",
+      "level": 1,
+      "wordCount": 212,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "次高邮",
+          "anchor": "b440",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=151",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=151"
+    },
+    {
+      "chapterUid": 152,
+      "chapterIdx": 152,
+      "title": "沈一贯二首",
+      "level": 1,
+      "wordCount": 326,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "山阴道中",
+          "anchor": "b441",
+          "level": 2
+        },
+        {
+          "title": "蹴鞠",
+          "anchor": "b442",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=152",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=152"
+    },
+    {
+      "chapterUid": 153,
+      "chapterIdx": 153,
+      "title": "张九一二首",
+      "level": 1,
+      "wordCount": 331,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "酌酒",
+          "anchor": "b443",
+          "level": 2
+        },
+        {
+          "title": "登会宁原上作",
+          "anchor": "b444",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=153",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=153"
+    },
+    {
+      "chapterUid": 154,
+      "chapterIdx": 154,
+      "title": "王稚登三首",
+      "level": 1,
+      "wordCount": 437,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "十三日看灯市",
+          "anchor": "b445",
+          "level": 2
+        },
+        {
+          "title": "杂言",
+          "anchor": "b446",
+          "level": 2
+        },
+        {
+          "title": "黄浦夜泊",
+          "anchor": "b447",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=154",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=154"
+    },
+    {
+      "chapterUid": 155,
+      "chapterIdx": 155,
+      "title": "汪时元一首",
+      "level": 1,
+      "wordCount": 63,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "九日舟中",
+          "anchor": "b448",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=155",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=155"
+    },
+    {
+      "chapterUid": 156,
+      "chapterIdx": 156,
+      "title": "张元凯三首",
+      "level": 1,
+      "wordCount": 498,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "杂拟诗（六首选一）",
+          "anchor": "b449",
+          "level": 2
+        },
+        {
+          "title": "湖上归",
+          "anchor": "b450",
+          "level": 2
+        },
+        {
+          "title": "西湖即事（二首选一）",
+          "anchor": "b451",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=156",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=156"
+    },
+    {
+      "chapterUid": 157,
+      "chapterIdx": 157,
+      "title": "陈第二首",
+      "level": 1,
+      "wordCount": 443,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "官路傍",
+          "anchor": "b452",
+          "level": 2
+        },
+        {
+          "title": "春日登边台，感念谭司马、戚都护",
+          "anchor": "b453",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=157",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=157"
+    },
+    {
+      "chapterUid": 158,
+      "chapterIdx": 158,
+      "title": "屠隆三首",
+      "level": 1,
+      "wordCount": 684,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "出塞",
+          "anchor": "b454",
+          "level": 2
+        },
+        {
+          "title": "吁嗟行为冯开之赋",
+          "anchor": "b455",
+          "level": 2
+        },
+        {
+          "title": "闺情",
+          "anchor": "b456",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=158",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=158"
+    },
+    {
+      "chapterUid": 159,
+      "chapterIdx": 159,
+      "title": "华善述二首",
+      "level": 1,
+      "wordCount": 398,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "杂诗",
+          "anchor": "b457",
+          "level": 2
+        },
+        {
+          "title": "晚秋邹灵寿见过",
+          "anchor": "b458",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=159",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=159"
+    },
+    {
+      "chapterUid": 160,
+      "chapterIdx": 160,
+      "title": "唐文献一首",
+      "level": 1,
+      "wordCount": 199,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "拟青青园中葵",
+          "anchor": "b459",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=160",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=160"
+    },
+    {
+      "chapterUid": 161,
+      "chapterIdx": 161,
+      "title": "汤显祖四首",
+      "level": 1,
+      "wordCount": 536,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "听说迎春歌",
+          "anchor": "b460",
+          "level": 2
+        },
+        {
+          "title": "题东光驿壁，是刘侍御台绝命处",
+          "anchor": "b461",
+          "level": 2
+        },
+        {
+          "title": "偶作",
+          "anchor": "b462",
+          "level": 2
+        },
+        {
+          "title": "七夕醉答君东",
+          "anchor": "b463",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=161",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=161"
+    },
+    {
+      "chapterUid": 162,
+      "chapterIdx": 162,
+      "title": "林章二首",
+      "level": 1,
+      "wordCount": 274,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "酒舍",
+          "anchor": "b464",
+          "level": 2
+        },
+        {
+          "title": "少年行",
+          "anchor": "b465",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=162",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=162"
+    },
+    {
+      "chapterUid": 163,
+      "chapterIdx": 163,
+      "title": "董其昌二首",
+      "level": 1,
+      "wordCount": 243,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "自题秋山图",
+          "anchor": "b466",
+          "level": 2
+        },
+        {
+          "title": "画家霜景与烟景淆乱，余未有以易也。丁酉冬，燕山道上，乃始悟之，题诗驿楼",
+          "anchor": "b467",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=163",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=163"
+    },
+    {
+      "chapterUid": 164,
+      "chapterIdx": 164,
+      "title": "冯琦四首",
+      "level": 1,
+      "wordCount": 342,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "述怀",
+          "anchor": "b468",
+          "level": 2
+        },
+        {
+          "title": "题三娘子画像（三首选二）",
+          "anchor": "b469",
+          "level": 2
+        },
+        {
+          "title": "送公孝与下第东归（三首选一）",
+          "anchor": "b470",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=164",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=164"
+    },
+    {
+      "chapterUid": 165,
+      "chapterIdx": 165,
+      "title": "陈继儒二首",
+      "level": 1,
+      "wordCount": 348,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "赠山叟",
+          "anchor": "b471",
+          "level": 2
+        },
+        {
+          "title": "山中",
+          "anchor": "b472",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=165",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=165"
+    },
+    {
+      "chapterUid": 166,
+      "chapterIdx": 166,
+      "title": "袁宗道三首",
+      "level": 1,
+      "wordCount": 496,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "将抵都门",
+          "anchor": "b473",
+          "level": 2
+        },
+        {
+          "title": "赋得残月似新月",
+          "anchor": "b474",
+          "level": 2
+        },
+        {
+          "title": "同人读唐诗有感",
+          "anchor": "b475",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=166",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=166"
+    },
+    {
+      "chapterUid": 167,
+      "chapterIdx": 167,
+      "title": "徐熥四首",
+      "level": 1,
+      "wordCount": 526,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "女冠还俗",
+          "anchor": "b476",
+          "level": 2
+        },
+        {
+          "title": "暮春送周乔卿",
+          "anchor": "b477",
+          "level": 2
+        },
+        {
+          "title": "寄弟11",
+          "anchor": "b478",
+          "level": 2
+        },
+        {
+          "title": "陇西行",
+          "anchor": "b479",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=167",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=167"
+    },
+    {
+      "chapterUid": 168,
+      "chapterIdx": 168,
+      "title": "何白一首",
+      "level": 1,
+      "wordCount": 187,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "村翁行",
+          "anchor": "b480",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=168",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=168"
+    },
+    {
+      "chapterUid": 169,
+      "chapterIdx": 169,
+      "title": "归子慕二首",
+      "level": 1,
+      "wordCount": 344,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "暮春",
+          "anchor": "b481",
+          "level": 2
+        },
+        {
+          "title": "城北初夏",
+          "anchor": "b482",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=169",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=169"
+    },
+    {
+      "chapterUid": 170,
+      "chapterIdx": 170,
+      "title": "程嘉燧六首",
+      "level": 1,
+      "wordCount": 815,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "十六夜，登瓜洲城看月，怀旧寄所亲",
+          "anchor": "b483",
+          "level": 2
+        },
+        {
+          "title": "木末亭",
+          "anchor": "b484",
+          "level": 2
+        },
+        {
+          "title": "忆金陵二首",
+          "anchor": "b485",
+          "level": 2
+        },
+        {
+          "title": "山居秋怀（八首选一）",
+          "anchor": "b486",
+          "level": 2
+        },
+        {
+          "title": "书去年临别画疏林暮鸦与季康",
+          "anchor": "b487",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=170",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=170"
+    },
+    {
+      "chapterUid": 171,
+      "chapterIdx": 171,
+      "title": "袁宏道九首",
+      "level": 1,
+      "wordCount": 2184,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "横塘渡",
+          "anchor": "b488",
+          "level": 2
+        },
+        {
+          "title": "门有车马客行",
+          "anchor": "b489",
+          "level": 2
+        },
+        {
+          "title": "显灵宫集诸公，以城市山林为韵（四首选一）",
+          "anchor": "b490",
+          "level": 2
+        },
+        {
+          "title": "妾薄命",
+          "anchor": "b491",
+          "level": 2
+        },
+        {
+          "title": "听朱生说《水浒传》",
+          "anchor": "b492",
+          "level": 2
+        },
+        {
+          "title": "余凡两度阻雨冲霄观，俱为访龙湖师，戏题壁上（二首选一）",
+          "anchor": "b493",
+          "level": 2
+        },
+        {
+          "title": "竹枝词（十二首选二）",
+          "anchor": "b494",
+          "level": 2
+        },
+        {
+          "title": "宿朱仙镇14（四首选一）",
+          "anchor": "b495",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=171",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=171"
+    },
+    {
+      "chapterUid": 172,
+      "chapterIdx": 172,
+      "title": "俞彦二首",
+      "level": 1,
+      "wordCount": 258,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "卖儿谣",
+          "anchor": "b496",
+          "level": 2
+        },
+        {
+          "title": "自君之出矣",
+          "anchor": "b497",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=172",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=172"
+    },
+    {
+      "chapterUid": 173,
+      "chapterIdx": 173,
+      "title": "袁中道四首",
+      "level": 1,
+      "wordCount": 619,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "邺城道中（十首选一）",
+          "anchor": "b498",
+          "level": 2
+        },
+        {
+          "title": "入村",
+          "anchor": "b499",
+          "level": 2
+        },
+        {
+          "title": "枝江道中",
+          "anchor": "b500",
+          "level": 2
+        },
+        {
+          "title": "舟中杂咏",
+          "anchor": "b501",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=173",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=173"
+    },
+    {
+      "chapterUid": 174,
+      "chapterIdx": 174,
+      "title": "徐□三首",
+      "level": 1,
+      "wordCount": 352,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "宫人斜",
+          "anchor": "b502",
+          "level": 2
+        },
+        {
+          "title": "田园杂兴",
+          "anchor": "b503",
+          "level": 2
+        },
+        {
+          "title": "芦花",
+          "anchor": "b504",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=174",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=174"
+    },
+    {
+      "chapterUid": 175,
+      "chapterIdx": 175,
+      "title": "马任远一首",
+      "level": 1,
+      "wordCount": 96,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "抵苏州",
+          "anchor": "b505",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=175",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=175"
+    },
+    {
+      "chapterUid": 176,
+      "chapterIdx": 176,
+      "title": "宁祖武一首",
+      "level": 1,
+      "wordCount": 150,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "新安夜泊",
+          "anchor": "b506",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=176",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=176"
+    },
+    {
+      "chapterUid": 177,
+      "chapterIdx": 177,
+      "title": "沈野一首",
+      "level": 1,
+      "wordCount": 177,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "寄书曲",
+          "anchor": "b507",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=177",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=177"
+    },
+    {
+      "chapterUid": 178,
+      "chapterIdx": 178,
+      "title": "薄少君一首",
+      "level": 1,
+      "wordCount": 134,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "哭夫诗（一百首选一）",
+          "anchor": "b508",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=178",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=178"
+    },
+    {
+      "chapterUid": 179,
+      "chapterIdx": 179,
+      "title": "钟惺四首",
+      "level": 1,
+      "wordCount": 799,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "经观音岩",
+          "anchor": "b509",
+          "level": 2
+        },
+        {
+          "title": "九日携侄昭夏登雨花台",
+          "anchor": "b510",
+          "level": 2
+        },
+        {
+          "title": "秣陵桃叶歌并序（七首选一）",
+          "anchor": "b511",
+          "level": 2
+        },
+        {
+          "title": "夜归",
+          "anchor": "b512",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=179",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=179"
+    },
+    {
+      "chapterUid": 180,
+      "chapterIdx": 180,
+      "title": "冯梦龙一首",
+      "level": 1,
+      "wordCount": 284,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "冬日湖村即事",
+          "anchor": "b513",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=180",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=180"
+    },
+    {
+      "chapterUid": 181,
+      "chapterIdx": 181,
+      "title": "高出二首",
+      "level": 1,
+      "wordCount": 316,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "冬日漫兴",
+          "anchor": "b514",
+          "level": 2
+        },
+        {
+          "title": "后游亭山园同道岸",
+          "anchor": "b515",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=181",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=181"
+    },
+    {
+      "chapterUid": 182,
+      "chapterIdx": 182,
+      "title": "李流芳三首",
+      "level": 1,
+      "wordCount": 448,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "清渊逢乡人南还",
+          "anchor": "b516",
+          "level": 2
+        },
+        {
+          "title": "东阿道中",
+          "anchor": "b517",
+          "level": 2
+        },
+        {
+          "title": "无题",
+          "anchor": "b518",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=182",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=182"
+    },
+    {
+      "chapterUid": 183,
+      "chapterIdx": 183,
+      "title": "曹学佺三首",
+      "level": 1,
+      "wordCount": 430,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "城南古意",
+          "anchor": "b519",
+          "level": 2
+        },
+        {
+          "title": "秦淮秋怨",
+          "anchor": "b520",
+          "level": 2
+        },
+        {
+          "title": "新林浦",
+          "anchor": "b521",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=183",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=183"
+    },
+    {
+      "chapterUid": 184,
+      "chapterIdx": 184,
+      "title": "顾大章一首",
+      "level": 1,
+      "wordCount": 292,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "被逮道经故人里门",
+          "anchor": "b522",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=184",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=184"
+    },
+    {
+      "chapterUid": 185,
+      "chapterIdx": 185,
+      "title": "王象春一首",
+      "level": 1,
+      "wordCount": 312,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "书项王庙壁",
+          "anchor": "b523",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=185",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=185"
+    },
+    {
+      "chapterUid": 186,
+      "chapterIdx": 186,
+      "title": "吴兆三首",
+      "level": 1,
+      "wordCount": 315,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "西湖子夜歌（八首选二）",
+          "anchor": "b524",
+          "level": 2
+        },
+        {
+          "title": "贫居",
+          "anchor": "b525",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=186",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=186"
+    },
+    {
+      "chapterUid": 187,
+      "chapterIdx": 187,
+      "title": "何璧二首",
+      "level": 1,
+      "wordCount": 252,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "金陵寄沈千秋",
+          "anchor": "b526",
+          "level": 2
+        },
+        {
+          "title": "逢陈当时",
+          "anchor": "b527",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=187",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=187"
+    },
+    {
+      "chapterUid": 188,
+      "chapterIdx": 188,
+      "title": "方维仪一首",
+      "level": 1,
+      "wordCount": 131,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "出塞",
+          "anchor": "b528",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=188",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=188"
+    },
+    {
+      "chapterUid": 189,
+      "chapterIdx": 189,
+      "title": "谭元春五首",
+      "level": 1,
+      "wordCount": 456,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "得伯敬书",
+          "anchor": "b529",
+          "level": 2
+        },
+        {
+          "title": "过利西泰墓而吊之",
+          "anchor": "b530",
+          "level": 2
+        },
+        {
+          "title": "江行二首",
+          "anchor": "b531",
+          "level": 2
+        },
+        {
+          "title": "秋尽逢刘同人",
+          "anchor": "b532",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=189",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=189"
+    },
+    {
+      "chapterUid": 190,
+      "chapterIdx": 190,
+      "title": "瞿式耜一首",
+      "level": 1,
+      "wordCount": 271,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "狱中",
+          "anchor": "b533",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=190",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=190"
+    },
+    {
+      "chapterUid": 191,
+      "chapterIdx": 191,
+      "title": "李应升一首",
+      "level": 1,
+      "wordCount": 253,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "邹县道中口占",
+          "anchor": "b534",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=191",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=191"
+    },
+    {
+      "chapterUid": 192,
+      "chapterIdx": 192,
+      "title": "王彦泓三首",
+      "level": 1,
+      "wordCount": 517,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "过妇家感旧（二首选一）",
+          "anchor": "b535",
+          "level": 2
+        },
+        {
+          "title": "寒词（十六首选一）",
+          "anchor": "b536",
+          "level": 2
+        },
+        {
+          "title": "无题",
+          "anchor": "b537",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=192",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=192"
+    },
+    {
+      "chapterUid": 193,
+      "chapterIdx": 193,
+      "title": "李泰桢一首",
+      "level": 1,
+      "wordCount": 116,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "睡鸭",
+          "anchor": "b538",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=193",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=193"
+    },
+    {
+      "chapterUid": 194,
+      "chapterIdx": 194,
+      "title": "周应仪三首",
+      "level": 1,
+      "wordCount": 173,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "烂溪二首",
+          "anchor": "b539",
+          "level": 2
+        },
+        {
+          "title": "夏季风雨大作",
+          "anchor": "b540",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=194",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=194"
+    },
+    {
+      "chapterUid": 195,
+      "chapterIdx": 195,
+      "title": "施武二首",
+      "level": 1,
+      "wordCount": 189,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "永昌词",
+          "anchor": "b541",
+          "level": 2
+        },
+        {
+          "title": "卖雪词",
+          "anchor": "b542",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=195",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=195"
+    },
+    {
+      "chapterUid": 196,
+      "chapterIdx": 196,
+      "title": "邝露一首",
+      "level": 1,
+      "wordCount": 216,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "洞庭酒楼",
+          "anchor": "b543",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=196",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=196"
+    },
+    {
+      "chapterUid": 197,
+      "chapterIdx": 197,
+      "title": "黄淳耀一首",
+      "level": 1,
+      "wordCount": 178,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "田家",
+          "anchor": "b544",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=197",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=197"
+    },
+    {
+      "chapterUid": 198,
+      "chapterIdx": 198,
+      "title": "陆娟一首",
+      "level": 1,
+      "wordCount": 78,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "代父送人之新安",
+          "anchor": "b545",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=198",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=198"
+    },
+    {
+      "chapterUid": 199,
+      "chapterIdx": 199,
+      "title": "陈子龙七首",
+      "level": 1,
+      "wordCount": 902,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "小车行",
+          "anchor": "b546",
+          "level": 2
+        },
+        {
+          "title": "钱塘东望有感",
+          "anchor": "b547",
+          "level": 2
+        },
+        {
+          "title": "渡易水",
+          "anchor": "b548",
+          "level": 2
+        },
+        {
+          "title": "秋日杂感客吴中作十首（选二）",
+          "anchor": "b549",
+          "level": 2
+        },
+        {
+          "title": "重游弇园",
+          "anchor": "b550",
+          "level": 2
+        },
+        {
+          "title": "避地示胜时",
+          "anchor": "b551",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=199",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=199"
+    },
+    {
+      "chapterUid": 200,
+      "chapterIdx": 200,
+      "title": "张煌言三首",
+      "level": 1,
+      "wordCount": 512,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "生还（四首选一）",
+          "anchor": "b552",
+          "level": 2
+        },
+        {
+          "title": "追往（八首选一）",
+          "anchor": "b553",
+          "level": 2
+        },
+        {
+          "title": "将入武林（二首选一）",
+          "anchor": "b554",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=200",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=200"
+    },
+    {
+      "chapterUid": 201,
+      "chapterIdx": 201,
+      "title": "郑成功一首",
+      "level": 1,
+      "wordCount": 232,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "出师讨满夷，自瓜洲至金陵",
+          "anchor": "b555",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=201",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=201"
+    },
+    {
+      "chapterUid": 202,
+      "chapterIdx": 202,
+      "title": "夏完淳六首",
+      "level": 1,
+      "wordCount": 984,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "鱼服",
+          "anchor": "b556",
+          "level": 2
+        },
+        {
+          "title": "细林夜哭",
+          "anchor": "b557",
+          "level": 2
+        },
+        {
+          "title": "寄荆隐女兄",
+          "anchor": "b558",
+          "level": 2
+        },
+        {
+          "title": "即事（三首选一）",
+          "anchor": "b559",
+          "level": 2
+        },
+        {
+          "title": "精卫",
+          "anchor": "b560",
+          "level": 2
+        },
+        {
+          "title": "别云间",
+          "anchor": "b561",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=202",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=202"
+    },
+    {
+      "chapterUid": 204,
+      "chapterIdx": 203,
+      "title": "再版修订后记",
+      "level": 1,
+      "wordCount": 1504,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300047340&chapterUid=204",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=204"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 62,
+      "chapterTitle": "于谦五首",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300047340_62_2375-2785",
+          "range": "2375-2785",
+          "rangeStart": 2375,
+          "rangeEnd": 2785,
+          "markText": "村落甚荒凉，年年苦旱蝗￼。老翁佣纳债，稚子卖输粮￼。壁破风生屋，梁颓月堕床￼。那知牧民者￼，不肯报灾荒。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1729912632,
+          "createTimeFormatted": "2024-10-26 11:17:12",
+          "chapterUid": 62,
+          "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=62&rangeStart=2375&rangeEnd=2785",
+          "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=62&rangeStart=2375&rangeEnd=2785"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300047340_3_474-564",
+      "chapterUid": 3,
+      "range": "474-564",
+      "markText": "同时，元代诗歌本来已经朝着歌咏性情的方向发展，元末战乱又赋予其较为充实的社会内容，明诗接其馀绪，几乎就要大放异彩了，但是明初的封建专制扼杀了她再度辉煌的生机，并迫使其成为皇权的侍婢",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=3&rangeStart=474&rangeEnd=564",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=3&rangeStart=474&rangeEnd=564"
+    },
+    {
+      "bookmarkId": "3300047340_3_2901-2948",
+      "chapterUid": 3,
+      "range": "2901-2948",
+      "markText": "在元末为诗文还颇具性情的宋濂，一经被明太祖嘉许为“开国文臣之首”，便不能不舍己而从君之“道”。",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=3&rangeStart=2901&rangeEnd=2948",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=3&rangeStart=2901&rangeEnd=2948"
+    },
+    {
+      "bookmarkId": "3300047340_161_2467-2576",
+      "chapterUid": 161,
+      "range": "2467-2576",
+      "markText": "闻道辽阳生窜日，无人敢作送行诗。",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=161&rangeStart=2467&rangeEnd=2576",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=161&rangeStart=2467&rangeEnd=2576"
+    },
+    {
+      "bookmarkId": "3300047340_26_2800-3021",
+      "chapterUid": 26,
+      "range": "2800-3021",
+      "markText": "千花万芳委尘埃，只有荼蘼独自开。应是邻家更零落，过墙蝴蝶又飞来。",
+      "totalCount": 30,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=26&rangeStart=2800&rangeEnd=3021",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=26&rangeStart=2800&rangeEnd=3021"
+    },
+    {
+      "bookmarkId": "3300047340_187_1351-1668",
+      "chapterUid": 187,
+      "range": "1351-1668",
+      "markText": "士到出山谁不贱，术惟游世最难工。",
+      "totalCount": 30,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=187&rangeStart=1351&rangeEnd=1668",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=187&rangeStart=1351&rangeEnd=1668"
+    },
+    {
+      "bookmarkId": "3300047340_3_4474-4522",
+      "chapterUid": 3,
+      "range": "4474-4522",
+      "markText": "这是诗的堕落，连《四库全书总目提要》也不能不说“其弊也冗沓肤廓，万喙一音，形模徒具，兴象不存”。",
+      "totalCount": 28,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=3&rangeStart=4474&rangeEnd=4522",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=3&rangeStart=4474&rangeEnd=4522"
+    },
+    {
+      "bookmarkId": "3300047340_93_1934-2175",
+      "chapterUid": 93,
+      "range": "1934-2175",
+      "markText": "昨夜海棠初着雨，数朵轻盈娇欲语；佳人晓起出兰房，折来对镜比红妆。问郎“花好奴颜好”？郎道“不如花窈窕”。佳人见语发娇嗔：“不信死花胜活人！”将花揉碎掷郎前：“请郎今夜伴花眠！”",
+      "totalCount": 28,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=93&rangeStart=1934&rangeEnd=2175",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=93&rangeStart=1934&rangeEnd=2175"
+    },
+    {
+      "bookmarkId": "3300047340_3_1220-1274",
+      "chapterUid": 3,
+      "range": "1220-1274",
+      "markText": "历史却给了那时中国人一个新的教训：流氓习性深重的新天子并不是“泛爱众而亲仁”，更不守那“民无信不立”的儒训。",
+      "totalCount": 26,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=3&rangeStart=1220&rangeEnd=1274",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=3&rangeStart=1220&rangeEnd=1274"
+    },
+    {
+      "bookmarkId": "3300047340_16_1844-1855",
+      "chapterUid": 16,
+      "range": "1844-1855",
+      "markText": "天下书读尽，人间事不知",
+      "totalCount": 26,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=16&rangeStart=1844&rangeEnd=1855",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=16&rangeStart=1844&rangeEnd=1855"
+    },
+    {
+      "bookmarkId": "3300047340_62_2375-2785",
+      "chapterUid": 62,
+      "range": "2375-2785",
+      "markText": "村落甚荒凉，年年苦旱蝗。老翁佣纳债，稚子卖输粮。壁破风生屋，梁颓月堕床。那知牧民者，不肯报灾荒。",
+      "totalCount": 26,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=62&rangeStart=2375&rangeEnd=2785",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=62&rangeStart=2375&rangeEnd=2785"
+    },
+    {
+      "bookmarkId": "3300047340_99_1454-1553",
+      "chapterUid": 99,
+      "range": "1454-1553",
+      "markText": "河水淲淲，舟子摇橹；东方渐明，我不得渡。",
+      "totalCount": 24,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=99&rangeStart=1454&rangeEnd=1553",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=99&rangeStart=1454&rangeEnd=1553"
+    },
+    {
+      "bookmarkId": "3300047340_201_853-1318",
+      "chapterUid": 201,
+      "range": "853-1318",
+      "markText": "缟素临江誓灭胡，雄师十万气吞吴。试看天堑投鞭渡，不信中原不姓朱。",
+      "totalCount": 24,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=201&rangeStart=853&rangeEnd=1318",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=201&rangeStart=853&rangeEnd=1318"
+    },
+    {
+      "bookmarkId": "3300047340_19_928-1045",
+      "chapterUid": 19,
+      "range": "928-1045",
+      "markText": "野阔天斜倚，江清月倒悬。",
+      "totalCount": 20,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=19&rangeStart=928&rangeEnd=1045",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=19&rangeStart=928&rangeEnd=1045"
+    },
+    {
+      "bookmarkId": "3300047340_33_1670-1871",
+      "chapterUid": 33,
+      "range": "1670-1871",
+      "markText": "虎质斑斑卧石苔，翻盆黠鼠亦惊猜。日高花影浑如醉，应吃东家薄荷来。",
+      "totalCount": 20,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=33&rangeStart=1670&rangeEnd=1871",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=33&rangeStart=1670&rangeEnd=1871"
+    },
+    {
+      "bookmarkId": "3300047340_50_1366-1478",
+      "chapterUid": 50,
+      "range": "1366-1478",
+      "markText": "今人未识昆仑派，却笑黄河是浊流。",
+      "totalCount": 20,
+      "appLink": "weread://bestbookmark?bookId=3300047340&chapterUid=50&rangeStart=1366&rangeEnd=1478",
+      "webLink": "https://weread.qq.com/web/reader/979329e0813ab78feg010cc7?chapterUid=50&rangeStart=1366&rangeEnd=1478"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

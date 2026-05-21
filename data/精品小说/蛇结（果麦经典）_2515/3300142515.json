@@ -1,0 +1,576 @@
+{
+  "meta": {
+    "bookId": "3300142515",
+    "title": "蛇结（果麦经典）",
+    "author": "[法]弗朗索瓦·莫里亚克",
+    "translator": "顾琪静",
+    "cover": "https://cdn.weread.qq.com/weread/cover/45/cpplatform_dnv4tispbha7vrecp71efm/t6_cpplatform_dnv4tispbha7vrecp71efm1745489552.jpg",
+    "intro": "诺奖得主浸透人性毒液的惊世之作，法国文学殿堂级心理剖析范本。1952年诺贝尔文学奖颁奖词称其“以精神洞察的深度和艺术强度，揭示了人类生活的戏剧”。\n入选法国伽利玛出版社“七星文库”文学珍本系列及巴黎高师哲学系必读书单；加缪评价“他让罪孽散发出摄人心魄的诗意”（伽利玛出版社《加缪全集》第四卷），三岛由纪夫在其启发下写出《爱的饥渴》。\n以手术刀般的笔锋剖解了爱情、婚姻、亲情中交织而成的致命心结，写尽人性暗河里的仇恨与救赎。\n律师路易出身低微，吝啬财富而又恶毒冷血，将自己的一生困在猜忌与报复的牢笼中。临老之际，他写下一封控诉妻儿的遗书，在信中他倾泻怨念，控诉妻子过往的情史，斥责她对自己的冷淡，憎恶子女觊觎他的遗产。他精心筹谋，百般算计，计划将财产交给私生子来报复家人。然而，一场意外病危让他的控诉和仇恨化为乌有，遗书遂变为自白和忏悔。死亡到来之际，他直面被怨恨豢养的扭曲灵魂，在爱与信仰中解开缠绕一生的“蛇结”。",
+    "category": "精品小说-社会小说",
+    "publisher": "四川文艺出版社",
+    "publishTime": "2025-04-01 00:00:00",
+    "isbn": "9787541172229",
+    "wordCount": 0,
+    "newRating": 888,
+    "newRatingCount": 6723,
+    "newRatingDetail": {
+      "good": 6131,
+      "fair": 500,
+      "poor": 92,
+      "recent": 477,
+      "deepV": 2438,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=3300142515",
+    "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf",
+    "lastSync": "2026-05-21T11:50:35Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 134,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "第一部分",
+      "level": 1,
+      "wordCount": 3994,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "2",
+      "level": 2,
+      "wordCount": 4761,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "3",
+      "level": 2,
+      "wordCount": 6169,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "4",
+      "level": 2,
+      "wordCount": 5349,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "5",
+      "level": 2,
+      "wordCount": 3700,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "6",
+      "level": 2,
+      "wordCount": 3145,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "7",
+      "level": 2,
+      "wordCount": 7808,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "8",
+      "level": 2,
+      "wordCount": 4738,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "9",
+      "level": 2,
+      "wordCount": 3868,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "10",
+      "level": 2,
+      "wordCount": 4360,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "11",
+      "level": 2,
+      "wordCount": 1843,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第二部分",
+      "level": 1,
+      "wordCount": 6942,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "13",
+      "level": 2,
+      "wordCount": 3804,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "14",
+      "level": 2,
+      "wordCount": 3089,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "15",
+      "level": 2,
+      "wordCount": 3042,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "16",
+      "level": 2,
+      "wordCount": 3240,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "17",
+      "level": 2,
+      "wordCount": 10027,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "18",
+      "level": 2,
+      "wordCount": 5783,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "19",
+      "level": 2,
+      "wordCount": 3870,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "20",
+      "level": 2,
+      "wordCount": 2747,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "于贝尔写给热娜维耶芙的信",
+      "level": 1,
+      "wordCount": 3276,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "雅妮娜写给于贝尔的信",
+      "level": 1,
+      "wordCount": 1444,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300142515&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=24"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 3,
+      "chapterTitle": "第一部分",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300142515_3_1927-2024",
+          "range": "1927-2024",
+          "rangeStart": 1927,
+          "rangeEnd": 2024,
+          "markText": "这世上自然不乏和睦的家庭，但也有无数水火不容的夫妻，他们每日围着同一张桌子吃饭，在同一处盥洗，甚至同床异梦。即便这样也鲜少有人离婚，真是怪事！明明相看两生厌，却还要生活在同一个屋檐下，避无可避…",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1748478093,
+          "createTimeFormatted": "2025-05-29 08:21:33",
+          "chapterUid": 3,
+          "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=3&rangeStart=1927&rangeEnd=2024",
+          "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=3&rangeStart=1927&rangeEnd=2024"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300142515_3_1190-1211",
+      "chapterUid": 3,
+      "range": "1190-1211",
+      "markText": "长久以来，我觉得恨意是我身上最澎湃的情感。",
+      "totalCount": 10386,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=3&rangeStart=1190&rangeEnd=1211",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=3&rangeStart=1190&rangeEnd=1211"
+    },
+    {
+      "bookmarkId": "3300142515_3_5246-5308",
+      "chapterUid": 3,
+      "range": "5246-5308",
+      "markText": "这是最后一次尝试。也许我死了比活着更能牵动你的心，至少刚死的那几个星期，在我尸骨未寒之际应是如此，我将在你心里占据一席之地。",
+      "totalCount": 8520,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=3&rangeStart=5246&rangeEnd=5308",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=3&rangeStart=5246&rangeEnd=5308"
+    },
+    {
+      "bookmarkId": "3300142515_4_1833-1906",
+      "chapterUid": 4,
+      "range": "1833-1906",
+      "markText": "你烦了吗？我很怕让你厌烦。可这封信，请你一字不漏地看完。我可以保证，只拣紧要的事来写。正是这些你不曾了解或者早已忘却的事件，酿就了我们生活的悲剧。",
+      "totalCount": 8034,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=4&rangeStart=1833&rangeEnd=1906",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=4&rangeStart=1833&rangeEnd=1906"
+    },
+    {
+      "bookmarkId": "3300142515_3_1927-2024",
+      "chapterUid": 3,
+      "range": "1927-2024",
+      "markText": "这世上自然不乏和睦的家庭，但也有无数水火不容的夫妻，他们每日围着同一张桌子吃饭，在同一处盥洗，甚至同床异梦。即便这样也鲜少有人离婚，真是怪事！明明相看两生厌，却还要生活在同一个屋檐下，避无可避…",
+      "totalCount": 7497,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=3&rangeStart=1927&rangeEnd=2024",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=3&rangeStart=1927&rangeEnd=2024"
+    },
+    {
+      "bookmarkId": "3300142515_4_3669-3737",
+      "chapterUid": 4,
+      "range": "3669-3737",
+      "markText": "她们越是厌恶我，我就越变本加厉地展露自己的丑恶。我的青春不过是一场悠长的自杀。为了遮掩不讨喜的天性，我便迫不及待地刻意做些令人生厌的事。",
+      "totalCount": 6944,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=4&rangeStart=3669&rangeEnd=3737",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=4&rangeStart=3669&rangeEnd=3737"
+    },
+    {
+      "bookmarkId": "3300142515_6_3614-3680",
+      "chapterUid": 6,
+      "range": "3614-3680",
+      "markText": "这样可怕的想法令我毛骨悚然。我思忖：全都是假的……她在骗我。我并未得到救赎。我何来的自信觉得有个少女会爱上我呢？我是个没人爱的人啊！",
+      "totalCount": 6876,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=6&rangeStart=3614&rangeEnd=3680",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=6&rangeStart=3614&rangeEnd=3680"
+    },
+    {
+      "bookmarkId": "3300142515_7_1255-1310",
+      "chapterUid": 7,
+      "range": "1255-1310",
+      "markText": "接下来的几年里，你就在接二连三的怀胎、出岔和分娩中度过。这也让我有了疏远你的充分借口。我暗中堕入了放荡的生活。",
+      "totalCount": 6810,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=7&rangeStart=1255&rangeEnd=1310",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=7&rangeStart=1255&rangeEnd=1310"
+    },
+    {
+      "bookmarkId": "3300142515_3_2144-2177",
+      "chapterUid": 3,
+      "range": "2144-2177",
+      "markText": "这些年来，我从未送你任何形式的生日礼物，并非我忘了，只是为了报复。",
+      "totalCount": 6494,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=3&rangeStart=2144&rangeEnd=2177",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=3&rangeStart=2144&rangeEnd=2177"
+    },
+    {
+      "bookmarkId": "3300142515_3_1668-1718",
+      "chapterUid": 3,
+      "range": "1668-1718",
+      "markText": "我的一生在牺牲中度过，这些回忆侵蚀着我。经年累月之下，心中的怨怼早已破土而出，成了一株遮天蔽日的树。",
+      "totalCount": 6344,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=3&rangeStart=1668&rangeEnd=1718",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=3&rangeStart=1668&rangeEnd=1718"
+    },
+    {
+      "bookmarkId": "3300142515_9_3774-3852",
+      "chapterUid": 9,
+      "range": "3774-3852",
+      "markText": "尤其……一旦分居，我就得退还你嫁妆中苏伊士运河公司的股权，可我早已习惯将它们当作私产。一想到得放弃这些股权，我就坐立难安（还没算上你父亲给我们的年金……）。",
+      "totalCount": 5720,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=9&rangeStart=3774&rangeEnd=3852",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=9&rangeStart=3774&rangeEnd=3852"
+    },
+    {
+      "bookmarkId": "3300142515_3_4673-4724",
+      "chapterUid": 3,
+      "range": "4673-4724",
+      "markText": "即便我们最紧密结合的时刻，他也要横插一脚，如影随形。那一晚，你叫了他的名字，还记得吗？可你仍不餍足……",
+      "totalCount": 5516,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=3&rangeStart=4673&rangeEnd=4724",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=3&rangeStart=4673&rangeEnd=4724"
+    },
+    {
+      "bookmarkId": "3300142515_3_3072-3119",
+      "chapterUid": 3,
+      "range": "3072-3119",
+      "markText": "这位任劳任怨的律师，明明掌握着家里的财政大权，轻易得罪不得，却被你们孤立在另一个世界饱受折磨。",
+      "totalCount": 5295,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=3&rangeStart=3072&rangeEnd=3119",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=3&rangeStart=3072&rangeEnd=3119"
+    },
+    {
+      "bookmarkId": "3300142515_5_3164-3209",
+      "chapterUid": 5,
+      "range": "3164-3209",
+      "markText": "有一个夜晚，在我生命中极为重要，那夜你对我说：“太神奇了！一个男孩的睫毛竟然可以那么长！”",
+      "totalCount": 5151,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=5&rangeStart=3164&rangeEnd=3209",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=5&rangeStart=3164&rangeEnd=3209"
+    },
+    {
+      "bookmarkId": "3300142515_8_2260-2313",
+      "chapterUid": 8,
+      "range": "2260-2313",
+      "markText": "怀抱自信不是独自一人能达成的事。我们的能力需要有人来见证，得有人计数，有人打分，有人在领奖那天为我们加冕。",
+      "totalCount": 5120,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=8&rangeStart=2260&rangeEnd=2313",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=8&rangeStart=2260&rangeEnd=2313"
+    },
+    {
+      "bookmarkId": "3300142515_5_1787-1803",
+      "chapterUid": 5,
+      "range": "1787-1803",
+      "markText": "我最初恋慕的是你母亲，而不是你。",
+      "totalCount": 5110,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=5&rangeStart=1787&rangeEnd=1803",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=5&rangeStart=1787&rangeEnd=1803"
+    },
+    {
+      "bookmarkId": "3300142515_6_5083-5145",
+      "chapterUid": 6,
+      "range": "5083-5145",
+      "markText": "他不会给你带来幸福，是因为仪表不凡、风度翩翩、惹人爱怜。这意味着，我能令你满意，是出于我的面目可憎、尖酸刻薄，让人避而远之。",
+      "totalCount": 4741,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=6&rangeStart=5083&rangeEnd=5145",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=6&rangeStart=5083&rangeEnd=5145"
+    },
+    {
+      "bookmarkId": "3300142515_4_4435-4483",
+      "chapterUid": 4,
+      "range": "4435-4483",
+      "markText": "时至今日我可以确信，明知徒劳，当年的自己仍那么不遗余力地追求这个女孩，不过是为了激起母亲的忧思。",
+      "totalCount": 4726,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=4&rangeStart=4435&rangeEnd=4483",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=4&rangeStart=4435&rangeEnd=4483"
+    },
+    {
+      "bookmarkId": "3300142515_3_3310-3328",
+      "chapterUid": 3,
+      "range": "3310-3328",
+      "markText": "该搁笔了……无人点灯，亦无人来关窗。",
+      "totalCount": 4698,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=3&rangeStart=3310&rangeEnd=3328",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=3&rangeStart=3310&rangeEnd=3328"
+    },
+    {
+      "bookmarkId": "3300142515_4_2627-2661",
+      "chapterUid": 4,
+      "range": "2627-2661",
+      "markText": "可悲的母亲更令我郁结，她好像对此毫不在意，我的前途在她心里无足轻重。",
+      "totalCount": 4564,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=4&rangeStart=2627&rangeEnd=2661",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=4&rangeStart=2627&rangeEnd=2661"
+    },
+    {
+      "bookmarkId": "3300142515_7_1548-1574",
+      "chapterUid": 7,
+      "range": "1548-1574",
+      "markText": "让你受孕，这是你对我的诉求，完成后我便能功成身退了。",
+      "totalCount": 4544,
+      "appLink": "weread://bestbookmark?bookId=3300142515&chapterUid=7&rangeStart=1548&rangeEnd=1574",
+      "webLink": "https://weread.qq.com/web/reader/9eb327e0813ab9e2bg015edf?chapterUid=7&rangeStart=1548&rangeEnd=1574"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

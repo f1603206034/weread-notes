@@ -1,0 +1,3486 @@
+{
+  "meta": {
+    "bookId": "912418",
+    "title": "哈佛中国史（套装全6册）",
+    "author": "[加]卜正民 [美]陆威仪 [美]罗威廉 [德]迪特·库恩",
+    "translator": "王兴亮,张晓东,冯世明等",
+    "cover": "https://cdn.weread.qq.com/weread/cover/13/yuewen_912418/t6_yuewen_9124181705905785.jpg",
+    "intro": "本《哈佛中国史》六卷本丛书，由国际著名汉学家卜正民教授领衔主编，集结罗威廉、陆威仪和迪特·库恩三位知名汉学家，萃集半个世纪以来西方全新的中国史研究成果，以全球史视野、多学科学识颠覆传统中国史叙述模式，倾十年之功写就，是继《剑桥中国史》之后非常能代表西方半个世纪以来中国史研究全新成果和水准的多卷本中国通史。",
+    "category": "历史-中国古代",
+    "publisher": "中信出版集团",
+    "publishTime": "2016-10-01 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 819,
+    "newRatingCount": 2684,
+    "newRatingDetail": {
+      "good": 2198,
+      "fair": 372,
+      "poor": 114,
+      "recent": 4,
+      "deepV": 78,
+      "myRating": "",
+      "title": "脍炙人口"
+    },
+    "appLink": "weread://reading?bId=912418",
+    "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19",
+    "lastSync": "2026-05-21T11:49:16Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 4,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=1"
+    },
+    {
+      "chapterUid": 190,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 141,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=190",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=190"
+    },
+    {
+      "chapterUid": 191,
+      "chapterIdx": 3,
+      "title": "哈佛中国史1·早期中华帝国：秦与汉",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=191",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=191"
+    },
+    {
+      "chapterUid": 192,
+      "chapterIdx": 4,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 110,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=192",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=192"
+    },
+    {
+      "chapterUid": 193,
+      "chapterIdx": 5,
+      "title": "推荐序",
+      "level": 2,
+      "wordCount": 11929,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=193",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=193"
+    },
+    {
+      "chapterUid": 194,
+      "chapterIdx": 6,
+      "title": "中文版总序",
+      "level": 2,
+      "wordCount": 2097,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=194",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=194"
+    },
+    {
+      "chapterUid": 195,
+      "chapterIdx": 7,
+      "title": "导言",
+      "level": 2,
+      "wordCount": 2734,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=195",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=195"
+    },
+    {
+      "chapterUid": 196,
+      "chapterIdx": 8,
+      "title": "第1章 帝国版图",
+      "level": 2,
+      "wordCount": 15633,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "早期中华帝国的区域",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        },
+        {
+          "title": "区域和风俗",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "秦和统一进程中的地理局限（前897——前202年）",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        },
+        {
+          "title": "对地方势力的压制（前202——前87年）",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        },
+        {
+          "title": "地主所有制和地方主义的复兴（前87—88年）",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        },
+        {
+          "title": "与世隔绝的东汉（25—168年）",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        },
+        {
+          "title": "军阀和国家的解体（169—220年）",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=196",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=196"
+    },
+    {
+      "chapterUid": 197,
+      "chapterIdx": 9,
+      "title": "第2章 一个备战中的国家",
+      "level": 2,
+      "wordCount": 12626,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "独裁者的出现",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        },
+        {
+          "title": "秦的家国和“天下”",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "《商君书》和秦国的困境",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=197",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=197"
+    },
+    {
+      "chapterUid": 198,
+      "chapterIdx": 10,
+      "title": "第3章 矛盾重重的帝国",
+      "level": 2,
+      "wordCount": 14890,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "秦始皇的集权",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        },
+        {
+          "title": "秦的继承者和敌人：汉",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        },
+        {
+          "title": "秦的败亡及其后世之谜",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=198",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=198"
+    },
+    {
+      "chapterUid": 199,
+      "chapterIdx": 11,
+      "title": "第4章 帝国的城市",
+      "level": 2,
+      "wordCount": 16942,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "诸侯列国及其早期帝国的城市",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "帝国都城的创设发明",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=199",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=199"
+    },
+    {
+      "chapterUid": 200,
+      "chapterIdx": 12,
+      "title": "第5章 农村社会",
+      "level": 2,
+      "wordCount": 16194,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "铁器、灌溉以及规模经济",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "村庄和乡野",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        },
+        {
+          "title": "豪强大族",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=200",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=200"
+    },
+    {
+      "chapterUid": 201,
+      "chapterIdx": 13,
+      "title": "第6章 外部世界",
+      "level": 2,
+      "wordCount": 16416,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "游牧民族和匈奴",
+          "anchor": "sigil_toc_id_19",
+          "level": 3
+        },
+        {
+          "title": "边防军队",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "西域",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        },
+        {
+          "title": "羌和乌桓",
+          "anchor": "sigil_toc_id_22",
+          "level": 3
+        },
+        {
+          "title": "周边定居民族和对异域的崇拜",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=201",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=201"
+    },
+    {
+      "chapterUid": 202,
+      "chapterIdx": 14,
+      "title": "第7章 宗族",
+      "level": 2,
+      "wordCount": 15160,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "宗族和家庭中的性别",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "性别和权力的空间结构",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        },
+        {
+          "title": "早期帝国生活中的儿童",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        },
+        {
+          "title": "成年女性和成年男子",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        },
+        {
+          "title": "老人和先祖",
+          "anchor": "sigil_toc_id_28",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=202",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=202"
+    },
+    {
+      "chapterUid": 203,
+      "chapterIdx": 15,
+      "title": "第8章 宗教",
+      "level": 2,
+      "wordCount": 17076,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "联结点",
+          "anchor": "sigil_toc_id_29",
+          "level": 3
+        },
+        {
+          "title": "国家信仰",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        },
+        {
+          "title": "对死者的祭奠",
+          "anchor": "sigil_toc_id_31",
+          "level": 3
+        },
+        {
+          "title": "地方信仰",
+          "anchor": "sigil_toc_id_32",
+          "level": 3
+        },
+        {
+          "title": "有组织的宗教运动",
+          "anchor": "sigil_toc_id_33",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=203",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=203"
+    },
+    {
+      "chapterUid": 204,
+      "chapterIdx": 16,
+      "title": "第9章 文学",
+      "level": 2,
+      "wordCount": 14073,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“道”的竞争派别",
+          "anchor": "sigil_toc_id_34",
+          "level": 3
+        },
+        {
+          "title": "经与传",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        },
+        {
+          "title": "百科全书式的作品",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        },
+        {
+          "title": "史学著述",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        },
+        {
+          "title": "诗赋",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "儒家著作",
+          "anchor": "sigil_toc_id_39",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=204",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=204"
+    },
+    {
+      "chapterUid": 205,
+      "chapterIdx": 17,
+      "title": "第10章 法律",
+      "level": 2,
+      "wordCount": 18766,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "法律和宗教信仰",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        },
+        {
+          "title": "法律和行政管理",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        },
+        {
+          "title": "法律和语言",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        },
+        {
+          "title": "法律和刑罚",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        },
+        {
+          "title": "法律和调查",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        },
+        {
+          "title": "法律和劳役",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=205",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=205"
+    },
+    {
+      "chapterUid": 206,
+      "chapterIdx": 18,
+      "title": "结语",
+      "level": 2,
+      "wordCount": 6412,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=206",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=206"
+    },
+    {
+      "chapterUid": 207,
+      "chapterIdx": 19,
+      "title": "致谢",
+      "level": 2,
+      "wordCount": 230,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=207",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=207"
+    },
+    {
+      "chapterUid": 208,
+      "chapterIdx": 20,
+      "title": "年代及说明",
+      "level": 2,
+      "wordCount": 979,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=208",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=208"
+    },
+    {
+      "chapterUid": 209,
+      "chapterIdx": 21,
+      "title": "参考文献",
+      "level": 2,
+      "wordCount": 5,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=209",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=209"
+    },
+    {
+      "chapterUid": 210,
+      "chapterIdx": 22,
+      "title": "哈佛中国史2·分裂的帝国：南北朝",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=210",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=210"
+    },
+    {
+      "chapterUid": 211,
+      "chapterIdx": 23,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 108,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=211",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=211"
+    },
+    {
+      "chapterUid": 212,
+      "chapterIdx": 24,
+      "title": "推荐序",
+      "level": 2,
+      "wordCount": 11929,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=212",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=212"
+    },
+    {
+      "chapterUid": 213,
+      "chapterIdx": 25,
+      "title": "中文版总序",
+      "level": 2,
+      "wordCount": 2097,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=213",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=213"
+    },
+    {
+      "chapterUid": 214,
+      "chapterIdx": 26,
+      "title": "导言",
+      "level": 2,
+      "wordCount": 3043,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=214",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=214"
+    },
+    {
+      "chapterUid": 215,
+      "chapterIdx": 27,
+      "title": "第1章 南北中国的地理",
+      "level": 2,
+      "wordCount": 12784,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "农业与治水",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        },
+        {
+          "title": "山脉与移民",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "书写边缘",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "画家、隐士和圣地",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        },
+        {
+          "title": "精英地域意识的诞生",
+          "anchor": "sigil_toc_id_50",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=215",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=215"
+    },
+    {
+      "chapterUid": 216,
+      "chapterIdx": 28,
+      "title": "第2章 世家大族的兴起",
+      "level": 2,
+      "wordCount": 16418,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "世家大族对地位的追逐",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        },
+        {
+          "title": "汉朝的崩溃与三国的兴起",
+          "anchor": "sigil_toc_id_52",
+          "level": 3
+        },
+        {
+          "title": "人性识鉴及如何获取官职",
+          "anchor": "sigil_toc_id_53",
+          "level": 3
+        },
+        {
+          "title": "精英的清谈与隐逸",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        },
+        {
+          "title": "世家大族的黄金时代",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=216",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=216"
+    },
+    {
+      "chapterUid": 217,
+      "chapterIdx": 29,
+      "title": "第3章 军事王朝",
+      "level": 2,
+      "wordCount": 17575,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "军事王朝的起源",
+          "anchor": "sigil_toc_id_56",
+          "level": 3
+        },
+        {
+          "title": "南方军事王朝的统治",
+          "anchor": "sigil_toc_id_57",
+          "level": 3
+        },
+        {
+          "title": "北方的军事王朝体制",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=217",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=217"
+    },
+    {
+      "chapterUid": 218,
+      "chapterIdx": 30,
+      "title": "第4章 城市的变化",
+      "level": 2,
+      "wordCount": 17027,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "地方城市与风俗",
+          "anchor": "sigil_toc_id_59",
+          "level": 3
+        },
+        {
+          "title": "城市景观、别墅和园林",
+          "anchor": "sigil_toc_id_60",
+          "level": 3
+        },
+        {
+          "title": "作为半公共空间的佛寺",
+          "anchor": "sigil_toc_id_61",
+          "level": 3
+        },
+        {
+          "title": "城市经济",
+          "anchor": "sigil_toc_id_62",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=218",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=218"
+    },
+    {
+      "chapterUid": 219,
+      "chapterIdx": 31,
+      "title": "第5章 乡村生活",
+      "level": 2,
+      "wordCount": 15726,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "新型农作物和农业技术",
+          "anchor": "sigil_toc_id_63",
+          "level": 3
+        },
+        {
+          "title": "南北方家庭的社会结构",
+          "anchor": "sigil_toc_id_64",
+          "level": 3
+        },
+        {
+          "title": "国有土地",
+          "anchor": "sigil_toc_id_65",
+          "level": 3
+        },
+        {
+          "title": "关于乡村生活的作品",
+          "anchor": "sigil_toc_id_66",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=219",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=219"
+    },
+    {
+      "chapterUid": 220,
+      "chapterIdx": 32,
+      "title": "第6章 中国与外部世界",
+      "level": 2,
+      "wordCount": 17210,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "中国北方的游牧民族",
+          "anchor": "sigil_toc_id_67",
+          "level": 3
+        },
+        {
+          "title": "定居的邻邦",
+          "anchor": "sigil_toc_id_68",
+          "level": 3
+        },
+        {
+          "title": "贸易与佛教",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        },
+        {
+          "title": "在中国的外国人",
+          "anchor": "sigil_toc_id_70",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=220",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=220"
+    },
+    {
+      "chapterUid": 221,
+      "chapterIdx": 33,
+      "title": "第7章 重新定义亲属关系",
+      "level": 2,
+      "wordCount": 16358,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "墓地与节日",
+          "anchor": "sigil_toc_id_71",
+          "level": 3
+        },
+        {
+          "title": "书写血统",
+          "anchor": "sigil_toc_id_72",
+          "level": 3
+        },
+        {
+          "title": "亲戚关系与佛教",
+          "anchor": "sigil_toc_id_73",
+          "level": 3
+        },
+        {
+          "title": "女性的新角色",
+          "anchor": "sigil_toc_id_74",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=221",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=221"
+    },
+    {
+      "chapterUid": 222,
+      "chapterIdx": 34,
+      "title": "第8章 道教与佛教",
+      "level": 2,
+      "wordCount": 16996,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "制度化的道教",
+          "anchor": "sigil_toc_id_75",
+          "level": 3
+        },
+        {
+          "title": "制度化的佛教",
+          "anchor": "sigil_toc_id_76",
+          "level": 3
+        },
+        {
+          "title": "道教与佛教之间的叠加与借用",
+          "anchor": "sigil_toc_id_77",
+          "level": 3
+        },
+        {
+          "title": "驯服荒野",
+          "anchor": "sigil_toc_id_78",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=222",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=222"
+    },
+    {
+      "chapterUid": 223,
+      "chapterIdx": 35,
+      "title": "第9章 书写",
+      "level": 2,
+      "wordCount": 18201,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "探索神秘",
+          "anchor": "sigil_toc_id_79",
+          "level": 3
+        },
+        {
+          "title": "抒情诗",
+          "anchor": "sigil_toc_id_80",
+          "level": 3
+        },
+        {
+          "title": "文学理论",
+          "anchor": "sigil_toc_id_81",
+          "level": 3
+        },
+        {
+          "title": "书法",
+          "anchor": "sigil_toc_id_82",
+          "level": 3
+        },
+        {
+          "title": "叙述文",
+          "anchor": "sigil_toc_id_83",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=223",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=223"
+    },
+    {
+      "chapterUid": 224,
+      "chapterIdx": 36,
+      "title": "结语",
+      "level": 2,
+      "wordCount": 6268,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=224",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=224"
+    },
+    {
+      "chapterUid": 225,
+      "chapterIdx": 37,
+      "title": "致谢",
+      "level": 2,
+      "wordCount": 392,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=225",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=225"
+    },
+    {
+      "chapterUid": 226,
+      "chapterIdx": 38,
+      "title": "年表和朝代",
+      "level": 2,
+      "wordCount": 1213,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=226",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=226"
+    },
+    {
+      "chapterUid": 227,
+      "chapterIdx": 39,
+      "title": "参考文献",
+      "level": 2,
+      "wordCount": 5,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=227",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=227"
+    },
+    {
+      "chapterUid": 228,
+      "chapterIdx": 40,
+      "title": "哈佛中国史3·世界性的帝国：唐朝",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=228",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=228"
+    },
+    {
+      "chapterUid": 229,
+      "chapterIdx": 41,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 112,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=229",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=229"
+    },
+    {
+      "chapterUid": 230,
+      "chapterIdx": 42,
+      "title": "推荐序",
+      "level": 2,
+      "wordCount": 11929,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=230",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=230"
+    },
+    {
+      "chapterUid": 231,
+      "chapterIdx": 43,
+      "title": "中文版总序",
+      "level": 2,
+      "wordCount": 2097,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=231",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=231"
+    },
+    {
+      "chapterUid": 232,
+      "chapterIdx": 44,
+      "title": "导言",
+      "level": 2,
+      "wordCount": 2285,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=232",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=232"
+    },
+    {
+      "chapterUid": 233,
+      "chapterIdx": 45,
+      "title": "第1章 帝国的地理环境",
+      "level": 2,
+      "wordCount": 12720,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "中国古代的心脏地带——关中",
+          "anchor": "sigil_toc_id_84",
+          "level": 3
+        },
+        {
+          "title": "东北部、中原和四川",
+          "anchor": "sigil_toc_id_85",
+          "level": 3
+        },
+        {
+          "title": "南方",
+          "anchor": "sigil_toc_id_86",
+          "level": 3
+        },
+        {
+          "title": "漕运",
+          "anchor": "sigil_toc_id_87",
+          "level": 3
+        },
+        {
+          "title": "“内部”领域与“外部”领域",
+          "anchor": "sigil_toc_id_88",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=233",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=233"
+    },
+    {
+      "chapterUid": 234,
+      "chapterIdx": 46,
+      "title": "第2章 从开国到内乱",
+      "level": 2,
+      "wordCount": 15891,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "唐帝国的巩固",
+          "anchor": "sigil_toc_id_89",
+          "level": 3
+        },
+        {
+          "title": "玄宗皇帝的统治和“安史之乱”",
+          "anchor": "sigil_toc_id_90",
+          "level": 3
+        },
+        {
+          "title": "唐朝军事制度",
+          "anchor": "sigil_toc_id_91",
+          "level": 3
+        },
+        {
+          "title": "中国的中世纪“贵族”",
+          "anchor": "sigil_toc_id_92",
+          "level": 3
+        },
+        {
+          "title": "唐朝法律",
+          "anchor": "sigil_toc_id_93",
+          "level": 3
+        },
+        {
+          "title": "土地所有制与赋税",
+          "anchor": "sigil_toc_id_94",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=234",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=234"
+    },
+    {
+      "chapterUid": 235,
+      "chapterIdx": 47,
+      "title": "第3章 藩镇与专使",
+      "level": 2,
+      "wordCount": 16277,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "地方与中央的权力博弈",
+          "anchor": "sigil_toc_id_95",
+          "level": 3
+        },
+        {
+          "title": "党争",
+          "anchor": "sigil_toc_id_96",
+          "level": 3
+        },
+        {
+          "title": "地方权力的多元化",
+          "anchor": "sigil_toc_id_97",
+          "level": 3
+        },
+        {
+          "title": "军事地方主义和新的政治角色",
+          "anchor": "sigil_toc_id_98",
+          "level": 3
+        },
+        {
+          "title": "财政地方主义和新的政治角色",
+          "anchor": "sigil_toc_id_99",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=235",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=235"
+    },
+    {
+      "chapterUid": 236,
+      "chapterIdx": 48,
+      "title": "第4章 城市生活",
+      "level": 2,
+      "wordCount": 15517,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "长安和洛阳的布局",
+          "anchor": "sigil_toc_id_100",
+          "level": 3
+        },
+        {
+          "title": "长安的花街柳巷",
+          "anchor": "sigil_toc_id_101",
+          "level": 3
+        },
+        {
+          "title": "花卉热",
+          "anchor": "sigil_toc_id_102",
+          "level": 3
+        },
+        {
+          "title": "唐朝城市的商业化",
+          "anchor": "sigil_toc_id_103",
+          "level": 3
+        },
+        {
+          "title": "税收与货币",
+          "anchor": "sigil_toc_id_104",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=236",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=236"
+    },
+    {
+      "chapterUid": 237,
+      "chapterIdx": 49,
+      "title": "第5章 乡村社会",
+      "level": 2,
+      "wordCount": 15593,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "土地占有的新形态",
+          "anchor": "sigil_toc_id_105",
+          "level": 3
+        },
+        {
+          "title": "农业技术",
+          "anchor": "sigil_toc_id_106",
+          "level": 3
+        },
+        {
+          "title": "长途贸易和商业化",
+          "anchor": "sigil_toc_id_107",
+          "level": 3
+        },
+        {
+          "title": "茶叶和糖",
+          "anchor": "sigil_toc_id_108",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=237",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=237"
+    },
+    {
+      "chapterUid": 238,
+      "chapterIdx": 50,
+      "title": "第6章 外部世界",
+      "level": 2,
+      "wordCount": 17737,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "称“天可汗”的唐朝统治者",
+          "anchor": "sigil_toc_id_109",
+          "level": 3
+        },
+        {
+          "title": "东亚的出现",
+          "anchor": "sigil_toc_id_110",
+          "level": 3
+        },
+        {
+          "title": "国际贸易重组",
+          "anchor": "sigil_toc_id_111",
+          "level": 3
+        },
+        {
+          "title": "在唐朝的外国人",
+          "anchor": "sigil_toc_id_112",
+          "level": 3
+        },
+        {
+          "title": "被看成异族的佛教徒",
+          "anchor": "sigil_toc_id_113",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=238",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=238"
+    },
+    {
+      "chapterUid": 239,
+      "chapterIdx": 51,
+      "title": "第7章 宗族关系",
+      "level": 2,
+      "wordCount": 17165,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "唐代家庭中的妇女",
+          "anchor": "sigil_toc_id_114",
+          "level": 3
+        },
+        {
+          "title": "祖先祭祀的变化",
+          "anchor": "sigil_toc_id_115",
+          "level": 3
+        },
+        {
+          "title": "唐代大族",
+          "anchor": "sigil_toc_id_116",
+          "level": 3
+        },
+        {
+          "title": "大族的终结",
+          "anchor": "sigil_toc_id_117",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=239",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=239"
+    },
+    {
+      "chapterUid": 240,
+      "chapterIdx": 52,
+      "title": "第8章 宗教",
+      "level": 2,
+      "wordCount": 22445,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "唐代的道教",
+          "anchor": "sigil_toc_id_118",
+          "level": 3
+        },
+        {
+          "title": "道姑和女仙",
+          "anchor": "sigil_toc_id_119",
+          "level": 3
+        },
+        {
+          "title": "中国化佛教的出现",
+          "anchor": "sigil_toc_id_120",
+          "level": 3
+        },
+        {
+          "title": "国家和地方的儒教礼仪",
+          "anchor": "sigil_toc_id_121",
+          "level": 3
+        },
+        {
+          "title": "儒教经典的重新解读",
+          "anchor": "sigil_toc_id_122",
+          "level": 3
+        },
+        {
+          "title": "印刷术",
+          "anchor": "sigil_toc_id_123",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=240",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=240"
+    },
+    {
+      "chapterUid": 241,
+      "chapterIdx": 53,
+      "title": "第9章 写作",
+      "level": 2,
+      "wordCount": 20424,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "初唐诗的基调和辞藻",
+          "anchor": "sigil_toc_id_124",
+          "level": 3
+        },
+        {
+          "title": "盛唐诗对前代诗歌的继承",
+          "anchor": "sigil_toc_id_125",
+          "level": 3
+        },
+        {
+          "title": "不断变化的诗人形象",
+          "anchor": "sigil_toc_id_126",
+          "level": 3
+        },
+        {
+          "title": "唐代传奇",
+          "anchor": "sigil_toc_id_127",
+          "level": 3
+        },
+        {
+          "title": "散文",
+          "anchor": "sigil_toc_id_128",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=241",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=241"
+    },
+    {
+      "chapterUid": 242,
+      "chapterIdx": 54,
+      "title": "结语",
+      "level": 2,
+      "wordCount": 3331,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=242",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=242"
+    },
+    {
+      "chapterUid": 243,
+      "chapterIdx": 55,
+      "title": "致谢",
+      "level": 2,
+      "wordCount": 374,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=243",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=243"
+    },
+    {
+      "chapterUid": 244,
+      "chapterIdx": 56,
+      "title": "年表和朝代",
+      "level": 2,
+      "wordCount": 1010,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=244",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=244"
+    },
+    {
+      "chapterUid": 245,
+      "chapterIdx": 57,
+      "title": "参考文献",
+      "level": 2,
+      "wordCount": 5,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=245",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=245"
+    },
+    {
+      "chapterUid": 246,
+      "chapterIdx": 58,
+      "title": "哈佛中国史4·儒家统治的时代：宋的转型",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=246",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=246"
+    },
+    {
+      "chapterUid": 247,
+      "chapterIdx": 59,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 114,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=247",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=247"
+    },
+    {
+      "chapterUid": 248,
+      "chapterIdx": 60,
+      "title": "推荐序",
+      "level": 2,
+      "wordCount": 11929,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=248",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=248"
+    },
+    {
+      "chapterUid": 249,
+      "chapterIdx": 61,
+      "title": "中文版总序",
+      "level": 2,
+      "wordCount": 2097,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=249",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=249"
+    },
+    {
+      "chapterUid": 250,
+      "chapterIdx": 62,
+      "title": "导言",
+      "level": 2,
+      "wordCount": 4707,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=250",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=250"
+    },
+    {
+      "chapterUid": 251,
+      "chapterIdx": 63,
+      "title": "第1章 混乱的时代",
+      "level": 2,
+      "wordCount": 13048,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "禁佛",
+          "anchor": "sigil_toc_id_129",
+          "level": 3
+        },
+        {
+          "title": "乡村的盗匪",
+          "anchor": "sigil_toc_id_130",
+          "level": 3
+        },
+        {
+          "title": "五代十国",
+          "anchor": "sigil_toc_id_131",
+          "level": 3
+        },
+        {
+          "title": "契丹帝国（大辽）",
+          "anchor": "sigil_toc_id_132",
+          "level": 3
+        },
+        {
+          "title": "党项王国（西夏）",
+          "anchor": "sigil_toc_id_133",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=251",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=251"
+    },
+    {
+      "chapterUid": 252,
+      "chapterIdx": 64,
+      "title": "第2章 模范的统治者",
+      "level": 2,
+      "wordCount": 12824,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王朝的建立",
+          "anchor": "sigil_toc_id_134",
+          "level": 3
+        },
+        {
+          "title": "统一疆土",
+          "anchor": "sigil_toc_id_135",
+          "level": 3
+        },
+        {
+          "title": "中央集权",
+          "anchor": "sigil_toc_id_136",
+          "level": 3
+        },
+        {
+          "title": "印刷和政治",
+          "anchor": "sigil_toc_id_137",
+          "level": 3
+        },
+        {
+          "title": "文治",
+          "anchor": "sigil_toc_id_138",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=252",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=252"
+    },
+    {
+      "chapterUid": 253,
+      "chapterIdx": 65,
+      "title": "第3章 从改革到衰落",
+      "level": 2,
+      "wordCount": 14886,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "早期范仲淹的“小规模”改革",
+          "anchor": "sigil_toc_id_139",
+          "level": 3
+        },
+        {
+          "title": "王安石的“大规模”改革",
+          "anchor": "sigil_toc_id_140",
+          "level": 3
+        },
+        {
+          "title": "辽的衰落和金的兴起",
+          "anchor": "sigil_toc_id_141",
+          "level": 3
+        },
+        {
+          "title": "北宋的灭亡",
+          "anchor": "sigil_toc_id_142",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=253",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=253"
+    },
+    {
+      "chapterUid": 254,
+      "chapterIdx": 66,
+      "title": "第4章 南宋",
+      "level": 2,
+      "wordCount": 19695,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "共处之路",
+          "anchor": "sigil_toc_id_143",
+          "level": 3
+        },
+        {
+          "title": "金的汉化",
+          "anchor": "sigil_toc_id_144",
+          "level": 3
+        },
+        {
+          "title": "宋朝的辉煌和苦难",
+          "anchor": "sigil_toc_id_145",
+          "level": 3
+        },
+        {
+          "title": "蒙古的崛起",
+          "anchor": "sigil_toc_id_146",
+          "level": 3
+        },
+        {
+          "title": "“真主之鞭”",
+          "anchor": "sigil_toc_id_147",
+          "level": 3
+        },
+        {
+          "title": "宋朝的垂死挣扎",
+          "anchor": "sigil_toc_id_148",
+          "level": 3
+        },
+        {
+          "title": "最后的崩溃",
+          "anchor": "sigil_toc_id_149",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=254",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=254"
+    },
+    {
+      "chapterUid": 255,
+      "chapterIdx": 67,
+      "title": "第5章 儒释道三教",
+      "level": 2,
+      "wordCount": 14199,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "振兴儒学",
+          "anchor": "sigil_toc_id_150",
+          "level": 3
+        },
+        {
+          "title": "系统化儒学的创建者朱熹",
+          "anchor": "sigil_toc_id_151",
+          "level": 3
+        },
+        {
+          "title": "宋代的道教和佛教",
+          "anchor": "sigil_toc_id_152",
+          "level": 3
+        },
+        {
+          "title": "新儒学与佛教",
+          "anchor": "sigil_toc_id_153",
+          "level": 3
+        },
+        {
+          "title": "祖先崇拜和孝道",
+          "anchor": "sigil_toc_id_154",
+          "level": 3
+        },
+        {
+          "title": "辽、金的佛教",
+          "anchor": "sigil_toc_id_155",
+          "level": 3
+        },
+        {
+          "title": "转型中的儒学和佛教",
+          "anchor": "sigil_toc_id_156",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=255",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=255"
+    },
+    {
+      "chapterUid": 256,
+      "chapterIdx": 68,
+      "title": "第6章 教育与科举考试",
+      "level": 2,
+      "wordCount": 12171,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "科举考试制度",
+          "anchor": "sigil_toc_id_157",
+          "level": 3
+        },
+        {
+          "title": "教育制度",
+          "anchor": "sigil_toc_id_158",
+          "level": 3
+        },
+        {
+          "title": "进士考试",
+          "anchor": "sigil_toc_id_159",
+          "level": 3
+        },
+        {
+          "title": "古文运动",
+          "anchor": "sigil_toc_id_160",
+          "level": 3
+        },
+        {
+          "title": "仕途、俸禄和特权",
+          "anchor": "sigil_toc_id_161",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=256",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=256"
+    },
+    {
+      "chapterUid": 257,
+      "chapterIdx": 69,
+      "title": "第7章 人生礼仪",
+      "level": 2,
+      "wordCount": 13123,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "宋朝的婚姻制度",
+          "anchor": "sigil_toc_id_162",
+          "level": 3
+        },
+        {
+          "title": "女性的教育和财产权",
+          "anchor": "sigil_toc_id_163",
+          "level": 3
+        },
+        {
+          "title": "契丹和女真的婚姻制度",
+          "anchor": "sigil_toc_id_164",
+          "level": 3
+        },
+        {
+          "title": "汉人的丧葬习俗",
+          "anchor": "sigil_toc_id_165",
+          "level": 3
+        },
+        {
+          "title": "契丹和女真的丧葬风俗",
+          "anchor": "sigil_toc_id_166",
+          "level": 3
+        },
+        {
+          "title": "婚礼、丧葬礼和汉人的文化认同感",
+          "anchor": "sigil_toc_id_167",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=257",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=257"
+    },
+    {
+      "chapterUid": 258,
+      "chapterIdx": 70,
+      "title": "第8章 探索内在和外在世界",
+      "level": 2,
+      "wordCount": 13689,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "诗词——展示内心变化的艺术",
+          "anchor": "sigil_toc_id_168",
+          "level": 3
+        },
+        {
+          "title": "绘画中反映的自然与日常生活",
+          "anchor": "sigil_toc_id_169",
+          "level": 3
+        },
+        {
+          "title": "格物之理",
+          "anchor": "sigil_toc_id_170",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=258",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=258"
+    },
+    {
+      "chapterUid": 259,
+      "chapterIdx": 71,
+      "title": "第9章 京城的转变",
+      "level": 2,
+      "wordCount": 14593,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "长安，天子之都",
+          "anchor": "sigil_toc_id_171",
+          "level": 3
+        },
+        {
+          "title": "开封，都市典范的变化",
+          "anchor": "sigil_toc_id_172",
+          "level": 3
+        },
+        {
+          "title": "杭州",
+          "anchor": "sigil_toc_id_173",
+          "level": 3
+        },
+        {
+          "title": "长安、开封和杭州的命运",
+          "anchor": "sigil_toc_id_174",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=259",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=259"
+    },
+    {
+      "chapterUid": 260,
+      "chapterIdx": 72,
+      "title": "第10章 生产领域的变化",
+      "level": 2,
+      "wordCount": 12005,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "农业生产",
+          "anchor": "sigil_toc_id_175",
+          "level": 3
+        },
+        {
+          "title": "纺织机械和水磨坊",
+          "anchor": "sigil_toc_id_176",
+          "level": 3
+        },
+        {
+          "title": "货物和人员运输",
+          "anchor": "sigil_toc_id_177",
+          "level": 3
+        },
+        {
+          "title": "自然资源的开采",
+          "anchor": "sigil_toc_id_178",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=260",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=260"
+    },
+    {
+      "chapterUid": 261,
+      "chapterIdx": 73,
+      "title": "第11章 货币与赋税",
+      "level": 2,
+      "wordCount": 11881,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "纸币",
+          "anchor": "sigil_toc_id_179",
+          "level": 3
+        },
+        {
+          "title": "纸钞",
+          "anchor": "sigil_toc_id_180",
+          "level": 3
+        },
+        {
+          "title": "通货膨胀与钱币借贷",
+          "anchor": "sigil_toc_id_181",
+          "level": 3
+        },
+        {
+          "title": "两税法",
+          "anchor": "sigil_toc_id_182",
+          "level": 3
+        },
+        {
+          "title": "宋代的赋税负担",
+          "anchor": "sigil_toc_id_183",
+          "level": 3
+        },
+        {
+          "title": "异族政权的财政政策",
+          "anchor": "sigil_toc_id_184",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=261",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=261"
+    },
+    {
+      "chapterUid": 262,
+      "chapterIdx": 74,
+      "title": "第12章 公共领域中的私人生活",
+      "level": 2,
+      "wordCount": 14587,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "家庭与居家布置",
+          "anchor": "sigil_toc_id_185",
+          "level": 3
+        },
+        {
+          "title": "个人交通",
+          "anchor": "sigil_toc_id_186",
+          "level": 3
+        },
+        {
+          "title": "卫生与梳妆",
+          "anchor": "sigil_toc_id_187",
+          "level": 3
+        },
+        {
+          "title": "缠足",
+          "anchor": "sigil_toc_id_188",
+          "level": 3
+        },
+        {
+          "title": "衣饰",
+          "anchor": "sigil_toc_id_189",
+          "level": 3
+        },
+        {
+          "title": "娱乐与浮世",
+          "anchor": "sigil_toc_id_190",
+          "level": 3
+        },
+        {
+          "title": "医疗保健与福利",
+          "anchor": "sigil_toc_id_191",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=262",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=262"
+    },
+    {
+      "chapterUid": 263,
+      "chapterIdx": 75,
+      "title": "结语",
+      "level": 2,
+      "wordCount": 3026,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=263",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=263"
+    },
+    {
+      "chapterUid": 264,
+      "chapterIdx": 76,
+      "title": "致谢",
+      "level": 2,
+      "wordCount": 314,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=264",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=264"
+    },
+    {
+      "chapterUid": 265,
+      "chapterIdx": 77,
+      "title": "统治者年表",
+      "level": 2,
+      "wordCount": 2044,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=265",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=265"
+    },
+    {
+      "chapterUid": 266,
+      "chapterIdx": 78,
+      "title": "宋代度量单位",
+      "level": 2,
+      "wordCount": 242,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=266",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=266"
+    },
+    {
+      "chapterUid": 267,
+      "chapterIdx": 79,
+      "title": "参考文献",
+      "level": 2,
+      "wordCount": 2008,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=267",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=267"
+    },
+    {
+      "chapterUid": 268,
+      "chapterIdx": 80,
+      "title": "哈佛中国史5·挣扎的帝国：元与明",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=268",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=268"
+    },
+    {
+      "chapterUid": 269,
+      "chapterIdx": 81,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 103,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=269",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=269"
+    },
+    {
+      "chapterUid": 270,
+      "chapterIdx": 82,
+      "title": "推荐序",
+      "level": 2,
+      "wordCount": 11928,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=270",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=270"
+    },
+    {
+      "chapterUid": 271,
+      "chapterIdx": 83,
+      "title": "中文版总序",
+      "level": 2,
+      "wordCount": 2097,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=271",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=271"
+    },
+    {
+      "chapterUid": 272,
+      "chapterIdx": 84,
+      "title": "导言",
+      "level": 2,
+      "wordCount": 1488,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=272",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=272"
+    },
+    {
+      "chapterUid": 273,
+      "chapterIdx": 85,
+      "title": "第1章 龙见",
+      "level": 2,
+      "wordCount": 11415,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "龙主",
+          "anchor": "sigil_toc_id_192",
+          "level": 3
+        },
+        {
+          "title": "明代的龙",
+          "anchor": "sigil_toc_id_193",
+          "level": 3
+        },
+        {
+          "title": "全球的龙",
+          "anchor": "sigil_toc_id_194",
+          "level": 3
+        },
+        {
+          "title": "龙性",
+          "anchor": "sigil_toc_id_195",
+          "level": 3
+        },
+        {
+          "title": "以龙为史",
+          "anchor": "sigil_toc_id_196",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=273",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=273"
+    },
+    {
+      "chapterUid": 274,
+      "chapterIdx": 86,
+      "title": "第2章 幅员",
+      "level": 2,
+      "wordCount": 15809,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一统",
+          "anchor": "sigil_toc_id_197",
+          "level": 3
+        },
+        {
+          "title": "通衢",
+          "anchor": "sigil_toc_id_198",
+          "level": 3
+        },
+        {
+          "title": "南北",
+          "anchor": "sigil_toc_id_199",
+          "level": 3
+        },
+        {
+          "title": "政区",
+          "anchor": "sigil_toc_id_200",
+          "level": 3
+        },
+        {
+          "title": "人口",
+          "anchor": "sigil_toc_id_201",
+          "level": 3
+        },
+        {
+          "title": "移民",
+          "anchor": "sigil_toc_id_202",
+          "level": 3
+        },
+        {
+          "title": "经野",
+          "anchor": "sigil_toc_id_203",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=274",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=274"
+    },
+    {
+      "chapterUid": 275,
+      "chapterIdx": 87,
+      "title": "第3章 元明“九渊”",
+      "level": 2,
+      "wordCount": 19370,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "大寒",
+          "anchor": "sigil_toc_id_204",
+          "level": 3
+        },
+        {
+          "title": "干旱",
+          "anchor": "sigil_toc_id_205",
+          "level": 3
+        },
+        {
+          "title": "洪水",
+          "anchor": "sigil_toc_id_206",
+          "level": 3
+        },
+        {
+          "title": "蝗灾",
+          "anchor": "sigil_toc_id_207",
+          "level": 3
+        },
+        {
+          "title": "地震",
+          "anchor": "sigil_toc_id_208",
+          "level": 3
+        },
+        {
+          "title": "疾疫",
+          "anchor": "sigil_toc_id_209",
+          "level": 3
+        },
+        {
+          "title": "饥荒",
+          "anchor": "sigil_toc_id_210",
+          "level": 3
+        },
+        {
+          "title": "九渊",
+          "anchor": "sigil_toc_id_211",
+          "level": 3
+        },
+        {
+          "title": "避凶",
+          "anchor": "sigil_toc_id_212",
+          "level": 3
+        },
+        {
+          "title": "丰年",
+          "anchor": "sigil_toc_id_213",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=275",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=275"
+    },
+    {
+      "chapterUid": 276,
+      "chapterIdx": 88,
+      "title": "第4章 可汗与皇帝",
+      "level": 2,
+      "wordCount": 18518,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "元代国家",
+          "anchor": "sigil_toc_id_214",
+          "level": 3
+        },
+        {
+          "title": "明代独裁",
+          "anchor": "sigil_toc_id_215",
+          "level": 3
+        },
+        {
+          "title": "胡惟庸案",
+          "anchor": "sigil_toc_id_216",
+          "level": 3
+        },
+        {
+          "title": "靖难之役",
+          "anchor": "sigil_toc_id_217",
+          "level": 3
+        },
+        {
+          "title": "土木之变",
+          "anchor": "sigil_toc_id_218",
+          "level": 3
+        },
+        {
+          "title": "大礼议",
+          "anchor": "sigil_toc_id_219",
+          "level": 3
+        },
+        {
+          "title": "争国本",
+          "anchor": "sigil_toc_id_220",
+          "level": 3
+        },
+        {
+          "title": "孤忠怨抑",
+          "anchor": "sigil_toc_id_221",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=276",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=276"
+    },
+    {
+      "chapterUid": 277,
+      "chapterIdx": 89,
+      "title": "第5章 经济与生态",
+      "level": 2,
+      "wordCount": 17920,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "农耕帝国的混合经济",
+          "anchor": "sigil_toc_id_222",
+          "level": 3
+        },
+        {
+          "title": "交通",
+          "anchor": "sigil_toc_id_223",
+          "level": 3
+        },
+        {
+          "title": "城市",
+          "anchor": "sigil_toc_id_224",
+          "level": 3
+        },
+        {
+          "title": "商业税收",
+          "anchor": "sigil_toc_id_225",
+          "level": 3
+        },
+        {
+          "title": "商品经济下的食物供给",
+          "anchor": "sigil_toc_id_226",
+          "level": 3
+        },
+        {
+          "title": "财富的困惑",
+          "anchor": "sigil_toc_id_227",
+          "level": 3
+        },
+        {
+          "title": "树与虎",
+          "anchor": "sigil_toc_id_228",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=277",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=277"
+    },
+    {
+      "chapterUid": 278,
+      "chapterIdx": 90,
+      "title": "第6章 家族",
+      "level": 2,
+      "wordCount": 16514,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "亲族网络",
+          "anchor": "sigil_toc_id_229",
+          "level": 3
+        },
+        {
+          "title": "女性的生活",
+          "anchor": "sigil_toc_id_230",
+          "level": 3
+        },
+        {
+          "title": "男性的生活",
+          "anchor": "sigil_toc_id_231",
+          "level": 3
+        },
+        {
+          "title": "诸色户计",
+          "anchor": "sigil_toc_id_232",
+          "level": 3
+        },
+        {
+          "title": "士绅阶层",
+          "anchor": "sigil_toc_id_233",
+          "level": 3
+        },
+        {
+          "title": "家庭、家礼、家产",
+          "anchor": "sigil_toc_id_234",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=278",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=278"
+    },
+    {
+      "chapterUid": 279,
+      "chapterIdx": 91,
+      "title": "第7章 信仰",
+      "level": 2,
+      "wordCount": 15556,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "灵魂",
+          "anchor": "sigil_toc_id_235",
+          "level": 3
+        },
+        {
+          "title": "佛道",
+          "anchor": "sigil_toc_id_236",
+          "level": 3
+        },
+        {
+          "title": "天地",
+          "anchor": "sigil_toc_id_237",
+          "level": 3
+        },
+        {
+          "title": "心学",
+          "anchor": "sigil_toc_id_238",
+          "level": 3
+        },
+        {
+          "title": "异同",
+          "anchor": "sigil_toc_id_239",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=279",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=279"
+    },
+    {
+      "chapterUid": 280,
+      "chapterIdx": 92,
+      "title": "第8章 物华",
+      "level": 2,
+      "wordCount": 18081,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "家产",
+          "anchor": "sigil_toc_id_240",
+          "level": 3
+        },
+        {
+          "title": "鉴藏",
+          "anchor": "sigil_toc_id_241",
+          "level": 3
+        },
+        {
+          "title": "书",
+          "anchor": "sigil_toc_id_242",
+          "level": 3
+        },
+        {
+          "title": "家具",
+          "anchor": "sigil_toc_id_243",
+          "level": 3
+        },
+        {
+          "title": "瓷器",
+          "anchor": "sigil_toc_id_244",
+          "level": 3
+        },
+        {
+          "title": "书画",
+          "anchor": "sigil_toc_id_245",
+          "level": 3
+        },
+        {
+          "title": "市场与品位",
+          "anchor": "sigil_toc_id_246",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=280",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=280"
+    },
+    {
+      "chapterUid": 281,
+      "chapterIdx": 93,
+      "title": "第9章 南海",
+      "level": 2,
+      "wordCount": 17745,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "海货",
+          "anchor": "sigil_toc_id_247",
+          "level": 3
+        },
+        {
+          "title": "朝贡与贸易",
+          "anchor": "sigil_toc_id_248",
+          "level": 3
+        },
+        {
+          "title": "海防线",
+          "anchor": "sigil_toc_id_249",
+          "level": 3
+        },
+        {
+          "title": "南海世界经济体",
+          "anchor": "sigil_toc_id_250",
+          "level": 3
+        },
+        {
+          "title": "白银",
+          "anchor": "sigil_toc_id_251",
+          "level": 3
+        },
+        {
+          "title": "欧洲人在中国",
+          "anchor": "sigil_toc_id_252",
+          "level": 3
+        },
+        {
+          "title": "逃亡者归来",
+          "anchor": "sigil_toc_id_253",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=281",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=281"
+    },
+    {
+      "chapterUid": 282,
+      "chapterIdx": 94,
+      "title": "第10章 崩溃",
+      "level": 2,
+      "wordCount": 15081,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "罪责",
+          "anchor": "sigil_toc_id_254",
+          "level": 3
+        },
+        {
+          "title": "万历之渊",
+          "anchor": "sigil_toc_id_255",
+          "level": 3
+        },
+        {
+          "title": "北方边境",
+          "anchor": "sigil_toc_id_256",
+          "level": 3
+        },
+        {
+          "title": "崇祯之渊",
+          "anchor": "sigil_toc_id_257",
+          "level": 3
+        },
+        {
+          "title": "叛乱",
+          "anchor": "sigil_toc_id_258",
+          "level": 3
+        },
+        {
+          "title": "渡尽劫波",
+          "anchor": "sigil_toc_id_259",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=282",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=282"
+    },
+    {
+      "chapterUid": 283,
+      "chapterIdx": 95,
+      "title": "结语",
+      "level": 2,
+      "wordCount": 4932,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=283",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=283"
+    },
+    {
+      "chapterUid": 284,
+      "chapterIdx": 96,
+      "title": "致谢",
+      "level": 2,
+      "wordCount": 655,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=284",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=284"
+    },
+    {
+      "chapterUid": 285,
+      "chapterIdx": 97,
+      "title": "极端气温和降雨量的时期（1260—1644年）",
+      "level": 2,
+      "wordCount": 24,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=285",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=285"
+    },
+    {
+      "chapterUid": 286,
+      "chapterIdx": 98,
+      "title": "元明“九渊”",
+      "level": 2,
+      "wordCount": 7,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=286",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=286"
+    },
+    {
+      "chapterUid": 287,
+      "chapterIdx": 99,
+      "title": "元明帝王世系年表",
+      "level": 2,
+      "wordCount": 9,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=287",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=287"
+    },
+    {
+      "chapterUid": 288,
+      "chapterIdx": 100,
+      "title": "参考文献",
+      "level": 2,
+      "wordCount": 2915,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=288",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=288"
+    },
+    {
+      "chapterUid": 289,
+      "chapterIdx": 101,
+      "title": "哈佛中国史6·最后的中华帝国：大清",
+      "level": 1,
+      "wordCount": 1,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=289",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=289"
+    },
+    {
+      "chapterUid": 290,
+      "chapterIdx": 102,
+      "title": "版权信息",
+      "level": 2,
+      "wordCount": 112,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=290",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=290"
+    },
+    {
+      "chapterUid": 291,
+      "chapterIdx": 103,
+      "title": "推荐序",
+      "level": 2,
+      "wordCount": 11929,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=291",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=291"
+    },
+    {
+      "chapterUid": 292,
+      "chapterIdx": 104,
+      "title": "中文版总序",
+      "level": 2,
+      "wordCount": 2097,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=292",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=292"
+    },
+    {
+      "chapterUid": 293,
+      "chapterIdx": 105,
+      "title": "导言",
+      "level": 2,
+      "wordCount": 5274,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=293",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=293"
+    },
+    {
+      "chapterUid": 294,
+      "chapterIdx": 106,
+      "title": "第1章 征服",
+      "level": 2,
+      "wordCount": 10929,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "组织征服",
+          "anchor": "sigil_toc_id_260",
+          "level": 3
+        },
+        {
+          "title": "异族统治",
+          "anchor": "sigil_toc_id_261",
+          "level": 3
+        },
+        {
+          "title": "王朝巩固",
+          "anchor": "sigil_toc_id_262",
+          "level": 3
+        },
+        {
+          "title": "协调适应",
+          "anchor": "sigil_toc_id_263",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=294",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=294"
+    },
+    {
+      "chapterUid": 295,
+      "chapterIdx": 107,
+      "title": "第2章 治理",
+      "level": 2,
+      "wordCount": 19996,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "政治体制",
+          "anchor": "sigil_toc_id_264",
+          "level": 3
+        },
+        {
+          "title": "行政创新与中央集权",
+          "anchor": "sigil_toc_id_265",
+          "level": 3
+        },
+        {
+          "title": "钱财与人才",
+          "anchor": "sigil_toc_id_266",
+          "level": 3
+        },
+        {
+          "title": "地方治理",
+          "anchor": "sigil_toc_id_267",
+          "level": 3
+        },
+        {
+          "title": "清代国家的管理能力",
+          "anchor": "sigil_toc_id_268",
+          "level": 3
+        },
+        {
+          "title": "清代对地方治理制度的讨论",
+          "anchor": "sigil_toc_id_269",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=295",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=295"
+    },
+    {
+      "chapterUid": 296,
+      "chapterIdx": 108,
+      "title": "第3章 盛清",
+      "level": 2,
+      "wordCount": 15464,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "帝国扩张",
+          "anchor": "sigil_toc_id_270",
+          "level": 3
+        },
+        {
+          "title": "盛清文化",
+          "anchor": "sigil_toc_id_271",
+          "level": 3
+        },
+        {
+          "title": "警讯",
+          "anchor": "sigil_toc_id_272",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=296",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=296"
+    },
+    {
+      "chapterUid": 297,
+      "chapterIdx": 109,
+      "title": "第4章 社会",
+      "level": 2,
+      "wordCount": 20307,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "人口增长与转变",
+          "anchor": "sigil_toc_id_273",
+          "level": 3
+        },
+        {
+          "title": "土地与劳工、贱民与奴隶",
+          "anchor": "sigil_toc_id_274",
+          "level": 3
+        },
+        {
+          "title": "族群",
+          "anchor": "sigil_toc_id_275",
+          "level": 3
+        },
+        {
+          "title": "女与男",
+          "anchor": "sigil_toc_id_276",
+          "level": 3
+        },
+        {
+          "title": "清代士绅",
+          "anchor": "sigil_toc_id_277",
+          "level": 3
+        },
+        {
+          "title": "家庭与亲属",
+          "anchor": "sigil_toc_id_278",
+          "level": 3
+        },
+        {
+          "title": "慈善活动",
+          "anchor": "sigil_toc_id_279",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=297",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=297"
+    },
+    {
+      "chapterUid": 298,
+      "chapterIdx": 110,
+      "title": "第5章 商业",
+      "level": 2,
+      "wordCount": 15913,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "经营革新与都市化",
+          "anchor": "sigil_toc_id_280",
+          "level": 3
+        },
+        {
+          "title": "贸易的进行",
+          "anchor": "sigil_toc_id_281",
+          "level": 3
+        },
+        {
+          "title": "朝贡贸易",
+          "anchor": "sigil_toc_id_282",
+          "level": 3
+        },
+        {
+          "title": "在中国的外国人",
+          "anchor": "sigil_toc_id_283",
+          "level": 3
+        },
+        {
+          "title": "广州体系",
+          "anchor": "sigil_toc_id_284",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=298",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=298"
+    },
+    {
+      "chapterUid": 299,
+      "chapterIdx": 111,
+      "title": "第6章 危机",
+      "level": 2,
+      "wordCount": 16110,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "长期变迁",
+          "anchor": "sigil_toc_id_285",
+          "level": 3
+        },
+        {
+          "title": "循环衰落",
+          "anchor": "sigil_toc_id_286",
+          "level": 3
+        },
+        {
+          "title": "内部叛乱",
+          "anchor": "sigil_toc_id_287",
+          "level": 3
+        },
+        {
+          "title": "经济萧条",
+          "anchor": "sigil_toc_id_288",
+          "level": 3
+        },
+        {
+          "title": "改革思想与经世之学复兴",
+          "anchor": "sigil_toc_id_289",
+          "level": 3
+        },
+        {
+          "title": "改革方案及政策",
+          "anchor": "sigil_toc_id_290",
+          "level": 3
+        },
+        {
+          "title": "西方的冲击",
+          "anchor": "sigil_toc_id_291",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=299",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=299"
+    },
+    {
+      "chapterUid": 300,
+      "chapterIdx": 112,
+      "title": "第7章 叛乱",
+      "level": 2,
+      "wordCount": 16624,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "盗匪",
+          "anchor": "sigil_toc_id_292",
+          "level": 3
+        },
+        {
+          "title": "“秘密会社”",
+          "anchor": "sigil_toc_id_293",
+          "level": 3
+        },
+        {
+          "title": "“白莲教乱”(1796—1805)",
+          "anchor": "sigil_toc_id_294",
+          "level": 3
+        },
+        {
+          "title": "太平天国(1850—1864)",
+          "anchor": "sigil_toc_id_295",
+          "level": 3
+        },
+        {
+          "title": "第二次鸦片战争",
+          "anchor": "sigil_toc_id_296",
+          "level": 3
+        },
+        {
+          "title": "历经太平天国幸存的大清帝国",
+          "anchor": "sigil_toc_id_297",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=300",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=300"
+    },
+    {
+      "chapterUid": 301,
+      "chapterIdx": 113,
+      "title": "第8章 中兴",
+      "level": 2,
+      "wordCount": 20319,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "四种同治中兴的观点",
+          "anchor": "sigil_toc_id_298",
+          "level": 3
+        },
+        {
+          "title": "帝国的复兴",
+          "anchor": "sigil_toc_id_299",
+          "level": 3
+        },
+        {
+          "title": "早期工业化",
+          "anchor": "sigil_toc_id_300",
+          "level": 3
+        },
+        {
+          "title": "自强运动失败了吗？",
+          "anchor": "sigil_toc_id_301",
+          "level": 3
+        },
+        {
+          "title": "对外关系的恶化",
+          "anchor": "sigil_toc_id_302",
+          "level": 3
+        },
+        {
+          "title": "日本的挑战",
+          "anchor": "sigil_toc_id_303",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=301",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=301"
+    },
+    {
+      "chapterUid": 302,
+      "chapterIdx": 114,
+      "title": "第9章 帝国主义",
+      "level": 2,
+      "wordCount": 14055,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "帝国主义在世纪末中国的发展",
+          "anchor": "sigil_toc_id_304",
+          "level": 3
+        },
+        {
+          "title": "中国对帝国主义的回应(1895—1900)",
+          "anchor": "sigil_toc_id_305",
+          "level": 3
+        },
+        {
+          "title": "排外主义",
+          "anchor": "sigil_toc_id_306",
+          "level": 3
+        },
+        {
+          "title": "个人政治",
+          "anchor": "sigil_toc_id_307",
+          "level": 3
+        },
+        {
+          "title": "地方政治",
+          "anchor": "sigil_toc_id_308",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=302",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=302"
+    },
+    {
+      "chapterUid": 303,
+      "chapterIdx": 115,
+      "title": "第10章 革命",
+      "level": 2,
+      "wordCount": 20411,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "朝廷为中心的改革",
+          "anchor": "sigil_toc_id_309",
+          "level": 3
+        },
+        {
+          "title": "对于1911年革命的西方观点",
+          "anchor": "sigil_toc_id_310",
+          "level": 3
+        },
+        {
+          "title": "学生",
+          "anchor": "sigil_toc_id_311",
+          "level": 3
+        },
+        {
+          "title": "职业革命家",
+          "anchor": "sigil_toc_id_312",
+          "level": 3
+        },
+        {
+          "title": "改革派精英",
+          "anchor": "sigil_toc_id_313",
+          "level": 3
+        },
+        {
+          "title": "帝国的终结",
+          "anchor": "sigil_toc_id_314",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=912418&chapterUid=303",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=303"
+    },
+    {
+      "chapterUid": 304,
+      "chapterIdx": 116,
+      "title": "结语",
+      "level": 2,
+      "wordCount": 2468,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=304",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=304"
+    },
+    {
+      "chapterUid": 305,
+      "chapterIdx": 117,
+      "title": "致谢",
+      "level": 2,
+      "wordCount": 1043,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=305",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=305"
+    },
+    {
+      "chapterUid": 306,
+      "chapterIdx": 118,
+      "title": "帝系年表和朝代",
+      "level": 2,
+      "wordCount": 18,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=306",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=306"
+    },
+    {
+      "chapterUid": 307,
+      "chapterIdx": 119,
+      "title": "参考文献",
+      "level": 2,
+      "wordCount": 5,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=912418&chapterUid=307",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=307"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 193,
+      "chapterTitle": "推荐序",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "912418_193_1997-2064",
+          "range": "1997-2064",
+          "rangeStart": 1997,
+          "rangeEnd": 2064,
+          "markText": "陆威仪指出，秦汉历史的关键之一，就是“帝国内部的去军事化(demilitarization)和对国家边境的边缘族群所开展的军事活动”。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1755738443,
+          "createTimeFormatted": "2025-08-21 09:07:23",
+          "chapterUid": 193,
+          "appLink": "weread://bestbookmark?bookId=912418&chapterUid=193&rangeStart=1997&rangeEnd=2064",
+          "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=193&rangeStart=1997&rangeEnd=2064"
+        }
+      ]
+    },
+    {
+      "chapterUid": 236,
+      "chapterTitle": "第4章 城市生活",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "912418_236_23537-23711",
+          "range": "23537-23711",
+          "rangeStart": 23537,
+          "rangeEnd": 23711,
+          "markText": "庭前芍药妖无格，池上芙蕖净少情。\n唯有牡丹真国色，花开时节动京城。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1755678167,
+          "createTimeFormatted": "2025-08-20 16:22:47",
+          "chapterUid": 236,
+          "appLink": "weread://bestbookmark?bookId=912418&chapterUid=236&rangeStart=23537&rangeEnd=23711",
+          "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=236&rangeStart=23537&rangeEnd=23711"
+        }
+      ]
+    },
+    {
+      "chapterUid": 196,
+      "chapterTitle": "第1章 帝国版图",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "912418_196_8168-8252",
+          "range": "8168-8252",
+          "rangeStart": 8168,
+          "rangeEnd": 8252,
+          "markText": "太阳火气，常为毒螫，气热也。太阳之地，人民促急，促急之人，口舌为毒。故楚、越之人，促急捷疾，与人谈言，口唾射人，则人唇胎肿而为创。南郡极热之地，其人祝树树枯，唾鸟鸟坠。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1755678153,
+          "createTimeFormatted": "2025-08-20 16:22:33",
+          "chapterUid": 196,
+          "appLink": "weread://bestbookmark?bookId=912418&chapterUid=196&rangeStart=8168&rangeEnd=8252",
+          "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=196&rangeStart=8168&rangeEnd=8252"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "912418_196_464-531",
+          "range": "464-531",
+          "rangeStart": 464,
+          "rangeEnd": 531,
+          "markText": "地理学是一门人文学科，它不只是研究地表形态、河道或土壤类型，还研究人类塑造地理环境和被其所塑造的方式，以及它们在空间中相互影响的方式。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1755678143,
+          "createTimeFormatted": "2025-08-20 16:22:23",
+          "chapterUid": 196,
+          "appLink": "weread://bestbookmark?bookId=912418&chapterUid=196&rangeStart=464&rangeEnd=531",
+          "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=196&rangeStart=464&rangeEnd=531"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "912418_196_8168-8252",
+      "chapterUid": 196,
+      "range": "8168-8252",
+      "markText": "太阳火气，常为毒螫，气热也。太阳之地，人民促急，促急之人，口舌为毒。故楚、越之人，促急捷疾，与人谈言，口唾射人，则人唇胎肿而为创。南郡极热之地，其人祝树树枯，唾鸟鸟坠。",
+      "totalCount": 540,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=196&rangeStart=8168&rangeEnd=8252",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=196&rangeStart=8168&rangeEnd=8252"
+    },
+    {
+      "bookmarkId": "912418_196_464-531",
+      "chapterUid": 196,
+      "range": "464-531",
+      "markText": "地理学是一门人文学科，它不只是研究地表形态、河道或土壤类型，还研究人类塑造地理环境和被其所塑造的方式，以及它们在空间中相互影响的方式。",
+      "totalCount": 532,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=196&rangeStart=464&rangeEnd=531",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=196&rangeStart=464&rangeEnd=531"
+    },
+    {
+      "bookmarkId": "912418_291_2406-2455",
+      "chapterUid": 291,
+      "range": "2406-2455",
+      "markText": "通过内部的同质化，通过外部的“他者”塑造“我者”意识，形成国族的自我认同，于是有了明晰的“中国”。",
+      "totalCount": 434,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=291&rangeStart=2406&rangeEnd=2455",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=291&rangeStart=2406&rangeEnd=2455"
+    },
+    {
+      "bookmarkId": "912418_198_13622-13704",
+      "chapterUid": 198,
+      "range": "13622-13704",
+      "markText": "为了鼓励结婚，西汉早期对年龄在15岁到30岁之间的未婚女性征收5倍于常人的人头税。到了东汉，生育的妇女享有3年的免税，她们的丈夫也享有一年的免税优惠，旨在增加人口。",
+      "totalCount": 416,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=198&rangeStart=13622&rangeEnd=13704",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=198&rangeStart=13622&rangeEnd=13704"
+    },
+    {
+      "bookmarkId": "912418_198_3443-3493",
+      "chapterUid": 198,
+      "range": "3443-3493",
+      "markText": "最终的灾难发生在公元前206年，当项羽军队攻入咸阳、劫掠秦宫时，把秦朝的皇家藏书付之一炬，夷为平地。",
+      "totalCount": 368,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=198&rangeStart=3443&rangeEnd=3493",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=198&rangeStart=3443&rangeEnd=3493"
+    },
+    {
+      "bookmarkId": "912418_199_5963-6054",
+      "chapterUid": 199,
+      "range": "5963-6054",
+      "markText": "在古罗马、中世纪欧洲或印度，当地的统治者都经常出现在他的公众面前，接受臣民们的献礼，并且公开地主持公道以彰显皇家礼制。中国的皇帝则与此不同，他通过隐秘和不可捉摸来获得至高无上的地位。",
+      "totalCount": 352,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=199&rangeStart=5963&rangeEnd=6054",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=199&rangeStart=5963&rangeEnd=6054"
+    },
+    {
+      "bookmarkId": "912418_198_3144-3191",
+      "chapterUid": 198,
+      "range": "3144-3191",
+      "markText": "在汉代和后来的文献中，秦的文化政策被称作“焚书”，但这实际上更是一种统一的政策而不是一种破坏。",
+      "totalCount": 345,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=198&rangeStart=3144&rangeEnd=3191",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=198&rangeStart=3144&rangeEnd=3191"
+    },
+    {
+      "bookmarkId": "912418_200_15920-16007",
+      "chapterUid": 200,
+      "range": "15920-16007",
+      "markText": "公婆和儿媳之间的争吵毫无疑问是汉代中国社会的一个重要问题，这在当时诗歌中有所反映，也被汉代一本有关医疗灵“方”的书证实，这本书出土于马王堆汉墓，里面有预防婆媳矛盾的一道符咒。",
+      "totalCount": 308,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=200&rangeStart=15920&rangeEnd=16007",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=200&rangeStart=15920&rangeEnd=16007"
+    },
+    {
+      "bookmarkId": "912418_299_3197-3280",
+      "chapterUid": 299,
+      "range": "3197-3280",
+      "markText": "人口问题的一个自然结果可称之为“人才过剩”，许多现今发展中国家熟悉的一个困境，其中教育系统产生人才的速度，大于经济或政治系统所能提供的称意职缺。这是盛世中的真正危机。",
+      "totalCount": 289,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=299&rangeStart=3197&rangeEnd=3280",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=299&rangeStart=3197&rangeEnd=3280"
+    },
+    {
+      "bookmarkId": "912418_195_1757-1809",
+      "chapterUid": 195,
+      "range": "1757-1809",
+      "markText": "在这个集权化的政治体系里，任何在生活中最接近皇帝的人都能行使莫大的权力，无论这种权力是为了行善还是作恶。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=195&rangeStart=1757&rangeEnd=1809",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=195&rangeStart=1757&rangeEnd=1809"
+    },
+    {
+      "bookmarkId": "912418_196_2287-2340",
+      "chapterUid": 196,
+      "range": "2287-2340",
+      "markText": "黄河和长江这两条主要河流均自西向东流，没有任何可供航运的水道连接它们。在北方和南方之间，没有天然交通枢纽。",
+      "totalCount": 285,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=196&rangeStart=2287&rangeEnd=2340",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=196&rangeStart=2287&rangeEnd=2340"
+    },
+    {
+      "bookmarkId": "912418_195_2992-3035",
+      "chapterUid": 195,
+      "range": "2992-3035",
+      "markText": "在这些家庭中，商业和借贷成为主要的职业，但最大的财富来源，当然是在朝廷内谋得一官半职。",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=195&rangeStart=2992&rangeEnd=3035",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=195&rangeStart=2992&rangeEnd=3035"
+    },
+    {
+      "bookmarkId": "912418_195_500-561",
+      "chapterUid": 195,
+      "range": "500-561",
+      "markText": "几个世纪以来，六个不同的诸侯国为了争夺军事优势而相互攻战，直到公元前221年，秦国最终击败了它最后的对手，使六国归为一统。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=195&rangeStart=500&rangeEnd=561",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=195&rangeStart=500&rangeEnd=561"
+    },
+    {
+      "bookmarkId": "912418_291_5218-5283",
+      "chapterUid": 291,
+      "range": "5218-5283",
+      "markText": "新发现需要新解释，缺乏新的观察角度、叙述方式和论述立场，新材料带来的有时候只是“增量”而不是“质变”，并不能使历史“旧貌换新颜”。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=291&rangeStart=5218&rangeEnd=5283",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=291&rangeStart=5218&rangeEnd=5283"
+    },
+    {
+      "bookmarkId": "912418_291_10644-10730",
+      "chapterUid": 291,
+      "range": "10644-10730",
+      "markText": "哥伦布的目的不是外交或探险而是经济利益，而郑和的目的是外交，即“不是一个为了在海上发现新世界的职业探险家，而是一个皇室仆人为了达成一个僭位称帝者的迫切心愿——获得外交承认”",
+      "totalCount": 225,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=291&rangeStart=10644&rangeEnd=10730",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=291&rangeStart=10644&rangeEnd=10730"
+    },
+    {
+      "bookmarkId": "912418_198_3752-3800",
+      "chapterUid": 198,
+      "range": "3752-3800",
+      "markText": "汉朝把经典儒家信条树为国家学术正统，并非是对秦代文化传统的一种反动，而仅仅是一种更为狭隘的表现。",
+      "totalCount": 220,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=198&rangeStart=3752&rangeEnd=3800",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=198&rangeStart=3752&rangeEnd=3800"
+    },
+    {
+      "bookmarkId": "912418_195_1338-1392",
+      "chapterUid": 195,
+      "range": "1338-1392",
+      "markText": "帝国正设法通过把这些帝国中心流行的优越文化和有限的、特殊的地域文化之间的等级差别合法化，来使帝国本身合法化。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=195&rangeStart=1338&rangeEnd=1392",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=195&rangeStart=1338&rangeEnd=1392"
+    },
+    {
+      "bookmarkId": "912418_196_1277-1364",
+      "chapterUid": 196,
+      "range": "1277-1364",
+      "markText": "早期帝国阶段的中国，以及它后来很长时间的历史中，都由黄河和长江流域的灌溉盆地所构成。这个区域包含了所有足够平坦而又湿润、适合发展农业的土地，因而也就划定了中国腹地的历史界线。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=196&rangeStart=1277&rangeEnd=1364",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=196&rangeStart=1277&rangeEnd=1364"
+    },
+    {
+      "bookmarkId": "912418_237_20671-20695",
+      "chapterUid": 237,
+      "range": "20671-20695",
+      "markText": "茶是唯一一种起源于中国并在世界范围内流行的作物。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=237&rangeStart=20671&rangeEnd=20695",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=237&rangeStart=20671&rangeEnd=20695"
+    },
+    {
+      "bookmarkId": "912418_195_2653-2719",
+      "chapterUid": 195,
+      "range": "2653-2719",
+      "markText": "这种帝国内部的去军事化有效地防止了地方武装发展到挑战帝国权威的可能，但同时也导致一种时常出现的情形，即外来民族征服及其对中国的统治。",
+      "totalCount": 196,
+      "appLink": "weread://bestbookmark?bookId=912418&chapterUid=195&rangeStart=2653&rangeEnd=2719",
+      "webLink": "https://weread.qq.com/web/reader/4bd326105dec224bdfffc19?chapterUid=195&rangeStart=2653&rangeEnd=2719"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 303,
+    "chapterOffset": 32079,
+    "progress": 0,
+    "updateTime": 1758852259,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

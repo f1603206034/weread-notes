@@ -1,0 +1,852 @@
+{
+  "meta": {
+    "bookId": "40426327",
+    "title": "诗经今注（中国古典文学丛书）（简体版）",
+    "author": "高亨注",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/48/YueWen_40426327/t6_YueWen_40426327.jpg",
+    "intro": "高亨先生在校勘训诂上创发新义，在前人研究的基础上更进一步，对《诗经》各篇加以说明注释，有许多地方别具识见。此“简体版”，在保持繁体版的各项笺注释读内容、专名线标点等基础上，寄望于以较易进入阅读的简体横排形式，使更多的读者接触到传统文化的正统解读，领略其中的优质精髓所在。",
+    "category": "历史-历史读物",
+    "publisher": "上海古籍出版社",
+    "publishTime": "2017-08-01 00:00:00",
+    "isbn": "9787532585359",
+    "wordCount": 0,
+    "newRating": 795,
+    "newRatingCount": 59,
+    "newRatingDetail": {
+      "good": 45,
+      "fair": 8,
+      "poor": 6,
+      "recent": 0,
+      "deepV": 9,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=40426327",
+    "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e",
+    "lastSync": "2026-05-21T11:46:44Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 3,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "诗经今注 上",
+      "level": 1,
+      "wordCount": 7,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 2,
+      "wordCount": 718,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "诗经简述",
+      "level": 2,
+      "wordCount": 6155,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "十五国风",
+      "level": 2,
+      "wordCount": 5444,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "周南",
+          "anchor": "sigil_toc_id_1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=40426327&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "召南",
+      "level": 3,
+      "wordCount": 7184,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "邶",
+      "level": 3,
+      "wordCount": 12051,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "鄘",
+      "level": 3,
+      "wordCount": 6007,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "卫",
+      "level": 3,
+      "wordCount": 7081,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "王",
+      "level": 3,
+      "wordCount": 3802,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "郑",
+      "level": 3,
+      "wordCount": 7432,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "齐",
+      "level": 3,
+      "wordCount": 4894,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "魏",
+      "level": 3,
+      "wordCount": 3547,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "唐",
+      "level": 3,
+      "wordCount": 4422,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "秦",
+      "level": 3,
+      "wordCount": 5301,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "陈",
+      "level": 3,
+      "wordCount": 4612,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "桧",
+      "level": 3,
+      "wordCount": 1437,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "曹",
+      "level": 3,
+      "wordCount": 2131,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "豳",
+      "level": 3,
+      "wordCount": 8201,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "诗经今注 下",
+      "level": 1,
+      "wordCount": 7,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "小雅",
+      "level": 2,
+      "wordCount": 8141,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "鹿鸣之什",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=40426327&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "南有嘉鱼之什",
+      "level": 3,
+      "wordCount": 7537,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "鸿雁之什",
+      "level": 3,
+      "wordCount": 6511,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "节南山之什",
+      "level": 3,
+      "wordCount": 17736,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "谷风之什",
+      "level": 3,
+      "wordCount": 10213,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "甫田之什",
+      "level": 3,
+      "wordCount": 9055,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "鱼藻之什",
+      "level": 3,
+      "wordCount": 8609,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "大雅",
+      "level": 2,
+      "wordCount": 15633,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "文王之什",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=40426327&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "生民之什",
+      "level": 3,
+      "wordCount": 14314,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "荡之什",
+      "level": 3,
+      "wordCount": 24439,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "周颂",
+      "level": 2,
+      "wordCount": 4259,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "清庙之什",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=40426327&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "臣工之什",
+      "level": 3,
+      "wordCount": 4926,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "闵予小子之什",
+      "level": 3,
+      "wordCount": 5841,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "鲁颂",
+      "level": 2,
+      "wordCount": 2996,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "有",
+      "level": 3,
+      "wordCount": 479,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "泮水",
+      "level": 3,
+      "wordCount": 2046,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "宫",
+      "level": 3,
+      "wordCount": 4447,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "商颂",
+      "level": 2,
+      "wordCount": 653,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "那",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=40426327&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "烈祖",
+      "level": 3,
+      "wordCount": 783,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "玄鸟",
+      "level": 3,
+      "wordCount": 932,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "长发",
+      "level": 3,
+      "wordCount": 1923,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "殷武",
+      "level": 3,
+      "wordCount": 1132,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=40426327&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=42"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 30,
+      "chapterTitle": "荡之什",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "40426327_30_44630-44695",
+          "range": "44630-44695",
+          "rangeStart": 44630,
+          "rangeEnd": 44695,
+          "markText": "有熊有罴，有猫有虎〔四六〕。庆既令居〔四七〕，韩姞燕誉〔四八〕。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1767025103,
+          "createTimeFormatted": "2025-12-30 00:18:23",
+          "chapterUid": 30,
+          "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=30&rangeStart=44630&rangeEnd=44695",
+          "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=30&rangeStart=44630&rangeEnd=44695"
+        }
+      ]
+    },
+    {
+      "chapterUid": 16,
+      "chapterTitle": "陈",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "40426327_16_9232-9308",
+          "range": "9232-9308",
+          "rangeStart": 9232,
+          "rangeEnd": 9308,
+          "markText": "月出皎兮〔一〕！佼人僚兮〔二〕！舒窈纠兮〔三〕！劳心悄兮〔四〕！",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1766150669,
+          "createTimeFormatted": "2025-12-19 21:24:29",
+          "chapterUid": 16,
+          "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=16&rangeStart=9232&rangeEnd=9308",
+          "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=16&rangeStart=9232&rangeEnd=9308"
+        }
+      ]
+    },
+    {
+      "chapterUid": 9,
+      "chapterTitle": "卫",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "40426327_9_5844-6125",
+          "range": "5844-6125",
+          "rangeStart": 5844,
+          "rangeEnd": 6125,
+          "markText": "河水洋洋〔二○〕，北流活活〔二一〕。施罛￼〔二二〕。鳣鲔发发〔二三〕。葭菼揭揭〔二四〕。庶姜孽孽〔二五〕。庶士有朅〔二六〕。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1732806720,
+          "createTimeFormatted": "2024-11-28 23:12:00",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=9&rangeStart=5844&rangeEnd=6125",
+          "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=9&rangeStart=5844&rangeEnd=6125"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "40426327_3_393-430",
+      "chapterUid": 3,
+      "range": "393-430",
+      "markText": "我们社会主义的新中国，勤劳勇敢的人民，在党的英明领导下，正在进行新的长征。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=3&rangeStart=393&rangeEnd=430",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=3&rangeStart=393&rangeEnd=430"
+    },
+    {
+      "bookmarkId": "40426327_7_10810-10849",
+      "chapterUid": 7,
+      "range": "10810-10849",
+      "markText": "卫国一个妇人，生了七个儿子，因家境贫困，想要改嫁。她的儿子们唱出这首歌以自责。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=7&rangeStart=10810&rangeEnd=10849",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=7&rangeStart=10810&rangeEnd=10849"
+    },
+    {
+      "bookmarkId": "40426327_4_2941-3028",
+      "chapterUid": 4,
+      "range": "2941-3028",
+      "markText": "风本是乐曲的通名了。乐曲为什么叫作风呢？主要原因是风的声音有高低、大小、清浊、曲直种种的不同，乐曲的音调也有高低、大小、清浊、曲直种种的不同，乐曲有似于风，所以古人称乐为风。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=4&rangeStart=2941&rangeEnd=3028",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=4&rangeStart=2941&rangeEnd=3028"
+    },
+    {
+      "bookmarkId": "40426327_4_1565-1617",
+      "chapterUid": 4,
+      "range": "1565-1617",
+      "markText": "《诗经》这部书，原来当有三百二十篇左右，不幸遭到秦始皇的焚烧，禁止学习，到西汉初年，还剩下了三百零五篇。",
+      "totalCount": 50,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=4&rangeStart=1565&rangeEnd=1617",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=4&rangeStart=1565&rangeEnd=1617"
+    },
+    {
+      "bookmarkId": "40426327_8_2814-2827",
+      "chapterUid": 8,
+      "range": "2814-2827",
+      "markText": "这首诗便是讽刺宣姜的淫秽。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=8&rangeStart=2814&rangeEnd=2827",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=8&rangeStart=2814&rangeEnd=2827"
+    },
+    {
+      "bookmarkId": "40426327_5_1510-1547",
+      "chapterUid": 5,
+      "range": "1510-1547",
+      "markText": "君子，《诗经》中的君子都是统治阶级人物的通称。逑，配偶。好逑，犹今言佳偶。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=5&rangeStart=1510&rangeEnd=1547",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=5&rangeStart=1510&rangeEnd=1547"
+    },
+    {
+      "bookmarkId": "40426327_13_8289-8396",
+      "chapterUid": 13,
+      "range": "8289-8396",
+      "markText": "不稼不穑〔四〕，胡取禾三百廛兮〔五〕？不狩不猎〔六〕，胡瞻尔庭有县貆兮〔七〕？彼君子兮，不素餐兮〔八〕？",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=13&rangeStart=8289&rangeEnd=8396",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=13&rangeStart=8289&rangeEnd=8396"
+    },
+    {
+      "bookmarkId": "40426327_6_6183-6200",
+      "chapterUid": 6,
+      "range": "6183-6200",
+      "markText": "季女，少女，指将要出嫁的贵族女儿。",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=6&rangeStart=6183&rangeEnd=6200",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=6&rangeStart=6183&rangeEnd=6200"
+    },
+    {
+      "bookmarkId": "40426327_5_527-535",
+      "chapterUid": 5,
+      "range": "527-535",
+      "markText": "最后和她结了婚。",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=5&rangeStart=527&rangeEnd=535",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=5&rangeStart=527&rangeEnd=535"
+    },
+    {
+      "bookmarkId": "40426327_5_9139-9215",
+      "chapterUid": 5,
+      "range": "9139-9215",
+      "markText": "这是劳动人民讽刺剥削者的短歌。诗以蝗虫纷纷飞翔，吃尽庄稼，比喻剥削者子孙众多，夺尽劳动人民的粮谷，反映了阶级社会的阶级实质，表达了劳动人民的阶级仇恨。",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=5&rangeStart=9139&rangeEnd=9215",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=5&rangeStart=9139&rangeEnd=9215"
+    },
+    {
+      "bookmarkId": "40426327_5_10220-10296",
+      "chapterUid": 5,
+      "range": "10220-10296",
+      "markText": "桃之夭夭〔一〕，灼灼其华〔二〕。之子于归〔三〕，宜其室家〔四〕。",
+      "totalCount": 30,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=5&rangeStart=10220&rangeEnd=10296",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=5&rangeStart=10220&rangeEnd=10296"
+    },
+    {
+      "bookmarkId": "40426327_4_500-559",
+      "chapterUid": 4,
+      "range": "500-559",
+      "markText": "它的来历据西汉人说，是古代帝王为了考察风俗的好坏，政治的得失，设有采诗的官，把采来的诗篇献给乐官大师，大师再献给天子。",
+      "totalCount": 28,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=4&rangeStart=500&rangeEnd=559",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=4&rangeStart=500&rangeEnd=559"
+    },
+    {
+      "bookmarkId": "40426327_12_11081-11118",
+      "chapterUid": 12,
+      "range": "11081-11118",
+      "markText": "文姜做了寡妇，时时由鲁国到齐国去，和齐襄公幽会。齐人唱出这首歌，加以讽刺。",
+      "totalCount": 28,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=12&rangeStart=11081&rangeEnd=11118",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=12&rangeStart=11081&rangeEnd=11118"
+    },
+    {
+      "bookmarkId": "40426327_5_2350-2390",
+      "chapterUid": 5,
+      "range": "2350-2390",
+      "markText": "这首诗反映了贵族家中的女奴们给贵族割葛、煮葛、织布及告假洗衣回家等一段生活情况。",
+      "totalCount": 24,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=5&rangeStart=2350&rangeEnd=2390",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=5&rangeStart=2350&rangeEnd=2390"
+    },
+    {
+      "bookmarkId": "40426327_3_673-717",
+      "chapterUid": 3,
+      "range": "673-717",
+      "markText": "我读古书，从不迷信古人，盲从旧说，而敢于追求真谛，创立新义，力求出言有据，避免游谈无根。",
+      "totalCount": 22,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=3&rangeStart=673&rangeEnd=717",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=3&rangeStart=673&rangeEnd=717"
+    },
+    {
+      "bookmarkId": "40426327_5_16849-16881",
+      "chapterUid": 5,
+      "range": "16849-16881",
+      "markText": "按《琴操》所载孔子的《获麟歌》不类春秋时代的诗句，当是后人伪造。",
+      "totalCount": 22,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=5&rangeStart=16849&rangeEnd=16881",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=5&rangeStart=16849&rangeEnd=16881"
+    },
+    {
+      "bookmarkId": "40426327_14_5615-5672",
+      "chapterUid": 14,
+      "range": "5615-5672",
+      "markText": "绸缪 这首诗写一对相爱的男女在夜间相会的情景。",
+      "totalCount": 22,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=14&rangeStart=5615&rangeEnd=5672",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=14&rangeStart=5615&rangeEnd=5672"
+    },
+    {
+      "bookmarkId": "40426327_4_3735-3775",
+      "chapterUid": 4,
+      "range": "3735-3775",
+      "markText": "雅是借为夏字，夏是西周王畿的旧称，《诗经》的编辑者用夏字标明这部分诗篇产生的地域",
+      "totalCount": 20,
+      "appLink": "weread://bestbookmark?bookId=40426327&chapterUid=4&rangeStart=3735&rangeEnd=3775",
+      "webLink": "https://weread.qq.com/web/reader/6cc32d707268db576ccfb4e?chapterUid=4&rangeStart=3735&rangeEnd=3775"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 30,
+    "chapterOffset": 43774,
+    "progress": 0,
+    "updateTime": 1772639448,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

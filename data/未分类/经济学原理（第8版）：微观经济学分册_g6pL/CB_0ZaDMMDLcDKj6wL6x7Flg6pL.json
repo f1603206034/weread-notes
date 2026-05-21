@@ -1,0 +1,5804 @@
+{
+  "meta": {
+    "bookId": "CB_0ZaDMMDLcDKj6wL6x7Flg6pL",
+    "title": "经济学原理（第8版）：微观经济学分册",
+    "author": "",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_2iUGAYGA29X86w66x43os8pC_parsecover",
+    "intro": "",
+    "category": "",
+    "publisher": "",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL",
+    "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92",
+    "lastSync": "2026-05-21T11:47:59Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 92,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "书名",
+      "level": 1,
+      "wordCount": 44,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "版权页",
+      "level": 1,
+      "wordCount": 941,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "作者介绍",
+      "level": 1,
+      "wordCount": 525,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "中文版序",
+      "level": 1,
+      "wordCount": 2990,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "前言：致学生",
+      "level": 1,
+      "wordCount": 873,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "学习指南图",
+      "level": 1,
+      "wordCount": 1212,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "目录",
+      "level": 1,
+      "wordCount": 7277,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第1篇 导言",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第 1 章 经济学十大原理",
+      "level": 2,
+      "wordCount": 1012,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "1. 1 人们如何做出决策",
+      "level": 3,
+      "wordCount": 1404,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1. 1. 1 原理一：人们面临权衡取舍",
+          "anchor": "section-9.1.1.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "1. 1. 2 原理二：某种东西的成本是为了得到它所放弃的东西",
+      "level": 4,
+      "wordCount": 613,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "1. 1. 3 原理三：理性人考虑边际量",
+      "level": 4,
+      "wordCount": 1721,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "1. 1. 4 原理四：人们会对激励做出反应",
+      "level": 4,
+      "wordCount": 1487,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "1. 2 人们如何相互影响",
+      "level": 3,
+      "wordCount": 1917,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1. 2. 1 原理五：贸易可以使每个人的状况都变得更好",
+          "anchor": "section-9.1.2.1",
+          "level": 4
+        },
+        {
+          "title": "1. 2. 2 原理六：市场通常是组织经济活动的一种好方法",
+          "anchor": "section-9.1.2.2",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "参考资料 亚当·斯密与看不见的手",
+      "level": 4,
+      "wordCount": 833,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "案例研究 亚当·斯密会爱上优步",
+      "level": 4,
+      "wordCount": 907,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "1. 2. 3 原理七：政府有时可以改善市场结果",
+      "level": 4,
+      "wordCount": 1445,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "1. 3 整体经济如何运行",
+      "level": 3,
+      "wordCount": 945,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1. 3. 1 原理八：一国的生活水平取决千它生产物品与服务的能力",
+          "anchor": "section-9.1.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "1. 3. 2 原理九：当政府发行了过多货币时，物价上升",
+      "level": 4,
+      "wordCount": 193,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1. 3. 3 原理十：社会面临通货膨胀与失业之间的短期权衡取舍",
+          "anchor": "section-9.1.3.3",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "1. 4 结论",
+      "level": 3,
+      "wordCount": 1037,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 547,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 1591,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关键概念",
+          "anchor": "section-9.1.7",
+          "level": 3
+        },
+        {
+          "title": "复习题",
+          "anchor": "section-9.1.8",
+          "level": 3
+        },
+        {
+          "title": "问题与应用",
+          "anchor": "section-9.1.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第 2 章 像经济学家一样思考",
+      "level": 2,
+      "wordCount": 962,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2. 1 作为科学家的经济学家",
+          "anchor": "section-9.2.1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "2. 1. 1 科学方法：观察、理论和进一步观察",
+      "level": 4,
+      "wordCount": 914,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "2. 1. 2 假设的作用",
+      "level": 4,
+      "wordCount": 850,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "2. 1. 3 经济模型",
+      "level": 4,
+      "wordCount": 1511,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2. 1. 4 我们的第一个模型：循环流量图",
+          "anchor": "section-9.2.1.4",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "2. 1. 5 我们的第二个模型：生产可能性边界",
+      "level": 4,
+      "wordCount": 2335,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "2. 1. 6 微观经济学与宏观经济学",
+      "level": 4,
+      "wordCount": 856,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "2. 2 作为政策顾问的经济学家",
+      "level": 3,
+      "wordCount": 1131,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2. 2. 1 实证分析与规范分析",
+          "anchor": "section-9.2.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "2. 2. 2 华盛顿的经济学家们",
+      "level": 4,
+      "wordCount": 990,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "2. 2. 3 为什么经济学家的建议并不总是被采纳",
+      "level": 4,
+      "wordCount": 728,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "2. 3 经济学家意见分歧的原因",
+      "level": 3,
+      "wordCount": 759,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2. 3. 1 科学判断的不同",
+          "anchor": "section-9.2.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "2. 3. 2 价值观的不同",
+      "level": 4,
+      "wordCount": 1894,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2. 3. 3 感觉与现实",
+          "anchor": "section-9.2.3.3",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "2. 4 出发吧",
+      "level": 3,
+      "wordCount": 721,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 721,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 595,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关键概念",
+          "anchor": "section-9.2.7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "复习题",
+      "level": 3,
+      "wordCount": 1433,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "问题与应用",
+          "anchor": "section-9.2.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "附录 绘图：简单的复习",
+      "level": 3,
+      "wordCount": 1477,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "单变量的图形",
+          "anchor": "section-9.2.10.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "坐标系中的曲线",
+      "level": 4,
+      "wordCount": 2045,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "斜率",
+      "level": 4,
+      "wordCount": 1024,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "原因和结果",
+      "level": 4,
+      "wordCount": 1806,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "第 3 章 相互依存性与贸易的好处",
+      "level": 2,
+      "wordCount": 681,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "3. 1 一个现代经济寓言",
+      "level": 3,
+      "wordCount": 2023,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3. 1. 1 生产可能性",
+          "anchor": "section-9.3.1.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "3. 1. 2 专业化与贸易",
+      "level": 4,
+      "wordCount": 1066,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "3. 2 比较优势：专业化的动力",
+      "level": 3,
+      "wordCount": 625,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3. 2. 1 绝对优势",
+          "anchor": "section-9.3.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "3. 2. 2 机会成本和比较优势",
+      "level": 4,
+      "wordCount": 1209,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "3. 2. 3 比较优势与贸易",
+      "level": 4,
+      "wordCount": 613,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "3. 2. 4 贸易的价格",
+      "level": 4,
+      "wordCount": 1405,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "参考资料 亚当·斯密与大卫·李嘉图的思想遗产",
+          "anchor": "section-9.3.2.5",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "3. 3 比较优势的应用",
+      "level": 3,
+      "wordCount": 704,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3. 3. 1 塞雷娜·威廉姆斯应该自己修剪草坪吗",
+          "anchor": "section-9.3.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "新闻摘录 家庭经济学",
+      "level": 4,
+      "wordCount": 2267,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "3. 3. 2 美国应该与其他国家进行贸易吗",
+      "level": 4,
+      "wordCount": 873,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "3. 4 结论",
+      "level": 3,
+      "wordCount": 1031,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "快速单选",
+          "anchor": "section-9.3.5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 623,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关键概念",
+          "anchor": "section-9.3.7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "复习题",
+      "level": 3,
+      "wordCount": 2116,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "问题与应用",
+          "anchor": "section-9.3.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "第2篇 市场如何运行",
+      "level": 1,
+      "wordCount": 10,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "第 4 章 供给与需求的市场力量",
+      "level": 2,
+      "wordCount": 832,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4. 1 市场与竞争",
+          "anchor": "section-10.1.1",
+          "level": 3
+        },
+        {
+          "title": "4. 1. 1 什么是市场",
+          "anchor": "section-10.1.1.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "4. 1. 2 什么是竞争",
+      "level": 4,
+      "wordCount": 972,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "4. 2 需求",
+      "level": 3,
+      "wordCount": 881,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4. 2. 1 需求曲线：价格和需求量之间的关系",
+          "anchor": "section-10.1.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "4. 2. 2 市场需求与个人需求",
+      "level": 4,
+      "wordCount": 562,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "4. 2. 3 需求曲线的移动",
+      "level": 4,
+      "wordCount": 1144,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "案例研究 减少香烟需求量的两种方法",
+      "level": 4,
+      "wordCount": 962,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "4. 3 供给",
+      "level": 3,
+      "wordCount": 1100,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4. 3. 1 供给曲线：价格与供给量之间的关系",
+          "anchor": "section-10.1.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "4. 3. 2 市场供给与个人供给",
+      "level": 4,
+      "wordCount": 129,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "4. 3. 3 供给曲线的移动",
+      "level": 4,
+      "wordCount": 1547,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "4. 4 供给与需求的结合",
+      "level": 3,
+      "wordCount": 1207,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4. 4. 1 均衡",
+          "anchor": "section-10.1.4.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "4. 4. 2 分析均衡变动的三个步骤",
+      "level": 4,
+      "wordCount": 2240,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "title": "4. 5 结论：价格如何配置资源",
+      "level": 3,
+      "wordCount": 947,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 286,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 858,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "title": "关键概念",
+      "level": 3,
+      "wordCount": 1712,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "复习题",
+          "anchor": "section-10.1.9",
+          "level": 3
+        },
+        {
+          "title": "问题与应用",
+          "anchor": "section-10.1.10",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "title": "第 5 章 弹性及其应用",
+      "level": 2,
+      "wordCount": 710,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5. 1 需求弹性",
+          "anchor": "section-10.2.1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "title": "5. 1. 1 需求价格弹性及其决定因素",
+      "level": 4,
+      "wordCount": 1071,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 74,
+      "title": "5. 1. 2 需求价格弹性的计算",
+      "level": 4,
+      "wordCount": 723,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5. 1. 3 中点法：一个计算变动百分比和弹性的更好方法",
+          "anchor": "section-10.2.1.3",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=74"
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 75,
+      "title": "5. 1. 4 各种需求曲线",
+      "level": 4,
+      "wordCount": 773,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=75",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=75"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 76,
+      "title": "参考资料 现实世界中的几种弹性",
+      "level": 4,
+      "wordCount": 167,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 77,
+      "title": "5. 1. 5 总收益与需求价格弹性",
+      "level": 4,
+      "wordCount": 1069,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 78,
+      "title": "5. 1. 6 沿着一条线性需求曲线的弹性和总收益",
+      "level": 4,
+      "wordCount": 679,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 79,
+      "title": "5. 1. 7 其他需求弹性",
+      "level": 4,
+      "wordCount": 933,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=79"
+    },
+    {
+      "chapterUid": 80,
+      "chapterIdx": 80,
+      "title": "5. 2 供给弹性",
+      "level": 3,
+      "wordCount": 507,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5. 2. 1 供给价格弹性及其决定因素",
+          "anchor": "section-10.2.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=80",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=80"
+    },
+    {
+      "chapterUid": 81,
+      "chapterIdx": 81,
+      "title": "5. 2. 2 供给价格弹性的计算",
+      "level": 4,
+      "wordCount": 1226,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5. 2. 3 各种供给曲线",
+          "anchor": "section-10.2.2.3",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=81",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=81"
+    },
+    {
+      "chapterUid": 82,
+      "chapterIdx": 82,
+      "title": "5. 3 供给、需求和弹性的三个应用",
+      "level": 3,
+      "wordCount": 2052,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5. 3. 1 农业的好消息可能对农民来说是坏消息吗",
+          "anchor": "section-10.2.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=82",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=82"
+    },
+    {
+      "chapterUid": 83,
+      "chapterIdx": 83,
+      "title": "5. 3. 2 为什么OPEC不能保持石油的高价格",
+      "level": 4,
+      "wordCount": 1026,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=83",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=83"
+    },
+    {
+      "chapterUid": 84,
+      "chapterIdx": 84,
+      "title": "5. 3. 3 禁毒增加还是减少了与毒品相关的犯罪",
+      "level": 4,
+      "wordCount": 1310,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=84",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=84"
+    },
+    {
+      "chapterUid": 85,
+      "chapterIdx": 85,
+      "title": "5. 4 结论",
+      "level": 3,
+      "wordCount": 950,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "快速单选",
+          "anchor": "section-10.2.5",
+          "level": 3
+        },
+        {
+          "title": "内容提要",
+          "anchor": "section-10.2.6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=85",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=85"
+    },
+    {
+      "chapterUid": 86,
+      "chapterIdx": 86,
+      "title": "关键概念",
+      "level": 3,
+      "wordCount": 570,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "复习题",
+          "anchor": "section-10.2.8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=86",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=86"
+    },
+    {
+      "chapterUid": 87,
+      "chapterIdx": 87,
+      "title": "问题与应用",
+      "level": 3,
+      "wordCount": 1426,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=87",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=87"
+    },
+    {
+      "chapterUid": 88,
+      "chapterIdx": 88,
+      "title": "第 6 章 供给、需求与政府政策",
+      "level": 2,
+      "wordCount": 1144,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6. 1 价格控制",
+          "anchor": "section-10.3.1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=88",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=88"
+    },
+    {
+      "chapterUid": 89,
+      "chapterIdx": 89,
+      "title": "6. 1. 1 价格上限如何影响市场结果",
+      "level": 4,
+      "wordCount": 1054,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=89",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=89"
+    },
+    {
+      "chapterUid": 90,
+      "chapterIdx": 90,
+      "title": "案例研究 加油站前的长队",
+      "level": 4,
+      "wordCount": 523,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=90",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=90"
+    },
+    {
+      "chapterUid": 91,
+      "chapterIdx": 91,
+      "title": "案例研究 短期与长期中的租金控制",
+      "level": 4,
+      "wordCount": 1299,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=91",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=91"
+    },
+    {
+      "chapterUid": 92,
+      "chapterIdx": 92,
+      "title": "6. 1. 2 价格下限如何影响市场结果",
+      "level": 4,
+      "wordCount": 172,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=92",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=92"
+    },
+    {
+      "chapterUid": 93,
+      "chapterIdx": 93,
+      "title": "案例研究 最低工资",
+      "level": 4,
+      "wordCount": 1895,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=93",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=93"
+    },
+    {
+      "chapterUid": 94,
+      "chapterIdx": 94,
+      "title": "6. 1. 3 对价格控制的评价",
+      "level": 4,
+      "wordCount": 692,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=94",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=94"
+    },
+    {
+      "chapterUid": 95,
+      "chapterIdx": 95,
+      "title": "6. 2 税收",
+      "level": 3,
+      "wordCount": 628,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=95",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=95"
+    },
+    {
+      "chapterUid": 96,
+      "chapterIdx": 96,
+      "title": "6. 2. 1 向卖者征税如何影响市场结果",
+      "level": 4,
+      "wordCount": 1067,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=96",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=96"
+    },
+    {
+      "chapterUid": 97,
+      "chapterIdx": 97,
+      "title": "6. 2. 2 向买者征税如何影响市场结果",
+      "level": 4,
+      "wordCount": 1192,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=97",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=97"
+    },
+    {
+      "chapterUid": 98,
+      "chapterIdx": 98,
+      "title": "案例研究 国会能分配工薪税的负担吗",
+      "level": 4,
+      "wordCount": 867,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=98",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=98"
+    },
+    {
+      "chapterUid": 99,
+      "chapterIdx": 99,
+      "title": "6. 2. 3 弹性与税收归宿",
+      "level": 4,
+      "wordCount": 1021,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=99",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=99"
+    },
+    {
+      "chapterUid": 100,
+      "chapterIdx": 100,
+      "title": "案例研究 谁支付奢侈品税",
+      "level": 4,
+      "wordCount": 954,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=100",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=100"
+    },
+    {
+      "chapterUid": 101,
+      "chapterIdx": 101,
+      "title": "6. 3 结论",
+      "level": 3,
+      "wordCount": 954,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=101",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=101"
+    },
+    {
+      "chapterUid": 102,
+      "chapterIdx": 102,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 815,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "内容提要",
+          "anchor": "section-10.3.5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=102",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=102"
+    },
+    {
+      "chapterUid": 103,
+      "chapterIdx": 103,
+      "title": "关键概念",
+      "level": 3,
+      "wordCount": 2205,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "复习题",
+          "anchor": "section-10.3.7",
+          "level": 3
+        },
+        {
+          "title": "问题与应用",
+          "anchor": "section-10.3.8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=103",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=103"
+    },
+    {
+      "chapterUid": 104,
+      "chapterIdx": 104,
+      "title": "第3篇 市场和福利",
+      "level": 1,
+      "wordCount": 9,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=104",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=104"
+    },
+    {
+      "chapterUid": 105,
+      "chapterIdx": 105,
+      "title": "第 7 章 消费者、生产者与市场效率",
+      "level": 2,
+      "wordCount": 727,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=105",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=105"
+    },
+    {
+      "chapterUid": 106,
+      "chapterIdx": 106,
+      "title": "7. 1 消费者剩余",
+      "level": 3,
+      "wordCount": 1242,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7. 1. 1 支付意愿",
+          "anchor": "section-11.1.1.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=106",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=106"
+    },
+    {
+      "chapterUid": 107,
+      "chapterIdx": 107,
+      "title": "7. 1. 2 用需求曲线衡量消费者剩余",
+      "level": 4,
+      "wordCount": 1043,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=107",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=107"
+    },
+    {
+      "chapterUid": 108,
+      "chapterIdx": 108,
+      "title": "7. 1. 3 价格降低如何增加消费者剩余",
+      "level": 4,
+      "wordCount": 542,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=108",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=108"
+    },
+    {
+      "chapterUid": 109,
+      "chapterIdx": 109,
+      "title": "7. 1. 4 消费者剩余衡量什么",
+      "level": 4,
+      "wordCount": 1696,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7. 2 生产者剩余",
+          "anchor": "section-11.1.2",
+          "level": 3
+        },
+        {
+          "title": "7. 2. 1 成本与销售意愿",
+          "anchor": "section-11.1.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=109",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=109"
+    },
+    {
+      "chapterUid": 110,
+      "chapterIdx": 110,
+      "title": "7. 2. 2 用供给曲线衡量生产者剩余",
+      "level": 4,
+      "wordCount": 804,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=110",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=110"
+    },
+    {
+      "chapterUid": 111,
+      "chapterIdx": 111,
+      "title": "7. 2. 3 价格上升如何增加生产者剩余",
+      "level": 4,
+      "wordCount": 575,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=111",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=111"
+    },
+    {
+      "chapterUid": 112,
+      "chapterIdx": 112,
+      "title": "7. 3 市场效率",
+      "level": 3,
+      "wordCount": 1117,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7. 3. 1 仁慈的社会计划者",
+          "anchor": "section-11.1.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=112",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=112"
+    },
+    {
+      "chapterUid": 113,
+      "chapterIdx": 113,
+      "title": "7. 3. 2 市场均衡的评价",
+      "level": 4,
+      "wordCount": 567,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=113",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=113"
+    },
+    {
+      "chapterUid": 114,
+      "chapterIdx": 114,
+      "title": "案例研究 人体器官市场是否应该存在",
+      "level": 4,
+      "wordCount": 1091,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=114",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=114"
+    },
+    {
+      "chapterUid": 115,
+      "chapterIdx": 115,
+      "title": "新闻摘录 看不见的手可以给你停车位",
+      "level": 4,
+      "wordCount": 1862,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=115",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=115"
+    },
+    {
+      "chapterUid": 116,
+      "chapterIdx": 116,
+      "title": "7. 4 结论：市场效率与市场失灵",
+      "level": 3,
+      "wordCount": 943,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=116",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=116"
+    },
+    {
+      "chapterUid": 117,
+      "chapterIdx": 117,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 819,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "内容提要",
+          "anchor": "section-11.1.6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=117",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=117"
+    },
+    {
+      "chapterUid": 118,
+      "chapterIdx": 118,
+      "title": "关键概念",
+      "level": 3,
+      "wordCount": 2444,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "复习题",
+          "anchor": "section-11.1.8",
+          "level": 3
+        },
+        {
+          "title": "问题与应用",
+          "anchor": "section-11.1.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=118",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=118"
+    },
+    {
+      "chapterUid": 119,
+      "chapterIdx": 119,
+      "title": "第 8 章 应用：税收的代价",
+      "level": 2,
+      "wordCount": 1083,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8. 1 税收的无谓损失",
+          "anchor": "section-11.2.1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=119",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=119"
+    },
+    {
+      "chapterUid": 120,
+      "chapterIdx": 120,
+      "title": "8. 1. 1 税收如何影响市场参与者",
+      "level": 4,
+      "wordCount": 1667,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=120",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=120"
+    },
+    {
+      "chapterUid": 121,
+      "chapterIdx": 121,
+      "title": "8. 1. 2 无谓损失与贸易的好处",
+      "level": 4,
+      "wordCount": 998,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=121",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=121"
+    },
+    {
+      "chapterUid": 122,
+      "chapterIdx": 122,
+      "title": "8. 2 决定无谓损失的因素",
+      "level": 3,
+      "wordCount": 652,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=122",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=122"
+    },
+    {
+      "chapterUid": 123,
+      "chapterIdx": 123,
+      "title": "案例研究 关于无谓损失的争论",
+      "level": 4,
+      "wordCount": 1318,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=123",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=123"
+    },
+    {
+      "chapterUid": 124,
+      "chapterIdx": 124,
+      "title": "8. 3 税收变动时的无谓损失和税收收入",
+      "level": 3,
+      "wordCount": 796,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=124",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=124"
+    },
+    {
+      "chapterUid": 125,
+      "chapterIdx": 125,
+      "title": "案例研究 拉弗曲线和供给学派经济学",
+      "level": 4,
+      "wordCount": 590,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=125",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=125"
+    },
+    {
+      "chapterUid": 126,
+      "chapterIdx": 126,
+      "title": "8. 4 结论",
+      "level": 3,
+      "wordCount": 1097,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=126",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=126"
+    },
+    {
+      "chapterUid": 127,
+      "chapterIdx": 127,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 682,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=127",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=127"
+    },
+    {
+      "chapterUid": 128,
+      "chapterIdx": 128,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 2100,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关键概念",
+          "anchor": "section-11.2.7",
+          "level": 3
+        },
+        {
+          "title": "复习题",
+          "anchor": "section-11.2.8",
+          "level": 3
+        },
+        {
+          "title": "问题与应用",
+          "anchor": "section-11.2.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=128",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=128"
+    },
+    {
+      "chapterUid": 129,
+      "chapterIdx": 129,
+      "title": "第 9 章 应用：国际贸易",
+      "level": 2,
+      "wordCount": 635,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9. 1 决定贸易的因素",
+          "anchor": "section-11.3.1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=129",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=129"
+    },
+    {
+      "chapterUid": 130,
+      "chapterIdx": 130,
+      "title": "9. 1. 1 没有贸易时的均衡",
+      "level": 4,
+      "wordCount": 499,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=130",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=130"
+    },
+    {
+      "chapterUid": 131,
+      "chapterIdx": 131,
+      "title": "9. 1. 2 世界价格和比较优势",
+      "level": 4,
+      "wordCount": 1215,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9. 2 贸易的赢家和输家",
+          "anchor": "section-11.3.2",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=131",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=131"
+    },
+    {
+      "chapterUid": 132,
+      "chapterIdx": 132,
+      "title": "9. 2. 1 出口国的得失",
+      "level": 4,
+      "wordCount": 997,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=132",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=132"
+    },
+    {
+      "chapterUid": 133,
+      "chapterIdx": 133,
+      "title": "9. 2. 2 进口国的得失",
+      "level": 4,
+      "wordCount": 1080,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=133",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=133"
+    },
+    {
+      "chapterUid": 134,
+      "chapterIdx": 134,
+      "title": "9. 2. 3 关税的影响",
+      "level": 4,
+      "wordCount": 1252,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=134",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=134"
+    },
+    {
+      "chapterUid": 135,
+      "chapterIdx": 135,
+      "title": "参考资料 进口配额：另一种限制贸易的方法",
+      "level": 4,
+      "wordCount": 605,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=135",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=135"
+    },
+    {
+      "chapterUid": 136,
+      "chapterIdx": 136,
+      "title": "9. 2. 4 贸易政策的结论",
+      "level": 4,
+      "wordCount": 398,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=136",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=136"
+    },
+    {
+      "chapterUid": 137,
+      "chapterIdx": 137,
+      "title": "9. 2. 5 国际贸易的其他好处",
+      "level": 4,
+      "wordCount": 796,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=137",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=137"
+    },
+    {
+      "chapterUid": 138,
+      "chapterIdx": 138,
+      "title": "新闻摘录 把贸易作为经济发展的工具",
+      "level": 4,
+      "wordCount": 1673,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=138",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=138"
+    },
+    {
+      "chapterUid": 139,
+      "chapterIdx": 139,
+      "title": "9. 3 各种限制贸易的观点",
+      "level": 3,
+      "wordCount": 220,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=139",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=139"
+    },
+    {
+      "chapterUid": 140,
+      "chapterIdx": 140,
+      "title": "9. 3. 1 工作岗位论",
+      "level": 4,
+      "wordCount": 1786,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "新闻摘录 自由贸易的赢家应该补偿输家吗",
+          "anchor": "section-11.3.3.2",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=140",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=140"
+    },
+    {
+      "chapterUid": 141,
+      "chapterIdx": 141,
+      "title": "9. 3. 2 国家安全论",
+      "level": 4,
+      "wordCount": 406,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=141",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=141"
+    },
+    {
+      "chapterUid": 142,
+      "chapterIdx": 142,
+      "title": "9. 3. 3 幼稚产业论",
+      "level": 4,
+      "wordCount": 973,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9. 3. 4 不公平竞争论",
+          "anchor": "section-11.3.3.5",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=142",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=142"
+    },
+    {
+      "chapterUid": 143,
+      "chapterIdx": 143,
+      "title": "9. 3. 5 作为讨价还价筹码的保护论",
+      "level": 4,
+      "wordCount": 1335,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "案例研究 贸易协定和世界贸易组织",
+          "anchor": "section-11.3.3.7",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=143",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=143"
+    },
+    {
+      "chapterUid": 144,
+      "chapterIdx": 144,
+      "title": "9. 4 结论",
+      "level": 3,
+      "wordCount": 1052,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=144",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=144"
+    },
+    {
+      "chapterUid": 145,
+      "chapterIdx": 145,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 500,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=145",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=145"
+    },
+    {
+      "chapterUid": 146,
+      "chapterIdx": 146,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 606,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关键概念",
+          "anchor": "section-11.3.7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=146",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=146"
+    },
+    {
+      "chapterUid": 147,
+      "chapterIdx": 147,
+      "title": "复习题",
+      "level": 3,
+      "wordCount": 2257,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "问题与应用",
+          "anchor": "section-11.3.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=147",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=147"
+    },
+    {
+      "chapterUid": 148,
+      "chapterIdx": 148,
+      "title": "第4篇 公共部门经济学",
+      "level": 1,
+      "wordCount": 8,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=148",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=148"
+    },
+    {
+      "chapterUid": 149,
+      "chapterIdx": 149,
+      "title": "第 10 章 外部性",
+      "level": 2,
+      "wordCount": 1377,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=149",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=149"
+    },
+    {
+      "chapterUid": 150,
+      "chapterIdx": 150,
+      "title": "10. 1 外部性和市场无效率",
+      "level": 3,
+      "wordCount": 543,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10. 1. 1 福利经济学：回顾",
+          "anchor": "section-12.1.1.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=150",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=150"
+    },
+    {
+      "chapterUid": 151,
+      "chapterIdx": 151,
+      "title": "10. 1. 2 负外部性",
+      "level": 4,
+      "wordCount": 1117,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=151",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=151"
+    },
+    {
+      "chapterUid": 152,
+      "chapterIdx": 152,
+      "title": "10. 1. 3 正外部性",
+      "level": 4,
+      "wordCount": 620,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=152",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=152"
+    },
+    {
+      "chapterUid": 153,
+      "chapterIdx": 153,
+      "title": "案例研究 技术溢出、产业政策与专利保护",
+      "level": 4,
+      "wordCount": 991,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=153",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=153"
+    },
+    {
+      "chapterUid": 154,
+      "chapterIdx": 154,
+      "title": "10. 2 针对外部性的公共政策",
+      "level": 3,
+      "wordCount": 1498,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10. 2. 1 命令与控制政策：管制",
+          "anchor": "section-12.1.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=154",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=154"
+    },
+    {
+      "chapterUid": 155,
+      "chapterIdx": 155,
+      "title": "10. 2. 2 以市场为基础的政策1：矫正税与补贴",
+      "level": 4,
+      "wordCount": 1498,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=155",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=155"
+    },
+    {
+      "chapterUid": 156,
+      "chapterIdx": 156,
+      "title": "案例研究 为什么对汽油征收的税如此之重",
+      "level": 4,
+      "wordCount": 852,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=156",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=156"
+    },
+    {
+      "chapterUid": 157,
+      "chapterIdx": 157,
+      "title": "10. 2. 3 以市场为基础的政策2：可交易的污染许可证",
+      "level": 4,
+      "wordCount": 1900,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=157",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=157"
+    },
+    {
+      "chapterUid": 158,
+      "chapterIdx": 158,
+      "title": "10. 2. 4 对关于污染的经济分析的批评",
+      "level": 4,
+      "wordCount": 1559,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10. 3 外部性的私人解决方法",
+          "anchor": "section-12.1.3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=158",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=158"
+    },
+    {
+      "chapterUid": 159,
+      "chapterIdx": 159,
+      "title": "10. 3. 2 科斯定理",
+      "level": 4,
+      "wordCount": 1452,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=159",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=159"
+    },
+    {
+      "chapterUid": 160,
+      "chapterIdx": 160,
+      "title": "10. 3. 3 为什么私人解决方法并不总是有效",
+      "level": 4,
+      "wordCount": 882,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=160",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=160"
+    },
+    {
+      "chapterUid": 161,
+      "chapterIdx": 161,
+      "title": "新闻摘录 科斯定理在起作用",
+      "level": 4,
+      "wordCount": 1259,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=161",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=161"
+    },
+    {
+      "chapterUid": 162,
+      "chapterIdx": 162,
+      "title": "10. 4 结论",
+      "level": 3,
+      "wordCount": 421,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=162",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=162"
+    },
+    {
+      "chapterUid": 163,
+      "chapterIdx": 163,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 995,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "内容提要",
+          "anchor": "section-12.1.6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=163",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=163"
+    },
+    {
+      "chapterUid": 164,
+      "chapterIdx": 164,
+      "title": "关键概念",
+      "level": 3,
+      "wordCount": 1848,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "复习题",
+          "anchor": "section-12.1.8",
+          "level": 3
+        },
+        {
+          "title": "问题与应用",
+          "anchor": "section-12.1.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=164",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=164"
+    },
+    {
+      "chapterUid": 165,
+      "chapterIdx": 165,
+      "title": "第 11 章 公共物品和公共资源",
+      "level": 2,
+      "wordCount": 1116,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11. 1 不同类型的物品",
+          "anchor": "section-12.2.1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=165",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=165"
+    },
+    {
+      "chapterUid": 166,
+      "chapterIdx": 166,
+      "title": "11. 2 公共物品",
+      "level": 3,
+      "wordCount": 1861,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11. 2. 1 搭便车者问题",
+          "anchor": "section-12.2.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=166",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=166"
+    },
+    {
+      "chapterUid": 167,
+      "chapterIdx": 167,
+      "title": "11. 2. 2 一些重要的公共物品",
+      "level": 4,
+      "wordCount": 1713,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=167",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=167"
+    },
+    {
+      "chapterUid": 168,
+      "chapterIdx": 168,
+      "title": "案例研究 灯塔是公共物品吗",
+      "level": 4,
+      "wordCount": 578,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=168",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=168"
+    },
+    {
+      "chapterUid": 169,
+      "chapterIdx": 169,
+      "title": "11. 2. 3 成本—收益分析的难题",
+      "level": 4,
+      "wordCount": 729,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=169",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=169"
+    },
+    {
+      "chapterUid": 170,
+      "chapterIdx": 170,
+      "title": "案例研究 一条生命值多少钱",
+      "level": 4,
+      "wordCount": 1064,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=170",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=170"
+    },
+    {
+      "chapterUid": 171,
+      "chapterIdx": 171,
+      "title": "11. 3 公共资源",
+      "level": 3,
+      "wordCount": 909,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11. 3. 1 公地悲剧",
+          "anchor": "section-12.2.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=171",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=171"
+    },
+    {
+      "chapterUid": 172,
+      "chapterIdx": 172,
+      "title": "11. 3. 2 一些重要的公共资源",
+      "level": 4,
+      "wordCount": 1367,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=172",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=172"
+    },
+    {
+      "chapterUid": 173,
+      "chapterIdx": 173,
+      "title": "新闻摘录 收费公路案例",
+      "level": 4,
+      "wordCount": 2837,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=173",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=173"
+    },
+    {
+      "chapterUid": 174,
+      "chapterIdx": 174,
+      "title": "案例研究 为什么奶牛没有绝种",
+      "level": 4,
+      "wordCount": 1249,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11. 4 结论：产权的重要性",
+          "anchor": "section-12.2.4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=174",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=174"
+    },
+    {
+      "chapterUid": 175,
+      "chapterIdx": 175,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 644,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "内容提要",
+          "anchor": "section-12.2.6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=175",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=175"
+    },
+    {
+      "chapterUid": 176,
+      "chapterIdx": 176,
+      "title": "关键概念",
+      "level": 3,
+      "wordCount": 2064,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "复习题",
+          "anchor": "section-12.2.8",
+          "level": 3
+        },
+        {
+          "title": "问题与应用",
+          "anchor": "section-12.2.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=176",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=176"
+    },
+    {
+      "chapterUid": 177,
+      "chapterIdx": 177,
+      "title": "第 12 章 税制的设计",
+      "level": 2,
+      "wordCount": 902,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=177",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=177"
+    },
+    {
+      "chapterUid": 178,
+      "chapterIdx": 178,
+      "title": "12. 1 美国政府的税收概况",
+      "level": 3,
+      "wordCount": 452,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=178",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=178"
+    },
+    {
+      "chapterUid": 179,
+      "chapterIdx": 179,
+      "title": "12. 1. 1 联邦政府筹集的税收",
+      "level": 4,
+      "wordCount": 1433,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=179",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=179"
+    },
+    {
+      "chapterUid": 180,
+      "chapterIdx": 180,
+      "title": "12. 1. 2 州与地方政府筹集的税收",
+      "level": 4,
+      "wordCount": 703,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=180",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=180"
+    },
+    {
+      "chapterUid": 181,
+      "chapterIdx": 181,
+      "title": "12. 2 税收和效率",
+      "level": 3,
+      "wordCount": 1169,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12. 2. 1 无谓损失",
+          "anchor": "section-12.3.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=181",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=181"
+    },
+    {
+      "chapterUid": 182,
+      "chapterIdx": 182,
+      "title": "案例研究 应该对收入征税，还是应该对消费征税",
+      "level": 4,
+      "wordCount": 939,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=182",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=182"
+    },
+    {
+      "chapterUid": 183,
+      "chapterIdx": 183,
+      "title": "12. 2. 2 管理负担",
+      "level": 4,
+      "wordCount": 714,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=183",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=183"
+    },
+    {
+      "chapterUid": 184,
+      "chapterIdx": 184,
+      "title": "12. 2. 3 边际税率与平均税率",
+      "level": 4,
+      "wordCount": 1094,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12. 2. 4 定额税",
+          "anchor": "section-12.3.2.5",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=184",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=184"
+    },
+    {
+      "chapterUid": 185,
+      "chapterIdx": 185,
+      "title": "12. 3 税收与平等",
+      "level": 3,
+      "wordCount": 919,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12. 3. 1 受益原则",
+          "anchor": "section-12.3.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=185",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=185"
+    },
+    {
+      "chapterUid": 186,
+      "chapterIdx": 186,
+      "title": "12. 3. 2 支付能力原则",
+      "level": 4,
+      "wordCount": 943,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=186",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=186"
+    },
+    {
+      "chapterUid": 187,
+      "chapterIdx": 187,
+      "title": "案例研究 如何分配税收负担",
+      "level": 4,
+      "wordCount": 1543,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=187",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=187"
+    },
+    {
+      "chapterUid": 188,
+      "chapterIdx": 188,
+      "title": "12. 3. 3 税收归宿与税收平等",
+      "level": 4,
+      "wordCount": 448,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=188",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=188"
+    },
+    {
+      "chapterUid": 189,
+      "chapterIdx": 189,
+      "title": "案例研究 谁支付公司所得税",
+      "level": 4,
+      "wordCount": 698,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=189",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=189"
+    },
+    {
+      "chapterUid": 190,
+      "chapterIdx": 190,
+      "title": "12. 4 结论：平等与效率之间的权衡取舍",
+      "level": 3,
+      "wordCount": 1218,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "快速单选",
+          "anchor": "section-12.3.5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=190",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=190"
+    },
+    {
+      "chapterUid": 191,
+      "chapterIdx": 191,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 517,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关键概念",
+          "anchor": "section-12.3.7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=191",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=191"
+    },
+    {
+      "chapterUid": 192,
+      "chapterIdx": 192,
+      "title": "复习题",
+      "level": 3,
+      "wordCount": 1156,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "问题与应用",
+          "anchor": "section-12.3.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=192",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=192"
+    },
+    {
+      "chapterUid": 193,
+      "chapterIdx": 193,
+      "title": "第5篇 企业行为与产业组织",
+      "level": 1,
+      "wordCount": 10,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=193",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=193"
+    },
+    {
+      "chapterUid": 194,
+      "chapterIdx": 194,
+      "title": "第 13 章 生产成本",
+      "level": 2,
+      "wordCount": 698,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=194",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=194"
+    },
+    {
+      "chapterUid": 195,
+      "chapterIdx": 195,
+      "title": "13. 1 什么是成本",
+      "level": 3,
+      "wordCount": 1701,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "13. 1. 1 总收益、总成本和利润",
+          "anchor": "section-13.1.1.1",
+          "level": 4
+        },
+        {
+          "title": "13. 1. 2 作为机会成本的成本",
+          "anchor": "section-13.1.1.2",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=195",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=195"
+    },
+    {
+      "chapterUid": 196,
+      "chapterIdx": 196,
+      "title": "13. 1. 3 作为一种机会成本的资本成本",
+      "level": 4,
+      "wordCount": 600,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=196",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=196"
+    },
+    {
+      "chapterUid": 197,
+      "chapterIdx": 197,
+      "title": "13. 1. 4 经济利润与会计利润现",
+      "level": 4,
+      "wordCount": 700,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=197",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=197"
+    },
+    {
+      "chapterUid": 198,
+      "chapterIdx": 198,
+      "title": "13. 2 生产与成本",
+      "level": 3,
+      "wordCount": 1479,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "13. 2. 1 生产函数",
+          "anchor": "section-13.1.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=198",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=198"
+    },
+    {
+      "chapterUid": 199,
+      "chapterIdx": 199,
+      "title": "13. 2. 2 从生产函数到总成本曲线",
+      "level": 4,
+      "wordCount": 716,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=199",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=199"
+    },
+    {
+      "chapterUid": 200,
+      "chapterIdx": 200,
+      "title": "13. 3 成本的各种衡量指标",
+      "level": 3,
+      "wordCount": 390,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=200",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=200"
+    },
+    {
+      "chapterUid": 201,
+      "chapterIdx": 201,
+      "title": "13. 3. 1 固定成本与可变成本",
+      "level": 4,
+      "wordCount": 539,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=201",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=201"
+    },
+    {
+      "chapterUid": 202,
+      "chapterIdx": 202,
+      "title": "13. 3. 2 平均成本与边际成本",
+      "level": 4,
+      "wordCount": 943,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=202",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=202"
+    },
+    {
+      "chapterUid": 203,
+      "chapterIdx": 203,
+      "title": "13. 3. 3 成本曲线及其形状",
+      "level": 4,
+      "wordCount": 1751,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=203",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=203"
+    },
+    {
+      "chapterUid": 204,
+      "chapterIdx": 204,
+      "title": "13. 3. 4 典型的成本曲线",
+      "level": 4,
+      "wordCount": 661,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=204",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=204"
+    },
+    {
+      "chapterUid": 205,
+      "chapterIdx": 205,
+      "title": "13. 4 短期成本与长期成本",
+      "level": 3,
+      "wordCount": 941,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "13. 4. 1 短期与长期平均总成本之间的关系",
+          "anchor": "section-13.1.4.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=205",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=205"
+    },
+    {
+      "chapterUid": 206,
+      "chapterIdx": 206,
+      "title": "13. 4. 2 规模经济与规模不经济",
+      "level": 4,
+      "wordCount": 849,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=206",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=206"
+    },
+    {
+      "chapterUid": 207,
+      "chapterIdx": 207,
+      "title": "参考资料 针厂的经验",
+      "level": 4,
+      "wordCount": 630,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=207",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=207"
+    },
+    {
+      "chapterUid": 208,
+      "chapterIdx": 208,
+      "title": "13. 5 结论",
+      "level": 3,
+      "wordCount": 674,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "快速单选",
+          "anchor": "section-13.1.6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=208",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=208"
+    },
+    {
+      "chapterUid": 209,
+      "chapterIdx": 209,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 774,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=209",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=209"
+    },
+    {
+      "chapterUid": 210,
+      "chapterIdx": 210,
+      "title": "关键概念",
+      "level": 3,
+      "wordCount": 1782,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "复习题",
+          "anchor": "section-13.1.9",
+          "level": 3
+        },
+        {
+          "title": "问题与应用",
+          "anchor": "section-13.1.10",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=210",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=210"
+    },
+    {
+      "chapterUid": 211,
+      "chapterIdx": 211,
+      "title": "第 14 章 竞争市场上的企业",
+      "level": 2,
+      "wordCount": 637,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14. 1 什么是竞争市场",
+          "anchor": "section-13.2.1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=211",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=211"
+    },
+    {
+      "chapterUid": 212,
+      "chapterIdx": 212,
+      "title": "14. 1. 1 竞争的含义",
+      "level": 4,
+      "wordCount": 1282,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14. 1. 2 竞争企业的收益",
+          "anchor": "section-13.2.1.2",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=212",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=212"
+    },
+    {
+      "chapterUid": 213,
+      "chapterIdx": 213,
+      "title": "14. 2 利润最大化与竞争企业的供给曲线",
+      "level": 3,
+      "wordCount": 1054,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14. 2. 1 一个简单的利润最大化例子",
+          "anchor": "section-13.2.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=213",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=213"
+    },
+    {
+      "chapterUid": 214,
+      "chapterIdx": 214,
+      "title": "14. 2. 2 边际成本曲线和企业的供给决策",
+      "level": 4,
+      "wordCount": 1379,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=214",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=214"
+    },
+    {
+      "chapterUid": 215,
+      "chapterIdx": 215,
+      "title": "14. 2. 3 企业的短期停止营业决策",
+      "level": 4,
+      "wordCount": 1079,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=215",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=215"
+    },
+    {
+      "chapterUid": 216,
+      "chapterIdx": 216,
+      "title": "14. 2. 4 覆水难收与其他沉没成本",
+      "level": 4,
+      "wordCount": 1008,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "案例研究 生意冷清的餐馆和淡季的小型高尔夫球场",
+          "anchor": "section-13.2.2.5",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=216",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=216"
+    },
+    {
+      "chapterUid": 217,
+      "chapterIdx": 217,
+      "title": "14. 2. 5 企业退出或进入一个市场的长期决策",
+      "level": 4,
+      "wordCount": 880,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14. 2. 6 用竞争企业图形来衡量利润",
+          "anchor": "section-13.2.2.7",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=217",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=217"
+    },
+    {
+      "chapterUid": 218,
+      "chapterIdx": 218,
+      "title": "14. 3 竞争市场的供给曲线",
+      "level": 3,
+      "wordCount": 533,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14. 3. 1 短期：有固定数量企业的市场供给",
+          "anchor": "section-13.2.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=218",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=218"
+    },
+    {
+      "chapterUid": 219,
+      "chapterIdx": 219,
+      "title": "14. 3. 2 长期：有进入与退出的市场供给",
+      "level": 4,
+      "wordCount": 1025,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=219",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=219"
+    },
+    {
+      "chapterUid": 220,
+      "chapterIdx": 220,
+      "title": "14. 3. 3 如果竞争企业利润为零，为什么它们要留在市场上",
+      "level": 4,
+      "wordCount": 583,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=220",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=220"
+    },
+    {
+      "chapterUid": 221,
+      "chapterIdx": 221,
+      "title": "14. 3. 4 短期与长期内的需求移动",
+      "level": 4,
+      "wordCount": 913,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=221",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=221"
+    },
+    {
+      "chapterUid": 222,
+      "chapterIdx": 222,
+      "title": "14. 3. 5 为什么长期供给曲线可能向右上方倾斜",
+      "level": 4,
+      "wordCount": 1012,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=222",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=222"
+    },
+    {
+      "chapterUid": 223,
+      "chapterIdx": 223,
+      "title": "14. 4 结论：在供给曲线背后",
+      "level": 3,
+      "wordCount": 738,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "快速单选",
+          "anchor": "section-13.2.5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=223",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=223"
+    },
+    {
+      "chapterUid": 224,
+      "chapterIdx": 224,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 707,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=224",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=224"
+    },
+    {
+      "chapterUid": 225,
+      "chapterIdx": 225,
+      "title": "关键概念",
+      "level": 3,
+      "wordCount": 3218,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "复习题",
+          "anchor": "section-13.2.8",
+          "level": 3
+        },
+        {
+          "title": "问题与应用",
+          "anchor": "section-13.2.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=225",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=225"
+    },
+    {
+      "chapterUid": 226,
+      "chapterIdx": 226,
+      "title": "第 15 章 垄断",
+      "level": 2,
+      "wordCount": 439,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=226",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=226"
+    },
+    {
+      "chapterUid": 227,
+      "chapterIdx": 227,
+      "title": "15. 1 为什么会产生垄断",
+      "level": 3,
+      "wordCount": 875,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15. 1. 1 垄断资源",
+          "anchor": "section-13.3.1.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=227",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=227"
+    },
+    {
+      "chapterUid": 228,
+      "chapterIdx": 228,
+      "title": "15. 1. 2 政府创造的垄断",
+      "level": 4,
+      "wordCount": 1627,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15. 1. 3 自然垄断",
+          "anchor": "section-13.3.1.3",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=228",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=228"
+    },
+    {
+      "chapterUid": 229,
+      "chapterIdx": 229,
+      "title": "15. 2 垄断企业如何做出生产与定价决策",
+      "level": 3,
+      "wordCount": 845,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15. 2. 1 垄断与竞争",
+          "anchor": "section-13.3.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=229",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=229"
+    },
+    {
+      "chapterUid": 230,
+      "chapterIdx": 230,
+      "title": "15. 2. 2 垄断企业的收益",
+      "level": 4,
+      "wordCount": 1337,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=230",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=230"
+    },
+    {
+      "chapterUid": 231,
+      "chapterIdx": 231,
+      "title": "15. 2. 3 利润最大化",
+      "level": 4,
+      "wordCount": 889,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=231",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=231"
+    },
+    {
+      "chapterUid": 232,
+      "chapterIdx": 232,
+      "title": "参考资料 为什么垄断企业没有供给曲线",
+      "level": 4,
+      "wordCount": 600,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15. 2. 4 垄断企业的利润",
+          "anchor": "section-13.3.2.5",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=232",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=232"
+    },
+    {
+      "chapterUid": 233,
+      "chapterIdx": 233,
+      "title": "案例研究 垄断药品与非专利药品",
+      "level": 4,
+      "wordCount": 753,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=233",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=233"
+    },
+    {
+      "chapterUid": 234,
+      "chapterIdx": 234,
+      "title": "15. 3 垄断的福利代价",
+      "level": 3,
+      "wordCount": 325,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=234",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=234"
+    },
+    {
+      "chapterUid": 235,
+      "chapterIdx": 235,
+      "title": "15. 3. 1 无谓损失",
+      "level": 4,
+      "wordCount": 1463,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=235",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=235"
+    },
+    {
+      "chapterUid": 236,
+      "chapterIdx": 236,
+      "title": "15. 3. 2 垄断利润：是一种社会代价吗",
+      "level": 4,
+      "wordCount": 764,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=236",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=236"
+    },
+    {
+      "chapterUid": 237,
+      "chapterIdx": 237,
+      "title": "15. 4 价格歧视",
+      "level": 3,
+      "wordCount": 1546,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15. 4. 1 一个关于定价的寓言",
+          "anchor": "section-13.3.4.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=237",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=237"
+    },
+    {
+      "chapterUid": 238,
+      "chapterIdx": 238,
+      "title": "15. 4. 2 “定价寓言”的寓意",
+      "level": 4,
+      "wordCount": 778,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=238",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=238"
+    },
+    {
+      "chapterUid": 239,
+      "chapterIdx": 239,
+      "title": "15. 4. 3 对价格歧视的分析",
+      "level": 4,
+      "wordCount": 861,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=239",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=239"
+    },
+    {
+      "chapterUid": 240,
+      "chapterIdx": 240,
+      "title": "15. 4. 4 价格歧视的例子",
+      "level": 4,
+      "wordCount": 1203,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=240",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=240"
+    },
+    {
+      "chapterUid": 241,
+      "chapterIdx": 241,
+      "title": "新闻摘录 高等教育中的价格歧视",
+      "level": 4,
+      "wordCount": 798,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=241",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=241"
+    },
+    {
+      "chapterUid": 242,
+      "chapterIdx": 242,
+      "title": "15. 5 针对垄断的公共政策",
+      "level": 3,
+      "wordCount": 1090,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15. 5. 1 用反托拉斯法增强竞争",
+          "anchor": "section-13.3.5.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=242",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=242"
+    },
+    {
+      "chapterUid": 243,
+      "chapterIdx": 243,
+      "title": "15. 5. 2 管制",
+      "level": 4,
+      "wordCount": 915,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=243",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=243"
+    },
+    {
+      "chapterUid": 244,
+      "chapterIdx": 244,
+      "title": "15. 5. 3 公有制",
+      "level": 4,
+      "wordCount": 745,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15. 5. 4 不作为",
+          "anchor": "section-13.3.5.4",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=244",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=244"
+    },
+    {
+      "chapterUid": 245,
+      "chapterIdx": 245,
+      "title": "15. 6 结论：垄断的普遍性",
+      "level": 3,
+      "wordCount": 622,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=245",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=245"
+    },
+    {
+      "chapterUid": 246,
+      "chapterIdx": 246,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 538,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=246",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=246"
+    },
+    {
+      "chapterUid": 247,
+      "chapterIdx": 247,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 1003,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关键概念",
+          "anchor": "section-13.3.9",
+          "level": 3
+        },
+        {
+          "title": "复习题",
+          "anchor": "section-13.3.10",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=247",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=247"
+    },
+    {
+      "chapterUid": 248,
+      "chapterIdx": 248,
+      "title": "问题与应用",
+      "level": 3,
+      "wordCount": 3622,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=248",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=248"
+    },
+    {
+      "chapterUid": 249,
+      "chapterIdx": 249,
+      "title": "第 16 章 垄断竞争",
+      "level": 2,
+      "wordCount": 2577,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "16. 1 在垄断和完全竞争之间",
+          "anchor": "section-13.4.1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=249",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=249"
+    },
+    {
+      "chapterUid": 250,
+      "chapterIdx": 250,
+      "title": "16. 2 有差异产品的竞争",
+      "level": 3,
+      "wordCount": 494,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "16. 2. 1 短期中的垄断竞争企业",
+          "anchor": "section-13.4.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=250",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=250"
+    },
+    {
+      "chapterUid": 251,
+      "chapterIdx": 251,
+      "title": "16. 2. 2 长期均衡",
+      "level": 4,
+      "wordCount": 891,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=251",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=251"
+    },
+    {
+      "chapterUid": 252,
+      "chapterIdx": 252,
+      "title": "16. 2. 3 垄断竞争与完全竞争",
+      "level": 4,
+      "wordCount": 1004,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=252",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=252"
+    },
+    {
+      "chapterUid": 253,
+      "chapterIdx": 253,
+      "title": "16. 2. 4 垄断竞争与社会福利",
+      "level": 4,
+      "wordCount": 1178,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=253",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=253"
+    },
+    {
+      "chapterUid": 254,
+      "chapterIdx": 254,
+      "title": "16. 3 广告",
+      "level": 3,
+      "wordCount": 1266,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "16. 3. 1 关于广告的争论",
+          "anchor": "section-13.4.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=254",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=254"
+    },
+    {
+      "chapterUid": 255,
+      "chapterIdx": 255,
+      "title": "案例研究 广告与眼镜的价格",
+      "level": 4,
+      "wordCount": 687,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=255",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=255"
+    },
+    {
+      "chapterUid": 256,
+      "chapterIdx": 256,
+      "title": "16. 3. 2 作为质量信号的广告",
+      "level": 4,
+      "wordCount": 1361,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=256",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=256"
+    },
+    {
+      "chapterUid": 257,
+      "chapterIdx": 257,
+      "title": "16. 3. 3 品牌",
+      "level": 4,
+      "wordCount": 1098,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=257",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=257"
+    },
+    {
+      "chapterUid": 258,
+      "chapterIdx": 258,
+      "title": "16. 4 结论",
+      "level": 3,
+      "wordCount": 370,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=258",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=258"
+    },
+    {
+      "chapterUid": 259,
+      "chapterIdx": 259,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 785,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "内容提要",
+          "anchor": "section-13.4.6",
+          "level": 3
+        },
+        {
+          "title": "关键概念",
+          "anchor": "section-13.4.7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=259",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=259"
+    },
+    {
+      "chapterUid": 260,
+      "chapterIdx": 260,
+      "title": "复习题",
+      "level": 3,
+      "wordCount": 1785,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "问题与应用",
+          "anchor": "section-13.4.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=260",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=260"
+    },
+    {
+      "chapterUid": 261,
+      "chapterIdx": 261,
+      "title": "第 17 章 寡头",
+      "level": 2,
+      "wordCount": 787,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=261",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=261"
+    },
+    {
+      "chapterUid": 262,
+      "chapterIdx": 262,
+      "title": "17. 1 只有少数几个卖者的市场",
+      "level": 3,
+      "wordCount": 649,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "17. 1. 1 双头的例子",
+          "anchor": "section-13.5.1.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=262",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=262"
+    },
+    {
+      "chapterUid": 263,
+      "chapterIdx": 263,
+      "title": "17. 1. 2 竞争、垄断和卡特尔",
+      "level": 4,
+      "wordCount": 859,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=263",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=263"
+    },
+    {
+      "chapterUid": 264,
+      "chapterIdx": 264,
+      "title": "17. 1. 3 寡头的均衡",
+      "level": 4,
+      "wordCount": 1605,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=264",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=264"
+    },
+    {
+      "chapterUid": 265,
+      "chapterIdx": 265,
+      "title": "17. 1. 4 寡头数量如何影响市场结果",
+      "level": 4,
+      "wordCount": 1024,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=265",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=265"
+    },
+    {
+      "chapterUid": 266,
+      "chapterIdx": 266,
+      "title": "17. 2 合作经济学",
+      "level": 3,
+      "wordCount": 323,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=266",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=266"
+    },
+    {
+      "chapterUid": 267,
+      "chapterIdx": 267,
+      "title": "17. 2. 1 囚徒困境",
+      "level": 4,
+      "wordCount": 1257,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=267",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=267"
+    },
+    {
+      "chapterUid": 268,
+      "chapterIdx": 268,
+      "title": "17. 2. 2 作为囚徒困境的寡头",
+      "level": 4,
+      "wordCount": 679,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=268",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=268"
+    },
+    {
+      "chapterUid": 269,
+      "chapterIdx": 269,
+      "title": "案例研究 OPEC和世界石油市场",
+      "level": 4,
+      "wordCount": 744,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=269",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=269"
+    },
+    {
+      "chapterUid": 270,
+      "chapterIdx": 270,
+      "title": "17. 2. 3 囚徒困境的其他例子",
+      "level": 4,
+      "wordCount": 976,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=270",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=270"
+    },
+    {
+      "chapterUid": 271,
+      "chapterIdx": 271,
+      "title": "17. 2. 4 囚徒困境与社会福利",
+      "level": 4,
+      "wordCount": 1167,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "17. 2. 5 人们有时能合作的原因",
+          "anchor": "section-13.5.2.6",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=271",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=271"
+    },
+    {
+      "chapterUid": 272,
+      "chapterIdx": 272,
+      "title": "案例研究 囚徒困境的比赛",
+      "level": 4,
+      "wordCount": 725,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=272",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=272"
+    },
+    {
+      "chapterUid": 273,
+      "chapterIdx": 273,
+      "title": "17. 3 针对寡头的公共政策",
+      "level": 3,
+      "wordCount": 783,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "17. 3. 1 贸易限制与反托拉斯法",
+          "anchor": "section-13.5.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=273",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=273"
+    },
+    {
+      "chapterUid": 274,
+      "chapterIdx": 274,
+      "title": "案例研究 一次违法的通话",
+      "level": 4,
+      "wordCount": 3214,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "17. 3. 2 关于反托拉斯政策的争论",
+          "anchor": "section-13.5.3.3",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=274",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=274"
+    },
+    {
+      "chapterUid": 275,
+      "chapterIdx": 275,
+      "title": "案例研究 微软案",
+      "level": 4,
+      "wordCount": 1174,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=275",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=275"
+    },
+    {
+      "chapterUid": 276,
+      "chapterIdx": 276,
+      "title": "新闻摘录 欧盟对谷歌",
+      "level": 4,
+      "wordCount": 737,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=276",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=276"
+    },
+    {
+      "chapterUid": 277,
+      "chapterIdx": 277,
+      "title": "17. 4 结论",
+      "level": 3,
+      "wordCount": 801,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "快速单选",
+          "anchor": "section-13.5.5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=277",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=277"
+    },
+    {
+      "chapterUid": 278,
+      "chapterIdx": 278,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 2464,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关键概念",
+          "anchor": "section-13.5.7",
+          "level": 3
+        },
+        {
+          "title": "复习题",
+          "anchor": "section-13.5.8",
+          "level": 3
+        },
+        {
+          "title": "问题与应用",
+          "anchor": "section-13.5.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=278",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=278"
+    },
+    {
+      "chapterUid": 279,
+      "chapterIdx": 279,
+      "title": "第6篇 劳动市场经济学",
+      "level": 1,
+      "wordCount": 8,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=279",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=279"
+    },
+    {
+      "chapterUid": 280,
+      "chapterIdx": 280,
+      "title": "第 18 章 生产要素市场",
+      "level": 2,
+      "wordCount": 1222,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=280",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=280"
+    },
+    {
+      "chapterUid": 281,
+      "chapterIdx": 281,
+      "title": "18. 1 对劳动的需求",
+      "level": 3,
+      "wordCount": 345,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=281",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=281"
+    },
+    {
+      "chapterUid": 282,
+      "chapterIdx": 282,
+      "title": "18. 1. 1 竞争的、以利润最大化为目标的企业",
+      "level": 4,
+      "wordCount": 1376,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "18. 1. 2 生产函数与劳动的边际产量",
+          "anchor": "section-14.1.1.2",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=282",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=282"
+    },
+    {
+      "chapterUid": 283,
+      "chapterIdx": 283,
+      "title": "18. 1. 3 边际产量值和劳动需求",
+      "level": 4,
+      "wordCount": 1223,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=283",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=283"
+    },
+    {
+      "chapterUid": 284,
+      "chapterIdx": 284,
+      "title": "参考资料 投入需求与产量供给：同一枚硬币的两面",
+      "level": 4,
+      "wordCount": 761,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=284",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=284"
+    },
+    {
+      "chapterUid": 285,
+      "chapterIdx": 285,
+      "title": "18. 1. 4 什么会引起劳动需求曲线移动",
+      "level": 4,
+      "wordCount": 736,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=285",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=285"
+    },
+    {
+      "chapterUid": 286,
+      "chapterIdx": 286,
+      "title": "18. 2 对劳动的供给",
+      "level": 3,
+      "wordCount": 865,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "18. 2. 1 工作与闲暇之间的权衡取舍",
+          "anchor": "section-14.1.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=286",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=286"
+    },
+    {
+      "chapterUid": 287,
+      "chapterIdx": 287,
+      "title": "18. 2. 2 什么会引起劳动供给曲线移动",
+      "level": 4,
+      "wordCount": 147,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=287",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=287"
+    },
+    {
+      "chapterUid": 288,
+      "chapterIdx": 288,
+      "title": "18. 3 劳动市场的均衡",
+      "level": 3,
+      "wordCount": 460,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=288",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=288"
+    },
+    {
+      "chapterUid": 289,
+      "chapterIdx": 289,
+      "title": "18. 3. 1 劳动供给的移动",
+      "level": 4,
+      "wordCount": 774,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=289",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=289"
+    },
+    {
+      "chapterUid": 290,
+      "chapterIdx": 290,
+      "title": "新闻摘录 移民经济学",
+      "level": 4,
+      "wordCount": 1785,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=290",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=290"
+    },
+    {
+      "chapterUid": 291,
+      "chapterIdx": 291,
+      "title": "18. 3. 2 劳动需求的移动",
+      "level": 4,
+      "wordCount": 563,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=291",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=291"
+    },
+    {
+      "chapterUid": 292,
+      "chapterIdx": 292,
+      "title": "案例研究 生产率与工资",
+      "level": 4,
+      "wordCount": 883,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=292",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=292"
+    },
+    {
+      "chapterUid": 293,
+      "chapterIdx": 293,
+      "title": "参考资料 买方垄断",
+      "level": 4,
+      "wordCount": 843,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "18. 4 其他生产要素：土地和资本",
+          "anchor": "section-14.1.4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=293",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=293"
+    },
+    {
+      "chapterUid": 294,
+      "chapterIdx": 294,
+      "title": "18. 4. 1 土地和资本市场的均衡",
+      "level": 4,
+      "wordCount": 823,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=294",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=294"
+    },
+    {
+      "chapterUid": 295,
+      "chapterIdx": 295,
+      "title": "参考资料 什么是资本收入",
+      "level": 4,
+      "wordCount": 1221,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "18. 4. 2 生产要素之间的联系",
+          "anchor": "section-14.1.4.3",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=295",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=295"
+    },
+    {
+      "chapterUid": 296,
+      "chapterIdx": 296,
+      "title": "案例研究 黑死病的经济学",
+      "level": 4,
+      "wordCount": 500,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=296",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=296"
+    },
+    {
+      "chapterUid": 297,
+      "chapterIdx": 297,
+      "title": "18. 5 结论",
+      "level": 3,
+      "wordCount": 922,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "快速单选",
+          "anchor": "section-14.1.6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=297",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=297"
+    },
+    {
+      "chapterUid": 298,
+      "chapterIdx": 298,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 650,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关键概念",
+          "anchor": "section-14.1.8",
+          "level": 3
+        },
+        {
+          "title": "复习题",
+          "anchor": "section-14.1.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=298",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=298"
+    },
+    {
+      "chapterUid": 299,
+      "chapterIdx": 299,
+      "title": "问题与应用",
+      "level": 3,
+      "wordCount": 1989,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=299",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=299"
+    },
+    {
+      "chapterUid": 300,
+      "chapterIdx": 300,
+      "title": "第 19 章 收入与歧视",
+      "level": 2,
+      "wordCount": 1261,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "19. 1 决定均衡工资的若干因素",
+          "anchor": "section-14.2.1",
+          "level": 3
+        },
+        {
+          "title": "19. 1. 1 补偿性工资差别",
+          "anchor": "section-14.2.1.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=300",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=300"
+    },
+    {
+      "chapterUid": 301,
+      "chapterIdx": 301,
+      "title": "19. 1. 2 人力资本",
+      "level": 4,
+      "wordCount": 651,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=301",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=301"
+    },
+    {
+      "chapterUid": 302,
+      "chapterIdx": 302,
+      "title": "案例研究 技能的价值日益增加",
+      "level": 4,
+      "wordCount": 1178,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=302",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=302"
+    },
+    {
+      "chapterUid": 303,
+      "chapterIdx": 303,
+      "title": "19. 1. 3 能力、努力和机遇",
+      "level": 4,
+      "wordCount": 546,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=303",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=303"
+    },
+    {
+      "chapterUid": 304,
+      "chapterIdx": 304,
+      "title": "案例研究 漂亮的收益",
+      "level": 4,
+      "wordCount": 535,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=304",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=304"
+    },
+    {
+      "chapterUid": 305,
+      "chapterIdx": 305,
+      "title": "19. 1. 4 教育的另一种观点：信号",
+      "level": 4,
+      "wordCount": 1467,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "19. 1. 5 超级明星现象",
+          "anchor": "section-14.2.1.7",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=305",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=305"
+    },
+    {
+      "chapterUid": 306,
+      "chapterIdx": 306,
+      "title": "19. 1. 6 高于均衡水平的工资：最低工资法、工会和效率工资",
+      "level": 4,
+      "wordCount": 938,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=306",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=306"
+    },
+    {
+      "chapterUid": 307,
+      "chapterIdx": 307,
+      "title": "19. 2 歧视经济学",
+      "level": 3,
+      "wordCount": 1507,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "19. 2. 1 对劳动市场的歧视进行衡量",
+          "anchor": "section-14.2.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=307",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=307"
+    },
+    {
+      "chapterUid": 308,
+      "chapterIdx": 308,
+      "title": "案例研究 Emily比Lakisha更容易找到工作吗",
+      "level": 4,
+      "wordCount": 1135,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "19. 2. 2 雇主的歧视",
+          "anchor": "section-14.2.2.3",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=308",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=308"
+    },
+    {
+      "chapterUid": 309,
+      "chapterIdx": 309,
+      "title": "案例研究 电车上的种族隔离与利润动机",
+      "level": 4,
+      "wordCount": 678,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=309",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=309"
+    },
+    {
+      "chapterUid": 310,
+      "chapterIdx": 310,
+      "title": "19. 2. 3 顾客与政府的歧视",
+      "level": 4,
+      "wordCount": 757,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=310",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=310"
+    },
+    {
+      "chapterUid": 311,
+      "chapterIdx": 311,
+      "title": "案例研究 体育运动中的歧视",
+      "level": 4,
+      "wordCount": 892,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=311",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=311"
+    },
+    {
+      "chapterUid": 312,
+      "chapterIdx": 312,
+      "title": "19. 3 结论",
+      "level": 3,
+      "wordCount": 892,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=312",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=312"
+    },
+    {
+      "chapterUid": 313,
+      "chapterIdx": 313,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 1193,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "内容提要",
+          "anchor": "section-14.2.5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=313",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=313"
+    },
+    {
+      "chapterUid": 314,
+      "chapterIdx": 314,
+      "title": "关键概念",
+      "level": 3,
+      "wordCount": 1541,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "复习题",
+          "anchor": "section-14.2.7",
+          "level": 3
+        },
+        {
+          "title": "问题与应用",
+          "anchor": "section-14.2.8",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=314",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=314"
+    },
+    {
+      "chapterUid": 315,
+      "chapterIdx": 315,
+      "title": "第 20 章 收入不平等与贫困",
+      "level": 2,
+      "wordCount": 717,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=315",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=315"
+    },
+    {
+      "chapterUid": 316,
+      "chapterIdx": 316,
+      "title": "20. 1 对不平等的衡量",
+      "level": 3,
+      "wordCount": 601,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "20. 1. 1 美国的收入不平等",
+          "anchor": "section-14.3.1.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=316",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=316"
+    },
+    {
+      "chapterUid": 317,
+      "chapterIdx": 317,
+      "title": "20. 1. 2 世界各国的不平等状况",
+      "level": 4,
+      "wordCount": 1045,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=317",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=317"
+    },
+    {
+      "chapterUid": 318,
+      "chapterIdx": 318,
+      "title": "新闻摘录 收入分配的全球视野",
+      "level": 4,
+      "wordCount": 1638,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=318",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=318"
+    },
+    {
+      "chapterUid": 319,
+      "chapterIdx": 319,
+      "title": "20. 1. 3 贫困率",
+      "level": 4,
+      "wordCount": 1015,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=319",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=319"
+    },
+    {
+      "chapterUid": 320,
+      "chapterIdx": 320,
+      "title": "20. 1. 4 衡量不平等时的问题",
+      "level": 4,
+      "wordCount": 1250,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=320",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=320"
+    },
+    {
+      "chapterUid": 321,
+      "chapterIdx": 321,
+      "title": "案例研究 不平等的其他衡量标准",
+      "level": 4,
+      "wordCount": 1277,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "20. 1. 5 经济流动性",
+          "anchor": "section-14.3.1.7",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=321",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=321"
+    },
+    {
+      "chapterUid": 322,
+      "chapterIdx": 322,
+      "title": "20. 2 收入再分配的政治哲学",
+      "level": 3,
+      "wordCount": 1626,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "20. 2. 1 功利主义",
+          "anchor": "section-14.3.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=322",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=322"
+    },
+    {
+      "chapterUid": 323,
+      "chapterIdx": 323,
+      "title": "20. 2. 2 自由主义",
+      "level": 4,
+      "wordCount": 1595,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=323",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=323"
+    },
+    {
+      "chapterUid": 324,
+      "chapterIdx": 324,
+      "title": "20. 2. 3 自由至上主义",
+      "level": 4,
+      "wordCount": 1028,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=324",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=324"
+    },
+    {
+      "chapterUid": 325,
+      "chapterIdx": 325,
+      "title": "20. 3 减少贫困的政策",
+      "level": 3,
+      "wordCount": 549,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "20. 3. 1 最低工资法",
+          "anchor": "section-14.3.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=325",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=325"
+    },
+    {
+      "chapterUid": 326,
+      "chapterIdx": 326,
+      "title": "20. 3. 2 福利",
+      "level": 4,
+      "wordCount": 1022,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=326",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=326"
+    },
+    {
+      "chapterUid": 327,
+      "chapterIdx": 327,
+      "title": "20. 3. 3 负所得税",
+      "level": 4,
+      "wordCount": 1181,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "20. 3. 4 实物转移支付",
+          "anchor": "section-14.3.3.4",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=327",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=327"
+    },
+    {
+      "chapterUid": 328,
+      "chapterIdx": 328,
+      "title": "20. 3. 5 反贫困计划和工作激励",
+      "level": 4,
+      "wordCount": 1169,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=328",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=328"
+    },
+    {
+      "chapterUid": 329,
+      "chapterIdx": 329,
+      "title": "20. 4 结论",
+      "level": 3,
+      "wordCount": 428,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=329",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=329"
+    },
+    {
+      "chapterUid": 330,
+      "chapterIdx": 330,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 1042,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "内容提要",
+          "anchor": "section-14.3.6",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=330",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=330"
+    },
+    {
+      "chapterUid": 331,
+      "chapterIdx": 331,
+      "title": "关键概念",
+      "level": 3,
+      "wordCount": 1689,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "复习题",
+          "anchor": "section-14.3.8",
+          "level": 3
+        },
+        {
+          "title": "问题与应用",
+          "anchor": "section-14.3.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=331",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=331"
+    },
+    {
+      "chapterUid": 332,
+      "chapterIdx": 332,
+      "title": "第7篇 深入研究的论题",
+      "level": 1,
+      "wordCount": 10,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=332",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=332"
+    },
+    {
+      "chapterUid": 333,
+      "chapterIdx": 333,
+      "title": "第 21 章 消费者选择理论",
+      "level": 2,
+      "wordCount": 1902,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "21. 1 预算约束：消费者能买得起什么",
+          "anchor": "section-15.1.1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=333",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=333"
+    },
+    {
+      "chapterUid": 334,
+      "chapterIdx": 334,
+      "title": "21. 2 偏好：消费者想要什么",
+      "level": 3,
+      "wordCount": 1410,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "21. 2. 1 用无差异曲线代表偏好",
+          "anchor": "section-15.1.2.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=334",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=334"
+    },
+    {
+      "chapterUid": 335,
+      "chapterIdx": 335,
+      "title": "21. 2. 2 无差异曲线的四个特征",
+      "level": 4,
+      "wordCount": 1137,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=335",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=335"
+    },
+    {
+      "chapterUid": 336,
+      "chapterIdx": 336,
+      "title": "21. 2. 3 无差异曲线的两个极端例子",
+      "level": 4,
+      "wordCount": 966,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=336",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=336"
+    },
+    {
+      "chapterUid": 337,
+      "chapterIdx": 337,
+      "title": "21. 3 最优化：消费者选择什么",
+      "level": 3,
+      "wordCount": 815,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "21. 3. 1 消费者的最优选择",
+          "anchor": "section-15.1.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=337",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=337"
+    },
+    {
+      "chapterUid": 338,
+      "chapterIdx": 338,
+      "title": "参考资料 效用：描述偏好和最优化的另一种方法",
+      "level": 4,
+      "wordCount": 805,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=338",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=338"
+    },
+    {
+      "chapterUid": 339,
+      "chapterIdx": 339,
+      "title": "21. 3. 2 收入变动如何影响消费者的选择",
+      "level": 4,
+      "wordCount": 700,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=339",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=339"
+    },
+    {
+      "chapterUid": 340,
+      "chapterIdx": 340,
+      "title": "21. 3. 3 价格变动如何影响消费者的选择",
+      "level": 4,
+      "wordCount": 601,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=340",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=340"
+    },
+    {
+      "chapterUid": 341,
+      "chapterIdx": 341,
+      "title": "21. 3. 4 收入效应与替代效应",
+      "level": 4,
+      "wordCount": 1071,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=341",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=341"
+    },
+    {
+      "chapterUid": 342,
+      "chapterIdx": 342,
+      "title": "21. 3. 5 需求曲线的推导",
+      "level": 4,
+      "wordCount": 611,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=342",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=342"
+    },
+    {
+      "chapterUid": 343,
+      "chapterIdx": 343,
+      "title": "21. 4 三种应用",
+      "level": 3,
+      "wordCount": 787,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "21. 4. 1 所有的需求曲线都向右下方倾斜吗",
+          "anchor": "section-15.1.4.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=343",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=343"
+    },
+    {
+      "chapterUid": 344,
+      "chapterIdx": 344,
+      "title": "案例研究 寻找吉芬物品",
+      "level": 4,
+      "wordCount": 499,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=344",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=344"
+    },
+    {
+      "chapterUid": 345,
+      "chapterIdx": 345,
+      "title": "21. 4. 2 工资如何影响劳动供给",
+      "level": 4,
+      "wordCount": 1477,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=345",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=345"
+    },
+    {
+      "chapterUid": 346,
+      "chapterIdx": 346,
+      "title": "案例研究 劳动供给的收入效应：历史趋势、彩票赢家及卡内基的猜测",
+      "level": 4,
+      "wordCount": 904,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=346",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=346"
+    },
+    {
+      "chapterUid": 347,
+      "chapterIdx": 347,
+      "title": "21. 4. 3 利率如何影响家庭储蓄",
+      "level": 4,
+      "wordCount": 1590,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=347",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=347"
+    },
+    {
+      "chapterUid": 348,
+      "chapterIdx": 348,
+      "title": "21. 5 结论：人们真的这样想吗",
+      "level": 3,
+      "wordCount": 548,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=348",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=348"
+    },
+    {
+      "chapterUid": 349,
+      "chapterIdx": 349,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 808,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=349",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=349"
+    },
+    {
+      "chapterUid": 350,
+      "chapterIdx": 350,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 923,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关键概念",
+          "anchor": "section-15.1.8",
+          "level": 3
+        },
+        {
+          "title": "复习题",
+          "anchor": "section-15.1.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=350",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=350"
+    },
+    {
+      "chapterUid": 351,
+      "chapterIdx": 351,
+      "title": "问题与应用",
+      "level": 3,
+      "wordCount": 1718,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=351",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=351"
+    },
+    {
+      "chapterUid": 352,
+      "chapterIdx": 352,
+      "title": "第 22 章 微观经济学前沿",
+      "level": 2,
+      "wordCount": 947,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "22. 1 不对称信息",
+          "anchor": "section-15.2.1",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=352",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=352"
+    },
+    {
+      "chapterUid": 353,
+      "chapterIdx": 353,
+      "title": "22. 1. 1 隐蔽性行为：委托人、代理人及道德风险",
+      "level": 4,
+      "wordCount": 841,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=353",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=353"
+    },
+    {
+      "chapterUid": 354,
+      "chapterIdx": 354,
+      "title": "参考资料 公司管理",
+      "level": 4,
+      "wordCount": 1048,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=354",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=354"
+    },
+    {
+      "chapterUid": 355,
+      "chapterIdx": 355,
+      "title": "22. 1. 2 隐蔽性特征：逆向选择和次品问题",
+      "level": 4,
+      "wordCount": 1705,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "22. 1. 3 为传递私人信息发信号",
+          "anchor": "section-15.2.1.4",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=355",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=355"
+    },
+    {
+      "chapterUid": 356,
+      "chapterIdx": 356,
+      "title": "案例研究 作为信号的礼物",
+      "level": 4,
+      "wordCount": 704,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=356",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=356"
+    },
+    {
+      "chapterUid": 357,
+      "chapterIdx": 357,
+      "title": "22. 1. 4 引起信息披露的筛选",
+      "level": 4,
+      "wordCount": 651,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=357",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=357"
+    },
+    {
+      "chapterUid": 358,
+      "chapterIdx": 358,
+      "title": "22. 1. 5 不对称信息与公共政策",
+      "level": 4,
+      "wordCount": 956,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "22. 2 政治经济学",
+          "anchor": "section-15.2.2",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=358",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=358"
+    },
+    {
+      "chapterUid": 359,
+      "chapterIdx": 359,
+      "title": "22. 2. 1 康多塞投票悖论",
+      "level": 4,
+      "wordCount": 970,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=359",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=359"
+    },
+    {
+      "chapterUid": 360,
+      "chapterIdx": 360,
+      "title": "22. 2. 2 阿罗不可能性定理",
+      "level": 4,
+      "wordCount": 1160,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=360",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=360"
+    },
+    {
+      "chapterUid": 361,
+      "chapterIdx": 361,
+      "title": "22. 2. 3 中值选民说了算",
+      "level": 4,
+      "wordCount": 1400,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=361",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=361"
+    },
+    {
+      "chapterUid": 362,
+      "chapterIdx": 362,
+      "title": "22. 2. 4 政治家也是人",
+      "level": 4,
+      "wordCount": 681,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=362",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=362"
+    },
+    {
+      "chapterUid": 363,
+      "chapterIdx": 363,
+      "title": "22. 3 行为经济学",
+      "level": 3,
+      "wordCount": 1960,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "22. 3. 1 人们并不总是理性的",
+          "anchor": "section-15.2.3.1",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=363",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=363"
+    },
+    {
+      "chapterUid": 364,
+      "chapterIdx": 364,
+      "title": "新闻摘录 对偏离理性的运用",
+      "level": 4,
+      "wordCount": 2963,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=364",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=364"
+    },
+    {
+      "chapterUid": 365,
+      "chapterIdx": 365,
+      "title": "22. 3. 2 人们关注公正",
+      "level": 4,
+      "wordCount": 138,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=365",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=365"
+    },
+    {
+      "chapterUid": 366,
+      "chapterIdx": 366,
+      "title": "22. 3. 3 人们是前后不一致的",
+      "level": 4,
+      "wordCount": 1023,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=366",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=366"
+    },
+    {
+      "chapterUid": 367,
+      "chapterIdx": 367,
+      "title": "22. 4 结论",
+      "level": 3,
+      "wordCount": 1325,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=367",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=367"
+    },
+    {
+      "chapterUid": 368,
+      "chapterIdx": 368,
+      "title": "快速单选",
+      "level": 3,
+      "wordCount": 583,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=368",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=368"
+    },
+    {
+      "chapterUid": 369,
+      "chapterIdx": 369,
+      "title": "内容提要",
+      "level": 3,
+      "wordCount": 2231,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关键概念",
+          "anchor": "section-15.2.7",
+          "level": 3
+        },
+        {
+          "title": "复习题",
+          "anchor": "section-15.2.8",
+          "level": 3
+        },
+        {
+          "title": "问题与应用",
+          "anchor": "section-15.2.9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=369",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=369"
+    },
+    {
+      "chapterUid": 370,
+      "chapterIdx": 370,
+      "title": "术语表",
+      "level": 1,
+      "wordCount": 6989,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=370",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=370"
+    },
+    {
+      "chapterUid": 371,
+      "chapterIdx": 371,
+      "title": "索引",
+      "level": 1,
+      "wordCount": 27856,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=371",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=371"
+    },
+    {
+      "chapterUid": 372,
+      "chapterIdx": 372,
+      "title": "_1",
+      "level": 2,
+      "wordCount": 24124,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=372",
+      "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=372"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 13,
+      "chapterTitle": "1. 1. 3 原理三：理性人考虑边际量",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_0ZaDMMDLcDKj6wL6x7Flg6pL_13_1696-2139",
+          "range": "1696-2139",
+          "rangeStart": 1696,
+          "rangeEnd": 2139,
+          "markText": "例如,假设你正在考虑用手机给一个朋友打电话。你确定与朋友通\n话10分钟给你带来的收益估计为7美元左右。你手机的服务费是每月40美元的固定费用加上每分钟0.5美元的通话费用。你通常每月打电话100分钟,因此你每月的付费为90美元(每分钟0.5美元乘每月100分钟,加40美元的固定费用)。在这种情况下,你应该打电话吗?你可能会有如下推理:“由于我每月为打100分钟电话支付90美元,平均每分钟我的电话费是0.9美元。因此,10分钟的电话费是9美元。由于成本9美元大于收益7美元,所以我将不打这个电话。\"但是,这个结论是错误的。虽然10分钟电话的平均成本是9美元,但边际成本一一如果你多打这一次电话,你付费的增加量一一只是5美元。只有比较边际收益与边际成本,你才能做出正确的决策。由于边际收益7美元大于边际成本5美元,你应该打这个电话。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1762078949,
+          "createTimeFormatted": "2025-11-02 18:22:29",
+          "chapterUid": 13,
+          "appLink": "weread://bestbookmark?bookId=CB_0ZaDMMDLcDKj6wL6x7Flg6pL&chapterUid=13&rangeStart=1696&rangeEnd=2139",
+          "webLink": "https://weread.qq.com/web/reader/66242003643425f305a61444d4d444c63444b6a36774c367837466c6736704cd92?chapterUid=13&rangeStart=1696&rangeEnd=2139"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

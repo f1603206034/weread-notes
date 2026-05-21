@@ -1,0 +1,657 @@
+{
+  "meta": {
+    "bookId": "3300043529",
+    "title": "死屋手记（读客三个圈经典文库）",
+    "author": "陀思妥耶夫斯基",
+    "translator": "耿济之",
+    "cover": "https://cdn.weread.qq.com/weread/cover/38/cpPlatform_nJ5wAiSb3TXSxLL2GJw8Qy/t6_cpPlatform_nJ5wAiSb3TXSxLL2GJw8Qy.jpg",
+    "intro": "这里是“死屋”，这里的寒冬看不到尽头。\r\n难以下咽的食物、明目张胆的盗窃、无休无止的谩骂、永不停歇的争斗……\r\n忌炉、怨恨、愤怒、屈辱、痛苦、卑劣、自私、孤独……\r\n上万种戏码轮番上演，人性被反复审问。\r\n翻开《死屋手记》，陀思妥耶夫斯基带你看清人性的全部可能!",
+    "category": "文学-纪实文学",
+    "publisher": "江苏凤凰文艺出版社",
+    "publishTime": "2023-01-01 00:00:00",
+    "isbn": "9787559467706",
+    "wordCount": 0,
+    "newRating": 860,
+    "newRatingCount": 68,
+    "newRatingDetail": {
+      "good": 59,
+      "fair": 6,
+      "poor": 3,
+      "recent": 0,
+      "deepV": 12,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300043529",
+    "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96",
+    "lastSync": "2026-05-21T12:00:23Z",
+    "readingProgress": "31%",
+    "readingTime": "0分钟",
+    "finishedDate": "2023-08-30",
+    "noteCount": 4,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "0bc816aa69b2018a19746d65d1d07ed807d9b762ee81fbf78fe246a16d0b573f"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 148,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "第一卷",
+      "level": 1,
+      "wordCount": 3503,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "引言",
+          "anchor": "Chapter1_00002",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一章 死屋",
+      "level": 2,
+      "wordCount": 10265,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第二章 最初印象",
+      "level": 2,
+      "wordCount": 11664,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第三章 最初印象（续）",
+      "level": 2,
+      "wordCount": 10736,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第四章 最初印象（续）",
+      "level": 2,
+      "wordCount": 11985,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第五章 第一月",
+      "level": 2,
+      "wordCount": 10959,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第六章 第一月（续）",
+      "level": 2,
+      "wordCount": 9810,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第七章 新交——彼得罗夫",
+      "level": 2,
+      "wordCount": 9175,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第八章 有决断的人——卢卡",
+      "level": 2,
+      "wordCount": 4797,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第九章 伊赛·福米奇——澡堂——巴克卢申的故事",
+      "level": 2,
+      "wordCount": 11517,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第十章 耶稣圣诞节",
+      "level": 2,
+      "wordCount": 11041,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第十一章 演戏",
+      "level": 2,
+      "wordCount": 14072,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第二卷",
+      "level": 1,
+      "wordCount": 10549,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 医院",
+          "anchor": "Chapter2_00002",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第二章 医院（续）",
+      "level": 2,
+      "wordCount": 10158,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第三章 医院（续）",
+      "level": 2,
+      "wordCount": 12687,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第四章 阿库莉卡的丈夫（囚犯的自述）",
+      "level": 2,
+      "wordCount": 7785,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第五章 夏日",
+      "level": 2,
+      "wordCount": 11912,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第六章 监狱里的动物",
+      "level": 2,
+      "wordCount": 8682,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第七章 请愿",
+      "level": 2,
+      "wordCount": 12578,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第八章 同伴们",
+      "level": 2,
+      "wordCount": 10617,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第九章 越狱",
+      "level": 2,
+      "wordCount": 10173,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第十章 出狱",
+      "level": 2,
+      "wordCount": 3164,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "三个圈独家文化手册",
+      "level": 1,
+      "wordCount": 10089,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "导读 《死屋手记》：一场肉体与灵魂的苦役",
+          "anchor": "Chapter3_00002",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "图文解读 《死屋手记》——自传与“重生”",
+      "level": 2,
+      "wordCount": 2187,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300043529&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=26"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 10,
+      "chapterTitle": "第七章 新交——彼得罗夫",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300043529_10_7498-7621",
+          "range": "7498-7621",
+          "rangeStart": 7498,
+          "rangeEnd": 7621,
+          "markText": "“他是所有的罪犯中最有决断的、最不知惧怕的一个。”米茨基说，“他什么事情都做得出来，他不会在任何事物面前止步，如果他身上来了一股顽固的脾气，他会宰杀你。如果他想这样做，简直随随便便地宰杀你，不皱眉头，也绝不后悔。我甚至觉得，他的脑筋是不健全的。”",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1686188099,
+          "createTimeFormatted": "2023-06-08 09:34:59",
+          "chapterUid": 10,
+          "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=10&rangeStart=7498&rangeEnd=7621",
+          "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=10&rangeStart=7498&rangeEnd=7621"
+        }
+      ]
+    },
+    {
+      "chapterUid": 9,
+      "chapterTitle": "第六章 第一月（续）",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300043529_9_10674-10721",
+          "range": "10674-10721",
+          "rangeStart": 10674,
+          "rangeEnd": 10721,
+          "markText": "无论我钻到什么地方帮助他们工作，我总是到处不合适，到处妨碍人，到处被人们轰走，且几乎总是挨骂。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1686188098,
+          "createTimeFormatted": "2023-06-08 09:34:58",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=9&rangeStart=10674&rangeEnd=10721",
+          "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=9&rangeStart=10674&rangeEnd=10721"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300043529_9_6642-6703",
+          "range": "6642-6703",
+          "rangeStart": 6642,
+          "rangeEnd": 6703,
+          "markText": "我根本不明白他们为什么恼恨斯库拉托夫，而且一般说来，为什么所有快乐的人，像我在这最初的几天内所看到的，仿佛都处于被鄙视之列",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1685694540,
+          "createTimeFormatted": "2023-06-02 16:29:00",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=9&rangeStart=6642&rangeEnd=6703",
+          "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=9&rangeStart=6642&rangeEnd=6703"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7IFC3s8Wr",
+          "range": "9033-9350",
+          "chapterName": "",
+          "content": "\n看过个回答，问题是\n做生意的人是如何和不同的人相处的？\n答主：从小到大，家里是做生意的，和家里大人见过形形色色的人。后来自己总结，就是进一个新的环境，要快速的找到自己位置，才能和别人相处融洽。位置很重要。\n即使自己不给你定位，新环境的人会给你位置。与其被动，不如主动。\n当做了或说了，不符合自身位置的事情，就会受到其他人的恶意。",
+          "abstract": "“先应该把这木头拆走。动手吧，弟兄们！”一个人说着，他不是首领，也不是指挥者，不过是普通的苦工，平时总是不言不语的，很安静，刚才也一直沉默寡言。他俯下身子用手抱住一根厚木头，等着帮忙的人，但是谁也不帮他的忙。\n“是的，你会抬起来的！你抬不起来，连你的祖父，你这狗熊的祖父来也抬不起来的！”有人从牙缝里嘟哝着。\n“那怎么办？弟兄们，怎么开始？我真是不知道……”那个显得惶惑的、好出风头的人说，把木头扔下，抬起身来。\n“那么多的工作，你既然做不完……又何必那样勤快呢？”",
+          "star": -1,
+          "createTime": 1685695455,
+          "createTimeFormatted": "2023-06-02 16:44:15",
+          "isFinish": false,
+          "chapterUid": 9
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300043529_5_1217-1291",
+      "chapterUid": 5,
+      "range": "1217-1291",
+      "markText": "要想把一个人彻底毁掉，用极可怕的刑罚来对付他（这种刑罚即使是最厉害的凶手也会胆战心惊，毛骨悚然），那么只需让他干一种毫无益处、毫无意义的工作就行了。",
+      "totalCount": 98,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=5&rangeStart=1217&rangeEnd=1291",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=5&rangeStart=1217&rangeEnd=1291"
+    },
+    {
+      "bookmarkId": "3300043529_8_10884-10926",
+      "chapterUid": 8,
+      "range": "10884-10926",
+      "markText": "“罪犯”这个词的全部含义，就是表示一个人没有自由，而花钱的时候他却能行使自己的自由。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=8&rangeStart=10884&rangeEnd=10926",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=8&rangeStart=10884&rangeEnd=10926"
+    },
+    {
+      "bookmarkId": "3300043529_8_715-774",
+      "chapterUid": 8,
+      "range": "715-774",
+      "markText": "这感觉有时弄到需要故意刺激自己的创伤的地步，仿佛愿意欣赏自己的痛苦，仿佛真正的快乐就在于意识到这种不幸的全部重大意义。",
+      "totalCount": 64,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=8&rangeStart=715&rangeEnd=774",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=8&rangeStart=715&rangeEnd=774"
+    },
+    {
+      "bookmarkId": "3300043529_4_2005-2033",
+      "chapterUid": 4,
+      "range": "2005-2033",
+      "markText": "人是能够习惯一切的生物，我觉得这是给人所下的最好的定义。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=4&rangeStart=2005&rangeEnd=2033",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=4&rangeStart=2005&rangeEnd=2033"
+    },
+    {
+      "bookmarkId": "3300043529_4_6519-6604",
+      "chapterUid": 4,
+      "range": "6519-6604",
+      "markText": "通常忍耐了几年，十分恭顺，忍受着最残忍的刑罚，忽然为了一点小事，为了一点琐事，甚至几乎并不为什么，就发作了出来。从另一些人的眼光看来，甚至可以称他为疯子，但人就是这样的。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=4&rangeStart=6519&rangeEnd=6604",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=4&rangeStart=6519&rangeEnd=6604"
+    },
+    {
+      "bookmarkId": "3300043529_7_6949-7014",
+      "chapterUid": 7,
+      "range": "6949-7014",
+      "markText": "让我来简单地描述一下我们狱室里的所有成员吧。我必须在里面住上许多年，而他们全是我将来的室友和同伴，显然我要带着热切的好奇审视他们。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=7&rangeStart=6949&rangeEnd=7014",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=7&rangeStart=6949&rangeEnd=7014"
+    },
+    {
+      "bookmarkId": "3300043529_22_2068-2125",
+      "chapterUid": 22,
+      "range": "2068-2125",
+      "markText": "我忍受不了这种性格，后来就有意和鲍-斯基疏远了，但永远没有停止喜欢他；而我和米茨基从来没有吵嘴，但是永远不喜欢他。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=22&rangeStart=2068&rangeEnd=2125",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=22&rangeStart=2068&rangeEnd=2125"
+    },
+    {
+      "bookmarkId": "3300043529_7_6466-6525",
+      "chapterUid": 7,
+      "range": "6466-6525",
+      "markText": "一个喝得醉醺醺的人，一面任意挥霍金钱，一面又很苛刻地对待他的佣工，这样的情形，不只在监狱里，不只在赌场上，我都看到过。",
+      "totalCount": 42,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=7&rangeStart=6466&rangeEnd=6525",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=7&rangeStart=6466&rangeEnd=6525"
+    },
+    {
+      "bookmarkId": "3300043529_3_1793-1826",
+      "chapterUid": 3,
+      "range": "1793-1826",
+      "markText": "他极有学问，读过许多书，但是很少说话。总之，和他是很难说到一起的。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=3&rangeStart=1793&rangeEnd=1826",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=3&rangeStart=1793&rangeEnd=1826"
+    },
+    {
+      "bookmarkId": "3300043529_8_11693-11776",
+      "chapterUid": 8,
+      "range": "11693-11776",
+      "markText": "好比一个被活埋在棺材里的人苏醒过来时，拼命地敲打他的棺材盖，想努力揭开它，虽然意识会劝导他，他所有的努力将是枉然。但问题的关键在于这并不是理智的问题，而是神经质的表现",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=8&rangeStart=11693&rangeEnd=11776",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=8&rangeStart=11693&rangeEnd=11776"
+    },
+    {
+      "bookmarkId": "3300043529_17_7415-7459",
+      "chapterUid": 17,
+      "range": "7415-7459",
+      "markText": "但是，我看着这些不幸的人，就觉得异常痛苦。可以说，任何时候，我都不能淡漠地看着这些疯子。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=17&rangeStart=7415&rangeEnd=7459",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=17&rangeStart=7415&rangeEnd=7459"
+    },
+    {
+      "bookmarkId": "3300043529_19_13185-13210",
+      "chapterUid": 19,
+      "range": "13185-13210",
+      "markText": "重审的结果是罗莫夫的刑期增加，且挨了一千记的鞭刑。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=19&rangeStart=13185&rangeEnd=13210",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=19&rangeStart=13185&rangeEnd=13210"
+    },
+    {
+      "bookmarkId": "3300043529_3_1054-1093",
+      "chapterUid": 3,
+      "range": "1054-1093",
+      "markText": "总之，这里的土地是可赞颂的，只要会享受它就行。而在西伯利亚，人们是很会享受的。",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=3&rangeStart=1054&rangeEnd=1093",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=3&rangeStart=1054&rangeEnd=1093"
+    },
+    {
+      "bookmarkId": "3300043529_4_1728-1741",
+      "chapterUid": 4,
+      "range": "1728-1741",
+      "markText": "在这个地方是可以学会忍耐的",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=4&rangeStart=1728&rangeEnd=1741",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=4&rangeStart=1728&rangeEnd=1741"
+    },
+    {
+      "bookmarkId": "3300043529_6_2524-2613",
+      "chapterUid": 6,
+      "range": "2524-2613",
+      "markText": "他们当中有些人拼命地工作着，有时无休无止地工作了数月之久，仅仅为了在一天内将所有赚到的钱完全花掉，花得干干净净，然后又用好几个月的工夫勤劳地工作着，一直到再来一次狂饮的时候为止。",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=6&rangeStart=2524&rangeEnd=2613",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=6&rangeStart=2524&rangeEnd=2613"
+    },
+    {
+      "bookmarkId": "3300043529_7_5136-5179",
+      "chapterUid": 7,
+      "range": "5136-5179",
+      "markText": "我们的狱室一关闭，立刻出现了一种特别的情景——变得像一所真正的住宅，像一个家庭的一样。",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=7&rangeStart=5136&rangeEnd=5179",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=7&rangeStart=5136&rangeEnd=5179"
+    },
+    {
+      "bookmarkId": "3300043529_21_4213-4284",
+      "chapterUid": 21,
+      "range": "4213-4284",
+      "markText": "这一切更加重要的是，每一个初进狱的人，在来到后两小时，就会成为和其他人一样的人，好像到了自己的家里一样，在监狱的团体内和大家一样享受同等的权利",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=21&rangeStart=4213&rangeEnd=4284",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=21&rangeStart=4213&rangeEnd=4284"
+    },
+    {
+      "bookmarkId": "3300043529_23_12424-12470",
+      "chapterUid": 23,
+      "range": "12424-12470",
+      "markText": "总之，自从那次越狱后，库利科夫在监狱中的声望大大降低了。成功，在人们心中的意义是至关重要的。",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=23&rangeStart=12424&rangeEnd=12470",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=23&rangeStart=12424&rangeEnd=12470"
+    },
+    {
+      "bookmarkId": "3300043529_3_618-636",
+      "chapterUid": 3,
+      "range": "618-636",
+      "markText": "西伯利亚虽很寒冷，但做官是极温暖的。",
+      "totalCount": 33,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=3&rangeStart=618&rangeEnd=636",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=3&rangeStart=618&rangeEnd=636"
+    },
+    {
+      "bookmarkId": "3300043529_18_6539-6560",
+      "chapterUid": 18,
+      "range": "6539-6560",
+      "markText": "人们都在嘲笑我，而这一切全是菲利卡捣的鬼。",
+      "totalCount": 32,
+      "appLink": "weread://bestbookmark?bookId=3300043529&chapterUid=18&rangeStart=6539&rangeEnd=6560",
+      "webLink": "https://weread.qq.com/web/reader/db132fc0813ab7780g019e96?chapterUid=18&rangeStart=6539&rangeEnd=6560"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 17,
+    "chapterOffset": 394,
+    "progress": 31,
+    "updateTime": 1686565907,
+    "recordReadingTime": 0,
+    "finishTime": 1693396609
+  }
+}

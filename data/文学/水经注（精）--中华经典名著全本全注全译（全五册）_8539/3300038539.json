@@ -1,0 +1,1495 @@
+{
+  "meta": {
+    "bookId": "3300038539",
+    "title": "水经注（精）--中华经典名著全本全注全译（全五册）",
+    "author": "陈桥驿 叶光庭 叶扬译 王东注",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/43/cpPlatform_dHt3y3rFksSbF6WURvpK1d/t6_cpPlatform_dHt3y3rFksSbF6WURvpK1d.jpg",
+    "intro": "《水经注》共四十卷，为北魏郦道元所著，是我国第一部以记载河道水系为主的综合地理著作。记载了一千多条水道及其所经地区的的自然地貌、人文遗迹、建置沿革和有关的历史事件、神话传说、人物典故、民俗物产等，涉及历史、考古、地名、水利、宗教，称得上我国6世纪的一部地理百科全书。本书融汇了陈桥驿先生六十余年研治体会，以陈桥驿《水经注校证》为底本，增以题解、注释，题解精炼允当，译文流畅自然，注释力求精当，以使读者更好地阅读、使用本书。",
+    "category": "文学-古典文学",
+    "publisher": "中华书局有限公司",
+    "publishTime": "2020-11-20 00:00:00",
+    "isbn": "9787101148053",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 9,
+    "newRatingDetail": {
+      "good": 6,
+      "fair": 2,
+      "poor": 1,
+      "recent": 0,
+      "deepV": 4,
+      "myRating": "",
+      "title": "评分不足"
+    },
+    "appLink": "weread://reading?bId=3300038539",
+    "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee",
+    "lastSync": "2026-05-21T11:53:10Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 2,
+    "bookmarkCount": 0,
+    "contentHash": "311ac871d9fe1bccc9324206540c770ceae09920a4d9d9824c493780340dffcd"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 5,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 164,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "水经注（一）",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "前言",
+      "level": 2,
+      "wordCount": 5508,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "原序",
+      "level": 2,
+      "wordCount": 4200,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "卷一",
+      "level": 2,
+      "wordCount": 36001,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "河水一",
+          "anchor": "b001",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "卷二",
+      "level": 2,
+      "wordCount": 65073,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "河水二",
+          "anchor": "b002",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "卷三",
+      "level": 2,
+      "wordCount": 40166,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "河水三",
+          "anchor": "b003",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "卷四",
+      "level": 2,
+      "wordCount": 64444,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "河水四",
+          "anchor": "b004",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "卷五",
+      "level": 2,
+      "wordCount": 86068,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "河水五",
+          "anchor": "b005",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "卷六",
+      "level": 2,
+      "wordCount": 64438,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "汾水",
+          "anchor": "b006",
+          "level": 3
+        },
+        {
+          "title": "浍水",
+          "anchor": "b007",
+          "level": 3
+        },
+        {
+          "title": "涑水",
+          "anchor": "b008",
+          "level": 3
+        },
+        {
+          "title": "文水",
+          "anchor": "b009",
+          "level": 3
+        },
+        {
+          "title": "原公水",
+          "anchor": "b010",
+          "level": 3
+        },
+        {
+          "title": "洞过水",
+          "anchor": "b011",
+          "level": 3
+        },
+        {
+          "title": "晋水",
+          "anchor": "b012",
+          "level": 3
+        },
+        {
+          "title": "湛水",
+          "anchor": "b013",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "卷七",
+      "level": 2,
+      "wordCount": 42115,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "济水一",
+          "anchor": "b014",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "水经注（二）",
+      "level": 1,
+      "wordCount": 4,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "卷八",
+      "level": 2,
+      "wordCount": 52340,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "济水二",
+          "anchor": "b001",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "卷九",
+      "level": 2,
+      "wordCount": 77275,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "清水",
+          "anchor": "b002",
+          "level": 3
+        },
+        {
+          "title": "沁水",
+          "anchor": "b003",
+          "level": 3
+        },
+        {
+          "title": "淇水",
+          "anchor": "b004",
+          "level": 3
+        },
+        {
+          "title": "荡水",
+          "anchor": "b005",
+          "level": 3
+        },
+        {
+          "title": "洹水",
+          "anchor": "b006",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "卷十",
+      "level": 2,
+      "wordCount": 59737,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "浊漳水",
+          "anchor": "b007",
+          "level": 3
+        },
+        {
+          "title": "清漳水",
+          "anchor": "b008",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "卷十一",
+      "level": 2,
+      "wordCount": 41502,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "易水",
+          "anchor": "b009",
+          "level": 3
+        },
+        {
+          "title": "滱水",
+          "anchor": "b010",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "卷十二",
+      "level": 2,
+      "wordCount": 15733,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "圣水",
+          "anchor": "b011",
+          "level": 3
+        },
+        {
+          "title": "巨马水",
+          "anchor": "b012",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "卷十三",
+      "level": 2,
+      "wordCount": 48506,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "㶟水",
+          "anchor": "b013",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "卷十四",
+      "level": 2,
+      "wordCount": 49466,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "湿馀水",
+          "anchor": "b014",
+          "level": 3
+        },
+        {
+          "title": "沽河",
+          "anchor": "b015",
+          "level": 3
+        },
+        {
+          "title": "鲍丘水",
+          "anchor": "b016",
+          "level": 3
+        },
+        {
+          "title": "濡水",
+          "anchor": "b017",
+          "level": 3
+        },
+        {
+          "title": "大辽水",
+          "anchor": "b018",
+          "level": 3
+        },
+        {
+          "title": "小辽水",
+          "anchor": "b019",
+          "level": 3
+        },
+        {
+          "title": "浿水",
+          "anchor": "b020",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "卷十五",
+      "level": 2,
+      "wordCount": 47760,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "洛水",
+          "anchor": "b021",
+          "level": 3
+        },
+        {
+          "title": "伊水",
+          "anchor": "b022",
+          "level": 3
+        },
+        {
+          "title": "瀍水",
+          "anchor": "b023",
+          "level": 3
+        },
+        {
+          "title": "涧水",
+          "anchor": "b024",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "水经注（三）",
+      "level": 1,
+      "wordCount": 4,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "卷十六",
+      "level": 2,
+      "wordCount": 71930,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "穀水",
+          "anchor": "b001",
+          "level": 3
+        },
+        {
+          "title": "甘水",
+          "anchor": "b002",
+          "level": 3
+        },
+        {
+          "title": "漆水",
+          "anchor": "b003",
+          "level": 3
+        },
+        {
+          "title": "浐水",
+          "anchor": "b004",
+          "level": 3
+        },
+        {
+          "title": "沮水",
+          "anchor": "b005",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "卷十七",
+      "level": 2,
+      "wordCount": 32881,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "渭水一",
+          "anchor": "b006",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "卷十八",
+      "level": 2,
+      "wordCount": 12610,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "渭水二",
+          "anchor": "b007",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "卷十九",
+      "level": 2,
+      "wordCount": 73818,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "渭水三",
+          "anchor": "b008",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "卷二十",
+      "level": 2,
+      "wordCount": 40415,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "漾水",
+          "anchor": "b009",
+          "level": 3
+        },
+        {
+          "title": "丹水",
+          "anchor": "b010",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "卷二十一",
+      "level": 2,
+      "wordCount": 42643,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "汝水",
+          "anchor": "b011",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "卷二十二",
+      "level": 2,
+      "wordCount": 87957,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "颍水",
+          "anchor": "b012",
+          "level": 3
+        },
+        {
+          "title": "洧水",
+          "anchor": "b013",
+          "level": 3
+        },
+        {
+          "title": "潩水",
+          "anchor": "b014",
+          "level": 3
+        },
+        {
+          "title": "潧水",
+          "anchor": "b015",
+          "level": 3
+        },
+        {
+          "title": "渠沙水",
+          "anchor": "b016",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "卷二十三",
+      "level": 2,
+      "wordCount": 47264,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "阴沟水",
+          "anchor": "b017",
+          "level": 3
+        },
+        {
+          "title": "汳水",
+          "anchor": "b018",
+          "level": 3
+        },
+        {
+          "title": "获水",
+          "anchor": "b019",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "水经注（四）",
+      "level": 1,
+      "wordCount": 4,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "卷二十四",
+      "level": 2,
+      "wordCount": 67445,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "睢水",
+          "anchor": "b001",
+          "level": 3
+        },
+        {
+          "title": "瓠子河",
+          "anchor": "b002",
+          "level": 3
+        },
+        {
+          "title": "汶水",
+          "anchor": "b003",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "卷二十五",
+      "level": 2,
+      "wordCount": 60814,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "泗水",
+          "anchor": "b004",
+          "level": 3
+        },
+        {
+          "title": "沂水",
+          "anchor": "b005",
+          "level": 3
+        },
+        {
+          "title": "洙水",
+          "anchor": "b006",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "卷二十六",
+      "level": 2,
+      "wordCount": 65584,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "沭水",
+          "anchor": "b007",
+          "level": 3
+        },
+        {
+          "title": "巨洋水",
+          "anchor": "b008",
+          "level": 3
+        },
+        {
+          "title": "淄水",
+          "anchor": "b009",
+          "level": 3
+        },
+        {
+          "title": "汶水",
+          "anchor": "b010",
+          "level": 3
+        },
+        {
+          "title": "潍水",
+          "anchor": "b011",
+          "level": 3
+        },
+        {
+          "title": "胶水",
+          "anchor": "b012",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "卷二十七",
+      "level": 2,
+      "wordCount": 31153,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "沔水一",
+          "anchor": "b013",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "卷二十八",
+      "level": 2,
+      "wordCount": 43927,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "沔水二",
+          "anchor": "b014",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "卷二十九",
+      "level": 2,
+      "wordCount": 35613,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "沔水三",
+          "anchor": "b015",
+          "level": 3
+        },
+        {
+          "title": "潜水",
+          "anchor": "b016",
+          "level": 3
+        },
+        {
+          "title": "湍水",
+          "anchor": "b017",
+          "level": 3
+        },
+        {
+          "title": "均水",
+          "anchor": "b018",
+          "level": 3
+        },
+        {
+          "title": "粉水",
+          "anchor": "b019",
+          "level": 3
+        },
+        {
+          "title": "白水",
+          "anchor": "b020",
+          "level": 3
+        },
+        {
+          "title": "比水",
+          "anchor": "b021",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "卷三十",
+      "level": 2,
+      "wordCount": 50261,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "淮水",
+          "anchor": "b022",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "卷三十一",
+      "level": 2,
+      "wordCount": 47886,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "滍水",
+          "anchor": "b023",
+          "level": 3
+        },
+        {
+          "title": "淯水",
+          "anchor": "b024",
+          "level": 3
+        },
+        {
+          "title": "㶏水",
+          "anchor": "b025",
+          "level": 3
+        },
+        {
+          "title": "灈水",
+          "anchor": "b026",
+          "level": 3
+        },
+        {
+          "title": "瀙水",
+          "anchor": "b027",
+          "level": 3
+        },
+        {
+          "title": "水",
+          "anchor": "b028",
+          "level": 3
+        },
+        {
+          "title": "涢水",
+          "anchor": "b029",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "水经注（五）",
+      "level": 1,
+      "wordCount": 4,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "卷三十二",
+      "level": 2,
+      "wordCount": 38272,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "漻水",
+          "anchor": "b001",
+          "level": 3
+        },
+        {
+          "title": "蕲水",
+          "anchor": "b002",
+          "level": 3
+        },
+        {
+          "title": "决水",
+          "anchor": "b003",
+          "level": 3
+        },
+        {
+          "title": "沘水",
+          "anchor": "b004",
+          "level": 3
+        },
+        {
+          "title": "泄水",
+          "anchor": "b005",
+          "level": 3
+        },
+        {
+          "title": "肥水",
+          "anchor": "b006",
+          "level": 3
+        },
+        {
+          "title": "施水",
+          "anchor": "b007",
+          "level": 3
+        },
+        {
+          "title": "沮水",
+          "anchor": "b008",
+          "level": 3
+        },
+        {
+          "title": "漳水",
+          "anchor": "b009",
+          "level": 3
+        },
+        {
+          "title": "夏水",
+          "anchor": "b010",
+          "level": 3
+        },
+        {
+          "title": "羌水",
+          "anchor": "b011",
+          "level": 3
+        },
+        {
+          "title": "涪水",
+          "anchor": "b012",
+          "level": 3
+        },
+        {
+          "title": "梓潼水",
+          "anchor": "b013",
+          "level": 3
+        },
+        {
+          "title": "涔水",
+          "anchor": "b014",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "卷三十三",
+      "level": 2,
+      "wordCount": 48238,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "江水一",
+          "anchor": "b015",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "卷三十四",
+      "level": 2,
+      "wordCount": 28879,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "江水二",
+          "anchor": "b016",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "卷三十五",
+      "level": 2,
+      "wordCount": 33321,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "江水三",
+          "anchor": "b017",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "卷三十六",
+      "level": 2,
+      "wordCount": 63597,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "青衣水",
+          "anchor": "b018",
+          "level": 3
+        },
+        {
+          "title": "桓水",
+          "anchor": "b019",
+          "level": 3
+        },
+        {
+          "title": "若水",
+          "anchor": "b020",
+          "level": 3
+        },
+        {
+          "title": "沫水",
+          "anchor": "b021",
+          "level": 3
+        },
+        {
+          "title": "延江水",
+          "anchor": "b022",
+          "level": 3
+        },
+        {
+          "title": "存水",
+          "anchor": "b023",
+          "level": 3
+        },
+        {
+          "title": "温水",
+          "anchor": "b024",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "卷三十七",
+      "level": 2,
+      "wordCount": 48426,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "淹水",
+          "anchor": "b025",
+          "level": 3
+        },
+        {
+          "title": "叶榆河",
+          "anchor": "b026",
+          "level": 3
+        },
+        {
+          "title": "夷水",
+          "anchor": "b027",
+          "level": 3
+        },
+        {
+          "title": "油水",
+          "anchor": "b028",
+          "level": 3
+        },
+        {
+          "title": "澧水",
+          "anchor": "b029",
+          "level": 3
+        },
+        {
+          "title": "沅水",
+          "anchor": "b030",
+          "level": 3
+        },
+        {
+          "title": "泿水",
+          "anchor": "b031",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "卷三十八",
+      "level": 2,
+      "wordCount": 46546,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资水",
+          "anchor": "b032",
+          "level": 3
+        },
+        {
+          "title": "涟水",
+          "anchor": "b033",
+          "level": 3
+        },
+        {
+          "title": "湘水",
+          "anchor": "b034",
+          "level": 3
+        },
+        {
+          "title": "漓水",
+          "anchor": "b035",
+          "level": 3
+        },
+        {
+          "title": "溱水",
+          "anchor": "b036",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "卷三十九",
+      "level": 2,
+      "wordCount": 40136,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "洭水",
+          "anchor": "b037",
+          "level": 3
+        },
+        {
+          "title": "深水",
+          "anchor": "b038",
+          "level": 3
+        },
+        {
+          "title": "锺水",
+          "anchor": "b039",
+          "level": 3
+        },
+        {
+          "title": "耒水",
+          "anchor": "b040",
+          "level": 3
+        },
+        {
+          "title": "洣水",
+          "anchor": "b041",
+          "level": 3
+        },
+        {
+          "title": "漉水",
+          "anchor": "b042",
+          "level": 3
+        },
+        {
+          "title": "浏水",
+          "anchor": "b043",
+          "level": 3
+        },
+        {
+          "title": "㵋水",
+          "anchor": "b044",
+          "level": 3
+        },
+        {
+          "title": "赣水",
+          "anchor": "b045",
+          "level": 3
+        },
+        {
+          "title": "庐江水",
+          "anchor": "b046",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "卷四十",
+      "level": 2,
+      "wordCount": 63630,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "渐江水",
+          "anchor": "b047",
+          "level": 3
+        },
+        {
+          "title": "斤江水",
+          "anchor": "b048",
+          "level": 3
+        },
+        {
+          "title": "江以南至日南郡二十水",
+          "anchor": "b049",
+          "level": 3
+        },
+        {
+          "title": "《禹贡》山水泽地所在",
+          "anchor": "b050",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "附录：《水经注》水名索引",
+      "level": 2,
+      "wordCount": 53057,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "中华经典名著全本全注全译丛书",
+      "level": 2,
+      "wordCount": 645,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300038539&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=51"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 41,
+      "chapterTitle": "卷三十二",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300038539_41_38181-38341",
+          "range": "38181-38341",
+          "rangeStart": 38181,
+          "rangeEnd": 38341,
+          "markText": "施水又东分为二水，枝水北出焉，下注阳渊。施水又东迳湖口戍，东注巢湖，谓之施口也。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1738071608,
+          "createTimeFormatted": "2025-01-28 21:40:08",
+          "chapterUid": 41,
+          "appLink": "weread://bestbookmark?bookId=3300038539&chapterUid=41&rangeStart=38181&rangeEnd=38341",
+          "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=41&rangeStart=38181&rangeEnd=38341"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300038539_41_35985-36007",
+          "range": "35985-36007",
+          "rangeStart": 35985,
+          "rangeEnd": 36007,
+          "markText": "盖夏水暴长，施合于肥，故曰合肥也，非谓夏水。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1738070923,
+          "createTimeFormatted": "2025-01-28 21:28:43",
+          "chapterUid": 41,
+          "appLink": "weread://bestbookmark?bookId=3300038539&chapterUid=41&rangeStart=35985&rangeEnd=36007",
+          "webLink": "https://weread.qq.com/web/reader/aea32ee0813ab758dg0199ee?chapterUid=41&rangeStart=35985&rangeEnd=36007"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7XxJmeGlS",
+          "range": "18744-18746",
+          "chapterName": "",
+          "content": "东淝河",
+          "abstract": "肥水",
+          "star": -1,
+          "createTime": 1738071964,
+          "createTimeFormatted": "2025-01-28 21:46:04",
+          "isFinish": false,
+          "chapterUid": 41
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7XxJkGjAm",
+          "range": "35643-35645",
+          "chapterName": "",
+          "content": "南淝河",
+          "abstract": "施水",
+          "star": -1,
+          "createTime": 1738071940,
+          "createTimeFormatted": "2025-01-28 21:45:40",
+          "isFinish": false,
+          "chapterUid": 41
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 41,
+    "chapterOffset": 71164,
+    "progress": 0,
+    "updateTime": 1745901931,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

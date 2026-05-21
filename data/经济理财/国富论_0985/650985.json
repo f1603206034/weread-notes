@@ -1,0 +1,938 @@
+{
+  "meta": {
+    "bookId": "650985",
+    "title": "国富论",
+    "author": "亚当·斯密",
+    "translator": "富强",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/985/650985/t6_650985.jpg",
+    "intro": "《国富论》，原名《国民财富的性质和原因的研究》，是一部经济学专著，也是学术领域内颇具影响力的一部作品。本书共分五篇，总结了近代初期各国资本主义发展的经验，批判吸收了当时的重要经济理论，对整个国民经济的运动过程作了系统的描述，为经济学确定了完整的架构，奠定了资本主义自由经济的理论基础，第一次提出了市场经济会由“看不见的手”自行调节的理论。该书的问世成为了现代政治经济学研究的起点，使经济学成为了一门独立的科学。",
+    "category": "经济理财-财经",
+    "publisher": "北京联合出版公司",
+    "publishTime": "2014-11-01 00:00:00",
+    "isbn": "9787550236400",
+    "wordCount": 0,
+    "newRating": 847,
+    "newRatingCount": 5699,
+    "newRatingDetail": {
+      "good": 4843,
+      "fair": 611,
+      "poor": 245,
+      "recent": 42,
+      "deepV": 479,
+      "myRating": "",
+      "title": "脍炙人口"
+    },
+    "appLink": "weread://reading?bId=650985",
+    "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e",
+    "lastSync": "2026-05-21T11:54:30Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 146,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "第1章 论增进劳动生产力的因素及分配劳动生产物给各个阶层的自然顺序",
+      "level": 1,
+      "wordCount": 5116,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "分工",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=650985&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "分工的起源",
+      "level": 2,
+      "wordCount": 2429,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "市场大小会限制分工",
+      "level": 2,
+      "wordCount": 2576,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "货币的起源和效用",
+      "level": 2,
+      "wordCount": 3993,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "商品的劳动价格与货币价格",
+      "level": 2,
+      "wordCount": 10721,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "商品的价格组成",
+      "level": 2,
+      "wordCount": 4510,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "商品的自然价格与市场价格",
+      "level": 2,
+      "wordCount": 5828,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "工资",
+      "level": 2,
+      "wordCount": 14965,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "资本与利润",
+      "level": 2,
+      "wordCount": 6836,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "劳动与资本对工资与利润的影响",
+      "level": 2,
+      "wordCount": 30648,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "由职业性质造成的不平衡",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "由政策造成的不平衡",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=650985&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "地租",
+      "level": 2,
+      "wordCount": 12317,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "总能提供地租的土地生产物",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=650985&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "有条件提供地租的土地生产物",
+      "level": 3,
+      "wordCount": 9226,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "上述两种土地生产物相对价值的变动（一）",
+      "level": 3,
+      "wordCount": 11220,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "上述两种土地生产物相对价值的变动（二）",
+      "level": 3,
+      "wordCount": 35335,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "本章总结",
+      "level": 3,
+      "wordCount": 2520,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第2章 论资本的流通、累积和作用",
+      "level": 1,
+      "wordCount": 6003,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "资财的划分",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=650985&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "维持国民资本的货币",
+      "level": 2,
+      "wordCount": 27911,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "资本积累与生产和非生产性劳动的关系",
+      "level": 2,
+      "wordCount": 11930,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "贷出取息的资财",
+      "level": 2,
+      "wordCount": 5600,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "资本的用途",
+      "level": 2,
+      "wordCount": 9654,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第3章 论不同国家资本发展的不同",
+      "level": 1,
+      "wordCount": 2937,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "财富的自然积蓄",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=650985&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "欧洲农业在罗马帝国崩溃后曾受到抑制",
+      "level": 2,
+      "wordCount": 7580,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "罗马帝国崩溃后都市的发展",
+      "level": 2,
+      "wordCount": 6416,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "城市工商业会促进农村的发展",
+      "level": 2,
+      "wordCount": 8668,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第4章 论政治经济学体系",
+      "level": 1,
+      "wordCount": 16178,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "重商主义的内在机制",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=650985&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "限制进口本国也能生产的外国货物",
+      "level": 2,
+      "wordCount": 13657,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "限制进口那些使我国陷入贸易逆差的外国货物",
+      "level": 2,
+      "wordCount": 16609,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "此种限制不符合重商主义",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        },
+        {
+          "title": "此种限制也不符合其他原则",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=650985&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "退税",
+      "level": 2,
+      "wordCount": 3318,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "奖励金",
+      "level": 2,
+      "wordCount": 23356,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "通商条约",
+      "level": 2,
+      "wordCount": 6921,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "殖民地",
+      "level": 2,
+      "wordCount": 5442,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "新殖民地建立的目的",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=650985&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "新殖民地繁荣的原因",
+      "level": 3,
+      "wordCount": 16147,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "两大发现对欧洲的意义",
+      "level": 3,
+      "wordCount": 30002,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "关于重商主义的结论",
+      "level": 2,
+      "wordCount": 12138,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "重农主义",
+      "level": 2,
+      "wordCount": 16030,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "第5章 论国家的收入",
+      "level": 1,
+      "wordCount": 10730,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "君主或国家的费用",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        },
+        {
+          "title": "国防经费",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=650985&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "司法经费",
+      "level": 3,
+      "wordCount": 7928,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "公共工程和机关的费用（一）",
+      "level": 3,
+      "wordCount": 20717,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "公共工程和机关的费用（二）",
+      "level": 3,
+      "wordCount": 31374,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "维持君主的尊严也需要费用",
+      "level": 3,
+      "wordCount": 242,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "本章的结论",
+      "level": 3,
+      "wordCount": 753,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "公共收入的来源",
+      "level": 2,
+      "wordCount": 4649,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "君主或国家的非常规收入",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=650985&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "赋税（一）",
+      "level": 3,
+      "wordCount": 12899,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "赋税（二）",
+      "level": 3,
+      "wordCount": 36981,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "公债",
+      "level": 2,
+      "wordCount": 24909,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=650985&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=47"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "分工的起源",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "650985_4_1271-1318",
+          "range": "1271-1318",
+          "rangeStart": 1271,
+          "rangeEnd": 1318,
+          "markText": "如果一个人为了自己的利益，能够刺激别人的利己心而自愿替自己做事，他就可以比较容易地达到目的了。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1729947570,
+          "createTimeFormatted": "2024-10-26 20:59:30",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=650985&chapterUid=4&rangeStart=1271&rangeEnd=1318",
+          "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=4&rangeStart=1271&rangeEnd=1318"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "650985_4_1271-1318",
+      "chapterUid": 4,
+      "range": "1271-1318",
+      "markText": "如果一个人为了自己的利益，能够刺激别人的利己心而自愿替自己做事，他就可以比较容易地达到目的了。",
+      "totalCount": 14586,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=4&rangeStart=1271&rangeEnd=1318",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=4&rangeStart=1271&rangeEnd=1318"
+    },
+    {
+      "bookmarkId": "650985_4_1447-1496",
+      "chapterUid": 4,
+      "range": "1447-1496",
+      "markText": "我们不说唤起别人利他心的话，而改说唤起别人利己心的话。就算我们自己有需要，也要说这样做对他们有利。",
+      "totalCount": 5902,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=4&rangeStart=1447&rangeEnd=1496",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=4&rangeStart=1447&rangeEnd=1496"
+    },
+    {
+      "bookmarkId": "650985_3_2283-2331",
+      "chapterUid": 3,
+      "range": "2283-2331",
+      "markText": "也许就是因为农业不能采用完全的分工制度，才使得农业在劳动生产力的增进上，总是跟不上制造业的步伐。",
+      "totalCount": 5516,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=3&rangeStart=2283&rangeEnd=2331",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=3&rangeStart=2283&rangeEnd=2331"
+    },
+    {
+      "bookmarkId": "650985_3_493-537",
+      "chapterUid": 3,
+      "range": "493-537",
+      "markText": "分工出现之后，劳动生产力得到了最大的增进，运用劳动时的熟练程度、技巧和判断力也得以加强。",
+      "totalCount": 5320,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=3&rangeStart=493&rangeEnd=537",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=3&rangeStart=493&rangeEnd=537"
+    },
+    {
+      "bookmarkId": "650985_5_2705-2760",
+      "chapterUid": 5,
+      "range": "2705-2760",
+      "markText": "但是，有一点很奇怪：对于对外贸易，古代的埃及人、印度人和中国人都不鼓励。内陆的航行，似乎是他们财富的全部来源。",
+      "totalCount": 5248,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=5&rangeStart=2705&rangeEnd=2760",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=5&rangeStart=2705&rangeEnd=2760"
+    },
+    {
+      "bookmarkId": "650985_3_4098-4176",
+      "chapterUid": 3,
+      "range": "4098-4176",
+      "markText": "一个农村劳动者，如果他每半小时就要换一次工作和劳动工具，而且几乎每天都必须从事二十项不同的工作，那么他自然（甚至可以说是必然）会养成闲荡、偷懒、随便等习惯。",
+      "totalCount": 5230,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=3&rangeStart=4098&rangeEnd=4176",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=3&rangeStart=4098&rangeEnd=4176"
+    },
+    {
+      "bookmarkId": "650985_10_4766-4847",
+      "chapterUid": 10,
+      "range": "4766-4847",
+      "markText": "决定劳动工资增高的因素，不是现有的国民财富有多庞大，而是国民财富的不断增加。所以，出现最高劳动工资的国家，往往不是最富有的国家，而是那些最快变得富裕、繁荣的国家。",
+      "totalCount": 5152,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=10&rangeStart=4766&rangeEnd=4847",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=10&rangeStart=4766&rangeEnd=4847"
+    },
+    {
+      "bookmarkId": "650985_7_3090-3125",
+      "chapterUid": 7,
+      "range": "3090-3125",
+      "markText": "换句话说，就是劳动价格高时，货物的价格低；劳动价格低时，货物的价格高。",
+      "totalCount": 4953,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=7&rangeStart=3090&rangeEnd=3125",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=7&rangeStart=3090&rangeEnd=3125"
+    },
+    {
+      "bookmarkId": "650985_3_4444-4494",
+      "chapterUid": 3,
+      "range": "4444-4494",
+      "markText": "人类的注意力如果只集中于单一的事物上，会比分散在许多事物上更容易发现达到目标的更简易、更便利的方法。",
+      "totalCount": 4760,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=3&rangeStart=4444&rangeEnd=4494",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=3&rangeStart=4444&rangeEnd=4494"
+    },
+    {
+      "bookmarkId": "650985_3_2726-2780",
+      "chapterUid": 3,
+      "range": "2726-2780",
+      "markText": "由此可见，贫国尽管在耕种上处于劣势，也同样可以生产出品质优良、售价低廉的小麦，有能力在相当程度上与富国竞争。",
+      "totalCount": 4131,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=3&rangeStart=2726&rangeEnd=2780",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=3&rangeStart=2726&rangeEnd=2780"
+    },
+    {
+      "bookmarkId": "650985_7_1192-1223",
+      "chapterUid": 7,
+      "range": "1192-1223",
+      "markText": "劳动可以用来衡量一切商品的交换价值，却不能衡量一切商品的价值。",
+      "totalCount": 4104,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=7&rangeStart=1192&rangeEnd=1223",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=7&rangeStart=1192&rangeEnd=1223"
+    },
+    {
+      "bookmarkId": "650985_5_1074-1151",
+      "chapterUid": 5,
+      "range": "1074-1151",
+      "markText": "水运开拓的市场，比陆运开拓的市场要广大得多。所以，一直以来，各种产业的分工改良都自然而然地从沿海、沿河一带开始。这种改良要想在内地得以普及，往往需要许久。",
+      "totalCount": 4103,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=5&rangeStart=1074&rangeEnd=1151",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=5&rangeStart=1074&rangeEnd=1151"
+    },
+    {
+      "bookmarkId": "650985_3_5381-5440",
+      "chapterUid": 3,
+      "range": "5381-5440",
+      "markText": "一个人所需的物品可以通过与别人交换而得到充分供应，别人所需的物品也可以从他那里获得，就这样，社会各阶层都普遍富裕起来。",
+      "totalCount": 4063,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=3&rangeStart=5381&rangeEnd=5440",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=3&rangeStart=5381&rangeEnd=5440"
+    },
+    {
+      "bookmarkId": "650985_7_576-596",
+      "chapterUid": 7,
+      "range": "576-596",
+      "markText": "衡量一切商品交换价值的真实尺度就是劳动。",
+      "totalCount": 4020,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=7&rangeStart=576&rangeEnd=596",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=7&rangeStart=576&rangeEnd=596"
+    },
+    {
+      "bookmarkId": "650985_4_2237-2284",
+      "chapterUid": 4,
+      "range": "2237-2284",
+      "markText": "成年人在其所从事的不同职位上所表现出的非常不同的才能，与其说是分工的原因，不如说是分工的结果。",
+      "totalCount": 3618,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=4&rangeStart=2237&rangeEnd=2284",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=4&rangeStart=2237&rangeEnd=2284"
+    },
+    {
+      "bookmarkId": "650985_3_3074-3158",
+      "chapterUid": 3,
+      "range": "3074-3158",
+      "markText": "第一，劳动者因为专业而掌握了技巧；第二，免除了由一种工作转到另一种工作所带来的时间损失；第三，随着简化和缩减劳动的机械的发明，一个人能够做原本需要许多人才能完成的工作。",
+      "totalCount": 3520,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=3&rangeStart=3074&rangeEnd=3158",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=3&rangeStart=3074&rangeEnd=3158"
+    },
+    {
+      "bookmarkId": "650985_3_6203-6297",
+      "chapterUid": 3,
+      "range": "6203-6297",
+      "markText": "总之，任意一样你观察到的东西，都投入了各种劳动。由此可以知道，如果没有千千万万人的协作，一个文明社会中的、微不足道的人，要想按照他现在所适应的舒服简单的方式取得其所需的日用品，是不可能的。",
+      "totalCount": 3406,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=3&rangeStart=6203&rangeEnd=6297",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=3&rangeStart=6203&rangeEnd=6297"
+    },
+    {
+      "bookmarkId": "650985_9_1571-1612",
+      "chapterUid": 9,
+      "range": "1571-1612",
+      "markText": "决定市场价格上升程度的因素有两个，一是货品的缺乏程度；二是竞争者的富有和奢侈程度。",
+      "totalCount": 3248,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=9&rangeStart=1571&rangeEnd=1612",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=9&rangeStart=1571&rangeEnd=1612"
+    },
+    {
+      "bookmarkId": "650985_10_14595-14630",
+      "chapterUid": 10,
+      "range": "14595-14630",
+      "markText": "如果雇主有理性和人道，就不应该鼓励劳动者勤勉，而应该让他们适度地休息。",
+      "totalCount": 3145,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=10&rangeStart=14595&rangeEnd=14630",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=10&rangeStart=14595&rangeEnd=14630"
+    },
+    {
+      "bookmarkId": "650985_3_5262-5296",
+      "chapterUid": 3,
+      "range": "5262-5296",
+      "markText": "因为分工的出现，在政治修明的国家里，就连最底层的劳苦大众也普遍富裕。",
+      "totalCount": 3024,
+      "appLink": "weread://bestbookmark?bookId=650985&chapterUid=3&rangeStart=5262&rangeEnd=5296",
+      "webLink": "https://weread.qq.com/web/reader/6c4324d059eee96c43a4b3e?chapterUid=3&rangeStart=5262&rangeEnd=5296"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

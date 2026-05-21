@@ -1,0 +1,781 @@
+{
+  "meta": {
+    "bookId": "24191019",
+    "title": "邦查女孩",
+    "author": "甘耀明",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/9/YueWen_24191019/t6_YueWen_24191019.jpg",
+    "intro": "“走了多久？”“一个太阳，一个月亮，一条河，六座山。”在风雨飘摇的七十年代台湾，见识过人性黑暗的阿美族女孩古阿霞躲在饭馆楼梯间五年，一天终于跟着患有自闭症、开不了口说话的“杀刀王”帕吉鲁来到新家：林场“摩里沙卡”。她和他一起募款复校，拜访精神分裂的老兵，悼念政治受难者老师，接触入世救人的信仰精神。面对各种考验：暴雨狂风、森林大火、登山雪暴，小人物们用生命谱写下了一则则属于自己坚毅、温柔的传奇故事。本书也描写了蒋介石政权白色恐怖的时代悲剧，以及进入电锯时代后山林遭到疯狂砍伐的景象，侧面呈现了那段少为人所熟知的岛屿历史。",
+    "category": "精品小说-社会小说",
+    "publisher": "文化发展出版社",
+    "publishTime": "2018-11-01 00:00:00",
+    "isbn": "9787514223408",
+    "wordCount": 0,
+    "newRating": 854,
+    "newRatingCount": 1038,
+    "newRatingDetail": {
+      "good": 888,
+      "fair": 120,
+      "poor": 30,
+      "recent": 8,
+      "deepV": 152,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=24191019",
+    "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0",
+    "lastSync": "2026-05-21T11:48:31Z",
+    "readingProgress": "3%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 3,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 123,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "卷一",
+      "level": 1,
+      "wordCount": 14244,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "请你带我走",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=24191019&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "黑暗力量",
+      "level": 2,
+      "wordCount": 14275,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "母猪赌局",
+      "level": 2,
+      "wordCount": 13895,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "珍贵的一堂课",
+      "level": 2,
+      "wordCount": 9263,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "卷二",
+      "level": 1,
+      "wordCount": 10530,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "让我跟你走",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=24191019&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "坏掉的小锡兵修复工厂",
+      "level": 2,
+      "wordCount": 19064,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "杀刀王与他们的共产党老师",
+      "level": 2,
+      "wordCount": 21895,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "卷三",
+      "level": 1,
+      "wordCount": 22581,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "基督教女孩与佛教女孩的相逢",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=24191019&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "上帝与菩萨出现的永远的一天",
+      "level": 2,
+      "wordCount": 8794,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "卷四",
+      "level": 1,
+      "wordCount": 14962,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "日本慈善家喝了难喝咖啡",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=24191019&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "菊港山庄的秘密",
+      "level": 2,
+      "wordCount": 17222,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "七个植物名字的呼唤",
+      "level": 2,
+      "wordCount": 9126,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "阿兵哥来盖学校",
+      "level": 2,
+      "wordCount": 9984,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "卷五",
+      "level": 1,
+      "wordCount": 14819,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "白瞳女孩小墨汁",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=24191019&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "帕吉鲁与喜多普的 PK",
+      "level": 2,
+      "wordCount": 22378,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "砍倒三千龄树屋",
+      "level": 2,
+      "wordCount": 20282,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "卷六",
+      "level": 1,
+      "wordCount": 19225,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "河流带来的黑熊姑娘",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=24191019&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "前往翠池之路",
+      "level": 2,
+      "wordCount": 18605,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "卷七",
+      "level": 1,
+      "wordCount": 21362,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "咒谶森林与浪胖",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=24191019&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "堕胎",
+      "level": 2,
+      "wordCount": 8619,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "请务必保护好手表",
+      "level": 2,
+      "wordCount": 7569,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "彩艳吉丁虫的祝福",
+      "level": 2,
+      "wordCount": 8166,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "卷八",
+      "level": 1,
+      "wordCount": 13474,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "雪无声地落在大地",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=24191019&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "我愿永远为你讲故事",
+      "level": 2,
+      "wordCount": 5761,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "卷九",
+      "level": 1,
+      "wordCount": 10623,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "森林大火",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=24191019&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "欧匹将来电",
+      "level": 2,
+      "wordCount": 6144,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "来自玉山的妈妈",
+      "level": 2,
+      "wordCount": 7939,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "卷十",
+      "level": 1,
+      "wordCount": 15894,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "来自摩里沙卡的姑娘",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=24191019&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "骑上野狼的少女",
+      "level": 2,
+      "wordCount": 15741,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "愿主保守法莉妲丝不哭哭",
+      "level": 2,
+      "wordCount": 16915,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "卷十一",
+      "level": 1,
+      "wordCount": 1431,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "阿们",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=24191019&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "鸣谢",
+      "level": 1,
+      "wordCount": 815,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24191019&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=34"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 3,
+      "chapterTitle": "卷一",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "24191019_3_20124-20180",
+          "range": "20124-20180",
+          "rangeStart": 20124,
+          "rangeEnd": 20180,
+          "markText": "山是用石头和河流说话，海洋用沙砾与海岸说话，祖先用神话跟子孙沟通，自己用梦跟自己对话。她过了一个什么都有的睡梦。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1759374780,
+          "createTimeFormatted": "2025-10-02 11:13:00",
+          "chapterUid": 3,
+          "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=3&rangeStart=20124&rangeEnd=20180",
+          "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=3&rangeStart=20124&rangeEnd=20180"
+        }
+      ]
+    },
+    {
+      "chapterUid": 4,
+      "chapterTitle": "黑暗力量",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "24191019_4_11994-12047",
+          "range": "11994-12047",
+          "rangeStart": 11994,
+          "rangeEnd": 12047,
+          "markText": "“走了多久？”\n“一个太阳，一个月亮，一条河，六座山。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1759373438,
+          "createTimeFormatted": "2025-10-02 10:50:38",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=4&rangeStart=11994&rangeEnd=12047",
+          "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=4&rangeStart=11994&rangeEnd=12047"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "24191019_4_11993-12047",
+      "chapterUid": 4,
+      "range": "11993-12047",
+      "markText": "“走了多久？” “一个太阳，一个月亮，一条河，六座山。”",
+      "totalCount": 630,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=4&rangeStart=11993&rangeEnd=12047",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=4&rangeStart=11993&rangeEnd=12047"
+    },
+    {
+      "bookmarkId": "24191019_6_13408-13430",
+      "chapterUid": 6,
+      "range": "13408-13430",
+      "markText": "“玫瑰换了名字一样芬芳”，落款人是，吴天雄。",
+      "totalCount": 595,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=6&rangeStart=13408&rangeEnd=13430",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=6&rangeStart=13408&rangeEnd=13430"
+    },
+    {
+      "bookmarkId": "24191019_3_20124-20180",
+      "chapterUid": 3,
+      "range": "20124-20180",
+      "markText": "山是用石头和河流说话，海洋用沙砾与海岸说话，祖先用神话跟子孙沟通，自己用梦跟自己对话。她过了一个什么都有的睡梦。",
+      "totalCount": 578,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=3&rangeStart=20124&rangeEnd=20180",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=3&rangeStart=20124&rangeEnd=20180"
+    },
+    {
+      "bookmarkId": "24191019_3_1569-1584",
+      "chapterUid": 3,
+      "range": "1569-1584",
+      "markText": "人生海海，吃叭噗比较 high",
+      "totalCount": 512,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=3&rangeStart=1569&rangeEnd=1584",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=3&rangeStart=1569&rangeEnd=1584"
+    },
+    {
+      "bookmarkId": "24191019_5_16380-16442",
+      "chapterUid": 5,
+      "range": "16380-16442",
+      "markText": "兰姨用两张钞票包住五个硬币，将仅剩的钱奋力地从插满烟蒂的小窗口往发送台丢去，大喊：“阿霞，保重呀！早点睡，早早摊开棉被睡。”",
+      "totalCount": 512,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=5&rangeStart=16380&rangeEnd=16442",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=5&rangeStart=16380&rangeEnd=16442"
+    },
+    {
+      "bookmarkId": "24191019_26_6858-6926",
+      "chapterUid": 26,
+      "range": "6858-6926",
+      "markText": "古阿霞得说，努力遗忘的过去又回来，她努力不被自己的困顿、胆怯与悲哀阻碍，能穷尽所有的故事说上一千零一夜，直到她紧握的帕吉鲁的手有了回应。",
+      "totalCount": 504,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=26&rangeStart=6858&rangeEnd=6926",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=26&rangeStart=6858&rangeEnd=6926"
+    },
+    {
+      "bookmarkId": "24191019_3_5519-5569",
+      "chapterUid": 3,
+      "range": "5519-5569",
+      "markText": "煎蛋由萝卜丝与九层塔混搭，挤上美乃滋，撒上大量柴鱼片，卷薄的柴鱼片在热气烘托下像印度弄蛇不断地摆动。",
+      "totalCount": 493,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=3&rangeStart=5519&rangeEnd=5569",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=3&rangeStart=5519&rangeEnd=5569"
+    },
+    {
+      "bookmarkId": "24191019_3_4698-4737",
+      "chapterUid": 3,
+      "range": "4698-4737",
+      "markText": "可是这时候越看心越烦，情节卡在视神经上，读不进心里，字典也搁在合拢的膝盖没动。",
+      "totalCount": 490,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=3&rangeStart=4698&rangeEnd=4737",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=3&rangeStart=4698&rangeEnd=4737"
+    },
+    {
+      "bookmarkId": "24191019_9_30117-30199",
+      "chapterUid": 9,
+      "range": "30117-30199",
+      "markText": "“七年前，我们偷偷举行葬礼，在没有遗体之下，把文老师的藏书和她买给我们的书全部埋在这。”年轻警员走过来说，“去吧！把文老师的身体带回花莲去，你们的学校会用得上的。”",
+      "totalCount": 480,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=9&rangeStart=30117&rangeEnd=30199",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=9&rangeStart=30117&rangeEnd=30199"
+    },
+    {
+      "bookmarkId": "24191019_22_12753-12797",
+      "chapterUid": 22,
+      "range": "12753-12797",
+      "markText": "坐夜车回摩里沙卡的路上，王佩芬靠窗睡去，手搁在肚皮，眼角犹有未干泪水，她把孩子留下来了。",
+      "totalCount": 480,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=22&rangeStart=12753&rangeEnd=12797",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=22&rangeStart=12753&rangeEnd=12797"
+    },
+    {
+      "bookmarkId": "24191019_27_1637-1649",
+      "chapterUid": 27,
+      "range": "1637-1649",
+      "markText": "素芳姨失败了，罹难牺牲。",
+      "totalCount": 468,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=27&rangeStart=1637&rangeEnd=1649",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=27&rangeStart=1637&rangeEnd=1649"
+    },
+    {
+      "bookmarkId": "24191019_5_10499-10570",
+      "chapterUid": 5,
+      "range": "10499-10570",
+      "markText": "他看着她健康的黑皮肤，难怪工人们要用闽南语“透”形容她是多种原住民混血，有着排湾、太鲁阁与阿美族的血缘调色盘。她说不上美，却如此灵窍，好可爱。",
+      "totalCount": 465,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=5&rangeStart=10499&rangeEnd=10570",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=5&rangeStart=10499&rangeEnd=10570"
+    },
+    {
+      "bookmarkId": "24191019_3_2799-2837",
+      "chapterUid": 3,
+      "range": "2799-2837",
+      "markText": "阳光下，巷口安静极了，风从每个街道灌来，花莲市的每种味道聚在这，男孩们也是。",
+      "totalCount": 403,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=3&rangeStart=2799&rangeEnd=2837",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=3&rangeStart=2799&rangeEnd=2837"
+    },
+    {
+      "bookmarkId": "24191019_9_30396-30529",
+      "chapterUid": 9,
+      "range": "30396-30529",
+      "markText": "她永眠在此前 曾勇敢地打开牛栏 把牛赶到草原 目送他们跑到世界尽头成为牛仔",
+      "totalCount": 396,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=9&rangeStart=30396&rangeEnd=30529",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=9&rangeStart=30396&rangeEnd=30529"
+    },
+    {
+      "bookmarkId": "24191019_3_17397-17421",
+      "chapterUid": 3,
+      "range": "17397-17421",
+      "markText": "地球是活的，地球是个梦，一个宇宙中最饱满的梦境。",
+      "totalCount": 390,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=3&rangeStart=17397&rangeEnd=17421",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=3&rangeStart=17397&rangeEnd=17421"
+    },
+    {
+      "bookmarkId": "24191019_3_10023-10102",
+      "chapterUid": 3,
+      "range": "10023-10102",
+      "markText": "灯摇动，影子晃动让人以为摆设也跟着晃起来，晃呀晃的，她心头沾了惆怅，泪眼蒙眬。她真不敢相信自己在这待了五年，走与不走都消耗勇气，但机会一瞬间，她现在终于抓到。",
+      "totalCount": 385,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=3&rangeStart=10023&rangeEnd=10102",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=3&rangeStart=10023&rangeEnd=10102"
+    },
+    {
+      "bookmarkId": "24191019_26_6641-6740",
+      "chapterUid": 26,
+      "range": "6641-6740",
+      "markText": "那我，就用命来换了。”之后她拿刀往自己脖子刺……血喷出来……很多……很多……。事情闹大，警察不得不来了。古阿霞又说，祖母死后，她被兰姨带到餐厅工作，躲在楼梯间的小房间五年，只有面粉、灯泡与书本陪伴。",
+      "totalCount": 378,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=26&rangeStart=6641&rangeEnd=6740",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=26&rangeStart=6641&rangeEnd=6740"
+    },
+    {
+      "bookmarkId": "24191019_3_14432-14491",
+      "chapterUid": 3,
+      "range": "14432-14491",
+      "markText": "车上装载的大尸块来自奇莱山东麓的帕托鲁山与太鲁阁大山，木瓜溪花了一千年哺乳它们，现它们躺在车上死去。那些大尸块是原木。",
+      "totalCount": 364,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=3&rangeStart=14432&rangeEnd=14491",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=3&rangeStart=14432&rangeEnd=14491"
+    },
+    {
+      "bookmarkId": "24191019_8_7097-7166",
+      "chapterUid": 8,
+      "range": "7097-7166",
+      "markText": "大自然，大自然会改变山与河的面貌，也会改变人的想法与思维。如果跟大自然接触久了，气会通，周身循环不止，以科学点的说法，就是人的心情比较好。",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=8&rangeStart=7097&rangeEnd=7166",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=8&rangeStart=7097&rangeEnd=7166"
+    },
+    {
+      "bookmarkId": "24191019_32_20859-20951",
+      "chapterUid": 32,
+      "range": "20859-20951",
+      "markText": "黄狗很快死了，它的皮肤、肋骨被剖开，部分的内脏挂在身上，大部分的血液与内脏撒到地上了。可是，黄狗的头颅没有松开牙，仍咬住黑熊反击。在玉石俱焚的行动中，它终于为主人献上绵薄力量，与生命。",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=24191019&chapterUid=32&rangeStart=20859&rangeEnd=20951",
+      "webLink": "https://weread.qq.com/web/reader/a93324107171202ba93a1e0?chapterUid=32&rangeStart=20859&rangeEnd=20951"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 3,
+    "chapterOffset": 19704,
+    "progress": 3,
+    "updateTime": 1759374783,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

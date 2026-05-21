@@ -1,0 +1,1291 @@
+{
+  "meta": {
+    "bookId": "31580159",
+    "title": "韩非子译注",
+    "author": "张觉等",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/22/YueWen_31580159/t6_YueWen_31580159.jpg",
+    "intro": "法家是我国古代与儒家、道家齐名的重要思想学术流派，对中国社会政治和思想学术产生了极大的影响，而《韩非子》 则集法家思想之大成。《韩非子》全书共十万余字，分为五十五篇。就其主体而言，它实在是一部政治学巨著，主要论述君主如何才能管好臣民、稳坐江山、富国强 兵乃至称王称霸，亦即古人所谓的“帝王之学”。书中除了论述法术、权势等主要内容外，也论述了一些君主应该注意的道德修养、政治策略。",
+    "category": "历史-历史典籍",
+    "publisher": "上海古籍出版社",
+    "publishTime": "2012-08-10 00:00:00",
+    "isbn": "9787532563968",
+    "wordCount": 0,
+    "newRating": 878,
+    "newRatingCount": 224,
+    "newRatingDetail": {
+      "good": 203,
+      "fair": 14,
+      "poor": 7,
+      "recent": 5,
+      "deepV": 61,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=31580159",
+    "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df",
+    "lastSync": "2026-05-21T11:48:42Z",
+    "readingProgress": "46%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 9,
+    "reviewCount": 3,
+    "bookmarkCount": 0,
+    "contentHash": "13bdeaedde9c5f16f2529a38e2b0343fd8b3b3ab9cbbd4fb530dacc994af959e"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 108,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 6935,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一卷",
+      "level": 1,
+      "wordCount": 7574,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "初见秦第一",
+          "anchor": "bw3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "存韩第二",
+      "level": 2,
+      "wordCount": 6329,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "难言第三",
+      "level": 2,
+      "wordCount": 5438,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "爱臣第四",
+      "level": 2,
+      "wordCount": 2457,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "主道第五",
+      "level": 2,
+      "wordCount": 5554,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第二卷",
+      "level": 1,
+      "wordCount": 8656,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "有度第六",
+          "anchor": "bw9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "二柄第七",
+      "level": 2,
+      "wordCount": 4516,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "扬榷第八",
+      "level": 2,
+      "wordCount": 7364,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "八奸第九",
+      "level": 2,
+      "wordCount": 4948,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第三卷",
+      "level": 1,
+      "wordCount": 19333,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "十过第十",
+          "anchor": "bw14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第四卷",
+      "level": 1,
+      "wordCount": 7434,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "孤愤第十一",
+          "anchor": "bw16",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "说难第十二",
+      "level": 2,
+      "wordCount": 6495,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "和氏第十三",
+      "level": 2,
+      "wordCount": 2687,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "奸劫弑臣第十四",
+      "level": 2,
+      "wordCount": 13439,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第五卷",
+      "level": 1,
+      "wordCount": 6544,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "亡征第十五",
+          "anchor": "bw21",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "三守第十六",
+      "level": 2,
+      "wordCount": 2017,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "备内第十七",
+      "level": 2,
+      "wordCount": 3567,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "南面第十八",
+      "level": 2,
+      "wordCount": 3720,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "饰邪第十九",
+      "level": 2,
+      "wordCount": 8955,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第六卷",
+      "level": 1,
+      "wordCount": 27908,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "解老第二十",
+          "anchor": "bw27",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第七卷",
+      "level": 1,
+      "wordCount": 11932,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "喻老第二十一",
+          "anchor": "bw29",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "说林上第二十二",
+      "level": 2,
+      "wordCount": 13000,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第八卷",
+      "level": 1,
+      "wordCount": 12049,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "说林下第二十三",
+          "anchor": "bw32",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "观行第二十四",
+      "level": 2,
+      "wordCount": 1490,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "安危第二十五",
+      "level": 2,
+      "wordCount": 3609,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "守道第二十六",
+      "level": 2,
+      "wordCount": 3186,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "用人第二十七",
+      "level": 2,
+      "wordCount": 4795,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "功名第二十八",
+      "level": 2,
+      "wordCount": 1940,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "大体第二十九",
+      "level": 2,
+      "wordCount": 2956,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第九卷",
+      "level": 1,
+      "wordCount": 23210,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "内储说上七术第三十",
+          "anchor": "bw40",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "第十卷",
+      "level": 1,
+      "wordCount": 20149,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "内储说下六微第三十一",
+          "anchor": "bw42",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第十一卷",
+      "level": 1,
+      "wordCount": 27396,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "外储说左上第三十二",
+          "anchor": "bw44",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "第十二卷",
+      "level": 1,
+      "wordCount": 17008,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "外储说左下第三十三",
+          "anchor": "bw46",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "第十三卷",
+      "level": 1,
+      "wordCount": 24120,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "外储说右上第三十四",
+          "anchor": "bw48",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "第十四卷",
+      "level": 1,
+      "wordCount": 16827,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "外储说右下第三十五",
+          "anchor": "bw50",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "第十五卷",
+      "level": 1,
+      "wordCount": 12806,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "难一第三十六",
+          "anchor": "bw52",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "难二第三十七",
+      "level": 2,
+      "wordCount": 10044,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "第十六卷",
+      "level": 1,
+      "wordCount": 12741,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "难三第三十八",
+          "anchor": "bw55",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "难四第三十九",
+      "level": 2,
+      "wordCount": 7944,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "第十七卷",
+      "level": 1,
+      "wordCount": 5447,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "难势第四十",
+          "anchor": "bw58",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "问辩第四十一",
+      "level": 2,
+      "wordCount": 1850,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "问田第四十二",
+      "level": 2,
+      "wordCount": 1773,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "定法第四十三",
+      "level": 2,
+      "wordCount": 3707,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "说疑第四十四",
+      "level": 2,
+      "wordCount": 11338,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "诡使第四十五",
+      "level": 2,
+      "wordCount": 5596,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "第十八卷",
+      "level": 1,
+      "wordCount": 8323,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "六反第四十六",
+          "anchor": "bw65",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "八说第四十七",
+      "level": 2,
+      "wordCount": 7739,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "八经第四十八",
+      "level": 2,
+      "wordCount": 10642,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "第十九卷",
+      "level": 1,
+      "wordCount": 20137,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "五蠹第四十九",
+          "anchor": "bw69",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "显学第五十",
+      "level": 2,
+      "wordCount": 11502,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "第二十卷",
+      "level": 1,
+      "wordCount": 5180,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "忠孝第五十一",
+          "anchor": "bw72",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=31580159&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "人主第五十二",
+      "level": 2,
+      "wordCount": 2530,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "饬令第五十三",
+      "level": 2,
+      "wordCount": 2085,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "心度第五十四",
+      "level": 2,
+      "wordCount": 2328,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "制分第五十五",
+      "level": 2,
+      "wordCount": 2730,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=31580159&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=58"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 52,
+      "chapterTitle": "第十九卷",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "31580159_52_1200-1350",
+          "range": "1200-1350",
+          "rangeStart": 1200,
+          "rangeEnd": 1350,
+          "markText": "是以圣人不期修古16，不法常可17，论世之事，因为之备。宋人有耕田者，田中有株，兔走触株，折颈而死，因释其耒而守株，冀复得兔。兔不可复得，而身为宋国笑。今欲以先王之政治当世之民，皆守株之类也。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1749459297,
+          "createTimeFormatted": "2025-06-09 16:54:57",
+          "chapterUid": 52,
+          "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=52&rangeStart=1200&rangeEnd=1350",
+          "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=52&rangeStart=1200&rangeEnd=1350"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "31580159_52_6047-6052",
+          "range": "6047-6052",
+          "rangeStart": 6047,
+          "rangeEnd": 6052,
+          "markText": "事异则备变",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1731042601,
+          "createTimeFormatted": "2024-11-08 13:10:01",
+          "chapterUid": 52,
+          "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=52&rangeStart=6047&rangeEnd=6052",
+          "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=52&rangeStart=6047&rangeEnd=6052"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "31580159_52_5812-5817",
+          "range": "5812-5817",
+          "rangeStart": 5812,
+          "rangeEnd": 5817,
+          "markText": "世异则事异",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1731042585,
+          "createTimeFormatted": "2024-11-08 13:09:45",
+          "chapterUid": 52,
+          "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=52&rangeStart=5812&rangeEnd=5817",
+          "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=52&rangeStart=5812&rangeEnd=5817"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "31580159_52_13086-13153",
+          "range": "13086-13153",
+          "rangeStart": 13086,
+          "rangeEnd": 13153,
+          "markText": "儒以文乱法1，侠以武犯禁2",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1730972766,
+          "createTimeFormatted": "2024-11-07 17:46:06",
+          "chapterUid": 52,
+          "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=52&rangeStart=13086&rangeEnd=13153",
+          "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=52&rangeStart=13086&rangeEnd=13153"
+        }
+      ]
+    },
+    {
+      "chapterUid": 24,
+      "chapterTitle": "第七卷",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "31580159_24_5196-5571",
+          "range": "5196-5571",
+          "rangeStart": 5196,
+          "rangeEnd": 5571,
+          "markText": "越王入宦于吴1，而观之伐齐以弊吴。吴兵既胜齐人于艾陵2，张之于江、济，强之于黄池3，故可制于五湖4。故曰：“将欲翕之，必固张之5；将欲弱之，必固强之。”晋献公将欲袭虞，遗之以璧马6；知伯将袭仇由7，遗之以广车。故曰：“将欲取之，必固与之。”起事于无形，而要大功于天下8，“是谓微明”。处小弱而重自卑，谓“损弱胜强”也。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1735530369,
+          "createTimeFormatted": "2024-12-30 11:46:09",
+          "chapterUid": 24,
+          "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=24&rangeStart=5196&rangeEnd=5571",
+          "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=24&rangeStart=5196&rangeEnd=5571"
+        }
+      ]
+    },
+    {
+      "chapterUid": 15,
+      "chapterTitle": "说难第十二",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "31580159_15_1886-1896",
+          "range": "1886-1896",
+          "rangeStart": 1886,
+          "rangeEnd": 1896,
+          "markText": "夫事以密成，语以泄败",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1730972473,
+          "createTimeFormatted": "2024-11-07 17:41:13",
+          "chapterUid": 15,
+          "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=15&rangeStart=1886&rangeEnd=1896",
+          "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=15&rangeStart=1886&rangeEnd=1896"
+        }
+      ]
+    },
+    {
+      "chapterUid": 31,
+      "chapterTitle": "功名第二十八",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "31580159_31_1134-1291",
+          "range": "1134-1291",
+          "rangeStart": 1134,
+          "rangeEnd": 1291,
+          "markText": "夫有材而无势1，虽贤不能制不肖。故立尺材于高山之上，则临千仞之溪，材非长也，位高也。桀为天子，能制天下，非贤也，势重也；尧为匹夫，不能正三家，非不肖也，位卑也。千钧得船则浮，锱铢失船则沉，非千钧轻、锱铢重也，有势之与无势也。故短之临高也以位，不肖之制贤也以势。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1715776715,
+          "createTimeFormatted": "2024-05-15 20:38:35",
+          "chapterUid": 31,
+          "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=31&rangeStart=1134&rangeEnd=1291",
+          "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=31&rangeStart=1134&rangeEnd=1291"
+        }
+      ]
+    },
+    {
+      "chapterUid": 33,
+      "chapterTitle": "第九卷",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_83lFpc50M",
+          "range": "15026-15248",
+          "chapterName": "第九卷",
+          "content": "列宁同志的评价是斯大林过于软弱。\n不是说他不敢杀人或者胆子小，而是他有点优柔寡断，明明开始只要杀几十人的事他一犹豫就拖成了要杀几万人的大清洗。",
+          "abstract": "子产相郑，病将死，谓游吉曰：“我死后，子必用郑，必以严莅人。夫火形严，故人鲜灼1；水形懦，人多溺。子必严子之形，无令溺子之懦故。”子产死，游吉不肯严形，郑少年相率为盗，处于雚泽2，将遂以为郑祸。游吉率车骑与战，一日一夜，仅能克之。游吉喟然叹曰：“吾蚤行夫子之教3，必不悔至于此矣。”",
+          "star": -1,
+          "createTime": 1758516427,
+          "createTimeFormatted": "2025-09-22 12:47:07",
+          "isFinish": false,
+          "chapterUid": 33
+        }
+      ]
+    },
+    {
+      "chapterUid": 39,
+      "chapterTitle": "第十五卷",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7WmDyBBNv",
+          "range": "3915-4004",
+          "chapterName": "",
+          "content": "自相矛盾",
+          "abstract": "楚人有鬻楯与矛者，誉之曰：‘吾楯之坚，莫能陷也。’又誉其矛曰：‘吾矛之利，于物无不陷也。’或曰：‘以子之矛陷子之楯，何如？’其人弗能应也。夫不可陷之楯与无不陷之矛，不可同世而立。",
+          "star": -1,
+          "createTime": 1733920232,
+          "createTimeFormatted": "2024-12-11 20:30:32",
+          "isFinish": false,
+          "chapterUid": 39
+        }
+      ]
+    },
+    {
+      "chapterUid": 38,
+      "chapterTitle": "第十四卷",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7WkQCJZGc",
+          "range": "18975-19080",
+          "chapterName": "",
+          "content": "提纲挈领",
+          "abstract": "摇木者一一摄其叶1，则劳而不遍；左右拊其本，而叶遍摇矣。临渊而摇木，鸟惊而高，鱼恐而下。善张网者引其纲，若一一摄万目而后得，则是劳而难；引其纲，而鱼已囊矣。",
+          "star": -1,
+          "createTime": 1733818602,
+          "createTimeFormatted": "2024-12-10 16:16:42",
+          "isFinish": false,
+          "chapterUid": 38
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "31580159_3_1657-1710",
+      "chapterUid": 3,
+      "range": "1657-1710",
+      "markText": "这些卑鄙肮脏的手段，其实只是用来对付卑鄙肮脏之人的。对于卑鄙肮脏之人，为什么不能以其人之道还治其人之身呢？",
+      "totalCount": 432,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=3&rangeStart=1657&rangeEnd=1710",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=3&rangeStart=1657&rangeEnd=1710"
+    },
+    {
+      "bookmarkId": "31580159_4_577-622",
+      "chapterUid": 4,
+      "range": "577-622",
+      "markText": "为人臣，不忠当死1，言而不当亦当死。",
+      "totalCount": 320,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=4&rangeStart=577&rangeEnd=622",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=4&rangeStart=577&rangeEnd=622"
+    },
+    {
+      "bookmarkId": "31580159_15_1886-1897",
+      "chapterUid": 15,
+      "range": "1886-1897",
+      "markText": "夫事以密成，语以泄败。",
+      "totalCount": 289,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=15&rangeStart=1886&rangeEnd=1897",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=15&rangeStart=1886&rangeEnd=1897"
+    },
+    {
+      "bookmarkId": "31580159_10_3758-3820",
+      "chapterUid": 10,
+      "range": "3758-3820",
+      "markText": "群臣之中那些话说小了而功绩大的也要惩罚，这并不是不喜欢大功，而是认为功绩与言论不相当的危害超过了他所取得的大功，所以要惩罚。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=10&rangeStart=3758&rangeEnd=3820",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=10&rangeStart=3758&rangeEnd=3820"
+    },
+    {
+      "bookmarkId": "31580159_4_1116-1137",
+      "chapterUid": 4,
+      "range": "1116-1137",
+      "markText": "以乱攻治者亡，以邪攻正者亡，以逆攻顺者亡。",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=4&rangeStart=1116&rangeEnd=1137",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=4&rangeStart=1116&rangeEnd=1137"
+    },
+    {
+      "bookmarkId": "31580159_3_1827-1902",
+      "chapterUid": 3,
+      "range": "1827-1902",
+      "markText": "如果我们仅仅了解其间善良的一面而不了解邪恶的一面，那就会把世界看得很美好，把所有的人都当作仁人君子，这实际上不是一种可爱的天真，而只是一种愚蠢的幼稚。",
+      "totalCount": 260,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=3&rangeStart=1827&rangeEnd=1902",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=3&rangeStart=1827&rangeEnd=1902"
+    },
+    {
+      "bookmarkId": "31580159_3_412-471",
+      "chapterUid": 3,
+      "range": "412-471",
+      "markText": "大凡人们需要的东西，才可能在社会上具有强大的生命力。反言之，具有强大的生命力而能经久不衰的，也必定是对人们有用的东西。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=3&rangeStart=412&rangeEnd=471",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=3&rangeStart=412&rangeEnd=471"
+    },
+    {
+      "bookmarkId": "31580159_18_5788-5820",
+      "chapterUid": 18,
+      "range": "5788-5820",
+      "markText": "国小而不处卑，力少而不畏强，无礼而侮大邻，贪愎而拙交者，可亡也。",
+      "totalCount": 255,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=18&rangeStart=5788&rangeEnd=5820",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=18&rangeStart=5788&rangeEnd=5820"
+    },
+    {
+      "bookmarkId": "31580159_4_3233-3249",
+      "chapterUid": 4,
+      "range": "3233-3249",
+      "markText": "削株无遗根，无与祸邻，祸乃不存。",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=4&rangeStart=3233&rangeEnd=3249",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=4&rangeStart=3233&rangeEnd=3249"
+    },
+    {
+      "bookmarkId": "31580159_8_3911-3942",
+      "chapterUid": 8,
+      "range": "3911-3942",
+      "markText": "臣下承担那劳苦，君主享受那成功，这是贤明的君主永远遵守的法则。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=8&rangeStart=3911&rangeEnd=3942",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=8&rangeStart=3911&rangeEnd=3942"
+    },
+    {
+      "bookmarkId": "31580159_13_8587-8617",
+      "chapterUid": 13,
+      "range": "8587-8617",
+      "markText": "不致力于治理国政而爱好音乐没个完，那是使自己陷于困境的事情。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=13&rangeStart=8587&rangeEnd=8617",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=13&rangeStart=8587&rangeEnd=8617"
+    },
+    {
+      "bookmarkId": "31580159_4_1595-1610",
+      "chapterUid": 4,
+      "range": "1595-1610",
+      "markText": "此无异故，其谋臣皆不尽其忠也。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=4&rangeStart=1595&rangeEnd=1610",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=4&rangeStart=1595&rangeEnd=1610"
+    },
+    {
+      "bookmarkId": "31580159_8_3779-3875",
+      "chapterUid": 8,
+      "range": "3779-3875",
+      "markText": "如果有了功劳，那么因为是君主决断、君主用人所取得的，所以君主就有了那贤能的名声；一旦有了失误，那么由于是臣下出的主意、是臣下干的，所以臣下就得承担那失误的罪名，所以君主在名誉方面也不会不如意。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=8&rangeStart=3779&rangeEnd=3875",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=8&rangeStart=3779&rangeEnd=3875"
+    },
+    {
+      "bookmarkId": "31580159_4_1247-1271",
+      "chapterUid": 4,
+      "range": "1247-1271",
+      "markText": "言赏则不与，言罚则不行，赏罚不信，故士民不死也。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=4&rangeStart=1247&rangeEnd=1271",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=4&rangeStart=1247&rangeEnd=1271"
+    },
+    {
+      "bookmarkId": "31580159_32_3692-3718",
+      "chapterUid": 32,
+      "range": "3692-3718",
+      "markText": "太山不立好恶，故能成其高；江海不择小助，故能成其富。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=32&rangeStart=3692&rangeEnd=3718",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=32&rangeStart=3692&rangeEnd=3718"
+    },
+    {
+      "bookmarkId": "31580159_3_1402-1441",
+      "chapterUid": 3,
+      "range": "1402-1441",
+      "markText": "平衡人们情欲的方法——用法律来调整，用毁誉来制约，用权势来驾驭，用术数来操纵。",
+      "totalCount": 196,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=3&rangeStart=1402&rangeEnd=1441",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=3&rangeStart=1402&rangeEnd=1441"
+    },
+    {
+      "bookmarkId": "31580159_15_1121-1159",
+      "chapterUid": 15,
+      "range": "1121-1159",
+      "markText": "大凡游说的困难：在于了解被劝说的君主的心理，然后设法用我的话去迎合这种心理。",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=15&rangeStart=1121&rangeEnd=1159",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=15&rangeStart=1121&rangeEnd=1159"
+    },
+    {
+      "bookmarkId": "31580159_7_491-587",
+      "chapterUid": 7,
+      "range": "491-587",
+      "markText": "爱臣太亲，必危其身；人臣太贵，必易主位；主妾无等1，必危嫡子2；兄弟不服，必危社稷。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=7&rangeStart=491&rangeEnd=587",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=7&rangeStart=491&rangeEnd=587"
+    },
+    {
+      "bookmarkId": "31580159_37_3581-3637",
+      "chapterUid": 37,
+      "range": "3581-3637",
+      "markText": "赏之誉之，不劝；罚之毁之，不畏；四者加焉不变，则其除之1。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=37&rangeStart=3581&rangeEnd=3637",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=37&rangeStart=3581&rangeEnd=3637"
+    },
+    {
+      "bookmarkId": "31580159_4_2200-2277",
+      "chapterUid": 4,
+      "range": "2200-2277",
+      "markText": "我听说过这样的话：“拿混乱的国家去进攻安定的国家，就要灭亡；拿邪恶的国家去进攻正义的国家，就要灭亡；拿倒行逆施的国家去进攻顺应天道人心的国家，就要灭亡。”",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=31580159&chapterUid=4&rangeStart=2200&rangeEnd=2277",
+      "webLink": "https://weread.qq.com/web/reader/7e73277071e1dfff7e755df?chapterUid=4&rangeStart=2200&rangeEnd=2277"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 33,
+    "chapterOffset": 15688,
+    "progress": 46,
+    "updateTime": 1758535120,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

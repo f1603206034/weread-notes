@@ -1,0 +1,1652 @@
+{
+  "meta": {
+    "bookId": "3300072370",
+    "title": "人是如何学习的.Ⅱ，学习者、境脉与文化",
+    "author": "科拉·巴格利·马雷特",
+    "translator": "裴新宁 王美 郑太年",
+    "cover": "https://cdn.weread.qq.com/weread/cover/15/cpplatform_nvzer5dcq4ychyfhdcsgnf/t6_cpplatform_nvzer5dcq4ychyfhdcsgnf1695715967.jpg",
+    "intro": "没有文化无涉的个体，也没有境脉无涉的学习。本书着眼于学习者、境脉与文化三者之间的互动，一方面，从个体化的角度出发，分析了人脑、记忆、动机、推理等要素与学习之间的种种关联；另一方面，从社会性的角度出发，阐释了文化、经验、认知、评价等要素与学习之间的复杂交互。书中点明，学习以隐性的、显性的、正式的、非正式的等多种形式，以知觉的、动作的、事实的、推理的等多种类型整合发生。也提出了有效支持学习的种种干预手段与策略：a) 教学要深入理解学习者和教育者的先前知识、认知经验、兴趣动机等，也要考虑学习环境的文化特性与广泛境脉；b) 教师可以提供针对性的反馈和支持来发展学习者的元认知技能；c)学校教育可以通过课程和教学技术，支持所有学习者将学术学习目标与校外学习联系起来，由此利用来自多种环境的学习经验和机会；d)评价是促进和监测学生学校学习的关键工具。对于往后的研究愿景与展望，书中也作出了阐释。可以说，校外的事情决定了校内的学习，校内的学习也应启发校外的环境。",
+    "category": "个人成长-认知思维",
+    "publisher": "华东师范大学出版社有限公司",
+    "publishTime": "2021-10-31 00:00:00",
+    "isbn": "9787576006759",
+    "wordCount": 0,
+    "newRating": 728,
+    "newRatingCount": 50,
+    "newRatingDetail": {
+      "good": 33,
+      "fair": 10,
+      "poor": 7,
+      "recent": 1,
+      "deepV": 31,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300072370",
+    "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588",
+    "lastSync": "2026-05-21T11:50:57Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 686,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "文前彩插",
+      "level": 1,
+      "wordCount": 245,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "项目资助",
+      "level": 1,
+      "wordCount": 93,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "美国国家科学院·国家工程院·国家医学院",
+      "level": 1,
+      "wordCount": 596,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "美国国家科学院·国家工程院·国家医学院",
+      "level": 1,
+      "wordCount": 333,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "人是如何学习的II：学习的科学与实践委员会成员",
+      "level": 1,
+      "wordCount": 855,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "行为、认知与感知科学委员会成员",
+      "level": 1,
+      "wordCount": 616,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "科学教育委员会成员",
+      "level": 1,
+      "wordCount": 676,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "中文版序",
+      "level": 1,
+      "wordCount": 3183,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 4037,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "表、图、框栏目录",
+      "level": 1,
+      "wordCount": 786,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "报告概要",
+      "level": 1,
+      "wordCount": 1358,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "文化的复杂影响",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "学习的类型与过程",
+      "level": 2,
+      "wordCount": 1074,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "知识与推理",
+      "level": 2,
+      "wordCount": 593,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "学习动机",
+      "level": 2,
+      "wordCount": 440,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "对于学校学习的意蕴",
+      "level": 2,
+      "wordCount": 770,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "学习技术",
+      "level": 2,
+      "wordCount": 355,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "纵贯一生的学习",
+      "level": 2,
+      "wordCount": 405,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "研究议程",
+      "level": 2,
+      "wordCount": 762,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第1章 绪论",
+      "level": 1,
+      "wordCount": 5524,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "委员会的职责",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "《人是如何学习的Ⅰ》之贡献",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        },
+        {
+          "title": "对新任务的说明",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        },
+        {
+          "title": "收集证据，履行职责",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "证据处理方法",
+      "level": 2,
+      "wordCount": 1514,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "本报告导读",
+      "level": 2,
+      "wordCount": 487,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第2章 境脉与文化",
+      "level": 1,
+      "wordCount": 6261,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "学习的文化本质",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        },
+        {
+          "title": "定义文化",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        },
+        {
+          "title": "文化在学习和发展中的作用",
+          "anchor": "sigil_toc_id_8",
+          "level": 3
+        },
+        {
+          "title": "作为社会性活动的学习",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "文化、生物和境脉之间的动态交互",
+      "level": 2,
+      "wordCount": 5649,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "社会和情感影响",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        },
+        {
+          "title": "身体影响",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "结论",
+      "level": 2,
+      "wordCount": 327,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "第3章 学习的类型与不断发展的脑",
+      "level": 1,
+      "wordCount": 15581,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "学习的类型",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        },
+        {
+          "title": "三个学习场景",
+          "anchor": "sigil_toc_id_13",
+          "level": 3
+        },
+        {
+          "title": "学习的基本类型",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "学习类型的整合",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "学习与脑",
+      "level": 2,
+      "wordCount": 9415,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "出生前和一生中的脑发展及成熟",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "脑对学习的适应",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        },
+        {
+          "title": "整个生命期间脑中与学习相关的变化证据",
+          "anchor": "sigil_toc_id_18",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "结论",
+      "level": 2,
+      "wordCount": 803,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "第4章 支持学习的过程",
+      "level": 1,
+      "wordCount": 4121,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "学习的协调统合",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        },
+        {
+          "title": "执行功能",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "学习的自我调节",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "记忆",
+      "level": 2,
+      "wordCount": 7649,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "重建记忆",
+          "anchor": "sigil_toc_id_22",
+          "level": 3
+        },
+        {
+          "title": "工作记忆与长时记忆",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "对学习事件的记忆",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "结论",
+      "level": 2,
+      "wordCount": 520,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第5章 知识与推理",
+      "level": 1,
+      "wordCount": 3444,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "建立知识基础",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "知识与专长",
+      "level": 2,
+      "wordCount": 3168,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "专长的益处",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        },
+        {
+          "title": "作为知识的天然副作用的偏向性",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "知识整合与推理",
+      "level": 2,
+      "wordCount": 3934,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "推论性推理",
+          "anchor": "sigil_toc_id_28",
+          "level": 3
+        },
+        {
+          "title": "知识与推理中与年龄相关的变化",
+          "anchor": "sigil_toc_id_29",
+          "level": 3
+        },
+        {
+          "title": "文化对推理的影响",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "支持学习的策略",
+      "level": 2,
+      "wordCount": 8348,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "知识保持的策略",
+          "anchor": "sigil_toc_id_31",
+          "level": 3
+        },
+        {
+          "title": "理解与整合的策略",
+          "anchor": "sigil_toc_id_32",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "结论",
+      "level": 2,
+      "wordCount": 646,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "第6章 学习动机",
+      "level": 1,
+      "wordCount": 2025,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "理论视角",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "学习者的信念与价值观",
+      "level": 2,
+      "wordCount": 5777,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "自我效能",
+          "anchor": "sigil_toc_id_34",
+          "level": 3
+        },
+        {
+          "title": "价值观",
+          "anchor": "sigil_toc_id_35",
+          "level": 3
+        },
+        {
+          "title": "兴趣",
+          "anchor": "sigil_toc_id_36",
+          "level": 3
+        },
+        {
+          "title": "内在动机",
+          "anchor": "sigil_toc_id_37",
+          "level": 3
+        },
+        {
+          "title": "外在奖励",
+          "anchor": "sigil_toc_id_38",
+          "level": 3
+        },
+        {
+          "title": "选择的效应",
+          "anchor": "sigil_toc_id_39",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "目标的重要性",
+      "level": 2,
+      "wordCount": 5098,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "目标的类型",
+          "anchor": "sigil_toc_id_40",
+          "level": 3
+        },
+        {
+          "title": "教师对学习者目标的影响",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        },
+        {
+          "title": "学习目标与其他目标",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        },
+        {
+          "title": "未来身份与长期坚持",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "社会与文化对动机的影响",
+      "level": 2,
+      "wordCount": 6493,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "学习者自我建构方面的跨文化差异",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        },
+        {
+          "title": "社会身份与动机过程",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "刻板印象的威胁",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "提高动机的干预措施",
+      "level": 2,
+      "wordCount": 1586,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "结论",
+      "level": 2,
+      "wordCount": 683,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "第7章 对于学校学习的意蕴",
+      "level": 1,
+      "wordCount": 7331,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "文化与学校学习",
+          "anchor": "sigil_toc_id_47",
+          "level": 2
+        },
+        {
+          "title": "学校和课堂境脉",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "从“赤字”模型到“资产”模型",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "学科特定的学习",
+      "level": 2,
+      "wordCount": 4421,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "数学",
+          "anchor": "sigil_toc_id_50",
+          "level": 3
+        },
+        {
+          "title": "科学",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        },
+        {
+          "title": "历史",
+          "anchor": "sigil_toc_id_52",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "让学习者参与并为其赋权",
+      "level": 2,
+      "wordCount": 4922,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "自我调节的学习",
+          "anchor": "sigil_toc_id_53",
+          "level": 3
+        },
+        {
+          "title": "促进学习者参与的教学方法",
+          "anchor": "sigil_toc_id_54",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "评价学生的学习",
+      "level": 2,
+      "wordCount": 5095,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "向学习者提供反馈",
+          "anchor": "sigil_toc_id_55",
+          "level": 3
+        },
+        {
+          "title": "将评价和关于学生如何学习的证据相连接",
+          "anchor": "sigil_toc_id_56",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "结论",
+      "level": 2,
+      "wordCount": 473,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "第8章 数字技术",
+      "level": 1,
+      "wordCount": 7572,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "技术与学习目标的匹配",
+          "anchor": "sigil_toc_id_57",
+          "level": 2
+        },
+        {
+          "title": "学习技术的给养",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        },
+        {
+          "title": "通过重复来学习",
+          "anchor": "sigil_toc_id_59",
+          "level": 3
+        },
+        {
+          "title": "使用模型进行深度学习",
+          "anchor": "sigil_toc_id_60",
+          "level": 3
+        },
+        {
+          "title": "协作学习与合作学习",
+          "anchor": "sigil_toc_id_61",
+          "level": 3
+        },
+        {
+          "title": "技术支持的自我调节学习",
+          "anchor": "sigil_toc_id_62",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "激励积极主动学习的技术",
+      "level": 2,
+      "wordCount": 6617,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "通过游戏来学习",
+          "anchor": "sigil_toc_id_63",
+          "level": 3
+        },
+        {
+          "title": "利用故事和学习者喜欢的角色",
+          "anchor": "sigil_toc_id_64",
+          "level": 3
+        },
+        {
+          "title": "为学习者成为创造者和生产者赋能",
+          "anchor": "sigil_toc_id_65",
+          "level": 3
+        },
+        {
+          "title": "创制",
+          "anchor": "sigil_toc_id_66",
+          "level": 3
+        },
+        {
+          "title": "具身认知",
+          "anchor": "sigil_toc_id_67",
+          "level": 3
+        },
+        {
+          "title": "会话代理",
+          "anchor": "sigil_toc_id_68",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "用于教学的技术",
+      "level": 2,
+      "wordCount": 3677,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "连接正式与非正式学习",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        },
+        {
+          "title": "对教学进行协调统合",
+          "anchor": "sigil_toc_id_70",
+          "level": 3
+        },
+        {
+          "title": "写作教学",
+          "anchor": "sigil_toc_id_71",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "机遇和挑战",
+      "level": 2,
+      "wordCount": 9505,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "数字仪表盘",
+          "anchor": "sigil_toc_id_72",
+          "level": 3
+        },
+        {
+          "title": "远程学习",
+          "anchor": "sigil_toc_id_73",
+          "level": 3
+        },
+        {
+          "title": "个人移动设备",
+          "anchor": "sigil_toc_id_74",
+          "level": 3
+        },
+        {
+          "title": "技术特征方面存在的问题",
+          "anchor": "sigil_toc_id_75",
+          "level": 3
+        },
+        {
+          "title": "通用设计",
+          "anchor": "sigil_toc_id_76",
+          "level": 3
+        },
+        {
+          "title": "晚年生活中的学习技术",
+          "anchor": "sigil_toc_id_77",
+          "level": 3
+        },
+        {
+          "title": "数字鸿沟",
+          "anchor": "sigil_toc_id_78",
+          "level": 3
+        },
+        {
+          "title": "系统化实施途径",
+          "anchor": "sigil_toc_id_79",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "结论",
+      "level": 2,
+      "wordCount": 415,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "第9章 纵贯一生的学习",
+      "level": 1,
+      "wordCount": 5434,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "随年龄增长而发生的变化",
+          "anchor": "sigil_toc_id_80",
+          "level": 2
+        },
+        {
+          "title": "知识与推理",
+          "anchor": "sigil_toc_id_81",
+          "level": 3
+        },
+        {
+          "title": "学习动机",
+          "anchor": "sigil_toc_id_82",
+          "level": 3
+        },
+        {
+          "title": "学习活动与学习环境",
+          "anchor": "sigil_toc_id_83",
+          "level": 3
+        },
+        {
+          "title": "认知能力",
+          "anchor": "sigil_toc_id_84",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "学习障碍",
+      "level": 2,
+      "wordCount": 6426,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "造成学习障碍的原因",
+          "anchor": "sigil_toc_id_85",
+          "level": 3
+        },
+        {
+          "title": "阅读障碍",
+          "anchor": "sigil_toc_id_86",
+          "level": 3
+        },
+        {
+          "title": "数学障碍",
+          "anchor": "sigil_toc_id_87",
+          "level": 3
+        },
+        {
+          "title": "成年人的学习障碍",
+          "anchor": "sigil_toc_id_88",
+          "level": 3
+        },
+        {
+          "title": "成年人的读写能力",
+          "anchor": "sigil_toc_id_89",
+          "level": 3
+        },
+        {
+          "title": "干预",
+          "anchor": "sigil_toc_id_90",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "中学后教育经历",
+      "level": 2,
+      "wordCount": 1703,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "title": "劳动力培训",
+      "level": 2,
+      "wordCount": 7419,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "如何判定工作场所中学习的发生",
+          "anchor": "sigil_toc_id_91",
+          "level": 3
+        },
+        {
+          "title": "培训迁移",
+          "anchor": "sigil_toc_id_92",
+          "level": 3
+        },
+        {
+          "title": "工作场所中的自主学习",
+          "anchor": "sigil_toc_id_93",
+          "level": 3
+        },
+        {
+          "title": "工作场所中的自我调节学习",
+          "anchor": "sigil_toc_id_94",
+          "level": 3
+        },
+        {
+          "title": "积极主动参与的重要性",
+          "anchor": "sigil_toc_id_95",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "title": "促进终生学习",
+      "level": 2,
+      "wordCount": 1487,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "title": "结论",
+      "level": 2,
+      "wordCount": 431,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "title": "第10章 研究议程",
+      "level": 1,
+      "wordCount": 1300,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "学习的动态本质",
+          "anchor": "sigil_toc_id_96",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "title": "研究议程",
+      "level": 2,
+      "wordCount": 4071,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "title": "参考文献",
+      "level": 1,
+      "wordCount": 5,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "title": "附录A 《人是如何学习的》历史记录：研究与应用",
+      "level": 1,
+      "wordCount": 2170,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "title": "附录B 美国国家学术出版社相关报告一览表",
+      "level": 1,
+      "wordCount": 29428,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "title": "附录C 学习研究中的研究人群",
+      "level": 1,
+      "wordCount": 3151,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "title": "附录D 委员会成员和工作人员简介",
+      "level": 1,
+      "wordCount": 8219,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "title": "译后记",
+      "level": 1,
+      "wordCount": 3384,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300072370&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=67"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 21,
+      "chapterTitle": "第1章 绪论",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300072370_21_3487-3537",
+          "range": "3487-3537",
+          "rangeStart": 3487,
+          "rangeEnd": 3537,
+          "markText": "知识和技能必须拓展到最初学习它们时的狭小境脉以外，以引发深度学习(deeper learning)。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1747237223,
+          "createTimeFormatted": "2025-05-14 23:40:23",
+          "chapterUid": 21,
+          "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=21&rangeStart=3487&rangeEnd=3537",
+          "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=21&rangeStart=3487&rangeEnd=3537"
+        }
+      ]
+    },
+    {
+      "chapterUid": 14,
+      "chapterTitle": "学习的类型与过程",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300072370_14_1678-1706",
+          "range": "1678-1706",
+          "rangeStart": 1678,
+          "rangeEnd": 1706,
+          "markText": "记忆涉及重建，而不单纯是提取经过编码的心智表征的精确副本",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1747237217,
+          "createTimeFormatted": "2025-05-14 23:40:17",
+          "chapterUid": 14,
+          "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=14&rangeStart=1678&rangeEnd=1706",
+          "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=14&rangeStart=1678&rangeEnd=1706"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300072370_21_3487-3537",
+      "chapterUid": 21,
+      "range": "3487-3537",
+      "markText": "知识和技能必须拓展到最初学习它们时的狭小境脉以外，以引发深度学习(deeper learning)。",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=21&rangeStart=3487&rangeEnd=3537",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=21&rangeStart=3487&rangeEnd=3537"
+    },
+    {
+      "bookmarkId": "3300072370_24_4034-4082",
+      "chapterUid": 24,
+      "range": "4034-4082",
+      "markText": "美国的家长倾向于将背离某种模式看作是创造力的表现，而努瓦阿图的家长倾向于将精确模仿能力等同于才能",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=24&rangeStart=4034&rangeEnd=4082",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=24&rangeStart=4034&rangeEnd=4082"
+    },
+    {
+      "bookmarkId": "3300072370_28_1378-1427",
+      "chapterUid": 28,
+      "range": "1378-1427",
+      "markText": "这种神经修剪以一种特定的方式发生：在此期间不断使用的神经突触被保留下来，而未使用的神经突触将被消除",
+      "totalCount": 72,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=28&rangeStart=1378&rangeEnd=1427",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=28&rangeStart=1378&rangeEnd=1427"
+    },
+    {
+      "bookmarkId": "3300072370_21_3770-3824",
+      "chapterUid": 21,
+      "range": "3770-3824",
+      "markText": "·如果学生把自己看作学习者和思考者（亦即利用元认知途径进行学习和教学），那么他们的学习会最成功且会自我维继。",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=21&rangeStart=3770&rangeEnd=3824",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=21&rangeStart=3770&rangeEnd=3824"
+    },
+    {
+      "bookmarkId": "3300072370_28_7430-7518",
+      "chapterUid": 28,
+      "range": "7430-7518",
+      "markText": "学习轨迹通常受所寓居社群的期望和训练实践的巨大影响。个体并不能无限地去适应，但是当给予机会和支持时，他们能够成长而达到文化所期望的程度，这是让人感叹的(impressive)。",
+      "totalCount": 56,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=28&rangeStart=7430&rangeEnd=7518",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=28&rangeStart=7430&rangeEnd=7518"
+    },
+    {
+      "bookmarkId": "3300072370_24_5011-5050",
+      "chapterUid": 24,
+      "range": "5011-5050",
+      "markText": "在帮助学生理解和组织世界的基本认知发展过程（如记忆和感知）中，文化发挥了作用。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=24&rangeStart=5011&rangeEnd=5050",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=24&rangeStart=5011&rangeEnd=5050"
+    },
+    {
+      "bookmarkId": "3300072370_37_1155-1252",
+      "chapterUid": 37,
+      "range": "1155-1252",
+      "markText": "学习策略的有效性受到学习者现有技能和先前知识、学习材料的性质及学习目标等境脉性因素的影响。因此，为了有效地应用这些策略，需要仔细考虑它们的特定机制如何对特定的学习者、场境和学习目标起到有利作用。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=37&rangeStart=1155&rangeEnd=1252",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=37&rangeStart=1155&rangeEnd=1252"
+    },
+    {
+      "bookmarkId": "3300072370_31_1200-1292",
+      "chapterUid": 31,
+      "range": "1200-1292",
+      "markText": "存储隐喻没有搞清楚的一个事实是：学习实际上涉及的是基于过去的经验和当前环境中的线索来重建记忆的技能，而不是单纯地对经验副本进行再现。",
+      "totalCount": 52,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=31&rangeStart=1200&rangeEnd=1292",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=31&rangeStart=1200&rangeEnd=1292"
+    },
+    {
+      "bookmarkId": "3300072370_14_1678-1706",
+      "chapterUid": 14,
+      "range": "1678-1706",
+      "markText": "记忆涉及重建，而不单纯是提取经过编码的心智表征的精确副本",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=14&rangeStart=1678&rangeEnd=1706",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=14&rangeStart=1678&rangeEnd=1706"
+    },
+    {
+      "bookmarkId": "3300072370_27_16435-16503",
+      "chapterUid": 27,
+      "range": "16435-16503",
+      "markText": "事实学习不必是死记硬背的：当学习者精心地将新信息与其已有的其他知识相联系，学习效果就会得到提高（Craik和Tulving,1975）。",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=27&rangeStart=16435&rangeEnd=16503",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=27&rangeStart=16435&rangeEnd=16503"
+    },
+    {
+      "bookmarkId": "3300072370_33_1662-1709",
+      "chapterUid": 33,
+      "range": "1662-1709",
+      "markText": "任何一个学习事件的信息在随后被提取时，新旧记忆痕迹中的元素都会被重新激活，并同时可用于重新整合",
+      "totalCount": 51,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=33&rangeStart=1662&rangeEnd=1709",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=33&rangeStart=1662&rangeEnd=1709"
+    },
+    {
+      "bookmarkId": "3300072370_14_772-832",
+      "chapterUid": 14,
+      "range": "772-832",
+      "markText": "学习在人的一生中改变着脑，同时，脑又在人的整个生命时期以影响学习的方式发展着，而这些方式又受到学习者的境脉和文化的影响。",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=14&rangeStart=772&rangeEnd=832",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=14&rangeStart=772&rangeEnd=832"
+    },
+    {
+      "bookmarkId": "3300072370_25_2474-2514",
+      "chapterUid": 25,
+      "range": "2474-2514",
+      "markText": "情绪是思维中一个基本且无处不在的维度，情绪的处理过程引导着行为、思考和学习的方向",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=25&rangeStart=2474&rangeEnd=2514",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=25&rangeStart=2474&rangeEnd=2514"
+    },
+    {
+      "bookmarkId": "3300072370_34_1525-1564",
+      "chapterUid": 34,
+      "range": "1525-1564",
+      "markText": "学习的一个主要目标是知道到哪里寻找资源和帮助，这一能力在信息时代仍然十分重要。",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=34&rangeStart=1525&rangeEnd=1564",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=34&rangeStart=1525&rangeEnd=1564"
+    },
+    {
+      "bookmarkId": "3300072370_15_608-666",
+      "chapterUid": 15,
+      "range": "608-666",
+      "markText": "先前知识也可能带来偏向，导致人们注意不到新的信息并依赖现有模式来解决新问题。这些偏向只有通过有意识的努力才能被克服。",
+      "totalCount": 44,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=15&rangeStart=608&rangeEnd=666",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=15&rangeStart=608&rangeEnd=666"
+    },
+    {
+      "bookmarkId": "3300072370_27_10540-10619",
+      "chapterUid": 27,
+      "range": "10540-10619",
+      "markText": "没有反馈的学习模式通常需要基于对环境长时间的体验且渐进地发生。以这种方式学习到的规律可能不容易用言语表达，因为它们并不是经由明确的假设检验或测试而得到的结果。",
+      "totalCount": 42,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=27&rangeStart=10540&rangeEnd=10619",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=27&rangeStart=10540&rangeEnd=10619"
+    },
+    {
+      "bookmarkId": "3300072370_24_3876-3959",
+      "chapterUid": 24,
+      "range": "3876-3959",
+      "markText": "社会化实践——监护人与儿童交流的方式——决定了儿童如何学习、他们学习什么、他们学得有多快，甚至是学习（包括从走路到如何与人进行社会性互动的所有一切）的发展终点在哪里。",
+      "totalCount": 40,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=24&rangeStart=3876&rangeEnd=3959",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=24&rangeStart=3876&rangeEnd=3959"
+    },
+    {
+      "bookmarkId": "3300072370_16_611-677",
+      "chapterUid": 16,
+      "range": "611-677",
+      "markText": "如果学校或学习环境能让学习者感受到“归属感”，并且当环境可以提升学习者的能动性和目标感时，各个年龄段的学习者的学习动机都能得到促进。",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=16&rangeStart=611&rangeEnd=677",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=16&rangeStart=611&rangeEnd=677"
+    },
+    {
+      "bookmarkId": "3300072370_27_6085-6122",
+      "chapterUid": 27,
+      "range": "6085-6122",
+      "markText": "由习惯驱动的行为是普遍存在的，这表明人们的许多行为都没有经过有意识的筛选。",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=27&rangeStart=6085&rangeEnd=6122",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=27&rangeStart=6085&rangeEnd=6122"
+    },
+    {
+      "bookmarkId": "3300072370_15_721-815",
+      "chapterUid": 15,
+      "range": "721-815",
+      "markText": "结论5-2　学习者通常会对他们正在积累的信息生成自己的新理解，并通过在信息片段之间建立逻辑联系来有效地扩展他们的知识。这种产生新理解的能力让学习者得以使用他们的知识来概括、分类和解决问题。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300072370&chapterUid=15&rangeStart=721&rangeEnd=815",
+      "webLink": "https://weread.qq.com/web/reader/3ed32170813ab82c5g010588?chapterUid=15&rangeStart=721&rangeEnd=815"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 24,
+    "chapterOffset": 4519,
+    "progress": 0,
+    "updateTime": 1749096998,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

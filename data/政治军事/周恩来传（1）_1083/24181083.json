@@ -1,0 +1,591 @@
+{
+  "meta": {
+    "bookId": "24181083",
+    "title": "周恩来传（1）",
+    "author": "中共中央文献研究室",
+    "translator": "",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/83/24181083/t6_24181083.jpg",
+    "intro": "编写周恩来同志的传记，是中共中央文献研究室承担的一项重要任务。邓小平同志为本书题写了书名。本书（共四册）介绍革命家、政治家周恩来曲折坎坷、光辉的一生。并配有大量图片，内容详实、全面，是一部了解伟人的好教材，值得一读。本书的主要资料依据是中央档案馆保存的周恩来同志数万件文稿、电报、书信、讲话记录和大量会义记录，还有原由邓颖超同志保存的周恩来同志青年时代日记、作文和书信等。同时，广泛参考了当时各种报刊和许多同周恩来同志有过直接接触的人员的访问记录、回忆录等。力求根据丰富的第一手资料，写出比较翔实的信史。",
+    "category": "政治军事-政治",
+    "publisher": "中央文献出版社",
+    "publishTime": "2011-01-01 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 900,
+    "newRatingCount": 1619,
+    "newRatingDetail": {
+      "good": 1469,
+      "fair": 132,
+      "poor": 18,
+      "recent": 23,
+      "deepV": 99,
+      "myRating": "",
+      "title": "神作"
+    },
+    "appLink": "weread://reading?bId=24181083",
+    "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad",
+    "lastSync": "2026-05-21T11:52:13Z",
+    "readingProgress": "76%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 1,
+    "bookmarkCount": 0,
+    "contentHash": "935a378edc8c04263440c87206fa9451a38b8d81521651c1894a0d4c753ee7a1"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 125,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "插图",
+      "level": 1,
+      "wordCount": 1849,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "一、童年",
+      "level": 1,
+      "wordCount": 3413,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "二、在东北",
+      "level": 1,
+      "wordCount": 3136,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "三、南开学校",
+      "level": 1,
+      "wordCount": 5628,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "四、东渡日本",
+      "level": 1,
+      "wordCount": 10052,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "五、五四风暴",
+      "level": 1,
+      "wordCount": 9535,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "六、赴欧和入党",
+      "level": 1,
+      "wordCount": 9373,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "七、青年团旅欧之部",
+      "level": 1,
+      "wordCount": 10543,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "八、黄埔军官学校",
+      "level": 1,
+      "wordCount": 13053,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "九、从统一广东到北伐",
+      "level": 1,
+      "wordCount": 10306,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "十、上海工人武装起义",
+      "level": 1,
+      "wordCount": 8077,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "十一、从四一二到七一五",
+      "level": 1,
+      "wordCount": 9468,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "十二、南昌起义",
+      "level": 1,
+      "wordCount": 11457,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "十三、六大前后",
+      "level": 1,
+      "wordCount": 12447,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "十四、在中共中央工作",
+      "level": 1,
+      "wordCount": 20517,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "十五、三中全会和四中全会",
+      "level": 1,
+      "wordCount": 24146,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "十六、在中央革命根据地",
+      "level": 1,
+      "wordCount": 25108,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "十七、长征",
+      "level": 1,
+      "wordCount": 14223,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "十八、初到陕北",
+      "level": 1,
+      "wordCount": 17978,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "十九、西安事变",
+      "level": 1,
+      "wordCount": 17558,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "二十、五次谈判",
+      "level": 1,
+      "wordCount": 13032,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=24181083&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=23"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 7,
+      "chapterTitle": "四、东渡日本",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "24181083_7_1355-1523",
+          "range": "1355-1428",
+          "rangeStart": 1355,
+          "rangeEnd": 1428,
+          "markText": "九月，他由天津登轮东渡。临行前夕，写下了那首抒发他青年时期救国抱负的著名诗篇：“大江歌罢掉头东，邃密群科济世穷，面壁十年图破壁，难酬蹈海亦英雄。”",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1737449364,
+          "createTimeFormatted": "2025-01-21 16:49:24",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=7&rangeStart=1355&rangeEnd=1428",
+          "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=7&rangeStart=1355&rangeEnd=1428"
+        }
+      ]
+    },
+    {
+      "chapterUid": 4,
+      "chapterTitle": "一、童年",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "24181083_4_4779-4860",
+          "range": "4779-4860",
+          "rangeStart": 4779,
+          "rangeEnd": 4860,
+          "markText": "这种凄凉的经历，使他从小就懂得生活的艰难，磨炼了同他的年龄似乎很不相称的那种精明果断、富有条理的办事能力，也在他幼小的心灵里深深地埋下对封建家庭和习俗的强烈憎恨。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1732083648,
+          "createTimeFormatted": "2024-11-20 14:20:48",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=4&rangeStart=4779&rangeEnd=4860",
+          "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=4&rangeStart=4779&rangeEnd=4860"
+        }
+      ]
+    },
+    {
+      "chapterUid": 20,
+      "chapterTitle": "十七、长征",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7YvE6pJuA",
+          "range": "560-564",
+          "chapterName": "",
+          "content": "土地革命战争时期中国共产党领导的革命根据地之一。位于江西南部、福建西部，由赣南、闽西两块苏区合成。1929年初毛泽东、朱德等率领红四军主力先后开辟赣南、闽西苏区。1930年8月红一方面军组成。1931年1月中共苏区中央局成立。红一方面军连续粉碎了国民党军第一、二、三次“围剿”，9月，赣南、闽西两块苏区连成一片。11月，在江西瑞金成立中华苏维埃共和国临时中央政府，同时组成中华苏维埃共和国中央革命军事委员会。至此，以瑞金为中心的中央苏区正式形成。苏区最大时辖有瑞金等21县，人口250万。1933年初中共临时中央由上海迁入中央苏区。由于王明“左”倾冒险主义的错误领导，红一方面军未能粉碎国民党军第五次“围剿”，被迫长征。留下一小部分红军坚持游击战争。",
+          "abstract": "中央苏区",
+          "star": -1,
+          "createTime": 1741475162,
+          "createTimeFormatted": "2025-03-09 07:06:02",
+          "isFinish": false,
+          "chapterUid": 20
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "24181083_5_1794-1813",
+      "chapterUid": 5,
+      "range": "1794-1813",
+      "markText": "周恩来坚决地回答：“为了中华之崛起！”",
+      "totalCount": 1512,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=5&rangeStart=1794&rangeEnd=1813",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=5&rangeStart=1794&rangeEnd=1813"
+    },
+    {
+      "bookmarkId": "24181083_4_4779-4860",
+      "chapterUid": 4,
+      "range": "4779-4860",
+      "markText": "这种凄凉的经历，使他从小就懂得生活的艰难，磨炼了同他的年龄似乎很不相称的那种精明果断、富有条理的办事能力，也在他幼小的心灵里深深地埋下对封建家庭和习俗的强烈憎恨。",
+      "totalCount": 690,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=4&rangeStart=4779&rangeEnd=4860",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=4&rangeStart=4779&rangeEnd=4860"
+    },
+    {
+      "bookmarkId": "24181083_20_17610-17662",
+      "chapterUid": 20,
+      "range": "17610-17662",
+      "markText": "十九年后杨立三去世，担任着国务院总理的周恩来，无论如何要亲自给他抬棺送葬。这是一种多么深挚的同志之情啊！",
+      "totalCount": 684,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=20&rangeStart=17610&rangeEnd=17662",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=20&rangeStart=17610&rangeEnd=17662"
+    },
+    {
+      "bookmarkId": "24181083_3_1650-1710",
+      "chapterUid": 3,
+      "range": "1650-1710",
+      "markText": "1924年11月，周恩来出任由国共两党合作创办的黄埔军校的政治部主任。他创建的行之有效的政治工作制度，使军校出现新面貌。",
+      "totalCount": 663,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=3&rangeStart=1650&rangeEnd=1710",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=3&rangeStart=1650&rangeEnd=1710"
+    },
+    {
+      "bookmarkId": "24181083_9_6710-6909",
+      "chapterUid": 9,
+      "range": "6710-6909",
+      "markText": "就在这一年（一九二一年）经张申府、刘清扬介绍，周恩来加入了中国共产党。从此，他把自己的全部精力和才能毫无保留地献给了共产主义事业，直到生命的最后一刻。",
+      "totalCount": 656,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=9&rangeStart=6710&rangeEnd=6909",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=9&rangeStart=6710&rangeEnd=6909"
+    },
+    {
+      "bookmarkId": "24181083_8_1540-1586",
+      "chapterUid": 8,
+      "range": "1540-1586",
+      "markText": "处于被统治状态的民众，以如此广泛的群众规模行动起来，直接干预政治，这在中国历史上还是第一次。",
+      "totalCount": 608,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=8&rangeStart=1540&rangeEnd=1586",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=8&rangeStart=1540&rangeEnd=1586"
+    },
+    {
+      "bookmarkId": "24181083_7_8482-8515",
+      "chapterUid": 7,
+      "range": "8482-8515",
+      "markText": "他订了计划：每天读书十三小时半，休息和其他事三小时半，睡眠七小时。",
+      "totalCount": 522,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=7&rangeStart=8482&rangeEnd=8515",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=7&rangeStart=8482&rangeEnd=8515"
+    },
+    {
+      "bookmarkId": "24181083_4_2892-2937",
+      "chapterUid": 4,
+      "range": "2892-2937",
+      "markText": "她在处理问题时，总是先耐心地听别人把情况说清楚，然后再发表意见，使问题得到比较顺利的解决。",
+      "totalCount": 516,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=4&rangeStart=2892&rangeEnd=2937",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=4&rangeStart=2892&rangeEnd=2937"
+    },
+    {
+      "bookmarkId": "24181083_20_19870-19953",
+      "chapterUid": 20,
+      "range": "19870-19953",
+      "markText": "一九三五年十月十九日，北上红军到达吴起镇，受到陕甘根据地军民的热烈欢迎。行程二万五千里，纵横十一个省的中央红军长征，终于以中国共产党、红军的胜利和敌人的失败而结束了！",
+      "totalCount": 504,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=20&rangeStart=19870&rangeEnd=19953",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=20&rangeStart=19870&rangeEnd=19953"
+    },
+    {
+      "bookmarkId": "24181083_4_5196-5273",
+      "chapterUid": 4,
+      "range": "5196-5273",
+      "markText": "他后来说：“十二岁的那年，我离家去东北。这是我生活和思想转变的关键。没有这一次的离家，我的一生一定也是无所成就，和留在家里的弟兄辈一样，走向悲剧的下场。”",
+      "totalCount": 462,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=4&rangeStart=5196&rangeEnd=5273",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=4&rangeStart=5196&rangeEnd=5273"
+    },
+    {
+      "bookmarkId": "24181083_7_5185-5247",
+      "chapterUid": 7,
+      "range": "5185-5247",
+      "markText": "第一，想要想比现在还新的思想；第二，做要做现在最新的事情；第三，学要学离现在最近的学问。思想要自由，做事要实在，学问要真切。",
+      "totalCount": 455,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=7&rangeStart=5185&rangeEnd=5247",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=7&rangeStart=5185&rangeEnd=5247"
+    },
+    {
+      "bookmarkId": "24181083_14_4415-4473",
+      "chapterUid": 14,
+      "range": "4415-4473",
+      "markText": "青年人革命热情很高，但我们那时好像天下大事就那么容易，青年稍微有一点成功就容易骄傲，至少是头脑发昏，结果给敌人骗了。",
+      "totalCount": 442,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=14&rangeStart=4415&rangeEnd=4473",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=14&rangeStart=4415&rangeEnd=4473"
+    },
+    {
+      "bookmarkId": "24181083_9_5734-5775",
+      "chapterUid": 9,
+      "range": "5734-5775",
+      "markText": "经过反复地学习和思索，周恩来终于作出自己一生中最重要的抉择：确立了共产主义的信念。",
+      "totalCount": 420,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=9&rangeStart=5734&rangeEnd=5775",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=9&rangeStart=5734&rangeEnd=5775"
+    },
+    {
+      "bookmarkId": "24181083_13_4202-4288",
+      "chapterUid": 13,
+      "range": "4202-4288",
+      "markText": "周恩来作风中的重要特点是每当确定一个工作目标后，总是进一步弄清实际情况，周密地落实为实现这个目标所必需的措施，有条不紊地付诸行动，把事情做得很彻底，决不草草了事或半途而废。",
+      "totalCount": 407,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=13&rangeStart=4202&rangeEnd=4288",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=13&rangeStart=4202&rangeEnd=4288"
+    },
+    {
+      "bookmarkId": "24181083_5_3919-3944",
+      "chapterUid": 5,
+      "range": "3919-3944",
+      "markText": "他的性格是温和的，但他对无理的横暴决不低头和退缩。",
+      "totalCount": 400,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=5&rangeStart=3919&rangeEnd=3944",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=5&rangeStart=3919&rangeEnd=3944"
+    },
+    {
+      "bookmarkId": "24181083_9_6099-6119",
+      "chapterUid": 9,
+      "range": "6099-6119",
+      "markText": "原则问题上的坚定不移和实行手段的因时制宜",
+      "totalCount": 372,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=9&rangeStart=6099&rangeEnd=6119",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=9&rangeStart=6099&rangeEnd=6119"
+    },
+    {
+      "bookmarkId": "24181083_7_8159-8227",
+      "chapterUid": 7,
+      "range": "8159-8227",
+      "markText": "不能只顾一时的得失，动摇多年的志愿，应该考虑国家的需要和个人在哪一方面可能发挥更大的作用来决定取舍，你既能考上高师，为什么怕考不上一高？",
+      "totalCount": 342,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=7&rangeStart=8159&rangeEnd=8227",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=7&rangeStart=8159&rangeEnd=8227"
+    },
+    {
+      "bookmarkId": "24181083_20_4003-4048",
+      "chapterUid": 20,
+      "range": "4003-4048",
+      "markText": "中央红军出发时的八万六千多人，在这里折损过半，只剩下三万多人，但精锐主力大体上是冲出来了。",
+      "totalCount": 312,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=20&rangeStart=4003&rangeEnd=4048",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=20&rangeStart=4003&rangeEnd=4048"
+    },
+    {
+      "bookmarkId": "24181083_7_5146-5167",
+      "chapterUid": 7,
+      "range": "5146-5167",
+      "markText": "“我平生最烦恶的是平常人立了志向不去行”，",
+      "totalCount": 306,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=7&rangeStart=5146&rangeEnd=5167",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=7&rangeStart=5146&rangeEnd=5167"
+    },
+    {
+      "bookmarkId": "24181083_6_2284-2341",
+      "chapterUid": 6,
+      "range": "2284-2341",
+      "markText": "全校在每星期三下午有一次“修身”课，由张伯苓和其他教师讲国内外大事和做人做事之道，有时也请校外的名流学者来校讲演。",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=24181083&chapterUid=6&rangeStart=2284&rangeEnd=2341",
+      "webLink": "https://weread.qq.com/web/reader/af732df07170f95baf74fad?chapterUid=6&rangeStart=2284&rangeEnd=2341"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 19,
+    "chapterOffset": 8819,
+    "progress": 76,
+    "updateTime": 1741475279,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

@@ -1,0 +1,3126 @@
+{
+  "meta": {
+    "bookId": "CB_GPI31M32D4m66di6cM7rF2Q1",
+    "title": "C Primer Plus（第6版）中文版（异步图书）",
+    "author": "史蒂芬·普拉达(Stephen Prata)",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_GPI31M32D4m66di6cM7rF2Q1_parsecover",
+    "intro": "",
+    "category": "",
+    "publisher": "人民邮电出版社",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1",
+    "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a",
+    "lastSync": "2026-05-21T12:00:25Z",
+    "readingProgress": "61%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 3,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 7862,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "内容提要",
+      "level": 1,
+      "wordCount": 338,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "作者简介",
+      "level": 1,
+      "wordCount": 174,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "献辞",
+      "level": 1,
+      "wordCount": 31,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 66,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 651,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第1章 初识C语言",
+      "level": 1,
+      "wordCount": 19462,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "1.1 C语言的起源",
+          "anchor": "nav_point_7",
+          "level": 2
+        },
+        {
+          "title": "1.2 选择C语言的理由",
+          "anchor": "nav_point_8",
+          "level": 2
+        },
+        {
+          "title": "1.2.1 设计特性",
+          "anchor": "nav_point_9",
+          "level": 3
+        },
+        {
+          "title": "1.2.2 高效性",
+          "anchor": "nav_point_10",
+          "level": 3
+        },
+        {
+          "title": "1.2.3 可移植性",
+          "anchor": "nav_point_11",
+          "level": 3
+        },
+        {
+          "title": "1.2.4 强大而灵活",
+          "anchor": "nav_point_12",
+          "level": 3
+        },
+        {
+          "title": "1.2.5 面向程序员",
+          "anchor": "nav_point_13",
+          "level": 3
+        },
+        {
+          "title": "1.2.6 缺点",
+          "anchor": "nav_point_14",
+          "level": 3
+        },
+        {
+          "title": "1.3 C语言的应用范围",
+          "anchor": "nav_point_15",
+          "level": 2
+        },
+        {
+          "title": "1.4 计算机能做什么",
+          "anchor": "nav_point_16",
+          "level": 2
+        },
+        {
+          "title": "1.5 高级计算机语言和编译器",
+          "anchor": "nav_point_17",
+          "level": 2
+        },
+        {
+          "title": "1.6 语言标准",
+          "anchor": "nav_point_18",
+          "level": 2
+        },
+        {
+          "title": "1.6.1 第1个ANSI/ISO C标准",
+          "anchor": "nav_point_19",
+          "level": 3
+        },
+        {
+          "title": "1.6.2 C99标准",
+          "anchor": "nav_point_20",
+          "level": 3
+        },
+        {
+          "title": "1.6.3 C11标准",
+          "anchor": "nav_point_21",
+          "level": 3
+        },
+        {
+          "title": "1.7 使用C语言的7个步骤",
+          "anchor": "nav_point_22",
+          "level": 2
+        },
+        {
+          "title": "1.7.1 第1步：定义程序的目标",
+          "anchor": "nav_point_23",
+          "level": 3
+        },
+        {
+          "title": "1.7.2 第2步：设计程序",
+          "anchor": "nav_point_24",
+          "level": 3
+        },
+        {
+          "title": "1.7.3 第3步：编写代码",
+          "anchor": "nav_point_25",
+          "level": 3
+        },
+        {
+          "title": "1.7.4 第4步：编译",
+          "anchor": "nav_point_26",
+          "level": 3
+        },
+        {
+          "title": "1.7.5 第5步：运行程序",
+          "anchor": "nav_point_27",
+          "level": 3
+        },
+        {
+          "title": "1.7.6 第6步：测试和调试程序",
+          "anchor": "nav_point_28",
+          "level": 3
+        },
+        {
+          "title": "1.7.7 第7步：维护和修改代码",
+          "anchor": "nav_point_29",
+          "level": 3
+        },
+        {
+          "title": "1.7.8 说明",
+          "anchor": "nav_point_30",
+          "level": 3
+        },
+        {
+          "title": "1.8 编程机制",
+          "anchor": "nav_point_31",
+          "level": 2
+        },
+        {
+          "title": "1.8.1 目标代码文件、可执行文件和库",
+          "anchor": "nav_point_32",
+          "level": 3
+        },
+        {
+          "title": "1.8.2 UNIX系统",
+          "anchor": "nav_point_33",
+          "level": 3
+        },
+        {
+          "title": "1.8.3 GNU编译器集合和LLVM项目",
+          "anchor": "nav_point_34",
+          "level": 3
+        },
+        {
+          "title": "1.8.4 Linux系统",
+          "anchor": "nav_point_35",
+          "level": 3
+        },
+        {
+          "title": "1.8.5 PC的命令行编译器",
+          "anchor": "nav_point_36",
+          "level": 3
+        },
+        {
+          "title": "1.8.6 集成开发环境（Windows）",
+          "anchor": "nav_point_37",
+          "level": 3
+        },
+        {
+          "title": "1.8.7 Windows/Linux",
+          "anchor": "nav_point_38",
+          "level": 3
+        },
+        {
+          "title": "1.8.8 Macintosh中的C",
+          "anchor": "nav_point_39",
+          "level": 3
+        },
+        {
+          "title": "1.9 本书的组织结构",
+          "anchor": "nav_point_40",
+          "level": 2
+        },
+        {
+          "title": "1.10 本书的约定",
+          "anchor": "nav_point_41",
+          "level": 2
+        },
+        {
+          "title": "1.10.1 字体",
+          "anchor": "nav_point_42",
+          "level": 3
+        },
+        {
+          "title": "1.10.2 程序输出",
+          "anchor": "nav_point_43",
+          "level": 3
+        },
+        {
+          "title": "1.10.3 特殊元素",
+          "anchor": "nav_point_44",
+          "level": 3
+        },
+        {
+          "title": "1.11 本章小结",
+          "anchor": "nav_point_45",
+          "level": 2
+        },
+        {
+          "title": "1.12 复习题",
+          "anchor": "nav_point_46",
+          "level": 2
+        },
+        {
+          "title": "1.13 编程练习",
+          "anchor": "nav_point_47",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第2章 C语言概述",
+      "level": 1,
+      "wordCount": 19292,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "2.1 简单的C程序示例",
+          "anchor": "nav_point_49",
+          "level": 2
+        },
+        {
+          "title": "2.2 示例解释",
+          "anchor": "nav_point_50",
+          "level": 2
+        },
+        {
+          "title": "2.2.1 第1遍：快速概要",
+          "anchor": "nav_point_51",
+          "level": 3
+        },
+        {
+          "title": "2.2.2 第2遍：程序细节",
+          "anchor": "nav_point_52",
+          "level": 3
+        },
+        {
+          "title": "2.3 简单程序的结构",
+          "anchor": "nav_point_53",
+          "level": 2
+        },
+        {
+          "title": "2.4 提高程序可读性的技巧",
+          "anchor": "nav_point_54",
+          "level": 2
+        },
+        {
+          "title": "2.5 进一步使用C",
+          "anchor": "nav_point_55",
+          "level": 2
+        },
+        {
+          "title": "2.5.1 程序说明",
+          "anchor": "nav_point_56",
+          "level": 3
+        },
+        {
+          "title": "2.5.2 多条声明",
+          "anchor": "nav_point_57",
+          "level": 3
+        },
+        {
+          "title": "2.5.3 乘法",
+          "anchor": "nav_point_58",
+          "level": 3
+        },
+        {
+          "title": "2.5.4 打印多个值",
+          "anchor": "nav_point_59",
+          "level": 3
+        },
+        {
+          "title": "2.6 多个函数",
+          "anchor": "nav_point_60",
+          "level": 2
+        },
+        {
+          "title": "2.7 调试程序",
+          "anchor": "nav_point_61",
+          "level": 2
+        },
+        {
+          "title": "2.7.1 语法错误",
+          "anchor": "nav_point_62",
+          "level": 3
+        },
+        {
+          "title": "2.7.2 语义错误",
+          "anchor": "nav_point_63",
+          "level": 3
+        },
+        {
+          "title": "2.7.3 程序状态",
+          "anchor": "nav_point_64",
+          "level": 3
+        },
+        {
+          "title": "2.8 关键字和保留标识符",
+          "anchor": "nav_point_65",
+          "level": 2
+        },
+        {
+          "title": "2.9 关键概念",
+          "anchor": "nav_point_66",
+          "level": 2
+        },
+        {
+          "title": "2.10 本章小结",
+          "anchor": "nav_point_67",
+          "level": 2
+        },
+        {
+          "title": "2.11 复习题",
+          "anchor": "nav_point_68",
+          "level": 2
+        },
+        {
+          "title": "2.12 编程练习",
+          "anchor": "nav_point_69",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第3章 数据和C",
+      "level": 1,
+      "wordCount": 35613,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "3.1 示例程序",
+          "anchor": "nav_point_71",
+          "level": 2
+        },
+        {
+          "title": "3.1.1 程序中的新元素",
+          "anchor": "nav_point_72",
+          "level": 3
+        },
+        {
+          "title": "3.2 变量与常量数据",
+          "anchor": "nav_point_73",
+          "level": 2
+        },
+        {
+          "title": "3.3 数据：数据类型关键字",
+          "anchor": "nav_point_74",
+          "level": 2
+        },
+        {
+          "title": "3.3.1 整数和浮点数",
+          "anchor": "nav_point_75",
+          "level": 3
+        },
+        {
+          "title": "3.3.2 整数",
+          "anchor": "nav_point_76",
+          "level": 3
+        },
+        {
+          "title": "3.3.3 浮点数",
+          "anchor": "nav_point_77",
+          "level": 3
+        },
+        {
+          "title": "3.4 C语言基本数据类型",
+          "anchor": "nav_point_78",
+          "level": 2
+        },
+        {
+          "title": "3.4.1 int类型",
+          "anchor": "nav_point_79",
+          "level": 3
+        },
+        {
+          "title": "3.4.2 其他整数类型",
+          "anchor": "nav_point_80",
+          "level": 3
+        },
+        {
+          "title": "3.4.3 使用字符：char类型",
+          "anchor": "nav_point_81",
+          "level": 3
+        },
+        {
+          "title": "3.4.4 _Bool类型",
+          "anchor": "nav_point_82",
+          "level": 3
+        },
+        {
+          "title": "3.4.5 可移植类型：stdint.h和inttypes.h",
+          "anchor": "nav_point_83",
+          "level": 3
+        },
+        {
+          "title": "3.4.6 float、double和long double",
+          "anchor": "nav_point_84",
+          "level": 3
+        },
+        {
+          "title": "3.4.7 复数和虚数类型",
+          "anchor": "nav_point_85",
+          "level": 3
+        },
+        {
+          "title": "3.4.8 其他类型",
+          "anchor": "nav_point_86",
+          "level": 3
+        },
+        {
+          "title": "3.4.9 类型大小",
+          "anchor": "nav_point_87",
+          "level": 3
+        },
+        {
+          "title": "3.5 使用数据类型",
+          "anchor": "nav_point_88",
+          "level": 2
+        },
+        {
+          "title": "3.6 参数和陷阱",
+          "anchor": "nav_point_89",
+          "level": 2
+        },
+        {
+          "title": "3.7 转义序列示例",
+          "anchor": "nav_point_90",
+          "level": 2
+        },
+        {
+          "title": "3.7.1 程序运行情况",
+          "anchor": "nav_point_91",
+          "level": 3
+        },
+        {
+          "title": "3.7.2 刷新输出",
+          "anchor": "nav_point_92",
+          "level": 3
+        },
+        {
+          "title": "3.8 关键概念",
+          "anchor": "nav_point_93",
+          "level": 2
+        },
+        {
+          "title": "3.9 本章小结",
+          "anchor": "nav_point_94",
+          "level": 2
+        },
+        {
+          "title": "3.10 复习题",
+          "anchor": "nav_point_95",
+          "level": 2
+        },
+        {
+          "title": "3.11 编程练习",
+          "anchor": "nav_point_96",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第4章 字符串和格式化输入/输出",
+      "level": 1,
+      "wordCount": 33375,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "4.1 前导程序",
+          "anchor": "nav_point_98",
+          "level": 2
+        },
+        {
+          "title": "4.2 字符串简介",
+          "anchor": "nav_point_99",
+          "level": 2
+        },
+        {
+          "title": "4.2.1 char类型数组和null字符",
+          "anchor": "nav_point_100",
+          "level": 3
+        },
+        {
+          "title": "4.2.2 使用字符串",
+          "anchor": "nav_point_101",
+          "level": 3
+        },
+        {
+          "title": "4.2.3 strlen()函数",
+          "anchor": "nav_point_102",
+          "level": 3
+        },
+        {
+          "title": "4.3 常量和C预处理器",
+          "anchor": "nav_point_103",
+          "level": 2
+        },
+        {
+          "title": "4.3.1 const限定符",
+          "anchor": "nav_point_104",
+          "level": 3
+        },
+        {
+          "title": "4.3.2 明示常量",
+          "anchor": "nav_point_105",
+          "level": 3
+        },
+        {
+          "title": "4.4 printf()和scanf()",
+          "anchor": "nav_point_106",
+          "level": 2
+        },
+        {
+          "title": "4.4.1 printf()函数",
+          "anchor": "nav_point_107",
+          "level": 3
+        },
+        {
+          "title": "4.4.2 使用printf()",
+          "anchor": "nav_point_108",
+          "level": 3
+        },
+        {
+          "title": "4.4.3 printf()的转换说明修饰符",
+          "anchor": "nav_point_109",
+          "level": 3
+        },
+        {
+          "title": "4.4.4 转换说明的意义",
+          "anchor": "nav_point_110",
+          "level": 3
+        },
+        {
+          "title": "4.4.5 使用scanf()",
+          "anchor": "nav_point_111",
+          "level": 3
+        },
+        {
+          "title": "4.4.6 printf()和scanf()的*修饰符",
+          "anchor": "nav_point_112",
+          "level": 3
+        },
+        {
+          "title": "4.4.7 printf()的用法提示",
+          "anchor": "nav_point_113",
+          "level": 3
+        },
+        {
+          "title": "4.5 关键概念",
+          "anchor": "nav_point_114",
+          "level": 2
+        },
+        {
+          "title": "4.6 本章小结",
+          "anchor": "ac44",
+          "level": 2
+        },
+        {
+          "title": "4.7 复习题",
+          "anchor": "nav_point_116",
+          "level": 2
+        },
+        {
+          "title": "4.8 编程练习",
+          "anchor": "nav_point_117",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第5章 运算符、表达式和语句",
+      "level": 1,
+      "wordCount": 33398,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "5.1 循环简介",
+          "anchor": "nav_point_119",
+          "level": 2
+        },
+        {
+          "title": "5.2 基本运算符",
+          "anchor": "nav_point_120",
+          "level": 2
+        },
+        {
+          "title": "5.2.1 赋值运算符：=",
+          "anchor": "nav_point_121",
+          "level": 3
+        },
+        {
+          "title": "5.2.2 加法运算符：+",
+          "anchor": "nav_point_122",
+          "level": 3
+        },
+        {
+          "title": "5.2.3 减法运算符：-",
+          "anchor": "nav_point_123",
+          "level": 3
+        },
+        {
+          "title": "5.2.4 符号运算符：-和+",
+          "anchor": "nav_point_124",
+          "level": 3
+        },
+        {
+          "title": "5.2.5 乘法运算符：*",
+          "anchor": "nav_point_125",
+          "level": 3
+        },
+        {
+          "title": "5.2.6 除法运算符：/",
+          "anchor": "nav_point_126",
+          "level": 3
+        },
+        {
+          "title": "5.2.7 运算符优先级",
+          "anchor": "nav_point_127",
+          "level": 3
+        },
+        {
+          "title": "5.2.8 优先级和求值顺序",
+          "anchor": "nav_point_128",
+          "level": 3
+        },
+        {
+          "title": "5.3 其他运算符",
+          "anchor": "nav_point_129",
+          "level": 2
+        },
+        {
+          "title": "5.3.1 sizeof运算符和size_t类型",
+          "anchor": "nav_point_130",
+          "level": 3
+        },
+        {
+          "title": "5.3.2 求模运算符：%",
+          "anchor": "nav_point_131",
+          "level": 3
+        },
+        {
+          "title": "5.3.3 递增运算符：++",
+          "anchor": "nav_point_132",
+          "level": 3
+        },
+        {
+          "title": "5.3.4 递减运算符：--",
+          "anchor": "nav_point_133",
+          "level": 3
+        },
+        {
+          "title": "5.3.5 优先级",
+          "anchor": "nav_point_134",
+          "level": 3
+        },
+        {
+          "title": "5.3.6 不要自作聪明",
+          "anchor": "nav_point_135",
+          "level": 3
+        },
+        {
+          "title": "5.4 表达式和语句",
+          "anchor": "nav_point_136",
+          "level": 2
+        },
+        {
+          "title": "5.4.1 表达式",
+          "anchor": "nav_point_137",
+          "level": 3
+        },
+        {
+          "title": "5.4.2 语句",
+          "anchor": "nav_point_138",
+          "level": 3
+        },
+        {
+          "title": "5.4.3 复合语句（块）",
+          "anchor": "nav_point_139",
+          "level": 3
+        },
+        {
+          "title": "5.5 类型转换",
+          "anchor": "nav_point_140",
+          "level": 2
+        },
+        {
+          "title": "5.5.1 强制类型转换运算符",
+          "anchor": "nav_point_141",
+          "level": 3
+        },
+        {
+          "title": "5.6 带参数的函数",
+          "anchor": "nav_point_142",
+          "level": 2
+        },
+        {
+          "title": "5.7 示例程序",
+          "anchor": "nav_point_143",
+          "level": 2
+        },
+        {
+          "title": "5.8 关键概念",
+          "anchor": "nav_point_144",
+          "level": 2
+        },
+        {
+          "title": "5.9 本章小结",
+          "anchor": "nav_point_145",
+          "level": 2
+        },
+        {
+          "title": "5.10 复习题",
+          "anchor": "nav_point_146",
+          "level": 2
+        },
+        {
+          "title": "5.11 编程练习",
+          "anchor": "nav_point_147",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第6章 C控制语句：循环",
+      "level": 1,
+      "wordCount": 36521,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "6.1 再探while循环",
+          "anchor": "nav_point_149",
+          "level": 2
+        },
+        {
+          "title": "6.1.1 程序注释",
+          "anchor": "nav_point_150",
+          "level": 3
+        },
+        {
+          "title": "6.1.2 C风格读取循环",
+          "anchor": "nav_point_151",
+          "level": 3
+        },
+        {
+          "title": "6.2 while语句",
+          "anchor": "nav_point_152",
+          "level": 2
+        },
+        {
+          "title": "6.2.1 终止while循环",
+          "anchor": "nav_point_153",
+          "level": 3
+        },
+        {
+          "title": "6.2.2 何时终止循环",
+          "anchor": "nav_point_154",
+          "level": 3
+        },
+        {
+          "title": "6.2.3 while：入口条件循环",
+          "anchor": "nav_point_155",
+          "level": 3
+        },
+        {
+          "title": "6.2.4 语法要点",
+          "anchor": "nav_point_156",
+          "level": 3
+        },
+        {
+          "title": "6.3 用关系运算符和表达式比较大小",
+          "anchor": "nav_point_157",
+          "level": 2
+        },
+        {
+          "title": "6.3.1 什么是真",
+          "anchor": "nav_point_158",
+          "level": 3
+        },
+        {
+          "title": "6.3.2 其他真值",
+          "anchor": "nav_point_159",
+          "level": 3
+        },
+        {
+          "title": "6.3.3 真值的问题",
+          "anchor": "nav_point_160",
+          "level": 3
+        },
+        {
+          "title": "6.3.4 新的_Bool类型",
+          "anchor": "nav_point_161",
+          "level": 3
+        },
+        {
+          "title": "6.3.5 优先级和关系运算符",
+          "anchor": "nav_point_162",
+          "level": 3
+        },
+        {
+          "title": "6.4 不确定循环和计数循环",
+          "anchor": "nav_point_163",
+          "level": 2
+        },
+        {
+          "title": "6.5 for循环",
+          "anchor": "nav_point_164",
+          "level": 2
+        },
+        {
+          "title": "6.5.1 利用for的灵活性",
+          "anchor": "nav_point_165",
+          "level": 3
+        },
+        {
+          "title": "6.6 其他赋值运算符：+=、-=、*=、/=、%=",
+          "anchor": "nav_point_166",
+          "level": 2
+        },
+        {
+          "title": "6.7 逗号运算符",
+          "anchor": "nav_point_167",
+          "level": 2
+        },
+        {
+          "title": "6.7.1 当Zeno遇到for循环",
+          "anchor": "nav_point_168",
+          "level": 3
+        },
+        {
+          "title": "6.8 出口条件循环：do while",
+          "anchor": "nav_point_169",
+          "level": 2
+        },
+        {
+          "title": "6.9 如何选择循环",
+          "anchor": "nav_point_170",
+          "level": 2
+        },
+        {
+          "title": "6.10 嵌套循环",
+          "anchor": "nav_point_171",
+          "level": 2
+        },
+        {
+          "title": "6.10.1 程序分析",
+          "anchor": "nav_point_172",
+          "level": 3
+        },
+        {
+          "title": "6.10.2 嵌套变式",
+          "anchor": "nav_point_173",
+          "level": 3
+        },
+        {
+          "title": "6.11 数组简介",
+          "anchor": "nav_point_174",
+          "level": 2
+        },
+        {
+          "title": "6.11.1 在for循环中使用数组",
+          "anchor": "nav_point_175",
+          "level": 3
+        },
+        {
+          "title": "6.12 使用函数返回值的循环示例",
+          "anchor": "nav_point_176",
+          "level": 2
+        },
+        {
+          "title": "6.12.1 程序分析",
+          "anchor": "nav_point_177",
+          "level": 3
+        },
+        {
+          "title": "6.12.2 使用带返回值的函数",
+          "anchor": "nav_point_178",
+          "level": 3
+        },
+        {
+          "title": "6.13 关键概念",
+          "anchor": "nav_point_179",
+          "level": 2
+        },
+        {
+          "title": "6.14 本章小结",
+          "anchor": "nav_point_180",
+          "level": 2
+        },
+        {
+          "title": "6.15 复习题",
+          "anchor": "nav_point_181",
+          "level": 2
+        },
+        {
+          "title": "6.16 编程练习",
+          "anchor": "nav_point_182",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第7章 C控制语句：分支和跳转",
+      "level": 1,
+      "wordCount": 37559,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "7.1 if语句",
+          "anchor": "nav_point_184",
+          "level": 2
+        },
+        {
+          "title": "7.2 if else语句",
+          "anchor": "nav_point_185",
+          "level": 2
+        },
+        {
+          "title": "7.2.1 另一个示例：介绍getchar()和putchar()",
+          "anchor": "nav_point_186",
+          "level": 3
+        },
+        {
+          "title": "7.2.2 ctype.h系列的字符函数",
+          "anchor": "nav_point_187",
+          "level": 3
+        },
+        {
+          "title": "7.2.3 多重选择else if",
+          "anchor": "nav_point_188",
+          "level": 3
+        },
+        {
+          "title": "7.2.4 else与if配对",
+          "anchor": "nav_point_189",
+          "level": 3
+        },
+        {
+          "title": "7.2.5 多层嵌套的if语句",
+          "anchor": "nav_point_190",
+          "level": 3
+        },
+        {
+          "title": "7.3 逻辑运算符",
+          "anchor": "nav_point_191",
+          "level": 2
+        },
+        {
+          "title": "7.3.1 备选拼写：iso646.h头文件",
+          "anchor": "nav_point_192",
+          "level": 3
+        },
+        {
+          "title": "7.3.2 优先级",
+          "anchor": "nav_point_193",
+          "level": 3
+        },
+        {
+          "title": "7.3.3 求值顺序",
+          "anchor": "nav_point_194",
+          "level": 3
+        },
+        {
+          "title": "7.3.4 范围",
+          "anchor": "nav_point_195",
+          "level": 3
+        },
+        {
+          "title": "7.4 一个统计单词的程序",
+          "anchor": "nav_point_196",
+          "level": 2
+        },
+        {
+          "title": "7.5 条件运算符：?:",
+          "anchor": "nav_point_197",
+          "level": 2
+        },
+        {
+          "title": "7.6 循环辅助：continue和break",
+          "anchor": "nav_point_198",
+          "level": 2
+        },
+        {
+          "title": "7.6.1 continue语句",
+          "anchor": "nav_point_199",
+          "level": 3
+        },
+        {
+          "title": "7.6.2 break语句",
+          "anchor": "nav_point_200",
+          "level": 3
+        },
+        {
+          "title": "7.7 多重选择：switch和break",
+          "anchor": "nav_point_201",
+          "level": 2
+        },
+        {
+          "title": "7.7.1 switch语句",
+          "anchor": "nav_point_202",
+          "level": 3
+        },
+        {
+          "title": "7.7.2 只读每行的首字符",
+          "anchor": "nav_point_203",
+          "level": 3
+        },
+        {
+          "title": "7.7.3 多重标签",
+          "anchor": "nav_point_204",
+          "level": 3
+        },
+        {
+          "title": "7.7.4 switch和if else",
+          "anchor": "nav_point_205",
+          "level": 3
+        },
+        {
+          "title": "7.8 goto语句",
+          "anchor": "nav_point_206",
+          "level": 2
+        },
+        {
+          "title": "7.8.1 避免使用goto",
+          "anchor": "nav_point_207",
+          "level": 3
+        },
+        {
+          "title": "7.9 关键概念",
+          "anchor": "nav_point_208",
+          "level": 2
+        },
+        {
+          "title": "7.10 本章小结",
+          "anchor": "nav_point_209",
+          "level": 2
+        },
+        {
+          "title": "7.11 复习题",
+          "anchor": "nav_point_210",
+          "level": 2
+        },
+        {
+          "title": "7.12 编程练习",
+          "anchor": "nav_point_211",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第8章 字符输入/输出和输入验证",
+      "level": 1,
+      "wordCount": 27878,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "8.1 单字符I/O：getchar()和putchar()",
+          "anchor": "nav_point_213",
+          "level": 2
+        },
+        {
+          "title": "8.2 缓冲区",
+          "anchor": "nav_point_214",
+          "level": 2
+        },
+        {
+          "title": "8.3 结束键盘输入",
+          "anchor": "nav_point_215",
+          "level": 2
+        },
+        {
+          "title": "8.3.1 文件、流和键盘输入",
+          "anchor": "nav_point_216",
+          "level": 3
+        },
+        {
+          "title": "8.3.2 文件结尾",
+          "anchor": "nav_point_217",
+          "level": 3
+        },
+        {
+          "title": "8.4 重定向和文件",
+          "anchor": "nav_point_218",
+          "level": 2
+        },
+        {
+          "title": "8.4.1 UNIX、Linux和DOS重定向",
+          "anchor": "nav_point_219",
+          "level": 3
+        },
+        {
+          "title": "8.5 创建更友好的用户界面",
+          "anchor": "nav_point_220",
+          "level": 2
+        },
+        {
+          "title": "8.5.1 使用缓冲输入",
+          "anchor": "nav_point_221",
+          "level": 3
+        },
+        {
+          "title": "8.5.2 混合数值和字符输入",
+          "anchor": "nav_point_222",
+          "level": 3
+        },
+        {
+          "title": "8.6 输入验证",
+          "anchor": "nav_point_223",
+          "level": 2
+        },
+        {
+          "title": "8.6.1 分析程序",
+          "anchor": "nav_point_224",
+          "level": 3
+        },
+        {
+          "title": "8.6.2 输入流和数字",
+          "anchor": "nav_point_225",
+          "level": 3
+        },
+        {
+          "title": "8.7 菜单浏览",
+          "anchor": "nav_point_226",
+          "level": 2
+        },
+        {
+          "title": "8.7.1 任务",
+          "anchor": "nav_point_227",
+          "level": 3
+        },
+        {
+          "title": "8.7.2 使执行更顺利",
+          "anchor": "nav_point_228",
+          "level": 3
+        },
+        {
+          "title": "8.7.3 混合字符和数值输入",
+          "anchor": "nav_point_229",
+          "level": 3
+        },
+        {
+          "title": "8.8 关键概念",
+          "anchor": "nav_point_230",
+          "level": 2
+        },
+        {
+          "title": "8.9 本章小结",
+          "anchor": "nav_point_231",
+          "level": 2
+        },
+        {
+          "title": "8.10 复习题",
+          "anchor": "nav_point_232",
+          "level": 2
+        },
+        {
+          "title": "8.11 编程练习",
+          "anchor": "nav_point_233",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第9章 函数",
+      "level": 1,
+      "wordCount": 34880,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "9.1 复习函数",
+          "anchor": "nav_point_235",
+          "level": 2
+        },
+        {
+          "title": "9.1.1 创建并使用简单函数",
+          "anchor": "nav_point_236",
+          "level": 3
+        },
+        {
+          "title": "9.1.2 分析程序",
+          "anchor": "nav_point_237",
+          "level": 3
+        },
+        {
+          "title": "9.1.3 函数参数",
+          "anchor": "nav_point_238",
+          "level": 3
+        },
+        {
+          "title": "9.1.4 定义带形式参数的函数",
+          "anchor": "nav_point_239",
+          "level": 3
+        },
+        {
+          "title": "9.1.5 声明带形式参数函数的原型",
+          "anchor": "nav_point_240",
+          "level": 3
+        },
+        {
+          "title": "9.1.6 调用带实际参数的函数",
+          "anchor": "nav_point_241",
+          "level": 3
+        },
+        {
+          "title": "9.1.7 黑盒视角",
+          "anchor": "nav_point_242",
+          "level": 3
+        },
+        {
+          "title": "9.1.8 使用return从函数中返回值",
+          "anchor": "nav_point_243",
+          "level": 3
+        },
+        {
+          "title": "9.1.9 函数类型",
+          "anchor": "nav_point_244",
+          "level": 3
+        },
+        {
+          "title": "9.2 ANSI C函数原型",
+          "anchor": "nav_point_245",
+          "level": 2
+        },
+        {
+          "title": "9.2.1 问题所在",
+          "anchor": "nav_point_246",
+          "level": 3
+        },
+        {
+          "title": "9.2.2 ANSI的解决方案",
+          "anchor": "nav_point_247",
+          "level": 3
+        },
+        {
+          "title": "9.2.3 无参数和未指定参数",
+          "anchor": "nav_point_248",
+          "level": 3
+        },
+        {
+          "title": "9.2.4 函数原型的优点",
+          "anchor": "nav_point_249",
+          "level": 3
+        },
+        {
+          "title": "9.3 递归",
+          "anchor": "nav_point_250",
+          "level": 2
+        },
+        {
+          "title": "9.3.1 演示递归",
+          "anchor": "nav_point_251",
+          "level": 3
+        },
+        {
+          "title": "9.3.2 递归的基本原理",
+          "anchor": "nav_point_252",
+          "level": 3
+        },
+        {
+          "title": "9.3.3 尾递归",
+          "anchor": "nav_point_253",
+          "level": 3
+        },
+        {
+          "title": "9.3.4 递归和倒序计算",
+          "anchor": "nav_point_254",
+          "level": 3
+        },
+        {
+          "title": "9.3.5 递归的优缺点",
+          "anchor": "nav_point_255",
+          "level": 3
+        },
+        {
+          "title": "9.4 编译多源代码文件的程序",
+          "anchor": "nav_point_256",
+          "level": 2
+        },
+        {
+          "title": "9.4.1 UNIX",
+          "anchor": "nav_point_257",
+          "level": 3
+        },
+        {
+          "title": "9.4.2 Linux",
+          "anchor": "nav_point_258",
+          "level": 3
+        },
+        {
+          "title": "9.4.3 DOS命令行编译器",
+          "anchor": "nav_point_259",
+          "level": 3
+        },
+        {
+          "title": "9.4.4 Windows和苹果的IDE编译器",
+          "anchor": "nav_point_260",
+          "level": 3
+        },
+        {
+          "title": "9.4.5 使用头文件",
+          "anchor": "nav_point_261",
+          "level": 3
+        },
+        {
+          "title": "9.5 查找地址：and 运算符",
+          "anchor": "nav_point_262",
+          "level": 2
+        },
+        {
+          "title": "9.6 更改主调函数中的变量",
+          "anchor": "nav_point_263",
+          "level": 2
+        },
+        {
+          "title": "9.7 指针简介",
+          "anchor": "nav_point_264",
+          "level": 2
+        },
+        {
+          "title": "9.7.1 间接运算符：*",
+          "anchor": "nav_point_265",
+          "level": 3
+        },
+        {
+          "title": "9.7.2 声明指针",
+          "anchor": "nav_point_266",
+          "level": 3
+        },
+        {
+          "title": "9.7.3 使用指针在函数间通信",
+          "anchor": "nav_point_267",
+          "level": 3
+        },
+        {
+          "title": "9.8 关键概念",
+          "anchor": "nav_point_268",
+          "level": 2
+        },
+        {
+          "title": "9.9 本章小结",
+          "anchor": "nav_point_269",
+          "level": 2
+        },
+        {
+          "title": "9.10 复习题",
+          "anchor": "nav_point_270",
+          "level": 2
+        },
+        {
+          "title": "9.11 编程练习",
+          "anchor": "nav_point_271",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第10章 数组和指针",
+      "level": 1,
+      "wordCount": 45972,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "10.1 数组",
+          "anchor": "nav_point_273",
+          "level": 2
+        },
+        {
+          "title": "10.1.1 初始化数组",
+          "anchor": "nav_point_274",
+          "level": 3
+        },
+        {
+          "title": "10.1.2 指定初始化器（C99）",
+          "anchor": "nav_point_275",
+          "level": 3
+        },
+        {
+          "title": "10.1.3 给数组元素赋值",
+          "anchor": "nav_point_276",
+          "level": 3
+        },
+        {
+          "title": "10.1.4 数组边界",
+          "anchor": "nav_point_277",
+          "level": 3
+        },
+        {
+          "title": "10.1.5 指定数组的大小",
+          "anchor": "nav_point_278",
+          "level": 3
+        },
+        {
+          "title": "10.2 多维数组",
+          "anchor": "nav_point_279",
+          "level": 2
+        },
+        {
+          "title": "10.2.1 初始化二维数组",
+          "anchor": "nav_point_280",
+          "level": 3
+        },
+        {
+          "title": "10.2.2 其他多维数组",
+          "anchor": "nav_point_281",
+          "level": 3
+        },
+        {
+          "title": "10.3 指针和数组",
+          "anchor": "nav_point_282",
+          "level": 2
+        },
+        {
+          "title": "10.4 函数、数组和指针",
+          "anchor": "nav_point_283",
+          "level": 2
+        },
+        {
+          "title": "10.4.1 使用指针形参",
+          "anchor": "nav_point_284",
+          "level": 3
+        },
+        {
+          "title": "10.4.2 指针表示法和数组表示法",
+          "anchor": "nav_point_285",
+          "level": 3
+        },
+        {
+          "title": "10.5 指针操作",
+          "anchor": "nav_point_286",
+          "level": 2
+        },
+        {
+          "title": "10.6 保护数组中的数据",
+          "anchor": "nav_point_287",
+          "level": 2
+        },
+        {
+          "title": "10.6.1 对形式参数使用const",
+          "anchor": "nav_point_288",
+          "level": 3
+        },
+        {
+          "title": "10.6.2 const的其他内容",
+          "anchor": "nav_point_289",
+          "level": 3
+        },
+        {
+          "title": "10.7 指针和多维数组",
+          "anchor": "nav_point_290",
+          "level": 2
+        },
+        {
+          "title": "10.7.1 指向多维数组的指针",
+          "anchor": "nav_point_291",
+          "level": 3
+        },
+        {
+          "title": "10.7.2 指针的兼容性",
+          "anchor": "nav_point_292",
+          "level": 3
+        },
+        {
+          "title": "10.7.3 函数和多维数组",
+          "anchor": "nav_point_293",
+          "level": 3
+        },
+        {
+          "title": "10.8 变长数组（VLA）",
+          "anchor": "nav_point_294",
+          "level": 2
+        },
+        {
+          "title": "10.9 复合字面量",
+          "anchor": "nav_point_295",
+          "level": 2
+        },
+        {
+          "title": "10.10 关键概念",
+          "anchor": "nav_point_296",
+          "level": 2
+        },
+        {
+          "title": "10.11 本章小结",
+          "anchor": "nav_point_297",
+          "level": 2
+        },
+        {
+          "title": "10.12 复习题",
+          "anchor": "nav_point_298",
+          "level": 2
+        },
+        {
+          "title": "10.13 编程练习",
+          "anchor": "nav_point_299",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第11章 字符串和字符串函数",
+      "level": 1,
+      "wordCount": 53267,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "11.1 表示字符串和字符串I/O",
+          "anchor": "nav_point_301",
+          "level": 2
+        },
+        {
+          "title": "11.1.1 在程序中定义字符串",
+          "anchor": "nav_point_302",
+          "level": 3
+        },
+        {
+          "title": "11.1.2 指针和字符串",
+          "anchor": "nav_point_303",
+          "level": 3
+        },
+        {
+          "title": "11.2 字符串输入",
+          "anchor": "nav_point_304",
+          "level": 2
+        },
+        {
+          "title": "11.2.1 分配空间",
+          "anchor": "nav_point_305",
+          "level": 3
+        },
+        {
+          "title": "11.2.2 不幸的gets()函数",
+          "anchor": "nav_point_306",
+          "level": 3
+        },
+        {
+          "title": "11.2.3 gets()的替代品",
+          "anchor": "nav_point_307",
+          "level": 3
+        },
+        {
+          "title": "11.2.4 scanf()函数",
+          "anchor": "nav_point_308",
+          "level": 3
+        },
+        {
+          "title": "11.3 字符串输出",
+          "anchor": "nav_point_309",
+          "level": 2
+        },
+        {
+          "title": "11.3.1 puts()函数",
+          "anchor": "nav_point_310",
+          "level": 3
+        },
+        {
+          "title": "11.3.2 fputs()函数",
+          "anchor": "nav_point_311",
+          "level": 3
+        },
+        {
+          "title": "11.3.3 printf()函数",
+          "anchor": "nav_point_312",
+          "level": 3
+        },
+        {
+          "title": "11.4 自定义输入/输出函数",
+          "anchor": "nav_point_313",
+          "level": 2
+        },
+        {
+          "title": "11.5 字符串函数",
+          "anchor": "nav_point_314",
+          "level": 2
+        },
+        {
+          "title": "11.5.1 strlen()函数",
+          "anchor": "nav_point_315",
+          "level": 3
+        },
+        {
+          "title": "11.5.2 strcat()函数",
+          "anchor": "nav_point_316",
+          "level": 3
+        },
+        {
+          "title": "11.5.3 strncat()函数",
+          "anchor": "nav_point_317",
+          "level": 3
+        },
+        {
+          "title": "11.5.4 strcmp()函数",
+          "anchor": "nav_point_318",
+          "level": 3
+        },
+        {
+          "title": "11.5.5 strcpy()和strncpy()函数",
+          "anchor": "nav_point_319",
+          "level": 3
+        },
+        {
+          "title": "11.5.6 sprintf()函数",
+          "anchor": "nav_point_320",
+          "level": 3
+        },
+        {
+          "title": "11.5.7 其他字符串函数",
+          "anchor": "nav_point_321",
+          "level": 3
+        },
+        {
+          "title": "11.6 字符串示例：字符串排序",
+          "anchor": "nav_point_322",
+          "level": 2
+        },
+        {
+          "title": "11.6.1 排序指针而非字符串",
+          "anchor": "nav_point_323",
+          "level": 3
+        },
+        {
+          "title": "11.6.2 选择排序算法",
+          "anchor": "nav_point_324",
+          "level": 3
+        },
+        {
+          "title": "11.7 ctype.h字符函数和字符串",
+          "anchor": "nav_point_325",
+          "level": 2
+        },
+        {
+          "title": "11.8 命令行参数",
+          "anchor": "nav_point_326",
+          "level": 2
+        },
+        {
+          "title": "11.8.1 集成环境中的命令行参数",
+          "anchor": "nav_point_327",
+          "level": 3
+        },
+        {
+          "title": "11.8.2 Macintosh中的命令行参数",
+          "anchor": "nav_point_328",
+          "level": 3
+        },
+        {
+          "title": "11.9 把字符串转换为数字",
+          "anchor": "nav_point_329",
+          "level": 2
+        },
+        {
+          "title": "11.10 关键概念",
+          "anchor": "nav_point_330",
+          "level": 2
+        },
+        {
+          "title": "11.11 本章小结",
+          "anchor": "nav_point_331",
+          "level": 2
+        },
+        {
+          "title": "11.12 复习题",
+          "anchor": "nav_point_332",
+          "level": 2
+        },
+        {
+          "title": "11.13 编程练习",
+          "anchor": "nav_point_333",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第12章 存储类别、链接和内存管理",
+      "level": 1,
+      "wordCount": 44146,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "12.1 存储类别",
+          "anchor": "nav_point_335",
+          "level": 2
+        },
+        {
+          "title": "12.1.1 作用域",
+          "anchor": "nav_point_336",
+          "level": 3
+        },
+        {
+          "title": "12.1.2 链接",
+          "anchor": "nav_point_337",
+          "level": 3
+        },
+        {
+          "title": "12.1.3 存储期",
+          "anchor": "nav_point_338",
+          "level": 3
+        },
+        {
+          "title": "12.1.4 自动变量",
+          "anchor": "nav_point_339",
+          "level": 3
+        },
+        {
+          "title": "12.1.5 寄存器变量",
+          "anchor": "nav_point_340",
+          "level": 3
+        },
+        {
+          "title": "12.1.6 块作用域的静态变量",
+          "anchor": "nav_point_341",
+          "level": 3
+        },
+        {
+          "title": "12.1.7 外部链接的静态变量",
+          "anchor": "nav_point_342",
+          "level": 3
+        },
+        {
+          "title": "12.1.8 内部链接的静态变量",
+          "anchor": "nav_point_343",
+          "level": 3
+        },
+        {
+          "title": "12.1.9 多文件",
+          "anchor": "nav_point_344",
+          "level": 3
+        },
+        {
+          "title": "12.1.10 存储类别说明符",
+          "anchor": "nav_point_345",
+          "level": 3
+        },
+        {
+          "title": "12.1.11 存储类别和函数",
+          "anchor": "nav_point_346",
+          "level": 3
+        },
+        {
+          "title": "12.1.12 存储类别的选择",
+          "anchor": "nav_point_347",
+          "level": 3
+        },
+        {
+          "title": "12.2 随机数函数和静态变量",
+          "anchor": "nav_point_348",
+          "level": 2
+        },
+        {
+          "title": "12.3 掷骰子",
+          "anchor": "nav_point_349",
+          "level": 2
+        },
+        {
+          "title": "12.4 分配内存：malloc()和free()",
+          "anchor": "nav_point_350",
+          "level": 2
+        },
+        {
+          "title": "12.4.1 free()的重要性",
+          "anchor": "nav_point_351",
+          "level": 3
+        },
+        {
+          "title": "12.4.2 calloc()函数",
+          "anchor": "nav_point_352",
+          "level": 3
+        },
+        {
+          "title": "12.4.3 动态内存分配和变长数组",
+          "anchor": "nav_point_353",
+          "level": 3
+        },
+        {
+          "title": "12.4.4 存储类别和动态内存分配",
+          "anchor": "nav_point_354",
+          "level": 3
+        },
+        {
+          "title": "12.5 ANSI C类型限定符",
+          "anchor": "nav_point_355",
+          "level": 2
+        },
+        {
+          "title": "12.5.1 const类型限定符",
+          "anchor": "nav_point_356",
+          "level": 3
+        },
+        {
+          "title": "12.5.2 volatile类型限定符",
+          "anchor": "nav_point_357",
+          "level": 3
+        },
+        {
+          "title": "12.5.3 restrict类型限定符",
+          "anchor": "nav_point_358",
+          "level": 3
+        },
+        {
+          "title": "12.5.4 _Atomic类型限定符（C11）",
+          "anchor": "nav_point_359",
+          "level": 3
+        },
+        {
+          "title": "12.5.5 旧关键字的新位置",
+          "anchor": "nav_point_360",
+          "level": 3
+        },
+        {
+          "title": "12.6 关键概念",
+          "anchor": "nav_point_361",
+          "level": 2
+        },
+        {
+          "title": "12.7 本章小结",
+          "anchor": "nav_point_362",
+          "level": 2
+        },
+        {
+          "title": "12.8 复习题",
+          "anchor": "nav_point_363",
+          "level": 2
+        },
+        {
+          "title": "12.9 编程练习",
+          "anchor": "nav_point_364",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第13章 文件输入/输出",
+      "level": 1,
+      "wordCount": 29505,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "13.1 与文件进行通信",
+          "anchor": "nav_point_366",
+          "level": 2
+        },
+        {
+          "title": "13.1.1 文件是什么",
+          "anchor": "nav_point_367",
+          "level": 3
+        },
+        {
+          "title": "13.1.2 文本模式和二进制模式",
+          "anchor": "nav_point_368",
+          "level": 3
+        },
+        {
+          "title": "13.1.3 I/O的级别",
+          "anchor": "nav_point_369",
+          "level": 3
+        },
+        {
+          "title": "13.1.4 标准文件",
+          "anchor": "nav_point_370",
+          "level": 3
+        },
+        {
+          "title": "13.2 标准I/O",
+          "anchor": "nav_point_371",
+          "level": 2
+        },
+        {
+          "title": "13.2.1 检查命令行参数",
+          "anchor": "nav_point_372",
+          "level": 3
+        },
+        {
+          "title": "13.2.2 fopen()函数",
+          "anchor": "nav_point_373",
+          "level": 3
+        },
+        {
+          "title": "13.2.3 getc()和putc()函数",
+          "anchor": "nav_point_374",
+          "level": 3
+        },
+        {
+          "title": "13.2.4 文件结尾",
+          "anchor": "nav_point_375",
+          "level": 3
+        },
+        {
+          "title": "13.2.5 fclose()函数",
+          "anchor": "nav_point_376",
+          "level": 3
+        },
+        {
+          "title": "13.2.6 指向标准文件的指针",
+          "anchor": "nav_point_377",
+          "level": 3
+        },
+        {
+          "title": "13.3 一个简单的文件压缩程序",
+          "anchor": "nav_point_378",
+          "level": 2
+        },
+        {
+          "title": "13.4 文件I/O：fprintf()、fscanf()、fgets()和fputs()",
+          "anchor": "nav_point_379",
+          "level": 2
+        },
+        {
+          "title": "13.4.1 fprintf()和fscanf()函数",
+          "anchor": "nav_point_380",
+          "level": 3
+        },
+        {
+          "title": "13.4.2 fgets()和fputs()函数",
+          "anchor": "nav_point_381",
+          "level": 3
+        },
+        {
+          "title": "13.5 随机访问：fseek()和ftell()",
+          "anchor": "nav_point_382",
+          "level": 2
+        },
+        {
+          "title": "13.5.1 fseek()和ftell()的工作原理",
+          "anchor": "nav_point_383",
+          "level": 3
+        },
+        {
+          "title": "13.5.2 二进制模式和文本模式",
+          "anchor": "nav_point_384",
+          "level": 3
+        },
+        {
+          "title": "13.5.3 可移植性",
+          "anchor": "nav_point_385",
+          "level": 3
+        },
+        {
+          "title": "13.5.4 fgetpos()和fsetpos()函数",
+          "anchor": "nav_point_386",
+          "level": 3
+        },
+        {
+          "title": "13.6 标准I/O的机理",
+          "anchor": "nav_point_387",
+          "level": 2
+        },
+        {
+          "title": "13.7 其他标准I/O函数",
+          "anchor": "nav_point_388",
+          "level": 2
+        },
+        {
+          "title": "13.7.1 int ungetc(int c, FILE *fp)函数",
+          "anchor": "nav_point_389",
+          "level": 3
+        },
+        {
+          "title": "13.7.2 int fflush()函数",
+          "anchor": "nav_point_390",
+          "level": 3
+        },
+        {
+          "title": "13.7.3 int setvbuf()函数",
+          "anchor": "nav_point_391",
+          "level": 3
+        },
+        {
+          "title": "13.7.4 二进制I/O：fread()和fwrite()",
+          "anchor": "nav_point_392",
+          "level": 3
+        },
+        {
+          "title": "13.7.5 size_t fwrite()函数",
+          "anchor": "nav_point_393",
+          "level": 3
+        },
+        {
+          "title": "13.7.6 size_t fread()函数",
+          "anchor": "nav_point_394",
+          "level": 3
+        },
+        {
+          "title": "13.7.7 int feof(FILE *fp)和int ferror(FILE *fp)函数",
+          "anchor": "nav_point_395",
+          "level": 3
+        },
+        {
+          "title": "13.7.8 一个程序示例",
+          "anchor": "nav_point_396",
+          "level": 3
+        },
+        {
+          "title": "13.7.9 用二进制I/O进行随机访问",
+          "anchor": "nav_point_397",
+          "level": 3
+        },
+        {
+          "title": "13.8 关键概念",
+          "anchor": "nav_point_398",
+          "level": 2
+        },
+        {
+          "title": "13.9 本章小结",
+          "anchor": "nav_point_399",
+          "level": 2
+        },
+        {
+          "title": "13.10 复习题",
+          "anchor": "nav_point_400",
+          "level": 2
+        },
+        {
+          "title": "13.11 编程练习",
+          "anchor": "nav_point_401",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第14章 结构和其他数据形式",
+      "level": 1,
+      "wordCount": 56124,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "14.1 示例问题：创建图书目录",
+          "anchor": "nav_point_403",
+          "level": 2
+        },
+        {
+          "title": "14.2 建立结构声明",
+          "anchor": "nav_point_404",
+          "level": 2
+        },
+        {
+          "title": "14.3 定义结构变量",
+          "anchor": "nav_point_405",
+          "level": 2
+        },
+        {
+          "title": "14.3.1 初始化结构",
+          "anchor": "nav_point_406",
+          "level": 3
+        },
+        {
+          "title": "14.3.2 访问结构成员",
+          "anchor": "nav_point_407",
+          "level": 3
+        },
+        {
+          "title": "14.3.3 结构的初始化器",
+          "anchor": "nav_point_408",
+          "level": 3
+        },
+        {
+          "title": "14.4 结构数组",
+          "anchor": "nav_point_409",
+          "level": 2
+        },
+        {
+          "title": "14.4.1 声明结构数组",
+          "anchor": "nav_point_410",
+          "level": 3
+        },
+        {
+          "title": "14.4.2 标识结构数组的成员",
+          "anchor": "nav_point_411",
+          "level": 3
+        },
+        {
+          "title": "14.4.3 程序讨论",
+          "anchor": "nav_point_412",
+          "level": 3
+        },
+        {
+          "title": "14.5 嵌套结构",
+          "anchor": "nav_point_413",
+          "level": 2
+        },
+        {
+          "title": "14.6 指向结构的指针",
+          "anchor": "nav_point_414",
+          "level": 2
+        },
+        {
+          "title": "14.6.1 声明和初始化结构指针",
+          "anchor": "nav_point_415",
+          "level": 3
+        },
+        {
+          "title": "14.6.2 用指针访问成员",
+          "anchor": "nav_point_416",
+          "level": 3
+        },
+        {
+          "title": "14.7 向函数传递结构的信息",
+          "anchor": "nav_point_417",
+          "level": 2
+        },
+        {
+          "title": "14.7.1 传递结构成员",
+          "anchor": "nav_point_418",
+          "level": 3
+        },
+        {
+          "title": "14.7.2 传递结构的地址",
+          "anchor": "nav_point_419",
+          "level": 3
+        },
+        {
+          "title": "14.7.3 传递结构",
+          "anchor": "nav_point_420",
+          "level": 3
+        },
+        {
+          "title": "14.7.4 其他结构特性",
+          "anchor": "nav_point_421",
+          "level": 3
+        },
+        {
+          "title": "14.7.5 结构和结构指针的选择",
+          "anchor": "nav_point_422",
+          "level": 3
+        },
+        {
+          "title": "14.7.6 结构中的字符数组和字符指针",
+          "anchor": "nav_point_423",
+          "level": 3
+        },
+        {
+          "title": "14.7.7 结构、指针和malloc()",
+          "anchor": "nav_point_424",
+          "level": 3
+        },
+        {
+          "title": "14.7.8 复合字面量和结构（C99）",
+          "anchor": "nav_point_425",
+          "level": 3
+        },
+        {
+          "title": "14.7.9 伸缩型数组成员（C99）",
+          "anchor": "nav_point_426",
+          "level": 3
+        },
+        {
+          "title": "14.7.10 匿名结构（C11）",
+          "anchor": "nav_point_427",
+          "level": 3
+        },
+        {
+          "title": "14.7.11 使用结构数组的函数",
+          "anchor": "nav_point_428",
+          "level": 3
+        },
+        {
+          "title": "14.8 把结构内容保存到文件中",
+          "anchor": "nav_point_429",
+          "level": 2
+        },
+        {
+          "title": "14.8.1 保存结构的程序示例",
+          "anchor": "nav_point_430",
+          "level": 3
+        },
+        {
+          "title": "14.8.2 程序要点",
+          "anchor": "nav_point_431",
+          "level": 3
+        },
+        {
+          "title": "14.9 链式结构",
+          "anchor": "nav_point_432",
+          "level": 2
+        },
+        {
+          "title": "14.10 联合简介",
+          "anchor": "nav_point_433",
+          "level": 2
+        },
+        {
+          "title": "14.10.1 使用联合",
+          "anchor": "nav_point_434",
+          "level": 3
+        },
+        {
+          "title": "14.10.2 匿名联合（C11）",
+          "anchor": "nav_point_435",
+          "level": 3
+        },
+        {
+          "title": "14.11 枚举类型",
+          "anchor": "nav_point_436",
+          "level": 2
+        },
+        {
+          "title": "14.11.1 enum常量",
+          "anchor": "nav_point_437",
+          "level": 3
+        },
+        {
+          "title": "14.11.2 默认值",
+          "anchor": "nav_point_438",
+          "level": 3
+        },
+        {
+          "title": "14.11.3 赋值",
+          "anchor": "nav_point_439",
+          "level": 3
+        },
+        {
+          "title": "14.11.4 enum的用法",
+          "anchor": "nav_point_440",
+          "level": 3
+        },
+        {
+          "title": "14.11.5 共享名称空间",
+          "anchor": "nav_point_441",
+          "level": 3
+        },
+        {
+          "title": "14.12 typedef简介",
+          "anchor": "nav_point_442",
+          "level": 2
+        },
+        {
+          "title": "14.13 其他复杂的声明",
+          "anchor": "nav_point_443",
+          "level": 2
+        },
+        {
+          "title": "14.14 函数和指针",
+          "anchor": "nav_point_444",
+          "level": 2
+        },
+        {
+          "title": "14.15 关键概念",
+          "anchor": "nav_point_445",
+          "level": 2
+        },
+        {
+          "title": "14.16 本章小结",
+          "anchor": "nav_point_446",
+          "level": 2
+        },
+        {
+          "title": "14.17 复习题",
+          "anchor": "nav_point_447",
+          "level": 2
+        },
+        {
+          "title": "14.18 编程练习",
+          "anchor": "nav_point_448",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第15章 位操作",
+      "level": 1,
+      "wordCount": 27896,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "15.1 二进制数、位和字节",
+          "anchor": "nav_point_450",
+          "level": 2
+        },
+        {
+          "title": "15.1.1 二进制整数",
+          "anchor": "nav_point_451",
+          "level": 3
+        },
+        {
+          "title": "15.1.2 有符号整数",
+          "anchor": "nav_point_452",
+          "level": 3
+        },
+        {
+          "title": "15.1.3 二进制浮点数",
+          "anchor": "nav_point_453",
+          "level": 3
+        },
+        {
+          "title": "15.2 其他进制数",
+          "anchor": "nav_point_454",
+          "level": 2
+        },
+        {
+          "title": "15.2.1 八进制",
+          "anchor": "nav_point_455",
+          "level": 3
+        },
+        {
+          "title": "15.2.2 十六进制",
+          "anchor": "nav_point_456",
+          "level": 3
+        },
+        {
+          "title": "15.3 C按位运算符",
+          "anchor": "nav_point_457",
+          "level": 2
+        },
+        {
+          "title": "15.3.1 按位逻辑运算符",
+          "anchor": "nav_point_458",
+          "level": 3
+        },
+        {
+          "title": "15.3.2 用法：掩码",
+          "anchor": "nav_point_459",
+          "level": 3
+        },
+        {
+          "title": "15.3.3 用法：打开位（设置位）",
+          "anchor": "nav_point_460",
+          "level": 3
+        },
+        {
+          "title": "15.3.4 用法：关闭位（清空位）",
+          "anchor": "nav_point_461",
+          "level": 3
+        },
+        {
+          "title": "15.3.5 用法：切换位",
+          "anchor": "nav_point_462",
+          "level": 3
+        },
+        {
+          "title": "15.3.6 用法：检查位的值",
+          "anchor": "nav_point_463",
+          "level": 3
+        },
+        {
+          "title": "15.3.7 移位运算符",
+          "anchor": "nav_point_464",
+          "level": 3
+        },
+        {
+          "title": "15.3.8 编程示例",
+          "anchor": "nav_point_465",
+          "level": 3
+        },
+        {
+          "title": "15.3.9 另一个例子",
+          "anchor": "nav_point_466",
+          "level": 3
+        },
+        {
+          "title": "15.4 位字段",
+          "anchor": "nav_point_467",
+          "level": 2
+        },
+        {
+          "title": "15.4.1 位字段示例",
+          "anchor": "nav_point_468",
+          "level": 3
+        },
+        {
+          "title": "15.4.2 位字段和按位运算符",
+          "anchor": "nav_point_469",
+          "level": 3
+        },
+        {
+          "title": "15.5 对齐特性（C11）",
+          "anchor": "nav_point_470",
+          "level": 2
+        },
+        {
+          "title": "15.6 关键概念",
+          "anchor": "nav_point_471",
+          "level": 2
+        },
+        {
+          "title": "15.7 本章小结",
+          "anchor": "nav_point_472",
+          "level": 2
+        },
+        {
+          "title": "15.8 复习题",
+          "anchor": "nav_point_473",
+          "level": 2
+        },
+        {
+          "title": "15.9 编程练习",
+          "anchor": "nav_point_474",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第16章 C预处理器和C库",
+      "level": 1,
+      "wordCount": 47988,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "16.1 翻译程序的第一步",
+          "anchor": "nav_point_476",
+          "level": 2
+        },
+        {
+          "title": "16.2 明示常量：#define",
+          "anchor": "nav_point_477",
+          "level": 2
+        },
+        {
+          "title": "16.2.1 记号",
+          "anchor": "nav_point_478",
+          "level": 3
+        },
+        {
+          "title": "16.2.2 重定义常量",
+          "anchor": "nav_point_479",
+          "level": 3
+        },
+        {
+          "title": "16.3 在#define中使用参数",
+          "anchor": "nav_point_480",
+          "level": 2
+        },
+        {
+          "title": "16.3.1 用宏参数创建字符串：#运算符",
+          "anchor": "nav_point_481",
+          "level": 3
+        },
+        {
+          "title": "16.3.2 预处理器黏合剂：##运算符",
+          "anchor": "nav_point_482",
+          "level": 3
+        },
+        {
+          "title": "16.3.3 变参宏：...和_ _VA_ARGS_ _",
+          "anchor": "nav_point_483",
+          "level": 3
+        },
+        {
+          "title": "16.4 宏和函数的选择",
+          "anchor": "nav_point_484",
+          "level": 2
+        },
+        {
+          "title": "16.5 文件包含：#include",
+          "anchor": "nav_point_485",
+          "level": 2
+        },
+        {
+          "title": "16.5.1 头文件示例",
+          "anchor": "nav_point_486",
+          "level": 3
+        },
+        {
+          "title": "16.5.2 使用头文件",
+          "anchor": "nav_point_487",
+          "level": 3
+        },
+        {
+          "title": "16.6 其他指令",
+          "anchor": "nav_point_488",
+          "level": 2
+        },
+        {
+          "title": "16.6.1 #undef指令",
+          "anchor": "nav_point_489",
+          "level": 3
+        },
+        {
+          "title": "16.6.2 从C预处理器角度看已定义",
+          "anchor": "nav_point_490",
+          "level": 3
+        },
+        {
+          "title": "16.6.3 条件编译",
+          "anchor": "nav_point_491",
+          "level": 3
+        },
+        {
+          "title": "16.6.4 预定义宏",
+          "anchor": "nav_point_492",
+          "level": 3
+        },
+        {
+          "title": "16.6.5 #line和#error",
+          "anchor": "nav_point_493",
+          "level": 3
+        },
+        {
+          "title": "16.6.6 #pragma",
+          "anchor": "nav_point_494",
+          "level": 3
+        },
+        {
+          "title": "16.6.7 泛型选择（C11）",
+          "anchor": "nav_point_495",
+          "level": 3
+        },
+        {
+          "title": "16.7 内联函数（C99）",
+          "anchor": "nav_point_496",
+          "level": 2
+        },
+        {
+          "title": "16.8 _Noreturn函数（C11）",
+          "anchor": "nav_point_497",
+          "level": 2
+        },
+        {
+          "title": "16.9 C库",
+          "anchor": "nav_point_498",
+          "level": 2
+        },
+        {
+          "title": "16.9.1 访问C库",
+          "anchor": "nav_point_499",
+          "level": 3
+        },
+        {
+          "title": "16.9.2 使用库描述",
+          "anchor": "nav_point_500",
+          "level": 3
+        },
+        {
+          "title": "16.10 数学库",
+          "anchor": "nav_point_501",
+          "level": 2
+        },
+        {
+          "title": "16.10.1 三角问题",
+          "anchor": "nav_point_502",
+          "level": 3
+        },
+        {
+          "title": "16.10.2 类型变体",
+          "anchor": "nav_point_503",
+          "level": 3
+        },
+        {
+          "title": "16.10.3 tgmath.h库（C99）",
+          "anchor": "nav_point_504",
+          "level": 3
+        },
+        {
+          "title": "16.11 通用工具库",
+          "anchor": "nav_point_505",
+          "level": 2
+        },
+        {
+          "title": "16.11.1 exit()和atexit()函数",
+          "anchor": "nav_point_506",
+          "level": 3
+        },
+        {
+          "title": "16.11.2 qsort()函数",
+          "anchor": "nav_point_507",
+          "level": 3
+        },
+        {
+          "title": "16.12 断言库",
+          "anchor": "nav_point_508",
+          "level": 2
+        },
+        {
+          "title": "16.12.1 assert的用法",
+          "anchor": "nav_point_509",
+          "level": 3
+        },
+        {
+          "title": "16.12.2 _Static_assert（C11）",
+          "anchor": "nav_point_510",
+          "level": 3
+        },
+        {
+          "title": "16.13 string.h库中的memcpy()和memmove()",
+          "anchor": "nav_point_511",
+          "level": 2
+        },
+        {
+          "title": "16.14 可变参数：stdarg.h",
+          "anchor": "nav_point_512",
+          "level": 2
+        },
+        {
+          "title": "16.15 关键概念",
+          "anchor": "nav_point_513",
+          "level": 2
+        },
+        {
+          "title": "16.16 本章小结",
+          "anchor": "nav_point_514",
+          "level": 2
+        },
+        {
+          "title": "16.17 复习题",
+          "anchor": "nav_point_515",
+          "level": 2
+        },
+        {
+          "title": "16.18 编程练习",
+          "anchor": "nav_point_516",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第17章 高级数据表示",
+      "level": 1,
+      "wordCount": 60269,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "17.1 研究数据表示",
+          "anchor": "nav_point_518",
+          "level": 2
+        },
+        {
+          "title": "17.2 从数组到链表",
+          "anchor": "nav_point_519",
+          "level": 2
+        },
+        {
+          "title": "17.2.1 使用链表",
+          "anchor": "nav_point_520",
+          "level": 3
+        },
+        {
+          "title": "17.2.2 反思",
+          "anchor": "nav_point_521",
+          "level": 3
+        },
+        {
+          "title": "17.3 抽象数据类型（ADT）",
+          "anchor": "nav_point_522",
+          "level": 2
+        },
+        {
+          "title": "17.3.1 建立抽象",
+          "anchor": "nav_point_523",
+          "level": 3
+        },
+        {
+          "title": "17.3.2 建立接口",
+          "anchor": "nav_point_524",
+          "level": 3
+        },
+        {
+          "title": "17.3.3 使用接口",
+          "anchor": "nav_point_525",
+          "level": 3
+        },
+        {
+          "title": "17.3.4 实现接口",
+          "anchor": "nav_point_526",
+          "level": 3
+        },
+        {
+          "title": "17.4 队列ADT",
+          "anchor": "nav_point_527",
+          "level": 2
+        },
+        {
+          "title": "17.4.1 定义队列抽象数据类型",
+          "anchor": "nav_point_528",
+          "level": 3
+        },
+        {
+          "title": "17.4.2 定义一个接口",
+          "anchor": "nav_point_529",
+          "level": 3
+        },
+        {
+          "title": "17.4.3 实现接口数据表示",
+          "anchor": "nav_point_530",
+          "level": 3
+        },
+        {
+          "title": "17.4.4 测试队列",
+          "anchor": "nav_point_531",
+          "level": 3
+        },
+        {
+          "title": "17.5 用队列进行模拟",
+          "anchor": "nav_point_532",
+          "level": 2
+        },
+        {
+          "title": "17.6 链表和数组",
+          "anchor": "nav_point_533",
+          "level": 2
+        },
+        {
+          "title": "17.7 二叉查找树",
+          "anchor": "nav_point_534",
+          "level": 2
+        },
+        {
+          "title": "17.7.1 二叉树ADT",
+          "anchor": "nav_point_535",
+          "level": 3
+        },
+        {
+          "title": "17.7.2 二叉查找树接口",
+          "anchor": "nav_point_536",
+          "level": 3
+        },
+        {
+          "title": "17.7.3 二叉树的实现",
+          "anchor": "nav_point_537",
+          "level": 3
+        },
+        {
+          "title": "17.7.4 使用二叉树",
+          "anchor": "nav_point_538",
+          "level": 3
+        },
+        {
+          "title": "17.7.5 树的思想",
+          "anchor": "nav_point_539",
+          "level": 3
+        },
+        {
+          "title": "17.8 其他说明",
+          "anchor": "nav_point_540",
+          "level": 2
+        },
+        {
+          "title": "17.9 关键概念",
+          "anchor": "nav_point_541",
+          "level": 2
+        },
+        {
+          "title": "17.10 本章小结",
+          "anchor": "nav_point_542",
+          "level": 2
+        },
+        {
+          "title": "17.11 复习题",
+          "anchor": "nav_point_543",
+          "level": 2
+        },
+        {
+          "title": "17.12 编程练习",
+          "anchor": "nav_point_544",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "附录A 复习题答案",
+      "level": 1,
+      "wordCount": 27691,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "附录B 参考资料",
+      "level": 1,
+      "wordCount": 32957,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "B.1 参考资料I：补充阅读",
+          "anchor": "nav_point_564",
+          "level": 2
+        },
+        {
+          "title": "B.2 参考资料II：C运算符",
+          "anchor": "nav_point_570",
+          "level": 2
+        },
+        {
+          "title": "B.3 参考资料III：基本类型和存储类别",
+          "anchor": "nav_point_581",
+          "level": 2
+        },
+        {
+          "title": "B.4 参考资料IV：表达式、语句和程序流",
+          "anchor": "nav_point_585",
+          "level": 2
+        },
+        {
+          "title": "B.5 参考资料V：新增C99和C11的ANSI C库",
+          "anchor": "nav_point_593",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "B.6 参考资料VI：扩展的整数类型",
+      "level": 2,
+      "wordCount": 49513,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "B.6 参考资料VI：扩展的整数类型",
+          "anchor": "nav_point_622",
+          "level": 2
+        },
+        {
+          "title": "B.7 参考资料VII：扩展字符支持",
+          "anchor": "nav_point_629",
+          "level": 2
+        },
+        {
+          "title": "B.8 参考资料VIII：C99/C11数值计算增强",
+          "anchor": "nav_point_637",
+          "level": 2
+        },
+        {
+          "title": "B.9 参考资料IX：C和C++的区别",
+          "anchor": "nav_point_643",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "欢迎来到异步社区！",
+      "level": 1,
+      "wordCount": 1195,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=27"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 19,
+      "chapterTitle": "第13章 文件输入/输出",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_GPI31M32D4m66di6cM7rF2Q1_19_12565-12579",
+          "range": "12565-12579",
+          "rangeStart": 12565,
+          "rangeEnd": 12579,
+          "markText": "getc()",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1683863904,
+          "createTimeFormatted": "2023-05-12 11:58:24",
+          "chapterUid": 19,
+          "appLink": "weread://bestbookmark?bookId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=19&rangeStart=12565&rangeEnd=12579",
+          "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=19&rangeStart=12565&rangeEnd=12579"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_GPI31M32D4m66di6cM7rF2Q1_19_12220-12268",
+          "range": "12220-12268",
+          "rangeStart": 12220,
+          "rangeEnd": 12268,
+          "markText": "FILE 是一个定义在stdio.h 中的派生类型。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1683863903,
+          "createTimeFormatted": "2023-05-12 11:58:23",
+          "chapterUid": 19,
+          "appLink": "weread://bestbookmark?bookId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=19&rangeStart=12220&rangeEnd=12268",
+          "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=19&rangeStart=12220&rangeEnd=12268"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "CB_GPI31M32D4m66di6cM7rF2Q1_19_12040-12094",
+          "range": "12040-12094",
+          "rangeStart": 12040,
+          "rangeEnd": 12094,
+          "markText": "程序成功打开文件后，fopen() 将返回文件指针 ",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1683863902,
+          "createTimeFormatted": "2023-05-12 11:58:22",
+          "chapterUid": 19,
+          "appLink": "weread://bestbookmark?bookId=CB_GPI31M32D4m66di6cM7rF2Q1&chapterUid=19&rangeStart=12040&rangeEnd=12094",
+          "webLink": "https://weread.qq.com/web/reader/66042153643425f47504933314d333244346d3636646936634d37724632513181a?chapterUid=19&rangeStart=12040&rangeEnd=12094"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 22,
+    "chapterOffset": 11605,
+    "progress": 61,
+    "updateTime": 1748394262,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

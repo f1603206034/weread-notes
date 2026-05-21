@@ -1,0 +1,1030 @@
+{
+  "meta": {
+    "bookId": "3300014139",
+    "title": "发展心理学:从成年早期到老年期（第10版 • 下册）",
+    "author": "帕帕拉 奥尔兹 费尔德曼",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/39/3300014139/t6_3300014139.jpg",
+    "intro": "《发展心理学——从成年早期到老年期(第 10版•下册)》，包括后四编，共7章。第 13、14两章，阐述了成年早期的发展状况：个体认知能力和道德判断更加复杂；开始进行职业选择；开始建立亲密关系并选择自己的生活方式。第 15、16两章，介绍了成年中期个体的发展状况：身体机能开始部分退化，女性经历更年期；职业倦怠，照顾孩子和父母的双重责任会导致出现中年危机。第 17、18两章，描述了成年晚期个体的健康状况和生理能力；各种认知能力的下降以及如何通过其他方式进行补偿；个体退休促使个体去寻找生命的意义。第九编针对生命结束阶段中的死亡和丧亲等相关问题进行了阐述，并引导人们克服死亡恐惧及如何应对死亡。",
+    "category": "心理-心理学研究",
+    "publisher": "人民邮电出版社有限公司",
+    "publishTime": "2013-09-01 00:00:00",
+    "isbn": "9787115324979",
+    "wordCount": 0,
+    "newRating": 799,
+    "newRatingCount": 54,
+    "newRatingDetail": {
+      "good": 44,
+      "fair": 8,
+      "poor": 2,
+      "recent": 0,
+      "deepV": 23,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300014139",
+    "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49",
+    "lastSync": "2026-05-21T11:47:38Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 6,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "内容提要",
+      "level": 1,
+      "wordCount": 608,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "推荐序",
+      "level": 1,
+      "wordCount": 1638,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "译者序",
+      "level": 1,
+      "wordCount": 2323,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 5286,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "本版教材的目标",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "前沿研究",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "文化和历史影响",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        },
+        {
+          "title": "第十版概览",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        },
+        {
+          "title": "组织结构",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        },
+        {
+          "title": "教学特点",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        },
+        {
+          "title": "内容变化",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        },
+        {
+          "title": "致谢",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第六编 成年早期",
+      "level": 1,
+      "wordCount": 314,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第13章 成年早期的生理和认知发展",
+      "level": 2,
+      "wordCount": 42976,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "成人初显期",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "生理发展",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        },
+        {
+          "title": "健康和生理状况",
+          "anchor": "sigil_toc_id_11",
+          "level": 4
+        },
+        {
+          "title": "性和生殖问题",
+          "anchor": "sigil_toc_id_12",
+          "level": 4
+        },
+        {
+          "title": "专栏13-1 实战演说",
+          "anchor": "sigil_toc_id_13",
+          "level": 4
+        },
+        {
+          "title": "认知发展",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "关于成人认知的不同研究视角",
+          "anchor": "sigil_toc_id_15",
+          "level": 4
+        },
+        {
+          "title": "道德推理",
+          "anchor": "sigil_toc_id_16",
+          "level": 4
+        },
+        {
+          "title": "专栏13-2 知识拓展",
+          "anchor": "sigil_toc_id_17",
+          "level": 4
+        },
+        {
+          "title": "教育和工作",
+          "anchor": "sigil_toc_id_18",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_19",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第14章 成年早期的心理社会发展",
+      "level": 2,
+      "wordCount": 41324,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "人格发展：四种观点",
+          "anchor": "sigil_toc_id_20",
+          "level": 3
+        },
+        {
+          "title": "成年期的变化之路",
+          "anchor": "sigil_toc_id_21",
+          "level": 3
+        },
+        {
+          "title": "亲密关系的基础",
+          "anchor": "sigil_toc_id_22",
+          "level": 3
+        },
+        {
+          "title": "非婚与已婚的生活方式",
+          "anchor": "sigil_toc_id_23",
+          "level": 3
+        },
+        {
+          "title": "专栏14-1 知识拓展",
+          "anchor": "sigil_toc_id_24",
+          "level": 3
+        },
+        {
+          "title": "专栏14-2 实战演说",
+          "anchor": "sigil_toc_id_25",
+          "level": 3
+        },
+        {
+          "title": "为人父母",
+          "anchor": "sigil_toc_id_26",
+          "level": 3
+        },
+        {
+          "title": "当婚姻结束",
+          "anchor": "sigil_toc_id_27",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_28",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第七编 成年中期",
+      "level": 1,
+      "wordCount": 338,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第15章 成年中期的生理和认知发展",
+      "level": 2,
+      "wordCount": 44272,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "成年中期：一种社会建构",
+          "anchor": "sigil_toc_id_29",
+          "level": 3
+        },
+        {
+          "title": "生理发展",
+          "anchor": "sigil_toc_id_30",
+          "level": 3
+        },
+        {
+          "title": "生理变化",
+          "anchor": "sigil_toc_id_31",
+          "level": 4
+        },
+        {
+          "title": "专栏15-1 世界之窗",
+          "anchor": "sigil_toc_id_32",
+          "level": 4
+        },
+        {
+          "title": "健康",
+          "anchor": "sigil_toc_id_33",
+          "level": 4
+        },
+        {
+          "title": "认知发展",
+          "anchor": "sigil_toc_id_34",
+          "level": 3
+        },
+        {
+          "title": "成年中期的认知能力测评",
+          "anchor": "sigil_toc_id_35",
+          "level": 4
+        },
+        {
+          "title": "成人认知的特殊性",
+          "anchor": "sigil_toc_id_36",
+          "level": 4
+        },
+        {
+          "title": "专栏15-2 成年中期知识拓展",
+          "anchor": "sigil_toc_id_37",
+          "level": 4
+        },
+        {
+          "title": "创造性",
+          "anchor": "sigil_toc_id_38",
+          "level": 4
+        },
+        {
+          "title": "工作和教育：基于年龄的角色是否过时了",
+          "anchor": "sigil_toc_id_39",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_40",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第16章 成年中期的心理社会发展",
+      "level": 2,
+      "wordCount": 43000,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "纵观成年中期的生命历程",
+          "anchor": "sigil_toc_id_41",
+          "level": 3
+        },
+        {
+          "title": "成年中期的变化：经典的理论取向",
+          "anchor": "sigil_toc_id_42",
+          "level": 3
+        },
+        {
+          "title": "专栏16-1 世界之窗",
+          "anchor": "sigil_toc_id_43",
+          "level": 3
+        },
+        {
+          "title": "成年中期的自我：问题和主题",
+          "anchor": "sigil_toc_id_44",
+          "level": 3
+        },
+        {
+          "title": "成年中期的人际关系",
+          "anchor": "sigil_toc_id_45",
+          "level": 3
+        },
+        {
+          "title": "两愿关系",
+          "anchor": "sigil_toc_id_46",
+          "level": 3
+        },
+        {
+          "title": "与长大成人的子女的关系",
+          "anchor": "sigil_toc_id_47",
+          "level": 3
+        },
+        {
+          "title": "与其他亲属的关系",
+          "anchor": "sigil_toc_id_48",
+          "level": 3
+        },
+        {
+          "title": "专栏16-2 中期实战演说",
+          "anchor": "sigil_toc_id_49",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_50",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第八编 成年晚期",
+      "level": 1,
+      "wordCount": 211,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第17章 成年晚期的生理和认知发展",
+      "level": 2,
+      "wordCount": 53048,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "当今的老年人",
+          "anchor": "sigil_toc_id_51",
+          "level": 3
+        },
+        {
+          "title": "生理发展",
+          "anchor": "sigil_toc_id_52",
+          "level": 3
+        },
+        {
+          "title": "寿命和老化",
+          "anchor": "sigil_toc_id_53",
+          "level": 4
+        },
+        {
+          "title": "专栏17-1 期实战演说",
+          "anchor": "sigil_toc_id_54",
+          "level": 4
+        },
+        {
+          "title": "专栏17-2 成年晚期知识拓展",
+          "anchor": "sigil_toc_id_55",
+          "level": 4
+        },
+        {
+          "title": "生理变化",
+          "anchor": "sigil_toc_id_56",
+          "level": 4
+        },
+        {
+          "title": "生理和心理健康",
+          "anchor": "sigil_toc_id_57",
+          "level": 4
+        },
+        {
+          "title": "认知发展",
+          "anchor": "sigil_toc_id_58",
+          "level": 3
+        },
+        {
+          "title": "认知发展的方方面面",
+          "anchor": "sigil_toc_id_59",
+          "level": 4
+        },
+        {
+          "title": "终生学习",
+          "anchor": "sigil_toc_id_60",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_61",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第18章 成年晚期的心理社会发展",
+      "level": 2,
+      "wordCount": 42316,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关于心理社会发展的理论和研究",
+          "anchor": "sigil_toc_id_62",
+          "level": 3
+        },
+        {
+          "title": "晚年的人格",
+          "anchor": "sigil_toc_id_63",
+          "level": 4
+        },
+        {
+          "title": "专栏18-1 知识拓展",
+          "anchor": "sigil_toc_id_64",
+          "level": 4
+        },
+        {
+          "title": "埃里克森：规范性问题和任务",
+          "anchor": "sigil_toc_id_65",
+          "level": 4
+        },
+        {
+          "title": "应对模型",
+          "anchor": "sigil_toc_id_66",
+          "level": 4
+        },
+        {
+          "title": "“成功”或“乐观”老年的模型",
+          "anchor": "sigil_toc_id_67",
+          "level": 4
+        },
+        {
+          "title": "专栏18-2 知识拓展",
+          "anchor": "sigil_toc_id_68",
+          "level": 4
+        },
+        {
+          "title": "与老年有关的生活方式和社会事件",
+          "anchor": "sigil_toc_id_69",
+          "level": 3
+        },
+        {
+          "title": "工作与退休",
+          "anchor": "sigil_toc_id_70",
+          "level": 4
+        },
+        {
+          "title": "老年人的经济状况",
+          "anchor": "sigil_toc_id_71",
+          "level": 4
+        },
+        {
+          "title": "生活安排",
+          "anchor": "sigil_toc_id_72",
+          "level": 4
+        },
+        {
+          "title": "对老年人的虐待",
+          "anchor": "sigil_toc_id_73",
+          "level": 4
+        },
+        {
+          "title": "晚年的人际关系",
+          "anchor": "sigil_toc_id_74",
+          "level": 3
+        },
+        {
+          "title": "社会联系和社会支持理论",
+          "anchor": "sigil_toc_id_75",
+          "level": 4
+        },
+        {
+          "title": "社会关系的重要性",
+          "anchor": "sigil_toc_id_76",
+          "level": 4
+        },
+        {
+          "title": "多代家庭",
+          "anchor": "sigil_toc_id_77",
+          "level": 4
+        },
+        {
+          "title": "亲密关系",
+          "anchor": "sigil_toc_id_78",
+          "level": 3
+        },
+        {
+          "title": "长期的婚姻",
+          "anchor": "sigil_toc_id_79",
+          "level": 4
+        },
+        {
+          "title": "离婚和再婚",
+          "anchor": "sigil_toc_id_80",
+          "level": 4
+        },
+        {
+          "title": "丧偶",
+          "anchor": "sigil_toc_id_81",
+          "level": 4
+        },
+        {
+          "title": "单身",
+          "anchor": "sigil_toc_id_82",
+          "level": 4
+        },
+        {
+          "title": "同性恋",
+          "anchor": "sigil_toc_id_83",
+          "level": 4
+        },
+        {
+          "title": "友谊",
+          "anchor": "sigil_toc_id_84",
+          "level": 4
+        },
+        {
+          "title": "非婚姻的亲属关系",
+          "anchor": "sigil_toc_id_85",
+          "level": 3
+        },
+        {
+          "title": "与成年子女之间的关系——或无子女",
+          "anchor": "sigil_toc_id_86",
+          "level": 4
+        },
+        {
+          "title": "与兄弟姐妹的关系",
+          "anchor": "sigil_toc_id_87",
+          "level": 4
+        },
+        {
+          "title": "成为曾祖父母",
+          "anchor": "sigil_toc_id_88",
+          "level": 4
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_89",
+          "level": 4
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第九编 生命终结",
+      "level": 1,
+      "wordCount": 239,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第19章 面对死亡和亲人的丧亡",
+      "level": 2,
+      "wordCount": 32821,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "死亡的诸多方面",
+          "anchor": "sigil_toc_id_90",
+          "level": 3
+        },
+        {
+          "title": "面对死亡和丧失：心理学的议题",
+          "anchor": "sigil_toc_id_91",
+          "level": 3
+        },
+        {
+          "title": "专栏19-1 知识拓展",
+          "anchor": "sigil_toc_id_92",
+          "level": 3
+        },
+        {
+          "title": "生命不同时期的死亡和亲人丧亡",
+          "anchor": "sigil_toc_id_93",
+          "level": 3
+        },
+        {
+          "title": "丧失亲人的特殊情况",
+          "anchor": "sigil_toc_id_94",
+          "level": 3
+        },
+        {
+          "title": "医学、法律及伦理焦点：“死亡的权利”",
+          "anchor": "sigil_toc_id_95",
+          "level": 3
+        },
+        {
+          "title": "专栏19-2 知识拓展",
+          "anchor": "sigil_toc_id_96",
+          "level": 3
+        },
+        {
+          "title": "在生命与死亡之间寻找意义和目的",
+          "anchor": "sigil_toc_id_97",
+          "level": 3
+        },
+        {
+          "title": "小结",
+          "anchor": "sigil_toc_id_98",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "专业术语表",
+      "level": 1,
+      "wordCount": 18245,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "专业术语表",
+          "anchor": "sigil_toc_id_99",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "参考文献",
+      "level": 1,
+      "wordCount": 636780,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "参考文献",
+          "anchor": "sigil_toc_id_100",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300014139&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=19"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 9,
+      "chapterTitle": "第14章 成年早期的心理社会发展",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300014139_9_21297-21340",
+          "range": "21297-21340",
+          "rangeStart": 21297,
+          "rangeEnd": 21340,
+          "markText": "中国人习惯根据社会角色和关系来自我定位，并且将自我放任的感情看做削弱社会网络结构的行为",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1763340705,
+          "createTimeFormatted": "2025-11-17 08:51:45",
+          "chapterUid": 9,
+          "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=9&rangeStart=21297&rangeEnd=21340",
+          "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=9&rangeStart=21297&rangeEnd=21340"
+        }
+      ]
+    },
+    {
+      "chapterUid": 8,
+      "chapterTitle": "第13章 成年早期的生理和认知发展",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300014139_8_3690-3782",
+          "range": "3690-3782",
+          "rangeStart": 3690,
+          "rangeEnd": 3782,
+          "markText": "从社会学的角度来界定，当个体能够自立或有一份工作，已婚或建立了有意义的浪漫关系，或者建立家庭后，人们往往就会认为该个体已经成年了。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1763340670,
+          "createTimeFormatted": "2025-11-17 08:51:10",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=8&rangeStart=3690&rangeEnd=3782",
+          "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=8&rangeStart=3690&rangeEnd=3782"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300014139_8_3690-3782",
+      "chapterUid": 8,
+      "range": "3690-3782",
+      "markText": "从社会学的角度来界定，当个体能够自立或有一份工作，已婚或建立了有意义的浪漫关系，或者建立家庭后，人们往往就会认为该个体已经成年了。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=8&rangeStart=3690&rangeEnd=3782",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=8&rangeStart=3690&rangeEnd=3782"
+    },
+    {
+      "bookmarkId": "3300014139_8_14219-14247",
+      "chapterUid": 8,
+      "range": "14219-14247",
+      "markText": "少量或适量饮酒可能能够降低患心脏病、中风和老年痴呆的风险",
+      "totalCount": 68,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=8&rangeStart=14219&rangeEnd=14247",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=8&rangeStart=14219&rangeEnd=14247"
+    },
+    {
+      "bookmarkId": "3300014139_9_541-577",
+      "chapterUid": 9,
+      "range": "541-577",
+      "markText": "每一个成年人都需要温暖的庇护，所需的方式可能与孩子们的类似，抑或是迥异。",
+      "totalCount": 60,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=9&rangeStart=541&rangeEnd=577",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=9&rangeStart=541&rangeEnd=577"
+    },
+    {
+      "bookmarkId": "3300014139_8_32218-32279",
+      "chapterUid": 8,
+      "range": "32218-32279",
+      "markText": "面对的情境越是模棱两可，对问题所做解释的年龄差异就越明显（Blanchard-Fields ＆ Norris，1994）。",
+      "totalCount": 54,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=8&rangeStart=32218&rangeEnd=32279",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=8&rangeStart=32218&rangeEnd=32279"
+    },
+    {
+      "bookmarkId": "3300014139_9_31796-31885",
+      "chapterUid": 9,
+      "range": "31796-31885",
+      "markText": "婚姻制度被视为保证有序养育子女的最佳方式。它承认在一个消费和工作单元中的劳动分工。理想地说，它提供了亲密、承诺、友谊、爱慕、性满足、陪伴和情感成长的机会，以及自尊和同一性的新来源",
+      "totalCount": 52,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=9&rangeStart=31796&rangeEnd=31885",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=9&rangeStart=31796&rangeEnd=31885"
+    },
+    {
+      "bookmarkId": "3300014139_9_21297-21340",
+      "chapterUid": 9,
+      "range": "21297-21340",
+      "markText": "中国人习惯根据社会角色和关系来自我定位，并且将自我放任的感情看做削弱社会网络结构的行为",
+      "totalCount": 48,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=9&rangeStart=21297&rangeEnd=21340",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=9&rangeStart=21297&rangeEnd=21340"
+    },
+    {
+      "bookmarkId": "3300014139_9_16638-16669",
+      "chapterUid": 9,
+      "range": "16638-16669",
+      "markText": "幸福感得分最高的是那些未婚未育、进入大学学习并离家居住的年轻人",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=9&rangeStart=16638&rangeEnd=16669",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=9&rangeStart=16638&rangeEnd=16669"
+    },
+    {
+      "bookmarkId": "3300014139_8_42921-42939",
+      "chapterUid": 8,
+      "range": "42921-42939",
+      "markText": "你处在福勒描述的信仰发展的哪个阶段？",
+      "totalCount": 44,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=8&rangeStart=42921&rangeEnd=42939",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=8&rangeStart=42921&rangeEnd=42939"
+    },
+    {
+      "bookmarkId": "3300014139_14_2055-2087",
+      "chapterUid": 14,
+      "range": "2055-2087",
+      "markText": "格林的成就向人们证明，77岁的他依然可以拥有“太空先锋”的称号。",
+      "totalCount": 42,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=14&rangeStart=2055&rangeEnd=2087",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=14&rangeStart=2055&rangeEnd=2087"
+    },
+    {
+      "bookmarkId": "3300014139_8_3896-3945",
+      "chapterUid": 8,
+      "range": "3896-3945",
+      "markText": "成年期的开始应该用一些内在的指标来标记，如自主感、自控能力和个人责任感等；而不应用外在标准来衡量。",
+      "totalCount": 39,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=8&rangeStart=3896&rangeEnd=3945",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=8&rangeStart=3896&rangeEnd=3945"
+    },
+    {
+      "bookmarkId": "3300014139_8_4001-4025",
+      "chapterUid": 8,
+      "range": "4001-4025",
+      "markText": "准此而论，不论生理年龄多大，一些人终生都没有成年",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=8&rangeStart=4001&rangeEnd=4025",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=8&rangeStart=4001&rangeEnd=4025"
+    },
+    {
+      "bookmarkId": "3300014139_8_6630-6639",
+      "chapterUid": 8,
+      "range": "6630-6639",
+      "markText": "每天吃5种蔬菜水果",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=8&rangeStart=6630&rangeEnd=6639",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=8&rangeStart=6630&rangeEnd=6639"
+    },
+    {
+      "bookmarkId": "3300014139_8_11038-11128",
+      "chapterUid": 8,
+      "range": "11038-11128",
+      "markText": "睡眠剥夺甚至会导致过早衰老。有研究发现，对年轻人进行36小时的睡眠剥夺会影响他们的前额叶功能（负责工作记忆和语言流畅性的主要脑区），导致他们的前额叶功能像无睡眠剥夺的60岁老人一样",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=8&rangeStart=11038&rangeEnd=11128",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=8&rangeStart=11038&rangeEnd=11128"
+    },
+    {
+      "bookmarkId": "3300014139_8_20535-20585",
+      "chapterUid": 8,
+      "range": "20535-20585",
+      "markText": "因为婚姻是能够提供社会融合和社会支持的便捷系统，所以结婚通常有益于健康也就不足为奇，尤其对于男性来说",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=8&rangeStart=20535&rangeEnd=20585",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=8&rangeStart=20535&rangeEnd=20585"
+    },
+    {
+      "bookmarkId": "3300014139_8_30221-30285",
+      "chapterUid": 8,
+      "range": "30221-30285",
+      "markText": "后形式思维灵活、开放、具有适应性和个性，它利用直觉、情感和逻辑来帮助人们应付这个看似杂乱无序的世界，将经验运用于模糊性情境之中。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=8&rangeStart=30221&rangeEnd=30285",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=8&rangeStart=30221&rangeEnd=30285"
+    },
+    {
+      "bookmarkId": "3300014139_8_41476-41493",
+      "chapterUid": 8,
+      "range": "41476-41493",
+      "markText": "他们的信仰是盲目的，遵从群体标准。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=8&rangeStart=41476&rangeEnd=41493",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=8&rangeStart=41476&rangeEnd=41493"
+    },
+    {
+      "bookmarkId": "3300014139_9_5192-5228",
+      "chapterUid": 9,
+      "range": "5192-5228",
+      "markText": "有时会以情绪危机为突出的特点，而这种危机正是为进一步的人格发展奠定基础。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=9&rangeStart=5192&rangeEnd=5228",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=9&rangeStart=5192&rangeEnd=5228"
+    },
+    {
+      "bookmarkId": "3300014139_9_5329-5372",
+      "chapterUid": 9,
+      "range": "5329-5372",
+      "markText": "埃里克森认为，如果年轻人不能对他人做出深刻的个人承诺，他们就可能会变得过分孤僻或自恋。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=9&rangeStart=5329&rangeEnd=5372",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=9&rangeStart=5329&rangeEnd=5372"
+    },
+    {
+      "bookmarkId": "3300014139_9_37175-37264",
+      "chapterUid": 9,
+      "range": "37175-37264",
+      "markText": "真正重要的因素是伴侣对这段关系的幸福感、对彼此的敏感性、理解彼此感受的准确性，以及彼此间的交流和处理冲突的技巧等（Clements，Stanley，＆Markman，2004）。",
+      "totalCount": 36,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=9&rangeStart=37175&rangeEnd=37264",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=9&rangeStart=37175&rangeEnd=37264"
+    },
+    {
+      "bookmarkId": "3300014139_9_7930-8023",
+      "chapterUid": 9,
+      "range": "7930-8023",
+      "markText": "成年早期的发展任务众多，包括离开童年生活的家庭外出求学、工作或服兵役；建立新的更亲密的友谊或恋爱关系；形成自我效能感和完成个性化过程",
+      "totalCount": 34,
+      "appLink": "weread://bestbookmark?bookId=3300014139&chapterUid=9&rangeStart=7930&rangeEnd=8023",
+      "webLink": "https://weread.qq.com/web/reader/5bb32230813ab6c05g019d49?chapterUid=9&rangeStart=7930&rangeEnd=8023"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 9,
+    "chapterOffset": 21139,
+    "progress": 0,
+    "updateTime": 1763340711,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

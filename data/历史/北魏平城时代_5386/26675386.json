@@ -1,0 +1,965 @@
+{
+  "meta": {
+    "bookId": "26675386",
+    "title": "北魏平城时代",
+    "author": "李凭",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/61/yuewen_26675386/t6_yuewen_266753861682514300.jpg",
+    "intro": "《北魏平城时代（第三版）》将北魏前期政治史的研究，以首都平城为中心逐步展开，依时间顺序分四章作纵向探索，准确清晰地勾勒出它的变迁轨迹。作者的考察自始至终围绕着拓跋部落本身的社会文化特征和汉族文化对其产生的曲折作用这两个影响平城政权发展的重要方面，因此，被考察的虽然是北魏平城政权封建化的历程，但其意义却已超过了论题本身，成为探索中华民族形成过程中汉族与游牧民族相互影响与融合规律的重要一例。在考证中，作者既不回避种种重大矛盾现象，又以一丝不苟的态度对细微之处详加辨察，因而所得结论新颖而令人信服。",
+    "category": "历史-中国古代",
+    "publisher": "上海古籍出版社",
+    "publishTime": "2021-11-30 00:00:00",
+    "isbn": "9787532573554",
+    "wordCount": 0,
+    "newRating": 880,
+    "newRatingCount": 729,
+    "newRatingDetail": {
+      "good": 652,
+      "fair": 71,
+      "poor": 6,
+      "recent": 8,
+      "deepV": 226,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=26675386",
+    "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8",
+    "lastSync": "2026-05-21T11:49:49Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26675386&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=1"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 134,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26675386&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 3,
+      "title": "文前",
+      "level": 1,
+      "wordCount": 1327,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26675386&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 4,
+      "title": "内容提要",
+      "level": 1,
+      "wordCount": 1346,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26675386&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 5,
+      "title": "序章 平城政权发展轨迹",
+      "level": 1,
+      "wordCount": 9924,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26675386&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 6,
+      "title": "第一章 皇权初建",
+      "level": 1,
+      "wordCount": 33198,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 道武帝早年经历考",
+          "anchor": "isbn_3_1",
+          "level": 2
+        },
+        {
+          "title": "一 罪徙蜀地",
+          "anchor": "isbn_3_1_1_1",
+          "level": 3
+        },
+        {
+          "title": "二 再迁长安",
+          "anchor": "isbn_3_1_1_2",
+          "level": 3
+        },
+        {
+          "title": "三 中原文化的影响",
+          "anchor": "isbn_3_1_1_3",
+          "level": 3
+        },
+        {
+          "title": "第二节 离散诸部考",
+          "anchor": "isbn_3_2",
+          "level": 2
+        },
+        {
+          "title": "一 盛乐息众课农",
+          "anchor": "isbn_3_1_1_4",
+          "level": 3
+        },
+        {
+          "title": "二 河北屯田",
+          "anchor": "isbn_3_1_1_5",
+          "level": 3
+        },
+        {
+          "title": "三 繁畤更选屯卫",
+          "anchor": "isbn_3_1_1_6",
+          "level": 3
+        },
+        {
+          "title": "四 离散诸部后的京畿",
+          "anchor": "isbn_3_1_1_7",
+          "level": 3
+        },
+        {
+          "title": "第三节 皇权的确立与危机",
+          "anchor": "isbn_3_3",
+          "level": 2
+        },
+        {
+          "title": "一 乙未 丙申两诏书的意义",
+          "anchor": "isbn_3_1_1_8",
+          "level": 3
+        },
+        {
+          "title": "二 祸起萧墙",
+          "anchor": "isbn_3_1_1_9",
+          "level": 3
+        },
+        {
+          "title": "附表一 登国年间部落战争表",
+          "anchor": "isbn_3_4",
+          "level": 2
+        },
+        {
+          "title": "附表二 道武朝杀黜臣僚表",
+          "anchor": "isbn_3_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=26675386&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 7,
+      "title": "第二章 太子监国",
+      "level": 1,
+      "wordCount": 32841,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 拓跋焘为太子考",
+          "anchor": "isbn_4_1",
+          "level": 2
+        },
+        {
+          "title": "一 拓跋焘称谓乖戾析",
+          "anchor": "isbn_4_1_1_1",
+          "level": 3
+        },
+        {
+          "title": "二 立太平王焘为皇太子辨",
+          "anchor": "isbn_4_1_1_2",
+          "level": 3
+        },
+        {
+          "title": "第二节 太子焘监国考",
+          "anchor": "isbn_4_2",
+          "level": 2
+        },
+        {
+          "title": "一 太子监国权力超越常规",
+          "anchor": "isbn_4_1_1_3",
+          "level": 3
+        },
+        {
+          "title": "二 明元帝自相矛盾的言论",
+          "anchor": "isbn_4_1_1_4",
+          "level": 3
+        },
+        {
+          "title": "三 北魏历史上首位太子",
+          "anchor": "isbn_4_1_1_5",
+          "level": 3
+        },
+        {
+          "title": "四 清河王政变中提出的问题",
+          "anchor": "isbn_4_1_1_6",
+          "level": 3
+        },
+        {
+          "title": "五 拓跋烈是道武帝的同母弟",
+          "anchor": "isbn_4_1_1_7",
+          "level": 3
+        },
+        {
+          "title": "六 道武帝末年的皇位之争",
+          "anchor": "isbn_4_1_1_8",
+          "level": 3
+        },
+        {
+          "title": "七 崔浩窥破明元帝的心病",
+          "anchor": "isbn_4_1_1_9",
+          "level": 3
+        },
+        {
+          "title": "八 太子监国的实质",
+          "anchor": "isbn_4_1_1_10",
+          "level": 3
+        },
+        {
+          "title": "第三节 正平事变",
+          "anchor": "isbn_4_3",
+          "level": 2
+        },
+        {
+          "title": "一 正平事变的真相",
+          "anchor": "isbn_4_1_1_11",
+          "level": 3
+        },
+        {
+          "title": "二 太子监国的意义与弊端",
+          "anchor": "isbn_4_1_1_12",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=26675386&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 8,
+      "title": "第三章 乳母干政",
+      "level": 1,
+      "wordCount": 27665,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 道武帝杀刘夫人原因",
+          "anchor": "isbn_5_1",
+          "level": 2
+        },
+        {
+          "title": "一 始作俑者",
+          "anchor": "isbn_5_1_1_1",
+          "level": 3
+        },
+        {
+          "title": "二 “缚父请降”者考",
+          "anchor": "isbn_5_1_1_2",
+          "level": 3
+        },
+        {
+          "title": "三 卵翼之下",
+          "anchor": "isbn_5_1_1_3",
+          "level": 3
+        },
+        {
+          "title": "四 矫枉过正",
+          "anchor": "isbn_5_1_1_4",
+          "level": 3
+        },
+        {
+          "title": "第二节 子贵母死故事",
+          "anchor": "isbn_5_2",
+          "level": 2
+        },
+        {
+          "title": "一 后宫常制",
+          "anchor": "isbn_5_1_1_5",
+          "level": 3
+        },
+        {
+          "title": "二 终革其失",
+          "anchor": "isbn_5_1_1_6",
+          "level": 3
+        },
+        {
+          "title": "三 前后意义不同",
+          "anchor": "isbn_5_1_1_7",
+          "level": 3
+        },
+        {
+          "title": "第三节 乳母常氏权倾内外",
+          "anchor": "isbn_5_3",
+          "level": 2
+        },
+        {
+          "title": "一 常氏发迹",
+          "anchor": "isbn_5_1_1_8",
+          "level": 3
+        },
+        {
+          "title": "二 立冯氏为后",
+          "anchor": "isbn_5_1_1_9",
+          "level": 3
+        },
+        {
+          "title": "三 常氏势力",
+          "anchor": "isbn_5_1_1_10",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=26675386&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 9,
+      "title": "第四章 太后听政",
+      "level": 1,
+      "wordCount": 42884,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 孝文帝非私生辨",
+          "anchor": "isbn_6_1",
+          "level": 2
+        },
+        {
+          "title": "一 拓跋氏早育",
+          "anchor": "isbn_6_1_1_1",
+          "level": 3
+        },
+        {
+          "title": "二 “高祖不知所生”解",
+          "anchor": "isbn_6_1_1_2",
+          "level": 3
+        },
+        {
+          "title": "三 杨椿之语的意义",
+          "anchor": "isbn_6_1_1_3",
+          "level": 3
+        },
+        {
+          "title": "第二节 文明太后临朝听政",
+          "anchor": "isbn_6_2",
+          "level": 2
+        },
+        {
+          "title": "一 两次临朝听政之间",
+          "anchor": "isbn_6_1_1_4",
+          "level": 3
+        },
+        {
+          "title": "二 冯氏势力",
+          "anchor": "isbn_6_1_1_5",
+          "level": 3
+        },
+        {
+          "title": "第三节 太后听政的背景",
+          "anchor": "isbn_6_3",
+          "level": 2
+        },
+        {
+          "title": "一 冯 常身世",
+          "anchor": "isbn_6_1_1_6",
+          "level": 3
+        },
+        {
+          "title": "二 政坛“小人”",
+          "anchor": "isbn_6_1_1_7",
+          "level": 3
+        },
+        {
+          "title": "三 恒代遗风",
+          "anchor": "isbn_6_1_1_8",
+          "level": 3
+        },
+        {
+          "title": "四 宫廷女官",
+          "anchor": "isbn_6_1_1_9",
+          "level": 3
+        },
+        {
+          "title": "五 文明太后的汉文化素养",
+          "anchor": "isbn_6_1_1_10",
+          "level": 3
+        },
+        {
+          "title": "第四节 政归孝文帝",
+          "anchor": "isbn_6_4",
+          "level": 2
+        },
+        {
+          "title": "一 旁落的皇权",
+          "anchor": "isbn_6_1_1_11",
+          "level": 3
+        },
+        {
+          "title": "二 无法解脱的困惑",
+          "anchor": "isbn_6_1_1_12",
+          "level": 3
+        },
+        {
+          "title": "三 孝文帝迁都策中的感情因素",
+          "anchor": "isbn_6_1_1_13",
+          "level": 3
+        },
+        {
+          "title": "四 文明太后对孝文帝的影响",
+          "anchor": "isbn_6_1_1_14",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=26675386&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 10,
+      "title": "第五章 京畿概况",
+      "level": 1,
+      "wordCount": 49289,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 京畿发展的基础",
+          "anchor": "isbn_7_1",
+          "level": 2
+        },
+        {
+          "title": "一 北魏以前雁北的状况",
+          "anchor": "isbn_7_1_1_1",
+          "level": 3
+        },
+        {
+          "title": "二 道武帝时期的大移民",
+          "anchor": "isbn_7_1_1_2",
+          "level": 3
+        },
+        {
+          "title": "三 京畿的初步开发",
+          "anchor": "isbn_7_1_1_3",
+          "level": 3
+        },
+        {
+          "title": "四 京畿发展基础的奠定",
+          "anchor": "isbn_7_1_1_4",
+          "level": 3
+        },
+        {
+          "title": "第二节 平城的辉煌时代",
+          "anchor": "isbn_7_2",
+          "level": 2
+        },
+        {
+          "title": "一 平城的行政建制",
+          "anchor": "isbn_7_1_1_5",
+          "level": 3
+        },
+        {
+          "title": "二 平城的基本建设",
+          "anchor": "isbn_7_1_1_6",
+          "level": 3
+        },
+        {
+          "title": "三 平城郭城的范围",
+          "anchor": "isbn_7_1_1_7",
+          "level": 3
+        },
+        {
+          "title": "四 平城的发展历程",
+          "anchor": "isbn_7_1_1_8",
+          "level": 3
+        },
+        {
+          "title": "第三节 畿内众多的城邑",
+          "anchor": "isbn_7_3",
+          "level": 2
+        },
+        {
+          "title": "一 近郊三县",
+          "anchor": "isbn_7_1_1_9",
+          "level": 3
+        },
+        {
+          "title": "二 东北一城",
+          "anchor": "isbn_7_1_1_10",
+          "level": 3
+        },
+        {
+          "title": "三 东部二城",
+          "anchor": "isbn_7_1_1_11",
+          "level": 3
+        },
+        {
+          "title": "四 东南三城",
+          "anchor": "isbn_7_1_1_12",
+          "level": 3
+        },
+        {
+          "title": "五 南部三城",
+          "anchor": "isbn_7_1_1_13",
+          "level": 3
+        },
+        {
+          "title": "六 西南三城",
+          "anchor": "isbn_7_1_1_14",
+          "level": 3
+        },
+        {
+          "title": "七 西部一城",
+          "anchor": "isbn_7_1_1_15",
+          "level": 3
+        },
+        {
+          "title": "八 畿内城邑的发展历程",
+          "anchor": "isbn_7_1_1_16",
+          "level": 3
+        },
+        {
+          "title": "第四节 畿内外的交通",
+          "anchor": "isbn_7_4",
+          "level": 2
+        },
+        {
+          "title": "一 畿内的交通",
+          "anchor": "isbn_7_1_1_17",
+          "level": 3
+        },
+        {
+          "title": "二 定州大道",
+          "anchor": "isbn_7_1_1_18",
+          "level": 3
+        },
+        {
+          "title": "三 并州大道",
+          "anchor": "isbn_7_1_1_19",
+          "level": 3
+        },
+        {
+          "title": "四 北魏全境的交通中心",
+          "anchor": "isbn_7_1_1_20",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=26675386&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 11,
+      "title": "第六章 宗主督护",
+      "level": 1,
+      "wordCount": 21929,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 宗主督护考",
+          "anchor": "isbn_8_1",
+          "level": 2
+        },
+        {
+          "title": "第二节 社会背景",
+          "anchor": "isbn_8_2",
+          "level": 2
+        },
+        {
+          "title": "一 宗族强化",
+          "anchor": "isbn_8_2_1_1",
+          "level": 3
+        },
+        {
+          "title": "二 坞壁林立",
+          "anchor": "isbn_8_2_1_2",
+          "level": 3
+        },
+        {
+          "title": "第三节 羁縻政策",
+          "anchor": "isbn_8_3",
+          "level": 2
+        },
+        {
+          "title": "一 针对中原",
+          "anchor": "isbn_8_2_1_3",
+          "level": 3
+        },
+        {
+          "title": "二 荡而更制",
+          "anchor": "isbn_8_2_1_4",
+          "level": 3
+        },
+        {
+          "title": "三 矛盾缓和",
+          "anchor": "isbn_8_2_1_5",
+          "level": 3
+        },
+        {
+          "title": "第四节 推行三长制",
+          "anchor": "isbn_8_4",
+          "level": 2
+        },
+        {
+          "title": "一 弊端渐显",
+          "anchor": "isbn_8_2_1_6",
+          "level": 3
+        },
+        {
+          "title": "二 代以三长",
+          "anchor": "isbn_8_2_1_7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=26675386&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 12,
+      "title": "末章 平城时代历史意义",
+      "level": 1,
+      "wordCount": 4029,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26675386&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 13,
+      "title": "附录",
+      "level": 1,
+      "wordCount": 379,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "表一 力微至北魏建国前拓跋氏世系表",
+          "anchor": "pos1_1_1",
+          "level": 2
+        },
+        {
+          "title": "表二 北魏王朝世系表",
+          "anchor": "pos1_1_2",
+          "level": 2
+        },
+        {
+          "title": "表三 北魏平城时代诸帝年表",
+          "anchor": "pos1_1_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=26675386&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 14,
+      "title": "再版后记",
+      "level": 1,
+      "wordCount": 1229,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26675386&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 15,
+      "title": "第三版后记",
+      "level": 1,
+      "wordCount": 603,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=26675386&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=51"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 41,
+      "chapterTitle": "序章 平城政权发展轨迹",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "26675386_41_7317-7408",
+          "range": "7317-7408",
+          "rangeStart": 7317,
+          "rangeEnd": 7408,
+          "markText": "时间一久，太子监国的弊端便逐渐暴露出来。皇帝与太子在军事和行政上的分工，实质上是皇权职能的分化，这种分化的本身就意味着对于集权于一身的封建专制统治的否定，因此必然导致皇权运行的危机。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1752330039,
+          "createTimeFormatted": "2025-07-12 22:20:39",
+          "chapterUid": 41,
+          "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=41&rangeStart=7317&rangeEnd=7408",
+          "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=41&rangeStart=7317&rangeEnd=7408"
+        }
+      ]
+    },
+    {
+      "chapterUid": 42,
+      "chapterTitle": "第一章 皇权初建",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "26675386_42_3874-3939",
+          "range": "3874-3939",
+          "rangeStart": 3874,
+          "rangeEnd": 3939,
+          "markText": "他是献明帝寔之子、什翼犍之孙；但是献明帝死后，什翼犍又娶了其子献明帝之妻即道武帝之母贺氏为妻，似乎道武帝又成了他的祖父什翼犍的儿子",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1752330033,
+          "createTimeFormatted": "2025-07-12 22:20:33",
+          "chapterUid": 42,
+          "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=42&rangeStart=3874&rangeEnd=3939",
+          "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=42&rangeStart=3874&rangeEnd=3939"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "26675386_42_3874-3939",
+      "chapterUid": 42,
+      "range": "3874-3939",
+      "markText": "他是献明帝寔之子、什翼犍之孙；但是献明帝死后，什翼犍又娶了其子献明帝之妻即道武帝之母贺氏为妻，似乎道武帝又成了他的祖父什翼犍的儿子",
+      "totalCount": 435,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=42&rangeStart=3874&rangeEnd=3939",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=42&rangeStart=3874&rangeEnd=3939"
+    },
+    {
+      "bookmarkId": "26675386_45_67708-67794",
+      "chapterUid": 45,
+      "range": "67708-67794",
+      "markText": "孝文帝受过文明太后近乎虐待的管教，却是文明太后事业坚定不移的继承者；孝文帝摆脱了文明太后生前在旧都平城造就的政治氛围，却将文明太后推行的拓跋部汉化改革在新都洛阳发扬光大了。",
+      "totalCount": 308,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=45&rangeStart=67708&rangeEnd=67794",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=45&rangeStart=67708&rangeEnd=67794"
+    },
+    {
+      "bookmarkId": "26675386_42_39490-39539",
+      "chapterUid": 42,
+      "range": "39490-39539",
+      "markText": "登国十一年三月，魏王拓跋珪迫使亲率大军来犯的后燕皇帝慕容垂败走后病亡，取得对后燕战争的关键性胜利；",
+      "totalCount": 289,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=42&rangeStart=39490&rangeEnd=39539",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=42&rangeStart=39490&rangeEnd=39539"
+    },
+    {
+      "bookmarkId": "26675386_41_7317-7408",
+      "chapterUid": 41,
+      "range": "7317-7408",
+      "markText": "时间一久，太子监国的弊端便逐渐暴露出来。皇帝与太子在军事和行政上的分工，实质上是皇权职能的分化，这种分化的本身就意味着对于集权于一身的封建专制统治的否定，因此必然导致皇权运行的危机。",
+      "totalCount": 272,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=41&rangeStart=7317&rangeEnd=7408",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=41&rangeStart=7317&rangeEnd=7408"
+    },
+    {
+      "bookmarkId": "26675386_41_2438-2530",
+      "chapterUid": 41,
+      "range": "2438-2530",
+      "markText": "拓跋珪施行离散诸部措施的目的，是要剥夺那些陆续地归附和被征服的部落酋帅们对其部落的统领权力，进而将这些部落的部民连同其酋帅在内统统转变为拓跋政权统治下的“编民”，并促使他们去从事农耕。",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=41&rangeStart=2438&rangeEnd=2530",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=41&rangeStart=2438&rangeEnd=2530"
+    },
+    {
+      "bookmarkId": "26675386_43_1763-1788",
+      "chapterUid": 43,
+      "range": "1763-1788",
+      "markText": "帝（指太宗明元帝）素服寒食散，频年动发，不堪万机。",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=43&rangeStart=1763&rangeEnd=1788",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=43&rangeStart=1763&rangeEnd=1788"
+    },
+    {
+      "bookmarkId": "26675386_40_1875-1916",
+      "chapterUid": 40,
+      "range": "1875-1916",
+      "markText": "北魏在平城经营的一个世纪，是拓跋历史上最辉煌的阶段，也是中国历史上辉煌的时代之一。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=40&rangeStart=1875&rangeEnd=1916",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=40&rangeStart=1875&rangeEnd=1916"
+    },
+    {
+      "bookmarkId": "26675386_40_973-1040",
+      "chapterUid": 40,
+      "range": "973-1040",
+      "markText": "道武帝为了预防母后干预政治，建立起矫枉过正的子贵母死制度。然而，由子贵母死派生出来保母抚养太子的惯例，进而发展成为保母干预政治的现象。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=40&rangeStart=973&rangeEnd=1040",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=40&rangeStart=973&rangeEnd=1040"
+    },
+    {
+      "bookmarkId": "26675386_43_31697-31752",
+      "chapterUid": 43,
+      "range": "31697-31752",
+      "markText": "虽然这四个人去世的原因其本传均不记载，但是都在很年轻的时候就已去世，使人很难相信他们竟那么凑巧地全都死于疾病。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=43&rangeStart=31697&rangeEnd=31752",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=43&rangeStart=31697&rangeEnd=31752"
+    },
+    {
+      "bookmarkId": "26675386_41_8791-8838",
+      "chapterUid": 41,
+      "range": "8791-8838",
+      "markText": "为了使其身后不再发生类似的情况，道武帝决计杀死明元帝的生母刘贵人，从而立下残忍的子贵母死制度。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=41&rangeStart=8791&rangeEnd=8838",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=41&rangeStart=8791&rangeEnd=8838"
+    },
+    {
+      "bookmarkId": "26675386_40_427-470",
+      "chapterUid": 40,
+      "range": "427-470",
+      "markText": "本书论述的是公元398年游牧民族鲜卑拓跋部在今山西省大同市所建北魏平城政权的发展历程。",
+      "totalCount": 209,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=40&rangeStart=427&rangeEnd=470",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=40&rangeStart=427&rangeEnd=470"
+    },
+    {
+      "bookmarkId": "26675386_43_14199-14273",
+      "chapterUid": 43,
+      "range": "14199-14273",
+      "markText": "兄终弟及制源于母系氏族社会。吕思勉先生认为，在母系氏族社会中，以母权为中心，以母系血统相承续，因而兄弟为一家而父子非一家，于是有了兄终弟及的继承传统",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=43&rangeStart=14199&rangeEnd=14273",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=43&rangeStart=14199&rangeEnd=14273"
+    },
+    {
+      "bookmarkId": "26675386_44_5562-5692",
+      "chapterUid": 44,
+      "range": "5562-5692",
+      "markText": "其父贺野干娶什翼犍之女辽西公主。而贺野干之女正是我们现在在讨论的献明帝之后、道武帝之母贺氏",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=44&rangeStart=5562&rangeEnd=5692",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=44&rangeStart=5562&rangeEnd=5692"
+    },
+    {
+      "bookmarkId": "26675386_43_39271-39360",
+      "chapterUid": 43,
+      "range": "39271-39360",
+      "markText": "妃妾住皆土屋。婢使千余人，织绫锦贩卖，酤酒，养猪羊，牧牛马，种菜逐利。太官八十余窖，窖四千斛，半谷半米。又有悬食瓦厅数十间，置尚方作铁及木。其袍衣，使宫内婢为之。伪太子别有仓库。",
+      "totalCount": 195,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=43&rangeStart=39271&rangeEnd=39360",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=43&rangeStart=39271&rangeEnd=39360"
+    },
+    {
+      "bookmarkId": "26675386_43_10964-11033",
+      "chapterUid": 43,
+      "range": "10964-11033",
+      "markText": "崔浩才艺通博，究览天人，政事筹策，时莫之二，此其所以自比于子房也。属太宗为政之秋，值世祖经营之日，言听计从，宁廓区夏。遇既隆也，勤亦茂哉。",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=43&rangeStart=10964&rangeEnd=11033",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=43&rangeStart=10964&rangeEnd=11033"
+    },
+    {
+      "bookmarkId": "26675386_41_9434-9505",
+      "chapterUid": 41,
+      "range": "9434-9505",
+      "markText": "从历史的脉络来看，文明太后的临朝听政恰恰是由子贵母死制度经保母抚养储君的惯例引发的，这与道武帝建立此种制度的初衷截然相反，是道武帝始料未及的。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=41&rangeStart=9434&rangeEnd=9505",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=41&rangeStart=9434&rangeEnd=9505"
+    },
+    {
+      "bookmarkId": "26675386_45_24460-24522",
+      "chapterUid": 45,
+      "range": "24460-24522",
+      "markText": "不过，文明太后乃非同寻常之人，特能玩弄权术，虽然宠信“小人”，却又能摆出貌似公正的面孔，从而将拓跋贵族和汉族士族拉拢在周围。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=45&rangeStart=24460&rangeEnd=24522",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=45&rangeStart=24460&rangeEnd=24522"
+    },
+    {
+      "bookmarkId": "26675386_45_34066-34133",
+      "chapterUid": 45,
+      "range": "34066-34133",
+      "markText": "出身低微的下层人物既然很难通过正规渠道，如应选或建立军功等途径而进入政权的高层中去，于是积极参与政变活动便成为他们获得权势的最好时机。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=45&rangeStart=34066&rangeEnd=34133",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=45&rangeStart=34066&rangeEnd=34133"
+    },
+    {
+      "bookmarkId": "26675386_41_8264-8352",
+      "chapterUid": 41,
+      "range": "8264-8352",
+      "markText": "道武帝先与其祖父代王什翼犍等一起被俘虏到长安，然后他又从长安流徙到蜀地；直到什翼犍死后，道武帝才被迁回长安；淝水之战后，道武帝随从慕容垂来到中山；最后，道武帝被慕容垂送回代北。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=41&rangeStart=8264&rangeEnd=8352",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=41&rangeStart=8264&rangeEnd=8352"
+    },
+    {
+      "bookmarkId": "26675386_41_9064-9105",
+      "chapterUid": 41,
+      "range": "9064-9105",
+      "markText": "保母抚养储君的惯例在母权制遗俗极浓厚的拓跋社会中又发展成为保母干预政治的怪诞现象。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=26675386&chapterUid=41&rangeStart=9064&rangeEnd=9105",
+      "webLink": "https://weread.qq.com/web/reader/9a0326a0719708ba9a023c8?chapterUid=41&rangeStart=9064&rangeEnd=9105"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 40,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": 1767185211,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

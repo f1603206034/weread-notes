@@ -1,0 +1,770 @@
+{
+  "meta": {
+    "bookId": "23723810",
+    "title": "如何阅读一本书",
+    "author": "莫提默·艾德勒 查尔斯·范多伦",
+    "translator": "郝明义,朱衣",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/810/23723810/t6_23723810.jpg",
+    "intro": "这是一本关于阅读的永不褪色的经典。本书是一本阅读指南，一本指导人们如何阅读的名作，曾高踞全美畅销书排行榜榜首，自问世以来，好评甚多，重版多次。书中介绍了阅读的方法、技巧，阅读所应具备的广阔视野。",
+    "category": "教育学习-教育",
+    "publisher": "商务印书馆有限公司",
+    "publishTime": "2014-10-01 00:00:00",
+    "isbn": "9787100106184",
+    "wordCount": 0,
+    "newRating": 746,
+    "newRatingCount": 20020,
+    "newRatingDetail": {
+      "good": 14835,
+      "fair": 4449,
+      "poor": 736,
+      "recent": 32,
+      "deepV": 1161,
+      "myRating": "good",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=23723810",
+    "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f",
+    "lastSync": "2026-05-21T11:49:42Z",
+    "readingProgress": "96%",
+    "readingTime": "0分钟",
+    "finishedDate": "2023-07-29",
+    "noteCount": 5,
+    "reviewCount": 3,
+    "bookmarkCount": 0,
+    "contentHash": "296ca42625cc554fe38b39e5c3ea5120e2edf63989023aeb035f696c1629dfbb"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=1"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 133,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 3,
+      "title": "译序",
+      "level": 1,
+      "wordCount": 1804,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 4,
+      "title": "序言",
+      "level": 1,
+      "wordCount": 2765,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 5,
+      "title": "第一篇 阅读的层次",
+      "level": 1,
+      "wordCount": 7745,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 阅读的活力与艺术",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23723810&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 6,
+      "title": "第二章 阅读的层次",
+      "level": 2,
+      "wordCount": 2860,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 7,
+      "title": "第三章 阅读的第一个层次：基础阅读",
+      "level": 2,
+      "wordCount": 5793,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 8,
+      "title": "第四章 阅读的第二个层次：检视阅读",
+      "level": 2,
+      "wordCount": 8097,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 9,
+      "title": "第五章 如何做一个自我要求的读者",
+      "level": 2,
+      "wordCount": 6832,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 10,
+      "title": "第二篇 阅读的第三个层次：分析阅读",
+      "level": 1,
+      "wordCount": 10500,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第六章 一本书的分类",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23723810&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 11,
+      "title": "第七章 透视一本书",
+      "level": 2,
+      "wordCount": 13205,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 12,
+      "title": "第八章 与作者找出共通的词义",
+      "level": 2,
+      "wordCount": 11342,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 13,
+      "title": "第九章 判断作者的主旨",
+      "level": 2,
+      "wordCount": 13624,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 14,
+      "title": "第十章 公正地评断一本书",
+      "level": 2,
+      "wordCount": 8541,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 15,
+      "title": "第十一章 赞同或反对作者",
+      "level": 2,
+      "wordCount": 8814,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 16,
+      "title": "第十二章 辅助阅读",
+      "level": 2,
+      "wordCount": 11696,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 17,
+      "title": "第三篇 阅读不同读物的方法",
+      "level": 1,
+      "wordCount": 6733,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十三章 如何阅读实用型的书",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23723810&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 18,
+      "title": "第十四章 如何阅读想象文学",
+      "level": 2,
+      "wordCount": 6950,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 19,
+      "title": "第十五章 阅读故事、戏剧与诗的一些建议",
+      "level": 2,
+      "wordCount": 11683,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 20,
+      "title": "第十六章 如何阅读历史书",
+      "level": 2,
+      "wordCount": 12938,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 21,
+      "title": "第十七章 如何阅读科学与数学",
+      "level": 2,
+      "wordCount": 8609,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 22,
+      "title": "第十八章 如何阅读哲学书",
+      "level": 2,
+      "wordCount": 15403,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 23,
+      "title": "第十九章 如何阅读社会科学",
+      "level": 2,
+      "wordCount": 5659,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 24,
+      "title": "第四篇 阅读的最终目标",
+      "level": 1,
+      "wordCount": 16525,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第二十章 阅读的第四个层次：主题阅读",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=23723810&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 25,
+      "title": "第二十一章 阅读与心智的成长",
+      "level": 2,
+      "wordCount": 5408,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 26,
+      "title": "附录一 建议阅读书目",
+      "level": 1,
+      "wordCount": 7468,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 27,
+      "title": "附录二 四种层次阅读的练习与测验",
+      "level": 1,
+      "wordCount": 36547,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 28,
+      "title": "索引",
+      "level": 1,
+      "wordCount": 8531,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=23723810&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=55"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 32,
+      "chapterTitle": "第一篇 阅读的层次",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "23723810_32_4039-4123",
+          "range": "4039-4123",
+          "rangeStart": 4039,
+          "rangeEnd": 4123,
+          "markText": "只有一种方式是真正地在阅读。没有任何外力的帮助，你就是要读这本书。你什么都没有，只凭着内心的力量，玩味着眼前的字句，慢慢地提升自己，从只有模糊的概念到更清楚地理解为止。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1752570197,
+          "createTimeFormatted": "2025-07-15 17:03:17",
+          "chapterUid": 32,
+          "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=32&rangeStart=4039&rangeEnd=4123",
+          "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=32&rangeStart=4039&rangeEnd=4123"
+        }
+      ]
+    },
+    {
+      "chapterUid": 46,
+      "chapterTitle": "第十五章 阅读故事、戏剧与诗的一些建议",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "23723810_46_4478-4498",
+          "range": "4478-4498",
+          "rangeStart": 4478,
+          "rangeEnd": 4498,
+          "markText": "小说能满足我们潜意识或意识中许多的需要。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1745399063,
+          "createTimeFormatted": "2025-04-23 17:04:23",
+          "chapterUid": 46,
+          "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=46&rangeStart=4478&rangeEnd=4498",
+          "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=46&rangeStart=4478&rangeEnd=4498"
+        }
+      ]
+    },
+    {
+      "chapterUid": 52,
+      "chapterTitle": "第二十一章 阅读与心智的成长",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "23723810_52_1869-2010",
+          "range": "1869-2010",
+          "rangeStart": 1869,
+          "rangeEnd": 2010,
+          "markText": "如果你的阅读目的是想变成一个更好的阅读者，你就不能摸到任何书或文章都读。如果你所读的书都在你的能力范围之内，你就没法提升自己的阅读能力。你必须能操纵超越你能力的书，或像我们所说的，阅读超越你头脑的书。只有那样的书能帮助你的思想增长。除非你能增长心智，否则你学不到东西。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1703744487,
+          "createTimeFormatted": "2023-12-28 14:21:27",
+          "chapterUid": 52,
+          "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=52&rangeStart=1869&rangeEnd=2010",
+          "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=52&rangeStart=1869&rangeEnd=2010"
+        }
+      ]
+    },
+    {
+      "chapterUid": 53,
+      "chapterTitle": "附录一 建议阅读书目",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "23723810_53_961-1019",
+          "range": "961-1019",
+          "rangeStart": 961,
+          "rangeEnd": 1019,
+          "markText": "不论基于什么理由，最聪明的做法都是从你最感兴趣的书开始读。我们已经说过许多次，主要的目标是要读得好，而不是要读得广。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1703744437,
+          "createTimeFormatted": "2023-12-28 14:20:37",
+          "chapterUid": 53,
+          "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=53&rangeStart=961&rangeEnd=1019",
+          "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=53&rangeStart=961&rangeEnd=1019"
+        }
+      ]
+    },
+    {
+      "chapterUid": 30,
+      "chapterTitle": "译序",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "23723810_30_2016-2064",
+          "range": "2016-2064",
+          "rangeStart": 2016,
+          "rangeEnd": 2064,
+          "markText": "如果没有经历这么多年的寻觅与颠簸，发现与失落，我读这本书的感受不会这么深刻，收获也不会这么丰富。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1703744381,
+          "createTimeFormatted": "2023-12-28 14:19:41",
+          "chapterUid": 30,
+          "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=30&rangeStart=2016&rangeEnd=2064",
+          "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=30&rangeStart=2016&rangeEnd=2064"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZkaBfqki",
+          "range": "1681-2096",
+          "chapterName": "",
+          "content": "之前射出的子弹现在正中眉心\n我现在是第三次读这本书",
+          "abstract": "一气读完后，有两种强烈的感觉。\n先是羞耻。我是个做出版工作的人，成日与书为伍，结果到那个春节前的两个月才知道这本书，到自己四十四岁这一年才读这本书，几乎可说无地自容。之外，也不免深感懊恼：如果在我初高中青少年时期，就能读到这本有关如何读书的书，那我会少走多少阅读的冤枉路？\n但，另一个感触则是：何其有幸。在出版业工作了二十多年之后才读到这一本书，与其说是不幸，不如说是有幸。这么多年来，我在阅读的路上，思索固然很多，困惑也多，想清楚的有一些，想得模糊的更多。就如同书名《如何阅读一本书》所言，这本书帮我就读书这件事情的思索和困惑，作了许多印证和总结。如果没有经历这么多年的寻觅与颠簸，发现与失落，我读这本书的感受不会这么深刻，收获也不会这么丰富。因此不论就读者还是出版者的身份，我相信这本书都深远影响我的未来。",
+          "star": -1,
+          "createTime": 1744344947,
+          "createTimeFormatted": "2025-04-11 12:15:47",
+          "isFinish": false,
+          "chapterUid": 30
+        }
+      ]
+    },
+    {
+      "chapterUid": 29,
+      "chapterTitle": "版权信息",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_7NIIj9zgr",
+          "range": "451-458",
+          "chapterName": "",
+          "content": "莫提默•J.艾德勒（1902-2001）曾任《大英百科全书》编委会主席、美国哲学研究所所长，以及阿斯本学院名誉董事。另外，他还曾任大观念研究中心的名誉主席，是该中心的最初发起者之一。",
+          "abstract": "莫提默·艾德勒",
+          "star": -1,
+          "createTime": 1703479658,
+          "createTimeFormatted": "2023-12-25 12:47:38",
+          "isFinish": false,
+          "chapterUid": 29
+        }
+      ]
+    }
+  ],
+  "bookReviews": [
+    {
+      "type": "review",
+      "reviewId": "32618646_7O71Sw6TZ",
+      "range": "",
+      "chapterName": "",
+      "content": "# **＜如何阅读一本书＞札记**\n大多数的书都不值得读，但是为了学会阅读，我们要选择我们喜欢的书籍开始读，养成主动阅读的习惯。如果你阅读是为了娱乐，完全没必要读这本书。如果你想成为一个合格的读者。那么，为了提高自己的阅读能力，增长自己的认知水平，这本书应该对你有所帮助。\n我因为对范多伦故事的好奇，而去买了《如何阅读一本书》。而最后满足的不只是我的好奇心，还有对阅读及出版的重新认识。一气读完后，有两种强烈的感觉。先是羞耻。我是个做出版工作的人，成日与书为伍，结果到那个春节前的两个月才知道这本书，到自己四十四岁这一年才读这本书，几乎可说无地自容。之外，也不免深感懊恼：如果在我初高中青少年时期，就能读到这本有关如何读书的书，那我会少走多少阅读的冤枉路？  但，另一个感触则是：何其有幸。在出版业工作了二十多年之后才读到这一本书，与其说是不幸，不如说是有幸。这么多年来，我在阅读的路上，思索固然很多，困惑也多，想清楚的有一些，想得模糊的更多。就如同书名《如何阅读一本书》所言，这本书帮我就读书这件事情的思索和困惑，作了许多印证和总结。如果没有经历这么多年的寻觅与颠簸，发现与失落，我读这本书的感受不会这么深刻，收获也不会这么丰富。因此不论就读者还是出版者的身份，我相信这本书都深远影响我的未来。——译者序《如何阅读一本书》\n作者简介\n`莫提默•J.艾德勒（1902-2001）曾任《大英百科全书》编委会主席、美国哲学研究所所长，以及阿斯本学院名誉董事。另外，他还曾任大观念研究中心的名誉主席，是该中心的最初发起者之一。`\n个人觉得书名和作者简介已经很能说明这本书的分量了。\n***\n我是21年夏天看的这本书。我那时也在看书，在读一些畅销和什么榜单书籍，读物主要集中在小说，没有什么方向和目的。后来看到一篇帖子，推荐了这本书。我就把书囫囵吞了下去，效果自然是十分难看的。只记得书中万言说的好有道理，要主动阅读，要有方向，要做笔记种种。由于自己的认识问题，再没碰过它。\n后来，当我开始规律读书有了一定读书经验后，当我确实读了一两本有难度的书后，当我涉猎了一些除了小说外其他类别的书后，我遇到问题了。这些书籍涉及到了我之前从未接触过东西，面对风格各异的文学，面对盘根错节的历史，面对晦涩难懂的哲学，我感到力不从心。我没有一个阅读各类书籍的基本方法，我没有一个更近一步的对某类书籍具有针对性的特殊阅读方法。于是，东寻西觅，翻箱倒柜，万幸，找到了它。\n再拿起来看时，我才知道自己的一些读书经验早就在书里了。当然还有一些我没有学到的方法，也在书中。***\n本书第三部分有太多作者的阅读经验了：\n许多故事与小说总是会带引读者做各种各样的事情，但是阅读故事与小说的主要目的并不是要采取实际的行动。这些作品可以引导出行动，但却并非必要，因为它们属于纯艺术的领域。我们喜爱这类作品其中一个理由是：小说能满足我们潜意识或意识中许多的需要。我们应该警惕，不要被这类作品过分影响生活。\n> 我们应当注意到伟大的科学家想要解决的是什么问题——注意到问题的本身及问题的背景，注意到他们是如何解决这些问题的\n> 读者应该清楚在阅读任何哲学作品时，最重要的就是要发现问题，或是找到书中想要回答的问题\n我们在阅读哲学类著作时，一定要注意哲学家的原则。这很可能是一些他希望你跟他一起接受的假设，也可能是一些他所谓的自明之理。有一种原则，哲学作品几乎没有不陈述一些作者认为不证自明的主旨。这种主旨都直接来自经验，而不是由其他主旨证明而来。当然，这些可能是哲学家的偏见，但是这对我们读者来说，找到和分辨它是一个不错的锻炼。\n> 当你越清楚自己的偏见时，你就越不会误判别人的偏见了。\n> 尽管要找出中心思想的原则很困难，但是我们仍然不主张你走捷径，去阅读一些关于哲学家生活或观察点的书。`你自己找到的原则，会比其他人的观点还更有价值。`\n。。。\n读完之后，第一个想法是用本书阅读方法阅读本书。然而，在附录作者出的练习题目里，作者建议用分析阅读的方法阅读本书。我大意了🤡\n`回头看一看，我读的许多书都没有达到作者的要求，不过值得庆幸的是我意识到了。`",
+      "abstract": "",
+      "star": 100,
+      "createTime": 1704860793,
+      "createTimeFormatted": "2024-01-10 12:26:33",
+      "isFinish": false,
+      "chapterUid": 0
+    }
+  ],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "23723810_32_3297-3320",
+      "chapterUid": 32,
+      "range": "3297-3320",
+      "markText": "阅读的目标：为获得资讯而读，以及为求得理解而读",
+      "totalCount": 52578,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=32&rangeStart=3297&rangeEnd=3320",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=32&rangeStart=3297&rangeEnd=3320"
+    },
+    {
+      "bookmarkId": "23723810_32_1190-1248",
+      "chapterUid": 32,
+      "range": "1190-1248",
+      "markText": "太多的资讯就如同太少的资讯一样，都是一种对理解力的阻碍。换句话说，现代的媒体正以压倒性的泛滥资讯阻碍了我们的理解力。",
+      "totalCount": 44766,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=32&rangeStart=1190&rangeEnd=1248",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=32&rangeStart=1190&rangeEnd=1248"
+    },
+    {
+      "bookmarkId": "23723810_35_4837-4880",
+      "chapterUid": 35,
+      "range": "4837-4880",
+      "markText": "头一次面对一本难读的书的时候，从头到尾先读完一遍，碰到不懂的地方不要停下来查询或思索。",
+      "totalCount": 26925,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=35&rangeStart=4837&rangeEnd=4880",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=35&rangeStart=4837&rangeEnd=4880"
+    },
+    {
+      "bookmarkId": "23723810_32_970-999",
+      "chapterUid": 32,
+      "range": "970-999",
+      "markText": "到底这些新时代的传播媒体是否真能增进我们对自己世界的了解？",
+      "totalCount": 18603,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=32&rangeStart=970&rangeEnd=999",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=32&rangeStart=970&rangeEnd=999"
+    },
+    {
+      "bookmarkId": "23723810_32_6644-6727",
+      "chapterUid": 32,
+      "range": "6644-6727",
+      "markText": "所谓吸收资讯，就只是知道某件事发生了。想要被启发，就是要去理解，搞清楚这到底是怎么回事：为什么会发生，与其他的事实有什么关联，有什么类似的情况，同类的差异在哪里等等。",
+      "totalCount": 14128,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=32&rangeStart=6644&rangeEnd=6727",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=32&rangeStart=6644&rangeEnd=6727"
+    },
+    {
+      "bookmarkId": "23723810_30_2016-2064",
+      "chapterUid": 30,
+      "range": "2016-2064",
+      "markText": "如果没有经历这么多年的寻觅与颠簸，发现与失落，我读这本书的感受不会这么深刻，收获也不会这么丰富。",
+      "totalCount": 12894,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=30&rangeStart=2016&rangeEnd=2064",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=30&rangeStart=2016&rangeEnd=2064"
+    },
+    {
+      "bookmarkId": "23723810_38_909-974",
+      "chapterUid": 38,
+      "range": "909-974",
+      "markText": "分析阅读的第二个规则是：使用一个单一的句子，或最多几句话（一小段文字）来叙述整本书的内容。",
+      "totalCount": 11568,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=38&rangeStart=909&rangeEnd=974",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=38&rangeStart=909&rangeEnd=974"
+    },
+    {
+      "bookmarkId": "23723810_32_6915-6954",
+      "chapterUid": 32,
+      "range": "6915-6954",
+      "markText": "要能被启发，除了知道作者所说的话之外，还要明白他的意思，懂得他为什么会这么说。",
+      "totalCount": 11536,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=32&rangeStart=6915&rangeEnd=6954",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=32&rangeStart=6915&rangeEnd=6954"
+    },
+    {
+      "bookmarkId": "23723810_32_6500-6529",
+      "chapterUid": 32,
+      "range": "6500-6529",
+      "markText": "阅读就是学习：指导型的学习，以及自我发现型的学习之间的差异",
+      "totalCount": 10695,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=32&rangeStart=6500&rangeEnd=6529",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=32&rangeStart=6500&rangeEnd=6529"
+    },
+    {
+      "bookmarkId": "23723810_36_3838-3878",
+      "chapterUid": 36,
+      "range": "3838-3878",
+      "markText": "一个人如果说他知道他在想些什么，却说不出来，通常是他其实并不知道自己在想些什么。",
+      "totalCount": 10374,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=36&rangeStart=3838&rangeEnd=3878",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=36&rangeStart=3838&rangeEnd=3878"
+    },
+    {
+      "bookmarkId": "23723810_31_1050-1091",
+      "chapterUid": 31,
+      "range": "1050-1091",
+      "markText": "法国学者帕斯卡尔(Pascal)在三百年前就说过：“读得太快或太慢，都一无所获。”",
+      "totalCount": 10332,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=31&rangeStart=1050&rangeEnd=1091",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=31&rangeStart=1050&rangeEnd=1091"
+    },
+    {
+      "bookmarkId": "23723810_38_1706-1769",
+      "chapterUid": 38,
+      "range": "1706-1769",
+      "markText": "第三个规则可以说成是：将书中重要篇章列举出来，说明它们如何按照顺序组成一个整体的架构。",
+      "totalCount": 9452,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=38&rangeStart=1706&rangeEnd=1769",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=38&rangeStart=1706&rangeEnd=1769"
+    },
+    {
+      "bookmarkId": "23723810_37_11706-11757",
+      "chapterUid": 37,
+      "range": "11706-11757",
+      "markText": "如果一本理论的书所强调的内容，超乎你日常、例行、正常生活的经验，那就是科学的书。否则就是一本哲学的书。",
+      "totalCount": 9450,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=37&rangeStart=11706&rangeEnd=11757",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=37&rangeStart=11706&rangeEnd=11757"
+    },
+    {
+      "bookmarkId": "23723810_30_461-552",
+      "chapterUid": 30,
+      "range": "461-552",
+      "markText": "我是在1999年春节期间，第一次读《如何阅读一本书》，离这本书的初版（1940年），有六十年了。 会知道这本书，极为偶然。",
+      "totalCount": 9168,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=30&rangeStart=461&rangeEnd=552",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=30&rangeStart=461&rangeEnd=552"
+    },
+    {
+      "bookmarkId": "23723810_32_514-544",
+      "chapterUid": 32,
+      "range": "514-544",
+      "markText": "这本书是为那些想把读书的主要目的当作是增进理解能力的人而写。",
+      "totalCount": 8940,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=32&rangeStart=514&rangeEnd=544",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=32&rangeStart=514&rangeEnd=544"
+    },
+    {
+      "bookmarkId": "23723810_44_1819-1842",
+      "chapterUid": 44,
+      "range": "1819-1842",
+      "markText": "任何实用性的书都不能解决该书所关心的实际问题。",
+      "totalCount": 8806,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=44&rangeStart=1819&rangeEnd=1842",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=44&rangeStart=1819&rangeEnd=1842"
+    },
+    {
+      "bookmarkId": "23723810_32_5121-5169",
+      "chapterUid": 32,
+      "range": "5121-5169",
+      "markText": "这里的“学习”指的是理解更多的事情，而不是记住更多的资讯——和你已经知道的资讯在同一水平的资讯。",
+      "totalCount": 7605,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=32&rangeStart=5121&rangeEnd=5169",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=32&rangeStart=5121&rangeEnd=5169"
+    },
+    {
+      "bookmarkId": "23723810_35_4156-4217",
+      "chapterUid": 35,
+      "range": "4156-4217",
+      "markText": "有多少次你在看一本好书的时候，翻了好几页，脑海却陷入了白日梦的状态中，等清醒过来，竟完全不明白自己刚看的那几页在说些什么？",
+      "totalCount": 7527,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=35&rangeStart=4156&rangeEnd=4217",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=35&rangeStart=4156&rangeEnd=4217"
+    },
+    {
+      "bookmarkId": "23723810_32_2193-2218",
+      "chapterUid": 32,
+      "range": "2193-2218",
+      "markText": "听众或读者的“接收”，应该像是棒球赛中的捕手才对。",
+      "totalCount": 7320,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=32&rangeStart=2193&rangeEnd=2218",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=32&rangeStart=2193&rangeEnd=2218"
+    },
+    {
+      "bookmarkId": "23723810_36_8599-8632",
+      "chapterUid": 36,
+      "range": "8599-8632",
+      "markText": "为了要忘掉这些单一的动作，一开始你必须先分别学会每一个单一的动作。",
+      "totalCount": 7320,
+      "appLink": "weread://bestbookmark?bookId=23723810&chapterUid=36&rangeStart=8599&rangeEnd=8632",
+      "webLink": "https://weread.qq.com/web/reader/272326407169ff22272934f?chapterUid=36&rangeStart=8599&rangeEnd=8632"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 47,
+    "chapterOffset": 7066,
+    "progress": 96,
+    "updateTime": 1759633606,
+    "recordReadingTime": 0,
+    "finishTime": 1690637032
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "meta": {
+    "bookId": "3300011716",
+    "title": "宋代中国的改革：王安石及其新政",
+    "author": "刘子健",
+    "translator": "张钰翰",
+    "cover": "https://cdn.weread.qq.com/weread/cover/16/3300011716/t6_3300011716.jpg",
+    "intro": "《宋代中国的改革》在既有研究成果的基础上，重新阐释了王安石变法的重点及其失败的原因。全书以王安石变法为主线，将北宋中后期的历史分为变法、反变法和后变法三个阶段，完整地叙述了北宋后期士大夫政治全局的演变。作者指出，王安石的理想是实现儒家的道德社会，在这一点上，王安石与他的反对者并无二致。问题在于王安石希望通过改造、建立新的官僚体制以实现这一理想。由此，作者着重分析了王安石的官僚体制改革，聚焦吏役次官僚制，考察新政的政府运作，并以募役法这一新政核心制度作为个案研究，总结归纳新政的特点。本书的关注点不仅在于王安石变法本身，更在于王安石所代表的儒家道德理想主义与现实政治权力结构之间的矛盾与纠葛。",
+    "category": "历史-中国古代",
+    "publisher": "上海人民出版社",
+    "publishTime": "2022-01-01 00:00:00",
+    "isbn": "9787208173163",
+    "wordCount": 0,
+    "newRating": 794,
+    "newRatingCount": 380,
+    "newRatingDetail": {
+      "good": 303,
+      "fair": 65,
+      "poor": 12,
+      "recent": 5,
+      "deepV": 121,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300011716",
+    "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd",
+    "lastSync": "2026-05-21T11:47:10Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 577,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "导读 刘子健及其《宋代中国的改革》",
+      "level": 1,
+      "wordCount": 11027,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "上篇 刘子健的学术生涯与故国情怀",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "下篇 士大夫政治研究的典范之作",
+      "level": 2,
+      "wordCount": 13689,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "下篇 士大夫政治研究的典范之作",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "序",
+      "level": 1,
+      "wordCount": 620,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "自序",
+      "level": 1,
+      "wordCount": 890,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第一章 王安石生平及其新政简述",
+      "level": 1,
+      "wordCount": 4915,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第二章 阐释的问题",
+      "level": 1,
+      "wordCount": 3431,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "对先行阐释的评价",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "当前的再评价及其参考框架",
+      "level": 2,
+      "wordCount": 2301,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "当前的再评价及其参考框架",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第三章 王安石与北宋的政治思想",
+      "level": 1,
+      "wordCount": 4305,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "早期新儒学的多元化",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "变法派与保守主义者的分歧",
+      "level": 2,
+      "wordCount": 5250,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "变法派与保守主义者的分歧",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "王安石的政治与经济理论",
+      "level": 2,
+      "wordCount": 4891,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王安石的政治与经济理论",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "实践中的王安石的理论",
+      "level": 2,
+      "wordCount": 2832,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "实践中的王安石的理论",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第四章 新政与官僚的行为",
+      "level": 1,
+      "wordCount": 5720,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "低于儒家标准的官僚行为",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "王安石与官僚的各种类型",
+      "level": 2,
+      "wordCount": 4974,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王安石与官僚的各种类型",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第五章 新政与政府运作",
+      "level": 1,
+      "wordCount": 2518,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "吏役次官僚制",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "中央集权与同一性",
+      "level": 2,
+      "wordCount": 2372,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "中央集权与同一性",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "专制主义",
+      "level": 2,
+      "wordCount": 3513,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "专制主义",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第六章 为地方政府服役：个案研究",
+      "level": 1,
+      "wordCount": 2214,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "新政前的役法",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "关于募役法的争论",
+      "level": 2,
+      "wordCount": 2831,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关于募役法的争论",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "从募役法看新政的重要特点",
+      "level": 2,
+      "wordCount": 1968,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "从募役法看新政的重要特点",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "结论",
+      "level": 1,
+      "wordCount": 1308,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "参考文献",
+      "level": 1,
+      "wordCount": 7078,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "译后记",
+      "level": 1,
+      "wordCount": 677,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300011716&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=24"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 8,
+      "chapterTitle": "第二章 阐释的问题",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300011716_8_6277-6461",
+          "range": "6277-6461",
+          "rangeStart": 6277,
+          "rangeEnd": 6461,
+          "markText": "王安石通过他的新政，努力为他理想化的国家最佳利益服务，有时，甚至以牺牲其社会出身所属的阶级（class）为代价。￼然而，他的许多追随者，相对于国家利益，更认同他们的阶级利益——如果不是个人利益的话。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1764908015,
+          "createTimeFormatted": "2025-12-05 12:13:35",
+          "chapterUid": 8,
+          "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=8&rangeStart=6277&rangeEnd=6461",
+          "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=8&rangeStart=6277&rangeEnd=6461"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300011716_8_6277-6461",
+      "chapterUid": 8,
+      "range": "6277-6461",
+      "markText": "王安石通过他的新政，努力为他理想化的国家最佳利益服务，有时，甚至以牺牲其社会出身所属的阶级（class）为代价。然而，他的许多追随者，相对于国家利益，更认同他们的阶级利益——如果不是个人利益的话。",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=8&rangeStart=6277&rangeEnd=6461",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=8&rangeStart=6277&rangeEnd=6461"
+    },
+    {
+      "bookmarkId": "3300011716_7_3512-3566",
+      "chapterUid": 7,
+      "range": "3512-3566",
+      "markText": "熙宁二年（1069）九月，推出农业贷款，即所谓“青苗钱”，提供给农民以用于播种，收获之后再连本带息一起偿还。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=7&rangeStart=3512&rangeEnd=3566",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=7&rangeStart=3512&rangeEnd=3566"
+    },
+    {
+      "bookmarkId": "3300011716_17_5021-5070",
+      "chapterUid": 17,
+      "range": "5021-5070",
+      "markText": "王安石可能从未意识到，他的新政通过加强中央集权和要求他所认为的必要的同一性，会导致这样不幸的结局。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=17&rangeStart=5021&rangeEnd=5070",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=17&rangeStart=5021&rangeEnd=5070"
+    },
+    {
+      "bookmarkId": "3300011716_11_2377-2451",
+      "chapterUid": 11,
+      "range": "2377-2451",
+      "markText": "王安石明确认为，相比于道德的自我养成（修己），即个人或内在的个体控制，【33】体制的或从外在对人们道德生活的控制即使不是更重要的话，也是更为有效的。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=11&rangeStart=2377&rangeEnd=2451",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=11&rangeStart=2377&rangeEnd=2451"
+    },
+    {
+      "bookmarkId": "3300011716_22_1712-1776",
+      "chapterUid": 22,
+      "range": "1712-1776",
+      "markText": "人们不禁会问，这样一种道德主义的方法是否足够现实。它是否掩盖了一个官僚制国家的生活真相，从而抑制了后来的中国人思考政治体制问题？",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=22&rangeStart=1712&rangeEnd=1776",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=22&rangeStart=1712&rangeEnd=1776"
+    },
+    {
+      "bookmarkId": "3300011716_3_672-709",
+      "chapterUid": 3,
+      "range": "672-709",
+      "markText": "读其书而不知其人，则不能透彻体悟其书；论其人而不知其事，则不能真正理解其人",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=3&rangeStart=672&rangeEnd=709",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=3&rangeStart=672&rangeEnd=709"
+    },
+    {
+      "bookmarkId": "3300011716_10_5731-5825",
+      "chapterUid": 10,
+      "range": "5731-5825",
+      "markText": "但是在反对新政和批评北方的保守主义的同时，温和派很少能提供具有建设性的备选方案，而倾向于吹毛求疵。既然这一学派在政治和学术上都是少数派，舞台中心则主要是围绕新学和北方保守主义者之间的冲突。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=10&rangeStart=5731&rangeEnd=5825",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=10&rangeStart=5731&rangeEnd=5825"
+    },
+    {
+      "bookmarkId": "3300011716_12_9488-9560",
+      "chapterUid": 12,
+      "range": "9488-9560",
+      "markText": "王安石建立了完全不同的经济假设，如果政府采取主动行动刺激生产力发展，尽管它比过去花费更多，民众仍然可以为自身保留更多。在动态经济下，这将是事实。",
+      "totalCount": 143,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=12&rangeStart=9488&rangeEnd=9560",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=12&rangeStart=9488&rangeEnd=9560"
+    },
+    {
+      "bookmarkId": "3300011716_7_5595-5619",
+      "chapterUid": 7,
+      "range": "5595-5619",
+      "markText": "并劝服宋神宗将直言不讳的反对者一个接一个地降职。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=7&rangeStart=5595&rangeEnd=5619",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=7&rangeStart=5595&rangeEnd=5619"
+    },
+    {
+      "bookmarkId": "3300011716_8_5145-5202",
+      "chapterUid": 8,
+      "range": "5145-5202",
+      "markText": "无论如何，上述各种各样的阐释有一个共同的特点：以现代眼光回顾性地、从作者各自所持的特定的政治观点出发来审视王安石。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=8&rangeStart=5145&rangeEnd=5202",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=8&rangeStart=5145&rangeEnd=5202"
+    },
+    {
+      "bookmarkId": "3300011716_16_4798-4844",
+      "chapterUid": 16,
+      "range": "4798-4844",
+      "markText": "因此可以毫不夸张地说，王安石的改革措施部分地是被腐败官僚和不可救药的次官僚制联合起来打败的。",
+      "totalCount": 121,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=16&rangeStart=4798&rangeEnd=4844",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=16&rangeStart=4798&rangeEnd=4844"
+    },
+    {
+      "bookmarkId": "3300011716_11_1271-1327",
+      "chapterUid": 11,
+      "range": "1271-1327",
+      "markText": "而当王安石将自己对《周礼》的阐释作为官方考试的标准版本，并由此强迫大批有抱负的士大夫接受时，保守主义者大为光火。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=11&rangeStart=1271&rangeEnd=1327",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=11&rangeStart=1271&rangeEnd=1327"
+    },
+    {
+      "bookmarkId": "3300011716_15_679-730",
+      "chapterUid": 15,
+      "range": "679-730",
+      "markText": "君子、小人这种儒家道德性的二分法作为一种历史解释，根本无法说明为何保守主义者也未能形成良好的行政管理。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=15&rangeStart=679&rangeEnd=730",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=15&rangeStart=679&rangeEnd=730"
+    },
+    {
+      "bookmarkId": "3300011716_21_3401-3477",
+      "chapterUid": 21,
+      "range": "3401-3477",
+      "markText": "对比之下，尽管新政未能实现预期目标——并不是出于保守主义者给出的理由——但它试图切实解决日益严峻的税负和货币经济扩张中的国家财政问题，仍然十分值得尊敬。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=21&rangeStart=3401&rangeEnd=3477",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=21&rangeStart=3401&rangeEnd=3477"
+    },
+    {
+      "bookmarkId": "3300011716_3_7123-7170",
+      "chapterUid": 3,
+      "range": "7123-7170",
+      "markText": "如论唐史，要懂佛经，要熟唐诗，很难。元史要会蒙古文。明清史的书又极多。只有宋史，勉强还拼得了。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=3&rangeStart=7123&rangeEnd=7170",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=3&rangeStart=7123&rangeEnd=7170"
+    },
+    {
+      "bookmarkId": "3300011716_9_2790-2857",
+      "chapterUid": 9,
+      "range": "2790-2857",
+      "markText": "任何旨在改善紧张的政府财政的国家政策，都不可避免地会以某种方式影响所有官僚的私人利益，如特权或权力的滥用，无论他们是大地主还是小地主。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=9&rangeStart=2790&rangeEnd=2857",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=9&rangeStart=2790&rangeEnd=2857"
+    },
+    {
+      "bookmarkId": "3300011716_10_3698-3774",
+      "chapterUid": 10,
+      "range": "3698-3774",
+      "markText": "但王安石因其功利主义立场而高度尊崇孟子，因为孟子相信人民的经济福利是非常重要的，道德不可以脱离经济繁荣而存在，对良好的社会秩序来说，两者都是必不可少的。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=10&rangeStart=3698&rangeEnd=3774",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=10&rangeStart=3698&rangeEnd=3774"
+    },
+    {
+      "bookmarkId": "3300011716_7_4496-4569",
+      "chapterUid": 7,
+      "range": "4496-4569",
+      "markText": "熙宁五年（1072）三月，颁布市易法（国家贸易制度），由此政府可以直接从小商人手中购买商品，并为他们扩展贷款机构，这样他们就不必通过行会来进行交易",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=7&rangeStart=4496&rangeEnd=4569",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=7&rangeStart=4496&rangeEnd=4569"
+    },
+    {
+      "bookmarkId": "3300011716_7_4890-4915",
+      "chapterUid": 7,
+      "range": "4890-4915",
+      "markText": "科举制度。将重点放在论、策问和经义上，而非诗和赋。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=7&rangeStart=4890&rangeEnd=4915",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=7&rangeStart=4890&rangeEnd=4915"
+    },
+    {
+      "bookmarkId": "3300011716_7_5176-5225",
+      "chapterUid": 7,
+      "range": "5176-5225",
+      "markText": "在作为最主要的执政大臣掌管国家事务和提出他的新政时，王安石最大的困境在于在大多数官僚中缺乏合作者。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300011716&chapterUid=7&rangeStart=5176&rangeEnd=5225",
+      "webLink": "https://weread.qq.com/web/reader/c8b32a20813ab6b13g0169bd?chapterUid=7&rangeStart=5176&rangeEnd=5225"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 3,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": 1764908036,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

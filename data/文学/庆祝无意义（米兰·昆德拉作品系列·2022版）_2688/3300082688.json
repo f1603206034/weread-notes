@@ -1,0 +1,918 @@
+{
+  "meta": {
+    "bookId": "3300082688",
+    "title": "庆祝无意义（米兰·昆德拉作品系列·2022版）",
+    "author": "[法]米兰·昆德拉",
+    "translator": "马振骋",
+    "cover": "https://cdn.weread.qq.com/weread/cover/94/cpplatform_opbgmkjpw75zmpuvdlyqye/t6_cpplatform_opbgmkjpw75zmpuvdlyqye1703671180.jpg",
+    "intro": "“无意义，我的朋友，这是生存的本质。”\r\n《庆祝无意义》是米兰·昆德拉在长达十年的小说创作空白期之后的最近一部小说，是作家“全部作品出人意料的概括。一个奇特的概括。奇特的收尾”。整部小说像是一出喜剧，一出滑稽剧，巴黎拉丁区的卢森堡公园就是舞台。阿兰、拉蒙、夏尔和凯列班四个好朋友轮番登场，顺着他们的脚步、他们的生活故事、他们三三两两的谈话，引出了巴黎街头的花季少女、市民热捧的夏加尔画展、二十四只鹧鸪的玩笑、尿急的温情人物、自杀未遂转而杀人的母亲、闹哄哄的鸡尾酒会以及天堂纷纷堕落的天使……舞台上演着一幕幕疯癫异常的人间喜剧。",
+    "category": "文学-外国文学",
+    "publisher": "上海译文出版社",
+    "publishTime": "2022-12-01 00:00:00",
+    "isbn": "9787532789924",
+    "wordCount": 0,
+    "newRating": 747,
+    "newRatingCount": 756,
+    "newRatingDetail": {
+      "good": 483,
+      "fair": 234,
+      "poor": 39,
+      "recent": 19,
+      "deepV": 299,
+      "myRating": "",
+      "title": "值得一读"
+    },
+    "appLink": "weread://reading?bId=3300082688",
+    "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7",
+    "lastSync": "2026-05-21T11:54:33Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 310,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "Digital Lab简介",
+      "level": 1,
+      "wordCount": 114,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "第一部分 主角出场",
+      "level": 1,
+      "wordCount": 528,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "阿兰对着肚脐出神",
+          "anchor": "cha2_2_1_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "拉蒙在卢森堡公园散步",
+      "level": 2,
+      "wordCount": 513,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "癌症没有生成",
+      "level": 2,
+      "wordCount": 472,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "暗藏在重病中的魅力",
+      "level": 2,
+      "wordCount": 1107,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "不可解释的谎言，不可解释的笑",
+      "level": 2,
+      "wordCount": 289,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "拉蒙在夏尔家做客",
+      "level": 2,
+      "wordCount": 460,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "拉蒙对高明与无意义的讲解",
+      "level": 2,
+      "wordCount": 1322,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第二部分 木偶剧",
+      "level": 1,
+      "wordCount": 989,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "二十四只鹧鸪",
+          "anchor": "cha4_4_1_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "夏尔想写一出木偶剧",
+      "level": 2,
+      "wordCount": 894,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "盥洗室造反",
+      "level": 2,
+      "wordCount": 645,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "下一次，夏尔给他的朋友讲加里宁和普鲁士首都",
+      "level": 2,
+      "wordCount": 1107,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "阿兰发现斯大林被人误解的温情",
+      "level": 2,
+      "wordCount": 1437,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第三部分 阿兰与夏尔经常想念母亲",
+      "level": 1,
+      "wordCount": 742,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一次他感到肚脐的神秘，是他最后一次见到母亲的时候",
+          "anchor": "cha6_6_1_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "一个女人从汽车里出来",
+      "level": 2,
+      "wordCount": 649,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "她杀人",
+      "level": 2,
+      "wordCount": 640,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "她回家",
+      "level": 2,
+      "wordCount": 558,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "赔不是的人",
+      "level": 2,
+      "wordCount": 827,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "天使",
+      "level": 2,
+      "wordCount": 945,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第四部分 他们个个都在寻找好心情",
+      "level": 1,
+      "wordCount": 910,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "凯列班",
+          "anchor": "cha8_8_1_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "白上衣与葡萄牙女人",
+      "level": 2,
+      "wordCount": 1015,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "挂在墙上的照片",
+      "level": 2,
+      "wordCount": 812,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "怎么孕育了一个赔不是的人",
+      "level": 2,
+      "wordCount": 671,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "拉蒙到鸡尾酒会时心情很不好",
+      "level": 2,
+      "wordCount": 1146,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "阿兰把一瓶雅马邑放到橱顶上",
+      "level": 2,
+      "wordCount": 881,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "卡格里克召唤好心情",
+      "level": 2,
+      "wordCount": 1123,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第五部分 一根小羽毛在天花板下飘",
+      "level": 1,
+      "wordCount": 479,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一根小羽毛在天花板下飘",
+          "anchor": "cha10_10_1_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "一场梦的终结",
+      "level": 2,
+      "wordCount": 560,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "拉蒙在玩笑结束时的哀歌",
+      "level": 2,
+      "wordCount": 1769,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "拉弗朗克走了",
+      "level": 2,
+      "wordCount": 282,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "拉蒙走了",
+      "level": 2,
+      "wordCount": 206,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "夏娃的树",
+      "level": 2,
+      "wordCount": 766,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "第六部分 天使堕落",
+      "level": 1,
+      "wordCount": 1026,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "向玛丽亚娜告别",
+          "anchor": "cha12_12_1_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "雅马邑高高在上",
+      "level": 2,
+      "wordCount": 398,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "叔本华的世界",
+      "level": 2,
+      "wordCount": 863,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "一拳头打在桌子上震得到处都响",
+      "level": 2,
+      "wordCount": 515,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "天使堕落",
+      "level": 2,
+      "wordCount": 230,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "那瓶陈年雅马邑流在地板上",
+      "level": 2,
+      "wordCount": 199,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "一个陌生人向他的情人道别",
+      "level": 2,
+      "wordCount": 363,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "不祥之兆",
+      "level": 2,
+      "wordCount": 312,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "斯大林和加里宁逃跑",
+      "level": 2,
+      "wordCount": 519,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "第七部分 庆祝无意义",
+      "level": 1,
+      "wordCount": 1183,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "摩托车上的对白",
+          "anchor": "cha14_14_1_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "拉蒙跟阿兰讨论肚脐的时代",
+      "level": 2,
+      "wordCount": 1469,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "达德洛到来",
+      "level": 2,
+      "wordCount": 693,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "过来一个打猎的人和一个撒尿的人",
+      "level": 2,
+      "wordCount": 786,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "庆祝无意义",
+      "level": 2,
+      "wordCount": 1401,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300082688&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=48"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 15,
+      "chapterTitle": "阿兰发现斯大林被人误解的温情",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300082688_15_1937-2026",
+          "range": "1937-2026",
+          "rangeStart": 1937,
+          "rangeEnd": 2026,
+          "markText": "一阵沉默后，拉蒙说：“阿兰，你说得合情合理。我死后，要每十年醒来一次，来证实加里宁格勒是否还是加里宁格勒。如果依然不变，我跟人类还是意气相投的，跟其重归于好后再回到我的坟墓里去。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1729817048,
+          "createTimeFormatted": "2024-10-25 08:44:08",
+          "chapterUid": 15,
+          "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=15&rangeStart=1937&rangeEnd=2026",
+          "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=15&rangeStart=1937&rangeEnd=2026"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300082688_15_1002-1071",
+      "chapterUid": 15,
+      "range": "1002-1071",
+      "markText": "斯大林的心里温情升起，加里宁的膀胱尿憋加急，两者保持同一节奏。对斯大林来说，重新发现他长期以来早已停止体验的一种感情，有一种不可言传的美。",
+      "totalCount": 774,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=15&rangeStart=1002&rangeEnd=1071",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=15&rangeStart=1002&rangeEnd=1071"
+    },
+    {
+      "bookmarkId": "3300082688_4_1092-1139",
+      "chapterUid": 4,
+      "range": "1092-1139",
+      "markText": "但是怎样定义一个男人（或者一个时代）的情色，当他（或它）在人体中央肚脐上看到女人的诱惑中心呢？",
+      "totalCount": 672,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=4&rangeStart=1092&rangeEnd=1139",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=4&rangeStart=1092&rangeEnd=1139"
+    },
+    {
+      "bookmarkId": "3300082688_5_721-745",
+      "chapterUid": 5,
+      "range": "721-745",
+      "markText": "那里草地上有一所亚洲学校的学生在做奇怪缓慢的动作",
+      "totalCount": 600,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=5&rangeStart=721&rangeEnd=745",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=5&rangeStart=721&rangeEnd=745"
+    },
+    {
+      "bookmarkId": "3300082688_12_1614-1657",
+      "chapterUid": 12,
+      "range": "1614-1657",
+      "markText": "没有人有权利去装模作样重现一个已不在世的人的生平。没有人有权利凭一个木偶去创作一个人。",
+      "totalCount": 528,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=12&rangeStart=1614&rangeEnd=1657",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=12&rangeStart=1614&rangeEnd=1657"
+    },
+    {
+      "bookmarkId": "3300082688_5_545-637",
+      "chapterUid": 5,
+      "range": "545-637",
+      "markText": "他事前知道自己没有力量心甘情愿变成长蛇阵的一部分；他观察这些人，观察他们因厌烦而麻痹的面孔，想象展厅内那些展品全被他们的身体与闲聊遮蔽，以至一分钟后他别转身子，走上横穿公园的一条小路。",
+      "totalCount": 527,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=5&rangeStart=545&rangeEnd=637",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=5&rangeStart=545&rangeEnd=637"
+    },
+    {
+      "bookmarkId": "3300082688_31_1169-1227",
+      "chapterUid": 31,
+      "range": "1169-1227",
+      "markText": "我们很久以来就明白世界是不可能推翻的，不可能改造的，也是不可能阻挡其不幸的进展的。只有一种可能的抵挡：不必认真对待。",
+      "totalCount": 506,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=31&rangeStart=1169&rangeEnd=1227",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=31&rangeStart=1169&rangeEnd=1227"
+    },
+    {
+      "bookmarkId": "3300082688_15_1937-2026",
+      "chapterUid": 15,
+      "range": "1937-2026",
+      "markText": "一阵沉默后，拉蒙说：“阿兰，你说得合情合理。我死后，要每十年醒来一次，来证实加里宁格勒是否还是加里宁格勒。如果依然不变，我跟人类还是意气相投的，跟其重归于好后再回到我的坟墓里去。",
+      "totalCount": 462,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=15&rangeStart=1937&rangeEnd=2026",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=15&rangeStart=1937&rangeEnd=2026"
+    },
+    {
+      "bookmarkId": "3300082688_18_1032-1093",
+      "chapterUid": 18,
+      "range": "1032-1093",
+      "markText": "但是怎么啦？她忘了自己的决心吗？如果试图救她于不死的人不再活着，她为什么不把自己溺死呢？为什么最后自由了她又不想去死了呢？",
+      "totalCount": 442,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=18&rangeStart=1032&rangeEnd=1093",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=18&rangeStart=1032&rangeEnd=1093"
+    },
+    {
+      "bookmarkId": "3300082688_5_949-987",
+      "chapterUid": 5,
+      "range": "949-987",
+      "markText": "这份冷淡让拉蒙感受到平静与安慰。渐渐地，在他脸上露出长时间几乎是幸福的微笑。",
+      "totalCount": 440,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=5&rangeStart=949&rangeEnd=987",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=5&rangeStart=949&rangeEnd=987"
+    },
+    {
+      "bookmarkId": "3300082688_10_1742-1789",
+      "chapterUid": 10,
+      "range": "1742-1789",
+      "markText": "那喀索斯高估别人，因为他在每个人眼睛里观察自己的形象，要美化它。于是他对待所有的镜子都很贴心。",
+      "totalCount": 435,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=10&rangeStart=1742&rangeEnd=1789",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=10&rangeStart=1742&rangeEnd=1789"
+    },
+    {
+      "bookmarkId": "3300082688_27_715-776",
+      "chapterUid": 27,
+      "range": "715-776",
+      "markText": "因为亏了她他才明白，即使是真正相爱的两个人，如果生日相差太远，他们的对话也只是两段独白的交叉，总有一大部分不能为对方明白。",
+      "totalCount": 414,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=27&rangeStart=715&rangeEnd=776",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=27&rangeStart=715&rangeEnd=776"
+    },
+    {
+      "bookmarkId": "3300082688_20_1335-1402",
+      "chapterUid": 20,
+      "range": "1335-1402",
+      "markText": "谁道歉谁就是在宣称自己有错。你若宣称自己有错，你就是在鼓励另一人继续侮辱你、揭发你，公开地，直至你去死。这是第一声道歉命中注定的后果。",
+      "totalCount": 408,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=20&rangeStart=1335&rangeEnd=1402",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=20&rangeStart=1335&rangeEnd=1402"
+    },
+    {
+      "bookmarkId": "3300082688_12_1174-1229",
+      "chapterUid": 12,
+      "range": "1174-1229",
+      "markText": "“大家在生活中遇见了，闲聊、讨论、争吵，没有意识到大家都是在不同时代不同地点建立的一座座天文馆上远距离交谈。”",
+      "totalCount": 396,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=12&rangeStart=1174&rangeEnd=1229",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=12&rangeStart=1174&rangeEnd=1229"
+    },
+    {
+      "bookmarkId": "3300082688_4_518-532",
+      "chapterUid": 4,
+      "range": "518-532",
+      "markText": "这是六月，早晨的太阳露出云端",
+      "totalCount": 345,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=4&rangeStart=518&rangeEnd=532",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=4&rangeStart=518&rangeEnd=532"
+    },
+    {
+      "bookmarkId": "3300082688_10_997-1044",
+      "chapterUid": 10,
+      "range": "997-1044",
+      "markText": "“别笑。说话而又不引人注目，不容易！一直在人前讲话，而又不被人听在耳朵里，这需要精湛的技艺！”",
+      "totalCount": 342,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=10&rangeStart=997&rangeEnd=1044",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=10&rangeStart=997&rangeEnd=1044"
+    },
+    {
+      "bookmarkId": "3300082688_6_951-975",
+      "chapterUid": 6,
+      "range": "951-975",
+      "markText": "他控制不了自己，举手向她们致敬两三回，放声大笑。",
+      "totalCount": 340,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=6&rangeStart=951&rangeEnd=975",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=6&rangeStart=951&rangeEnd=975"
+    },
+    {
+      "bookmarkId": "3300082688_8_484-506",
+      "chapterUid": 8,
+      "range": "484-506",
+      "markText": "但是我不能回避一个问题：达德洛为什么要撒谎？",
+      "totalCount": 325,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=8&rangeStart=484&rangeEnd=506",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=8&rangeStart=484&rangeEnd=506"
+    },
+    {
+      "bookmarkId": "3300082688_12_1347-1437",
+      "chapterUid": 12,
+      "range": "1347-1437",
+      "markText": "死的人变成死了很久的死人，没有人再记得他们，他们消失在虚无中；只有几个人，极少数极少数几个人，还让他们的名字留在记忆中，但是由于失去了真正的见证人、真实的回忆，他们也变成了木偶……",
+      "totalCount": 320,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=12&rangeStart=1347&rangeEnd=1437",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=12&rangeStart=1347&rangeEnd=1437"
+    },
+    {
+      "bookmarkId": "3300082688_48_2221-2252",
+      "chapterUid": 48,
+      "range": "2221-2252",
+      "markText": "马车启动，顺着卢森堡公园的一条大道，朝着巴黎的马路慢慢驶远去。",
+      "totalCount": 304,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=48&rangeStart=2221&rangeEnd=2252",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=48&rangeStart=2221&rangeEnd=2252"
+    },
+    {
+      "bookmarkId": "3300082688_4_554-582",
+      "chapterUid": 4,
+      "range": "554-582",
+      "markText": "她们个个都在超低腰长裤与超短身T恤之间露出赤裸裸的肚脐。",
+      "totalCount": 289,
+      "appLink": "weread://bestbookmark?bookId=3300082688&chapterUid=4&rangeStart=554&rangeEnd=582",
+      "webLink": "https://weread.qq.com/web/reader/dbe32a40813ab86ccg018ae7?chapterUid=4&rangeStart=554&rangeEnd=582"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

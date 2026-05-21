@@ -1,0 +1,3907 @@
+{
+  "meta": {
+    "bookId": "44487364",
+    "title": "晋书（中华古籍国学宝典文库）",
+    "author": "尹小林校注",
+    "translator": "",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/364/44487364/t6_44487364.jpg",
+    "intro": "《晋书》一百三十卷，包括帝纪十卷，志二十卷，列传七十卷，载记三十卷，记载了从司马懿开始到晋恭帝元熙二年为止，包括西晋和东晋的历史，并用“载记”的形式兼述了十六国割据政权的兴亡。",
+    "category": "历史-历史典籍",
+    "publisher": "北京大吕文化传播有限公司",
+    "publishTime": "2022-07-01 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 910,
+    "newRatingCount": 68,
+    "newRatingDetail": {
+      "good": 64,
+      "fair": 3,
+      "poor": 1,
+      "recent": 1,
+      "deepV": 14,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=44487364",
+    "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400",
+    "lastSync": "2026-05-21T11:51:35Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 3,
+    "bookmarkCount": 0,
+    "contentHash": "9b7731caf5536b3b0e94c34f9a4f64dd5928fd59fdfe5d2aed67218926445965"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 6,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=1"
+    },
+    {
+      "chapterUid": 217,
+      "chapterIdx": 2,
+      "title": "题解",
+      "level": 1,
+      "wordCount": 628,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=217",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=217"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 3,
+      "title": "卷一·帝纪第一",
+      "level": 1,
+      "wordCount": 9833,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "宣帝",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 4,
+      "title": "卷二·帝纪第二",
+      "level": 1,
+      "wordCount": 9688,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "景帝 文帝",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=3"
+    },
+    {
+      "chapterUid": 218,
+      "chapterIdx": 5,
+      "title": "卷三·帝纪第三",
+      "level": 1,
+      "wordCount": 13451,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "武帝",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=218",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=218"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 6,
+      "title": "卷四·帝纪第四",
+      "level": 1,
+      "wordCount": 7972,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "惠帝",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 7,
+      "title": "卷五·帝纪第五",
+      "level": 1,
+      "wordCount": 10010,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "孝怀帝 孝愍帝",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 8,
+      "title": "卷六·帝纪第六",
+      "level": 1,
+      "wordCount": 10897,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "元帝 明帝",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 9,
+      "title": "卷七·帝纪第七",
+      "level": 1,
+      "wordCount": 6989,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "成帝 康帝",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 10,
+      "title": "卷八·帝纪第八",
+      "level": 1,
+      "wordCount": 9005,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "穆帝 哀帝 海西公",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 11,
+      "title": "卷九·帝纪第九",
+      "level": 1,
+      "wordCount": 9042,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "简文帝 孝武帝",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 12,
+      "title": "卷十·帝纪第十",
+      "level": 1,
+      "wordCount": 8079,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "安帝 恭帝",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 13,
+      "title": "卷十一·志第一",
+      "level": 1,
+      "wordCount": 16849,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "天文上",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=12"
+    },
+    {
+      "chapterUid": 219,
+      "chapterIdx": 14,
+      "title": "卷十二·志第二",
+      "level": 1,
+      "wordCount": 18343,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "天文中",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=219",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=219"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 15,
+      "title": "卷十三·志第三",
+      "level": 1,
+      "wordCount": 21650,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "天文下",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=14"
+    },
+    {
+      "chapterUid": 220,
+      "chapterIdx": 16,
+      "title": "卷十四·志第四",
+      "level": 1,
+      "wordCount": 16995,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "地理上",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=220",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=220"
+    },
+    {
+      "chapterUid": 221,
+      "chapterIdx": 17,
+      "title": "卷十五·志第五",
+      "level": 1,
+      "wordCount": 8064,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "地理下",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=221",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=221"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 18,
+      "title": "卷十六·志第六",
+      "level": 1,
+      "wordCount": 7180,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "律历上",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 19,
+      "title": "五音十二律",
+      "level": 2,
+      "wordCount": 1880,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 20,
+      "title": "审度",
+      "level": 2,
+      "wordCount": 776,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 21,
+      "title": "嘉量",
+      "level": 2,
+      "wordCount": 479,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 22,
+      "title": "衡权",
+      "level": 2,
+      "wordCount": 175,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 23,
+      "title": "卷十七·志第七",
+      "level": 1,
+      "wordCount": 3468,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "律历中",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 24,
+      "title": "乾象历",
+      "level": 2,
+      "wordCount": 233,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 25,
+      "title": "推入纪",
+      "level": 2,
+      "wordCount": 57,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 26,
+      "title": "推朔",
+      "level": 2,
+      "wordCount": 147,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 27,
+      "title": "推冬至",
+      "level": 2,
+      "wordCount": 52,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 28,
+      "title": "求二十四气",
+      "level": 2,
+      "wordCount": 42,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 29,
+      "title": "推闰月",
+      "level": 2,
+      "wordCount": 44,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 30,
+      "title": "推弦望",
+      "level": 2,
+      "wordCount": 104,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 31,
+      "title": "推没",
+      "level": 2,
+      "wordCount": 96,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 32,
+      "title": "推日度",
+      "level": 2,
+      "wordCount": 83,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 33,
+      "title": "推月度",
+      "level": 2,
+      "wordCount": 100,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 34,
+      "title": "推合朔度",
+      "level": 2,
+      "wordCount": 280,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 35,
+      "title": "推月蚀",
+      "level": 2,
+      "wordCount": 121,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 36,
+      "title": "推卦用事日",
+      "level": 2,
+      "wordCount": 75,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 37,
+      "title": "推五行用事",
+      "level": 2,
+      "wordCount": 101,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 38,
+      "title": "推加时",
+      "level": 2,
+      "wordCount": 36,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 39,
+      "title": "推漏刻",
+      "level": 2,
+      "wordCount": 102,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 40,
+      "title": "月行三道术",
+      "level": 2,
+      "wordCount": 905,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 41,
+      "title": "推合朔入历",
+      "level": 2,
+      "wordCount": 149,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 42,
+      "title": "求弦望定大小余",
+      "level": 2,
+      "wordCount": 105,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 43,
+      "title": "求朔弦望加时定度",
+      "level": 2,
+      "wordCount": 66,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 44,
+      "title": "推月行夜半入历",
+      "level": 2,
+      "wordCount": 113,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 45,
+      "title": "求月夜半定度",
+      "level": 2,
+      "wordCount": 105,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 46,
+      "title": "求变衰法",
+      "level": 2,
+      "wordCount": 34,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 47,
+      "title": "求次历",
+      "level": 2,
+      "wordCount": 41,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 48,
+      "title": "求次日夜半定度",
+      "level": 2,
+      "wordCount": 106,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 49,
+      "title": "求次日夜半盈缩",
+      "level": 2,
+      "wordCount": 53,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 50,
+      "title": "求昏明月度",
+      "level": 2,
+      "wordCount": 75,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 51,
+      "title": "求月行迟疾",
+      "level": 2,
+      "wordCount": 409,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 52,
+      "title": "推朔入阴阳历",
+      "level": 2,
+      "wordCount": 94,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 53,
+      "title": "求次月",
+      "level": 2,
+      "wordCount": 69,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 54,
+      "title": "求朔望定数",
+      "level": 2,
+      "wordCount": 75,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 55,
+      "title": "推夜半入历",
+      "level": 2,
+      "wordCount": 153,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 56,
+      "title": "求夜半定日",
+      "level": 2,
+      "wordCount": 84,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 57,
+      "title": "求昏明数",
+      "level": 2,
+      "wordCount": 45,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=56"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 58,
+      "title": "求月去极度",
+      "level": 2,
+      "wordCount": 180,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 59,
+      "title": "推五星",
+      "level": 2,
+      "wordCount": 1148,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=58"
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 60,
+      "title": "推五星",
+      "level": 2,
+      "wordCount": 86,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=59"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 61,
+      "title": "推星合月",
+      "level": 2,
+      "wordCount": 91,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 62,
+      "title": "推入月日",
+      "level": 2,
+      "wordCount": 56,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 63,
+      "title": "推星合度",
+      "level": 2,
+      "wordCount": 38,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 64,
+      "title": "求后合月",
+      "level": 2,
+      "wordCount": 72,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 65,
+      "title": "求后合朔日",
+      "level": 2,
+      "wordCount": 53,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 66,
+      "title": "求后入月日术",
+      "level": 2,
+      "wordCount": 86,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 67,
+      "title": "求后度",
+      "level": 2,
+      "wordCount": 395,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 68,
+      "title": "五星历步术",
+      "level": 2,
+      "wordCount": 1677,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 69,
+      "title": "卷十八·志第八",
+      "level": 1,
+      "wordCount": 5778,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "律历下",
+          "anchor": "sigil_toc_id_67",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 70,
+      "title": "推五星术",
+      "level": 2,
+      "wordCount": 3406,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 71,
+      "title": "五星历步术",
+      "level": 2,
+      "wordCount": 3243,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 72,
+      "title": "卷十九·志第九",
+      "level": 1,
+      "wordCount": 16271,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "礼上",
+          "anchor": "sigil_toc_id_70",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 73,
+      "title": "卷二十·志第十",
+      "level": 1,
+      "wordCount": 17437,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "礼中",
+          "anchor": "sigil_toc_id_71",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 74,
+      "title": "卷二十一·志第十一",
+      "level": 1,
+      "wordCount": 11664,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "礼下",
+          "anchor": "sigil_toc_id_72",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 75,
+      "title": "卷二十二·志第十二",
+      "level": 1,
+      "wordCount": 4660,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "乐上",
+          "anchor": "sigil_toc_id_73",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=74"
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 76,
+      "title": "四厢乐歌",
+      "level": 2,
+      "wordCount": 3591,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=75",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=75"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 77,
+      "title": "卷二十三·志第十三",
+      "level": 1,
+      "wordCount": 5886,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "乐下",
+          "anchor": "sigil_toc_id_75",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 78,
+      "title": "鼙舞歌诗五篇",
+      "level": 2,
+      "wordCount": 1659,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 79,
+      "title": "拂舞歌诗五篇",
+      "level": 2,
+      "wordCount": 2789,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 80,
+      "title": "卷二十四·志第十四",
+      "level": 1,
+      "wordCount": 12011,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "职官",
+          "anchor": "sigil_toc_id_78",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=79"
+    },
+    {
+      "chapterUid": 222,
+      "chapterIdx": 81,
+      "title": "卷二十五·志第十五",
+      "level": 1,
+      "wordCount": 12337,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "舆服",
+          "anchor": "sigil_toc_id_79",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=222",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=222"
+    },
+    {
+      "chapterUid": 81,
+      "chapterIdx": 82,
+      "title": "卷二十六·志第十六",
+      "level": 1,
+      "wordCount": 9858,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "食货",
+          "anchor": "sigil_toc_id_80",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=81",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=81"
+    },
+    {
+      "chapterUid": 82,
+      "chapterIdx": 83,
+      "title": "卷二十七·志第十七",
+      "level": 1,
+      "wordCount": 10924,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "五行上",
+          "anchor": "sigil_toc_id_81",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=82",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=82"
+    },
+    {
+      "chapterUid": 83,
+      "chapterIdx": 84,
+      "title": "服妖",
+      "level": 2,
+      "wordCount": 2460,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=83",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=83"
+    },
+    {
+      "chapterUid": 84,
+      "chapterIdx": 85,
+      "title": "鸡祸",
+      "level": 2,
+      "wordCount": 535,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=84",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=84"
+    },
+    {
+      "chapterUid": 85,
+      "chapterIdx": 86,
+      "title": "青祥",
+      "level": 2,
+      "wordCount": 164,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=85",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=85"
+    },
+    {
+      "chapterUid": 86,
+      "chapterIdx": 87,
+      "title": "金沴木",
+      "level": 2,
+      "wordCount": 345,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=86",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=86"
+    },
+    {
+      "chapterUid": 87,
+      "chapterIdx": 88,
+      "title": "卷二十八·志第十八",
+      "level": 1,
+      "wordCount": 4398,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "五行中",
+          "anchor": "sigil_toc_id_86",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=87",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=87"
+    },
+    {
+      "chapterUid": 88,
+      "chapterIdx": 89,
+      "title": "诗妖",
+      "level": 2,
+      "wordCount": 4240,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=88",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=88"
+    },
+    {
+      "chapterUid": 89,
+      "chapterIdx": 90,
+      "title": "犬祸",
+      "level": 2,
+      "wordCount": 1892,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=89",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=89"
+    },
+    {
+      "chapterUid": 90,
+      "chapterIdx": 91,
+      "title": "木沴金",
+      "level": 2,
+      "wordCount": 1025,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=90",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=90"
+    },
+    {
+      "chapterUid": 91,
+      "chapterIdx": 92,
+      "title": "草妖",
+      "level": 2,
+      "wordCount": 1647,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=91",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=91"
+    },
+    {
+      "chapterUid": 92,
+      "chapterIdx": 93,
+      "title": "羽虫之孽",
+      "level": 2,
+      "wordCount": 1786,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=92",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=92"
+    },
+    {
+      "chapterUid": 93,
+      "chapterIdx": 94,
+      "title": "羊祸",
+      "level": 2,
+      "wordCount": 75,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=93",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=93"
+    },
+    {
+      "chapterUid": 94,
+      "chapterIdx": 95,
+      "title": "赤眚赤祥",
+      "level": 2,
+      "wordCount": 901,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=94",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=94"
+    },
+    {
+      "chapterUid": 95,
+      "chapterIdx": 96,
+      "title": "卷二十九·志第十九",
+      "level": 1,
+      "wordCount": 2797,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "五行下",
+          "anchor": "sigil_toc_id_94",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=95",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=95"
+    },
+    {
+      "chapterUid": 96,
+      "chapterIdx": 97,
+      "title": "雷震",
+      "level": 2,
+      "wordCount": 809,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=96",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=96"
+    },
+    {
+      "chapterUid": 97,
+      "chapterIdx": 98,
+      "title": "鼓妖",
+      "level": 2,
+      "wordCount": 313,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=97",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=97"
+    },
+    {
+      "chapterUid": 98,
+      "chapterIdx": 99,
+      "title": "鱼孽",
+      "level": 2,
+      "wordCount": 243,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=98",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=98"
+    },
+    {
+      "chapterUid": 99,
+      "chapterIdx": 100,
+      "title": "蝗虫",
+      "level": 2,
+      "wordCount": 534,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=99",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=99"
+    },
+    {
+      "chapterUid": 100,
+      "chapterIdx": 101,
+      "title": "豕祸",
+      "level": 2,
+      "wordCount": 439,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=100",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=100"
+    },
+    {
+      "chapterUid": 101,
+      "chapterIdx": 102,
+      "title": "黑眚黑祥",
+      "level": 2,
+      "wordCount": 114,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=101",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=101"
+    },
+    {
+      "chapterUid": 102,
+      "chapterIdx": 103,
+      "title": "火沴水",
+      "level": 2,
+      "wordCount": 770,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=102",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=102"
+    },
+    {
+      "chapterUid": 103,
+      "chapterIdx": 104,
+      "title": "庶征恒风",
+      "level": 2,
+      "wordCount": 1807,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=103",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=103"
+    },
+    {
+      "chapterUid": 104,
+      "chapterIdx": 105,
+      "title": "夜妖",
+      "level": 2,
+      "wordCount": 252,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=104",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=104"
+    },
+    {
+      "chapterUid": 105,
+      "chapterIdx": 106,
+      "title": "臝虫之孽",
+      "level": 2,
+      "wordCount": 296,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=105",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=105"
+    },
+    {
+      "chapterUid": 106,
+      "chapterIdx": 107,
+      "title": "牛祸",
+      "level": 2,
+      "wordCount": 701,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=106",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=106"
+    },
+    {
+      "chapterUid": 107,
+      "chapterIdx": 108,
+      "title": "黄眚黄祥",
+      "level": 2,
+      "wordCount": 586,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=107",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=107"
+    },
+    {
+      "chapterUid": 108,
+      "chapterIdx": 109,
+      "title": "地震",
+      "level": 2,
+      "wordCount": 2168,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=108",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=108"
+    },
+    {
+      "chapterUid": 109,
+      "chapterIdx": 110,
+      "title": "山崩地陷裂",
+      "level": 2,
+      "wordCount": 1597,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=109",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=109"
+    },
+    {
+      "chapterUid": 110,
+      "chapterIdx": 111,
+      "title": "恒阴",
+      "level": 2,
+      "wordCount": 141,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=110",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=110"
+    },
+    {
+      "chapterUid": 111,
+      "chapterIdx": 112,
+      "title": "射妖",
+      "level": 2,
+      "wordCount": 182,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=111",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=111"
+    },
+    {
+      "chapterUid": 112,
+      "chapterIdx": 113,
+      "title": "龙蛇之孽",
+      "level": 2,
+      "wordCount": 1087,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=112",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=112"
+    },
+    {
+      "chapterUid": 113,
+      "chapterIdx": 114,
+      "title": "马祸",
+      "level": 2,
+      "wordCount": 646,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=113",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=113"
+    },
+    {
+      "chapterUid": 114,
+      "chapterIdx": 115,
+      "title": "人痾",
+      "level": 2,
+      "wordCount": 2032,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=114",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=114"
+    },
+    {
+      "chapterUid": 115,
+      "chapterIdx": 116,
+      "title": "卷三十·志第二十",
+      "level": 1,
+      "wordCount": 14877,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刑法",
+          "anchor": "sigil_toc_id_114",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=115",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=115"
+    },
+    {
+      "chapterUid": 116,
+      "chapterIdx": 117,
+      "title": "卷三十一·列传第一",
+      "level": 1,
+      "wordCount": 10647,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "后妃上",
+          "anchor": "sigil_toc_id_115",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=116",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=116"
+    },
+    {
+      "chapterUid": 117,
+      "chapterIdx": 118,
+      "title": "卷三十二·列传第二",
+      "level": 1,
+      "wordCount": 6341,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "后妃下",
+          "anchor": "sigil_toc_id_116",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=117",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=117"
+    },
+    {
+      "chapterUid": 118,
+      "chapterIdx": 119,
+      "title": "卷三十三·列传第三",
+      "level": 1,
+      "wordCount": 11809,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王祥等１０人",
+          "anchor": "sigil_toc_id_117",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=118",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=118"
+    },
+    {
+      "chapterUid": 119,
+      "chapterIdx": 120,
+      "title": "卷三十四·列传第四",
+      "level": 1,
+      "wordCount": 11216,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "羊祜 杜预（子锡）",
+          "anchor": "sigil_toc_id_118",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=119",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=119"
+    },
+    {
+      "chapterUid": 120,
+      "chapterIdx": 121,
+      "title": "卷三十五·列传第五",
+      "level": 1,
+      "wordCount": 9286,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "陈骞等６人",
+          "anchor": "sigil_toc_id_119",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=120",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=120"
+    },
+    {
+      "chapterUid": 121,
+      "chapterIdx": 122,
+      "title": "卷三十六·列传第六",
+      "level": 1,
+      "wordCount": 12822,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "卫瓘等８人",
+          "anchor": "sigil_toc_id_120",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=121",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=121"
+    },
+    {
+      "chapterUid": 122,
+      "chapterIdx": 123,
+      "title": "卷三十七·列传第七",
+      "level": 1,
+      "wordCount": 16548,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "宗室",
+          "anchor": "sigil_toc_id_121",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=122",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=122"
+    },
+    {
+      "chapterUid": 123,
+      "chapterIdx": 124,
+      "title": "卷三十八·列传第八",
+      "level": 1,
+      "wordCount": 9497,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "宣五王等",
+          "anchor": "sigil_toc_id_122",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=123",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=123"
+    },
+    {
+      "chapterUid": 223,
+      "chapterIdx": 125,
+      "title": "卷三十九·列传第九",
+      "level": 1,
+      "wordCount": 10540,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王沈等１０人",
+          "anchor": "sigil_toc_id_123",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=223",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=223"
+    },
+    {
+      "chapterUid": 224,
+      "chapterIdx": 126,
+      "title": "卷四十·列传第十",
+      "level": 1,
+      "wordCount": 9015,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "贾充等８人",
+          "anchor": "sigil_toc_id_124",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=224",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=224"
+    },
+    {
+      "chapterUid": 126,
+      "chapterIdx": 127,
+      "title": "卷四十一·列传第十一",
+      "level": 1,
+      "wordCount": 7215,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "魏舒 李憙 刘寔 高光",
+          "anchor": "sigil_toc_id_125",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=126",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=126"
+    },
+    {
+      "chapterUid": 225,
+      "chapterIdx": 128,
+      "title": "卷四十二·列传第十二",
+      "level": 1,
+      "wordCount": 10099,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王浑（子济） 王濬 唐彬",
+          "anchor": "sigil_toc_id_126",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=225",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=225"
+    },
+    {
+      "chapterUid": 128,
+      "chapterIdx": 129,
+      "title": "卷四十三·列传第十三",
+      "level": 1,
+      "wordCount": 12277,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "山涛等８人",
+          "anchor": "sigil_toc_id_127",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=128",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=128"
+    },
+    {
+      "chapterUid": 129,
+      "chapterIdx": 130,
+      "title": "卷四十四·列传第十四",
+      "level": 1,
+      "wordCount": 9589,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "郑袤等１４人",
+          "anchor": "sigil_toc_id_128",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=129",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=129"
+    },
+    {
+      "chapterUid": 130,
+      "chapterIdx": 131,
+      "title": "卷四十五·列传第十五",
+      "level": 1,
+      "wordCount": 10345,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘毅等１０人",
+          "anchor": "sigil_toc_id_129",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=130",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=130"
+    },
+    {
+      "chapterUid": 131,
+      "chapterIdx": 132,
+      "title": "卷四十六·列传第十六",
+      "level": 1,
+      "wordCount": 11159,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘颂 李重",
+          "anchor": "sigil_toc_id_130",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=131",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=131"
+    },
+    {
+      "chapterUid": 132,
+      "chapterIdx": 133,
+      "title": "卷四十七·列传第十七",
+      "level": 1,
+      "wordCount": 8940,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "傅玄等３人",
+          "anchor": "sigil_toc_id_131",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=132",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=132"
+    },
+    {
+      "chapterUid": 133,
+      "chapterIdx": 134,
+      "title": "卷四十八·列传第十八",
+      "level": 1,
+      "wordCount": 11477,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "向雄 段灼 阎缵",
+          "anchor": "sigil_toc_id_132",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=133",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=133"
+    },
+    {
+      "chapterUid": 134,
+      "chapterIdx": 135,
+      "title": "卷四十九·列传第十九",
+      "level": 1,
+      "wordCount": 13303,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "阮籍等１７人",
+          "anchor": "sigil_toc_id_133",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=134",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=134"
+    },
+    {
+      "chapterUid": 226,
+      "chapterIdx": 136,
+      "title": "卷五十·列传第二十",
+      "level": 1,
+      "wordCount": 9041,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "曹志等８人",
+          "anchor": "sigil_toc_id_134",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=226",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=226"
+    },
+    {
+      "chapterUid": 136,
+      "chapterIdx": 137,
+      "title": "卷五十一·列传第二十一",
+      "level": 1,
+      "wordCount": 14235,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "皇甫谧等５人",
+          "anchor": "sigil_toc_id_135",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=136",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=136"
+    },
+    {
+      "chapterUid": 137,
+      "chapterIdx": 138,
+      "title": "卷五十二·列传第二十二",
+      "level": 1,
+      "wordCount": 8706,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "郤诜 阮种 华谭 袁甫",
+          "anchor": "sigil_toc_id_136",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=137",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=137"
+    },
+    {
+      "chapterUid": 138,
+      "chapterIdx": 139,
+      "title": "卷五十三·列传第二十三",
+      "level": 1,
+      "wordCount": 4150,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "愍怀太子等",
+          "anchor": "sigil_toc_id_137",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=138",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=138"
+    },
+    {
+      "chapterUid": 139,
+      "chapterIdx": 140,
+      "title": "卷五十四·列传第二十四",
+      "level": 1,
+      "wordCount": 11248,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "陆机等５人",
+          "anchor": "sigil_toc_id_138",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=139",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=139"
+    },
+    {
+      "chapterUid": 140,
+      "chapterIdx": 141,
+      "title": "卷五十五·列传第二十五",
+      "level": 1,
+      "wordCount": 17777,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "夏侯湛等８人",
+          "anchor": "sigil_toc_id_139",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=140",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=140"
+    },
+    {
+      "chapterUid": 141,
+      "chapterIdx": 142,
+      "title": "卷五十六·列传第二十六",
+      "level": 1,
+      "wordCount": 9738,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "江统等６人",
+          "anchor": "sigil_toc_id_140",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=141",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=141"
+    },
+    {
+      "chapterUid": 142,
+      "chapterIdx": 143,
+      "title": "卷五十七·列传第二十七",
+      "level": 1,
+      "wordCount": 8100,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "罗宪等９人",
+          "anchor": "sigil_toc_id_141",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=142",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=142"
+    },
+    {
+      "chapterUid": 143,
+      "chapterIdx": 144,
+      "title": "卷五十八·列传第二十八",
+      "level": 1,
+      "wordCount": 9470,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "周处等１２人",
+          "anchor": "sigil_toc_id_142",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=143",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=143"
+    },
+    {
+      "chapterUid": 144,
+      "chapterIdx": 145,
+      "title": "卷五十九·列传第二十九",
+      "level": 1,
+      "wordCount": 20455,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "汝南王亮等",
+          "anchor": "sigil_toc_id_143",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=144",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=144"
+    },
+    {
+      "chapterUid": 145,
+      "chapterIdx": 146,
+      "title": "卷六十·列传第三十",
+      "level": 1,
+      "wordCount": 10753,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "解系等",
+          "anchor": "sigil_toc_id_144",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=145",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=145"
+    },
+    {
+      "chapterUid": 146,
+      "chapterIdx": 147,
+      "title": "卷六十一·列传第三十一",
+      "level": 1,
+      "wordCount": 10250,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "周浚等１０人",
+          "anchor": "sigil_toc_id_145",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=146",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=146"
+    },
+    {
+      "chapterUid": 147,
+      "chapterIdx": 148,
+      "title": "卷六十二·列传第三十二",
+      "level": 1,
+      "wordCount": 11210,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘琨等６人",
+          "anchor": "sigil_toc_id_146",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=147",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=147"
+    },
+    {
+      "chapterUid": 148,
+      "chapterIdx": 149,
+      "title": "卷六十三·列传第三十三",
+      "level": 1,
+      "wordCount": 7379,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "邵续等６人",
+          "anchor": "sigil_toc_id_147",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=148",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=148"
+    },
+    {
+      "chapterUid": 149,
+      "chapterIdx": 150,
+      "title": "卷六十四·列传第三十四",
+      "level": 1,
+      "wordCount": 11147,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "武十三王 元四王 简文三子",
+          "anchor": "sigil_toc_id_148",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=149",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=149"
+    },
+    {
+      "chapterUid": 150,
+      "chapterIdx": 151,
+      "title": "卷六十五·列传第三十五",
+      "level": 1,
+      "wordCount": 8150,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王导等１０人",
+          "anchor": "sigil_toc_id_149",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=150",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=150"
+    },
+    {
+      "chapterUid": 151,
+      "chapterIdx": 152,
+      "title": "卷六十六·列传第三十六",
+      "level": 1,
+      "wordCount": 10505,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘弘等１１人",
+          "anchor": "sigil_toc_id_150",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=151",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=151"
+    },
+    {
+      "chapterUid": 152,
+      "chapterIdx": 153,
+      "title": "卷六十七·列传第三十七",
+      "level": 1,
+      "wordCount": 12542,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "温峤等７人",
+          "anchor": "sigil_toc_id_151",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=152",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=152"
+    },
+    {
+      "chapterUid": 153,
+      "chapterIdx": 154,
+      "title": "卷六十八·列传第三十八",
+      "level": 1,
+      "wordCount": 11718,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "顾荣等５人",
+          "anchor": "sigil_toc_id_152",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=153",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=153"
+    },
+    {
+      "chapterUid": 154,
+      "chapterIdx": 155,
+      "title": "卷六十九·列传第三十九",
+      "level": 1,
+      "wordCount": 9874,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘隗等８人",
+          "anchor": "sigil_toc_id_153",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=154",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=154"
+    },
+    {
+      "chapterUid": 155,
+      "chapterIdx": 156,
+      "title": "卷七十·列传第四十",
+      "level": 1,
+      "wordCount": 11647,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "应詹等７人",
+          "anchor": "sigil_toc_id_154",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=155",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=155"
+    },
+    {
+      "chapterUid": 156,
+      "chapterIdx": 157,
+      "title": "卷七十一·列传第四十一",
+      "level": 1,
+      "wordCount": 7871,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "孙惠等５人",
+          "anchor": "sigil_toc_id_155",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=156",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=156"
+    },
+    {
+      "chapterUid": 157,
+      "chapterIdx": 158,
+      "title": "卷七十二·列传第四十二",
+      "level": 1,
+      "wordCount": 7972,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "郭璞 葛洪",
+          "anchor": "sigil_toc_id_156",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=157",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=157"
+    },
+    {
+      "chapterUid": 158,
+      "chapterIdx": 159,
+      "title": "卷七十三·列传第四十三",
+      "level": 1,
+      "wordCount": 10931,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "庾亮等８人",
+          "anchor": "sigil_toc_id_157",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=158",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=158"
+    },
+    {
+      "chapterUid": 159,
+      "chapterIdx": 160,
+      "title": "卷七十四·列传第四十四",
+      "level": 1,
+      "wordCount": 8726,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "桓彝等１７人",
+          "anchor": "sigil_toc_id_158",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=159",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=159"
+    },
+    {
+      "chapterUid": 160,
+      "chapterIdx": 161,
+      "title": "卷七十五·列传第四十五",
+      "level": 1,
+      "wordCount": 18386,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王湛等２１人",
+          "anchor": "sigil_toc_id_159",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=160",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=160"
+    },
+    {
+      "chapterUid": 161,
+      "chapterIdx": 162,
+      "title": "卷七十六·列传第四十六",
+      "level": 1,
+      "wordCount": 10347,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王舒等１０人",
+          "anchor": "sigil_toc_id_160",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=161",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=161"
+    },
+    {
+      "chapterUid": 162,
+      "chapterIdx": 163,
+      "title": "卷七十七·列传第四十七",
+      "level": 1,
+      "wordCount": 13621,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "陆晔等１０人",
+          "anchor": "sigil_toc_id_161",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=162",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=162"
+    },
+    {
+      "chapterUid": 163,
+      "chapterIdx": 164,
+      "title": "卷七十八·列传第四十八",
+      "level": 1,
+      "wordCount": 8019,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "孔愉等１１人",
+          "anchor": "sigil_toc_id_162",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=163",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=163"
+    },
+    {
+      "chapterUid": 164,
+      "chapterIdx": 165,
+      "title": "卷七十九·列传第四十九",
+      "level": 1,
+      "wordCount": 11208,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "谢尚等１０人",
+          "anchor": "sigil_toc_id_163",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=164",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=164"
+    },
+    {
+      "chapterUid": 165,
+      "chapterIdx": 166,
+      "title": "卷八十·列传第五十",
+      "level": 1,
+      "wordCount": 7560,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王羲之等９人",
+          "anchor": "sigil_toc_id_164",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=165",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=165"
+    },
+    {
+      "chapterUid": 166,
+      "chapterIdx": 167,
+      "title": "卷八十一·列传第五十一",
+      "level": 1,
+      "wordCount": 12742,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王逊等",
+          "anchor": "sigil_toc_id_165",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=166",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=166"
+    },
+    {
+      "chapterUid": 227,
+      "chapterIdx": 168,
+      "title": "卷八十二·列传第五十二",
+      "level": 1,
+      "wordCount": 11204,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "陈寿等１１人",
+          "anchor": "sigil_toc_id_166",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=227",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=227"
+    },
+    {
+      "chapterUid": 168,
+      "chapterIdx": 169,
+      "title": "卷八十三·列传第五十三",
+      "level": 1,
+      "wordCount": 8680,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "顾和等１６人",
+          "anchor": "sigil_toc_id_167",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=168",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=168"
+    },
+    {
+      "chapterUid": 169,
+      "chapterIdx": 170,
+      "title": "卷八十四·列传第五十四",
+      "level": 1,
+      "wordCount": 10021,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王恭等６人",
+          "anchor": "sigil_toc_id_168",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=169",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=169"
+    },
+    {
+      "chapterUid": 170,
+      "chapterIdx": 171,
+      "title": "卷八十五·列传第五十五",
+      "level": 1,
+      "wordCount": 7329,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘毅等６人",
+          "anchor": "sigil_toc_id_169",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=170",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=170"
+    },
+    {
+      "chapterUid": 171,
+      "chapterIdx": 172,
+      "title": "卷八十六·列传第五十六",
+      "level": 1,
+      "wordCount": 17427,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "张轨等９人",
+          "anchor": "sigil_toc_id_170",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=171",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=171"
+    },
+    {
+      "chapterUid": 172,
+      "chapterIdx": 173,
+      "title": "卷八十七·列传第五十七",
+      "level": 1,
+      "wordCount": 7728,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "凉武昭王等３人",
+          "anchor": "sigil_toc_id_171",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=172",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=172"
+    },
+    {
+      "chapterUid": 173,
+      "chapterIdx": 174,
+      "title": "卷八十八·列传第五十八",
+      "level": 1,
+      "wordCount": 10642,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "孝友",
+          "anchor": "sigil_toc_id_172",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=173",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=173"
+    },
+    {
+      "chapterUid": 174,
+      "chapterIdx": 175,
+      "title": "卷八十九·列传第五十九",
+      "level": 1,
+      "wordCount": 12630,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "忠义",
+          "anchor": "sigil_toc_id_173",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=174",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=174"
+    },
+    {
+      "chapterUid": 175,
+      "chapterIdx": 176,
+      "title": "卷九十·列传第六十",
+      "level": 1,
+      "wordCount": 8114,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "良吏",
+          "anchor": "sigil_toc_id_174",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=175",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=175"
+    },
+    {
+      "chapterUid": 176,
+      "chapterIdx": 177,
+      "title": "卷九十一·列传第六十一",
+      "level": 1,
+      "wordCount": 10291,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "儒林",
+          "anchor": "sigil_toc_id_175",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=176",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=176"
+    },
+    {
+      "chapterUid": 177,
+      "chapterIdx": 178,
+      "title": "卷九十二·列传第六十二",
+      "level": 1,
+      "wordCount": 18329,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "文苑",
+          "anchor": "sigil_toc_id_176",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=177",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=177"
+    },
+    {
+      "chapterUid": 228,
+      "chapterIdx": 179,
+      "title": "卷九十三·列传第六十三",
+      "level": 1,
+      "wordCount": 6028,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "外戚",
+          "anchor": "sigil_toc_id_177",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=228",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=228"
+    },
+    {
+      "chapterUid": 179,
+      "chapterIdx": 180,
+      "title": "卷九十四·列传第六十四",
+      "level": 1,
+      "wordCount": 17553,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "隐逸",
+          "anchor": "sigil_toc_id_178",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=179",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=179"
+    },
+    {
+      "chapterUid": 180,
+      "chapterIdx": 181,
+      "title": "卷九十五·列传第六十五",
+      "level": 1,
+      "wordCount": 18645,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "艺术",
+          "anchor": "sigil_toc_id_179",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=180",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=180"
+    },
+    {
+      "chapterUid": 181,
+      "chapterIdx": 182,
+      "title": "卷九十六·列传第六十六",
+      "level": 1,
+      "wordCount": 9126,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "列女",
+          "anchor": "sigil_toc_id_180",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=181",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=181"
+    },
+    {
+      "chapterUid": 182,
+      "chapterIdx": 183,
+      "title": "卷九十七·列传第六十七",
+      "level": 1,
+      "wordCount": 9469,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "四夷",
+          "anchor": "sigil_toc_id_181",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=182",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=182"
+    },
+    {
+      "chapterUid": 183,
+      "chapterIdx": 184,
+      "title": "卷九十八·列传第六十八",
+      "level": 1,
+      "wordCount": 15259,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王敦（沈充） 桓温（孟嘉）",
+          "anchor": "sigil_toc_id_182",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=183",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=183"
+    },
+    {
+      "chapterUid": 184,
+      "chapterIdx": 185,
+      "title": "卷九十九·列传第六十九",
+      "level": 1,
+      "wordCount": 11654,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "桓玄 卞范之 殷仲文",
+          "anchor": "sigil_toc_id_183",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=184",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=184"
+    },
+    {
+      "chapterUid": 185,
+      "chapterIdx": 186,
+      "title": "卷一百·列传第七十",
+      "level": 1,
+      "wordCount": 15356,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "王弥等１２人",
+          "anchor": "sigil_toc_id_184",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=185",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=185"
+    },
+    {
+      "chapterUid": 186,
+      "chapterIdx": 187,
+      "title": "卷一百一·载记第一",
+      "level": 1,
+      "wordCount": 843,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=186",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=186"
+    },
+    {
+      "chapterUid": 187,
+      "chapterIdx": 188,
+      "title": "刘元海（子和 刘宣）",
+      "level": 2,
+      "wordCount": 5105,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=44487364&chapterUid=187",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=187"
+    },
+    {
+      "chapterUid": 188,
+      "chapterIdx": 189,
+      "title": "卷一百二·载记第二",
+      "level": 1,
+      "wordCount": 12604,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘聪 子粲 陈元达",
+          "anchor": "sigil_toc_id_186",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=188",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=188"
+    },
+    {
+      "chapterUid": 189,
+      "chapterIdx": 190,
+      "title": "卷一百三·载记第三",
+      "level": 1,
+      "wordCount": 11397,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "刘曜",
+          "anchor": "sigil_toc_id_187",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=189",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=189"
+    },
+    {
+      "chapterUid": 190,
+      "chapterIdx": 191,
+      "title": "卷一百四·载记第四",
+      "level": 1,
+      "wordCount": 13095,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "石勒上",
+          "anchor": "sigil_toc_id_188",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=190",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=190"
+    },
+    {
+      "chapterUid": 229,
+      "chapterIdx": 192,
+      "title": "卷一百五·载记第五",
+      "level": 1,
+      "wordCount": 11306,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "石勒下 子弘 张宾",
+          "anchor": "sigil_toc_id_189",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=229",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=229"
+    },
+    {
+      "chapterUid": 192,
+      "chapterIdx": 193,
+      "title": "卷一百六·载记第六",
+      "level": 1,
+      "wordCount": 8948,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "石季龙上",
+          "anchor": "sigil_toc_id_190",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=192",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=192"
+    },
+    {
+      "chapterUid": 193,
+      "chapterIdx": 194,
+      "title": "卷一百七·载记第七",
+      "level": 1,
+      "wordCount": 9675,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "石季龙下",
+          "anchor": "sigil_toc_id_191",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=193",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=193"
+    },
+    {
+      "chapterUid": 194,
+      "chapterIdx": 195,
+      "title": "卷一百八·载记第八",
+      "level": 1,
+      "wordCount": 5204,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "慕容廆 裴嶷 高瞻",
+          "anchor": "sigil_toc_id_192",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=194",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=194"
+    },
+    {
+      "chapterUid": 195,
+      "chapterIdx": 196,
+      "title": "卷一百九·载记第九",
+      "level": 1,
+      "wordCount": 7142,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "慕容皝 慕容翰 阳裕",
+          "anchor": "sigil_toc_id_193",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=195",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=195"
+    },
+    {
+      "chapterUid": 196,
+      "chapterIdx": 197,
+      "title": "卷一百十·载记第十",
+      "level": 1,
+      "wordCount": 7393,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "慕容儁等５人",
+          "anchor": "sigil_toc_id_194",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=196",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=196"
+    },
+    {
+      "chapterUid": 197,
+      "chapterIdx": 198,
+      "title": "卷一百十一·载记第十一",
+      "level": 1,
+      "wordCount": 8671,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "慕容暐等４人",
+          "anchor": "sigil_toc_id_195",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=197",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=197"
+    },
+    {
+      "chapterUid": 198,
+      "chapterIdx": 199,
+      "title": "卷一百十二·载记第十二",
+      "level": 1,
+      "wordCount": 7204,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "苻洪等５人",
+          "anchor": "sigil_toc_id_196",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=198",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=198"
+    },
+    {
+      "chapterUid": 199,
+      "chapterIdx": 200,
+      "title": "卷一百十三·载记第十三",
+      "level": 1,
+      "wordCount": 12199,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "苻坚上",
+          "anchor": "sigil_toc_id_197",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=199",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=199"
+    },
+    {
+      "chapterUid": 200,
+      "chapterIdx": 201,
+      "title": "卷一百十四·载记第十四",
+      "level": 1,
+      "wordCount": 15712,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "苻坚下",
+          "anchor": "sigil_toc_id_198",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=200",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=200"
+    },
+    {
+      "chapterUid": 201,
+      "chapterIdx": 202,
+      "title": "卷一百十五·载记第十五",
+      "level": 1,
+      "wordCount": 8299,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "苻丕 苻登 索泮 徐嵩",
+          "anchor": "sigil_toc_id_199",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=201",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=201"
+    },
+    {
+      "chapterUid": 202,
+      "chapterIdx": 203,
+      "title": "卷一百十六·载记第十六",
+      "level": 1,
+      "wordCount": 7190,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "姚弋仲 姚襄 姚苌",
+          "anchor": "sigil_toc_id_200",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=202",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=202"
+    },
+    {
+      "chapterUid": 203,
+      "chapterIdx": 204,
+      "title": "卷一百十七·载记第十七",
+      "level": 1,
+      "wordCount": 6693,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "姚兴上",
+          "anchor": "sigil_toc_id_201",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=203",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=203"
+    },
+    {
+      "chapterUid": 204,
+      "chapterIdx": 205,
+      "title": "卷一百十八·载记第十八",
+      "level": 1,
+      "wordCount": 7492,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "姚兴下 尹纬",
+          "anchor": "sigil_toc_id_202",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=204",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=204"
+    },
+    {
+      "chapterUid": 205,
+      "chapterIdx": 206,
+      "title": "卷一百十九·载记第十九",
+      "level": 1,
+      "wordCount": 6405,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "姚泓",
+          "anchor": "sigil_toc_id_203",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=205",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=205"
+    },
+    {
+      "chapterUid": 206,
+      "chapterIdx": 207,
+      "title": "卷一百二十·载记第二十",
+      "level": 1,
+      "wordCount": 5633,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "李特 李流 李庠",
+          "anchor": "sigil_toc_id_204",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=206",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=206"
+    },
+    {
+      "chapterUid": 207,
+      "chapterIdx": 208,
+      "title": "卷一百二十一·载记第二十一",
+      "level": 1,
+      "wordCount": 7377,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "李雄等５人",
+          "anchor": "sigil_toc_id_205",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=207",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=207"
+    },
+    {
+      "chapterUid": 208,
+      "chapterIdx": 209,
+      "title": "卷一百二十二·载记第二十二",
+      "level": 1,
+      "wordCount": 10570,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "吕光 吕纂 吕隆",
+          "anchor": "sigil_toc_id_206",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=208",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=208"
+    },
+    {
+      "chapterUid": 209,
+      "chapterIdx": 210,
+      "title": "卷一百二十三·载记第二十三",
+      "level": 1,
+      "wordCount": 7147,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "慕容垂",
+          "anchor": "sigil_toc_id_207",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=209",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=209"
+    },
+    {
+      "chapterUid": 210,
+      "chapterIdx": 211,
+      "title": "卷一百二十四·载记第二十四",
+      "level": 1,
+      "wordCount": 8985,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "慕容宝等４人",
+          "anchor": "sigil_toc_id_208",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=210",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=210"
+    },
+    {
+      "chapterUid": 211,
+      "chapterIdx": 212,
+      "title": "卷一百二十五·载记第二十五",
+      "level": 1,
+      "wordCount": 11307,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "乞伏国仁等５人",
+          "anchor": "sigil_toc_id_209",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=211",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=211"
+    },
+    {
+      "chapterUid": 212,
+      "chapterIdx": 213,
+      "title": "卷一百二十六·载记第二十六",
+      "level": 1,
+      "wordCount": 9354,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "秃发乌孤等３人",
+          "anchor": "sigil_toc_id_210",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=212",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=212"
+    },
+    {
+      "chapterUid": 213,
+      "chapterIdx": 214,
+      "title": "卷一百二十七·载记第二十七",
+      "level": 1,
+      "wordCount": 6410,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "慕容德",
+          "anchor": "sigil_toc_id_211",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=213",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=213"
+    },
+    {
+      "chapterUid": 214,
+      "chapterIdx": 215,
+      "title": "卷一百二十八·载记第二十八",
+      "level": 1,
+      "wordCount": 6171,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "慕容超 慕容钟 封孚",
+          "anchor": "sigil_toc_id_212",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=214",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=214"
+    },
+    {
+      "chapterUid": 215,
+      "chapterIdx": 216,
+      "title": "卷一百二十九·载记第二十九",
+      "level": 1,
+      "wordCount": 5515,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "沮渠蒙逊",
+          "anchor": "sigil_toc_id_213",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=215",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=215"
+    },
+    {
+      "chapterUid": 216,
+      "chapterIdx": 217,
+      "title": "卷一百三十·载记第三十",
+      "level": 1,
+      "wordCount": 6917,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "赫连勃勃",
+          "anchor": "sigil_toc_id_214",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=44487364&chapterUid=216",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=216"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 5,
+      "chapterTitle": "卷四·帝纪第四",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "44487364_5_8649-8744",
+          "range": "8649-8744",
+          "rangeStart": 8649,
+          "rangeEnd": 8744,
+          "markText": "帝又尝在华林园，闻虾蟆声，谓左右曰：“此鸣者为官乎，私乎？”或对曰：“在官地为官，在私地为私。”及天下荒乱，百姓饿死，帝曰：“何不食肉糜？”其蒙蔽皆此类也。后因食饼中毒而崩，或云司马越之鸩。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1738722485,
+          "createTimeFormatted": "2025-02-05 10:28:05",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=5&rangeStart=8649&rangeEnd=8744",
+          "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=5&rangeStart=8649&rangeEnd=8744"
+        }
+      ]
+    },
+    {
+      "chapterUid": 2,
+      "chapterTitle": "卷一·帝纪第一",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "44487364_2_10552-10579",
+          "range": "10552-10579",
+          "rangeStart": 10552,
+          "rangeEnd": 10579,
+          "markText": "性宽绰而能容，和光同尘，与时舒卷，戢鳞潜翼，思属风云。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1705967113,
+          "createTimeFormatted": "2024-01-23 07:45:13",
+          "chapterUid": 2,
+          "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=2&rangeStart=10552&rangeEnd=10579",
+          "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=2&rangeStart=10552&rangeEnd=10579"
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZkohuXJ7",
+          "range": "3488-3490",
+          "chapterName": "",
+          "content": "qí shān\n在今甘肃礼县东。汉在西汉水北岸山上筑城，极为严固，即今祁山堡，为军事必争之地。相传三国时蜀汉诸葛亮曾六出祁山以攻魏，但据《三国志·诸葛亮传》亮出兵攻魏仅五次，而出祁山者仅两次。",
+          "abstract": "祁山",
+          "star": -1,
+          "createTime": 1744357481,
+          "createTimeFormatted": "2025-04-11 15:44:41",
+          "isFinish": false,
+          "chapterUid": 2
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7Zkoc2plT",
+          "range": "3393-3394",
+          "chapterName": "",
+          "content": "shān\n删除杂草。引申为除去。\n镰刀。",
+          "abstract": "芟",
+          "star": -1,
+          "createTime": 1744357400,
+          "createTimeFormatted": "2025-04-11 15:43:20",
+          "isFinish": false,
+          "chapterUid": 2
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_7ZknymoxD",
+          "range": "3262-3264",
+          "chapterName": "",
+          "content": "zhānɡ hé\n（？—231）三国河间鄚县（今河北任丘北）人，字儁乂。初在冀州应募，从韩馥，馥败，以兵属袁绍，任宁国中郎将。官渡之战后，归曹操，任左将军。魏明帝时，率军西拒诸葛亮，在街亭（今甘肃庄浪东南）大破蜀将马谡。诸葛亮再攻魏，他率军在木门（今甘肃天水西南）作战，中箭而死。作战勇猛，善审地形设阵，为当时名将。",
+          "abstract": "张郃",
+          "star": -1,
+          "createTime": 1744356814,
+          "createTimeFormatted": "2025-04-11 15:33:34",
+          "isFinish": false,
+          "chapterUid": 2
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "44487364_2_813-889",
+      "chapterUid": 2,
+      "range": "813-889",
+      "markText": "帝知汉运方微，不欲屈节曹氏，辞以风痹，不能起居。魏武使人夜往密刺之，帝坚卧不动。及魏武为丞相，又辟为文学掾，敕行者曰：“若复盘桓，便收之。”帝惧而就职。",
+      "totalCount": 496,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=2&rangeStart=813&rangeEnd=889",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=2&rangeStart=813&rangeEnd=889"
+    },
+    {
+      "bookmarkId": "44487364_2_9130-9157",
+      "chapterUid": 2,
+      "range": "9130-9157",
+      "markText": "帝又遣爽所信殿中校尉尹大目谕爽，指洛水为誓，爽意信之。",
+      "totalCount": 304,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=2&rangeStart=9130&rangeEnd=9157",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=2&rangeStart=9130&rangeEnd=9157"
+    },
+    {
+      "bookmarkId": "44487364_2_6214-6266",
+      "chapterUid": 2,
+      "range": "6214-6266",
+      "markText": "男子年十五已上七千余人皆杀之，以为京观。伪公卿已下皆伏诛，戮其将军毕盛等二千余人。收户四万，口三十余万。",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=2&rangeStart=6214&rangeEnd=6266",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=2&rangeStart=6214&rangeEnd=6266"
+    },
+    {
+      "bookmarkId": "44487364_3_579-632",
+      "chapterUid": 3,
+      "range": "579-632",
+      "markText": "宣帝之将诛曹爽，深谋秘策，独与帝潜画，文帝弗之知也。将发夕乃告之，既而使人觇之，帝寝如常，而文帝不能安席。",
+      "totalCount": 238,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=3&rangeStart=579&rangeEnd=632",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=3&rangeStart=579&rangeEnd=632"
+    },
+    {
+      "bookmarkId": "44487364_7_7703-7726",
+      "chapterUid": 7,
+      "range": "7703-7726",
+      "markText": "而恭王妃夏侯氏竟通小吏牛氏而生元帝，亦有符云。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=7&rangeStart=7703&rangeEnd=7726",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=7&rangeStart=7703&rangeEnd=7726"
+    },
+    {
+      "bookmarkId": "44487364_134_1311-1401",
+      "chapterUid": 134,
+      "range": "1311-1401",
+      "markText": "有司言有子杀母者，籍曰：“嘻！杀父乃可，至杀母乎！”坐者怪其失言。帝曰：“杀父，天下之极恶，而以为可乎？”籍曰：“禽兽知母而不知父，杀父，禽兽之类也。杀母，禽兽之不若。”众乃悦服。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=134&rangeStart=1311&rangeEnd=1401",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=134&rangeStart=1311&rangeEnd=1401"
+    },
+    {
+      "bookmarkId": "44487364_2_1009-1024",
+      "chapterUid": 2,
+      "range": "1009-1024",
+      "markText": "人苦无足，既得陇右，复欲得蜀！",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=2&rangeStart=1009&rangeEnd=1024",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=2&rangeStart=1009&rangeEnd=1024"
+    },
+    {
+      "bookmarkId": "44487364_3_661-690",
+      "chapterUid": 3,
+      "range": "661-690",
+      "markText": "初，帝阴养死士三千，散在人间，至是一朝而集，众莫知所出也。",
+      "totalCount": 195,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=3&rangeStart=661&rangeEnd=690",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=3&rangeStart=661&rangeEnd=690"
+    },
+    {
+      "bookmarkId": "44487364_2_6461-6494",
+      "chapterUid": 2,
+      "range": "6461-6494",
+      "markText": "初，帝至襄平，梦天子枕其膝，曰：“视吾面。”俯视有异于常，心恶之。",
+      "totalCount": 187,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=2&rangeStart=6461&rangeEnd=6494",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=2&rangeStart=6461&rangeEnd=6494"
+    },
+    {
+      "bookmarkId": "44487364_2_1415-1453",
+      "chapterUid": 2,
+      "range": "1415-1453",
+      "markText": "孙权、刘备，外亲内疏，羽之得意，权所不愿也。可喻权所，令掎其后，则樊围自解。",
+      "totalCount": 182,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=2&rangeStart=1415&rangeEnd=1453",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=2&rangeStart=1415&rangeEnd=1453"
+    },
+    {
+      "bookmarkId": "44487364_2_8257-8294",
+      "chapterUid": 2,
+      "range": "8257-8294",
+      "markText": "帝诈疾笃，使两婢侍，持衣衣落，指口言渴，婢进粥，帝不持杯饮，粥皆流出霑胸。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=2&rangeStart=8257&rangeEnd=8294",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=2&rangeStart=8257&rangeEnd=8294"
+    },
+    {
+      "bookmarkId": "44487364_2_9986-10052",
+      "chapterUid": 2,
+      "range": "9986-10052",
+      "markText": "九月庚申，葬于河阴，谥曰文贞，后改谥宣文。先是，预作终制，于首阳山为土藏，不坟不树；作顾命三篇，敛以时服，不设明器，后终者不得合葬。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=2&rangeStart=9986&rangeEnd=10052",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=2&rangeStart=9986&rangeEnd=10052"
+    },
+    {
+      "bookmarkId": "44487364_9_9436-9523",
+      "chapterUid": 9,
+      "range": "9436-9523",
+      "markText": "十一月癸卯，桓温自广陵屯于白石。丁未，诣阙，因图废立，诬帝在藩夙有痿疾，嬖人相龙、计好、朱灵宝等参侍内寝，而二美人田氏、孟氏生三男，长欲封树，时人惑之，温因讽太后以伊霍之举。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=9&rangeStart=9436&rangeEnd=9523",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=9&rangeStart=9436&rangeEnd=9523"
+    },
+    {
+      "bookmarkId": "44487364_2_5180-5230",
+      "chapterUid": 2,
+      "range": "5180-5230",
+      "markText": "天地开辟，日月重光。遭遇际会，毕力遐方。将扫群秽，还过故乡。肃清万里，总齐八荒。告成归老，待罪舞阳。",
+      "totalCount": 176,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=2&rangeStart=5180&rangeEnd=5230",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=2&rangeStart=5180&rangeEnd=5230"
+    },
+    {
+      "bookmarkId": "44487364_166_15222-15251",
+      "chapterUid": 166,
+      "range": "15222-15251",
+      "markText": "毛、邓、刘、朱驰骛乎咸和之后。虽人不逮古，亦足列于当世焉。",
+      "totalCount": 169,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=166&rangeStart=15222&rangeEnd=15251",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=166&rangeStart=15222&rangeEnd=15251"
+    },
+    {
+      "bookmarkId": "44487364_119_11998-12031",
+      "chapterUid": 119,
+      "range": "11998-12031",
+      "markText": "预在镇，数饷遗洛中贵要。或问其故，预曰：“吾但恐为害，不求益也。”",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=119&rangeStart=11998&rangeEnd=12031",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=119&rangeStart=11998&rangeEnd=12031"
+    },
+    {
+      "bookmarkId": "44487364_187_3258-3274",
+      "chapterUid": 187,
+      "range": "3258-3274",
+      "markText": "世宗孝武皇帝拓土攘夷，地过唐日。",
+      "totalCount": 160,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=187&rangeStart=3258&rangeEnd=3274",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=187&rangeStart=3258&rangeEnd=3274"
+    },
+    {
+      "bookmarkId": "44487364_2_492-505",
+      "chapterUid": 2,
+      "range": "492-505",
+      "markText": "帝高阳之子重黎，为夏官祝融",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=2&rangeStart=492&rangeEnd=505",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=2&rangeStart=492&rangeEnd=505"
+    },
+    {
+      "bookmarkId": "44487364_5_2540-2549",
+      "chapterUid": 5,
+      "range": "2540-2549",
+      "markText": "诏骨肉相卖者不禁。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=5&rangeStart=2540&rangeEnd=2549",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=5&rangeStart=2540&rangeEnd=2549"
+    },
+    {
+      "bookmarkId": "44487364_5_2873-2905",
+      "chapterUid": 5,
+      "range": "2873-2905",
+      "markText": "十二月壬戌，废皇太子遹为庶人，及其三子幽于金墉城，杀太子母谢氏。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=44487364&chapterUid=5&rangeStart=2873&rangeEnd=2905",
+      "webLink": "https://weread.qq.com/web/reader/9e63215072a6d2c49e6b400?chapterUid=5&rangeStart=2873&rangeEnd=2905"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

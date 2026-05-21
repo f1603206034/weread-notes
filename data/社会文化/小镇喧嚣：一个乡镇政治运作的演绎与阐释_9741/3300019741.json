@@ -1,0 +1,837 @@
+{
+  "meta": {
+    "bookId": "3300019741",
+    "title": "小镇喧嚣：一个乡镇政治运作的演绎与阐释",
+    "author": "吴毅",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/89/cpPlatform_nVqL1T1SuysradaMks3Dbi/t6_cpPlatform_nVqL1T1SuysradaMks3Dbi.jpg",
+    "intro": "释尽乡镇日常政治种种人事与结构交织碰撞的众声嘈杂",
+    "category": "社会文化-社科",
+    "publisher": "生活书店出版有限公司",
+    "publishTime": "2018-02-01 00:00:00",
+    "isbn": "9787807682158",
+    "wordCount": 0,
+    "newRating": 904,
+    "newRatingCount": 4017,
+    "newRatingDetail": {
+      "good": 3861,
+      "fair": 127,
+      "poor": 29,
+      "recent": 101,
+      "deepV": 1362,
+      "myRating": "",
+      "title": "神作"
+    },
+    "appLink": "weread://reading?bId=3300019741",
+    "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75",
+    "lastSync": "2026-05-21T11:54:55Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=1"
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 146,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=60"
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 3,
+      "title": "项目",
+      "level": 1,
+      "wordCount": 305,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=61"
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 4,
+      "title": "再版说明",
+      "level": 1,
+      "wordCount": 538,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=62"
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 5,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 1847,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=63"
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 6,
+      "title": "主要人物一览表",
+      "level": 1,
+      "wordCount": 1368,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=64"
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 7,
+      "title": "引子",
+      "level": 1,
+      "wordCount": 2957,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=65"
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 8,
+      "title": "一 迎检，迎检",
+      "level": 1,
+      "wordCount": 20453,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "中心工作与迎检",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "村里的“作业”",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        },
+        {
+          "title": "动员再动员：确保高分过关",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=66"
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 9,
+      "title": "二 不开发，政府怎么办？",
+      "level": 1,
+      "wordCount": 20033,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "林书记的规划",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        },
+        {
+          "title": "开发的政治学",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        },
+        {
+          "title": "洲头的纷争",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=67"
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 10,
+      "title": "三 要钱是孙子，无钱是羔羊",
+      "level": 1,
+      "wordCount": 27117,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“这狗×的收税”",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        },
+        {
+          "title": "“税源不够，靠关系去协调”",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        },
+        {
+          "title": "“开的价高于亩平负担，地就得租”",
+          "anchor": "sigil_toc_id_9",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=68"
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 11,
+      "title": "四 播撒希望",
+      "level": 1,
+      "wordCount": 19450,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "重振豆乡",
+          "anchor": "sigil_toc_id_10",
+          "level": 2
+        },
+        {
+          "title": "小藠头，大文章",
+          "anchor": "sigil_toc_id_11",
+          "level": 2
+        },
+        {
+          "title": "谢张村也想卖地",
+          "anchor": "sigil_toc_id_12",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=69"
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 12,
+      "title": "五 周旋于商民之间",
+      "level": 1,
+      "wordCount": 22825,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "叶先生与洲头村的租地纠纷",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        },
+        {
+          "title": "合同也要随形势而变化",
+          "anchor": "sigil_toc_id_14",
+          "level": 2
+        },
+        {
+          "title": "“没有硝烟的战斗”",
+          "anchor": "sigil_toc_id_15",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=70"
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 13,
+      "title": "六 媒",
+      "level": 1,
+      "wordCount": 32442,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "洲头的突破",
+          "anchor": "sigil_toc_id_16",
+          "level": 2
+        },
+        {
+          "title": "石场风波起",
+          "anchor": "sigil_toc_id_17",
+          "level": 2
+        },
+        {
+          "title": "临时占地中的生意经",
+          "anchor": "sigil_toc_id_18",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=71"
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 14,
+      "title": "七 “可嫌”的农民",
+      "level": 1,
+      "wordCount": 25030,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“农民既可怜又可嫌”",
+          "anchor": "sigil_toc_id_19",
+          "level": 2
+        },
+        {
+          "title": "种粮不如“种房”",
+          "anchor": "sigil_toc_id_20",
+          "level": 2
+        },
+        {
+          "title": "“道上的伢们”",
+          "anchor": "sigil_toc_id_21",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=72"
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 15,
+      "title": "八 僵持",
+      "level": 1,
+      "wordCount": 21266,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "叶先生的回应",
+          "anchor": "sigil_toc_id_22",
+          "level": 2
+        },
+        {
+          "title": "开工前的反复",
+          "anchor": "sigil_toc_id_23",
+          "level": 2
+        },
+        {
+          "title": "断不清的土地案",
+          "anchor": "sigil_toc_id_24",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=73"
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 16,
+      "title": "九 基层的理性",
+      "level": 1,
+      "wordCount": 28240,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "“这是一种政治行为”",
+          "anchor": "sigil_toc_id_25",
+          "level": 2
+        },
+        {
+          "title": "“诱民致富”",
+          "anchor": "sigil_toc_id_26",
+          "level": 2
+        },
+        {
+          "title": "“扶强不扶弱”",
+          "anchor": "sigil_toc_id_27",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=74",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=74"
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 17,
+      "title": "十 又是一轮收钱时",
+      "level": 1,
+      "wordCount": 26015,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "当“讨要者”成为“被讨要者”",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        },
+        {
+          "title": "征收进入攻坚阶段",
+          "anchor": "sigil_toc_id_29",
+          "level": 2
+        },
+        {
+          "title": "国、地两税提前过关",
+          "anchor": "sigil_toc_id_30",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=75",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=75"
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 18,
+      "title": "十一 了结难题",
+      "level": 1,
+      "wordCount": 26048,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "洲头纷争的补遗",
+          "anchor": "sigil_toc_id_31",
+          "level": 2
+        },
+        {
+          "title": "叶桦事件的终结",
+          "anchor": "sigil_toc_id_32",
+          "level": 2
+        },
+        {
+          "title": "藠头下种了",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=76",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=76"
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 19,
+      "title": "十二 利益交关",
+      "level": 1,
+      "wordCount": 26432,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "花小钱办大事",
+          "anchor": "sigil_toc_id_34",
+          "level": 2
+        },
+        {
+          "title": "最后的征收",
+          "anchor": "sigil_toc_id_35",
+          "level": 2
+        },
+        {
+          "title": "石场业主上京了",
+          "anchor": "sigil_toc_id_36",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=77",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=77"
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 20,
+      "title": "十三 新的年轮",
+      "level": 1,
+      "wordCount": 28404,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "突起的争地风潮",
+          "anchor": "sigil_toc_id_37",
+          "level": 2
+        },
+        {
+          "title": "“伢们”也来凑热闹",
+          "anchor": "sigil_toc_id_38",
+          "level": 2
+        },
+        {
+          "title": "“耗油”与“就范”",
+          "anchor": "sigil_toc_id_39",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=78",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=78"
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 21,
+      "title": "十四 未完的结局",
+      "level": 1,
+      "wordCount": 22382,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "藠头种植的喜与忧",
+          "anchor": "sigil_toc_id_40",
+          "level": 2
+        },
+        {
+          "title": "陈同年的困窘",
+          "anchor": "sigil_toc_id_41",
+          "level": 2
+        },
+        {
+          "title": "征地被冻结了",
+          "anchor": "sigil_toc_id_42",
+          "level": 2
+        },
+        {
+          "title": "业主们欲罢又起",
+          "anchor": "sigil_toc_id_43",
+          "level": 2
+        },
+        {
+          "title": "不收税干部做什么？",
+          "anchor": "sigil_toc_id_44",
+          "level": 2
+        },
+        {
+          "title": "又到了迎检的时候",
+          "anchor": "sigil_toc_id_45",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=79",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=79"
+    },
+    {
+      "chapterUid": 80,
+      "chapterIdx": 22,
+      "title": "十五 幕落幕启",
+      "level": 1,
+      "wordCount": 23441,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "研究关怀与策略的自白",
+          "anchor": "sigil_toc_id_46",
+          "level": 2
+        },
+        {
+          "title": "权力格局“错置”与官民行为“悖论”",
+          "anchor": "sigil_toc_id_47",
+          "level": 2
+        },
+        {
+          "title": "非正式权力技术的凸显",
+          "anchor": "sigil_toc_id_48",
+          "level": 2
+        },
+        {
+          "title": "政权建设抑或治理转型",
+          "anchor": "sigil_toc_id_49",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=80",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=80"
+    },
+    {
+      "chapterUid": 81,
+      "chapterIdx": 23,
+      "title": "附录1 小镇调查笔记引用索引",
+      "level": 1,
+      "wordCount": 7709,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=81",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=81"
+    },
+    {
+      "chapterUid": 82,
+      "chapterIdx": 24,
+      "title": "附录2 小镇文献资料引用目录",
+      "level": 1,
+      "wordCount": 1310,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=82",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=82"
+    },
+    {
+      "chapterUid": 83,
+      "chapterIdx": 25,
+      "title": "参考文献",
+      "level": 1,
+      "wordCount": 7561,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300019741&chapterUid=83",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=83"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 66,
+      "chapterTitle": "一 迎检，迎检",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300019741_66_16288-16361",
+          "range": "16288-16361",
+          "rangeStart": 16288,
+          "rangeEnd": 16361,
+          "markText": "“农民就是这样，你再减他也嫌多，巴不得一分钱都不收。再说，由于不能强制性收费，一些人不缴，你也拿他没有办法，结果造成了相互攀比，大家都不愿意缴。”",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1728269986,
+          "createTimeFormatted": "2024-10-07 10:59:46",
+          "chapterUid": 66,
+          "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=66&rangeStart=16288&rangeEnd=16361",
+          "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=66&rangeStart=16288&rangeEnd=16361"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300019741_65_5161-5257",
+      "chapterUid": 65,
+      "range": "5161-5257",
+      "markText": "看来，这“酒精（久经）考验”和“把肠胃交给党”的政治民谚可真不只是基层干部们茶余饭后的消闲幽默，它的确是乡镇基层工作的一种真实写照，这即是如赵树凯所分析的乡镇政府的“应酬政治”的一个重要内容。",
+      "totalCount": 4716,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=65&rangeStart=5161&rangeEnd=5257",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=65&rangeStart=5161&rangeEnd=5257"
+    },
+    {
+      "bookmarkId": "3300019741_66_13631-13726",
+      "chapterUid": 66,
+      "range": "13631-13726",
+      "markText": "有了这些细而又细的考虑、策划和要求，庞杂而繁重的迎检工作就转化成一系列整齐划一的文件制作的技术与程序。这一系列文件制作的技术和程序虽然十分复杂甚至于累赘，却可以通过不计成本的辛勤工作去达到。",
+      "totalCount": 4134,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=66&rangeStart=13631&rangeEnd=13726",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=66&rangeStart=13631&rangeEnd=13726"
+    },
+    {
+      "bookmarkId": "3300019741_67_11665-11697",
+      "chapterUid": 67,
+      "range": "11665-11697",
+      "markText": "说句不好听的话，在没有办法的情况下，我们对农民也只有搞愚民政策。",
+      "totalCount": 4064,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=67&rangeStart=11665&rangeEnd=11697",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=67&rangeStart=11665&rangeEnd=11697"
+    },
+    {
+      "bookmarkId": "3300019741_65_4528-4581",
+      "chapterUid": 65,
+      "range": "4528-4581",
+      "markText": "林书记对我说：“如果一个乡镇政府的食堂到了中午却没有多少客人来吃饭，那这个地方的经济也就没有什么指望了。”",
+      "totalCount": 3710,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=65&rangeStart=4528&rangeEnd=4581",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=65&rangeStart=4528&rangeEnd=4581"
+    },
+    {
+      "bookmarkId": "3300019741_66_9464-9498",
+      "chapterUid": 66,
+      "range": "9464-9498",
+      "markText": "“你要什么数字，我给你什么数字；你要多大的数字，我给你多大的数字。”",
+      "totalCount": 3456,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=66&rangeStart=9464&rangeEnd=9498",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=66&rangeStart=9464&rangeEnd=9498"
+    },
+    {
+      "bookmarkId": "3300019741_65_490-506",
+      "chapterUid": 65,
+      "range": "490-506",
+      "markText": "“乡镇的工作从吃饭和喝酒开始。”",
+      "totalCount": 3424,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=65&rangeStart=490&rangeEnd=506",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=65&rangeStart=490&rangeEnd=506"
+    },
+    {
+      "bookmarkId": "3300019741_61_662-694",
+      "chapterUid": 61,
+      "range": "662-694",
+      "markText": "因此，这是一段理解性的叙事，而非已经消逝的事件与过程的原版回放。",
+      "totalCount": 3383,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=61&rangeStart=662&rangeEnd=694",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=61&rangeStart=662&rangeEnd=694"
+    },
+    {
+      "bookmarkId": "3300019741_67_7291-7323",
+      "chapterUid": 67,
+      "range": "7291-7323",
+      "markText": "他说又要顶，又要说出理由，不能让领导为难，这就是当好下级的艺术。",
+      "totalCount": 3366,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=67&rangeStart=7291&rangeEnd=7323",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=67&rangeStart=7291&rangeEnd=7323"
+    },
+    {
+      "bookmarkId": "3300019741_67_6227-6244",
+      "chapterUid": 67,
+      "range": "6227-6244",
+      "markText": "“培育‘地主’，引进‘资本家’？”",
+      "totalCount": 3281,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=67&rangeStart=6227&rangeEnd=6244",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=67&rangeStart=6227&rangeEnd=6244"
+    },
+    {
+      "bookmarkId": "3300019741_70_24059-24090",
+      "chapterUid": 70,
+      "range": "24059-24090",
+      "markText": "我不得不承认，如若一定要坚持合同的神圣性，只会把事情弄得更糟。",
+      "totalCount": 3280,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=70&rangeStart=24059&rangeEnd=24090",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=70&rangeStart=24059&rangeEnd=24090"
+    },
+    {
+      "bookmarkId": "3300019741_66_16288-16361",
+      "chapterUid": 66,
+      "range": "16288-16361",
+      "markText": "“农民就是这样，你再减他也嫌多，巴不得一分钱都不收。再说，由于不能强制性收费，一些人不缴，你也拿他没有办法，结果造成了相互攀比，大家都不愿意缴。”",
+      "totalCount": 3234,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=66&rangeStart=16288&rangeEnd=16361",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=66&rangeStart=16288&rangeEnd=16361"
+    },
+    {
+      "bookmarkId": "3300019741_66_15254-15342",
+      "chapterUid": 66,
+      "range": "15254-15342",
+      "markText": "纯农户的年人均收入在2200元左右。我们村上报的数字是人均3050元，但那是一个政治数字，哄人的。上面每年都要下达一个人均收入的递增数，去年是15%，今年也是，我们只好去适应。",
+      "totalCount": 3168,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=66&rangeStart=15254&rangeEnd=15342",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=66&rangeStart=15254&rangeEnd=15342"
+    },
+    {
+      "bookmarkId": "3300019741_67_8526-8571",
+      "chapterUid": 67,
+      "range": "8526-8571",
+      "markText": "林书记所反复强调的招商引资，其实也就是出卖和租赁土地，这是目前城郊镇发展和转型的主要途径。",
+      "totalCount": 3043,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=67&rangeStart=8526&rangeEnd=8571",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=67&rangeStart=8526&rangeEnd=8571"
+    },
+    {
+      "bookmarkId": "3300019741_79_28920-28988",
+      "chapterUid": 79,
+      "range": "28920-28988",
+      "markText": "检查本身就是推进和督促工作的一种手段。不检查，有的事情就落不到实处，不仅计划生育工作是如此，其他工作也都是如此，什么是国情？这就是国情。",
+      "totalCount": 3006,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=79&rangeStart=28920&rangeEnd=28988",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=79&rangeStart=28920&rangeEnd=28988"
+    },
+    {
+      "bookmarkId": "3300019741_66_10380-10412",
+      "chapterUid": 66,
+      "range": "10380-10412",
+      "markText": "乡镇的中心工作其实就是围绕上级部署的各种任务而展开的阶段性工作。",
+      "totalCount": 2930,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=66&rangeStart=10380&rangeEnd=10412",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=66&rangeStart=10380&rangeEnd=10412"
+    },
+    {
+      "bookmarkId": "3300019741_67_24547-24612",
+      "chapterUid": 67,
+      "range": "24547-24612",
+      "markText": "老洪倒是不避讳：“所谓‘一把钥匙开一把锁’，就是针对某个农户的具体情况，制定特殊对策，背着其他农户，有针对性地做这一家人的工作。”",
+      "totalCount": 2873,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=67&rangeStart=24547&rangeEnd=24612",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=67&rangeStart=24547&rangeEnd=24612"
+    },
+    {
+      "bookmarkId": "3300019741_68_6132-6196",
+      "chapterUid": 68,
+      "range": "6132-6196",
+      "markText": "因为从政治稳定的角度看，底层精英的不稳往往是促成弥散状态的底层不满被转化为实际社会对抗的关键因素，因此也是更加不可取的政策选项。",
+      "totalCount": 2844,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=68&rangeStart=6132&rangeEnd=6196",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=68&rangeStart=6132&rangeEnd=6196"
+    },
+    {
+      "bookmarkId": "3300019741_65_1078-1133",
+      "chapterUid": 65,
+      "range": "1078-1133",
+      "markText": "这也许就是苏力所说的调查者设法确立他与被调查对象之间的某种“权力支配关系”的一种不知得大还是失大的中国式选择。",
+      "totalCount": 2720,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=65&rangeStart=1078&rangeEnd=1133",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=65&rangeStart=1078&rangeEnd=1133"
+    },
+    {
+      "bookmarkId": "3300019741_71_46684-46782",
+      "chapterUid": 71,
+      "range": "46684-46782",
+      "markText": "宋正良告诉我，这一个工程的土地征用，业主补偿给区里是每亩7.5万元，这大概已经是按新补偿标准给的了，区里拿到这笔钱后，还要按每亩20000元左右的标准上缴到市里，接下来拨到镇里就是每亩1.2万了。",
+      "totalCount": 2688,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=71&rangeStart=46684&rangeEnd=46782",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=71&rangeStart=46684&rangeEnd=46782"
+    },
+    {
+      "bookmarkId": "3300019741_66_7488-7575",
+      "chapterUid": 66,
+      "range": "7488-7575",
+      "markText": "又规定凡没有考核评估的县（市、区）或考核评估不合格的县（市、区）在通过重新考核评估前，县、乡两级党政领导班子不得调动、提拔，全部这些都使得各级政府不能不对考评予以高度的重视。",
+      "totalCount": 2670,
+      "appLink": "weread://bestbookmark?bookId=3300019741&chapterUid=66&rangeStart=7488&rangeEnd=7575",
+      "webLink": "https://weread.qq.com/web/reader/59432150813ab6e36g011e75?chapterUid=66&rangeStart=7488&rangeEnd=7575"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 60,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": 1758886667,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

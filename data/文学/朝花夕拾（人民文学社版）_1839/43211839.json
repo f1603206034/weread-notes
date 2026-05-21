@@ -1,0 +1,499 @@
+{
+  "meta": {
+    "bookId": "43211839",
+    "title": "朝花夕拾（人民文学社版）",
+    "author": "鲁迅",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/99/YueWen_43211839/t6_YueWen_43211839.jpg",
+    "intro": "创作于1926年，是鲁迅所写的唯一一部回忆性的散文集，原名《旧事重提》，后由鲁迅改为《朝花夕拾》，一向得到极高的评价。是鲁迅先生在晩年回忆童年时期、少年时期、青年时期的人和事。本书为鲁迅一九二六年所作回忆散文的结集，共十篇。前五篇写于北京，后五篇写于厦门。",
+    "category": "文学-散文杂著",
+    "publisher": "人民文学出版社",
+    "publishTime": "2022-01-01 00:00:00",
+    "isbn": "9787020152780",
+    "wordCount": 0,
+    "newRating": 889,
+    "newRatingCount": 214,
+    "newRatingDetail": {
+      "good": 197,
+      "fair": 11,
+      "poor": 6,
+      "recent": 4,
+      "deepV": 47,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=43211839",
+    "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3",
+    "lastSync": "2026-05-21T11:53:06Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "前折页",
+      "level": 1,
+      "wordCount": 6,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "书名页",
+      "level": 1,
+      "wordCount": 6,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 419,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "文前辅文",
+      "level": 1,
+      "wordCount": 92,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "小引",
+      "level": 1,
+      "wordCount": 1293,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "狗·猫·鼠",
+      "level": 1,
+      "wordCount": 7154,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "阿长与《山海经》",
+      "level": 1,
+      "wordCount": 4539,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "《二十四孝图》",
+      "level": 1,
+      "wordCount": 6763,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "五猖会",
+      "level": 1,
+      "wordCount": 3601,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "无常",
+      "level": 1,
+      "wordCount": 6770,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "从百草园到三味书屋",
+      "level": 1,
+      "wordCount": 3874,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "父亲的病",
+      "level": 1,
+      "wordCount": 3888,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "琐记",
+      "level": 1,
+      "wordCount": 7116,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "藤野先生",
+      "level": 1,
+      "wordCount": 4202,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "范爱农",
+      "level": 1,
+      "wordCount": 6695,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "后记",
+      "level": 1,
+      "wordCount": 8050,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "后折页",
+      "level": 1,
+      "wordCount": 6,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "封底",
+      "level": 1,
+      "wordCount": 5,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=43211839&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=19"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "小引",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "43211839_6_1267-1381",
+          "range": "1267-1381",
+          "rangeStart": 1267,
+          "rangeEnd": 1381,
+          "markText": "我有一时，曾经屡次忆起儿时在故乡所吃的蔬果：菱角，罗汉豆，茭白，香瓜。凡这些，都是极其鲜美可口的；都曾是使我思乡的蛊惑。后来，我在久别之后尝到了，也不过如此；惟独在记忆上，还有旧来的意味留存。他们也许要哄骗我一生，使我时时反顾。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1738323047,
+          "createTimeFormatted": "2025-01-31 19:30:47",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=6&rangeStart=1267&rangeEnd=1381",
+          "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=6&rangeStart=1267&rangeEnd=1381"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "43211839_7_4064-4242",
+      "chapterUid": 7,
+      "range": "4064-4242",
+      "markText": "还有，平素不大交往的人，忽而寄给我一个红帖子，上面印着“为舍妹出阁”，“小儿完姻”，“敬请观礼”或“阖第光临”这些含有“阴险的暗示”[18]的句子，使我不化钱便总觉得有些过意不去的，我也不十分高兴。",
+      "totalCount": 390,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=7&rangeStart=4064&rangeEnd=4242",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=7&rangeStart=4064&rangeEnd=4242"
+    },
+    {
+      "bookmarkId": "43211839_8_5591-5612",
+      "chapterUid": 8,
+      "range": "5591-5612",
+      "markText": "仁厚黑暗的地母呵，愿在你怀里永安她的魂灵！",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=8&rangeStart=5591&rangeEnd=5612",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=8&rangeStart=5591&rangeEnd=5612"
+    },
+    {
+      "bookmarkId": "43211839_7_2131-2304",
+      "chapterUid": 7,
+      "range": "2131-2304",
+      "markText": "虫蛆也许是不干净的，但它们并没有自鸣清高；鸷禽猛兽以较弱的动物为饵，不妨说是凶残的罢，但它们从来就没有竖过“公理”“正义”[10]的旗子，使牺牲者直到被吃的时候为止，还是一味佩服赞叹它们。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=7&rangeStart=2131&rangeEnd=2304",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=7&rangeStart=2131&rangeEnd=2304"
+    },
+    {
+      "bookmarkId": "43211839_10_4712-4739",
+      "chapterUid": 10,
+      "range": "4712-4739",
+      "markText": "我至今一想起，还诧异我的父亲何以要在那时候叫我来背书。",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=10&rangeStart=4712&rangeEnd=4739",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=10&rangeStart=4712&rangeEnd=4739"
+    },
+    {
+      "bookmarkId": "43211839_6_1302-1381",
+      "chapterUid": 6,
+      "range": "1302-1381",
+      "markText": "凡这些，都是极其鲜美可口的；都曾是使我思乡的蛊惑。后来，我在久别之后尝到了，也不过如此；惟独在记忆上，还有旧来的意味留存。他们也许要哄骗我一生，使我时时反顾。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=6&rangeStart=1302&rangeEnd=1381",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=6&rangeStart=1302&rangeEnd=1381"
+    },
+    {
+      "bookmarkId": "43211839_12_1459-1489",
+      "chapterUid": 12,
+      "range": "1459-1489",
+      "markText": "结末的教训是：所以倘有陌生的声音叫你的名字，你万不可答应他。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=12&rangeStart=1459&rangeEnd=1489",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=12&rangeStart=1459&rangeEnd=1489"
+    },
+    {
+      "bookmarkId": "43211839_8_4462-4483",
+      "chapterUid": 8,
+      "range": "4462-4483",
+      "markText": "哥儿，有画儿的‘三哼经’，我给你买来了！”",
+      "totalCount": 132,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=8&rangeStart=4462&rangeEnd=4483",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=8&rangeStart=4462&rangeEnd=4483"
+    },
+    {
+      "bookmarkId": "43211839_13_5191-5279",
+      "chapterUid": 13,
+      "range": "5191-5279",
+      "markText": "“父亲！！！”我还叫他，一直到他咽了气。 我现在还听到那时的自己的这声音，每听到时，就觉得这却是我对于父亲的最大的错处。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=13&rangeStart=5191&rangeEnd=5279",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=13&rangeStart=5191&rangeEnd=5279"
+    },
+    {
+      "bookmarkId": "43211839_7_2543-2695",
+      "chapterUid": 7,
+      "range": "2543-2695",
+      "markText": "正如我们在万生园[12]里，看见猴子翻筋斗，母象请安，虽然往往破颜一笑，但同时也觉得不舒服，甚至于感到悲哀，以为这些多余的聪明，倒不如没有的好罢。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=7&rangeStart=2543&rangeEnd=2695",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=7&rangeStart=2543&rangeEnd=2695"
+    },
+    {
+      "bookmarkId": "43211839_7_7770-7824",
+      "chapterUid": 7,
+      "range": "7770-7824",
+      "markText": "中国的官兵就常在实做的，他们总不肯扫清土匪或扑灭敌人，因为这么一来，就要不被重视，甚至于因失其用处而被裁汰。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=7&rangeStart=7770&rangeEnd=7824",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=7&rangeStart=7770&rangeEnd=7824"
+    },
+    {
+      "bookmarkId": "43211839_6_535-574",
+      "chapterUid": 6,
+      "range": "535-574",
+      "markText": "一个人做到只剩了回忆的时候，生涯大概总要算是无聊了罢，但有时竟会连回忆也没有。",
+      "totalCount": 121,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=6&rangeStart=535&rangeEnd=574",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=6&rangeStart=535&rangeEnd=574"
+    },
+    {
+      "bookmarkId": "43211839_9_6562-6591",
+      "chapterUid": 9,
+      "range": "6562-6591",
+      "markText": "然而我已经不但自己不敢再想做孝子，并且怕我父亲去做孝子了。",
+      "totalCount": 121,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=9&rangeStart=6562&rangeEnd=6591",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=9&rangeStart=6562&rangeEnd=6591"
+    },
+    {
+      "bookmarkId": "43211839_9_511-604",
+      "chapterUid": 9,
+      "range": "511-604",
+      "markText": "我总要上下四方寻求，得到一种最黑，最黑，最黑的咒文，先来诅咒一切反对白话，妨害白话者。即使人死了真有灵魂，因这最恶的心，应该堕入地狱，也将决不改悔，总要先来诅咒一切反对白话，妨害白话者。",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=9&rangeStart=511&rangeEnd=604",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=9&rangeStart=511&rangeEnd=604"
+    },
+    {
+      "bookmarkId": "43211839_16_2145-2221",
+      "chapterUid": 16,
+      "range": "2145-2221",
+      "markText": "从此我总觉得这范爱农离奇，而且很可恶。天下可恶的人，当初以为是满人，这时才知道还在其次；第一倒是范爱农。中国不革命则已，要革命，首先就必须将范爱农除去。",
+      "totalCount": 119,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=16&rangeStart=2145&rangeEnd=2221",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=16&rangeStart=2145&rangeEnd=2221"
+    },
+    {
+      "bookmarkId": "43211839_7_5860-5896",
+      "chapterUid": 7,
+      "range": "5860-5896",
+      "markText": "现在是粗俗了，在路上遇见人类的迎娶仪仗，也不过当作性交的广告看，不甚留心",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=7&rangeStart=5860&rangeEnd=5896",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=7&rangeStart=5860&rangeEnd=5896"
+    },
+    {
+      "bookmarkId": "43211839_15_4579-4624",
+      "chapterUid": 15,
+      "range": "4579-4624",
+      "markText": "中国是弱国，所以中国人当然是低能儿，分数在六十分以上，便不是自己的能力了：也无怪他们疑惑。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=15&rangeStart=4579&rangeEnd=4624",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=15&rangeStart=4579&rangeEnd=4624"
+    },
+    {
+      "bookmarkId": "43211839_12_707-784",
+      "chapterUid": 12,
+      "range": "707-784",
+      "markText": "不必说碧绿的菜畦，光滑的石井栏，高大的皂荚树，紫红的桑椹；也不必说鸣蝉在树叶里长吟，肥胖的黄蜂伏在菜花上，轻捷的叫天子（云雀）忽然从草间直窜向云霄里去了。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=12&rangeStart=707&rangeEnd=784",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=12&rangeStart=707&rangeEnd=784"
+    },
+    {
+      "bookmarkId": "43211839_15_5913-6004",
+      "chapterUid": 15,
+      "range": "5913-6004",
+      "markText": "每当夜间疲倦，正想偷懒时，仰面在灯光中瞥见他黑瘦的面貌，似乎正要说出抑扬顿挫的话来，便使我忽又良心发现，而且增加勇气了，于是点上一枝烟，再继续写些为“正人君子”之流所深恶痛疾的文字。",
+      "totalCount": 98,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=15&rangeStart=5913&rangeEnd=6004",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=15&rangeStart=5913&rangeEnd=6004"
+    },
+    {
+      "bookmarkId": "43211839_14_1009-1083",
+      "chapterUid": 14,
+      "range": "1009-1083",
+      "markText": "我走近去，她便将书塞在我的眼前道，“你看，你知道这是什么？”我看那书上画着房屋，有两个人光着身子仿佛在打架，但又不很像。正迟疑间，他们便大笑起来了。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=14&rangeStart=1009&rangeEnd=1083",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=14&rangeStart=1009&rangeEnd=1083"
+    },
+    {
+      "bookmarkId": "43211839_14_11182-11266",
+      "chapterUid": 14,
+      "range": "11182-11266",
+      "markText": "这里是讽刺安冈秀夫。他在《从小说看来的支那民族性》一书中，说中国人“耽享乐而淫风炽盛”，连食物也都与性有关，如喜欢吃笋，就“是因为那挺然翘然的姿势，引起想像来”的原故。",
+      "totalCount": 90,
+      "appLink": "weread://bestbookmark?bookId=43211839&chapterUid=14&rangeStart=11182&rangeEnd=11266",
+      "webLink": "https://weread.qq.com/web/reader/b1e32ea072935c3fb1eecd3?chapterUid=14&rangeStart=11182&rangeEnd=11266"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

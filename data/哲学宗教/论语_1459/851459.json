@@ -1,0 +1,572 @@
+{
+  "meta": {
+    "bookId": "851459",
+    "title": "论语",
+    "author": "[春秋]孔丘著 陈典译注",
+    "translator": "陈典",
+    "cover": "https://cdn.weread.qq.com/weread/cover/60/YueWen_851459/t6_YueWen_851459.jpg",
+    "intro": "古人半部《论语》治天下，今人半部《论语》修自身。尽管《论语》只是一些简单的对话，但包含了大量为人处世的大原则、大道理。国学大师南怀瑾先生曾形象地把孔子创始的儒家思想比作“粮食店”。可以说，孔子在《论语》中提出的思想，很多都是我们这个民族乃至全人类的“精神食粮”。《论语》与《大学》《中庸》《孟子》合称为“四书”，是儒家经典著作之一。《论语》首创语录之体，记录了孔子及其弟子们的言行，书中用简洁而又含义隽永的语言，讲述了修身、齐家、治国、平天下的至理名言。",
+    "category": "哲学宗教-东方哲学",
+    "publisher": "江西人民出版社",
+    "publishTime": "2016-12-01 00:00:00",
+    "isbn": "9787210088141",
+    "wordCount": 0,
+    "newRating": 864,
+    "newRatingCount": 8266,
+    "newRatingDetail": {
+      "good": 7153,
+      "fair": 777,
+      "poor": 336,
+      "recent": 26,
+      "deepV": 318,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=851459",
+    "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc",
+    "lastSync": "2026-05-21T11:44:39Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 129,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 442,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "学而篇第一",
+      "level": 1,
+      "wordCount": 9955,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "为政篇第二",
+      "level": 1,
+      "wordCount": 11427,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "八佾篇第三",
+      "level": 1,
+      "wordCount": 12163,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "里仁篇第四",
+      "level": 1,
+      "wordCount": 14305,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "公冶长篇第五",
+      "level": 1,
+      "wordCount": 19165,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "雍也篇第六",
+      "level": 1,
+      "wordCount": 20159,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "述而篇第七",
+      "level": 1,
+      "wordCount": 16942,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "泰伯篇第八",
+      "level": 1,
+      "wordCount": 10618,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "子罕篇第九",
+      "level": 1,
+      "wordCount": 14277,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "乡党篇第十",
+      "level": 1,
+      "wordCount": 10575,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "先进篇第十一",
+      "level": 1,
+      "wordCount": 12560,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "颜渊篇第十二",
+      "level": 1,
+      "wordCount": 11168,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "子路篇第十三",
+      "level": 1,
+      "wordCount": 13526,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "宪问篇第十四",
+      "level": 1,
+      "wordCount": 18875,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "灵公篇第十五",
+      "level": 1,
+      "wordCount": 16594,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "季氏篇第十六",
+      "level": 1,
+      "wordCount": 8071,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "阳货篇第十七",
+      "level": 1,
+      "wordCount": 14069,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "微子篇第十八",
+      "level": 1,
+      "wordCount": 7106,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "子张篇第十九",
+      "level": 1,
+      "wordCount": 12120,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "尧曰篇第二十",
+      "level": 1,
+      "wordCount": 2889,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=851459&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=23"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 6,
+      "chapterTitle": "八佾篇第三",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "851459_6_17809-17823",
+          "range": "17809-17823",
+          "rangeStart": 17809,
+          "rangeEnd": 17823,
+          "markText": "成事不说，遂事不谏，既往不咎",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1778688799,
+          "createTimeFormatted": "2026-05-14 00:13:19",
+          "chapterUid": 6,
+          "appLink": "weread://bestbookmark?bookId=851459&chapterUid=6&rangeStart=17809&rangeEnd=17823",
+          "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=6&rangeStart=17809&rangeEnd=17823"
+        }
+      ]
+    },
+    {
+      "chapterUid": 15,
+      "chapterTitle": "颜渊篇第十二",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "851459_15_9158-9310",
+          "range": "9158-9310",
+          "rangeStart": 9158,
+          "rangeEnd": 9310,
+          "markText": "子张问崇德辨惑。子曰：“主忠信，徙义，崇德也。爱之欲其生，恶之欲其死，既欲其生，又欲其死，是惑也。‘诚不以富，亦只以异。’”",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1736917271,
+          "createTimeFormatted": "2025-01-15 13:01:11",
+          "chapterUid": 15,
+          "appLink": "weread://bestbookmark?bookId=851459&chapterUid=15&rangeStart=9158&rangeEnd=9310",
+          "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=15&rangeStart=9158&rangeEnd=9310"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "851459_4_704-1015",
+      "chapterUid": 4,
+      "range": "704-1015",
+      "markText": "子曰[1]：“学[2]而时习[3]之，不亦说[4]乎？有朋[5]自远方来，不亦乐[6]乎？人不知[7]而不愠[8]，不亦君子[9]乎？”",
+      "totalCount": 5940,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=4&rangeStart=704&rangeEnd=1015",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=4&rangeStart=704&rangeEnd=1015"
+    },
+    {
+      "bookmarkId": "851459_4_4263-4337",
+      "chapterUid": 4,
+      "range": "4263-4337",
+      "markText": "子曰：“巧言令色[1]，鲜[2]仁矣。”",
+      "totalCount": 5558,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=4&rangeStart=4263&rangeEnd=4337",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=4&rangeStart=4263&rangeEnd=4337"
+    },
+    {
+      "bookmarkId": "851459_5_3545-3594",
+      "chapterUid": 5,
+      "range": "3545-3594",
+      "markText": "子曰：“吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲不逾矩。”",
+      "totalCount": 4964,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=5&rangeStart=3545&rangeEnd=3594",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=5&rangeStart=3545&rangeEnd=3594"
+    },
+    {
+      "bookmarkId": "851459_4_2449-2751",
+      "chapterUid": 4,
+      "range": "2449-2751",
+      "markText": "有子[1]曰：“其为人也孝弟[2]，而好犯上者[3]，鲜[4]矣；不好犯上，而好作乱者，未之有也[5]。君子务本[6]，本立而道生[7]。孝弟也者，其为仁之本与[8]? ”",
+      "totalCount": 4770,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=4&rangeStart=2449&rangeEnd=2751",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=4&rangeStart=2449&rangeEnd=2751"
+    },
+    {
+      "bookmarkId": "851459_5_9548-9698",
+      "chapterUid": 5,
+      "range": "9548-9698",
+      "markText": "子曰：“视其所以[1]，观其所由[2]，察其所安[3]，人焉廋[4]哉？人焉廋哉？”",
+      "totalCount": 4335,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=5&rangeStart=9548&rangeEnd=9698",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=5&rangeStart=9548&rangeEnd=9698"
+    },
+    {
+      "bookmarkId": "851459_4_7662-7939",
+      "chapterUid": 4,
+      "range": "7662-7939",
+      "markText": "子曰：“弟子[1]入[2]则孝，出[3]则弟，谨[4]而信，泛[5]爱众，而亲仁[6]，行有余力[7]，则以学文[8]。”",
+      "totalCount": 4180,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=4&rangeStart=7662&rangeEnd=7939",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=4&rangeStart=7662&rangeEnd=7939"
+    },
+    {
+      "bookmarkId": "851459_4_16475-16604",
+      "chapterUid": 4,
+      "range": "16475-16604",
+      "markText": "子曰：“君子食无求饱，居无求安，敏于事而慎于言，就[1]有道[2]而正[3]焉，可谓好学也已。”",
+      "totalCount": 3924,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=4&rangeStart=16475&rangeEnd=16604",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=4&rangeStart=16475&rangeEnd=16604"
+    },
+    {
+      "bookmarkId": "851459_5_11361-11401",
+      "chapterUid": 5,
+      "range": "11361-11401",
+      "markText": "子曰：“君子不器[1]。”",
+      "totalCount": 3915,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=5&rangeStart=11361&rangeEnd=11401",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=5&rangeStart=11361&rangeEnd=11401"
+    },
+    {
+      "bookmarkId": "851459_4_6269-6446",
+      "chapterUid": 4,
+      "range": "6269-6446",
+      "markText": "子曰：“道[1]千乘之国[2]，敬事[3]而信，节用而爱人[4]，使民以时[5]。”",
+      "totalCount": 3840,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=4&rangeStart=6269&rangeEnd=6446",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=4&rangeStart=6269&rangeEnd=6446"
+    },
+    {
+      "bookmarkId": "851459_4_9159-9328",
+      "chapterUid": 4,
+      "range": "9159-9328",
+      "markText": "子夏[1]曰：“贤贤[2]易[3]色；事父母能竭其力；事君，能致其身[4]；与朋友交，言而有信。虽曰未学，吾必谓之学矣。”",
+      "totalCount": 3712,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=4&rangeStart=9159&rangeEnd=9328",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=4&rangeStart=9159&rangeEnd=9328"
+    },
+    {
+      "bookmarkId": "851459_4_5047-5202",
+      "chapterUid": 4,
+      "range": "5047-5202",
+      "markText": "曾子[1]曰：“吾日三省[2]吾身。为人谋而不忠[3]乎？与朋友交而不信[4]乎？传不习乎？”",
+      "totalCount": 3540,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=4&rangeStart=5047&rangeEnd=5202",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=4&rangeStart=5047&rangeEnd=5202"
+    },
+    {
+      "bookmarkId": "851459_5_11976-12056",
+      "chapterUid": 5,
+      "range": "11976-12056",
+      "markText": "子贡问君子。子曰：“先行[1]其言[2]而后从之。”",
+      "totalCount": 3486,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=5&rangeStart=11976&rangeEnd=12056",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=5&rangeStart=11976&rangeEnd=12056"
+    },
+    {
+      "bookmarkId": "851459_4_14388-14528",
+      "chapterUid": 4,
+      "range": "14388-14528",
+      "markText": "有子曰：“礼之用，和[1]为贵。先王之道[2]，斯[3]为美。小大由之，有所不行。知和而和，不以礼节之，亦不可行也。”",
+      "totalCount": 3372,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=4&rangeStart=14388&rangeEnd=14528",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=4&rangeStart=14388&rangeEnd=14528"
+    },
+    {
+      "bookmarkId": "851459_4_15457-15554",
+      "chapterUid": 4,
+      "range": "15457-15554",
+      "markText": "有子曰：“信近[1]于义，言可复也；恭近于礼，远[2]耻辱也；因不失其亲，亦可宗也。”",
+      "totalCount": 3348,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=4&rangeStart=15457&rangeEnd=15554",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=4&rangeStart=15457&rangeEnd=15554"
+    },
+    {
+      "bookmarkId": "851459_5_1656-1738",
+      "chapterUid": 5,
+      "range": "1656-1738",
+      "markText": "子曰：“诗三百[1]，一言以蔽[2]之，曰‘思无邪’。”",
+      "totalCount": 3240,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=5&rangeStart=1656&rangeEnd=1738",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=5&rangeStart=1656&rangeEnd=1738"
+    },
+    {
+      "bookmarkId": "851459_5_5528-5607",
+      "chapterUid": 5,
+      "range": "5528-5607",
+      "markText": "孟武伯[1]问孝。子曰：“父母唯其疾之忧[2]。”",
+      "totalCount": 3132,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=5&rangeStart=5528&rangeEnd=5607",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=5&rangeStart=5528&rangeEnd=5607"
+    },
+    {
+      "bookmarkId": "851459_4_13465-13558",
+      "chapterUid": 4,
+      "range": "13465-13558",
+      "markText": "子曰：“父在，观其[1]志；父没，观其行[2]；三年无改于父之道，可谓孝矣。”",
+      "totalCount": 3108,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=4&rangeStart=13465&rangeEnd=13558",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=4&rangeStart=13465&rangeEnd=13558"
+    },
+    {
+      "bookmarkId": "851459_4_11480-11557",
+      "chapterUid": 4,
+      "range": "11480-11557",
+      "markText": "曾子曰：“慎终[1]追远[2]，民德归厚矣。”",
+      "totalCount": 3066,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=4&rangeStart=11480&rangeEnd=11557",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=4&rangeStart=11480&rangeEnd=11557"
+    },
+    {
+      "bookmarkId": "851459_7_13938-13995",
+      "chapterUid": 7,
+      "range": "13938-13995",
+      "markText": "子曰：“不患无位，患所以立[1]；不患莫己知，求为可知也。”",
+      "totalCount": 3052,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=7&rangeStart=13938&rangeEnd=13995",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=7&rangeStart=13938&rangeEnd=13995"
+    },
+    {
+      "bookmarkId": "851459_6_15383-15399",
+      "chapterUid": 6,
+      "range": "15383-15399",
+      "markText": "子曰：“事君尽礼，人以为谄也。”",
+      "totalCount": 2988,
+      "appLink": "weread://bestbookmark?bookId=851459&chapterUid=6&rangeStart=15383&rangeEnd=15399",
+      "webLink": "https://weread.qq.com/web/reader/947326b05cfe039471b9edc?chapterUid=6&rangeStart=15383&rangeEnd=15399"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 6,
+    "chapterOffset": 17272,
+    "progress": 0,
+    "updateTime": 1778688801,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

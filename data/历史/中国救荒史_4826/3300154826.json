@@ -1,0 +1,562 @@
+{
+  "meta": {
+    "bookId": "3300154826",
+    "title": "中国救荒史",
+    "author": "邓云特",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/42/cpplatform_6wclaiuv8lplsbh9x2fv5s/t6_cpplatform_6wclaiuv8lplsbh9x2fv5s1753951473.jpg",
+    "intro": "《中国救荒史》是中国灾害史研究的奠基之作，该书以翔实的史料和严谨的分析，梳理了三千年来的灾荒概况、救荒政策及其社会影响。\n全书分为三编：“历代灾荒史实分析”系统统计水旱、蝗灾等灾害的频率和破坏性；“救荒思想与制度变迁”考察仓储、赈济等荒政措施的演变；“灾荒与社会动荡”则探讨饥荒如何催化农民起义与政权更迭。\n邓拓提出“灾荒周期律”，指出土地兼并、吏治腐败与抗灾能力下降的恶性循环，最终导致社会崩溃。",
+    "category": "历史-历史文化",
+    "publisher": "商务印书馆",
+    "publishTime": "2025-07-01 00:00:00",
+    "isbn": "9787100084468",
+    "wordCount": 0,
+    "newRating": 767,
+    "newRatingCount": 78,
+    "newRatingDetail": {
+      "good": 60,
+      "fair": 14,
+      "poor": 4,
+      "recent": 7,
+      "deepV": 22,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300154826",
+    "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6",
+    "lastSync": "2026-05-21T11:44:38Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 114,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "写在重印本的前面",
+      "level": 1,
+      "wordCount": 579,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "例言",
+      "level": 1,
+      "wordCount": 265,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "绪言",
+      "level": 1,
+      "wordCount": 1220,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第一编 历代灾荒的史实分析",
+      "level": 1,
+      "wordCount": 22865,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 灾荒的实况",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        },
+        {
+          "title": "第一节 灾情总述",
+          "anchor": "sigil_toc_id_2",
+          "level": 3
+        },
+        {
+          "title": "第二节 灾荒发展的趋势和特征",
+          "anchor": "sigil_toc_id_3",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第二章 灾荒的成因",
+      "level": 2,
+      "wordCount": 25011,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 灾荒发生的自然条件",
+          "anchor": "sigil_toc_id_4",
+          "level": 3
+        },
+        {
+          "title": "第二节 造成灾荒的社会因素",
+          "anchor": "sigil_toc_id_5",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第三章 灾荒的实际影响",
+      "level": 2,
+      "wordCount": 23309,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 灾荒促成社会变乱",
+          "anchor": "sigil_toc_id_6",
+          "level": 3
+        },
+        {
+          "title": "第二节 灾荒招致经济衰落",
+          "anchor": "sigil_toc_id_7",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第二编 历代救荒思想的发展",
+      "level": 1,
+      "wordCount": 2215,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 天命主义的禳弭论",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第二章 消极救济论",
+      "level": 2,
+      "wordCount": 16853,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 遇灾治标",
+          "anchor": "sigil_toc_id_9",
+          "level": 3
+        },
+        {
+          "title": "第二节 灾后补救",
+          "anchor": "sigil_toc_id_10",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第三章 积极预防论",
+      "level": 2,
+      "wordCount": 9100,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 改良社会条件",
+          "anchor": "sigil_toc_id_11",
+          "level": 3
+        },
+        {
+          "title": "第二节 改良自然条件",
+          "anchor": "sigil_toc_id_12",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第三编 历代救荒政策的实施",
+      "level": 1,
+      "wordCount": 4790,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 关于巫术的记载",
+          "anchor": "sigil_toc_id_13",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第二章 历代消极救荒的政策",
+      "level": 2,
+      "wordCount": 55857,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 治标政策",
+          "anchor": "sigil_toc_id_14",
+          "level": 3
+        },
+        {
+          "title": "第二节 灾后补救政策",
+          "anchor": "sigil_toc_id_15",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第三章 历代积极救荒的攻策",
+      "level": 2,
+      "wordCount": 35119,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一节 改良社会条件的具体政策",
+          "anchor": "sigil_toc_id_16",
+          "level": 3
+        },
+        {
+          "title": "第二节 改良自然条件的具体政策",
+          "anchor": "sigil_toc_id_17",
+          "level": 3
+        }
+      ],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "附录 中国历代救荒大事年表",
+      "level": 1,
+      "wordCount": 58,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300154826&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=15"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 12,
+      "chapterTitle": "第三编 历代救荒政策的实施",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300154826_12_6083-6095",
+          "range": "6083-6095",
+          "rangeStart": 6083,
+          "rangeEnd": 6095,
+          "markText": "“洪武三年，夏，久不雨。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1778722571,
+          "createTimeFormatted": "2026-05-14 09:36:11",
+          "chapterUid": 12,
+          "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=12&rangeStart=6083&rangeEnd=6095",
+          "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=12&rangeStart=6083&rangeEnd=6095"
+        }
+      ]
+    },
+    {
+      "chapterUid": 7,
+      "chapterTitle": "第二章 灾荒的成因",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300154826_7_10340-10369",
+          "range": "10340-10369",
+          "rangeStart": 10340,
+          "rangeEnd": 10369,
+          "markText": "自然条件虽为构成灾荒的原因之一，但并不是终极的唯一的原因。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1778722565,
+          "createTimeFormatted": "2026-05-14 09:36:05",
+          "chapterUid": 7,
+          "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=7&rangeStart=10340&rangeEnd=10369",
+          "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=7&rangeStart=10340&rangeEnd=10369"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300154826_7_10340-10369",
+      "chapterUid": 7,
+      "range": "10340-10369",
+      "markText": "自然条件虽为构成灾荒的原因之一，但并不是终极的唯一的原因。",
+      "totalCount": 2142,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=7&rangeStart=10340&rangeEnd=10369",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=7&rangeStart=10340&rangeEnd=10369"
+    },
+    {
+      "bookmarkId": "3300154826_13_22293-22320",
+      "chapterUid": 13,
+      "range": "22293-22320",
+      "markText": "绝欺压，可使有限的恩惠，真正施及于灾民，不致有名无实。",
+      "totalCount": 2142,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=13&rangeStart=22293&rangeEnd=22320",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=13&rangeStart=22293&rangeEnd=22320"
+    },
+    {
+      "bookmarkId": "3300154826_14_32794-32830",
+      "chapterUid": 14,
+      "range": "32794-32830",
+      "markText": "至于宋代的水利灌溉，在政府方面虽颇为注重，但灌溉事业的功绩，也不如前代。",
+      "totalCount": 2142,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=14&rangeStart=32794&rangeEnd=32830",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=14&rangeStart=32794&rangeEnd=32830"
+    },
+    {
+      "bookmarkId": "3300154826_12_6083-6095",
+      "chapterUid": 12,
+      "range": "6083-6095",
+      "markText": "“洪武三年，夏，久不雨。",
+      "totalCount": 2102,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=12&rangeStart=6083&rangeEnd=6095",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=12&rangeStart=6083&rangeEnd=6095"
+    },
+    {
+      "bookmarkId": "3300154826_14_43566-43611",
+      "chapterUid": 14,
+      "range": "43566-43611",
+      "markText": "明初正当元末大乱之后，“山东、河南多是无人之地，洪武中诏有能开垦者，即为己业，永不起科。”",
+      "totalCount": 2077,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=14&rangeStart=43566&rangeEnd=43611",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=14&rangeStart=43566&rangeEnd=43611"
+    },
+    {
+      "bookmarkId": "3300154826_12_6268-6308",
+      "chapterUid": 12,
+      "range": "6268-6308",
+      "markText": "如晋代，旱则祈雨大雩，有舞僮八佾，计六十四人，都穿玄服、持羽翳而歌《云汉》之诗。",
+      "totalCount": 2012,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=12&rangeStart=6268&rangeEnd=6308",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=12&rangeStart=6268&rangeEnd=6308"
+    },
+    {
+      "bookmarkId": "3300154826_8_4760-4819",
+      "chapterUid": 8,
+      "range": "4760-4819",
+      "markText": "据过去官方的和半官方的统计材料，我国农村人口死亡率约为千分之二十五至二十六，即平均每年每千人中约死二十五人至二十六人。",
+      "totalCount": 1991,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=8&rangeStart=4760&rangeEnd=4819",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=8&rangeStart=4760&rangeEnd=4819"
+    },
+    {
+      "bookmarkId": "3300154826_14_34602-34651",
+      "chapterUid": 14,
+      "range": "34602-34651",
+      "markText": "三为甘肃靖远的黄河堰，一望无边际，较大的渠，有汉伯渠、胡渠、御史渠，每渠又各有支渠，灌溉田地颇多。",
+      "totalCount": 1984,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=14&rangeStart=34602&rangeEnd=34651",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=14&rangeStart=34602&rangeEnd=34651"
+    },
+    {
+      "bookmarkId": "3300154826_6_8071-8115",
+      "chapterUid": 6,
+      "range": "8071-8115",
+      "markText": "东晋之后，南北朝割据，百六十九年中，水、旱、蝗螟、地震、霜雹、疫疠等灾害共达三百十五次。",
+      "totalCount": 1966,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=6&rangeStart=8071&rangeEnd=8115",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=6&rangeStart=8071&rangeEnd=8115"
+    },
+    {
+      "bookmarkId": "3300154826_8_4439-4493",
+      "chapterUid": 8,
+      "range": "4439-4493",
+      "markText": "这大量流移的受灾人口，虽然成群结队，相继离村，但流徙到别的州郡以后，求食很困难，甚至有被地方官吏下令捕逐的。",
+      "totalCount": 1966,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=8&rangeStart=4439&rangeEnd=4493",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=8&rangeStart=4439&rangeEnd=4493"
+    },
+    {
+      "bookmarkId": "3300154826_13_22338-22378",
+      "chapterUid": 13,
+      "range": "22338-22378",
+      "markText": "严检查，则可以戢暴诘奸，户口也要调查详实，审查便利，粮食的供需，也就较易调节了。",
+      "totalCount": 1966,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=13&rangeStart=22338&rangeEnd=22378",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=13&rangeStart=22338&rangeEnd=22378"
+    },
+    {
+      "bookmarkId": "3300154826_13_42042-42064",
+      "chapterUid": 13,
+      "range": "42042-42064",
+      "markText": "自东汉以后，才渐渐注意广泛的医治和公共防疫。",
+      "totalCount": 1941,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=13&rangeStart=42042&rangeEnd=42064",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=13&rangeStart=42042&rangeEnd=42064"
+    },
+    {
+      "bookmarkId": "3300154826_8_27309-27350",
+      "chapterUid": 8,
+      "range": "27309-27350",
+      "markText": "灾荒的延长，自然会消磨民族内在的力量，内力不充，外力就得以侵入，这是很平常的道理。",
+      "totalCount": 1937,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=8&rangeStart=27309&rangeEnd=27350",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=8&rangeStart=27309&rangeEnd=27350"
+    },
+    {
+      "bookmarkId": "3300154826_10_9487-9514",
+      "chapterUid": 10,
+      "range": "9487-9514",
+      "markText": "徐光启关于除蝗的议论，尤为详尽，并且有相当的科学价值。",
+      "totalCount": 1926,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=10&rangeStart=9487&rangeEnd=9514",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=10&rangeStart=9487&rangeEnd=9514"
+    },
+    {
+      "bookmarkId": "3300154826_14_29229-29280",
+      "chapterUid": 14,
+      "range": "29229-29280",
+      "markText": "我国历代都实行过灌溉，但技术很不完善，几千年来都是依靠人工、畜工和简陋的器具与自然抗争，效果自然有限。",
+      "totalCount": 1919,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=14&rangeStart=29229&rangeEnd=29280",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=14&rangeStart=29229&rangeEnd=29280"
+    },
+    {
+      "bookmarkId": "3300154826_8_29023-29076",
+      "chapterUid": 8,
+      "range": "29023-29076",
+      "markText": "另方面，又必然直接间接地影响整个社会经济，破坏已有的繁荣，阻碍国民经济的发展，促成或加深经济上的衰落现象。",
+      "totalCount": 1890,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=8&rangeStart=29023&rangeEnd=29076",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=8&rangeStart=29023&rangeEnd=29076"
+    },
+    {
+      "bookmarkId": "3300154826_7_26494-26527",
+      "chapterUid": 7,
+      "range": "26494-26527",
+      "markText": "技术落后，从若干方面考察，也是促进灾荒、使灾荒不易克服的一个原因。",
+      "totalCount": 1872,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=7&rangeStart=26494&rangeEnd=26527",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=7&rangeStart=26494&rangeEnd=26527"
+    },
+    {
+      "bookmarkId": "3300154826_7_5186-5223",
+      "chapterUid": 7,
+      "range": "5186-5223",
+      "markText": "风力对于蝗灾的蔓延，也有相当的影响，飞蝗及其他有翅害虫，常依靠风力来传布。",
+      "totalCount": 1858,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=7&rangeStart=5186&rangeEnd=5223",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=7&rangeStart=5186&rangeEnd=5223"
+    },
+    {
+      "bookmarkId": "3300154826_10_10348-10403",
+      "chapterUid": 10,
+      "range": "10348-10403",
+      "markText": "清陆世仪的关于治蝗的根本思想，虽仍不能摆脱诚心诚意祈祷神佑的观念，但他的关于蝗害可除的肯定说法，也还是可取的。",
+      "totalCount": 1844,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=10&rangeStart=10348&rangeEnd=10403",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=10&rangeStart=10348&rangeEnd=10403"
+    },
+    {
+      "bookmarkId": "3300154826_6_6843-6882",
+      "chapterUid": 6,
+      "range": "6843-6882",
+      "markText": "三国、两晋的时候，黄河、长江两流域间，连年凶灾，总计二百年中，遇灾三百零四次。",
+      "totalCount": 1819,
+      "appLink": "weread://bestbookmark?bookId=3300154826&chapterUid=6&rangeStart=6843&rangeEnd=6882",
+      "webLink": "https://weread.qq.com/web/reader/2a032de0813aba2fag016fb6?chapterUid=6&rangeStart=6843&rangeEnd=6882"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 12,
+    "chapterOffset": 6171,
+    "progress": 0,
+    "updateTime": 1778723851,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

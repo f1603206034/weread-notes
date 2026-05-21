@@ -1,0 +1,606 @@
+{
+  "meta": {
+    "bookId": "34156286",
+    "title": "概率论与数理统计习题全解与学习指导",
+    "author": "杨筱菡 王勇智",
+    "translator": "",
+    "cover": "https://cdn.weread.qq.com/weread/cover/71/YueWen_34156286/t6_YueWen_34156286.jpg",
+    "intro": "本书共8章，包括随机事件与概率、随机变量及其分布、二维随机变量及其分布、随机变量的数字特征、大数定律及中心极限定理、统计量和抽样分布、参数估计、假设检验，各章节对配套教材《概率论与数理统计》中的习题、测试题进行了详细解答，且都配有知识结构、归纳总结、典型例题、习题详解。其中，典型例题中精心挑选了与对应知识点相关的考研真题，并做了标注，便于读者有针对性地练习，进而培养解决问题的逻辑思维方法。",
+    "category": "教育学习-教材",
+    "publisher": "人民邮电出版社",
+    "publishTime": "2018-10-01 00:00:00",
+    "isbn": "9787115486035",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 20,
+    "newRatingDetail": {
+      "good": 18,
+      "fair": 2,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 1,
+      "myRating": "",
+      "title": "评分不足"
+    },
+    "appLink": "weread://reading?bId=34156286",
+    "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6",
+    "lastSync": "2026-05-21T11:50:10Z",
+    "readingProgress": "52%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 471,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "内容提要",
+      "level": 1,
+      "wordCount": 300,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 918,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第一章 随机事件与概率",
+      "level": 1,
+      "wordCount": 21,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一、知识结构",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34156286&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "二、归纳总结",
+      "level": 2,
+      "wordCount": 2061,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "三、典型例题",
+      "level": 2,
+      "wordCount": 3954,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "四、习题详解",
+      "level": 2,
+      "wordCount": 15679,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第二章 随机变量及其分布",
+      "level": 1,
+      "wordCount": 22,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一、知识结构",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34156286&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "二、归纳总结",
+      "level": 2,
+      "wordCount": 3000,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "三、典型例题",
+      "level": 2,
+      "wordCount": 1731,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "四、习题详解",
+      "level": 2,
+      "wordCount": 7558,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第三章 二维随机变量及其分布",
+      "level": 1,
+      "wordCount": 24,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一、知识结构",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34156286&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "二、归纳总结",
+      "level": 2,
+      "wordCount": 4446,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "三、典型例题",
+      "level": 2,
+      "wordCount": 4598,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "四、习题详解",
+      "level": 2,
+      "wordCount": 9968,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第四章 随机变量的数字特征",
+      "level": 1,
+      "wordCount": 23,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一、知识结构",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34156286&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "二、归纳总结",
+      "level": 2,
+      "wordCount": 2722,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "三、典型例题",
+      "level": 2,
+      "wordCount": 5563,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "四、习题详解",
+      "level": 2,
+      "wordCount": 7405,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第五章 大数定律及中心极限定理",
+      "level": 1,
+      "wordCount": 25,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一、知识结构",
+          "anchor": "sigil_toc_id_5",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34156286&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "二、归纳总结",
+      "level": 2,
+      "wordCount": 1090,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "三、典型例题",
+      "level": 2,
+      "wordCount": 2774,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "四、习题详解",
+      "level": 2,
+      "wordCount": 3994,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第六章 统计量和抽样分布",
+      "level": 1,
+      "wordCount": 22,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一、知识结构",
+          "anchor": "sigil_toc_id_6",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34156286&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "二、归纳总结",
+      "level": 2,
+      "wordCount": 2137,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "三、典型例题",
+      "level": 2,
+      "wordCount": 1904,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "四、习题详解",
+      "level": 2,
+      "wordCount": 5046,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第七章 参数估计",
+      "level": 1,
+      "wordCount": 18,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一、知识结构",
+          "anchor": "sigil_toc_id_7",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34156286&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "二、归纳总结",
+      "level": 2,
+      "wordCount": 1836,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "三、典型例题",
+      "level": 2,
+      "wordCount": 2338,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "四、习题详解",
+      "level": 2,
+      "wordCount": 8221,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第八章 假设检验",
+      "level": 1,
+      "wordCount": 18,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一、知识结构",
+          "anchor": "sigil_toc_id_8",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=34156286&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "二、归纳总结",
+      "level": 2,
+      "wordCount": 1561,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "三、典型例题",
+      "level": 2,
+      "wordCount": 445,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "四、习题详解",
+      "level": 2,
+      "wordCount": 5864,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=34156286&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=36"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 18,
+      "chapterTitle": "二、归纳总结",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "34156286_18_6429-15162",
+          "range": "6429-15162",
+          "rangeStart": 6429,
+          "rangeEnd": 15162,
+          "markText": "数学期望的性质如下：（1）设c为常数，则E（c）=c；（2）设X为随机变量，且E（X）存在，k，c为常数，则E（kX+c）=kE（X）+c；（3）设X，Y为任意两个随机变量，且E（X）和E（Y）存在，则E（X+Y）=E（X）+E（Y）；（4）设X与Y为相互独立的随机变量，且E（X）和E（Y）存在，则E（XY）=E（X）E（Y）．2. 方差和标准差方差和标准差：设X是一个随机变量，如果E{［X-E（X）］2}存在，则称[插图]为随机变量X的方差．称方差D（X）的算术平方根[插图]为随机变量X的标准差．方差的计算公式：D（X）=E（X2）-［E（X）］2．方差的性质如下：（1）D（X）=0的充分必要条件是P（X=c）=1，即X服从参数为c的退化分布，其中c=E（X）．特别地，若c为常数，则D（c）=0；（2）设X为随机变量，k，c为常数，则D（kX+c）=k2D（X）；（3）设X，Y为任意两个随机变量，则D（X±Y）=D（X）+D（Y）±2E{［X-E（X）］［Y-E（Y）］}；（4）设X与Y为相互独立的随机变量，则D（X±Y）=D（X）+D（Y）．3. 协方差和相关系数协方差：设（X，Y）是二维随机变量，如果E{［X-E（X）］［Y-E（Y）］}存在，则称[插图]为随机变量X和Y的协方差．协方差的计算公式：cov（X，Y）=E（XY）-E（X）E（Y）．协方差的性质如下．设X，Y，X1与X2为随机变量，c，k和l为常数，则有（1）cov（X，c）=0；（2）cov（X，Y）=cov（Y，X）；（3）cov（kX，lY）=klcov（X，Y）；（4）cov（X1+X2，Y）=cov（X1，Y）+cov（X2，Y）．相关系数：设（X，Y）是二维随机变量，如果cov（X，Y）存在，且D（X）＞0，D（Y）＞0，则称[插图]为随机变量X和Y的相关系数，也记作ρXY．当｜ρ（X，Y）｜越大，X与Y之间的线性相关程度越密切．",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1750386899,
+          "createTimeFormatted": "2025-06-20 10:34:59",
+          "chapterUid": 18,
+          "appLink": "weread://bestbookmark?bookId=34156286&chapterUid=18&rangeStart=6429&rangeEnd=15162",
+          "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=18&rangeStart=6429&rangeEnd=15162"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "34156286_7_1441-1451",
+      "chapterUid": 7,
+      "range": "1441-1451",
+      "markText": "但反之是不一定成立的",
+      "totalCount": 45,
+      "appLink": "weread://bestbookmark?bookId=34156286&chapterUid=7&rangeStart=1441&rangeEnd=1451",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=7&rangeStart=1441&rangeEnd=1451"
+    },
+    {
+      "bookmarkId": "34156286_7_13382-13523",
+      "chapterUid": 7,
+      "range": "13382-13523",
+      "markText": "D与C的区别在于：D比C多了选盒子的过程",
+      "totalCount": 20,
+      "appLink": "weread://bestbookmark?bookId=34156286&chapterUid=7&rangeStart=13382&rangeEnd=13523",
+      "webLink": "https://weread.qq.com/web/reader/6fc32c5072092efe6fc3af6?chapterUid=7&rangeStart=13382&rangeEnd=13523"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 18,
+    "chapterOffset": 4869,
+    "progress": 52,
+    "updateTime": 1750391150,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

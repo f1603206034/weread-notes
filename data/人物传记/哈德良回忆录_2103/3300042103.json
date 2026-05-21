@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "bookId": "3300042103",
+    "title": "哈德良回忆录",
+    "author": "[法]玛格丽特·尤瑟纳尔",
+    "translator": "陈太乙",
+    "cover": "https://cdn.weread.qq.com/weread/cover/10/cpPlatform_8gk2cUXPktZtMXYJDvoim5/t6_cpPlatform_8gk2cUXPktZtMXYJDvoim5.jpg",
+    "intro": "哈德良，原名普布利乌斯·埃利乌斯·哈德良（76.1.24—138.7.10，绰号勇帝），罗马帝国五贤帝之一，生活于罗马帝国鼎盛时期。在位期间，他停止东方战争，与帕提亚国王缔结和约，改革官僚制度和法律，在不列颠岛北部建造了横贯东西的“哈德良长城”，并主持了大量艺术、建筑项目，如重建万神殿等。\n《哈德良回忆录》一书采用书信体，透过老迈的哈德良留给十七岁继任者奥勒留的书信，娓娓道来一位尊贵的帝王，在生命终结之即，对人生、社会、爱情、政治、艺术等命题的观察与思考，也描述了他如何从军人一步步成为王者。书中不仅为皇帝呈现了文人、艺术家、旅行家、情人等诸多形象，还大量还原了古罗马时代的历史细节，既是一本写人生、写历史的小说，也反映了作者对人类文明的深刻思考。",
+    "category": "人物传记-军政领袖",
+    "publisher": "",
+    "publishTime": "2023-01-01 00:00:00",
+    "isbn": "9787542676139",
+    "wordCount": 0,
+    "newRating": 896,
+    "newRatingCount": 532,
+    "newRatingDetail": {
+      "good": 486,
+      "fair": 40,
+      "poor": 6,
+      "recent": 3,
+      "deepV": 182,
+      "myRating": "",
+      "title": "好评如潮"
+    },
+    "appLink": "weread://reading?bId=3300042103",
+    "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00",
+    "lastSync": "2026-05-21T11:58:44Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 2,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300042103&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 147,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300042103&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "引言",
+      "level": 1,
+      "wordCount": 82,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300042103&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "亲亲吾魂，温柔飘然",
+      "level": 1,
+      "wordCount": 13297,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300042103&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "形形色色，百转千回，变化万千",
+      "level": 1,
+      "wordCount": 34449,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300042103&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "巩固江山",
+      "level": 1,
+      "wordCount": 30301,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300042103&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "金色年代",
+      "level": 1,
+      "wordCount": 32963,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300042103&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "奥古斯都纪律",
+      "level": 1,
+      "wordCount": 31947,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300042103&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "坚忍",
+      "level": 1,
+      "wordCount": 23508,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300042103&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "书目注记",
+      "level": 1,
+      "wordCount": 16737,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300042103&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=10"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "亲亲吾魂，温柔飘然",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300042103_4_1430-1468",
+          "range": "1430-1468",
+          "rangeStart": 1430,
+          "rangeEnd": 1468,
+          "markText": "我的确到了这样的年纪：到了这把岁数，对每个人而言，生命是一场已被接受的溃败。",
+          "colorStyle": 0,
+          "colorLabel": "",
+          "createTime": 1716950261,
+          "createTimeFormatted": "2024-05-29 10:37:41",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=4&rangeStart=1430&rangeEnd=1468",
+          "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4&rangeStart=1430&rangeEnd=1468"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300042103_4_2081-2135",
+      "chapterUid": 4,
+      "range": "2081-2135",
+      "markText": "一如航行于群岛之间的旅人，在傍晚时分，眼见雾气中透出点点亮光，渐渐辨识出海岸线；我也开始看出自身死亡的轮廓。",
+      "totalCount": 450,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=4&rangeStart=2081&rangeEnd=2135",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4&rangeStart=2081&rangeEnd=2135"
+    },
+    {
+      "bookmarkId": "3300042103_4_4243-4275",
+      "chapterUid": 4,
+      "range": "4243-4275",
+      "markText": "趁着某几个节日大吃大喝，始终是穷人的野心、乐事与油然而生的骄傲。",
+      "totalCount": 408,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=4&rangeStart=4243&rangeEnd=4275",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4&rangeStart=4243&rangeEnd=4275"
+    },
+    {
+      "bookmarkId": "3300042103_4_826-882",
+      "chapterUid": 4,
+      "range": "826-882",
+      "markText": "在医生面前维持皇帝的尊严真难，连保有人类的特质都难。在大夫的眼中，我只不过是一大堆体液、淋巴混着血液的不堪秽物。",
+      "totalCount": 403,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=4&rangeStart=826&rangeEnd=882",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4&rangeStart=826&rangeEnd=882"
+    },
+    {
+      "bookmarkId": "3300042103_3_772-942",
+      "chapterUid": 3,
+      "range": "772-942",
+      "markText": "亲亲吾魂，温柔飘然， 身之客，长相伴； 今日别，前去处， 苍茫，坚硬，裸秃， 勿复如昔，笑语盈盈……",
+      "totalCount": 364,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=3&rangeStart=772&rangeEnd=942",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=3&rangeStart=772&rangeEnd=942"
+    },
+    {
+      "bookmarkId": "3300042103_4_12077-12150",
+      "chapterUid": 4,
+      "range": "12077-12150",
+      "markText": "我们的失眠代表了什么？不就是神智狂躁固执地制造思绪、连串推敲、三段推论，找出绝无仅有的独特定义，拒绝让位给闭眼时的神妙愚昧，或幻梦之境的大智若癫？",
+      "totalCount": 288,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=4&rangeStart=12077&rangeEnd=12150",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4&rangeStart=12077&rangeEnd=12150"
+    },
+    {
+      "bookmarkId": "3300042103_4_1430-1468",
+      "chapterUid": 4,
+      "range": "1430-1468",
+      "markText": "我的确到了这样的年纪：到了这把岁数，对每个人而言，生命是一场已被接受的溃败。",
+      "totalCount": 275,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=4&rangeStart=1430&rangeEnd=1468",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4&rangeStart=1430&rangeEnd=1468"
+    },
+    {
+      "bookmarkId": "3300042103_6_19964-20025",
+      "chapterUid": 6,
+      "range": "19964-20025",
+      "markText": "我从未对任何地方有过完全的归属感，连我心仪的雅典，甚或罗马，都没有。我在每个地方都是异乡客，但却无一处让我感觉自己是外人。",
+      "totalCount": 270,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=6&rangeStart=19964&rangeEnd=20025",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=6&rangeStart=19964&rangeEnd=20025"
+    },
+    {
+      "bookmarkId": "3300042103_5_12079-12123",
+      "chapterUid": 5,
+      "range": "12079-12123",
+      "markText": "我们最大的错误就是试图从每个人身上获得一些不属于他的特殊美德，却疏于耕耘他所拥有的品行。",
+      "totalCount": 252,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=5&rangeStart=12079&rangeEnd=12123",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=5&rangeStart=12079&rangeEnd=12123"
+    },
+    {
+      "bookmarkId": "3300042103_4_9588-9684",
+      "chapterUid": 4,
+      "range": "9588-9684",
+      "markText": "有人自以为能预期我的欲望，事先推演，然后机械式地根据猜测，调整迎合我的决定，这令我十分不悦。在那样的状况下，拜那人的智商之所赐，我的形象被反映得愚蠢而畸形，这恐怕迫使我选择无趣乏味的禁欲主义。",
+      "totalCount": 225,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=4&rangeStart=9588&rangeEnd=9684",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4&rangeStart=9588&rangeEnd=9684"
+    },
+    {
+      "bookmarkId": "3300042103_4_14148-14184",
+      "chapterUid": 4,
+      "range": "14148-14184",
+      "markText": "一个没有书的世界，我必然极难适应；但真相不在书里，因为书里的真相不完整。",
+      "totalCount": 220,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=4&rangeStart=14148&rangeEnd=14184",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4&rangeStart=14148&rangeEnd=14184"
+    },
+    {
+      "bookmarkId": "3300042103_5_9019-9071",
+      "chapterUid": 5,
+      "range": "9019-9071",
+      "markText": "每想到对世界一无所知，却自以为熟悉了解，想到我暴躁没耐心，还有一种轻佻的野心和粗俗的贪婪，我就不禁脸红。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=5&rangeStart=9019&rangeEnd=9071",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=5&rangeStart=9019&rangeEnd=9071"
+    },
+    {
+      "bookmarkId": "3300042103_4_16508-16606",
+      "chapterUid": 4,
+      "range": "16508-16606",
+      "markText": "尽管如此，人的心灵抗拒接受偶然的安排，不愿成为一时运气所制造出的产物——那样的运气没有任何神明主导，尤其不是本人所能主宰。每个生命，即便是不值一哂的生命，都会有一部分在寻找存在的理由、起点、根源。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=4&rangeStart=16508&rangeEnd=16606",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4&rangeStart=16508&rangeEnd=16606"
+    },
+    {
+      "bookmarkId": "3300042103_6_14744-14824",
+      "chapterUid": 6,
+      "range": "14744-14824",
+      "markText": "女性的境况由奇怪的风俗界定：她们既被奴役又受保护，脆弱又强势，太被轻视又过度受尊敬。在这样混沌而互相矛盾的习俗中，社会行为与自然天性自是难以区分，更且交错重叠。",
+      "totalCount": 208,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=6&rangeStart=14744&rangeEnd=14824",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=6&rangeStart=14744&rangeEnd=14824"
+    },
+    {
+      "bookmarkId": "3300042103_8_17491-17540",
+      "chapterUid": 8,
+      "range": "17491-17540",
+      "markText": "若一个主政十六年来热衷于缔结和约的国君最后竟招致巴勒斯坦战事，在未来，世界走向和平之契机想必渺茫。",
+      "totalCount": 198,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=8&rangeStart=17491&rangeEnd=17540",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=8&rangeStart=17491&rangeEnd=17540"
+    },
+    {
+      "bookmarkId": "3300042103_4_1498-1538",
+      "chapterUid": 4,
+      "range": "1498-1538",
+      "markText": "其实我们始终朝那目标前进，未曾休止；只因地点、时间和方式不明，致使终点难以辨识。",
+      "totalCount": 195,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=4&rangeStart=1498&rangeEnd=1538",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4&rangeStart=1498&rangeEnd=1538"
+    },
+    {
+      "bookmarkId": "3300042103_4_3365-3417",
+      "chapterUid": 4,
+      "range": "3365-3417",
+      "markText": "我的爱马仅知道我这个人的确实重量，以此取代千百种相似的头衔、职务、名字——所有使人类友谊复杂变质的一切。",
+      "totalCount": 195,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=4&rangeStart=3365&rangeEnd=3417",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4&rangeStart=3365&rangeEnd=3417"
+    },
+    {
+      "bookmarkId": "3300042103_6_11441-11533",
+      "chapterUid": 6,
+      "range": "11441-11533",
+      "markText": "罗马可能附身于任何小城市，万世流传；那儿的法官努力检查商贩是否偷斤减两，清扫并照明当地街巷，对抗无序混乱、漫不经心、恐惧、不公，理智地重新诠释所有法律。罗马将与人类最后一个城邦共存亡。",
+      "totalCount": 195,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=6&rangeStart=11441&rangeEnd=11533",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=6&rangeStart=11441&rangeEnd=11533"
+    },
+    {
+      "bookmarkId": "3300042103_5_12505-12581",
+      "chapterUid": 5,
+      "range": "12505-12581",
+      "markText": "几乎所有人都无法理解真正属于他们的自由与束缚。他们诅咒身上的铁链镣铐，有时似乎过于夸大。另一方面，他们任时光在放荡中无端流逝，不懂得自行编造较轻的枷锁。",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=5&rangeStart=12505&rangeEnd=12581",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=5&rangeStart=12505&rangeEnd=12581"
+    },
+    {
+      "bookmarkId": "3300042103_4_16324-16395",
+      "chapterUid": 4,
+      "range": "16324-16395",
+      "markText": "有时候，我自觉人生平庸到了不值得存在的地步，不仅不值得书写记录，甚至经不起多凝视一刻；即使在我自己的眼中，亦丝毫不比随便任何一个人的人生重要。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=4&rangeStart=16324&rangeEnd=16395",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4&rangeStart=16324&rangeEnd=16395"
+    },
+    {
+      "bookmarkId": "3300042103_4_4463-4526",
+      "chapterUid": 4,
+      "range": "4463-4526",
+      "markText": "但罗马式宴会实在令人嫌恶，令我感到无聊，以至于在探险或出兵征讨时，有几次我以为就要一命呜呼，于是安慰自己：至少不必再吃晚餐了。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=3300042103&chapterUid=4&rangeStart=4463&rangeEnd=4526",
+      "webLink": "https://weread.qq.com/web/reader/29032500813ab76f2g013b00?chapterUid=4&rangeStart=4463&rangeEnd=4526"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 0,
+    "chapterOffset": 0,
+    "progress": 0,
+    "updateTime": "",
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

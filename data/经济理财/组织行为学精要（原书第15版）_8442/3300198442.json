@@ -1,0 +1,738 @@
+{
+  "meta": {
+    "bookId": "3300198442",
+    "title": "组织行为学精要（原书第15版）",
+    "author": "[美]斯蒂芬·P. 罗宾斯  [美]蒂莫西·A. 贾奇",
+    "translator": "郑晓明，杨来捷",
+    "cover": "https://cdn.weread.qq.com/weread/cover/5/cpplatform_fhmtzufwkc3nkhfz7awrww/t6_cpplatform_fhmtzufwkc3nkhfz7awrww1773650013.jpg",
+    "intro": "组织行为学不仅提供了提升组织效能的技术路径，更重要的是，它能令管理者具备更广阔的视野，通过对人类心理与行为的分析，理解并驾驭组织内部的复杂动力。 本书将前沿的组织行为学理论和研究转化为通俗易懂的知识，帮助你从个体、群体和组织系统三个层次深入剖析组织行为的本质。无论你身处何种专业领域，只要意识到组织行为学的重要性，就能从中汲取智慧，将其直接应用于职场实践，收获学有所得、学有所用的成就感。 随着人工智能和大数据的迅猛发展，组织的决策模式与运作逻辑已经发生了根本性变化。对中国的组织和管理者而言，不断深化的全球性变革无疑提出了新的要求。管理者须把握住组织管理模式在时代浪潮中发生的根本性变革，思考如何将数据治理、人工智能等新技术应用于本土化的管理决策，在多元文化与全球市场的交汇处，通过危机管理确保组织具有持续韧性与竞争力。这些问题，是每一个管理者在时代变革中所面临的现实挑战。",
+    "category": "经济理财-管理",
+    "publisher": "人民邮电出版社有限公司",
+    "publishTime": "2025-02-01 00:00:00",
+    "isbn": "9787115655868",
+    "wordCount": 0,
+    "newRating": 792,
+    "newRatingCount": 25,
+    "newRatingDetail": {
+      "good": 19,
+      "fair": 3,
+      "poor": 3,
+      "recent": 0,
+      "deepV": 5,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300198442",
+    "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df",
+    "lastSync": "2026-05-21T11:44:39Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 606,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "译者序",
+      "level": 1,
+      "wordCount": 1801,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "译者序",
+          "anchor": "heading2_0",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "序",
+      "level": 1,
+      "wordCount": 1444,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "序",
+          "anchor": "heading2_0",
+          "level": 1
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第一部分 理解自己与他人",
+      "level": 1,
+      "wordCount": 12,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第1章 何谓组织行为学",
+      "level": 2,
+      "wordCount": 17966,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第1章 何谓组织行为学",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第2章 组织中的多元化",
+      "level": 2,
+      "wordCount": 16790,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第2章 组织中的多元化",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第3章 态度与工作满意度",
+      "level": 2,
+      "wordCount": 12323,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第3章 态度与工作满意度",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第4章 情绪与心境",
+      "level": 2,
+      "wordCount": 15447,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第4章 情绪与心境",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第5章 人格与价值观",
+      "level": 2,
+      "wordCount": 20865,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第5章 人格与价值观",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第二部分 制定与执行决策",
+      "level": 1,
+      "wordCount": 12,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第6章 知觉与个体决策",
+      "level": 2,
+      "wordCount": 19448,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第6章 知觉与个体决策",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第7章 动机",
+      "level": 2,
+      "wordCount": 17838,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第7章 动机",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第8章 动机：从概念到应用",
+      "level": 2,
+      "wordCount": 17475,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第8章 动机：从概念到应用",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第三部分 群体与团队沟通",
+      "level": 1,
+      "wordCount": 12,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第9章 群体行为基础",
+      "level": 2,
+      "wordCount": 19358,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第9章 群体行为基础",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第10章 理解工作团队",
+      "level": 2,
+      "wordCount": 16485,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第10章 理解工作团队",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第11章 沟通",
+      "level": 2,
+      "wordCount": 16532,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第11章 沟通",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第四部分 谈判、权力与政治",
+      "level": 1,
+      "wordCount": 13,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第12章 领导力",
+      "level": 2,
+      "wordCount": 21494,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第12章 领导力",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "第13章 权力与政治",
+      "level": 2,
+      "wordCount": 15385,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第13章 权力与政治",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "第14章 冲突与谈判",
+      "level": 2,
+      "wordCount": 18922,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第14章 冲突与谈判",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "第五部分 理解、引领和实施组织体系变革",
+      "level": 1,
+      "wordCount": 19,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第15章 组织结构原理",
+      "level": 2,
+      "wordCount": 17215,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第15章 组织结构原理",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "第16章 组织文化",
+      "level": 2,
+      "wordCount": 20788,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第16章 组织文化",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第17章 组织变革与压力管理",
+      "level": 2,
+      "wordCount": 21723,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第17章 组织变革与压力管理",
+          "anchor": "heading2_0",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "后记",
+      "level": 1,
+      "wordCount": 794,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300198442&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=27"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 16,
+      "chapterTitle": "第9章 群体行为基础",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300198442_16_8361-8397",
+          "range": "8361-8397",
+          "rangeStart": 8361,
+          "rangeEnd": 8397,
+          "markText": "对足球队的教练，人们则认为他应该富有冲劲，能够随机应变并调动球员的士气。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1778659476,
+          "createTimeFormatted": "2026-05-13 16:04:36",
+          "chapterUid": 16,
+          "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=16&rangeStart=8361&rangeEnd=8397",
+          "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=16&rangeStart=8361&rangeEnd=8397"
+        }
+      ]
+    },
+    {
+      "chapterUid": 13,
+      "chapterTitle": "第7章 动机",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300198442_13_31509-31683",
+          "range": "31509-31683",
+          "rangeStart": 31509,
+          "rangeEnd": 31683,
+          "markText": "〇文化与公平有一种程序公平原则为不同国家的人所认可：世界各地的员工都希望按照绩效和技能而非资历分配回报。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1778659461,
+          "createTimeFormatted": "2026-05-13 16:04:21",
+          "chapterUid": 13,
+          "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=13&rangeStart=31509&rangeEnd=31683",
+          "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=13&rangeStart=31509&rangeEnd=31683"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300198442_13_31509-31683",
+      "chapterUid": 13,
+      "range": "31509-31683",
+      "markText": "〇文化与公平有一种程序公平原则为不同国家的人所认可：世界各地的员工都希望按照绩效和技能而非资历分配回报。",
+      "totalCount": 638,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=13&rangeStart=31509&rangeEnd=31683",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=13&rangeStart=31509&rangeEnd=31683"
+    },
+    {
+      "bookmarkId": "3300198442_16_8361-8397",
+      "chapterUid": 16,
+      "range": "8361-8397",
+      "markText": "对足球队的教练，人们则认为他应该富有冲劲，能够随机应变并调动球员的士气。",
+      "totalCount": 635,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=16&rangeStart=8361&rangeEnd=8397",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=16&rangeStart=8361&rangeEnd=8397"
+    },
+    {
+      "bookmarkId": "3300198442_22_26067-26191",
+      "chapterUid": 22,
+      "range": "26067-26191",
+      "markText": "最后，部分研究表明，情商和识别他人情绪的能力有助于提升谈判绩效，也会令你看起来更乐于合作、更受人喜爱。",
+      "totalCount": 634,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=22&rangeStart=26067&rangeEnd=26191",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=22&rangeStart=26067&rangeEnd=26191"
+    },
+    {
+      "bookmarkId": "3300198442_20_10564-10649",
+      "chapterUid": 20,
+      "range": "10564-10649",
+      "markText": "路径－目标理论认为，领导者的职责在于为下属提供实现目标所必需的信息、支持和其他资源（所谓的“路径－目标”恰恰表示领导者应该为员工指明实现工作目标的路径、扫清途中的障碍）。",
+      "totalCount": 633,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=20&rangeStart=10564&rangeEnd=10649",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=20&rangeStart=10564&rangeEnd=10649"
+    },
+    {
+      "bookmarkId": "3300198442_10_20064-20186",
+      "chapterUid": 10,
+      "range": "20064-20186",
+      "markText": "部分研究指出，H维度对原有的大五人格框架做出了有益的补充，它能够预测诸多与伦理有关的结果，包括避免实施舞弊的行为（而且是在面临相关诱惑的情况下）。",
+      "totalCount": 628,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=10&rangeStart=20064&rangeEnd=20186",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=10&rangeStart=20064&rangeEnd=20186"
+    },
+    {
+      "bookmarkId": "3300198442_8_17215-17439",
+      "chapterUid": 8,
+      "range": "17215-17439",
+      "markText": "»建言：建言反应（voice response）指积极寻求对周遭环境的建设性改变，包括提出改进建议、与上司讨论面临的问题以及负责工会活动等。",
+      "totalCount": 627,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=8&rangeStart=17215&rangeEnd=17439",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=8&rangeStart=17215&rangeEnd=17439"
+    },
+    {
+      "bookmarkId": "3300198442_13_34752-34810",
+      "chapterUid": 13,
+      "range": "34752-34810",
+      "markText": "对于自身所得的结果（如收入），个体的感知既取决于这一结果与他人的对比，也取决于自身是否得到了尊重、受到了怎样的对待。",
+      "totalCount": 624,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=13&rangeStart=34752&rangeEnd=34810",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=13&rangeStart=34752&rangeEnd=34810"
+    },
+    {
+      "bookmarkId": "3300198442_8_3216-3492",
+      "chapterUid": 8,
+      "range": "3216-3492",
+      "markText": "态度与行为的关系并非一成不变，它取决于几类重要的因素，包括态度本身的重要性（importance）、与行为的对应性（correspondence）和可提取性（accessibility）、是否存在社会压力（social pressures），以及个体是否具备有关这一态度的直接经验（direct experience）。",
+      "totalCount": 623,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=8&rangeStart=3216&rangeEnd=3492",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=8&rangeStart=3216&rangeEnd=3492"
+    },
+    {
+      "bookmarkId": "3300198442_16_33832-34018",
+      "chapterUid": 16,
+      "range": "33832-34018",
+      "markText": "•头脑风暴法头脑风暴法（brainstorming）鼓励成员提出一切可能的想法、避免批评性意见，从而克服了阻碍创造力的从众压力。",
+      "totalCount": 623,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=16&rangeStart=33832&rangeEnd=34018",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=16&rangeStart=33832&rangeEnd=34018"
+    },
+    {
+      "bookmarkId": "3300198442_25_37616-37655",
+      "chapterUid": 25,
+      "range": "37616-37655",
+      "markText": "你要了解清楚组织中文化规范与当地文化的关系，在做出新动作前好好考虑文化适用性。",
+      "totalCount": 623,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=25&rangeStart=37616&rangeEnd=37655",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=25&rangeStart=37616&rangeEnd=37655"
+    },
+    {
+      "bookmarkId": "3300198442_25_9209-9437",
+      "chapterUid": 25,
+      "range": "9209-9437",
+      "markText": "〇符号公司总部的格局、高管座驾的品牌以及公司有没有专属飞机都属于物质符号（material symbols）的范畴，有时也被称为“文化周边”。",
+      "totalCount": 622,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=25&rangeStart=9209&rangeEnd=9437",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=25&rangeStart=9209&rangeEnd=9437"
+    },
+    {
+      "bookmarkId": "3300198442_25_30899-31056",
+      "chapterUid": 25,
+      "range": "30899-31056",
+      "markText": "积极的组织文化（positive organizational culture）看重员工的长处，倾向于奖励而非惩罚，并鼓励个体充满活力地成长。",
+      "totalCount": 620,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=25&rangeStart=30899&rangeEnd=31056",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=25&rangeStart=30899&rangeEnd=31056"
+    },
+    {
+      "bookmarkId": "3300198442_12_2443-2483",
+      "chapterUid": 12,
+      "range": "2443-2483",
+      "markText": "我们通常不会孤立地看待事物，因此，知觉对象与其他背景因素的关系会影响我们的判断。",
+      "totalCount": 616,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=12&rangeStart=2443&rangeEnd=2483",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=12&rangeStart=2443&rangeEnd=2483"
+    },
+    {
+      "bookmarkId": "3300198442_7_12319-12423",
+      "chapterUid": 7,
+      "range": "12319-12423",
+      "markText": "种族和民族之所以值得研究，是因为这些特征与雇用结果息息相关，比如招聘决策、绩效评估、薪酬和工作中的歧视现象等。",
+      "totalCount": 615,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=7&rangeStart=12319&rangeEnd=12423",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=7&rangeStart=12319&rangeEnd=12423"
+    },
+    {
+      "bookmarkId": "3300198442_12_2110-2218",
+      "chapterUid": 12,
+      "range": "2110-2218",
+      "markText": "某种意义上，我们只会听见自己想听的、只会看见自己想看的，此般所见所闻未必是事实，很可能只是反映了我们希望得到印证的想法。",
+      "totalCount": 612,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=12&rangeStart=2110&rangeEnd=2218",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=12&rangeStart=2110&rangeEnd=2218"
+    },
+    {
+      "bookmarkId": "3300198442_12_19287-19512",
+      "chapterUid": 12,
+      "range": "19287-19512",
+      "markText": "•后见之明偏见后见之明偏见（hindsight bias）指当看到事物的结果时，我们很容易错误地认为自己本可以准确地预见到该结果的发生。",
+      "totalCount": 611,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=12&rangeStart=19287&rangeEnd=19512",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=12&rangeStart=19287&rangeEnd=19512"
+    },
+    {
+      "bookmarkId": "3300198442_3_1484-1540",
+      "chapterUid": 3,
+      "range": "1484-1540",
+      "markText": "这些更新不仅是对现实的直接反映，更是对社会思潮的积极回应，以及对管理领域最为迫切的一系列挑战所做出的思考与努力。",
+      "totalCount": 604,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=3&rangeStart=1484&rangeEnd=1540",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=3&rangeStart=1484&rangeEnd=1540"
+    },
+    {
+      "bookmarkId": "3300198442_21_27247-27293",
+      "chapterUid": 21,
+      "range": "27247-27293",
+      "markText": "在面对组织政治的伦理困境时，你首先应该考虑是否值得去冒这样的风险，以及是否有可能伤害到别人。",
+      "totalCount": 603,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=21&rangeStart=27247&rangeEnd=27293",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=21&rangeStart=27247&rangeEnd=27293"
+    },
+    {
+      "bookmarkId": "3300198442_9_27163-27192",
+      "chapterUid": 9,
+      "range": "27163-27192",
+      "markText": "一天中的时段、压力事件、睡眠状况等因素都会影响情绪和心境。",
+      "totalCount": 600,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=9&rangeStart=27163&rangeEnd=27192",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=9&rangeStart=27163&rangeEnd=27192"
+    },
+    {
+      "bookmarkId": "3300198442_18_21838-21869",
+      "chapterUid": 18,
+      "range": "21838-21869",
+      "markText": "此外，沉默也可能只是信息过载的结果，或是思考回复时产生的延迟。",
+      "totalCount": 600,
+      "appLink": "weread://bestbookmark?bookId=3300198442&chapterUid=18&rangeStart=21838&rangeEnd=21869",
+      "webLink": "https://weread.qq.com/web/reader/5ff32710813abb404g0125df?chapterUid=18&rangeStart=21838&rangeEnd=21869"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 16,
+    "chapterOffset": 7888,
+    "progress": 0,
+    "updateTime": 1778659478,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

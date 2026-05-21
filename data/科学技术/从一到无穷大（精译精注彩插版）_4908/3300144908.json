@@ -1,0 +1,615 @@
+{
+  "meta": {
+    "bookId": "3300144908",
+    "title": "从一到无穷大（精译精注彩插版）",
+    "author": "[美]乔治·伽莫夫",
+    "translator": "林知言",
+    "cover": "https://cdn.weread.qq.com/weread/cover/31/cpplatform_6juwpawpcm8b994lq1degj/t6_cpplatform_6juwpawpcm8b994lq1degj1747646522.jpg",
+    "intro": "世界科普文学领域的经典之作，畅销不衰，影响几代科学家。\n从数字的奥秘到宇宙的尽头，科学的画卷如何展开？乔治·伽莫夫的《从一到无穷大》以简练笔触勾勒出人类认知的壮阔图景。\n在数论世界，质数的排列暗藏宇宙密码。\n物理学领域，爱因斯坦的相对论与量子力学构建起微观与宏观的双重宇宙。\n天文学部分，从宇宙膨胀理论到黑洞奇观，揭开了时空的神秘面纱。\n生物学篇章中，DNA双螺旋结构的发现重塑了生命演化的理解。\n这本科普经典突破学科界限，用深入浅出的语言为读者搭建起通向知识殿堂的桥梁。无论是探索宇宙奥秘的青少年，还是渴望了解科学前沿的普通读者，都能在这本跨越时空的科学诗篇中，感受科学探索的无限魅力与人类智慧的永恒光芒。",
+    "category": "科学技术-科学科普",
+    "publisher": "",
+    "publishTime": "2025-05-22 00:00:00",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 921,
+    "newRatingCount": 762,
+    "newRatingDetail": {
+      "good": 717,
+      "fair": 36,
+      "poor": 9,
+      "recent": 31,
+      "deepV": 270,
+      "myRating": "",
+      "title": "神作"
+    },
+    "appLink": "weread://reading?bId=3300144908",
+    "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737",
+    "lastSync": "2026-05-21T11:49:26Z",
+    "readingProgress": "2%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 3,
+    "bookmarkCount": 0,
+    "contentHash": "f8a0d19f30913f9f0e22882c885fce31406cb261da8eea2066527849ed7024a9"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 303,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=2"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 3,
+      "title": "献词",
+      "level": 1,
+      "wordCount": 18,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=47"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 4,
+      "title": "引言",
+      "level": 1,
+      "wordCount": 44,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=25"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "伽莫夫和《从一到无穷大》",
+      "level": 1,
+      "wordCount": 1674,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=5"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 6,
+      "title": "为什么还要读《从一到无穷大》",
+      "level": 1,
+      "wordCount": 1514,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=26"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 7,
+      "title": "如何读《从一到无穷大》",
+      "level": 1,
+      "wordCount": 1184,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=42"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 8,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 981,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 9,
+      "title": "1961年版前言",
+      "level": 1,
+      "wordCount": 730,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=8"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 10,
+      "title": "第一部分 数字游戏",
+      "level": 1,
+      "wordCount": 9,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=27"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 11,
+      "title": "第1章 大数",
+      "level": 2,
+      "wordCount": 11857,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 12,
+      "title": "第2章 自然数与人造数",
+      "level": 2,
+      "wordCount": 7387,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=49"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 13,
+      "title": "第二部分 空间、时间与爱因斯坦",
+      "level": 1,
+      "wordCount": 15,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=30"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 14,
+      "title": "第3章 空间的特殊性质",
+      "level": 2,
+      "wordCount": 11863,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 15,
+      "title": "第4章 四维世界",
+      "level": 2,
+      "wordCount": 8954,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 16,
+      "title": "第5章 空间与时间的相对性",
+      "level": 2,
+      "wordCount": 14858,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=52"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 17,
+      "title": "第三部分 微观世界",
+      "level": 1,
+      "wordCount": 9,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=34"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 18,
+      "title": "第6章 沿阶而下",
+      "level": 2,
+      "wordCount": 15803,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 19,
+      "title": "第7章 现代炼金术",
+      "level": 2,
+      "wordCount": 20896,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 20,
+      "title": "第8章 无序定律",
+      "level": 2,
+      "wordCount": 21964,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 21,
+      "title": "第9章 生命之谜",
+      "level": 2,
+      "wordCount": 19520,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=56"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 22,
+      "title": "第四部分 宏观宇宙",
+      "level": 1,
+      "wordCount": 9,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=39"
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 23,
+      "title": "第10章 拓展的视野",
+      "level": 2,
+      "wordCount": 14067,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=57"
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 24,
+      "title": "第11章 创世之日",
+      "level": 2,
+      "wordCount": 21072,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300144908&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=58"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 52,
+      "chapterTitle": "第5章 空间与时间的相对性",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300144908_33_4032-4075",
+          "range": "4032-4075",
+          "rangeStart": 4032,
+          "rangeEnd": 4075,
+          "markText": "从一个观察者的角度来看同时发生的两个事件，在另一个观察者看来却会被一段时间间隔所分隔。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1753417457,
+          "createTimeFormatted": "2025-07-25 12:24:17",
+          "chapterUid": 52,
+          "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=52&rangeStart=4032&rangeEnd=4075",
+          "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=52&rangeStart=4032&rangeEnd=4075"
+        }
+      ]
+    },
+    {
+      "chapterUid": 48,
+      "chapterTitle": "第1章 大数",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_824LSdzJ2",
+          "range": "8520-8523",
+          "chapterName": "",
+          "content": "sōnɡ jié yóu\n由松科植物树干中流出的树脂经直接蒸馏或蒸汽蒸馏而得的一种精油。无色或淡黄色液体。主要成分为蒎烯。产于美国、法国、希腊；中国广东、四川、浙江、湖南、福建等地亦产。用作油漆溶剂及合成香料、杀虫剂等的原料；也供药用，以治疗关节炎或周围神经炎等（外用）。",
+          "abstract": "松节油",
+          "star": -1,
+          "createTime": 1754035134,
+          "createTimeFormatted": "2025-08-01 15:58:54",
+          "isFinish": false,
+          "chapterUid": 48
+        },
+        {
+          "type": "review",
+          "reviewId": "32618646_824LRdpph",
+          "range": "5664-5667",
+          "chapterName": "",
+          "content": "pú shì ěr\n英语bushel的音译。旧称“嘝”。英、美计量谷类等干量体积的单位。1英蒲式耳≈36.37升；1美蒲式耳≈35.24升。",
+          "abstract": "蒲式耳",
+          "star": -1,
+          "createTime": 1754035120,
+          "createTimeFormatted": "2025-08-01 15:58:40",
+          "isFinish": false,
+          "chapterUid": 48
+        }
+      ]
+    },
+    {
+      "chapterUid": 42,
+      "chapterTitle": "如何读《从一到无穷大》",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "32618646_824LPcOnC",
+          "range": "1428-1432",
+          "chapterName": "",
+          "content": "jié qū áo yá\n佶屈，亦作 “诘诎”，屈曲貌，引申为不顺。形容文句艰涩生硬，读起来不顺口。",
+          "abstract": "佶屈聱牙",
+          "star": -1,
+          "createTime": 1754035090,
+          "createTimeFormatted": "2025-08-01 15:58:10",
+          "isFinish": false,
+          "chapterUid": 42
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300144908_42_1576-1629",
+      "chapterUid": 42,
+      "range": "1576-1629",
+      "markText": "最后，微信读书是个很有温度的平台，书本上的划线与留言能让我们知道别人在想什么，也能让别人知道我们在想什么。",
+      "totalCount": 594,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=42&rangeStart=1576&rangeEnd=1629",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=42&rangeStart=1576&rangeEnd=1629"
+    },
+    {
+      "bookmarkId": "3300144908_48_5879-5935",
+      "chapterUid": 48,
+      "range": "5879-5935",
+      "markText": "于是，国王希拉姆发现自己欠了宰相一笔巨债，他要么面对宰相源源不断的索求，要么砍掉他的头。我猜测他最终选择了后者。",
+      "totalCount": 560,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=48&rangeStart=5879&rangeEnd=5935",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=48&rangeStart=5879&rangeEnd=5935"
+    },
+    {
+      "bookmarkId": "3300144908_42_1709-1754",
+      "chapterUid": 42,
+      "range": "1709-1754",
+      "markText": "因此，我希望每个读者都能在阅读的过程中尝试表达，无关文字多少，留个言，这本书便有了你的痕迹",
+      "totalCount": 500,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=42&rangeStart=1709&rangeEnd=1754",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=42&rangeStart=1709&rangeEnd=1754"
+    },
+    {
+      "bookmarkId": "3300144908_49_7641-7681",
+      "chapterUid": 49,
+      "range": "7641-7681",
+      "markText": "费马补充写道：“我已经发现了一个奇妙的证明方法，但这里的空白处太窄，我写不下。”",
+      "totalCount": 486,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=49&rangeStart=7641&rangeEnd=7681",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=49&rangeStart=7641&rangeEnd=7681"
+    },
+    {
+      "bookmarkId": "3300144908_48_8637-8724",
+      "chapterUid": 48,
+      "range": "8637-8724",
+      "markText": "事实上，这样一台自动印刷机将会印出自人类学会书写以来所写下的一切文字：所有的散文和诗歌，所有报纸上的社论和广告，所有厚重的科学论著，每一封情书，甚至每一张留给送奶工的便条……",
+      "totalCount": 450,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=48&rangeStart=8637&rangeEnd=8724",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=48&rangeStart=8637&rangeEnd=8724"
+    },
+    {
+      "bookmarkId": "3300144908_5_748-846",
+      "chapterUid": 5,
+      "range": "748-846",
+      "markText": "可是，在当时的环境下，伽莫夫感到自己的天性和想象力都受到了压抑。1932年，他和夫人试图坐木筏从黑海逃到土耳其，但是没有成功。1933年，趁着在比利时召开第七次索尔维会议的机会，伽莫夫离开了苏联。",
+      "totalCount": 442,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=5&rangeStart=748&rangeEnd=846",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=5&rangeStart=748&rangeEnd=846"
+    },
+    {
+      "bookmarkId": "3300144908_7_1778-1808",
+      "chapterUid": 7,
+      "range": "1778-1808",
+      "markText": "最终接受了一个事实，即本书并不像我最初预想的那样适合儿童阅读",
+      "totalCount": 384,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=7&rangeStart=1778&rangeEnd=1808",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=7&rangeStart=1778&rangeEnd=1808"
+    },
+    {
+      "bookmarkId": "3300144908_48_4518-4542",
+      "chapterUid": 48,
+      "range": "4518-4542",
+      "markText": "事实上，在整个宇宙中，平均每立方米只有1个原子。",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=48&rangeStart=4518&rangeEnd=4542",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=48&rangeStart=4518&rangeEnd=4542"
+    },
+    {
+      "bookmarkId": "3300144908_48_12307-12330",
+      "chapterUid": 48,
+      "range": "12307-12330",
+      "markText": "事实上，在无穷的世界里，一个部分可能等于整体！",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=48&rangeStart=12307&rangeEnd=12330",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=48&rangeStart=12307&rangeEnd=12330"
+    },
+    {
+      "bookmarkId": "3300144908_48_14451-14494",
+      "chapterUid": 48,
+      "range": "14451-14494",
+      "markText": "我们就得到了整数集合与分数集合之间的一一对应关系。因此，这两个集合的元素数量是相同的！",
+      "totalCount": 360,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=48&rangeStart=14451&rangeEnd=14494",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=48&rangeStart=14451&rangeEnd=14494"
+    },
+    {
+      "bookmarkId": "3300144908_48_19611-19682",
+      "chapterUid": 48,
+      "range": "19611-19682",
+      "markText": "事实上，人们发现所有可能曲线（包括那些最奇特形状的曲线）的集合，其成员数量比所有几何点的集合还要大，因此必须用无穷序列中的第三个无穷数来描述。",
+      "totalCount": 320,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=48&rangeStart=19611&rangeEnd=19682",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=48&rangeStart=19611&rangeEnd=19682"
+    },
+    {
+      "bookmarkId": "3300144908_49_695-793",
+      "chapterUid": 49,
+      "range": "695-793",
+      "markText": "“人们经常告诉我们，纯数学与应用数学彼此敌对。这是不对的。纯数学与应用数学并不敌对。纯数学与应用数学从未敌对过。纯数学与应用数学永远不会敌对。纯数学与应用数学也不可能敌对，因为它们毫无共同之处。”",
+      "totalCount": 315,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=49&rangeStart=695&rangeEnd=793",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=49&rangeStart=695&rangeEnd=793"
+    },
+    {
+      "bookmarkId": "3300144908_48_20431-20478",
+      "chapterUid": 48,
+      "range": "20431-20478",
+      "markText": "在这一点上，我们发现自己所处的境地与我们老朋友霍屯督人正好相反——他有许多儿子，却无法数过3！",
+      "totalCount": 280,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=48&rangeStart=20431&rangeEnd=20478",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=48&rangeStart=20431&rangeEnd=20478"
+    },
+    {
+      "bookmarkId": "3300144908_48_12174-12210",
+      "chapterUid": 48,
+      "range": "12174-12210",
+      "markText": "根据我们比较无穷的规则，我们必须承认，偶数的无穷与所有整数的无穷一样大。",
+      "totalCount": 264,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=48&rangeStart=12174&rangeEnd=12210",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=48&rangeStart=12174&rangeEnd=12210"
+    },
+    {
+      "bookmarkId": "3300144908_42_784-812",
+      "chapterUid": 42,
+      "range": "784-812",
+      "markText": "读不完没什么大不了的——这是我想对本书的读者说的第一点。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=42&rangeStart=784&rangeEnd=812",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=42&rangeStart=784&rangeEnd=812"
+    },
+    {
+      "bookmarkId": "3300144908_8_1246-1615",
+      "chapterUid": 8,
+      "range": "1246-1615",
+      "markText": "“写给我的儿子伊戈尔，他想成为一名牛仔。”许多读者写信询问我，他是否真的成为了一名牛仔。答案是否定的；他今年夏天即将毕业，主修生物学，并计划从事遗传学方面的工作。",
+      "totalCount": 216,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=8&rangeStart=1246&rangeEnd=1615",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=8&rangeStart=1246&rangeEnd=1615"
+    },
+    {
+      "bookmarkId": "3300144908_7_423-492",
+      "chapterUid": 7,
+      "range": "423-492",
+      "markText": "……谈谈原子、恒星与星云，谈谈熵与基因；谈谈空间是否能弯曲，以及火箭为何会缩短。在本书中，我们将讨论所有这些话题，以及其他同样有趣的内容。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=7&rangeStart=423&rangeEnd=492",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=7&rangeStart=423&rangeEnd=492"
+    },
+    {
+      "bookmarkId": "3300144908_48_3628-3707",
+      "chapterUid": 48,
+      "range": "3628-3707",
+      "markText": "书写大数似乎是一个过于琐碎的问题，不值得在书中花费数页篇幅讨论。但在阿基米德的时代，找到一种表示巨大数字的方法却是一项重大的发现，也是数学向前迈进的重要一步。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=48&rangeStart=3628&rangeEnd=3707",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=48&rangeStart=3628&rangeEnd=3707"
+    },
+    {
+      "bookmarkId": "3300144908_48_17409-17469",
+      "chapterUid": 48,
+      "range": "17409-17469",
+      "markText": "因此，不可能将一条直线上的所有点与整数建立一一对应的关系，这意味着直线上点的无穷比所有整数或分数的无穷更大，或者说更强。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=48&rangeStart=17409&rangeEnd=17469",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=48&rangeStart=17409&rangeEnd=17469"
+    },
+    {
+      "bookmarkId": "3300144908_48_5179-5212",
+      "chapterUid": 48,
+      "range": "5179-5212",
+      "markText": "总共需要18,446,744,073,709,551,615粒麦子",
+      "totalCount": 195,
+      "appLink": "weread://bestbookmark?bookId=3300144908&chapterUid=48&rangeStart=5179&rangeEnd=5212",
+      "webLink": "https://weread.qq.com/web/reader/ccd32570813ab9f1ag018737?chapterUid=48&rangeStart=5179&rangeEnd=5212"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 28,
+    "chapterOffset": 8795,
+    "progress": 2,
+    "updateTime": 1754035731,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

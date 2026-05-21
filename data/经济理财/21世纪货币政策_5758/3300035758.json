@@ -1,0 +1,575 @@
+{
+  "meta": {
+    "bookId": "3300035758",
+    "title": "21世纪货币政策",
+    "author": "本·伯南克",
+    "translator": "冯毅",
+    "cover": "https://cdn.weread.qq.com/weread/cover/50/cpPlatform_e1X7NMQapS7gjSsFxCNMEU/t6_cpPlatform_e1X7NMQapS7gjSsFxCNMEU.jpg",
+    "intro": "近年来全球经济、金融形势发生剧烈变化。在新冠肺炎大流行的背景下，全球经济面临高通胀、大衰退，甚至存在新一轮金融危机的风险。如何以史为鉴、研判形势、防范系统性风险，是摆在各国面前的重要问题。 《21 世纪货币政策》是一本全面了解美联储内部运作与21世纪货币政策的著作，该书梳理了从战后早期到现在美联储的运作与演变，以及历任美联储主席的决策，解读其需要应对的不断变化的经济和政治环境，总结美联储应对历次金融危机的经验与教训，审视当前的争议，并前瞻性地思考未来美联储的作用，以及21世纪全球货币政策和维护金融稳定政策的前景。",
+    "category": "经济理财-财经",
+    "publisher": "中信出版集团",
+    "publishTime": "2022-11-01 00:00:00",
+    "isbn": "9787521744835",
+    "wordCount": 0,
+    "newRating": 855,
+    "newRatingCount": 342,
+    "newRatingDetail": {
+      "good": 292,
+      "fair": 40,
+      "poor": 10,
+      "recent": 2,
+      "deepV": 124,
+      "myRating": "",
+      "title": ""
+    },
+    "appLink": "weread://reading?bId=3300035758",
+    "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da",
+    "lastSync": "2026-05-21T11:49:35Z",
+    "readingProgress": "0%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 4,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 159,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "导读 一本了解美联储货币政策决策历史演进的好书",
+      "level": 1,
+      "wordCount": 6217,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "前言",
+      "level": 1,
+      "wordCount": 13331,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第一部分 通货膨胀的起落",
+      "level": 1,
+      "wordCount": 14000,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第一章 大通胀",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "第二章 伯恩斯与沃尔克",
+      "level": 2,
+      "wordCount": 14344,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "第三章 格林斯潘和繁荣的20世纪90年代",
+      "level": 2,
+      "wordCount": 26135,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "第二部分 全球金融危机和大衰退",
+      "level": 1,
+      "wordCount": 14189,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第四章 新世纪与新挑战",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "第五章 全球金融危机",
+      "level": 2,
+      "wordCount": 19707,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第六章 新的货币制度：从QE1到QE2",
+      "level": 2,
+      "wordCount": 22605,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "第七章 货币政策的演化：QE3和缩减恐慌",
+      "level": 2,
+      "wordCount": 21683,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "第三部分 从加息周期到新冠肺炎大流行",
+      "level": 1,
+      "wordCount": 18521,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第八章 进入加息周期",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "第九章 鲍威尔和特朗普",
+      "level": 2,
+      "wordCount": 17361,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第十章 新冠肺炎大流行",
+      "level": 2,
+      "wordCount": 17093,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "第四部分 前路漫漫",
+      "level": 1,
+      "wordCount": 18568,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "第十一章 2008年之后美联储的工具箱：量化宽松和前瞻性指引",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "第十二章 美联储的工具箱足够了吗",
+      "level": 2,
+      "wordCount": 14159,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第十三章 强有力的政策：新的工具和框架",
+      "level": 2,
+      "wordCount": 24791,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第十四章 货币政策和金融稳定",
+      "level": 2,
+      "wordCount": 24508,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "第十五章 美联储的独立性及其社会角色",
+      "level": 2,
+      "wordCount": 11247,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "致读者",
+      "level": 1,
+      "wordCount": 205,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "致谢",
+      "level": 1,
+      "wordCount": 1080,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "资料来源说明",
+      "level": 1,
+      "wordCount": 1810,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "参考文献",
+      "level": 1,
+      "wordCount": 51057,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=3300035758&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=23"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 5,
+      "chapterTitle": "第一部分 通货膨胀的起落",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "3300035758_5_2434-2478",
+          "range": "2434-2478",
+          "rangeStart": 2434,
+          "rangeEnd": 2478,
+          "markText": "菲利普斯曲线的逻辑是当私人和公共部门的总需求持续超过经济体中的生产能力时，通胀便会加速。",
+          "colorStyle": 2,
+          "colorLabel": "",
+          "createTime": 1753246806,
+          "createTimeFormatted": "2025-07-23 13:00:06",
+          "chapterUid": 5,
+          "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=5&rangeStart=2434&rangeEnd=2478",
+          "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=5&rangeStart=2434&rangeEnd=2478"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "3300035758_5_2434-2478",
+      "chapterUid": 5,
+      "range": "2434-2478",
+      "markText": "菲利普斯曲线的逻辑是当私人和公共部门的总需求持续超过经济体中的生产能力时，通胀便会加速。",
+      "totalCount": 285,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=5&rangeStart=2434&rangeEnd=2478",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=5&rangeStart=2434&rangeEnd=2478"
+    },
+    {
+      "bookmarkId": "3300035758_6_3977-4042",
+      "chapterUid": 6,
+      "range": "3977-4042",
+      "markText": "这种“时断时续”的模式——在通胀飙升时收紧政策，但在失业率开始上升时又立即放松，结果被证明是无效的，并导致通胀和通胀预期逐步上升。",
+      "totalCount": 221,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=6&rangeStart=3977&rangeEnd=4042",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=6&rangeStart=3977&rangeEnd=4042"
+    },
+    {
+      "bookmarkId": "3300035758_6_15518-15603",
+      "chapterUid": 6,
+      "range": "15518-15603",
+      "markText": "然而强势美元和美国高利率使得这些国家难以偿还（以美元计价的）贷款，即使美国经济疲软，石油和其他大宗商品价格下跌，还是减少了拉丁美洲债务国的收入，其结果是一场国际债务危机。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=6&rangeStart=15518&rangeEnd=15603",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=6&rangeStart=15518&rangeEnd=15603"
+    },
+    {
+      "bookmarkId": "3300035758_3_6057-6127",
+      "chapterUid": 3,
+      "range": "6057-6127",
+      "markText": "2008年金融危机期间，伯南克实施QE，由于房地产不断下行，只能通过推动股市的上涨恢复经济，但在退出量化宽松政策时也不得不考虑对股市的冲击。",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=3&rangeStart=6057&rangeEnd=6127",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=3&rangeStart=6057&rangeEnd=6127"
+    },
+    {
+      "bookmarkId": "3300035758_7_28533-28590",
+      "chapterUid": 7,
+      "range": "28533-28590",
+      "markText": "国际货币基金组织与财政部和美联储合作，说服美国银行延长对韩国的短期贷款，通过550亿美元的救助计划化解了这场危机。",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=7&rangeStart=28533&rangeEnd=28590",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=7&rangeStart=28533&rangeEnd=28590"
+    },
+    {
+      "bookmarkId": "3300035758_6_4731-4783",
+      "chapterUid": 6,
+      "range": "4731-4783",
+      "markText": "几十年来，借用外交辞令，更重视就业任务的美联储政策制定者被称为鸽派，而更关注通胀的政策制定者被称为鹰派。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=6&rangeStart=4731&rangeEnd=4783",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=6&rangeStart=4731&rangeEnd=4783"
+    },
+    {
+      "bookmarkId": "3300035758_9_2747-2790",
+      "chapterUid": 9,
+      "range": "2747-2790",
+      "markText": "与其取消拖欠贷款人的赎回权，还不如与借款人重新谈判以降低月供，同时让他们保住自己的房子",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=9&rangeStart=2747&rangeEnd=2790",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=9&rangeStart=2747&rangeEnd=2790"
+    },
+    {
+      "bookmarkId": "3300035758_11_7647-7733",
+      "chapterUid": 11,
+      "range": "7647-7733",
+      "markText": "美联储2%的通胀目标旨在平衡我们双重任务的两个部分——这个数字低到足以确保物价的稳定，但同时又高到足以保持我们追求充分就业的能力，可以提供降低利率的空间，而不触及有效下限。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=11&rangeStart=7647&rangeEnd=7733",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=11&rangeStart=7647&rangeEnd=7733"
+    },
+    {
+      "bookmarkId": "3300035758_3_1718-1812",
+      "chapterUid": 3,
+      "range": "1718-1812",
+      "markText": "货币政策对通胀产生抑制效果是有时滞的，需要一年或者更长的时间，如果不能在出现通胀苗头的初期就果断采取措施，那么必然会付出更高的政策代价，从而抑制增长。这意味着，货币政策要走在市场曲线前面。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=3&rangeStart=1718&rangeEnd=1812",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=3&rangeStart=1718&rangeEnd=1812"
+    },
+    {
+      "bookmarkId": "3300035758_3_2091-2175",
+      "chapterUid": 3,
+      "range": "2091-2175",
+      "markText": "鲍威尔在2020年8月提出了平均通胀目标的新框架，不介意通胀暂时高于目标，采用更积极的政策来确保充分就业；应对通货膨胀实际上结束了先发制人的策略，走在了市场曲线的后面。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=3&rangeStart=2091&rangeEnd=2175",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=3&rangeStart=2091&rangeEnd=2175"
+    },
+    {
+      "bookmarkId": "3300035758_3_6733-6772",
+      "chapterUid": 3,
+      "range": "6733-6772",
+      "markText": "这是通过在公开市场上出售国债来减少准备金，或者通过购买国债来增加准备金实现的。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=3&rangeStart=6733&rangeEnd=6772",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=3&rangeStart=6733&rangeEnd=6772"
+    },
+    {
+      "bookmarkId": "3300035758_5_19714-19762",
+      "chapterUid": 5,
+      "range": "19714-19762",
+      "markText": "由于所有人都知道增税是暂时的，因此大多数人和企业都用自己的储蓄支付了额外的税收，并维持正常的开支",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=5&rangeStart=19714&rangeEnd=19762",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=5&rangeStart=19714&rangeEnd=19762"
+    },
+    {
+      "bookmarkId": "3300035758_3_5048-5122",
+      "chapterUid": 3,
+      "range": "5048-5122",
+      "markText": "美联储最初成立的时候，最主要的目标不是实施货币政策，而是为了承担最后贷款人的角色，以应对19世纪90年代到20世纪20年代银行体系的挤兑潮、恐慌潮。",
+      "totalCount": 117,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=3&rangeStart=5048&rangeEnd=5122",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=3&rangeStart=5048&rangeEnd=5122"
+    },
+    {
+      "bookmarkId": "3300035758_6_11269-11361",
+      "chapterUid": 6,
+      "range": "11269-11361",
+      "markText": "沃尔克没有选择联邦基金利率的目标水平，而是根据需要调整银行准备金和货币供应量来执行该利率，他建议设定货币数量增长的目标，并允许联邦基金利率根据需要自由调整，以与货币增长的目标保持一致。",
+      "totalCount": 117,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=6&rangeStart=11269&rangeEnd=11361",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=6&rangeStart=11269&rangeEnd=11361"
+    },
+    {
+      "bookmarkId": "3300035758_4_4441-4492",
+      "chapterUid": 4,
+      "range": "4441-4492",
+      "markText": "斯坦利说：“读读这本书，它可能会让你厌烦得要死。但如果它能让你兴奋起来，你就可以考虑研究货币经济学。”",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=4&rangeStart=4441&rangeEnd=4492",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=4&rangeStart=4441&rangeEnd=4492"
+    },
+    {
+      "bookmarkId": "3300035758_16_15439-15453",
+      "chapterUid": 16,
+      "range": "15439-15453",
+      "markText": "即使它们确实加剧了不平等性。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=16&rangeStart=15439&rangeEnd=15453",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=16&rangeStart=15439&rangeEnd=15453"
+    },
+    {
+      "bookmarkId": "3300035758_10_886-938",
+      "chapterUid": 10,
+      "range": "886-938",
+      "markText": "在美联储内部，我们称之为“LSAPs”，即大规模资产购买的简称。其他人则叫它“QE”，是量化宽松的简称。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=10&rangeStart=886&rangeEnd=938",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=10&rangeStart=886&rangeEnd=938"
+    },
+    {
+      "bookmarkId": "3300035758_10_7659-7720",
+      "chapterUid": 10,
+      "range": "7659-7720",
+      "markText": "正如我们能够通过购买大量的抵押贷款支持证券来降低抵押贷款利率一样，我们认为还可以通过购买和持有长期国债来降低长期国债利率。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=10&rangeStart=7659&rangeEnd=7720",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=10&rangeStart=7659&rangeEnd=7720"
+    },
+    {
+      "bookmarkId": "3300035758_15_25930-26286",
+      "chapterUid": 15,
+      "range": "25930-26286",
+      "markText": "尽管存在有效下限，央行的讲话既能减少市场不确定性，又能增加经济刺激。我常常夸张地说，货币政策是98%的空谈和2%的行动。当然，对央行来说，近几十年的主要教训之一是良好的沟通有助于有效的政策制定。",
+      "totalCount": 102,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=15&rangeStart=25930&rangeEnd=26286",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=15&rangeStart=25930&rangeEnd=26286"
+    },
+    {
+      "bookmarkId": "3300035758_8_4155-4253",
+      "chapterUid": 8,
+      "range": "4155-4253",
+      "markText": "美联储的工作人员甚至考虑过，如果持续的盈余导致联邦政府还清了债务，那么该如何实施货币政策。（如果政府没有未清偿的债务，那么美联储将不再能够通过买卖国债来调整银行准备金，从而以惯常的方式调整利率。）",
+      "totalCount": 99,
+      "appLink": "weread://bestbookmark?bookId=3300035758&chapterUid=8&rangeStart=4155&rangeEnd=4253",
+      "webLink": "https://weread.qq.com/web/reader/e4132190813ab7477g0182da?chapterUid=8&rangeStart=4155&rangeEnd=4253"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 16,
+    "chapterOffset": 21342,
+    "progress": 0,
+    "updateTime": 1753246826,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

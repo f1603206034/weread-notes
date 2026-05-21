@@ -24,11 +24,11 @@
     },
     "appLink": "weread://reading?bId=812443",
     "webLink": "https://weread.qq.com/web/reader/47532ac05c659b47554a825",
-    "lastSync": "2026-05-21T10:35:52Z",
+    "lastSync": "2026-05-21T10:48:58Z",
     "readingProgress": "0%",
     "readingTime": "0分钟",
     "finishedDate": "",
-    "noteCount": 2,
+    "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
     "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
@@ -602,27 +602,6 @@
           "webLink": "https://weread.qq.com/web/reader/47532ac05c659b47554a825?chapterUid=52&rangeStart=6613&rangeEnd=6660"
         }
       ]
-    },
-    {
-      "chapterUid": 84,
-      "chapterTitle": "第三十四章",
-      "items": [
-        {
-          "type": "highlight",
-          "bookmarkId": "812443_84_15527-15610",
-          "range": "15527-15610",
-          "rangeStart": 15527,
-          "rangeEnd": 15610,
-          "markText": "入冬后第一次寒潮侵袭白鹿原的那天夜里，前半夜还听见鹿子霖的嚎叫声，后半夜却屏声静气了。天明时，他的女人鹿贺氏才发现他已经僵硬，刚穿上身的棉裤里屎尿结成黄蜡蜡的冰块……",
-          "colorStyle": 3,
-          "colorLabel": "",
-          "createTime": 1779076288,
-          "createTimeFormatted": "2026-05-18 11:51:28",
-          "chapterUid": 84,
-          "appLink": "weread://bestbookmark?bookId=812443&chapterUid=84&rangeStart=15527&rangeEnd=15610",
-          "webLink": "https://weread.qq.com/web/reader/47532ac05c659b47554a825?chapterUid=84&rangeStart=15527&rangeEnd=15610"
-        }
-      ]
     }
   ],
   "bookReviews": [],
@@ -809,10 +788,10 @@
     }
   ],
   "readProgress": {
-    "chapterUid": 52,
-    "chapterOffset": 6507,
+    "chapterUid": 84,
+    "chapterOffset": 15245,
     "progress": 0,
-    "updateTime": 1779270656,
+    "updateTime": 1779360417,
     "recordReadingTime": 0,
     "finishTime": ""
   }

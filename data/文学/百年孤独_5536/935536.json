@@ -12,26 +12,26 @@
     "isbn": "9787573510921",
     "wordCount": 0,
     "newRating": 893,
-    "newRatingCount": 80706,
+    "newRatingCount": 80707,
     "newRatingDetail": {
-      "good": 72938,
+      "good": 72939,
       "fair": 6910,
       "poor": 858,
-      "recent": 511,
+      "recent": 512,
       "deepV": 7552,
       "myRating": "",
       "title": "好评如潮"
     },
     "appLink": "weread://reading?bId=935536",
     "webLink": "https://weread.qq.com/web/reader/8bc329705e46708bcb0c164",
-    "lastSync": "2026-05-21T10:35:35Z",
+    "lastSync": "2026-05-21T10:48:38Z",
     "readingProgress": "99%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
-    "reviewCount": 0,
+    "reviewCount": 2,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "348306fdc0f12214a56c37f4b88007199db2c17263bae945b828f3cf8bccdeb6"
   },
   "chapters": [
     {
@@ -376,19 +376,30 @@
       "chapterTitle": "一",
       "items": [
         {
-          "type": "highlight",
-          "bookmarkId": "935536_25_369-415",
+          "type": "review",
+          "reviewId": "933739075_89gDxgYrf",
+          "range": "475-529",
+          "chapterName": "一",
+          "content": "你好啊",
+          "abstract": "世界新生伊始，许多事物还没有名字，提到的时候尚需用手指指点点。每年三月前后，一家衣衫褴褛的吉卜赛人都会来到村",
+          "star": -1,
+          "createTime": 1779360400,
+          "createTimeFormatted": "2026-05-21 18:46:40",
+          "isFinish": false,
+          "chapterUid": 25
+        },
+        {
+          "type": "review",
+          "reviewId": "933739075_89gDw630a",
           "range": "369-415",
-          "rangeStart": 369,
-          "rangeEnd": 415,
-          "markText": "多年以后，面对行刑队，奥雷里亚诺·布恩迪亚上校将会回想起父亲带他去见识冰块的那个遥远的下午。",
-          "colorStyle": 3,
-          "colorLabel": "",
-          "createTime": 1779085750,
-          "createTimeFormatted": "2026-05-18 14:29:10",
-          "chapterUid": 25,
-          "appLink": "weread://bestbookmark?bookId=935536&chapterUid=25&rangeStart=369&rangeEnd=415",
-          "webLink": "https://weread.qq.com/web/reader/8bc329705e46708bcb0c164?chapterUid=25&rangeStart=369&rangeEnd=415"
+          "chapterName": "一",
+          "content": "测试",
+          "abstract": "多年以后，面对行刑队，奥雷里亚诺·布恩迪亚上校将会回想起父亲带他去见识冰块的那个遥远的下午。",
+          "star": -1,
+          "createTime": 1779360384,
+          "createTimeFormatted": "2026-05-21 18:46:24",
+          "isFinish": false,
+          "chapterUid": 25
         }
       ]
     }
@@ -577,10 +588,10 @@
     }
   ],
   "readProgress": {
-    "chapterUid": 44,
-    "chapterOffset": 10207,
+    "chapterUid": 24,
+    "chapterOffset": 399,
     "progress": 99,
-    "updateTime": 1779326894,
+    "updateTime": 1779360402,
     "recordReadingTime": 0,
     "finishTime": ""
   }

@@ -24,14 +24,14 @@
     },
     "appLink": "weread://reading?bId=935536",
     "webLink": "https://weread.qq.com/web/reader/8bc329705e46708bcb0c164",
-    "lastSync": "2026-05-21T10:48:38Z",
+    "lastSync": "2026-05-21T11:02:00Z",
     "readingProgress": "99%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 2,
     "bookmarkCount": 0,
-    "contentHash": "348306fdc0f12214a56c37f4b88007199db2c17263bae945b828f3cf8bccdeb6"
+    "contentHash": "0f6cee3eb9c77e3199bb7427ab94de49fd08d7ff59d426800e94838c19a69329"
   },
   "chapters": [
     {
@@ -380,7 +380,7 @@
           "reviewId": "933739075_89gDxgYrf",
           "range": "475-529",
           "chapterName": "一",
-          "content": "你好啊（已修改）",
+          "content": "第二次哈希测试比对",
           "abstract": "世界新生伊始，许多事物还没有名字，提到的时候尚需用手指指点点。每年三月前后，一家衣衫褴褛的吉卜赛人都会来到村",
           "star": -1,
           "createTime": 1779360400,
@@ -393,7 +393,7 @@
           "reviewId": "933739075_89gDw630a",
           "range": "369-415",
           "chapterName": "一",
-          "content": "测试",
+          "content": "修改了一下笔记",
           "abstract": "多年以后，面对行刑队，奥雷里亚诺·布恩迪亚上校将会回想起父亲带他去见识冰块的那个遥远的下午。",
           "star": -1,
           "createTime": 1779360384,
@@ -588,10 +588,10 @@
     }
   ],
   "readProgress": {
-    "chapterUid": 24,
-    "chapterOffset": 399,
+    "chapterUid": 25,
+    "chapterOffset": 338,
     "progress": 99,
-    "updateTime": 1779360402,
+    "updateTime": 1779361113,
     "recordReadingTime": 0,
     "finishTime": ""
   }

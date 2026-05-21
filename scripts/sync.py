@@ -538,19 +538,12 @@ def sync_full(client: WeReadClient, resume: bool = False, force: bool = False):
             logger.info("跳过已同步: %s (%s)", title, book_id)
             continue
 
-        # 非强制模式：检查是否需要同步（同增量逻辑）
-        if not force and not resume:
-            if not need_sync(book_id, nb, index):
-                skipped += 1
-                logger.debug("跳过未变更: %s", title)
-                continue
-
         try:
             book_data = fetch_book_data(client, book_id)
             new_hash = book_data["meta"]["contentHash"]
 
-            # 全量模式：比对内容哈希，避免无意义的重建
-            if force:
+            # 非强制模式：比对内容哈希，避免无意义的重建
+            if not force:
                 json_path = get_book_file_path(book_id, title, category) / f"{book_id}.json"
                 old_book_data = load_json(json_path)
                 if old_book_data:

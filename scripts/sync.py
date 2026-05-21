@@ -14,6 +14,7 @@
 """
 
 import argparse
+import hashlib
 import json
 import logging
 import sys
@@ -48,6 +49,49 @@ logging.basicConfig(
     datefmt="%Y-%m-%d %H:%M:%S",
 )
 logger = logging.getLogger("sync")
+
+
+def _compute_content_hash(book_data: dict) -> str:
+    """计算书籍内容哈希（仅包含想法/点评内容）
+
+    用于检测单条想法/书评的文字修改（微信读书 API 无法直接检测此类变更）。
+    只包含会渲染到 Markdown/Notion 的想法和书评内容，排除划线、章节、进度等。
+
+    Args:
+        book_data: 完整的书籍 JSON 数据
+
+    Returns:
+        SHA256 哈希值（64 位十六进制字符串）
+    """
+    # 提取所有想法内容（章节内的想法）
+    reviews_data = []
+    for chapter_content in book_data.get("content", []):
+        for item in chapter_content.get("items", []):
+            if item.get("type") == "review":
+                reviews_data.append({
+                    "content": item.get("content", ""),
+                    "abstract": item.get("abstract", ""),
+                    "star": item.get("star", -1),
+                })
+
+    # 提取本书评论（整本书评）
+    book_reviews_data = []
+    for rv in book_data.get("bookReviews", []):
+        book_reviews_data.append({
+            "content": rv.get("content", ""),
+            "star": rv.get("star", -1),
+            "isFinish": rv.get("isFinish", False),
+        })
+
+    # 构建用于哈希的数据结构
+    hash_source = {
+        "reviews": reviews_data,
+        "bookReviews": book_reviews_data,
+    }
+
+    # 规范化 JSON 字符串（排序 key，确保一致性）
+    json_str = json.dumps(hash_source, sort_keys=True, ensure_ascii=False, separators=(",", ":"))
+    return hashlib.sha256(json_str.encode("utf-8")).hexdigest()
 
 
 def get_book_file_path(book_id: str, title: str, category: str) -> Path:
@@ -290,6 +334,12 @@ def fetch_book_data(client: WeReadClient, book_id: str) -> dict:
     review_count = len(reviews) + len(book_reviews)
     bookmark_count = 0  # 书签内容不可导出，只统计数量
 
+    # 计算内容哈希（仅基于想法/点评内容，用于检测文字修改）
+    content_hash = _compute_content_hash({
+        "content": list(content_by_chapter.values()),
+        "bookReviews": book_reviews,
+    })
+
     book_data = {
         "meta": {
             "bookId": book_id,
@@ -315,6 +365,7 @@ def fetch_book_data(client: WeReadClient, book_id: str) -> dict:
             "noteCount": note_count,
             "reviewCount": review_count,
             "bookmarkCount": bookmark_count,
+            "contentHash": content_hash,
         },
         "chapters": [
             {
@@ -496,6 +547,34 @@ def sync_full(client: WeReadClient, resume: bool = False, force: bool = True):
 
         try:
             book_data = fetch_book_data(client, book_id)
+            new_hash = book_data["meta"]["contentHash"]
+
+            # 全量模式：比对内容哈希，避免无意义的重建
+            if force:
+                json_path = get_book_file_path(book_id, title, category) / f"{book_id}.json"
+                old_book_data = load_json(json_path)
+                if old_book_data:
+                    old_hash = old_book_data.get("meta", {}).get("contentHash", "")
+                    if old_hash and old_hash == new_hash:
+                        # 内容未变，跳过保存和 Notion 推送，只更新索引中的 sort
+                        now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+                        book_dir_rel = Path(extract_category(category)) / get_folder_name(title, book_id)
+                        index["books"][book_id] = {
+                            "title": title,
+                            "category": extract_category(category),
+                            "path": str(book_dir_rel / f"{book_id}.json"),
+                            "sort": nb.get("sort", 0),
+                            "noteCount": nb.get("noteCount", 0),
+                            "reviewCount": nb.get("reviewCount", 0),
+                            "bookmarkCount": nb.get("bookmarkCount", 0),
+                            "lastSync": now_utc,
+                        }
+                        index["lastGlobalSync"] = now_utc
+                        save_index(index)
+                        skipped += 1
+                        logger.info("内容未变，跳过: %s", title)
+                        continue
+
             json_path = save_book_data(book_data, title, category)
 
             # 推送 Notion（直接覆盖）

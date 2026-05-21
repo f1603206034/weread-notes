@@ -5,10 +5,11 @@
 ## 功能特性
 
 - **增量同步**：只同步有变化的书籍，高效快速
-- **全量同步**：强制重新拉取所有书籍，用于数据修复
+- **全量同步**：智能内容比对，避免无意义的数据重建
 - **双平台推送**：同步到 GitHub 仓库和 Notion 数据库
-- **自动定时**：每日自动同步，也可手动触发
+- **自动定时**：每周自动全量同步 + 每日增量同步
 - **本地备份**：JSON + Markdown 双格式保存
+- **内容哈希**：通过 SHA256 检测想法/书评的文字修改
 
 ## 项目结构
 
@@ -16,7 +17,7 @@
 .
 ├── .github/workflows/      # GitHub Actions 工作流
 │   ├── daily-sync.yml      # 每日增量同步（北京时间 8:00）
-│   └── manual-full-sync.yml # 手动全量同步
+│   └── manual-full-sync.yml # 每周全量同步（北京时间 2:00）
 ├── scripts/                # 核心脚本
 │   ├── api.py             # 微信读书 API 封装
 │   ├── config.py          # 配置管理
@@ -70,8 +71,14 @@ pip install -r requirements.txt
 # 增量同步（推荐日常使用）
 python scripts/sync.py --mode incremental
 
-# 全量同步（强制重新拉取所有书籍）
+# 全量同步（智能跳过，内容未变则不重建）
 python scripts/sync.py --mode full
+
+# 全量同步（强制重建所有书籍，禁用智能跳过）
+python scripts/sync.py --mode full --no-skip
+
+# 断点续传（跳过已同步的书籍）
+python scripts/sync.py --mode full --resume
 ```
 
 ### 4. GitHub Actions 自动同步
@@ -81,8 +88,9 @@ python scripts/sync.py --mode full
    - `WEREAD_API_KEY`
    - `NOTION_API_KEY`
    - `NOTION_DATABASE_ID`
-3. 每日北京时间 8:00 自动运行增量同步
-4. 也可在 Actions 页面手动触发全量同步
+3. 每周一北京时间 2:00 自动运行全量同步
+4. 每日北京时间 8:00 自动运行增量同步
+5. 可在 Actions 页面手动触发同步任务
 
 ## 同步逻辑
 
@@ -102,10 +110,26 @@ python scripts/sync.py --mode full
 
 ### 全量同步
 
-强制重新拉取所有书籍，用于：
-- 修复数据不一致
-- 同步微信读书端的"修改笔记"操作（增量同步检测不到）
-- 数据完整性校验
+智能全量同步，通过内容哈希比对避免无意义重建：
+
+- 拉取所有书籍数据
+- 计算每本书籍的内容哈希（基于想法/书评）
+- 比对本地数据：
+  - **内容未变**：仅更新索引中的 sort，跳过文件和 Notion 推送
+  - **内容已变**：重新写入 JSON、渲染 Markdown、推送 Notion
+
+使用 `--no-skip` 参数可强制重建所有书籍。
+
+### 内容哈希机制
+
+内容哈希（SHA256）仅基于以下数据计算：
+
+- 章节内的想法/点评（review）
+- 整本书的书评（bookReviews）
+
+排除的数据：划线、章节信息、阅读进度等。
+
+用于检测微信读书端的"修改想法/书评"操作（增量同步无法检测此类变更）。
 
 ## 数据格式
 
@@ -121,6 +145,7 @@ python scripts/sync.py --mode full
     "noteCount": 10,
     "reviewCount": 5,
     "bookmarkCount": 3,
+    "contentHash": "sha256哈希值",
     "lastSync": "2024-01-01T12:00:00Z"
   },
   "content": [
@@ -158,7 +183,7 @@ python scripts/sync.py --mode full
 1. **API 密钥安全**：`.env` 文件不要提交到 GitHub，使用 GitHub Secrets
 2. **Notion 速率限制**：每秒最多 3 次请求，已内置限速
 3. **删除的书籍**：本地会保留备份，不会自动删除
-4. **修改的笔记**：增量同步检测不到，需要全量同步覆盖
+4. **修改的笔记**：增量同步检测不到想法/书评的文字修改，由每周全量同步自动检测
 
 ## 许可证
 
